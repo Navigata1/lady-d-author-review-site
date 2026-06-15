@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo static site ready"
+  },
+  "devDependencies": {}
+}
