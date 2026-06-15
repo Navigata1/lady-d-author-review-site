@@ -1,0 +1,60 @@
+# Lady D Publishing Folder Manifest
+
+- `_Drive Intake/2026-06-14 Google Meet - Lady D Devotional`
+- `Author Voice/Transcripts`
+- `Author Voice/Audio`
+- `Author Voice/Voice Notes Intake`
+- `Rights & Permissions/Scripture Translation Ledger`
+- `Release Records/KDP Research`
+- `Release Records/Invoices & Payment Plans`
+- `Series Bible/Surrendering to God’s Love Devotional System`
+- `Book Lanes/01 Surrendering to God’s Love - Volume 1 God the Father/Manuscript`
+- `Book Lanes/01 Surrendering to God’s Love - Volume 1 God the Father/Interior`
+- `Book Lanes/01 Surrendering to God’s Love - Volume 1 God the Father/Companion Journal`
+- `Book Lanes/01 Surrendering to God’s Love - Volume 1 God the Father/Cover Concepts/Prompt Packs`
+- `Book Lanes/01 Surrendering to God’s Love - Volume 1 God the Father/Cover Concepts/Generated Renders`
+- `Book Lanes/01 Surrendering to God’s Love - Volume 1 God the Father/Supporting Materials`
+- `Book Lanes/01 Surrendering to God’s Love - Volume 1 God the Father/Forward & Endorsements`
+- `Book Lanes/01 Surrendering to God’s Love - Volume 1 God the Father/Audio/Audiobook`
+- `Book Lanes/01 Surrendering to God’s Love - Volume 1 God the Father/Publishing/Platform Research`
+- `Book Lanes/01 Surrendering to God’s Love - Volume 1 God the Father/Exports`
+- `Book Lanes/02 Walking with Jesus - Volume 2 The Son/Manuscript`
+- `Book Lanes/02 Walking with Jesus - Volume 2 The Son/Interior`
+- `Book Lanes/02 Walking with Jesus - Volume 2 The Son/Companion Journal`
+- `Book Lanes/02 Walking with Jesus - Volume 2 The Son/Cover Concepts/Prompt Packs`
+- `Book Lanes/02 Walking with Jesus - Volume 2 The Son/Cover Concepts/Generated Renders`
+- `Book Lanes/02 Walking with Jesus - Volume 2 The Son/Supporting Materials`
+- `Book Lanes/02 Walking with Jesus - Volume 2 The Son/Forward & Endorsements`
+- `Book Lanes/02 Walking with Jesus - Volume 2 The Son/Audio/Audiobook`
+- `Book Lanes/02 Walking with Jesus - Volume 2 The Son/Publishing/Platform Research`
+- `Book Lanes/02 Walking with Jesus - Volume 2 The Son/Exports`
+- `Book Lanes/03 Filled with the Holy Spirit - Volume 3 The Spirit/Manuscript`
+- `Book Lanes/03 Filled with the Holy Spirit - Volume 3 The Spirit/Interior`
+- `Book Lanes/03 Filled with the Holy Spirit - Volume 3 The Spirit/Companion Journal`
+- `Book Lanes/03 Filled with the Holy Spirit - Volume 3 The Spirit/Cover Concepts/Prompt Packs`
+- `Book Lanes/03 Filled with the Holy Spirit - Volume 3 The Spirit/Cover Concepts/Generated Renders`
+- `Book Lanes/03 Filled with the Holy Spirit - Volume 3 The Spirit/Supporting Materials`
+- `Book Lanes/03 Filled with the Holy Spirit - Volume 3 The Spirit/Forward & Endorsements`
+- `Book Lanes/03 Filled with the Holy Spirit - Volume 3 The Spirit/Audio/Audiobook`
+- `Book Lanes/03 Filled with the Holy Spirit - Volume 3 The Spirit/Publishing/Platform Research`
+- `Book Lanes/03 Filled with the Holy Spirit - Volume 3 The Spirit/Exports`
+- `Book Lanes/04 Walking with Jesus - 31 Day Visual Devotional/Manuscript`
+- `Book Lanes/04 Walking with Jesus - 31 Day Visual Devotional/Interior`
+- `Book Lanes/04 Walking with Jesus - 31 Day Visual Devotional/Companion Journal`
+- `Book Lanes/04 Walking with Jesus - 31 Day Visual Devotional/Cover Concepts/Prompt Packs`
+- `Book Lanes/04 Walking with Jesus - 31 Day Visual Devotional/Cover Concepts/Generated Renders`
+- `Book Lanes/04 Walking with Jesus - 31 Day Visual Devotional/Supporting Materials`
+- `Book Lanes/04 Walking with Jesus - 31 Day Visual Devotional/Forward & Endorsements`
+- `Book Lanes/04 Walking with Jesus - 31 Day Visual Devotional/Audio/Audiobook`
+- `Book Lanes/04 Walking with Jesus - 31 Day Visual Devotional/Publishing/Platform Research`
+- `Book Lanes/04 Walking with Jesus - 31 Day Visual Devotional/Exports`
+- `Book Lanes/05 Being Covered Through the Storm - Testimony Book/Manuscript`
+- `Book Lanes/05 Being Covered Through the Storm - Testimony Book/Interior`
+- `Book Lanes/05 Being Covered Through the Storm - Testimony Book/Companion Journal`
+- `Book Lanes/05 Being Covered Through the Storm - Testimony Book/Cover Concepts/Prompt Packs`
+- `Book Lanes/05 Being Covered Through the Storm - Testimony Book/Cover Concepts/Generated Renders`
+- `Book Lanes/05 Being Covered Through the Storm - Testimony Book/Supporting Materials`
+- `Book Lanes/05 Being Covered Through the Storm - Testimony Book/Forward & Endorsements`
+- `Book Lanes/05 Being Covered Through the Storm - Testimony Book/Audio/Audiobook`
+- `Book Lanes/05 Being Covered Through the Storm - Testimony Book/Publishing/Platform Research`
+- `Book Lanes/05 Being Covered Through the Storm - Testimony Book/Exports`
