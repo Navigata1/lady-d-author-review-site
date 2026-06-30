@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lady D Production Pilot - IDC Publishing</title>
+  <style>
+    :root {
+      --ink: #111827;
+      --muted: #5b6474;
+      --paper: #fffdf8;
+      --mist: #f5f2eb;
+      --indigo: #182646;
+      --plum: #56325f;
+      --gold: #c99335;
+      --rose: #a35f68;
+      --teal: #1d716f;
+      --line: rgba(17, 24, 39, .14);
+      --shadow: 0 24px 70px rgba(24, 38, 70, .14);
+      --radius: 8px;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.55;
+      background:
+        radial-gradient(circle at 16% 0, rgba(201, 147, 53, .18), transparent 30%),
+        linear-gradient(180deg, #fffdf8 0%, #f5f2eb 100%);
+    }
+
+    a { color: var(--plum); text-underline-offset: 3px; }
+
+    .nav {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      overflow-x: auto;
+      padding: 12px clamp(16px, 4vw, 42px);
+      background: rgba(17, 24, 39, .94);
+      backdrop-filter: blur(16px);
+    }
+
+    .brand {
+      flex: 0 0 auto;
+      color: white;
+      font-weight: 900;
+      margin-right: 10px;
+    }
+
+    .nav a {
+      flex: 0 0 auto;
+      color: rgba(255, 255, 255, .88);
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 850;
+      padding: 8px 10px;
+      border-radius: 999px;
+    }
+
+    .nav a:hover { color: white; background: rgba(255, 255, 255, .11); }
+
+    .wrap { max-width: 1180px; margin: 0 auto; padding: clamp(22px, 5vw, 58px) clamp(16px, 4vw, 28px); }
+
+    .hero {
+      min-height: 74vh;
+      display: grid;
+      grid-template-columns: minmax(0, 1.05fr) minmax(320px, .95fr);
+      gap: 32px;
+      align-items: center;
+    }
+
+    h1, h2, h3 {
+      margin: 0 0 14px;
+      font-family: Georgia, "Times New Roman", serif;
+      line-height: 1.04;
+      letter-spacing: 0;
+    }
+
+    h1 { font-size: clamp(46px, 7vw, 92px); }
+    h2 { font-size: clamp(32px, 4vw, 54px); }
+    h3 { font-size: clamp(23px, 2.5vw, 34px); }
+
+    p { margin: 0 0 14px; }
+
+    .kicker {
+      color: var(--plum);
+      font-size: 12px;
+      font-weight: 900;
+      letter-spacing: .15em;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+
+    .lead {
+      max-width: 760px;
+      color: #2e3746;
+      font-size: clamp(18px, 2vw, 23px);
+      line-height: 1.42;
+    }
+
+    .panel, .day, .cover, .audit {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: rgba(255, 253, 248, .92);
+      box-shadow: var(--shadow);
+    }
+
+    .panel { padding: 22px; }
+
+    .stats, .downloads, .days, .covers, .audits {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 14px;
+    }
+
+    .stat, .download {
+      padding: 16px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: white;
+    }
+
+    .stat strong {
+      display: block;
+      color: var(--indigo);
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 34px;
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+
+    .section {
+      padding-top: 52px;
+      border-top: 1px solid rgba(17, 24, 39, .1);
+    }
+
+    .section:first-of-type { border-top: 0; }
+
+    .day { padding: 18px; box-shadow: none; background: white; }
+    .day small, .cover small { color: var(--muted); font-weight: 850; }
+
+    .day p { color: #394253; }
+
+    .cover {
+      overflow: hidden;
+      background: white;
+      box-shadow: none;
+    }
+
+    .cover img {
+      width: 100%;
+      display: block;
+      aspect-ratio: 2 / 3;
+      object-fit: cover;
+      background: #ddd;
+    }
+
+    .cover .body { padding: 16px; }
+
+    .score {
+      display: inline-flex;
+      align-items: center;
+      min-height: 30px;
+      padding: 5px 10px;
+      border-radius: 999px;
+      color: white;
+      background: linear-gradient(135deg, var(--plum), var(--gold));
+      font-size: 12px;
+      font-weight: 900;
+    }
+
+    .callout {
+      border-left: 5px solid var(--teal);
+      border-radius: var(--radius);
+      background: rgba(29, 113, 111, .1);
+      padding: 16px;
+    }
+
+    .warning {
+      border-left-color: var(--rose);
+      background: rgba(163, 95, 104, .1);
+    }
+
+    .audit { padding: 18px; box-shadow: none; background: white; }
+
+    .footer { color: var(--muted); font-size: 14px; padding-top: 34px; }
+
+    @media (max-width: 860px) {
+      .hero { grid-template-columns: 1fr; min-height: auto; }
+      .nav { padding-inline: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav" aria-label="Production review navigation">
+    <div class="brand">Lady D Production</div>
+    <a href="/">Architecture Site</a>
+    <a href="#pilot">Seven-Day Pilot</a>
+    <a href="#covers">Cover Board</a>
+    <a href="#downloads">Downloads</a>
+    <a href="#next">Next Loop</a>
+  </nav>
+
+  <main>
+    <section class="wrap hero">
+      <div>
+        <div class="kicker">IDC Publishing production update</div>
+        <h1>Volume 1 has moved from architecture into manuscript.</h1>
+        <p class="lead">This review page presents the first completed production slice for <em>Surrendering to God's Love</em>: seven devotional days, companion journal pages, a judge/auditor report, and three first-pass cover art directions.</p>
+      </div>
+      <aside class="panel">
+        <div class="kicker">Current release state</div>
+        <p><strong>This is not a final KDP upload package yet.</strong> It is the first manuscript pilot and cover board for author review while production continues into the next seven-day batch.</p>
+        <div class="callout warning">
+          <p><strong>Adventist guardrail:</strong> Sabbath language is protected as seventh-day/Saturday Sabbath. Obedience is framed as response to grace, not a way to earn God's love.</p>
+        </div>
+      </aside>
+    </section>
+
+    <section class="wrap section">
+      <div class="stats">
+        <div class="stat"><strong>7</strong>reader-ready devotional days drafted.</div>
+        <div class="stat"><strong>3</strong>cover art directions generated and inspected.</div>
+        <div class="stat"><strong>5</strong>judge/auditor loops applied to the pilot.</div>
+        <div class="stat"><strong>1</strong>production lens correction recorded for scripture accuracy.</div>
+      </div>
+    </section>
+
+    <section class="wrap section" id="pilot">
+      <div class="kicker">Manuscript pilot</div>
+      <h2>January Days 001-007</h2>
+      <p class="lead">The full prose is available in the downloadable manuscript file. These cards show the author-facing shape of the week.</p>
+      <div class="days">
+        <article class="day">
+          <small>Day 001 - Deuteronomy 7:8</small>
+          <h3>Awaken the Father's Welcome</h3>
+          <p>God's love does not begin with performance. The day starts with belonging before bargaining.</p>
+        </article>
+        <article class="day">
+          <small>Day 002 - Deuteronomy 7:9</small>
+          <h3>Embrace Beloved Identity</h3>
+          <p>Redemption is treated as near-kin love: the Father does not rescue from a distance.</p>
+        </article>
+        <article class="day">
+          <small>Day 003 - Deuteronomy 10:12</small>
+          <h3>Remember Love That Finds You</h3>
+          <p>Faithfulness becomes ordinary worship inside real family, work, grief, ministry, and prayer.</p>
+        </article>
+        <article class="day">
+          <small>Day 004 - Deuteronomy 10:15</small>
+          <h3>Walk in Grace Before Performance</h3>
+          <p>The Father reaches the heart before the heart knows how to make itself whole.</p>
+        </article>
+        <article class="day">
+          <small>Day 005 - Deuteronomy 10:18</small>
+          <h3>Let Peace Lead Mercy in the Morning</h3>
+          <p>God's love becomes visible through practical mercy toward the overlooked.</p>
+        </article>
+        <article class="day">
+          <small>Day 006 - Deuteronomy 30:20</small>
+          <h3>Choose the Father's Patience</h3>
+          <p>Surrender means clinging to God when anxiety wants to control the timeline.</p>
+        </article>
+        <article class="day">
+          <small>Day 007 - Deuteronomy 30:6</small>
+          <h3>Listen for Love Stronger Than Fear</h3>
+          <p>The production lens was corrected from a weaker architecture fit to inward heart renewal.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="wrap section" id="covers">
+      <div class="kicker">Cover board</div>
+      <h2>First three Volume 1 cover directions</h2>
+      <p class="lead">These are art-first front cover concepts. Final title, subtitle, author line, spine, and back cover should be built manually after the interior page count is stable.</p>
+      <div class="covers">
+        <article class="cover">
+          <img src="production-assets/cover-01-sanctuary-of-sunrise-art.png" alt="Sanctuary of Sunrise cover art concept">
+          <div class="body">
+            <span class="score">8.8/10</span>
+            <h3>Sanctuary of Sunrise</h3>
+            <p>Warm, intimate, reverent, and author-heart aligned.</p>
+          </div>
+        </article>
+        <article class="cover">
+          <img src="production-assets/cover-02-path-of-surrender-art.png" alt="Path of Surrender cover art concept">
+          <div class="body">
+            <span class="score">9.1/10</span>
+            <h3>The Path of Surrender</h3>
+            <p>Strongest first KDP retail candidate because the metaphor and thumbnail structure are clear.</p>
+          </div>
+        </article>
+        <article class="cover">
+          <img src="production-assets/cover-03-modern-sacred-minimal-art.png" alt="Modern Sacred Minimal cover art concept">
+          <div class="body">
+            <span class="score">9.0/10</span>
+            <h3>Modern Sacred Minimal</h3>
+            <p>Best trilogy-brand candidate with premium clothbound and gold-foil character.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="wrap section">
+      <div class="kicker">Audit result</div>
+      <h2>Judge and auditor pass</h2>
+      <div class="audits">
+        <div class="audit"><h3>Source alignment</h3><p>Passed with one transparent production correction on Day 007.</p></div>
+        <div class="audit"><h3>Voice and impact</h3><p>Passed for warm, mature, practical devotional tone.</p></div>
+        <div class="audit"><h3>Repetition</h3><p>Passed with monitoring. Future batches should continue freshening impact lines.</p></div>
+        <div class="audit"><h3>Adventist consistency</h3><p>Passed. Sabbath and grace/obedience framing are protected.</p></div>
+      </div>
+    </section>
+
+    <section class="wrap section" id="downloads">
+      <div class="kicker">Downloads</div>
+      <h2>Production pilot package</h2>
+      <div class="downloads">
+        <a class="download" href="downloads/production/Lady-D-Volume-1-Pilot-Production-Pack.zip">Download full pilot pack</a>
+        <a class="download" href="downloads/production/volume-1-days-001-007-pilot-manuscript.md">Manuscript: Days 001-007</a>
+        <a class="download" href="downloads/production/volume-1-january-week-1-companion-journal.md">Companion journal: Week 1</a>
+        <a class="download" href="downloads/production/volume-1-days-001-007-audit.md">Judge/auditor report</a>
+        <a class="download" href="downloads/production/volume-1-cover-review-board.md">Cover review board notes</a>
+      </div>
+    </section>
+
+    <section class="wrap section" id="next">
+      <div class="kicker">Next production loop</div>
+      <h2>Continuing without stopping</h2>
+      <p class="lead">The next loop is January Days 008-014, followed by the same judge/auditor pass and a site update. Volume 2 and Volume 3 folders are already established for the same process.</p>
+      <div class="callout">
+        <p><strong>Active production instruction:</strong> keep moving in seven-day manuscript batches, update the review site after meaningful completed artifacts, and preserve the Adventist theological guardrails throughout.</p>
+      </div>
+      <p class="footer">Generated by IDC Publishing production workflow on 2026-06-30.</p>
+    </section>
+  </main>
+</body>
+</html>
