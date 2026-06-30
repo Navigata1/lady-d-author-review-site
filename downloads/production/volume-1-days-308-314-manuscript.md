@@ -168,7 +168,7 @@ Compassion can teach the bowed heart how to stand again.
 
 Covenant mercy awakens when the heart refuses to sit in God's chair. Genesis 50:19 shows Joseph answering fear without claiming the right to become judge over what belongs to God. His response creates peace because it restores the right order.
 
-Revenge often disguises itself as clarity. Panic can disguise itself as responsibility. Control can sound spiritual when the wound is deep enough. But shalom restores what pressure scattered by putting God back in the place only God can occupy.
+Revenge often disguises itself as clarity. Fear can disguise itself as responsibility. Control can sound spiritual when the wound is deep enough. But shalom restores what pressure scattered by putting God back in the place only God can occupy.
 
 Awaken covenant mercy by asking where you are tempted to take over the verdict. This does not mean pretending evil was harmless. It does not mean avoiding boundaries, truth, or accountability. It means refusing the poisonous authority of becoming God over another person's life.
 
