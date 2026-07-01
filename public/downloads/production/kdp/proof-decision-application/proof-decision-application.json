@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-01",
-  "commit": "0f0d1c4",
+  "commit": "f85e049",
   "author": "Susan \"Lady D\" Damon",
   "status": "proof_decisions_applied_queue_clear_not_final_upload",
   "prior_queue_totals": {
@@ -19,17 +19,17 @@
     "morning_impact_decisions": 0,
     "theology_decisions": 0,
     "likely_grace_aligned_watch_contexts": 356,
-    "source_words_checked": 369480,
+    "source_words_checked": 369482,
     "sunday_mentions": 0,
     "placeholder_markers": 0
   },
   "current_proof_audit_totals": {
     "products": 6,
-    "words": 369480,
+    "words": 369482,
     "placeholders": 0,
     "sunday_mentions": 0,
     "sabbath_mentions": 1301,
-    "saturday_mentions": 206,
+    "saturday_mentions": 207,
     "works_watch_contexts": 356,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,

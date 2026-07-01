@@ -2449,7 +2449,7 @@ Ask what boundary is protecting the promise rather than punishing your desire. T
 
 **Journal prompt:** What boundary may be protecting God's promise in me rather than punishing me?
 
-**Morning impact:** Let the Father's love carry Let Fire Refine Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Receive one boundary as mercy today; the Father can bless you while narrowing the road.
 
 ---
 
@@ -2477,7 +2477,7 @@ The Father knows how to turn a hard resting place into a place of encounter.
 
 **Journal prompt:** Where do I need to hear God's promise while I am still on the road?
 
-**Morning impact:** Let the Father's love carry Come Home to Restoring Compassion into one faithful step today.
+**Morning impact:** Let the lonely road become a meeting place today; covenant compassion can find you there.
 
 ---
 
@@ -2505,7 +2505,7 @@ Do not rush past the verse. Ask where the Father is inviting you to remember, "G
 
 **Journal prompt:** What place in my story needs a truer name because God met me there?
 
-**Morning impact:** Let the Father's love carry Practice the Promise That Holds into one faithful step today.
+**Morning impact:** Write the truer name today; God's presence can outlast what fear first called that place.
 
 ---
 
@@ -2533,7 +2533,7 @@ Love that sends you does not abandon you on the road. It gives direction because
 
 **Journal prompt:** What is one faithful mercy step I can take without pretending everything is already healed?
 
-**Morning impact:** Let the Father's love carry Trust Love That Sends You into one faithful step today.
+**Morning impact:** Choose one safe mercy step today; love that sends you does not ask you to pretend.
 
 ---
 
@@ -2561,7 +2561,7 @@ Take one surrendered step before worry gets the first word. Hope will not always
 
 **Journal prompt:** What have I already heard clearly that now needs movement?
 
-**Morning impact:** Let the Father's love carry Let Hope Rise Covenant Mercy into one faithful step today.
+**Morning impact:** Move one clear mercy insight into action today; hope often rises with dust on its feet.
 
 ---
 
@@ -2589,7 +2589,7 @@ Let prayer turn insight into obedience before noon. Mercy that sees clearly can 
 
 **Journal prompt:** What pattern is God helping me see clearly enough to change?
 
-**Morning impact:** Let the Father's love carry Carry the Father's Welcome into one faithful step today.
+**Morning impact:** Let conviction become clarity today; you can see what must change without surrendering belovedness.
 
 ---
 
@@ -2617,7 +2617,7 @@ Let God's company quiet the fear that mercy must be carried by your strength alo
 
 **Journal prompt:** Where do I need to remember that God's company is with me on the road of mercy?
 
-**Morning impact:** Let the Father's love carry Lean Into Beloved Identity into one faithful step today.
+**Morning impact:** Rest this Saturday in God's company; mercy does not have to be carried by your strength.
 
 ---
 

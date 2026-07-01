@@ -912,6 +912,80 @@ BATCHES = {
             "volume-1-days-081-087-audit.md",
         ),
     ),
+    "volume-1-days-088-094": Batch(
+        key="volume-1-days-088-094",
+        scope="Volume 1 Days 088-094",
+        title="Volume 1 Days 088-094 Line Edit",
+        intro=(
+            "The March close and April opening of Surrendering to God's Love "
+            "has moved from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame "
+            "while preserving boundary-as-mercy, road compassion, renamed places, "
+            "safe concrete mercy, listening that becomes movement, conviction "
+            "without shame, and Saturday Sabbath rest in beloved identity."
+        ),
+        source_name="volume-1-days-088-094-manuscript.md",
+        public_page_name="volume-1-days-088-094-line-edit.html",
+        output_slug="volume-1-days-088-094-line-edit",
+        zip_name="Lady-D-Volume-1-Days-088-094-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 04 - April" / "Days 088-094 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 088-094",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 088",
+                "Let the Father's love carry Let Fire Refine Love Stronger Than Fear into one faithful step today.",
+                "Receive one boundary as mercy today; the Father can bless you while narrowing the road.",
+                "Keeps Isaac's blessing-and-charge frame concrete without treating boundaries as rejection.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 089",
+                "Let the Father's love carry Come Home to Restoring Compassion into one faithful step today.",
+                "Let the lonely road become a meeting place today; covenant compassion can find you there.",
+                "Preserves Jacob's vulnerable road encounter and keeps compassion active before home feels restored.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 090",
+                "Let the Father's love carry Practice the Promise That Holds into one faithful step today.",
+                "Write the truer name today; God's presence can outlast what fear first called that place.",
+                "Turns Bethel/Luz renaming into a practical testimony step without pretending the old name vanished.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 091",
+                "Let the Father's love carry Trust Love That Sends You into one faithful step today.",
+                "Choose one safe mercy step today; love that sends you does not ask you to pretend.",
+                "Keeps forgiveness practical while preserving pastoral safety and truth.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 092",
+                "Let the Father's love carry Let Hope Rise Covenant Mercy into one faithful step today.",
+                "Move one clear mercy insight into action today; hope often rises with dust on its feet.",
+                "Connects Jacob's listening-and-going response to visible movement without making obedience performative.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 093",
+                "Let the Father's love carry Carry the Father's Welcome into one faithful step today.",
+                "Let conviction become clarity today; you can see what must change without surrendering belovedness.",
+                "Preserves conviction without shame and keeps the Father's welcome stronger than accusation.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 094",
+                "Let the Father's love carry Lean Into Beloved Identity into one faithful step today.",
+                "Rest this Saturday in God's company; mercy does not have to be carried by your strength.",
+                "Preserves seventh-day Sabbath rest and beloved identity as God's nearness on the mercy road.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-march-close-and-april-week-1-companion-journal.md",
+            "volume-1-days-088-094-audit.md",
+        ),
+    ),
 }
 
 
@@ -1404,6 +1478,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-067-073-line-edit.html">Days 067-073</a>
     <a href="volume-1-days-074-080-line-edit.html">Days 074-080</a>
     <a href="volume-1-days-081-087-line-edit.html">Days 081-087</a>
+    <a href="volume-1-days-088-094-line-edit.html">Days 088-094</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -1507,7 +1582,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-081-087")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-088-094")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 
