@@ -789,7 +789,7 @@ Lean into mercy by receiving what God has made plain. You do not have to solve t
 
 **Journal prompt:** What has God already made near to my heart that I keep treating as far away?
 
-**Morning impact:** Let the Father's love carry Lean Into Mercy in the Morning into one faithful step today.
+**Morning impact:** Receive the near word this morning; mercy has already placed the next step within reach.
 
 ---
 
@@ -815,7 +815,7 @@ The Father is patient enough to keep teaching the same truth without contempt. H
 
 **Journal prompt:** Where do I need to see obedience again through the Father's patience instead of through fear?
 
-**Morning impact:** Let the Father's love carry See Again the Father's Patience into one faithful step today.
+**Morning impact:** Walk the command as a loved child today; the Father's way is life, not rejection.
 
 ---
 
@@ -841,7 +841,7 @@ As January closes, let the depth of God's love become more than comfort. Let it 
 
 **Journal prompt:** Where is the Father lovingly warning me before distance grows?
 
-**Morning impact:** Let the Father's love carry Let Love Teach Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Let warning become mercy today; return before fear teaches your heart to hide.
 
 ---
 

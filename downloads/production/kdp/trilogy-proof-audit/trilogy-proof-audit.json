@@ -1,10 +1,10 @@
 {
   "generated": "2026-07-01",
-  "commit": "30c0fa4",
+  "commit": "ff233b2",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369506,
+    "words": 369501,
     "placeholders": 0,
     "sunday_mentions": 0,
     "sabbath_mentions": 1299,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128218,
+      "words": 128213,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,

@@ -20,7 +20,7 @@
       "saturday_mentions": 166,
       "sunday_mentions": 0,
       "placeholders": 0,
-      "words": 318674
+      "words": 318669
     },
     "by_volume": {
       "1": {
@@ -33,7 +33,7 @@
         "saturday_mentions": 62,
         "sunday_mentions": 0,
         "placeholders": 0,
-        "words": 129481
+        "words": 129476
       },
       "2": {
         "files": 54,
@@ -72,7 +72,7 @@
       "saturday_mentions": 169,
       "sunday_mentions": 0,
       "placeholders": 0,
-      "words": 314853
+      "words": 314848
     },
     "by_volume": {
       "1": {
@@ -85,7 +85,7 @@
         "saturday_mentions": 63,
         "sunday_mentions": 0,
         "placeholders": 0,
-        "words": 128218
+        "words": 128213
       },
       "2": {
         "entries": 366,
@@ -314,7 +314,7 @@
       },
       {
         "phrase": "Let the Father's love carry",
-        "count": 338,
+        "count": 335,
         "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
       },
       {
@@ -431,7 +431,7 @@
     "morning_impact_patterns": [
       {
         "phrase": "Let the Father's love carry",
-        "count": 338,
+        "count": 335,
         "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
       },
       {
@@ -597,7 +597,7 @@
     {
       "type": "Morning impact pattern",
       "phrase": "Let the Father's love carry",
-      "count": 338,
+      "count": 335,
       "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
     },
     {

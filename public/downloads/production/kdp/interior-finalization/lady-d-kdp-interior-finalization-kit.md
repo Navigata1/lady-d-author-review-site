@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Repo commit at generation: `30c0fa4`
+Repo commit at generation: `ff233b2`
 
 Status: Production-planning kit. This is not a final KDP upload package.
 
@@ -37,7 +37,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - Proof decision resolution pack regenerated with zero current decision items.
 - Proof decision application pack generated; the prior 192-item title, morning-impact, and theology queue is preserved as evidence and now audits clear.
 - Reader-facing lens application and author-voice copyedit gate generated; the source and public manuscript mirrors now audit at 1,098 context/language lenses and zero internal production labels.
-- Volume 1 Days 001-028 author-voice line edits completed across four seven-day batches; the edited batches now have 28 varied morning-impact lines, zero old Volume 1 impact templates, zero internal production labels, and zero Sunday mentions.
+- Volume 1 January Days 001-031 author-voice line edits completed across four seven-day batches plus a three-day month closeout; the edited January surface now has 31 varied morning-impact lines, zero old Volume 1 impact templates, zero internal production labels, and zero Sunday mentions.
 - Public Vercel review page for author-facing review.
 
 ## Interior Finalization Deliverables In This Kit
@@ -112,11 +112,11 @@ Run three to seven passes depending on risk:
 - Final approved 6 x 9 upload interiors with locked page counts.
 - Regenerated full-wrap covers from final page counts.
 - Final KDP metadata approval for all three devotionals and all three companion journals.
-- Continue author-voice line edits beyond the completed Volume 1 Days 001-028 batches.
+- Continue author-voice line edits beyond the completed Volume 1 January Days 001-031 batches.
 - Author approval of companion journal rhythm and front/back matter.
 - KDP Previewer pass for each upload file.
 - Physical proof review before public release.
 
 ## Recommended Next Production Step
 
-Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack, trilogy proof audit pack, proof decision resolution pack, proof decision application pack, author-voice copyedit gate, and completed Volume 1 Days 001-028 line-edit batches as the next trilogy-wide copyedit and theological proof surface. The proof decision queue is clear; continue seven-day author-voice line edits, metadata approval, and final cover regeneration from locked page counts and paper type.
+Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack, trilogy proof audit pack, proof decision resolution pack, proof decision application pack, author-voice copyedit gate, and completed Volume 1 January Days 001-031 line-edit batches as the next trilogy-wide copyedit and theological proof surface. The proof decision queue is clear; continue seven-day and month-close author-voice line edits, metadata approval, and final cover regeneration from locked page counts and paper type.

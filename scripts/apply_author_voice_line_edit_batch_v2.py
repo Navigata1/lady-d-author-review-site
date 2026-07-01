@@ -62,6 +62,7 @@ class Batch:
     library_source: Path
     library_out: Path
     replacements: tuple[Replacement, ...]
+    expected_entries: int = 7
 
 
 BATCHES = {
@@ -272,6 +273,48 @@ BATCHES = {
             ),
         ),
     ),
+    "volume-1-days-029-031": Batch(
+        key="volume-1-days-029-031",
+        scope="Volume 1 Days 029-031",
+        title="Volume 1 Days 029-031 Line Edit",
+        intro=(
+            "The January closeout batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame, marks the first "
+            "month as line-edited, and keeps Sabbath, commandments, warning, and "
+            "obedience inside the grace-shaped Adventist frame."
+        ),
+        source_name="volume-1-days-029-031-manuscript.md",
+        public_page_name="volume-1-days-029-031-line-edit.html",
+        output_slug="volume-1-days-029-031-line-edit",
+        zip_name="Lady-D-Volume-1-Days-029-031-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 01 - January" / "Days 029-031 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 029-031",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 029",
+                "Let the Father's love carry Lean Into Mercy in the Morning into one faithful step today.",
+                "Receive the near word this morning; mercy has already placed the next step within reach.",
+                "Keeps the Deuteronomy 30 nearness theme practical without using the repeated frame.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 030",
+                "Let the Father's love carry See Again the Father's Patience into one faithful step today.",
+                "Walk the command as a loved child today; the Father's way is life, not rejection.",
+                "Preserves commandments as life-giving grace rather than pressure or performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 031",
+                "Let the Father's love carry Let Love Teach Love Stronger Than Fear into one faithful step today.",
+                "Let warning become mercy today; return before fear teaches your heart to hide.",
+                "Holds warning, return, and mercy together for the January closeout.",
+            ),
+        ),
+        expected_entries=3,
+    ),
 }
 
 
@@ -358,6 +401,7 @@ def apply_replacements(batch: Batch, paths: dict[str, Path]) -> tuple[str, str, 
 
 def audit(batch: Batch, original: str, text: str, applied: list[dict[str, str]], paths: dict[str, Path]) -> dict[str, object]:
     entries = parse_day_entries(text)
+    expected_entries = batch.expected_entries
     source_metrics = {
         "entries": len(entries),
         "scripture_references": len(re.findall(r"(?m)^\*\*Scripture Reference:\*\*", text)),
@@ -379,7 +423,7 @@ def audit(batch: Batch, original: str, text: str, applied: list[dict[str, str]],
             "loop": "Voice judge",
             "passes": 3,
             "result": "pass",
-            "evidence": "All seven impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame.",
+            "evidence": f"All {expected_entries} impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame.",
         },
         {
             "loop": "Theology auditor",
@@ -401,7 +445,11 @@ def audit(batch: Batch, original: str, text: str, applied: list[dict[str, str]],
         },
     ]
     status = f"{batch.key}_line_edit_complete_not_final_upload"
-    if source_metrics["entries"] != 7 or source_metrics["morning_impacts"] != 7 or source_metrics["old_volume_1_template_impacts_after"] != 0:
+    if (
+        source_metrics["entries"] != expected_entries
+        or source_metrics["morning_impacts"] != expected_entries
+        or source_metrics["old_volume_1_template_impacts_after"] != 0
+    ):
         status = "review_required"
     return {
         "generated": GENERATED,
@@ -419,7 +467,7 @@ def audit(batch: Batch, original: str, text: str, applied: list[dict[str, str]],
         "entries": entries,
         "audit": source_metrics,
         "judge_auditor_loops": loops,
-        "next_loop": "Continue author-voice line edits in seven-day batches, then regenerate masters/interiors and update the review site after each meaningful gate.",
+        "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate.",
     }
 
 
@@ -582,7 +630,7 @@ def build_docx(batch: Batch, payload: dict[str, object], path: Path) -> None:
         [1.5, 0.75, 3.8],
     )
     doc.add_heading("Release Boundary", level=1)
-    add_para(doc, "This batch is a line-edited review surface, not final KDP upload approval. Continue in seven-day batches and regenerate downstream review artifacts after each meaningful gate.", size=10)
+    add_para(doc, "This batch is a line-edited review surface, not final KDP upload approval. Continue in seven-day or month-close batches and regenerate downstream review artifacts after each meaningful gate.", size=10)
     path.parent.mkdir(parents=True, exist_ok=True)
     doc.save(path)
 
@@ -716,6 +764,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-008-014-line-edit.html">Days 008-014</a>
     <a href="volume-1-days-015-021-line-edit.html">Days 015-021</a>
     <a href="volume-1-days-022-028-line-edit.html">Days 022-028</a>
+    <a href="volume-1-days-029-031-line-edit.html">Days 029-031</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -745,7 +794,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     </section>
     <section id="downloads">
       <h2>Downloads</h2>
-      <p class="lead">Use these files as the next completed line-edit review surface. Continue the same seven-day loop for the remaining Volume 1 batches, then Volumes 2 and 3.</p>
+      <p class="lead">Use these files as the next completed line-edit review surface. Continue the same batch loop through the remaining Volume 1 months, then Volumes 2 and 3.</p>
       <div class="actions">
         <a href="{html.escape(zip_href)}">Line Edit ZIP</a>
         <a href="{html.escape(md_href)}">Markdown Report</a>
@@ -808,7 +857,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-022-028")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-029-031")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 
