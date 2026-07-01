@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Repo commit at generation: `9aab4b1`
+Snapshot: `Production snapshot`
 
 Status: Author-voice copyedit gate. This is not final KDP upload approval.
 

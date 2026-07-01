@@ -7,7 +7,6 @@ import html
 import json
 import re
 import shutil
-import subprocess
 import zipfile
 from collections import Counter
 from dataclasses import dataclass
@@ -67,13 +66,6 @@ VOLUMES = [
     Volume(2, "Walking with Jesus", "The Son, discipleship, nearness, obedience, healing, following, abiding"),
     Volume(3, "Filled with the Holy Spirit", "The Spirit, filling, comfort, conviction, gifts, fruit, rain, oil, breath"),
 ]
-
-
-def current_commit() -> str:
-    try:
-        return subprocess.check_output(["git", "rev-parse", "--short", "HEAD"], cwd=ROOT, text=True).strip()
-    except Exception:
-        return "unknown"
 
 
 def write(path: Path, content: str) -> None:
@@ -356,7 +348,7 @@ def build_payload() -> dict[str, object]:
     ledger = repeated_ledgers(texts)
     payload = {
         "generated": GENERATED,
-        "commit": current_commit(),
+        "snapshot": "Production snapshot",
         "status": "author_voice_copyedit_gate_ready_not_final_upload",
         "author": AUTHOR,
         "sources": {
@@ -413,7 +405,7 @@ def markdown_report(payload: dict[str, object]) -> str:
 
 Generated: {GENERATED}
 
-Repo commit at generation: `{payload['commit']}`
+Snapshot: `{payload['snapshot']}`
 
 Status: Author-voice copyedit gate. This is not final KDP upload approval.
 
@@ -578,7 +570,7 @@ def build_docx(payload: dict[str, object], path: Path) -> None:
             ["Author", AUTHOR],
             ["Generated", GENERATED],
             ["Status", "Author-voice copyedit gate; not final KDP upload approval"],
-            ["Commit", payload["commit"]],
+            ["Snapshot", payload["snapshot"]],
             ["Design preset", "compact_reference_guide with memo_masthead opening"],
         ],
         [1.6, 4.8],
@@ -672,7 +664,7 @@ def build_pdf(payload: dict[str, object], path: Path) -> None:
             ["Metric", "Value"],
             [
                 ["Generated", GENERATED],
-                ["Commit", payload["commit"]],
+                ["Snapshot", payload["snapshot"]],
                 ["Master devotional entries", totals["entries"]],
                 ["Source context/language lens labels", source_totals["context_lens_labels"]],
                 ["Master internal production labels", totals["internal_production_labels"]],
@@ -871,7 +863,7 @@ def html_page(payload: dict[str, object]) -> str:
     <div class="kicker">IDC Publishing author-voice gate</div>
     <h1>Lady D Author-Voice Copyedit Gate</h1>
     <p class="lead">The current trilogy manuscripts have been cleaned of internal production-lens labels and are ready for the next line-level author-voice pass. This page separates what is now clean from what still needs rhythmic, Lady D-centered editorial work before KDP upload.</p>
-    <p><span class="status">Generated {GENERATED}</span><span class="status">Commit {html.escape(str(payload['commit']))}</span><span class="status">Not final upload approval</span></p>
+    <p><span class="status">Generated {GENERATED}</span><span class="status">{html.escape(str(payload['snapshot']))}</span><span class="status">Not final upload approval</span></p>
     <div class="actions">
       <a href="downloads/production/kdp/author-voice-copyedit/Lady-D-Author-Voice-Copyedit-Pack.zip">Download ZIP</a>
       <a href="downloads/production/kdp/author-voice-copyedit/lady-d-author-voice-copyedit-pack.pdf">PDF</a>
