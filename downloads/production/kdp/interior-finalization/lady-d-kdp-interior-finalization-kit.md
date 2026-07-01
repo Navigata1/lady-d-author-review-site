@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Repo commit at generation: `616fc26`
+Repo commit at generation: `6d1dc28`
 
 Status: Production-planning kit. This is not a final KDP upload package.
 
@@ -33,6 +33,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - Full 6 x 9 interior review drafts for Volumes 1, 2, and 3 with 366 entries each.
 - Full 6 x 9 companion journal review drafts for Volumes 1, 2, and 3 with 365 daily pages plus one February 29 bonus page each.
 - Release upload readiness pack with six KDP metadata sheets, permissions policy, proof runbook, and theological-production audit.
+- Trilogy proof and copyedit audit pack with repetition ledgers, theological watchlist contexts, and volume proof checklists.
 - Public Vercel review page for author-facing review.
 
 ## Interior Finalization Deliverables In This Kit
@@ -107,9 +108,10 @@ Run three to seven passes depending on risk:
 - Final approved 6 x 9 upload interiors with locked page counts.
 - Regenerated full-wrap covers from final page counts.
 - Final KDP metadata approval for all three devotionals and all three companion journals.
+- Resolve repeated title and morning-impact decisions from the proof audit pack.
 - KDP Previewer pass for each upload file.
 - Physical proof review before public release.
 
 ## Recommended Next Production Step
 
-Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack as the next trilogy-wide copyedit and theological proof surface. Once each volume and journal is approved, finalize metadata, then regenerate the full-wrap covers from the locked page counts and paper type.
+Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack and trilogy proof audit pack as the next trilogy-wide copyedit and theological proof surface. Once each volume and journal is approved, finalize metadata, then regenerate the full-wrap covers from the locked page counts and paper type.

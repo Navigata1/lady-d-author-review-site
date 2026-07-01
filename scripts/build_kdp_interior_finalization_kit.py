@@ -245,6 +245,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - Full 6 x 9 interior review drafts for Volumes 1, 2, and 3 with 366 entries each.
 - Full 6 x 9 companion journal review drafts for Volumes 1, 2, and 3 with 365 daily pages plus one February 29 bonus page each.
 - Release upload readiness pack with six KDP metadata sheets, permissions policy, proof runbook, and theological-production audit.
+- Trilogy proof and copyedit audit pack with repetition ledgers, theological watchlist contexts, and volume proof checklists.
 - Public Vercel review page for author-facing review.
 
 ## Interior Finalization Deliverables In This Kit
@@ -317,12 +318,13 @@ Run three to seven passes depending on risk:
 - Final approved 6 x 9 upload interiors with locked page counts.
 - Regenerated full-wrap covers from final page counts.
 - Final KDP metadata approval for all three devotionals and all three companion journals.
+- Resolve repeated title and morning-impact decisions from the proof audit pack.
 - KDP Previewer pass for each upload file.
 - Physical proof review before public release.
 
 ## Recommended Next Production Step
 
-Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack as the next trilogy-wide copyedit and theological proof surface. Once each volume and journal is approved, finalize metadata, then regenerate the full-wrap covers from the locked page counts and paper type.
+Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack and trilogy proof audit pack as the next trilogy-wide copyedit and theological proof surface. Once each volume and journal is approved, finalize metadata, then regenerate the full-wrap covers from the locked page counts and paper type.
 """
 
 
@@ -358,6 +360,7 @@ def dashboard_html(commit: str) -> str:
         "Full 6 x 9 companion journal review drafts generated for Volumes 1, 2, and 3.",
         "Interior finalization front/back matter templates created for all three volumes.",
         "Release upload readiness pack generated with KDP metadata drafts, permissions policy, proof runbook, and theological-production audit.",
+        "Trilogy proof and copyedit audit pack generated with repetition ledgers, theological watchlist contexts, and volume proof checklists.",
     ]
     remaining = [
         "Final paper type and ISBN/barcode data.",
@@ -446,7 +449,7 @@ def dashboard_html(commit: str) -> str:
   <header>
     <div class="kicker">IDC Publishing release dashboard</div>
     <h1>Lady D Devotional Library release readiness</h1>
-    <p class="lead">The three devotional manuscripts are complete at the dated-entry level and now have master assemblies, companion journals, cover candidates, KDP trim math, devotional and companion journal full-wrap drafts, interior finalization templates, the first Volume 1 6 x 9 interior prototype, full 6 x 9 devotional drafts, full 6 x 9 companion journal drafts, and a release-upload readiness pack. This dashboard separates what is complete from what still gates true KDP upload readiness.</p>
+    <p class="lead">The three devotional manuscripts are complete at the dated-entry level and now have master assemblies, companion journals, cover candidates, KDP trim math, devotional and companion journal full-wrap drafts, interior finalization templates, the first Volume 1 6 x 9 interior prototype, full 6 x 9 devotional drafts, full 6 x 9 companion journal drafts, a release-upload readiness pack, and a trilogy proof/copyedit audit pack. This dashboard separates what is complete from what still gates true KDP upload readiness.</p>
     <p><span class="status">Generated 2026-07-01</span> <span class="status">Base commit: {html.escape(commit)}</span></p>
     <div class="actions">
       <a href="production.html">Production Review</a>
@@ -463,6 +466,9 @@ def dashboard_html(commit: str) -> str:
       <a href="release-upload-readiness.html">Upload Readiness Page</a>
       <a href="downloads/production/kdp/release-upload-readiness/Lady-D-Release-Upload-Readiness-Pack.zip">Upload Readiness ZIP</a>
       <a href="downloads/production/kdp/release-upload-readiness/lady-d-release-upload-readiness-pack.pdf">Upload Readiness PDF</a>
+      <a href="trilogy-proof-audit.html">Proof Audit Page</a>
+      <a href="downloads/production/kdp/trilogy-proof-audit/Lady-D-Trilogy-Proof-Audit-Pack.zip">Proof Audit ZIP</a>
+      <a href="downloads/production/kdp/trilogy-proof-audit/lady-d-trilogy-proof-audit-pack.pdf">Proof Audit PDF</a>
     </div>
   </header>
   <main>
@@ -513,8 +519,36 @@ def dashboard_html(commit: str) -> str:
       </div>
     </section>
     <section>
+      <h2>Trilogy Proof And Copyedit Audit Pack</h2>
+      <p class="lead">The newest proof pack turns the next copyedit/theological review loop into evidence: structure checks, placeholder scan, Adventist Sabbath guardrail confirmation, repeated-title decisions, repeated morning-impact decisions, and grace/performance context review.</p>
+      <div class="grid">
+        <article class="card">
+          <span>Structure</span>
+          <h3>Three devotional masters pass</h3>
+          <p>Each devotional master contains 365 dated entries, one February 29 bonus, 366 Scripture references, 366 prayers, and 366 morning-impact lines.</p>
+        </article>
+        <article class="card">
+          <span>Guardrail</span>
+          <h3>Zero Sunday mentions</h3>
+          <p>The audit checks 372,340 source words, reports zero placeholders, zero Sunday mentions, and captures 384 earn/performance contexts for theological proof.</p>
+        </article>
+        <article class="card">
+          <span>Editorial decision</span>
+          <h3>Repetition ledgers exposed</h3>
+          <p>The ledger isolates 150 duplicate title groups and 30 repeated morning-impact groups for explicit accept-or-revise decisions before final upload.</p>
+        </article>
+      </div>
+      <div class="actions">
+        <a href="trilogy-proof-audit.html">Open Proof Audit Page</a>
+        <a href="downloads/production/kdp/trilogy-proof-audit/Lady-D-Trilogy-Proof-Audit-Pack.zip">Download Proof Audit ZIP</a>
+        <a href="downloads/production/kdp/trilogy-proof-audit/trilogy-proof-audit.json">Audit JSON</a>
+        <a href="downloads/production/kdp/trilogy-proof-audit/title-and-impact-repetition-ledger.md">Repetition Ledger</a>
+        <a href="downloads/production/kdp/trilogy-proof-audit/theological-watchlist-context-ledger.md">Theological Watchlist</a>
+      </div>
+    </section>
+    <section>
       <h2>Active Recommendation</h2>
-      <p class="lead">Use the three devotional drafts, three companion journal drafts, and release-upload readiness pack as the next copyedit and theological proof surface. Do not mark any file as final upload-ready until ISBN/barcode, paper type, Bible permissions, KDP Previewer, and physical proof review pass.</p>
+      <p class="lead">Use the three devotional drafts, three companion journal drafts, release-upload readiness pack, and trilogy proof audit pack as the next copyedit and theological proof surface. Do not mark any file as final upload-ready until ISBN/barcode, paper type, Bible permissions, KDP Previewer, and physical proof review pass.</p>
       <p><a href="production.html">Return to production review page</a></p>
     </section>
   </main>
