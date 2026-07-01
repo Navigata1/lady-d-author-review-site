@@ -1427,7 +1427,7 @@ Beloved identity does not mean every pressure disappears. It means you stand bef
 
 **Journal prompt:** Where do I need the Father's patience to replace fear-driven urgency?
 
-**Morning impact:** Let the Father's love carry Let Love Teach the Father's Patience into one faithful step today.
+**Morning impact:** Let patient trust interrupt one fear-driven hurry today; the Father still knows how to part waters.
 
 ---
 
@@ -1455,7 +1455,7 @@ Today, listen for the call inside reverence. Let the Father's holiness steady yo
 
 **Journal prompt:** Where is fear making God's call feel unsafe, and what would reverent trust look like there?
 
-**Morning impact:** Let the Father's love carry Awaken Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Answer one holy call with reverence today; love can help fear bow without running.
 
 ---
 
@@ -1483,7 +1483,7 @@ Embrace restoring compassion by allowing God to name you more deeply than your h
 
 **Journal prompt:** What part of my story needs the Father's restoring compassion instead of my silence?
 
-**Morning impact:** Let the Father's love carry Embrace Restoring Compassion into one faithful step today.
+**Morning impact:** Bring one tangled piece of your story to the Father; compassion can speak a truer name.
 
 ---
 
@@ -1511,7 +1511,7 @@ Remember the promise that holds by placing God's word before the loudest word in
 
 **Journal prompt:** What word from God needs to stand before the loudest voice in my life right now?
 
-**Morning impact:** Let the Father's love carry Remember the Promise That Holds into one faithful step today.
+**Morning impact:** Set God's word before the loudest voice today, then let obedience answer love.
 
 ---
 
@@ -1539,7 +1539,7 @@ Walk in the heart that calls you today. Let God form a generational witness thro
 
 **Journal prompt:** What would faithful honor look like in my family story without denying truth or safety?
 
-**Morning impact:** Let the Father's love carry Walk in the Heart That Calls You into one faithful step today.
+**Morning impact:** Choose one truthful act of honor today, with mercy intact and safety still guarded.
 
 ---
 
@@ -1567,7 +1567,7 @@ Let peace lead love that sends you today. Do not rush from task to task without 
 
 **Journal prompt:** Where do I need to return to worship before trying to carry responsibility?
 
-**Morning impact:** Let the Father's love carry Let Peace Lead Love That Sends You into one faithful step today.
+**Morning impact:** Pause at worship before responsibility today; the Father's presence can send you from peace.
 
 ---
 
@@ -1595,7 +1595,7 @@ The Father is not inviting you into despair. He is inviting you into clean alleg
 
 **Journal prompt:** What rival allegiance needs to lose authority in my heart today?
 
-**Morning impact:** Let the Father's love carry Choose Covenant Mercy into one faithful step today.
+**Morning impact:** Name one rival allegiance today, and let covenant mercy call your heart home.
 
 ---
 

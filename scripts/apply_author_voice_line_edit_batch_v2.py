@@ -523,6 +523,76 @@ BATCHES = {
             ),
         ),
     ),
+    "volume-1-days-053-059": Batch(
+        key="volume-1-days-053-059",
+        scope="Volume 1 Days 053-059",
+        title="Volume 1 Days 053-059 Line Edit",
+        intro=(
+            "The fourth February batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "patient trust before pressure, reverent courage, restored story, "
+            "God's word before the loudest voice, truthful and safe family honor, "
+            "worship before responsibility, and clean covenant allegiance."
+        ),
+        source_name="volume-1-days-053-059-manuscript.md",
+        public_page_name="volume-1-days-053-059-line-edit.html",
+        output_slug="volume-1-days-053-059-line-edit",
+        zip_name="Lady-D-Volume-1-Days-053-059-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 02 - February" / "Days 053-059 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 053-059",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 053",
+                "Let the Father's love carry Let Love Teach the Father's Patience into one faithful step today.",
+                "Let patient trust interrupt one fear-driven hurry today; the Father still knows how to part waters.",
+                "Keeps the Red Sea power and patience lens concrete without pressuring the reader to force timing.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 054",
+                "Let the Father's love carry Awaken Love Stronger Than Fear into one faithful step today.",
+                "Answer one holy call with reverence today; love can help fear bow without running.",
+                "Preserves Sinai reverence while keeping fear under the Father's loving call.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 055",
+                "Let the Father's love carry Embrace Restoring Compassion into one faithful step today.",
+                "Bring one tangled piece of your story to the Father; compassion can speak a truer name.",
+                "Connects restoring compassion to real history and identity without requiring a clean past.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 056",
+                "Let the Father's love carry Remember the Promise That Holds into one faithful step today.",
+                "Set God's word before the loudest voice today, then let obedience answer love.",
+                "Keeps commandment-keeping as covenant response to grace, not a way to earn love.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 057",
+                "Let the Father's love carry Walk in the Heart That Calls You into one faithful step today.",
+                "Choose one truthful act of honor today, with mercy intact and safety still guarded.",
+                "Preserves the family-honor commandment while keeping abuse and safety guardrails explicit.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 058",
+                "Let the Father's love carry Let Peace Lead Love That Sends You into one faithful step today.",
+                "Pause at worship before responsibility today; the Father's presence can send you from peace.",
+                "Turns the altar/presence lens into a practical worship-before-work movement.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 059",
+                "Let the Father's love carry Choose Covenant Mercy into one faithful step today.",
+                "Name one rival allegiance today, and let covenant mercy call your heart home.",
+                "Keeps the idolatry warning reverent while refusing shame-based fatalism.",
+            ),
+        ),
+    ),
 }
 
 
@@ -976,6 +1046,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-032-038-line-edit.html">Days 032-038</a>
     <a href="volume-1-days-039-045-line-edit.html">Days 039-045</a>
     <a href="volume-1-days-046-052-line-edit.html">Days 046-052</a>
+    <a href="volume-1-days-053-059-line-edit.html">Days 053-059</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -1068,7 +1139,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-046-052")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-053-059")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 
