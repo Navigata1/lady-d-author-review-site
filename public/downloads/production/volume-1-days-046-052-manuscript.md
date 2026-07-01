@@ -30,7 +30,7 @@ Discover love that sends you by refusing to separate calling from listening. The
 
 **Journal prompt:** Where am I moving too quickly without first listening to the Father?
 
-**Morning impact:** Let the Father's love carry Discover Love That Sends You into one faithful step today.
+**Morning impact:** Listen before you move today; the Father's love sends beloved children with His voice.
 
 ---
 
@@ -56,7 +56,7 @@ This is also where Sabbath and obedience become tender. Holy practice is not an 
 
 **Journal prompt:** What word has shaped my heart that the Father wants to replace with His truth?
 
-**Morning impact:** Let the Father's love carry Receive Covenant Mercy into one faithful step today.
+**Morning impact:** Carry one word of God close today; mercy forms the heart before it shows on the outside.
 
 ---
 
@@ -82,7 +82,7 @@ The welcome of God steadies the heart before the battle of the day. You are not 
 
 **Journal prompt:** What feels too large for me right now, and how can I bring that fear honestly to the Father?
 
-**Morning impact:** Let the Father's love carry Trust the Father's Welcome into one faithful step today.
+**Morning impact:** Name the fear without bowing to it; the Father's welcome can steady the next step.
 
 ---
 
@@ -108,7 +108,7 @@ Hope rises when identity becomes clear. You belong to the Father. You do not nee
 
 **Journal prompt:** What pattern or allegiance needs a clear boundary because I belong to the Father?
 
-**Morning impact:** Let the Father's love carry Let Hope Rise Beloved Identity into one faithful step today.
+**Morning impact:** Draw one clean boundary with a rival allegiance today, while keeping tenderness toward people.
 
 ---
 
@@ -134,7 +134,7 @@ Carry that love today. Let it move with you into the room where you feel small. 
 
 **Journal prompt:** Where have I been trying to become impressive enough to feel loved?
 
-**Morning impact:** Let the Father's love carry Carry Love That Finds You into one faithful step today.
+**Morning impact:** Walk into the small place with dignity today; the Father's love is not measuring your size.
 
 ---
 
@@ -160,7 +160,7 @@ Today, do not wait until you feel impressive to worship. Let the Father receive 
 
 **Journal prompt:** Where am I trying to perform strength instead of receiving the Lord as my strength?
 
-**Morning impact:** Let the Father's love carry Lean Into Grace Before Striving into one faithful step today.
+**Morning impact:** Let rescue start the song today; strength is received before it is displayed.
 
 ---
 
@@ -186,4 +186,4 @@ See again mercy in the morning by refusing to let bitterness have the final word
 
 **Journal prompt:** What bitter place do I need to bring honestly to the Father instead of carrying alone?
 
-**Morning impact:** Let the Father's love carry See Again Mercy in the Morning into one faithful step today.
+**Morning impact:** Bring the bitter place to the Father this morning; mercy can meet you before it makes sense.

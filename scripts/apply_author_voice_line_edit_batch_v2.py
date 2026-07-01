@@ -453,6 +453,76 @@ BATCHES = {
             ),
         ),
     ),
+    "volume-1-days-046-052": Batch(
+        key="volume-1-days-046-052",
+        scope="Volume 1 Days 046-052",
+        title="Volume 1 Days 046-052 Line Edit",
+        intro=(
+            "The third February batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "listening before movement, words carried on the heart, honest fear, "
+            "clean covenant boundaries, loved-before-impressive identity, worship "
+            "from rescue, and mercy in bitter places."
+        ),
+        source_name="volume-1-days-046-052-manuscript.md",
+        public_page_name="volume-1-days-046-052-line-edit.html",
+        output_slug="volume-1-days-046-052-line-edit",
+        zip_name="Lady-D-Volume-1-Days-046-052-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 02 - February" / "Days 046-052 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 046-052",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 046",
+                "Let the Father's love carry Discover Love That Sends You into one faithful step today.",
+                "Listen before you move today; the Father's love sends beloved children with His voice.",
+                "Keeps the Deuteronomy 6:3 hear-and-keep lens active before action.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 047",
+                "Let the Father's love carry Receive Covenant Mercy into one faithful step today.",
+                "Carry one word of God close today; mercy forms the heart before it shows on the outside.",
+                "Connects covenant mercy to God's words settling on the heart.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 048",
+                "Let the Father's love carry Trust the Father's Welcome into one faithful step today.",
+                "Name the fear without bowing to it; the Father's welcome can steady the next step.",
+                "Preserves honest fear and courage rooted in beloved identity.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 049",
+                "Let the Father's love carry Let Hope Rise Beloved Identity into one faithful step today.",
+                "Draw one clean boundary with a rival allegiance today, while keeping tenderness toward people.",
+                "Keeps the ancient covenant-boundary guardrail from becoming contempt toward persons.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 050",
+                "Let the Father's love carry Carry Love That Finds You into one faithful step today.",
+                "Walk into the small place with dignity today; the Father's love is not measuring your size.",
+                "Turns loved-before-impressive identity into a practical answer to comparison.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 051",
+                "Let the Father's love carry Lean Into Grace Before Striving into one faithful step today.",
+                "Let rescue start the song today; strength is received before it is displayed.",
+                "Preserves Exodus 15 worship from rescue rather than performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 052",
+                "Let the Father's love carry See Again Mercy in the Morning into one faithful step today.",
+                "Bring the bitter place to the Father this morning; mercy can meet you before it makes sense.",
+                "Keeps the Marah image honest while refusing to let bitterness have the final word.",
+            ),
+        ),
+    ),
 }
 
 
@@ -905,6 +975,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-029-031-line-edit.html">Days 029-031</a>
     <a href="volume-1-days-032-038-line-edit.html">Days 032-038</a>
     <a href="volume-1-days-039-045-line-edit.html">Days 039-045</a>
+    <a href="volume-1-days-046-052-line-edit.html">Days 046-052</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -997,7 +1068,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-039-045")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-046-052")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 
