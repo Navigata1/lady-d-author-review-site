@@ -1,10 +1,10 @@
 {
   "generated": "2026-07-01",
-  "commit": "35b2cb1",
+  "commit": "903eb16",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369488,
+    "words": 369474,
     "placeholders": 0,
     "sunday_mentions": 0,
     "sabbath_mentions": 1300,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128200,
+      "words": 128186,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -503,7 +503,7 @@
       "kind": "Devotional",
       "term": "performance",
       "line": 1056,
-      "snippet": "Your mercy. Let me find You as the One who receives honest surrender. Amen. **Journal prompt:** What part of my seeking has been performance instead of honest return? **Morning impact:** Let the Father's love carry Surrender to Grace Before Striving into one faithful s",
+      "snippet": "Your mercy. Let me find You as the One who receives honest surrender. Amen. **Journal prompt:** What part of my seeking has been performance instead of honest return? **Morning impact:** Seek the Father without polishing the story today; grace receives the whole heart.",
       "preliminary_read": "likely grace-aligned"
     },
     {

@@ -384,6 +384,75 @@ BATCHES = {
             ),
         ),
     ),
+    "volume-1-days-039-045": Batch(
+        key="volume-1-days-039-045",
+        scope="Volume 1 Days 039-045",
+        title="Volume 1 Days 039-045 Line Edit",
+        intro=(
+            "The second February batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "honest seeking, covenant mercy, guarded memory, gratitude, quiet "
+            "obedience, Sabbath holiness, and deliverance with destination."
+        ),
+        source_name="volume-1-days-039-045-manuscript.md",
+        public_page_name="volume-1-days-039-045-line-edit.html",
+        output_slug="volume-1-days-039-045-line-edit",
+        zip_name="Lady-D-Volume-1-Days-039-045-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 02 - February" / "Days 039-045 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 039-045",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 039",
+                "Let the Father's love carry Surrender to Grace Before Striving into one faithful step today.",
+                "Seek the Father without polishing the story today; grace receives the whole heart.",
+                "Keeps whole-person seeking inside grace instead of performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 040",
+                "Let the Father's love carry Let Mercy Speak Mercy in the Morning into one faithful step today.",
+                "Let mercy answer accusation this morning; the Father corrects without forgetting covenant.",
+                "Preserves mercy, correction, and covenant memory without flattening the devotional image.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 041",
+                "Let the Father's love carry Breathe the Father's Patience into one faithful step today.",
+                "Breathe beneath the truth today: the Lord is God, and you are His child.",
+                "Turns the Deuteronomy 4:39 God-alone confession into a calming reader practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 042",
+                "Let the Father's love carry Hold Fast to Love Stronger Than Fear into one faithful step today.",
+                "Guard the memory of God's care today, then pass one testimony forward with gentleness.",
+                "Connects guarded memory and generational witness without letting fear lead the tone.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 043",
+                "Let the Father's love carry Return to Restoring Compassion into one faithful step today.",
+                "Turn one gift into gratitude today; the Giver is still the ground of belonging.",
+                "Keeps humility and gratitude in the promised-gift frame.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 044",
+                "Let the Father's love carry Yield to the Promise That Holds into one faithful step today.",
+                "Do the right and good thing quietly today; love can obey without performing.",
+                "Preserves obedience as grace-shaped love rather than approval-seeking.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 045",
+                "Let the Father's love carry Anchor the Heart That Calls You into one faithful step today.",
+                "Walk like one being brought in, not only brought out; the Father's purpose still leads.",
+                "Keeps deliverance-with-destination active and personal for the reader.",
+            ),
+        ),
+    ),
 }
 
 
@@ -835,6 +904,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-022-028-line-edit.html">Days 022-028</a>
     <a href="volume-1-days-029-031-line-edit.html">Days 029-031</a>
     <a href="volume-1-days-032-038-line-edit.html">Days 032-038</a>
+    <a href="volume-1-days-039-045-line-edit.html">Days 039-045</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -927,7 +997,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-032-038")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-039-045")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

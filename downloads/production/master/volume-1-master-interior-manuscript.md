@@ -1055,7 +1055,7 @@ Today, surrender the performance that waits to be impressive. Seek the Father ho
 
 **Journal prompt:** What part of my seeking has been performance instead of honest return?
 
-**Morning impact:** Let the Father's love carry Surrender to Grace Before Striving into one faithful step today.
+**Morning impact:** Seek the Father without polishing the story today; grace receives the whole heart.
 
 ---
 
@@ -1081,7 +1081,7 @@ If you have been expecting God to destroy what He intends to restore, pause. His
 
 **Journal prompt:** Where have I confused the Father's correction with abandonment?
 
-**Morning impact:** Let the Father's love carry Let Mercy Speak Mercy in the Morning into one faithful step today.
+**Morning impact:** Let mercy answer accusation this morning; the Father corrects without forgetting covenant.
 
 ---
 
@@ -1107,7 +1107,7 @@ Beloved identity becomes steady when the heart remembers who rules. You do not h
 
 **Journal prompt:** What false power has felt too large in my heart lately?
 
-**Morning impact:** Let the Father's love carry Breathe the Father's Patience into one faithful step today.
+**Morning impact:** Breathe beneath the truth today: the Lord is God, and you are His child.
 
 ---
 
@@ -1133,7 +1133,7 @@ Hold fast today. Do not let the day's pressure steal the story of God's care. Be
 
 **Journal prompt:** What testimony do I need to remember so fear does not become what I pass forward?
 
-**Morning impact:** Let the Father's love carry Hold Fast to Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Guard the memory of God's care today, then pass one testimony forward with gentleness.
 
 ---
 
@@ -1159,7 +1159,7 @@ Return today by naming what God has given. Not to boast. Not to compare. To reme
 
 **Journal prompt:** What gift in my life needs to become gratitude instead of entitlement?
 
-**Morning impact:** Let the Father's love carry Return to Restoring Compassion into one faithful step today.
+**Morning impact:** Turn one gift into gratitude today; the Giver is still the ground of belonging.
 
 ---
 
@@ -1185,7 +1185,7 @@ Today, let the promise hold you steady enough to do what is right and good.
 
 **Journal prompt:** What right and good step have I delayed because it felt costly or unseen?
 
-**Morning impact:** Let the Father's love carry Yield to the Promise That Holds into one faithful step today.
+**Morning impact:** Do the right and good thing quietly today; love can obey without performing.
 
 ---
 
@@ -1211,7 +1211,7 @@ This does not make the journey instant. Israel still had to walk. You may still 
 
 **Journal prompt:** Where do I still live like I was only brought out, not also being brought in?
 
-**Morning impact:** Let the Father's love carry Anchor the Heart That Calls You into one faithful step today.
+**Morning impact:** Walk like one being brought in, not only brought out; the Father's purpose still leads.
 
 ---
 
