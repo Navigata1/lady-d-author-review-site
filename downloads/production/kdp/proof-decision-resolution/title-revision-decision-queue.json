@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "T-V1-001",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Anchor the Promise That Holds",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 066 - March 7",
+        "line": 1800,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 357 - December 23",
+        "line": 10457,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Anchor the Promise That Holds`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-002",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Awaken Love That Sends You",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 150 - May 30",
+        "line": 4190,
+        "month": "May",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 335 - December 1",
+        "line": 9781,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Awaken Love That Sends You`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-003",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Awaken the Father's Welcome",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 001 - January 1",
+        "line": 28,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 291 - October 18",
+        "line": 8443,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Awaken the Father's Welcome`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-004",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Behold the Heart That Calls You",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 010 - January 10",
+        "line": 267,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 300 - October 27",
+        "line": 8716,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Behold the Heart That Calls You`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-005",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Behold the Promise That Holds",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 032 - February 1",
+        "line": 851,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 322 - November 18",
+        "line": 9388,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Behold the Promise That Holds`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-006",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Breathe Mercy in the Morning",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 062 - March 3",
+        "line": 1690,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 353 - December 19",
+        "line": 10334,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Breathe Mercy in the Morning`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-007",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Breathe the Father's Patience",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 041 - February 10",
+        "line": 1088,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 331 - November 27",
+        "line": 9661,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Breathe the Father's Patience`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-008",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Carry Beloved Identity",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 071 - March 12",
+        "line": 1943,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 362 - December 28",
+        "line": 10607,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Carry Beloved Identity`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-009",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Choose the Father's Patience",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 006 - January 6",
+        "line": 158,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 296 - October 23",
+        "line": 8596,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Choose the Father's Patience`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-010",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Come Home to Beloved Identity",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 037 - February 6",
+        "line": 981,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 327 - November 23",
+        "line": 9538,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Come Home to Beloved Identity`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-011",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Come Home to Restoring Compassion",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 089 - March 30",
+        "line": 2456,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 274 - October 1",
+        "line": 7927,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Come Home to Restoring Compassion`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-012",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Discover Grace Before Performance",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 120 - April 30",
+        "line": 3336,
+        "month": "April",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 305 - November 1",
+        "line": 8869,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Discover Grace Before Performance`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-013",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Discover the Heart That Calls You",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 067 - March 8",
+        "line": 1831,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 358 - December 24",
+        "line": 10487,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Discover the Heart That Calls You`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-014",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Embrace Beloved Identity",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 002 - January 2",
+        "line": 54,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 292 - October 19",
+        "line": 8473,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Embrace Beloved Identity`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-015",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Embrace Covenant Mercy",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 151 - May 31",
+        "line": 4221,
+        "month": "May",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 336 - December 2",
+        "line": 9814,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Embrace Covenant Mercy`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-016",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Follow Love That Sends You",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 011 - January 11",
+        "line": 293,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 301 - October 28",
+        "line": 8749,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Follow Love That Sends You`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-017",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Follow the Heart That Calls You",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 033 - February 2",
+        "line": 877,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 323 - November 19",
+        "line": 9418,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Follow the Heart That Calls You`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-018",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Hold Fast to Love Stronger Than Fear",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 042 - February 11",
+        "line": 1114,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 332 - November 28",
+        "line": 9691,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Hold Fast to Love Stronger Than Fear`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-019",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Hold Fast to the Father's Patience",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 063 - March 4",
+        "line": 1718,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 354 - December 20",
+        "line": 10364,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Hold Fast to the Father's Patience`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-020",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Lean Into Love That Finds You",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 072 - March 13",
+        "line": 1971,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 363 - December 29",
+        "line": 10637,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Lean Into Love That Finds You`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-021",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Lean Into Mercy in the Morning",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 029 - January 29",
+        "line": 770,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 213 - August 1",
+        "line": 6064,
+        "month": "August",
+        "recommended_direction": "Retitle this occurrence toward rested witness, Sabbath trust, and obedient availability; preserve the Scripture and devotional angle, but avoid repeating `Lean Into Mercy in the Morning`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-022",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Let Fire Refine Beloved Identity",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 014 - January 14",
+        "line": 371,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 304 - October 31",
+        "line": 8839,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Let Fire Refine Beloved Identity`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-023",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Let Fire Refine the Father's Welcome",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 036 - February 5",
+        "line": 955,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 326 - November 22",
+        "line": 9508,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Let Fire Refine the Father's Welcome`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-024",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Let Grace Form the Promise That Holds",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 009 - January 9",
+        "line": 241,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 299 - October 26",
+        "line": 8686,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Let Grace Form the Promise That Holds`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-025",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Let Hope Rise the Father's Welcome",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 070 - March 11",
+        "line": 1915,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 361 - December 27",
+        "line": 10577,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Let Hope Rise the Father's Welcome`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-026",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Let Love Teach Love Stronger Than Fear",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 031 - January 31",
+        "line": 822,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 215 - August 3",
+        "line": 6124,
+        "month": "August",
+        "recommended_direction": "Retitle this occurrence toward rested witness, Sabbath trust, and obedient availability; preserve the Scripture and devotional angle, but avoid repeating `Let Love Teach Love Stronger Than Fear`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-027",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Let Love Teach Mercy in the Morning",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 074 - March 15",
+        "line": 2030,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 365 - December 31",
+        "line": 10700,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Let Love Teach Mercy in the Morning`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-028",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Let Mercy Speak Grace Before Performance",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 061 - March 2",
+        "line": 1662,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 352 - December 18",
+        "line": 10304,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Let Mercy Speak Grace Before Performance`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-029",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Let Mercy Speak Mercy in the Morning",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 040 - February 9",
+        "line": 1062,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 330 - November 26",
+        "line": 9631,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Let Mercy Speak Mercy in the Morning`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-030",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Let Peace Lead Mercy in the Morning",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 005 - January 5",
+        "line": 132,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 295 - October 22",
+        "line": 8566,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Let Peace Lead Mercy in the Morning`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-031",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Listen for Love Stronger Than Fear",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 007 - January 7",
+        "line": 184,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 297 - October 24",
+        "line": 8626,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Listen for Love Stronger Than Fear`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-032",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Practice Love That Finds You",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 038 - February 7",
+        "line": 1007,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 328 - November 24",
+        "line": 9568,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Practice Love That Finds You`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-033",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Practice the Promise That Holds",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 090 - March 31",
+        "line": 2484,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 275 - October 2",
+        "line": 7957,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Practice the Promise That Holds`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-034",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Receive Love That Sends You",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 068 - March 9",
+        "line": 1859,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 359 - December 25",
+        "line": 10517,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Receive Love That Sends You`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-035",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Remember Love That Finds You",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 003 - January 3",
+        "line": 80,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 293 - October 20",
+        "line": 8503,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Remember Love That Finds You`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-036",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Rest in Covenant Mercy",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 012 - January 12",
+        "line": 319,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 302 - October 29",
+        "line": 8779,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Rest in Covenant Mercy`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-037",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Rest in Love That Sends You",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 034 - February 3",
+        "line": 903,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 324 - November 20",
+        "line": 9448,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Rest in Love That Sends You`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-038",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Return to Love Stronger Than Fear",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 064 - March 5",
+        "line": 1746,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 355 - December 21",
+        "line": 10394,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Return to Love Stronger Than Fear`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-039",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Return to Restoring Compassion",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 043 - February 12",
+        "line": 1140,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 333 - November 29",
+        "line": 9721,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Return to Restoring Compassion`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-040",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "See Again Grace Before Performance",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 073 - March 14",
+        "line": 1999,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 364 - December 30",
+        "line": 10670,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `See Again Grace Before Performance`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-041",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "See Again the Father's Patience",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 030 - January 30",
+        "line": 796,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 214 - August 2",
+        "line": 6094,
+        "month": "August",
+        "recommended_direction": "Retitle this occurrence toward rested witness, Sabbath trust, and obedient availability; preserve the Scripture and devotional angle, but avoid repeating `See Again the Father's Patience`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-042",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Stand in Restoring Compassion",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 008 - January 8",
+        "line": 215,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 298 - October 25",
+        "line": 8656,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Stand in Restoring Compassion`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-043",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Surrender to Grace Before Performance",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 039 - February 8",
+        "line": 1036,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 329 - November 25",
+        "line": 9601,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Surrender to Grace Before Performance`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-044",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Surrender to Love That Finds You",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 060 - March 1",
+        "line": 1636,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 351 - December 17",
+        "line": 10274,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Surrender to Love That Finds You`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-045",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Trust Covenant Mercy",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 069 - March 10",
+        "line": 1887,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 360 - December 26",
+        "line": 10547,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Trust Covenant Mercy`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-046",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Wake Up to Covenant Mercy",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 035 - February 4",
+        "line": 929,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 325 - November 21",
+        "line": 9478,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Wake Up to Covenant Mercy`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-047",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Wake Up to the Father's Welcome",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 013 - January 13",
+        "line": 345,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 303 - October 30",
+        "line": 8809,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Wake Up to the Father's Welcome`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-048",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Walk in Grace Before Performance",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 004 - January 4",
+        "line": 106,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 294 - October 21",
+        "line": 8536,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Walk in Grace Before Performance`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-049",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Yield to Restoring Compassion",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 065 - March 6",
+        "line": 1772,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 356 - December 22",
+        "line": 10424,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Yield to Restoring Compassion`."
+      }
+    ]
+  },
+  {
+    "id": "T-V1-050",
+    "issue_type": "duplicate_day_title",
+    "volume": 1,
+    "product": "volume-1-devotional",
+    "product_title": "Surrendering to God's Love",
+    "repeated_title": "Yield to the Promise That Holds",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 044 - February 13",
+        "line": 1166,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 334 - November 30",
+        "line": 9751,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Yield to the Promise That Holds`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-001",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Anchor Resurrection Hope",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 066 - March 7",
+        "line": 1909,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 357 - December 23",
+        "line": 10186,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Anchor Resurrection Hope`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-002",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Awaken the Light on the Path",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 150 - May 30",
+        "line": 4297,
+        "month": "May",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 335 - December 1",
+        "line": 9561,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Awaken the Light on the Path`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-003",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Awaken the Shepherd's Voice",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 001 - January 1",
+        "line": 28,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 291 - October 18",
+        "line": 8308,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Awaken the Shepherd's Voice`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-004",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Behold Resurrection Hope",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 032 - February 1",
+        "line": 915,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 322 - November 18",
+        "line": 9188,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Behold Resurrection Hope`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-005",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Behold the Friend Who Leads",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 010 - January 10",
+        "line": 285,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 300 - October 27",
+        "line": 8563,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Behold the Friend Who Leads`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-006",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Breathe the Healing Touch",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 041 - February 10",
+        "line": 1170,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 331 - November 27",
+        "line": 9443,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Breathe the Healing Touch`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-007",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Breathe the Table of Grace",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 062 - March 3",
+        "line": 1795,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 353 - December 19",
+        "line": 10071,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Breathe the Table of Grace`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-008",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Carry the Road with Jesus",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 071 - March 12",
+        "line": 2052,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 362 - December 28",
+        "line": 10326,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Carry the Road with Jesus`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-009",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Choose the Healing Touch",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 006 - January 6",
+        "line": 170,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 296 - October 23",
+        "line": 8448,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Choose the Healing Touch`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-010",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Come Home to Cross-Shaped Courage",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 089 - March 30",
+        "line": 2565,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 274 - October 1",
+        "line": 7823,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Come Home to Cross-Shaped Courage`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-011",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Come Home to the Road with Jesus",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 037 - February 6",
+        "line": 1055,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 327 - November 23",
+        "line": 9331,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Come Home to the Road with Jesus`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-012",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Discover the Friend Who Leads",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 067 - March 8",
+        "line": 1940,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 358 - December 24",
+        "line": 10214,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Discover the Friend Who Leads`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-013",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Discover the Way of Peace",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 120 - April 30",
+        "line": 3445,
+        "month": "April",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 305 - November 1",
+        "line": 8706,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Discover the Way of Peace`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-014",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Embrace the Invitation",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 151 - May 31",
+        "line": 4328,
+        "month": "May",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 336 - December 2",
+        "line": 9589,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Embrace the Invitation`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-015",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Embrace the Road with Jesus",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 002 - January 2",
+        "line": 56,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 292 - October 19",
+        "line": 8336,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Embrace the Road with Jesus`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-016",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Follow the Friend Who Leads",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 033 - February 2",
+        "line": 943,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 323 - November 19",
+        "line": 9216,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Follow the Friend Who Leads`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-017",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Follow the Light on the Path",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 011 - January 11",
+        "line": 315,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 301 - October 28",
+        "line": 8591,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Follow the Light on the Path`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-018",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Hold Fast to the Call to Follow",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 042 - February 11",
+        "line": 1198,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 332 - November 28",
+        "line": 9471,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Hold Fast to the Call to Follow`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-019",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Hold Fast to the Healing Touch",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 063 - March 4",
+        "line": 1823,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 354 - December 20",
+        "line": 10099,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Hold Fast to the Healing Touch`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-020",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Lean Into the Nearness of Christ",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 072 - March 13",
+        "line": 2080,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 363 - December 29",
+        "line": 10357,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Lean Into the Nearness of Christ`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-021",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Lean Into the Table of Grace",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 029 - January 29",
+        "line": 828,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 213 - August 1",
+        "line": 6088,
+        "month": "August",
+        "recommended_direction": "Retitle this occurrence toward rested witness, Sabbath trust, and obedient availability; preserve the Scripture and devotional angle, but avoid repeating `Lean Into the Table of Grace`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-022",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Let Fire Refine the Road with Jesus",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 014 - January 14",
+        "line": 399,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 304 - October 31",
+        "line": 8675,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Let Fire Refine the Road with Jesus`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-023",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Let Fire Refine the Shepherd's Voice",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 036 - February 5",
+        "line": 1027,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 326 - November 22",
+        "line": 9303,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Let Fire Refine the Shepherd's Voice`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-024",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Let Grace Form Resurrection Hope",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 009 - January 9",
+        "line": 257,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 299 - October 26",
+        "line": 8535,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Let Grace Form Resurrection Hope`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-025",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Let Hope Rise the Shepherd's Voice",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 070 - March 11",
+        "line": 2024,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 361 - December 27",
+        "line": 10298,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Let Hope Rise the Shepherd's Voice`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-026",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Let Love Teach the Call to Follow",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 031 - January 31",
+        "line": 884,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 215 - August 3",
+        "line": 6147,
+        "month": "August",
+        "recommended_direction": "Retitle this occurrence toward rested witness, Sabbath trust, and obedient availability; preserve the Scripture and devotional angle, but avoid repeating `Let Love Teach the Call to Follow`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-027",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Let Love Teach the Table of Grace",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 074 - March 15",
+        "line": 2139,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 365 - December 31",
+        "line": 10413,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Let Love Teach the Table of Grace`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-028",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Let Mercy Speak the Table of Grace",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 040 - February 9",
+        "line": 1142,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 330 - November 26",
+        "line": 9415,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Let Mercy Speak the Table of Grace`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-029",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Let Mercy Speak the Way of Peace",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 061 - March 2",
+        "line": 1767,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 352 - December 18",
+        "line": 10043,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Let Mercy Speak the Way of Peace`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-030",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Let Peace Lead the Table of Grace",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 005 - January 5",
+        "line": 142,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 295 - October 22",
+        "line": 8420,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Let Peace Lead the Table of Grace`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-031",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Listen for the Call to Follow",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 007 - January 7",
+        "line": 198,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 297 - October 24",
+        "line": 8476,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Listen for the Call to Follow`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-032",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Practice Resurrection Hope",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 090 - March 31",
+        "line": 2593,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 275 - October 2",
+        "line": 7851,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Practice Resurrection Hope`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-033",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Practice the Nearness of Christ",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 038 - February 7",
+        "line": 1083,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 328 - November 24",
+        "line": 9359,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Practice the Nearness of Christ`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-034",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Receive the Light on the Path",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 068 - March 9",
+        "line": 1968,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 359 - December 25",
+        "line": 10242,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Receive the Light on the Path`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-035",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Remember the Nearness of Christ",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 003 - January 3",
+        "line": 84,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 293 - October 20",
+        "line": 8364,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Remember the Nearness of Christ`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-036",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Rest in the Invitation",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 012 - January 12",
+        "line": 343,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 302 - October 29",
+        "line": 8619,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Rest in the Invitation`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-037",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Rest in the Light on the Path",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 034 - February 3",
+        "line": 971,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 324 - November 20",
+        "line": 9244,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Rest in the Light on the Path`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-038",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Return to Cross-Shaped Courage",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 043 - February 12",
+        "line": 1226,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 333 - November 29",
+        "line": 9502,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Return to Cross-Shaped Courage`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-039",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Return to the Call to Follow",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 064 - March 5",
+        "line": 1851,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 355 - December 21",
+        "line": 10127,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Return to the Call to Follow`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-040",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "See Again the Healing Touch",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 030 - January 30",
+        "line": 856,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 214 - August 2",
+        "line": 6119,
+        "month": "August",
+        "recommended_direction": "Retitle this occurrence toward rested witness, Sabbath trust, and obedient availability; preserve the Scripture and devotional angle, but avoid repeating `See Again the Healing Touch`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-041",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "See Again the Way of Peace",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 073 - March 14",
+        "line": 2108,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 364 - December 30",
+        "line": 10385,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `See Again the Way of Peace`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-042",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Stand in Cross-Shaped Courage",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 008 - January 8",
+        "line": 229,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 298 - October 25",
+        "line": 8507,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Stand in Cross-Shaped Courage`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-043",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Surrender to the Nearness of Christ",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 060 - March 1",
+        "line": 1739,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 351 - December 17",
+        "line": 10015,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Surrender to the Nearness of Christ`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-044",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Surrender to the Way of Peace",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 039 - February 8",
+        "line": 1114,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 329 - November 25",
+        "line": 9387,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Surrender to the Way of Peace`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-045",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Trust the Invitation",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 069 - March 10",
+        "line": 1996,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 360 - December 26",
+        "line": 10270,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Trust the Invitation`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-046",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Wake Up to the Invitation",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 035 - February 4",
+        "line": 999,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 325 - November 21",
+        "line": 9272,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Wake Up to the Invitation`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-047",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Wake Up to the Shepherd's Voice",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 013 - January 13",
+        "line": 371,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 303 - October 30",
+        "line": 8647,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Wake Up to the Shepherd's Voice`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-048",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Walk in the Way of Peace",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 004 - January 4",
+        "line": 114,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 294 - October 21",
+        "line": 8392,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Walk in the Way of Peace`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-049",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Yield to Cross-Shaped Courage",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 065 - March 6",
+        "line": 1881,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 356 - December 22",
+        "line": 10158,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Yield to Cross-Shaped Courage`."
+      }
+    ]
+  },
+  {
+    "id": "T-V2-050",
+    "issue_type": "duplicate_day_title",
+    "volume": 2,
+    "product": "volume-2-devotional",
+    "product_title": "Walking with Jesus",
+    "repeated_title": "Yield to Resurrection Hope",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 044 - February 13",
+        "line": 1254,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 334 - November 30",
+        "line": 9530,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Yield to Resurrection Hope`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-001",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Anchor Wind in the Waiting",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 066 - March 7",
+        "line": 1903,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 357 - December 23",
+        "line": 10189,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Anchor Wind in the Waiting`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-002",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Awaken Freedom in the Spirit",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 150 - May 30",
+        "line": 4297,
+        "month": "May",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 335 - December 1",
+        "line": 9564,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Awaken Freedom in the Spirit`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-003",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Awaken the Comforter's Nearness",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 001 - January 1",
+        "line": 28,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 291 - October 18",
+        "line": 8311,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Awaken the Comforter's Nearness`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-004",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Behold Oil for the Journey",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 010 - January 10",
+        "line": 285,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 300 - October 27",
+        "line": 8569,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Behold Oil for the Journey`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-005",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Behold Wind in the Waiting",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 032 - February 1",
+        "line": 913,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 322 - November 18",
+        "line": 9194,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Behold Wind in the Waiting`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-006",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Breathe Power to Witness",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 041 - February 10",
+        "line": 1168,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 331 - November 27",
+        "line": 9449,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Breathe Power to Witness`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-007",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Breathe the Spirit's Fruit",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 062 - March 3",
+        "line": 1791,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 353 - December 19",
+        "line": 10074,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Breathe the Spirit's Fruit`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-008",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Carry Holy Fire",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 071 - March 12",
+        "line": 2046,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 362 - December 28",
+        "line": 10329,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Carry Holy Fire`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-009",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Choose Power to Witness",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 006 - January 6",
+        "line": 170,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 296 - October 23",
+        "line": 8454,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Choose Power to Witness`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-010",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Come Home to Holy Fire",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 037 - February 6",
+        "line": 1053,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 327 - November 23",
+        "line": 9334,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Come Home to Holy Fire`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-011",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Come Home to Prayer Beyond Words",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 089 - March 30",
+        "line": 2559,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 274 - October 1",
+        "line": 7829,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Come Home to Prayer Beyond Words`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-012",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Discover Oil for the Journey",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 067 - March 8",
+        "line": 1934,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 358 - December 24",
+        "line": 10217,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Discover Oil for the Journey`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-013",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Discover the Anointing for Today",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 120 - April 30",
+        "line": 3442,
+        "month": "April",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 305 - November 1",
+        "line": 8709,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Discover the Anointing for Today`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-014",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Embrace Holy Fire",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 002 - January 2",
+        "line": 56,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 292 - October 19",
+        "line": 8339,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Embrace Holy Fire`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-015",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Embrace the Breath of God",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 151 - May 31",
+        "line": 4325,
+        "month": "May",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 336 - December 2",
+        "line": 9592,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Embrace the Breath of God`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-016",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Follow Freedom in the Spirit",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 011 - January 11",
+        "line": 313,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 301 - October 28",
+        "line": 8597,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Follow Freedom in the Spirit`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-017",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Follow Oil for the Journey",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 033 - February 2",
+        "line": 941,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 323 - November 19",
+        "line": 9222,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Follow Oil for the Journey`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-018",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Hold Fast to Power to Witness",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 063 - March 4",
+        "line": 1819,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 354 - December 20",
+        "line": 10102,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Hold Fast to Power to Witness`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-019",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Hold Fast to the Seal of Belonging",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 042 - February 11",
+        "line": 1196,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 332 - November 28",
+        "line": 9477,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Hold Fast to the Seal of Belonging`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-020",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Lean Into Rain for Dry Places",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 072 - March 13",
+        "line": 2074,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 363 - December 29",
+        "line": 10360,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Lean Into Rain for Dry Places`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-021",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Lean Into the Spirit's Fruit",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 029 - January 29",
+        "line": 826,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 213 - August 1",
+        "line": 6094,
+        "month": "August",
+        "recommended_direction": "Retitle this occurrence toward rested witness, Sabbath trust, and obedient availability; preserve the Scripture and devotional angle, but avoid repeating `Lean Into the Spirit's Fruit`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-022",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Let Fire Refine Holy Fire",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 014 - January 14",
+        "line": 397,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 304 - October 31",
+        "line": 8681,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Let Fire Refine Holy Fire`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-023",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Let Fire Refine the Comforter's Nearness",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 036 - February 5",
+        "line": 1025,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 326 - November 22",
+        "line": 9306,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Let Fire Refine the Comforter's Nearness`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-024",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Let Grace Form Wind in the Waiting",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 009 - January 9",
+        "line": 257,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 299 - October 26",
+        "line": 8538,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Let Grace Form Wind in the Waiting`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-025",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Let Hope Rise the Comforter's Nearness",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 070 - March 11",
+        "line": 2018,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 361 - December 27",
+        "line": 10301,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Let Hope Rise the Comforter's Nearness`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-026",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Let Love Teach the Seal of Belonging",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 031 - January 31",
+        "line": 882,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 215 - August 3",
+        "line": 6150,
+        "month": "August",
+        "recommended_direction": "Retitle this occurrence toward rested witness, Sabbath trust, and obedient availability; preserve the Scripture and devotional angle, but avoid repeating `Let Love Teach the Seal of Belonging`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-027",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Let Love Teach the Spirit's Fruit",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 074 - March 15",
+        "line": 2133,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 365 - December 31",
+        "line": 10416,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Let Love Teach the Spirit's Fruit`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-028",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Let Mercy Speak the Anointing for Today",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 061 - March 2",
+        "line": 1763,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 352 - December 18",
+        "line": 10046,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Let Mercy Speak the Anointing for Today`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-029",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Let Mercy Speak the Spirit's Fruit",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 040 - February 9",
+        "line": 1140,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 330 - November 26",
+        "line": 9421,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Let Mercy Speak the Spirit's Fruit`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-030",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Let Peace Lead the Spirit's Fruit",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 005 - January 5",
+        "line": 142,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 295 - October 22",
+        "line": 8426,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Let Peace Lead the Spirit's Fruit`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-031",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Listen for the Seal of Belonging",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 007 - January 7",
+        "line": 198,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 297 - October 24",
+        "line": 8482,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Listen for the Seal of Belonging`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-032",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Practice Rain for Dry Places",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 038 - February 7",
+        "line": 1081,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 328 - November 24",
+        "line": 9365,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Practice Rain for Dry Places`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-033",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Practice Wind in the Waiting",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 090 - March 31",
+        "line": 2587,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 275 - October 2",
+        "line": 7857,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Practice Wind in the Waiting`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-034",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Receive Freedom in the Spirit",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 068 - March 9",
+        "line": 1962,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 359 - December 25",
+        "line": 10245,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Receive Freedom in the Spirit`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-035",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Remember Rain for Dry Places",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 003 - January 3",
+        "line": 84,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 293 - October 20",
+        "line": 8370,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Remember Rain for Dry Places`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-036",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Rest in Freedom in the Spirit",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 034 - February 3",
+        "line": 969,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 324 - November 20",
+        "line": 9250,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Rest in Freedom in the Spirit`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-037",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Rest in the Breath of God",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 012 - January 12",
+        "line": 341,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 302 - October 29",
+        "line": 8625,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Rest in the Breath of God`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-038",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Return to Prayer Beyond Words",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 043 - February 12",
+        "line": 1224,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 333 - November 29",
+        "line": 9505,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Return to Prayer Beyond Words`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-039",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Return to the Seal of Belonging",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 064 - March 5",
+        "line": 1847,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 355 - December 21",
+        "line": 10130,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Return to the Seal of Belonging`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-040",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "See Again Power to Witness",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 030 - January 30",
+        "line": 854,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 214 - August 2",
+        "line": 6122,
+        "month": "August",
+        "recommended_direction": "Retitle this occurrence toward rested witness, Sabbath trust, and obedient availability; preserve the Scripture and devotional angle, but avoid repeating `See Again Power to Witness`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-041",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "See Again the Anointing for Today",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 073 - March 14",
+        "line": 2102,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 364 - December 30",
+        "line": 10388,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `See Again the Anointing for Today`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-042",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Stand in Prayer Beyond Words",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 008 - January 8",
+        "line": 229,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 298 - October 25",
+        "line": 8510,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Stand in Prayer Beyond Words`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-043",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Surrender to Rain for Dry Places",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 060 - March 1",
+        "line": 1735,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 351 - December 17",
+        "line": 10018,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Surrender to Rain for Dry Places`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-044",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Surrender to the Anointing for Today",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 039 - February 8",
+        "line": 1112,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 329 - November 25",
+        "line": 9393,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Surrender to the Anointing for Today`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-045",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Trust the Breath of God",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 069 - March 10",
+        "line": 1990,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 360 - December 26",
+        "line": 10273,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Trust the Breath of God`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-046",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Wake Up to the Breath of God",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 035 - February 4",
+        "line": 997,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 325 - November 21",
+        "line": 9278,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Wake Up to the Breath of God`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-047",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Wake Up to the Comforter's Nearness",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 013 - January 13",
+        "line": 369,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 303 - October 30",
+        "line": 8653,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Wake Up to the Comforter's Nearness`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-048",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Walk in the Anointing for Today",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 004 - January 4",
+        "line": 114,
+        "month": "January",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 294 - October 21",
+        "line": 8398,
+        "month": "October",
+        "recommended_direction": "Retitle this occurrence toward testing, correction, and holy steadiness; preserve the Scripture and devotional angle, but avoid repeating `Walk in the Anointing for Today`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-049",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Yield to Prayer Beyond Words",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 065 - March 6",
+        "line": 1875,
+        "month": "March",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 356 - December 22",
+        "line": 10161,
+        "month": "December",
+        "recommended_direction": "Retitle this occurrence toward completion, hope, and carrying the year forward; preserve the Scripture and devotional angle, but avoid repeating `Yield to Prayer Beyond Words`."
+      }
+    ]
+  },
+  {
+    "id": "T-V3-050",
+    "issue_type": "duplicate_day_title",
+    "volume": 3,
+    "product": "volume-3-devotional",
+    "product_title": "Filled with the Holy Spirit",
+    "repeated_title": "Yield to Wind in the Waiting",
+    "occurrence_count": 2,
+    "recommended_action": "revise_secondary_occurrences_unless_author_accepts_refrain",
+    "decision_prompt": "Should this title act as an intentional refrain, or should later occurrences be individualized for month and Scripture?",
+    "recommended_resolution": "Keep at most one strongest occurrence as written, then retitle later occurrences for the local month lens before final upload.",
+    "locations": [
+      {
+        "heading": "Day 044 - February 13",
+        "line": 1250,
+        "month": "February",
+        "recommended_direction": "Potential keeper if this is the strongest contextual use."
+      },
+      {
+        "heading": "Day 334 - November 30",
+        "line": 9533,
+        "month": "November",
+        "recommended_direction": "Retitle this occurrence toward gratitude, remembrance, and covenant faithfulness; preserve the Scripture and devotional angle, but avoid repeating `Yield to Wind in the Waiting`."
+      }
+    ]
+  }
+]
