@@ -32,4 +32,4 @@ Grace for the extra day means you can pause before you push. You can ask for the
 
 **Journal prompt:** Where do I need to receive the Father's knowing before I carry the next responsibility?
 
-**Morning impact:** Let the Father's love carry Grace for the Extra Day into one faithful step today.
+**Morning impact:** Receive this extra day as grace, and let the Father meet one heavy responsibility by name.

@@ -30,7 +30,7 @@ Surrender to love that finds you by letting God lead more than your circumstance
 
 **Journal prompt:** What struggle needs the Father's way, not only my preferred timing?
 
-**Morning impact:** Let the Father's love carry Surrender to Love That Finds You into one faithful step today.
+**Morning impact:** Ask for the Father's way before the timetable changes; love can teach your feet in struggle.
 
 ---
 
@@ -58,7 +58,7 @@ Let mercy speak today. Ask for the presence of God to shape the way you walk thr
 
 **Journal prompt:** Where am I trying to appear strong instead of asking for God's presence?
 
-**Morning impact:** Let the Father's love carry Let Mercy Speak Grace Before Striving into one faithful step today.
+**Morning impact:** Let presence, not appearance, mark one pressure point today; grace goes with you before performance speaks.
 
 ---
 
@@ -86,7 +86,7 @@ The struggle may still be real after prayer. But you do not have to carry it as 
 
 **Journal prompt:** What would change if I began this struggle from being known by the Father?
 
-**Morning impact:** Let the Father's love carry Breathe Mercy in the Morning into one faithful step today.
+**Morning impact:** Begin before the noise by breathing mercy: the Father knows your name here.
 
 ---
 
@@ -114,7 +114,7 @@ Hold fast today. The Father is patient enough to meet you again, and again, and 
 
 **Journal prompt:** What ordinary place can become a place of seeking God in this season?
 
-**Morning impact:** Let the Father's love carry Hold Fast to the Father's Patience into one faithful step today.
+**Morning impact:** Make one ordinary place a meeting place today, and seek the Father before reaction takes over.
 
 ---
 
@@ -140,7 +140,7 @@ Return to love stronger than fear by refusing to treat your life as ownerless or
 
 **Journal prompt:** What part of my life am I treating as self-owned when the Father is calling it redeemed?
 
-**Morning impact:** Let the Father's love carry Return to Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Offer one fear-managed possession back to God; redeemed life does not have to clutch itself.
 
 ---
 
@@ -168,7 +168,7 @@ The Father's compassion is not only comfort after damage. It is the call that br
 
 **Journal prompt:** Where is God calling me to return before distance becomes normal?
 
-**Morning impact:** Let the Father's love carry Yield to Restoring Compassion into one faithful step today.
+**Morning impact:** Return while the door is still tender; compassion is calling you close enough to listen.
 
 ---
 
@@ -196,4 +196,4 @@ On this Saturday Sabbath, let rest become agreement with His character. You do n
 
 **Journal prompt:** Which part of God's revealed character needs to answer my fear today?
 
-**Morning impact:** Let the Father's love carry Anchor the Promise That Holds into one faithful step today.
+**Morning impact:** Rest this Saturday in the character God revealed; His compassion and truth can hold the struggle.

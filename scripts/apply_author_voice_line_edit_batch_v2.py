@@ -63,6 +63,9 @@ class Batch:
     library_out: Path
     replacements: tuple[Replacement, ...]
     expected_entries: int = 7
+    source_names: tuple[str, ...] = ()
+    library_sources: tuple[Path, ...] = ()
+    supporting_source_names: tuple[str, ...] = ()
 
 
 BATCHES = {
@@ -593,6 +596,100 @@ BATCHES = {
             ),
         ),
     ),
+    "volume-1-leap-day-and-days-060-066": Batch(
+        key="volume-1-leap-day-and-days-060-066",
+        scope="Volume 1 Leap Day and Days 060-066",
+        title="Volume 1 Leap Day and Days 060-066 Line Edit",
+        intro=(
+            "The leap-day bonus and first March week of Surrendering to God's Love "
+            "have moved from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame while "
+            "preserving beloved identity, God's way in struggle, presence before "
+            "performance, mercy by name, seeking, redeemed belonging, return, and "
+            "Saturday Sabbath rest in God's revealed character."
+        ),
+        source_name=(
+            "kdp/author-voice-line-edit/volume-1-leap-day-and-days-060-066/"
+            "volume-1-leap-day-and-days-060-066-manuscript.md"
+        ),
+        public_page_name="volume-1-leap-day-and-days-060-066-line-edit.html",
+        output_slug="volume-1-leap-day-and-days-060-066-line-edit",
+        zip_name="Lady-D-Volume-1-Leap-Day-And-Days-060-066-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY
+        / "05 Review Packets"
+        / "Author Voice Line Edit"
+        / "Leap Day and Days 060-066"
+        / "Leap Day and Days 060-066 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Leap Day and Days 060-066",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Leap Day",
+                "Let the Father's love carry Grace for the Extra Day into one faithful step today.",
+                "Receive this extra day as grace, and let the Father meet one heavy responsibility by name.",
+                "Keeps the leap-day gift and being-known-by-name theme concrete without turning the extra day into pressure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 060",
+                "Let the Father's love carry Surrender to Love That Finds You into one faithful step today.",
+                "Ask for the Father's way before the timetable changes; love can teach your feet in struggle.",
+                "Turns the Moses guidance prayer into a practical timing-and-way surrender.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 061",
+                "Let the Father's love carry Let Mercy Speak Grace Before Striving into one faithful step today.",
+                "Let presence, not appearance, mark one pressure point today; grace goes with you before performance speaks.",
+                "Preserves presence before performance as covenant identity rather than image management.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 062",
+                "Let the Father's love carry Breathe Mercy in the Morning into one faithful step today.",
+                "Begin before the noise by breathing mercy: the Father knows your name here.",
+                "Keeps the morning mercy practice personal, named, and easy to carry into the day.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 063",
+                "Let the Father's love carry Hold Fast to the Father's Patience into one faithful step today.",
+                "Make one ordinary place a meeting place today, and seek the Father before reaction takes over.",
+                "Connects the tent-of-meeting lens to an ordinary, repeatable seeking practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 064",
+                "Let the Father's love carry Return to Love Stronger Than Fear into one faithful step today.",
+                "Offer one fear-managed possession back to God; redeemed life does not have to clutch itself.",
+                "Keeps ancient redemption context careful while making redeemed belonging concrete.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 065",
+                "Let the Father's love carry Yield to Restoring Compassion into one faithful step today.",
+                "Return while the door is still tender; compassion is calling you close enough to listen.",
+                "Keeps restoring compassion as a call back before distance becomes normal.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 066",
+                "Let the Father's love carry Anchor the Promise That Holds into one faithful step today.",
+                "Rest this Saturday in the character God revealed; His compassion and truth can hold the struggle.",
+                "Preserves the seventh-day Sabbath guardrail while anchoring rest in God's revealed character.",
+            ),
+        ),
+        expected_entries=8,
+        source_names=("volume-1-leap-day-bonus-manuscript.md", "volume-1-days-060-066-manuscript.md"),
+        library_sources=(
+            VOLUME_1_LIBRARY / "01 Manuscript" / "Month 02 - February" / "Leap Day Bonus Manuscript.md",
+            VOLUME_1_LIBRARY / "01 Manuscript" / "Month 03 - March" / "Days 060-066 Manuscript.md",
+        ),
+        supporting_source_names=(
+            "volume-1-leap-day-and-march-week-1-companion-journal.md",
+            "volume-1-leap-day-and-days-060-066-audit.md",
+        ),
+    ),
 }
 
 
@@ -611,7 +708,10 @@ def display_edit_text(value: str) -> str:
 
 
 def parse_day_entries(text: str) -> list[dict[str, str]]:
-    pattern = re.compile(r"(?ms)^## (?P<label>Day \d{3}) - (?P<date>[^\n]+)\n\n### (?P<title>[^\n]+)(?P<body>.*?)(?=^## Day |\Z)")
+    pattern = re.compile(
+        r"(?ms)^## (?P<label>Day \d{3}|Bonus(?: / Leap Day)?) - (?P<date>[^\n]+)\n\n"
+        r"### (?P<title>[^\n]+)(?P<body>.*?)(?=^## (?:Day \d{3}|Bonus(?: / Leap Day)?) - |\Z)"
+    )
     entries = []
     for match in pattern.finditer(text):
         body = match.group("body")
@@ -631,9 +731,14 @@ def parse_day_entries(text: str) -> list[dict[str, str]]:
 
 def paths_for(batch: Batch) -> dict[str, Path]:
     out = PRODUCTION / "kdp" / "author-voice-line-edit" / batch.key
+    source_names = batch.source_names or (batch.source_name,)
     return {
         "source": PRODUCTION / batch.source_name,
         "public_source": ROOT / "public" / "downloads" / "production" / batch.source_name,
+        "source_parts": [PRODUCTION / name for name in source_names],
+        "public_source_parts": [ROOT / "public" / "downloads" / "production" / name for name in source_names],
+        "supporting": [PRODUCTION / name for name in batch.supporting_source_names],
+        "public_supporting": [ROOT / "public" / "downloads" / "production" / name for name in batch.supporting_source_names],
         "out": out,
         "public_out": ROOT / "public" / "downloads" / "production" / "kdp" / "author-voice-line-edit" / batch.key,
         "source_page": ROOT / batch.public_page_name,
@@ -647,15 +752,25 @@ def paths_for(batch: Batch) -> dict[str, Path]:
     }
 
 
+def combine_sources(texts: list[str]) -> str:
+    return "\n\n---\n\n".join(text.rstrip() for text in texts) + "\n"
+
+
 def apply_replacements(batch: Batch, paths: dict[str, Path]) -> tuple[str, str, list[dict[str, str]]]:
-    original = paths["source"].read_text(encoding="utf-8")
-    text = original
+    source_parts = paths["source_parts"]
+    public_source_parts = paths["public_source_parts"]
+    texts = [path.read_text(encoding="utf-8") for path in source_parts]
+    original = combine_sources(texts) if batch.source_names else texts[0]
     applied = []
     for replacement in batch.replacements:
-        if replacement.before in text:
-            text = text.replace(replacement.before, replacement.after, 1)
+        found_indexes = [idx for idx, value in enumerate(texts) if replacement.before in value]
+        if len(found_indexes) == 1:
+            idx = found_indexes[0]
+            texts[idx] = texts[idx].replace(replacement.before, replacement.after, 1)
             status = "applied"
-        elif replacement.after in text:
+        elif len(found_indexes) > 1:
+            raise RuntimeError(f"Replacement target is ambiguous for {replacement.day}: {replacement.before}")
+        elif any(replacement.after in value for value in texts):
             status = "already_current"
         else:
             raise RuntimeError(f"Replacement target not found for {replacement.day}: {replacement.before}")
@@ -669,6 +784,16 @@ def apply_replacements(batch: Batch, paths: dict[str, Path]) -> tuple[str, str, 
                 "reason": replacement.reason,
             }
         )
+    for idx, path in enumerate(source_parts):
+        write(path, texts[idx])
+        public_path = public_source_parts[idx]
+        public_path.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(path, public_path)
+        if batch.library_sources:
+            library_path = batch.library_sources[idx]
+            library_path.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(path, library_path)
+    text = combine_sources(texts) if batch.source_names else texts[0]
     write(paths["source"], text)
     paths["public_source"].parent.mkdir(parents=True, exist_ok=True)
     shutil.copy2(paths["source"], paths["public_source"])
@@ -740,6 +865,8 @@ def audit(batch: Batch, original: str, text: str, applied: list[dict[str, str]],
             "repo_source": str(paths["source"].relative_to(ROOT)),
             "public_source": str(paths["public_source"].relative_to(ROOT)),
             "library_source": str(batch.library_source),
+            "repo_source_parts": [str(path.relative_to(ROOT)) for path in paths["source_parts"]],
+            "supporting_files": [str(path.relative_to(ROOT)) for path in paths["supporting"]],
         },
         "edits": applied,
         "entries": entries,
@@ -1001,6 +1128,10 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     docx_href = f"downloads/production/kdp/author-voice-line-edit/{batch.key}/{paths['docx'].name}"
     json_href = f"downloads/production/kdp/author-voice-line-edit/{batch.key}/{paths['json'].name}"
     md_href = f"downloads/production/kdp/author-voice-line-edit/{batch.key}/{paths['md'].name}"
+    support_links = "".join(
+        f'<a href="downloads/production/{html.escape(path.name)}">{html.escape(path.name)}</a>'
+        for path in paths["supporting"]
+    )
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -1047,6 +1178,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-039-045-line-edit.html">Days 039-045</a>
     <a href="volume-1-days-046-052-line-edit.html">Days 046-052</a>
     <a href="volume-1-days-053-059-line-edit.html">Days 053-059</a>
+    <a href="volume-1-leap-day-and-days-060-066-line-edit.html">Leap + 060-066</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -1083,6 +1215,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
         <a href="{html.escape(pdf_href)}">PDF Report</a>
         <a href="{html.escape(docx_href)}">DOCX Report</a>
         <a href="{html.escape(json_href)}">Machine-readable JSON</a>
+        {support_links}
       </div>
     </section>
   </main>
@@ -1102,9 +1235,15 @@ def copy_public_and_library(batch: Batch, paths: dict[str, Path], artifact_paths
 
 def build_zip(paths: dict[str, Path], artifact_paths: list[Path]) -> Path:
     with zipfile.ZipFile(paths["zip"], "w", compression=zipfile.ZIP_DEFLATED) as archive:
-        for path in artifact_paths:
+        seen = set()
+        for path in [*artifact_paths, paths["source"], *paths["source_parts"], *paths["supporting"]]:
+            if not path.exists():
+                continue
+            key = path.resolve()
+            if key in seen:
+                continue
+            seen.add(key)
             archive.write(path, arcname=path.name)
-        archive.write(paths["source"], arcname=paths["source"].name)
     return paths["zip"]
 
 
@@ -1113,6 +1252,10 @@ def build_batch(batch_key: str) -> dict[str, object]:
     paths = paths_for(batch)
     paths["out"].mkdir(parents=True, exist_ok=True)
     original, edited, applied = apply_replacements(batch, paths)
+    for source, public_source in zip(paths["supporting"], paths["public_supporting"]):
+        if source.exists():
+            public_source.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(source, public_source)
     payload = audit(batch, original, edited, applied, paths)
     write(paths["json"], json.dumps(payload, indent=2))
     write(paths["md"], markdown_report(batch, payload))
@@ -1139,7 +1282,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-053-059")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-leap-day-and-days-060-066")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

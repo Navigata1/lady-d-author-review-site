@@ -2,16 +2,16 @@
 
 Generated: 2026-07-01
 
-Base commit: `e1226cb`
+Base commit: `c500c77`
 
 Result: Review-ready, not final KDP upload.
 
 ## Summary
 
 - Products checked: 6
-- Source words checked: 369,472
+- Source words checked: 369,473
 - Sabbath mentions: 1300
-- Saturday mentions: 202
+- Saturday mentions: 203
 - Sunday mentions: 0
 - Missing required source/interior/cover files: 0
 
@@ -19,7 +19,7 @@ Result: Review-ready, not final KDP upload.
 
 | Product | Type | Pages | Source words | Sabbath mentions | Sunday mentions | Interior page size |
 | --- | --- | ---: | ---: | ---: | ---: | --- |
-| Surrendering to God's Love | Devotional | 369 | 128,184 | 280 | 0 | 432 x 648 |
+| Surrendering to God's Love | Devotional | 369 | 128,185 | 280 | 0 | 432 x 648 |
 | Surrendering to God's Love Companion Journal | Companion Journal | 470 | 19,854 | 177 | 0 | 432 x 648 |
 | Walking with Jesus | Devotional | 369 | 95,114 | 300 | 0 | 432 x 648 |
 | Walking with Jesus Companion Journal | Companion Journal | 477 | 17,134 | 206 | 0 | 432 x 648 |
