@@ -229,6 +229,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - Path-route full-wrap draft pack for the three main manuscripts.
 - KDP trim and cover readiness worksheet.
 - Volume 1 6 x 9 interior prototype package for the first seven devotional entries.
+- Full Volume 1 6 x 9 interior review draft with all 366 entries.
 - Public Vercel review page for author-facing review.
 
 ## Interior Finalization Deliverables In This Kit
@@ -305,7 +306,7 @@ Run three to seven passes depending on risk:
 
 ## Recommended Next Production Step
 
-Use the Volume 1 6 x 9 prototype as the first approved rhythm candidate, then flow the full Volume 1 manuscript through that system. Once the full Volume 1 interior passes render QA, apply the same system to Volumes 2 and 3, then to the companion journals.
+Use the full Volume 1 6 x 9 interior review draft as the next copyedit and theological proof surface. Once Volume 1 is approved and page count is locked, regenerate its full-wrap cover, then apply the same interior system to Volumes 2 and 3 and the companion journals.
 """
 
 
@@ -336,6 +337,7 @@ def dashboard_html(commit: str) -> str:
         "Path-route full-wrap draft covers generated for the three main manuscripts.",
         "KDP trim and cover worksheet generated from official KDP guidance.",
         "Volume 1 6 x 9 interior prototype package generated for the first seven devotional entries.",
+        "Full Volume 1 6 x 9 interior review draft generated with all 366 entries.",
         "Interior finalization front/back matter templates created for all three volumes.",
     ]
     remaining = [
@@ -424,11 +426,12 @@ def dashboard_html(commit: str) -> str:
   <header>
     <div class="kicker">IDC Publishing release dashboard</div>
     <h1>Lady D Devotional Library release readiness</h1>
-    <p class="lead">The three devotional manuscripts are complete at the dated-entry level and now have master assemblies, companion journals, cover candidates, KDP trim math, full-wrap drafts, interior finalization templates, and the first Volume 1 6 x 9 interior prototype. This dashboard separates what is complete from what still gates true KDP upload readiness.</p>
+    <p class="lead">The three devotional manuscripts are complete at the dated-entry level and now have master assemblies, companion journals, cover candidates, KDP trim math, full-wrap drafts, interior finalization templates, the first Volume 1 6 x 9 interior prototype, and the full Volume 1 6 x 9 interior review draft. This dashboard separates what is complete from what still gates true KDP upload readiness.</p>
     <p><span class="status">Generated 2026-07-01</span> <span class="status">Base commit: {html.escape(commit)}</span></p>
     <div class="actions">
       <a href="production.html">Production Review</a>
       <a href="volume-1-interior-prototype.html">Volume 1 Interior Prototype</a>
+      <a href="volume-1-full-interior-draft.html">Volume 1 Full Draft</a>
       <a href="downloads/production/kdp/interior-finalization/Lady-D-KDP-Interior-Finalization-Kit.zip">Interior Kit ZIP</a>
       <a href="downloads/production/kdp/interior-finalization/lady-d-kdp-interior-finalization-kit.pdf">Interior Kit PDF</a>
     </div>
@@ -454,7 +457,7 @@ def dashboard_html(commit: str) -> str:
     </section>
     <section>
       <h2>Active Recommendation</h2>
-      <p class="lead">Use the Volume 1 6 x 9 prototype as the first approved rhythm candidate, then flow the full Volume 1 manuscript through that system. Do not mark any file as final upload-ready until KDP Previewer and physical proof review pass.</p>
+      <p class="lead">Use the full Volume 1 6 x 9 interior review draft as the next copyedit and theological proof surface. Do not mark any file as final upload-ready until KDP Previewer and physical proof review pass.</p>
       <p><a href="production.html">Return to production review page</a></p>
     </section>
   </main>
