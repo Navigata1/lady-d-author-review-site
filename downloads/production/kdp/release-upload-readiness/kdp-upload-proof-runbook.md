@@ -8,11 +8,11 @@ Status: Operator runbook. This does not replace KDP Previewer or physical proof 
 
 | Product | Type | Pages | Interior page size | White-paper cover size | Status |
 | --- | --- | ---: | --- | --- | --- |
-| Surrendering to God's Love | Devotional | 369 | 432 x 648 | 13.171 x 9.250 in | Review-ready, not final |
+| Surrendering to God's Love | Devotional | 369 | 432 x 648 | 13.081 x 9.250 in | Review-ready, not final |
 | Surrendering to God's Love Companion Journal | Companion Journal | 470 | 432 x 648 | 13.308 x 9.250 in | Review-ready, not final |
-| Walking with Jesus | Devotional | 369 | 432 x 648 | 13.038 x 9.250 in | Review-ready, not final |
+| Walking with Jesus | Devotional | 369 | 432 x 648 | 13.081 x 9.250 in | Review-ready, not final |
 | Walking with Jesus Companion Journal | Companion Journal | 477 | 432 x 648 | 13.324 x 9.250 in | Review-ready, not final |
-| Filled with the Holy Spirit | Devotional | 369 | 432 x 648 | 13.013 x 9.250 in | Review-ready, not final |
+| Filled with the Holy Spirit | Devotional | 369 | 432 x 648 | 13.081 x 9.250 in | Review-ready, not final |
 | Filled with the Holy Spirit Companion Journal | Companion Journal | 483 | 432 x 648 | 13.338 x 9.250 in | Review-ready, not final |
 
 ## Upload Sequence

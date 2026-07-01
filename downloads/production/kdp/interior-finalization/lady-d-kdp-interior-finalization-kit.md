@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Repo commit at generation: `9aab4b1`
+Repo commit at generation: `6980a41`
 
 Status: Production-planning kit. This is not a final KDP upload package.
 
@@ -14,9 +14,9 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 
 | Volume | Title | Devotional review pages | Companion journal 6 x 9 pages | Devotional white / cream cover size | Journal white / cream cover size |
 | --- | --- | ---: | ---: | --- | --- |
-| Volume 1 | Surrendering to God's Love | 409 | 470 | 13.171 x 9.250 in / 13.273 x 9.250 in | 13.308 x 9.250 in / 13.425 x 9.250 in |
-| Volume 2 | Walking with Jesus | 350 | 477 | 13.038 x 9.250 in / 13.125 x 9.250 in | 13.324 x 9.250 in / 13.443 x 9.250 in |
-| Volume 3 | Filled with the Holy Spirit | 339 | 483 | 13.013 x 9.250 in / 13.098 x 9.250 in | 13.338 x 9.250 in / 13.457 x 9.250 in |
+| Volume 1 | Surrendering to God's Love | 369 | 470 | 13.081 x 9.250 in / 13.173 x 9.250 in | 13.308 x 9.250 in / 13.425 x 9.250 in |
+| Volume 2 | Walking with Jesus | 369 | 477 | 13.081 x 9.250 in / 13.173 x 9.250 in | 13.324 x 9.250 in / 13.443 x 9.250 in |
+| Volume 3 | Filled with the Holy Spirit | 369 | 483 | 13.081 x 9.250 in / 13.173 x 9.250 in | 13.338 x 9.250 in / 13.457 x 9.250 in |
 
 ## Completed Production Evidence
 
@@ -37,6 +37,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - Proof decision resolution pack regenerated with zero current decision items.
 - Proof decision application pack generated; the prior 192-item title, morning-impact, and theology queue is preserved as evidence and now audits clear.
 - Reader-facing lens application and author-voice copyedit gate generated; the source and public manuscript mirrors now audit at 1,098 context/language lenses and zero internal production labels.
+- Volume 1 Days 001-007 author-voice line edit completed; the pilot batch now has seven varied morning-impact lines, zero old Volume 1 impact templates, zero internal production labels, and zero Sunday mentions.
 - Public Vercel review page for author-facing review.
 
 ## Interior Finalization Deliverables In This Kit
@@ -111,11 +112,11 @@ Run three to seven passes depending on risk:
 - Final approved 6 x 9 upload interiors with locked page counts.
 - Regenerated full-wrap covers from final page counts.
 - Final KDP metadata approval for all three devotionals and all three companion journals.
-- Full author-voice line edit using the author-voice copyedit gate.
+- Continue author-voice line edits beyond the completed Volume 1 Days 001-007 pilot batch.
 - Author approval of companion journal rhythm and front/back matter.
 - KDP Previewer pass for each upload file.
 - Physical proof review before public release.
 
 ## Recommended Next Production Step
 
-Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack, trilogy proof audit pack, proof decision resolution pack, proof decision application pack, and author-voice copyedit gate as the next trilogy-wide copyedit and theological proof surface. The proof decision queue is clear; the next gate is full author-voice line edit, metadata approval, and final cover regeneration from locked page counts and paper type.
+Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack, trilogy proof audit pack, proof decision resolution pack, proof decision application pack, author-voice copyedit gate, and completed Volume 1 Days 001-007 line-edit batch as the next trilogy-wide copyedit and theological proof surface. The proof decision queue is clear; continue seven-day author-voice line edits, metadata approval, and final cover regeneration from locked page counts and paper type.

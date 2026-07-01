@@ -12,7 +12,7 @@ Status: Draft publishing template. This is not legal advice and is not the final
 - Series: Lady D Devotional Library
 - Volume: 1
 - Spiritual lane: God the Father / love, identity, surrender, forgiveness, timing, daily trust
-- Current manuscript review pages: 409
+- Current manuscript review pages: 369
 - Current companion journal 6 x 9 review pages: 470
 
 ## Recommended Front Matter Order

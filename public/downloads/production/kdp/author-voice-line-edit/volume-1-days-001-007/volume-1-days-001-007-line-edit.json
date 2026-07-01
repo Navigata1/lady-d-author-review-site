@@ -1,0 +1,181 @@
+{
+  "generated": "2026-07-01",
+  "status": "volume_1_days_001_007_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Days 001-007",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited pilot batch for review. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/volume-1-days-001-007-pilot-manuscript.md",
+    "public_source": "public/downloads/production/volume-1-days-001-007-pilot-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/01 Manuscript/Month 01 - January/Days 001-007 Pilot Manuscript.md"
+  },
+  "edits": [
+    {
+      "day": "Day 001",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Awaken the Father's Welcome into one faithful step today.",
+      "after": "Begin this morning received, not measured; let the Father's welcome steady your first step.",
+      "reason": "Breaks the repeated impact frame and speaks directly to the entry's welcome-versus-shame theme."
+    },
+    {
+      "day": "Day 002",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Embrace Beloved Identity into one faithful step today.",
+      "after": "Walk into today from belovedness; no fear gets to write your name before the Father does.",
+      "reason": "Makes identity concrete and memorable without flattering the reader."
+    },
+    {
+      "day": "Day 003",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Remember Love That Finds You into one faithful step today.",
+      "after": "Let one ordinary task become worship, and let the Father's steadiness meet you there.",
+      "reason": "Ties the impact line to the day's ordinary-action-as-worship application."
+    },
+    {
+      "day": "Day 004",
+      "kind": "title",
+      "status": "already_current",
+      "before": "### Walk in Grace Before Performance",
+      "after": "### Walk in Grace Before Striving",
+      "reason": "Aligns the title with the grace/striving language used by the proof decision lane."
+    },
+    {
+      "day": "Day 004",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Walk in Grace Before Striving into one faithful step today.",
+      "after": "Lay down one mask today and let grace tell the truth gently before you strive.",
+      "reason": "Turns the repeated impact template into an action matched to the day's performance theme."
+    },
+    {
+      "day": "Day 005",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Let Peace Lead Mercy in the Morning into one faithful step today.",
+      "after": "Let peace make room for mercy; notice one person the Father's love is asking you to see.",
+      "reason": "Makes the mercy application observable and reader-actionable."
+    },
+    {
+      "day": "Day 006",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Choose the Father's Patience into one faithful step today.",
+      "after": "When the timeline feels tight, choose one patient breath and cling to the Father before control reaches for the wheel.",
+      "reason": "Names the tension of waiting and preserves the `dabaq` cling-to-God lens."
+    },
+    {
+      "day": "Day 007",
+      "kind": "theology_voice",
+      "status": "already_current",
+      "before": "This is also an Adventist-safe Sabbath guardrail for the whole devotional system: obedience is not presented as earning love. True obedience grows from a heart renewed by God. The seventh-day Sabbath, and every act of faithful living, should be received as a gift-shaped response to the Creator and Redeemer, not as a badge of spiritual superiority.",
+      "after": "For Adventist readers, this matters deeply: obedience is not presented as a way to earn love. True obedience grows from a heart renewed by God. The seventh-day Sabbath, and every act of faithful living, can be received as a gift-shaped response to the Creator and Redeemer, not as a badge of spiritual superiority.",
+      "reason": "Removes internal production wording while preserving the Adventist Sabbath and grace guardrail."
+    },
+    {
+      "day": "Day 007",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Listen for Love Stronger Than Fear into one faithful step today.",
+      "after": "Open the guarded place to the Father; obedience can grow from renewed love, not fear.",
+      "reason": "Connects inward heart renewal to grace-shaped obedience."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Day 001",
+      "date": "January 1",
+      "title": "Awaken the Father's Welcome",
+      "scripture": "Deuteronomy 7:8",
+      "morning_impact": "Begin this morning received, not measured; let the Father's welcome steady your first step."
+    },
+    {
+      "label": "Day 002",
+      "date": "January 2",
+      "title": "Embrace Beloved Identity",
+      "scripture": "Deuteronomy 7:9",
+      "morning_impact": "Walk into today from belovedness; no fear gets to write your name before the Father does."
+    },
+    {
+      "label": "Day 003",
+      "date": "January 3",
+      "title": "Remember Love That Finds You",
+      "scripture": "Deuteronomy 10:12",
+      "morning_impact": "Let one ordinary task become worship, and let the Father's steadiness meet you there."
+    },
+    {
+      "label": "Day 004",
+      "date": "January 4",
+      "title": "Walk in Grace Before Striving",
+      "scripture": "Deuteronomy 10:15",
+      "morning_impact": "Lay down one mask today and let grace tell the truth gently before you strive."
+    },
+    {
+      "label": "Day 005",
+      "date": "January 5",
+      "title": "Let Peace Lead Mercy in the Morning",
+      "scripture": "Deuteronomy 10:18",
+      "morning_impact": "Let peace make room for mercy; notice one person the Father's love is asking you to see."
+    },
+    {
+      "label": "Day 006",
+      "date": "January 6",
+      "title": "Choose the Father's Patience",
+      "scripture": "Deuteronomy 30:20",
+      "morning_impact": "When the timeline feels tight, choose one patient breath and cling to the Father before control reaches for the wheel."
+    },
+    {
+      "label": "Day 007",
+      "date": "January 7",
+      "title": "Listen for Love Stronger Than Fear",
+      "scripture": "Deuteronomy 30:6",
+      "morning_impact": "Open the guarded place to the Father; obedience can grow from renewed love, not fear."
+    }
+  ],
+  "audit": {
+    "entries": 7,
+    "scripture_references": 7,
+    "context_lenses": 7,
+    "today_steps": 7,
+    "prayers": 7,
+    "journal_prompts": 7,
+    "morning_impacts": 7,
+    "old_volume_1_template_impacts_before": 0,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 1,
+    "placeholder_flags": 0,
+    "words": 2385
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Seven impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Day 007 keeps Saturday Sabbath and obedience-as-response-to-grace wording while removing internal production phrasing."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The pilot file now has zero `Let the Father's love carry` morning-impact lines."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Source, public mirror, and Production Library source all receive the same edited manuscript."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day batches, then regenerate masters/interiors and update the review site after each meaningful completed gate."
+}

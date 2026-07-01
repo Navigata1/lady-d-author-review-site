@@ -30,27 +30,26 @@ Purpose: prepare the next print-production phase for the three Lady D devotional
 - 6 x 9 interior page size without bleed: 6 x 9 in.
 - 6 x 9 interior page size with bleed: 6.125 x 9.25 in.
 
-## Current Cover Size Matrix
+## Current Devotional Cover Size Matrix
 
-| Artifact | Title | Pages | White-paper spine | White-paper cover size | Cream-paper spine | Cream-paper cover size |
-| --- | --- | ---: | ---: | --- | ---: | --- |
-| Volume 1 manuscript | Surrendering to God's Love | 409 | 0.921 in | 13.171 x 9.250 in | 1.022 in | 13.273 x 9.250 in |
-| Volume 2 manuscript | Walking with Jesus | 350 | 0.788 in | 13.038 x 9.250 in | 0.875 in | 13.125 x 9.250 in |
-| Volume 3 manuscript | Filled with the Holy Spirit | 339 | 0.763 in | 13.013 x 9.250 in | 0.848 in | 13.098 x 9.250 in |
-| Volume 1 journal | Surrendering to God's Love Companion Journal | 470 | 1.058 in | 13.308 x 9.250 in | 1.175 in | 13.425 x 9.250 in |
-| Volume 2 journal | Walking with Jesus Companion Journal | 477 | 1.074 in | 13.324 x 9.250 in | 1.193 in | 13.443 x 9.250 in |
-| Volume 3 journal | Filled with the Holy Spirit Companion Journal | 483 | 1.088 in | 13.338 x 9.250 in | 1.208 in | 13.457 x 9.250 in |
+- Volume 1 manuscript: 369 pages; white-paper spine 0.831 in; white-paper cover 13.081 x 9.250 in; cream-paper spine 0.923 in; cream-paper cover 13.173 x 9.250 in.
+- Volume 2 manuscript: 369 pages; white-paper spine 0.831 in; white-paper cover 13.081 x 9.250 in; cream-paper spine 0.923 in; cream-paper cover 13.173 x 9.250 in.
+- Volume 3 manuscript: 369 pages; white-paper spine 0.831 in; white-paper cover 13.081 x 9.250 in; cream-paper spine 0.923 in; cream-paper cover 13.173 x 9.250 in.
+
+## Current Companion Journal Cover Size Matrix
+
+- Volume 1 journal: 470 pages; white-paper spine 1.058 in; white-paper cover 13.308 x 9.250 in; cream-paper spine 1.175 in; cream-paper cover 13.425 x 9.250 in.
+- Volume 2 journal: 477 pages; white-paper spine 1.074 in; white-paper cover 13.324 x 9.250 in; cream-paper spine 1.193 in; cream-paper cover 13.443 x 9.250 in.
+- Volume 3 journal: 483 pages; white-paper spine 1.088 in; white-paper cover 13.338 x 9.250 in; cream-paper spine 1.208 in; cream-paper cover 13.457 x 9.250 in.
 
 ## Minimum Margin Matrix
 
-| Artifact | Pages | KDP band | Inside/gutter minimum | Outside minimum no bleed | Outside minimum with bleed |
-| --- | ---: | --- | ---: | ---: | ---: |
-| Volume 1 manuscript | 409 | 301-500 pages | 0.625 in | 0.25 in | 0.375 in |
-| Volume 2 manuscript | 350 | 301-500 pages | 0.625 in | 0.25 in | 0.375 in |
-| Volume 3 manuscript | 339 | 301-500 pages | 0.625 in | 0.25 in | 0.375 in |
-| Volume 1 journal | 470 | 301-500 pages | 0.625 in | 0.25 in | 0.375 in |
-| Volume 2 journal | 477 | 301-500 pages | 0.625 in | 0.25 in | 0.375 in |
-| Volume 3 journal | 483 | 301-500 pages | 0.625 in | 0.25 in | 0.375 in |
+- Volume 1 manuscript: 369 pages; 301-500 page band; inside/gutter minimum 0.625 in; outside no-bleed minimum 0.25 in; outside bleed minimum 0.375 in.
+- Volume 2 manuscript: 369 pages; 301-500 page band; inside/gutter minimum 0.625 in; outside no-bleed minimum 0.25 in; outside bleed minimum 0.375 in.
+- Volume 3 manuscript: 369 pages; 301-500 page band; inside/gutter minimum 0.625 in; outside no-bleed minimum 0.25 in; outside bleed minimum 0.375 in.
+- Volume 1 journal: 470 pages; 301-500 page band; inside/gutter minimum 0.625 in; outside no-bleed minimum 0.25 in; outside bleed minimum 0.375 in.
+- Volume 2 journal: 477 pages; 301-500 page band; inside/gutter minimum 0.625 in; outside no-bleed minimum 0.25 in; outside bleed minimum 0.375 in.
+- Volume 3 journal: 483 pages; 301-500 page band; inside/gutter minimum 0.625 in; outside no-bleed minimum 0.25 in; outside bleed minimum 0.375 in.
 
 ## Recommended Interior Path
 

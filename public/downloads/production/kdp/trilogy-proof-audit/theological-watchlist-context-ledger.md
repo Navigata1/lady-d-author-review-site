@@ -6,7 +6,7 @@ This ledger captures `earn` and `performance` contexts for theological proof. Th
 
 ## Surrendering to God's Love - Devotional
 
-Contexts captured: 209
+Contexts captured: 208
 
 | Line | Term | Preliminary read | Context |
 | ---: | --- | --- | --- |
@@ -14,16 +14,15 @@ Contexts captured: 209
 | 36 | performance | likely grace-aligned | anguage lens:** `ahavah` - love that chooses, moves toward, and binds itself to the beloved. God's love does not begin with your performance. It does not wait at the finish line to see if you can finally become worthy of being held. In this passage, Israel is reminded t |
 | 42 | performance | likely grace-aligned | t. But it starts with belonging, not bargaining. When you know you are loved by the Father, obedience becomes response instead of performance. **Today step:** Before checking messages or stepping into tasks, pause and say: "Father, I receive Your love before I try to pr |
 | 46 | earn | likely grace-aligned | :** Father, teach my heart to begin where You begin. Let Your love speak before fear, pressure, or shame. I surrender the need to earn what You have already given. Make my obedience today a grateful response to Your faithful love. Amen. **Journal prompt:** Where |
-| 48 | earn | likely grace-aligned | given. Make my obedience today a grateful response to Your faithful love. Amen. **Journal prompt:** Where have I been trying to earn welcome instead of receiving the Father's love first? **Morning impact:** Let the Father's love carry Awaken the Father's Welcom |
+| 48 | earn | likely grace-aligned | given. Make my obedience today a grateful response to Your faithful love. Amen. **Journal prompt:** Where have I been trying to earn welcome instead of receiving the Father's love first? **Morning impact:** Begin this morning received, not measured; let the Fat |
 | 88 | performance | likely grace-aligned | ove Him, serve Him, and keep His ways. At first glance, the list may feel heavy. But it is not the weight of a stranger demanding performance. It is the voice of the faithful Father showing His children what life looks like when love has found them. The Father does not |
-| 108 | Performance | likely grace-aligned | er's love carry Remember Love That Finds You into one faithful step today. --- ## Day 004 - January 4 ### Walk in Grace Before Performance **Scripture Reference:** Deuteronomy 10:15 **Context and language lens:** `lev` - the heart as the center of desire, thought, c |
 | 116 | Performance | likely grace-aligned | hed on a shelf, but grace as the living truth that God's love reaches the heart before the heart knows how to make itself whole. Performance is exhausting because it never knows when to rest. It says, "Do more, prove more, hide more, achieve more." Grace says, "Come nea |
 | 116 | Performance | likely grace-aligned | when to rest. It says, "Do more, prove more, hide more, achieve more." Grace says, "Come near and let the Father tell the truth." Performance wants applause. Grace wants surrender. Performance polishes the outside while the heart stays afraid. Grace enters the heart and |
 | 116 | Performance | likely grace-aligned | ore, achieve more." Grace says, "Come near and let the Father tell the truth." Performance wants applause. Grace wants surrender. Performance polishes the outside while the heart stays afraid. Grace enters the heart and begins healing what performance could only cover. |
 | 116 | performance | likely grace-aligned | ce wants surrender. Performance polishes the outside while the heart stays afraid. Grace enters the heart and begins healing what performance could only cover. The Hebrew idea of heart is not small. It is not only emotion. It is the inner command center of desire, thoug |
 | 120 | performance | likely grace-aligned | ove is deeper than the mask. He does not ask you to keep performing so He can finally accept you. He invites you to surrender the performance so He can form you. **Today step:** Name one performance habit and practice one honest act instead. **Prayer:** Father, I surre |
 | 122 | performance | likely grace-aligned | erforming so He can finally accept you. He invites you to surrender the performance so He can form you. **Today step:** Name one performance habit and practice one honest act instead. **Prayer:** Father, I surrender the version of myself I keep trying to prove. Meet me |
-| 198 | earning | likely grace-aligned | he heart itself. This is also an Adventist-safe Sabbath guardrail for the whole devotional system: obedience is not presented as earning love. True obedience grows from a heart renewed by God. The seventh-day Sabbath, and every act of faithful living, should be rece |
+| 198 | earn | likely grace-aligned | y what is visible. He wants the heart itself. For Adventist readers, this matters deeply: obedience is not presented as a way to earn love. True obedience grows from a heart renewed by God. The seventh-day Sabbath, and every act of faithful living, can be receive |
 | 383 | earned | likely grace-aligned | eople to remember. Commandment-keeping must never become a platform for superiority. The seventh-day Sabbath is not proof that we earned love. It is a weekly sign that the Creator and Redeemer has already acted with grace. We keep what He gives because love has taug |
 | 412 | performance | likely grace-aligned | xt. The Father does not merely send information into that place. He reveals His character. Grace means God is not forced by your performance. Compassion means He is not cold toward your weakness. His love is free, but it is not random. It flows from who He is. When He c |
 | 428 | Performance | likely grace-aligned | ove carry Come Home to Love That Finds You into one faithful step today. --- ## Day 016 - January 16 ### Practice Grace Before Performance **Scripture Reference:** Exodus 34:7 **Context and language lens:** `hesed/emet/nasa` - steadfast love, faithfulness, and forgi |
@@ -45,7 +44,8 @@ Contexts captured: 209
 | 1025 | performance | likely grace-aligned | to listen so I may live." **Prayer:** Father, make my heart teachable. Let Your commands become pathways of life, not weights of performance. Help me practice the love that found me by listening, living, and walking as Your beloved child. Amen. **Journal prompt:** Wher |
 | 1038 | Performance | likely grace-aligned | l step today. --- <!-- Source: volume-1-days-039-045-manuscript.md --> ## Day 039 - February 8 ### Surrender to Grace Before Performance **Scripture Reference:** Deuteronomy 4:29 **Context and language lens:** `baqash/matsa/levav/nephesh` - seek, find, heart, and |
 | 1044 | performance | likely grace-aligned | sh` - seek, find, heart, and soul - because the passage promises that God is found when the whole person seeks Him. Grace before performance does not mean a careless search for God. It means the Father invites the whole heart to seek Him without pretending first. Deuter |
-|  |  |  | 174 additional contexts are available in the JSON ledger. |
+| 1044 | performance | likely grace-aligned | rcy of seeking and finding. That is beloved identity: even when distance has happened, the Father does not turn the search into a performance stage. Some hearts wait until they feel clean enough to seek God. Others seek Him only with the part of the heart that still loo |
+|  |  |  | 173 additional contexts are available in the JSON ledger. |
 
 ## Surrendering to God's Love Companion Journal - Companion Journal
 

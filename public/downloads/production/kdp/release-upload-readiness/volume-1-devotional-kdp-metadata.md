@@ -17,8 +17,8 @@ Status: Metadata working draft. Do not paste into KDP until author/publisher app
 - Trim: 6 x 9 in paperback
 - Interior: black ink, no-bleed review draft
 - Current review page count: 369
-- Current white-paper cover working size: 13.171 x 9.250 in
-- Current cream-paper cover working size: 13.273 x 9.250 in
+- Current white-paper cover working size: 13.081 x 9.250 in
+- Current cream-paper cover working size: 13.173 x 9.250 in
 
 ## Description Draft
 

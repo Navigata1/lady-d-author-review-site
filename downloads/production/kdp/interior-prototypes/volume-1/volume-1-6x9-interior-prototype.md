@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Base commit: `3995480`
+Base commit: `6980a41`
 
 Status: Prototype for KDP interior design review. This is not a final KDP upload file.
 
@@ -19,7 +19,7 @@ Status: Prototype for KDP interior design review. This is not a final KDP upload
 ## KDP Setup Basis
 
 - 6 x 9 is a standard KDP paperback trim option.
-- Current Volume 1 review master is estimated at 409 pages, so the prototype uses a conservative inside/gutter setting for the 301-500 page band.
+- Current Volume 1 review master is 369 pages, so the prototype uses a conservative inside/gutter setting for the 301-500 page band.
 - Interior is treated as no-bleed because this devotional text sample does not use edge-to-edge interior images.
 
 ## Prototype Contents
@@ -29,7 +29,7 @@ Status: Prototype for KDP interior design review. This is not a final KDP upload
 | 1 | January 1 | Awaken the Father's Welcome | Deuteronomy 7:8 |
 | 2 | January 2 | Embrace Beloved Identity | Deuteronomy 7:9 |
 | 3 | January 3 | Remember Love That Finds You | Deuteronomy 10:12 |
-| 4 | January 4 | Walk in Grace Before Performance | Deuteronomy 10:15 |
+| 4 | January 4 | Walk in Grace Before Striving | Deuteronomy 10:15 |
 | 5 | January 5 | Let Peace Lead Mercy in the Morning | Deuteronomy 10:18 |
 | 6 | January 6 | Choose the Father's Patience | Deuteronomy 30:20 |
 | 7 | January 7 | Listen for Love Stronger Than Fear | Deuteronomy 30:6 |

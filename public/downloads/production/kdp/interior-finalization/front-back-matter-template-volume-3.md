@@ -12,7 +12,7 @@ Status: Draft publishing template. This is not legal advice and is not the final
 - Series: Lady D Devotional Library
 - Volume: 3
 - Spiritual lane: Holy Spirit / filling, comfort, conviction, gifts, fruit, rain, oil, breath
-- Current manuscript review pages: 339
+- Current manuscript review pages: 369
 - Current companion journal 6 x 9 review pages: 483
 
 ## Recommended Front Matter Order

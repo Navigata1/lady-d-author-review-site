@@ -30,7 +30,7 @@ This is not passive love. Chosen love calls you into a life that looks different
 
 **Journal prompt:** Where have I been trying to earn welcome instead of receiving the Father's love first?
 
-**Morning impact:** Let the Father's love carry Awaken the Father's Welcome into one faithful step today.
+**Morning impact:** Begin this morning received, not measured; let the Father's welcome steady your first step.
 
 ---
 
@@ -56,7 +56,7 @@ Today, do not let fear write your name tag. Do not let yesterday's failure renam
 
 **Journal prompt:** Which false identity tries to speak loudest over me in this season?
 
-**Morning impact:** Let the Father's love carry Embrace Beloved Identity into one faithful step today.
+**Morning impact:** Walk into today from belovedness; no fear gets to write your name before the Father does.
 
 ---
 
@@ -82,13 +82,13 @@ Today is not asking for a dramatic religious self-measuring. It is asking for th
 
 **Journal prompt:** What ordinary part of my day needs to become an act of worship instead of a place of complaint?
 
-**Morning impact:** Let the Father's love carry Remember Love That Finds You into one faithful step today.
+**Morning impact:** Let one ordinary task become worship, and let the Father's steadiness meet you there.
 
 ---
 
 ## Day 004 - January 4
 
-### Walk in Grace Before Performance
+### Walk in Grace Before Striving
 
 **Scripture Reference:** Deuteronomy 10:15
 
@@ -108,7 +108,7 @@ Today, notice where you are tempted to perform for love. Maybe you perform throu
 
 **Journal prompt:** Where am I performing strength while my heart is asking for grace?
 
-**Morning impact:** Let the Father's love carry Walk in Grace Before Striving into one faithful step today.
+**Morning impact:** Lay down one mask today and let grace tell the truth gently before you strive.
 
 ---
 
@@ -134,7 +134,7 @@ Today, let the Father's love open your eyes. Someone around you may need a call,
 
 **Journal prompt:** Who near me needs mercy to become visible through my actions, not only my words?
 
-**Morning impact:** Let the Father's love carry Let Peace Lead Mercy in the Morning into one faithful step today.
+**Morning impact:** Let peace make room for mercy; notice one person the Father's love is asking you to see.
 
 ---
 
@@ -160,7 +160,7 @@ This is deeply practical. When impatience rises, the heart often reaches for con
 
 **Journal prompt:** Where am I tempted to interpret delay as distance from God?
 
-**Morning impact:** Let the Father's love carry Choose the Father's Patience into one faithful step today.
+**Morning impact:** When the timeline feels tight, choose one patient breath and cling to the Father before control reaches for the wheel.
 
 ---
 
@@ -178,7 +178,7 @@ That is mercy. The Father does not simply stand outside the heart demanding that
 
 Surrendering to God's love means allowing Him into the inner places, not only asking Him to manage the outer problems. We often want God to fix circumstances while leaving our defenses untouched. But the Father loves us too deeply to heal only what is visible. He wants the heart itself.
 
-This is also an Adventist-safe Sabbath guardrail for the whole devotional system: obedience is not presented as earning love. True obedience grows from a heart renewed by God. The seventh-day Sabbath, and every act of faithful living, should be received as a gift-shaped response to the Creator and Redeemer, not as a badge of spiritual superiority.
+For Adventist readers, this matters deeply: obedience is not presented as a way to earn love. True obedience grows from a heart renewed by God. The seventh-day Sabbath, and every act of faithful living, can be received as a gift-shaped response to the Creator and Redeemer, not as a badge of spiritual superiority.
 
 Today, listen for the Father's love where fear has been loud. He is not asking for a polished heart. He is asking for access.
 
@@ -188,4 +188,4 @@ Today, listen for the Father's love where fear has been loud. He is not asking f
 
 **Journal prompt:** What part of my heart has learned to obey outwardly while staying afraid inwardly?
 
-**Morning impact:** Let the Father's love carry Listen for Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Open the guarded place to the Father; obedience can grow from renewed love, not fear.

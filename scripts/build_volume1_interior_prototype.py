@@ -404,7 +404,7 @@ Status: Prototype for KDP interior design review. This is not a final KDP upload
 ## KDP Setup Basis
 
 - 6 x 9 is a standard KDP paperback trim option.
-- Current Volume 1 review master is estimated at 409 pages, so the prototype uses a conservative inside/gutter setting for the 301-500 page band.
+- Current Volume 1 review master is 369 pages, so the prototype uses a conservative inside/gutter setting for the 301-500 page band.
 - Interior is treated as no-bleed because this devotional text sample does not use edge-to-edge interior images.
 
 ## Prototype Contents

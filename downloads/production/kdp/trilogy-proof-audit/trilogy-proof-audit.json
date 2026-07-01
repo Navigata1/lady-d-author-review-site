@@ -1,15 +1,15 @@
 {
   "generated": "2026-07-01",
-  "commit": "9aab4b1",
+  "commit": "6980a41",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369512,
+    "words": 369515,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1300,
+    "sabbath_mentions": 1299,
     "saturday_mentions": 202,
-    "works_watch_contexts": 356,
+    "works_watch_contexts": 355,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
     "duplicate_morning_impact_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128224,
+      "words": 128227,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -35,9 +35,9 @@
       "structure_status": "pass",
       "placeholders": 0,
       "sunday_mentions": 0,
-      "sabbath_mentions": 280,
+      "sabbath_mentions": 279,
       "saturday_mentions": 63,
-      "works_watch_contexts": 209,
+      "works_watch_contexts": 208,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
       "duplicate_morning_impact_groups": 0,
@@ -215,7 +215,7 @@
       "kind": "Devotional",
       "term": "earn",
       "line": 48,
-      "snippet": "given. Make my obedience today a grateful response to Your faithful love. Amen. **Journal prompt:** Where have I been trying to earn welcome instead of receiving the Father's love first? **Morning impact:** Let the Father's love carry Awaken the Father's Welcom",
+      "snippet": "given. Make my obedience today a grateful response to Your faithful love. Amen. **Journal prompt:** Where have I been trying to earn welcome instead of receiving the Father's love first? **Morning impact:** Begin this morning received, not measured; let the Fat",
       "preliminary_read": "likely grace-aligned"
     },
     {
@@ -225,15 +225,6 @@
       "term": "performance",
       "line": 88,
       "snippet": "ove Him, serve Him, and keep His ways. At first glance, the list may feel heavy. But it is not the weight of a stranger demanding performance. It is the voice of the faithful Father showing His children what life looks like when love has found them. The Father does not",
-      "preliminary_read": "likely grace-aligned"
-    },
-    {
-      "product": "volume-1-devotional",
-      "title": "Surrendering to God's Love",
-      "kind": "Devotional",
-      "term": "Performance",
-      "line": 108,
-      "snippet": "er's love carry Remember Love That Finds You into one faithful step today. --- ## Day 004 - January 4 ### Walk in Grace Before Performance **Scripture Reference:** Deuteronomy 10:15 **Context and language lens:** `lev` - the heart as the center of desire, thought, c",
       "preliminary_read": "likely grace-aligned"
     },
     {
@@ -294,9 +285,9 @@
       "product": "volume-1-devotional",
       "title": "Surrendering to God's Love",
       "kind": "Devotional",
-      "term": "earning",
+      "term": "earn",
       "line": 198,
-      "snippet": "he heart itself. This is also an Adventist-safe Sabbath guardrail for the whole devotional system: obedience is not presented as earning love. True obedience grows from a heart renewed by God. The seventh-day Sabbath, and every act of faithful living, should be rece",
+      "snippet": "y what is visible. He wants the heart itself. For Adventist readers, this matters deeply: obedience is not presented as a way to earn love. True obedience grows from a heart renewed by God. The seventh-day Sabbath, and every act of faithful living, can be receive",
       "preliminary_read": "likely grace-aligned"
     },
     {

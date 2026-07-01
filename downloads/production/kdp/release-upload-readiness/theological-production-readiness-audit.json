@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "9aab4b1",
+  "commit": "6980a41",
   "result": "review_ready_not_final_upload",
   "totals": {
     "products": 6,
     "missing_files": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1300,
+    "sabbath_mentions": 1299,
     "saturday_mentions": 202,
-    "words": 369512
+    "words": 369515
   },
   "products": [
     {
@@ -30,20 +30,20 @@
       "cover": {
         "exists": true,
         "pages": 1,
-        "page_size_points": "948.24 x 666",
+        "page_size_points": "941.76 x 666",
         "encrypted": false
       },
       "counts": {
-        "words": 128224,
-        "sabbath_mentions": 280,
+        "words": 128227,
+        "sabbath_mentions": 279,
         "saturday_mentions": 63,
         "sunday_mentions": 0,
-        "performance_mentions": 174,
+        "performance_mentions": 173,
         "earn_mentions": 35
       },
       "missing": [],
-      "cover_size_white": "13.171 x 9.250 in",
-      "cover_size_cream": "13.273 x 9.250 in",
+      "cover_size_white": "13.081 x 9.250 in",
+      "cover_size_cream": "13.173 x 9.250 in",
       "upload_status": "review-ready-not-final-upload"
     },
     {
@@ -100,7 +100,7 @@
       "cover": {
         "exists": true,
         "pages": 1,
-        "page_size_points": "938.64 x 666",
+        "page_size_points": "941.76 x 666",
         "encrypted": false
       },
       "counts": {
@@ -112,8 +112,8 @@
         "earn_mentions": 9
       },
       "missing": [],
-      "cover_size_white": "13.038 x 9.250 in",
-      "cover_size_cream": "13.125 x 9.250 in",
+      "cover_size_white": "13.081 x 9.250 in",
+      "cover_size_cream": "13.173 x 9.250 in",
       "upload_status": "review-ready-not-final-upload"
     },
     {
@@ -170,7 +170,7 @@
       "cover": {
         "exists": true,
         "pages": 1,
-        "page_size_points": "936.96 x 666",
+        "page_size_points": "941.76 x 666",
         "encrypted": false
       },
       "counts": {
@@ -182,8 +182,8 @@
         "earn_mentions": 9
       },
       "missing": [],
-      "cover_size_white": "13.013 x 9.250 in",
-      "cover_size_cream": "13.098 x 9.250 in",
+      "cover_size_white": "13.081 x 9.250 in",
+      "cover_size_cream": "13.173 x 9.250 in",
       "upload_status": "review-ready-not-final-upload"
     },
     {
