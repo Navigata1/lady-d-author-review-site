@@ -315,6 +315,75 @@ BATCHES = {
         ),
         expected_entries=3,
     ),
+    "volume-1-days-032-038": Batch(
+        key="volume-1-days-032-038",
+        scope="Volume 1 Days 032-038",
+        title="Volume 1 Days 032-038 Line Edit",
+        intro=(
+            "The February opening batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame, opens the "
+            "Beloved Identity arc, and preserves return, obedience, Sabbath, "
+            "and correction inside the grace-shaped Adventist frame."
+        ),
+        source_name="volume-1-days-032-038-manuscript.md",
+        public_page_name="volume-1-days-032-038-line-edit.html",
+        output_slug="volume-1-days-032-038-line-edit",
+        zip_name="Lady-D-Volume-1-Days-032-038-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 02 - February" / "Days 032-038 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 032-038",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 032",
+                "Let the Father's love carry Behold the Promise That Holds into one faithful step today.",
+                "Return the divided place to the Father today; beloved identity grows where hiding ends.",
+                "Keeps Deuteronomy 30 return language concrete and ties beloved identity to honest surrender.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 033",
+                "Let the Father's love carry Follow the Heart That Calls You into one faithful step today.",
+                "Let compassion gather one scattered piece today; the Father knows every place to call home.",
+                "Preserves the gathering/restoration theme without repeating the architecture title.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 034",
+                "Let the Father's love carry Rest in Love That Sends You into one faithful step today.",
+                "Move from belonging, not pressure; the Father sends loved children into faithful steps.",
+                "Keeps the sent-from-belonging frame and avoids performance pressure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 035",
+                "Let the Father's love carry Wake Up to Covenant Mercy into one faithful step today.",
+                "Let the Father be kinder than disappointment taught you to expect today.",
+                "Turns covenant mercy into a memorable reader-facing challenge to suspicion and disappointment.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 036",
+                "Let the Father's love carry Let Fire Refine the Father's Welcome into one faithful step today.",
+                "Name the rival love honestly today; holy welcome is strong enough to refine it.",
+                "Holds warning, welcome, holiness, and correction together without condemnation.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 037",
+                "Let the Father's love carry Come Home to Beloved Identity into one faithful step today.",
+                "Receive the gift with gratitude today, then keep your heart close to the Giver.",
+                "Keeps fullness from becoming forgetfulness and gives the reader a concrete gratitude practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 038",
+                "Let the Father's love carry Practice Love That Finds You into one faithful step today.",
+                "Listen for life this Sabbath; the Father forms beloved children through holy rhythms.",
+                "Preserves Saturday Sabbath as formation for beloved children rather than performance.",
+            ),
+        ),
+    ),
 }
 
 
@@ -765,6 +834,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-015-021-line-edit.html">Days 015-021</a>
     <a href="volume-1-days-022-028-line-edit.html">Days 022-028</a>
     <a href="volume-1-days-029-031-line-edit.html">Days 029-031</a>
+    <a href="volume-1-days-032-038-line-edit.html">Days 032-038</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -857,7 +927,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-029-031")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-032-038")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

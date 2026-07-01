@@ -1,13 +1,13 @@
 {
   "generated": "2026-07-01",
-  "commit": "ff233b2",
+  "commit": "35b2cb1",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369501,
+    "words": 369488,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1299,
+    "sabbath_mentions": 1300,
     "saturday_mentions": 202,
     "works_watch_contexts": 355,
     "review_required_contexts": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128213,
+      "words": 128200,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -35,7 +35,7 @@
       "structure_status": "pass",
       "placeholders": 0,
       "sunday_mentions": 0,
-      "sabbath_mentions": 279,
+      "sabbath_mentions": 280,
       "saturday_mentions": 63,
       "works_watch_contexts": 208,
       "review_required_contexts": 0,
@@ -467,7 +467,7 @@
       "kind": "Devotional",
       "term": "Performance",
       "line": 1038,
-      "snippet": "l step today. --- <!-- Source: volume-1-days-039-045-manuscript.md --> ## Day 039 - February 8 ### Surrender to Grace Before Performance **Scripture Reference:** Deuteronomy 4:29 **Context and language lens:** `baqash/matsa/levav/nephesh` - seek, find, heart, and",
+      "snippet": "holy rhythms. --- <!-- Source: volume-1-days-039-045-manuscript.md --> ## Day 039 - February 8 ### Surrender to Grace Before Performance **Scripture Reference:** Deuteronomy 4:29 **Context and language lens:** `baqash/matsa/levav/nephesh` - seek, find, heart, and",
       "preliminary_read": "likely grace-aligned"
     },
     {

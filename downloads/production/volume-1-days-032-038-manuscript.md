@@ -30,7 +30,7 @@ Today, behold the promise that holds: you can return. Not as a stranger begging 
 
 **Journal prompt:** What part of my heart needs to return instead of hiding?
 
-**Morning impact:** Let the Father's love carry Behold the Promise That Holds into one faithful step today.
+**Morning impact:** Return the divided place to the Father today; beloved identity grows where hiding ends.
 
 ---
 
@@ -56,7 +56,7 @@ This is a gentle correction to fear. Fear says, "Too much has been lost." The Fa
 
 **Journal prompt:** Where do I need the Father to gather what has been scattered?
 
-**Morning impact:** Let the Father's love carry Follow the Heart That Calls You into one faithful step today.
+**Morning impact:** Let compassion gather one scattered piece today; the Father knows every place to call home.
 
 ---
 
@@ -82,7 +82,7 @@ There is also humility here. Promise is not possession for pride. If God brings 
 
 **Journal prompt:** What step am I trying to take from pressure that God wants me to take from beloved identity?
 
-**Morning impact:** Let the Father's love carry Rest in Love That Sends You into one faithful step today.
+**Morning impact:** Move from belonging, not pressure; the Father sends loved children into faithful steps.
 
 ---
 
@@ -108,7 +108,7 @@ Wake up to mercy by letting God be kinder than your fear has allowed Him to be. 
 
 **Journal prompt:** Where have I been bracing for rejection when the Father is inviting me to receive mercy?
 
-**Morning impact:** Let the Father's love carry Wake Up to Covenant Mercy into one faithful step today.
+**Morning impact:** Let the Father be kinder than disappointment taught you to expect today.
 
 ---
 
@@ -134,7 +134,7 @@ This is why warning and love belong together. A welcomed child still needs corre
 
 **Journal prompt:** What rival love has been asking for too much of my heart?
 
-**Morning impact:** Let the Father's love carry Let Fire Refine the Father's Welcome into one faithful step today.
+**Morning impact:** Name the rival love honestly today; holy welcome is strong enough to refine it.
 
 ---
 
@@ -160,7 +160,7 @@ This is a beautiful discipline: to receive good without drifting, to enjoy bless
 
 **Journal prompt:** What good gift could become a distraction if I stop returning it to God?
 
-**Morning impact:** Let the Father's love carry Come Home to Beloved Identity into one faithful step today.
+**Morning impact:** Receive the gift with gratitude today, then keep your heart close to the Giver.
 
 ---
 
@@ -186,4 +186,4 @@ If obedience has felt heavy, ask the Father to restore the connection between li
 
 **Journal prompt:** Where is God asking me to listen so I may live more fully as His beloved child?
 
-**Morning impact:** Let the Father's love carry Practice Love That Finds You into one faithful step today.
+**Morning impact:** Listen for life this Sabbath; the Father forms beloved children through holy rhythms.
