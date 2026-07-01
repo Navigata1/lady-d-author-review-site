@@ -30,7 +30,7 @@ Come home today from the exhausting place where you keep trying to make God unde
 
 **Journal prompt:** Where have I been asking for answers while my heart most needs a fresh vision of God's goodness?
 
-**Morning impact:** Let the Father's love carry Come Home to Love That Finds You into one faithful step today.
+**Morning impact:** Come home from needing every answer today; let the Father's goodness steady your next step.
 
 ---
 
@@ -56,7 +56,7 @@ Practicing grace before performance today may look like confession instead of im
 
 **Journal prompt:** What am I still trying to manage through performance that needs to be brought into grace?
 
-**Morning impact:** Let the Father's love carry Practice Grace Before Striving into one faithful step today.
+**Morning impact:** Bring one unpolished burden into grace before you try to manage how it looks.
 
 ---
 
@@ -82,7 +82,7 @@ You may not know how everything will unfold. But you can entrust the span of you
 
 **Journal prompt:** What long-term concern keeps stealing peace from this morning?
 
-**Morning impact:** Let the Father's love carry Surrender to Mercy in the Morning into one faithful step today.
+**Morning impact:** Place the long road in the Father's hands, and receive mercy for this morning.
 
 ---
 
@@ -108,7 +108,7 @@ Let mercy speak today. Not the voice that excuses unbelief, but the voice that s
 
 **Journal prompt:** What old name tries to return when God's promise feels slow?
 
-**Morning impact:** Let the Father's love carry Let Mercy Speak the Father's Patience into one faithful step today.
+**Morning impact:** Refuse the name fear gave you; walk today under the identity grace is forming.
 
 ---
 
@@ -134,7 +134,7 @@ Today, breathe before fear finishes its sentence. You do not have to solve the w
 
 **Journal prompt:** What uncertain road am I walking right now, and where do I need to notice God's presence on the way?
 
-**Morning impact:** Let the Father's love carry Breathe Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Pause, breathe, and let God's presence answer fear before fear finishes speaking.
 
 ---
 
@@ -160,7 +160,7 @@ Today, hold fast to the God who understands family grief, betrayal, repentance, 
 
 **Journal prompt:** Where do I need God's wisdom to hold both truth and mercy?
 
-**Morning impact:** Let the Father's love carry Hold Fast to Restoring Compassion into one faithful step today.
+**Morning impact:** Ask the Father for mercy with boundaries, forgiveness without denial, and a heart free from bitterness.
 
 ---
 
@@ -186,4 +186,4 @@ This is one of the deep mercies of God: His love is sturdy enough for your hones
 
 **Journal prompt:** What honest prayer have I been afraid to bring to God, and what truth can help me return to trust?
 
-**Morning impact:** Let the Father's love carry Return to the Promise That Holds into one faithful step today.
+**Morning impact:** Pray honestly, then rest the weight of your sorrow on the Father's steadfast love.

@@ -134,6 +134,75 @@ BATCHES = {
             ),
         ),
     ),
+    "volume-1-days-015-021": Batch(
+        key="volume-1-days-015-021",
+        scope="Volume 1 Days 015-021",
+        title="Volume 1 Days 015-021 Line Edit",
+        intro=(
+            "The third seven-day batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame, preserves "
+            "lament, mercy, forgiveness, and identity themes, and keeps obedience "
+            "as response to grace."
+        ),
+        source_name="volume-1-days-015-021-manuscript.md",
+        public_page_name="volume-1-days-015-021-line-edit.html",
+        output_slug="volume-1-days-015-021-line-edit",
+        zip_name="Lady-D-Volume-1-Days-015-021-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 01 - January" / "Days 015-021 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 015-021",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 015",
+                "Let the Father's love carry Come Home to Love That Finds You into one faithful step today.",
+                "Come home from needing every answer today; let the Father's goodness steady your next step.",
+                "Turns the goodness-and-compassion theme into a concrete release of answer-chasing.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 016",
+                "Let the Father's love carry Practice Grace Before Striving into one faithful step today.",
+                "Bring one unpolished burden into grace before you try to manage how it looks.",
+                "Aligns grace before performance with confession instead of image management.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 017",
+                "Let the Father's love carry Surrender to Mercy in the Morning into one faithful step today.",
+                "Place the long road in the Father's hands, and receive mercy for this morning.",
+                "Keeps the long-view mercy theme while giving the reader one immediate posture.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 018",
+                "Let the Father's love carry Let Mercy Speak the Father's Patience into one faithful step today.",
+                "Refuse the name fear gave you; walk today under the identity grace is forming.",
+                "Connects renaming, delay, and patient identity formation without sounding generic.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 019",
+                "Let the Father's love carry Breathe Love Stronger Than Fear into one faithful step today.",
+                "Pause, breathe, and let God's presence answer fear before fear finishes speaking.",
+                "Preserves the anxiety/prayer practice and makes the breath step memorable.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 020",
+                "Let the Father's love carry Hold Fast to Restoring Compassion into one faithful step today.",
+                "Ask the Father for mercy with boundaries, forgiveness without denial, and a heart free from bitterness.",
+                "Keeps the family-hurt forgiveness guardrails: mercy, truth, and wise boundaries.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 021",
+                "Let the Father's love carry Return to the Promise That Holds into one faithful step today.",
+                "Pray honestly, then rest the weight of your sorrow on the Father's steadfast love.",
+                "Preserves lament and trust while giving the reader a prayer movement.",
+            ),
+        ),
+    ),
 }
 
 
@@ -575,6 +644,8 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <strong>Lady D Production</strong>
     <a href="production.html">Production Review</a>
     <a href="volume-1-days-001-007-line-edit.html">Days 001-007</a>
+    <a href="volume-1-days-008-014-line-edit.html">Days 008-014</a>
+    <a href="volume-1-days-015-021-line-edit.html">Days 015-021</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -667,7 +738,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-008-014")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-015-021")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 
