@@ -1,0 +1,246 @@
+{
+  "generated": "2026-07-01",
+  "commit": "616fc26",
+  "result": "review_ready_not_final_upload",
+  "totals": {
+    "products": 6,
+    "missing_files": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 1282,
+    "saturday_mentions": 202,
+    "words": 372340
+  },
+  "products": [
+    {
+      "key": "volume-1-devotional",
+      "volume": 1,
+      "kind": "Devotional",
+      "title": "Surrendering to God's Love",
+      "subtitle": "A 365-Day Devotional Journey into the Father's Heart",
+      "pages": 369,
+      "interior_pdf": "downloads/production/kdp/interior-drafts/volume-1/volume-1-full-6x9-interior-draft.pdf",
+      "cover_pdf": "downloads/production/kdp/full-wrap-drafts/volume-1-path-route-white-paper-full-wrap-draft.pdf",
+      "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
+      "interior": {
+        "exists": true,
+        "pages": 369,
+        "page_size_points": "432 x 648",
+        "encrypted": false
+      },
+      "cover": {
+        "exists": true,
+        "pages": 1,
+        "page_size_points": "948.24 x 666",
+        "encrypted": false
+      },
+      "counts": {
+        "words": 128919,
+        "sabbath_mentions": 274,
+        "saturday_mentions": 63,
+        "sunday_mentions": 0,
+        "performance_mentions": 187,
+        "earn_mentions": 36
+      },
+      "missing": [],
+      "cover_size_white": "13.171 x 9.250 in",
+      "cover_size_cream": "13.273 x 9.250 in",
+      "upload_status": "review-ready-not-final-upload"
+    },
+    {
+      "key": "volume-1-journal",
+      "volume": 1,
+      "kind": "Companion Journal",
+      "title": "Surrendering to God's Love Companion Journal",
+      "subtitle": "A Companion Journal for Receiving the Father's Heart",
+      "pages": 470,
+      "interior_pdf": "downloads/production/kdp/companion-journal-drafts/volume-1/volume-1-companion-journal-6x9-draft.pdf",
+      "cover_pdf": "downloads/production/kdp/companion-journal-full-wrap-drafts/volume-1-companion-journal-path-route-white-paper-full-wrap-draft.pdf",
+      "source": "downloads/production/master/volume-1-master-companion-journal.md",
+      "interior": {
+        "exists": true,
+        "pages": 470,
+        "page_size_points": "432 x 648",
+        "encrypted": false
+      },
+      "cover": {
+        "exists": true,
+        "pages": 1,
+        "page_size_points": "958.32 x 666",
+        "encrypted": false
+      },
+      "counts": {
+        "words": 19847,
+        "sabbath_mentions": 177,
+        "saturday_mentions": 31,
+        "sunday_mentions": 0,
+        "performance_mentions": 44,
+        "earn_mentions": 7
+      },
+      "missing": [],
+      "cover_size_white": "13.308 x 9.250 in",
+      "cover_size_cream": "13.425 x 9.250 in",
+      "upload_status": "review-ready-not-final-upload"
+    },
+    {
+      "key": "volume-2-devotional",
+      "volume": 2,
+      "kind": "Devotional",
+      "title": "Walking with Jesus",
+      "subtitle": "A 365-Day Devotional Journey with the Son",
+      "pages": 369,
+      "interior_pdf": "downloads/production/kdp/interior-drafts/volume-2/volume-2-full-6x9-interior-draft.pdf",
+      "cover_pdf": "downloads/production/kdp/full-wrap-drafts/volume-2-path-route-white-paper-full-wrap-draft.pdf",
+      "source": "downloads/production/master/volume-2-master-interior-manuscript.md",
+      "interior": {
+        "exists": true,
+        "pages": 369,
+        "page_size_points": "432 x 648",
+        "encrypted": false
+      },
+      "cover": {
+        "exists": true,
+        "pages": 1,
+        "page_size_points": "938.64 x 666",
+        "encrypted": false
+      },
+      "counts": {
+        "words": 96185,
+        "sabbath_mentions": 294,
+        "saturday_mentions": 53,
+        "sunday_mentions": 0,
+        "performance_mentions": 41,
+        "earn_mentions": 9
+      },
+      "missing": [],
+      "cover_size_white": "13.038 x 9.250 in",
+      "cover_size_cream": "13.125 x 9.250 in",
+      "upload_status": "review-ready-not-final-upload"
+    },
+    {
+      "key": "volume-2-journal",
+      "volume": 2,
+      "kind": "Companion Journal",
+      "title": "Walking with Jesus Companion Journal",
+      "subtitle": "A Companion Journal for Following the Son",
+      "pages": 477,
+      "interior_pdf": "downloads/production/kdp/companion-journal-drafts/volume-2/volume-2-companion-journal-6x9-draft.pdf",
+      "cover_pdf": "downloads/production/kdp/companion-journal-full-wrap-drafts/volume-2-companion-journal-path-route-white-paper-full-wrap-draft.pdf",
+      "source": "downloads/production/master/volume-2-master-companion-journal.md",
+      "interior": {
+        "exists": true,
+        "pages": 477,
+        "page_size_points": "432 x 648",
+        "encrypted": false
+      },
+      "cover": {
+        "exists": true,
+        "pages": 1,
+        "page_size_points": "959.28 x 666",
+        "encrypted": false
+      },
+      "counts": {
+        "words": 17134,
+        "sabbath_mentions": 206,
+        "saturday_mentions": 1,
+        "sunday_mentions": 0,
+        "performance_mentions": 9,
+        "earn_mentions": 4
+      },
+      "missing": [],
+      "cover_size_white": "13.324 x 9.250 in",
+      "cover_size_cream": "13.443 x 9.250 in",
+      "upload_status": "review-ready-not-final-upload"
+    },
+    {
+      "key": "volume-3-devotional",
+      "volume": 3,
+      "kind": "Devotional",
+      "title": "Filled with the Holy Spirit",
+      "subtitle": "A 365-Day Devotional Journey of Power, Comfort, and Fire",
+      "pages": 369,
+      "interior_pdf": "downloads/production/kdp/interior-drafts/volume-3/volume-3-full-6x9-interior-draft.pdf",
+      "cover_pdf": "downloads/production/kdp/full-wrap-drafts/volume-3-path-route-white-paper-full-wrap-draft.pdf",
+      "source": "downloads/production/master/volume-3-master-interior-manuscript.md",
+      "interior": {
+        "exists": true,
+        "pages": 369,
+        "page_size_points": "432 x 648",
+        "encrypted": false
+      },
+      "cover": {
+        "exists": true,
+        "pages": 1,
+        "page_size_points": "936.96 x 666",
+        "encrypted": false
+      },
+      "counts": {
+        "words": 92590,
+        "sabbath_mentions": 188,
+        "saturday_mentions": 53,
+        "sunday_mentions": 0,
+        "performance_mentions": 27,
+        "earn_mentions": 9
+      },
+      "missing": [],
+      "cover_size_white": "13.013 x 9.250 in",
+      "cover_size_cream": "13.098 x 9.250 in",
+      "upload_status": "review-ready-not-final-upload"
+    },
+    {
+      "key": "volume-3-journal",
+      "volume": 3,
+      "kind": "Companion Journal",
+      "title": "Filled with the Holy Spirit Companion Journal",
+      "subtitle": "A Companion Journal for Spirit-Filled Surrender",
+      "pages": 483,
+      "interior_pdf": "downloads/production/kdp/companion-journal-drafts/volume-3/volume-3-companion-journal-6x9-draft.pdf",
+      "cover_pdf": "downloads/production/kdp/companion-journal-full-wrap-drafts/volume-3-companion-journal-path-route-white-paper-full-wrap-draft.pdf",
+      "source": "downloads/production/master/volume-3-master-companion-journal.md",
+      "interior": {
+        "exists": true,
+        "pages": 483,
+        "page_size_points": "432 x 648",
+        "encrypted": false
+      },
+      "cover": {
+        "exists": true,
+        "pages": 1,
+        "page_size_points": "960.24 x 666",
+        "encrypted": false
+      },
+      "counts": {
+        "words": 17665,
+        "sabbath_mentions": 143,
+        "saturday_mentions": 1,
+        "sunday_mentions": 0,
+        "performance_mentions": 8,
+        "earn_mentions": 3
+      },
+      "missing": [],
+      "cover_size_white": "13.338 x 9.250 in",
+      "cover_size_cream": "13.457 x 9.250 in",
+      "upload_status": "review-ready-not-final-upload"
+    }
+  ],
+  "kdp_sources_checked": [
+    {
+      "title": "Create a Paperback Cover",
+      "url": "https://kdp.amazon.com/help/topic/G201953020"
+    },
+    {
+      "title": "Set Trim Size, Bleed, and Margins",
+      "url": "https://kdp.amazon.com/help/topic/GVBQ3CMEQW3W2VL6"
+    },
+    {
+      "title": "Paperback Submission Guidelines",
+      "url": "https://kdp.amazon.com/help/topic/G201857950"
+    }
+  ],
+  "blocking_gates": [
+    "Author-approved dedication, acknowledgments, author bio, ISBN, and barcode.",
+    "Final copyedit and theological proof sign-off.",
+    "Final Bible permissions decision remains reference-only unless quotations are added.",
+    "Final paper type selection and final KDP cover calculator confirmation.",
+    "KDP Previewer pass and physical proof review."
+  ]
+}
