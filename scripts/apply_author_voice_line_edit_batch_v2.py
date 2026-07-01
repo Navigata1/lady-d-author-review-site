@@ -203,6 +203,75 @@ BATCHES = {
             ),
         ),
     ),
+    "volume-1-days-022-028": Batch(
+        key="volume-1-days-022-028",
+        scope="Volume 1 Days 022-028",
+        title="Volume 1 Days 022-028 Line Edit",
+        intro=(
+            "The fourth January batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame, keeps Sabbath "
+            "and commandment-keeping as rhythms of return, and preserves obedience "
+            "as response to grace."
+        ),
+        source_name="volume-1-days-022-028-manuscript.md",
+        public_page_name="volume-1-days-022-028-line-edit.html",
+        output_slug="volume-1-days-022-028-line-edit",
+        zip_name="Lady-D-Volume-1-Days-022-028-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 01 - January" / "Days 022-028 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 022-028",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 022",
+                "Let the Father's love carry Yield to the Heart That Calls You into one faithful step today.",
+                "Let glad trust settle into your body today; the Father is holding more than your thoughts.",
+                "Connects the Psalm 16 rest-security theme to embodied anxiety without sounding generic.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 023",
+                "Let the Father's love carry Anchor Love That Sends You into one faithful step today.",
+                "Do the quiet faithful thing in front of you; God can carry its fruit farther than you can see.",
+                "Keeps the Ruth/Obed generational-faithfulness theme practical and memorable.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 024",
+                "Let the Father's love carry Discover Covenant Mercy into one faithful step today.",
+                "Receive mercy, then rise with it; the Father's forgiveness still has a future for you.",
+                "Preserves mercy that restores and calls forward from Deuteronomy 10:11.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 025",
+                "Let the Father's love carry Receive the Father's Welcome into one faithful step today.",
+                "Let conviction become welcome today; the Father is softening what fear taught you to guard.",
+                "Keeps heart-surrender conviction tender rather than condemnatory.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 026",
+                "Let the Father's love carry Trust Beloved Identity into one faithful step today.",
+                "Remember how mercy found you, then make room for someone who feels outside.",
+                "Turns beloved identity into concrete welcome for the stranger.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 027",
+                "Let the Father's love carry Let Hope Rise Love That Finds You into one faithful step today.",
+                "Bless the small beginning in your hands; the Father's love knows how to grow what He plants.",
+                "Matches the few-to-stars promise without inflating the reader's role.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 028",
+                "Let the Father's love carry Carry Grace Before Striving into one faithful step today.",
+                "Return before you perform today; let obedience begin where the Father's grace calls you home.",
+                "Preserves the grace-before-performance and Sabbath-as-return guardrails.",
+            ),
+        ),
+    ),
 }
 
 
@@ -646,6 +715,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-001-007-line-edit.html">Days 001-007</a>
     <a href="volume-1-days-008-014-line-edit.html">Days 008-014</a>
     <a href="volume-1-days-015-021-line-edit.html">Days 015-021</a>
+    <a href="volume-1-days-022-028-line-edit.html">Days 022-028</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -738,7 +808,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-015-021")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-022-028")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 
