@@ -32,7 +32,7 @@ The Spirit gives power to witness through surrendered excellence in ordinary wor
 
 **Journal prompt:** What is my ordinary work saying about the state of my surrender?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Remember Power to Witness into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit seals belonging by placing gifts into shared surrender.
 
 **Journal prompt:** Where do I need to receive my part without competing for someone else's?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Walk in the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit forms fruit by making the surrendered heart a place of meeting.
 
 **Journal prompt:** What part of my day needs to become a place of meeting with God?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Let Peace Lead Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit gives capacity for detailed faithfulness while fruit is still forming
 
 **Journal prompt:** What hidden detail is God asking me to honor today?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Choose Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit renews surrendered service so duty can become living worship again.
 
 **Journal prompt:** Where has service become dry duty instead of surrendered worship?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Listen for Oil for the Journey into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit frees service from image management and roots identity in God.
 
 **Journal prompt:** Where am I trying to be seen instead of surrendered?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Stand in Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit forms fruit by keeping surrendered hearts responsive to God's voice.
 
 **Journal prompt:** Where am I moving on yesterday's instruction without listening today?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Let Grace Form the Breath of God into one faithful step today.

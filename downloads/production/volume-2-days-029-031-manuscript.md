@@ -32,7 +32,7 @@ Walking with Jesus means letting His light guide courage with wisdom.
 
 **Journal prompt:** Where do I need Jesus to guide my courage with wisdom instead of panic or pride?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Lean Into the Table of Grace in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting His truth heal false peace.
 
 **Journal prompt:** Where has avoidance been pretending to be peace in my life?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through See Again the Healing Touch in one faithful step today.
 
 ---
 
@@ -88,4 +88,4 @@ Walking with Jesus means receiving Sabbath grace for cross-shaped faithfulness.
 
 **Journal prompt:** What self-protective pattern is Jesus inviting me to surrender as I follow Him?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Let Love Teach the Call to Follow in one faithful step today.

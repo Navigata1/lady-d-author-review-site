@@ -32,7 +32,7 @@ Let this word give your morning a spine and your heart a place to rest. Ask the 
 
 **Journal prompt:** What has God been separating in me so His light can be honored clearly?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Trust Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The day does not get to name you before God does. If the Father can speak struct
 
 **Journal prompt:** Where do I need God to create space before I try to force an answer?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Let Hope Rise the Father's Patience into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walk out of this page with courage, tenderness, and clarity. Let love become mor
 
 **Journal prompt:** What loving action have I left suspended because fear kept asking for more delay?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Carry Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Receive the truth deeply enough that it changes your next decision. The dry grou
 
 **Journal prompt:** What scattered place in me needs the Father's restoring compassion before I act?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Lean Into Restoring Compassion into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Carry this like bread for the road, not decoration for the shelf. The Father kno
 
 **Journal prompt:** What small seed of grace have I been tempted to overlook because it is not yet harvest?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry See Again the Promise That Holds into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Let this word give your morning a spine and your heart a place to rest. Fruitful
 
 **Journal prompt:** Where have I been comparing my fruit instead of answering God's word in my own field?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Let Love Teach the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The day does not get to name you before God does. On this Saturday Sabbath, let 
 
 **Journal prompt:** Where do I need Sabbath rhythm to purify my action from anxious urgency or self-importance?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Awaken Love That Sends You into one faithful step today.

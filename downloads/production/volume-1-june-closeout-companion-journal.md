@@ -40,6 +40,6 @@ Father, let mercy tell the truth before fear spends someone else's safety. Give 
 
 1. Where did the Father's heart restore my identity, responsibility, or courage this month?
 2. What kind of fear did I learn to name more honestly?
-3. Where did Sabbath rest protect obedience from performance?
+3. Where did Sabbath rest protect obedience from self-measuring striving?
 4. How did compassion become wiser and more protective?
 5. What truth do I need to carry into July with courage, tenderness, and clarity?

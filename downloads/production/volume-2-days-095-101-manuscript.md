@@ -32,7 +32,7 @@ Walking with Jesus means letting peace become honest stewardship before Him.
 
 **Journal prompt:** What has Jesus entrusted to me that needs honest review today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through See Again the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means receiving the healing authority of the King who is near
 
 **Journal prompt:** Where do I need to trust Jesus' authority as healing rather than threatening?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Let Love Teach the Way of Peace in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting His light turn unseen need into neighborly love
 
 **Journal prompt:** Who have I stopped seeing, and what mercy is Jesus inviting me to practice?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Awaken the Table of Grace in one faithful step today.
 
 ---
 
@@ -106,7 +106,7 @@ Akoloutheo means to follow as a disciple, not merely admire from a distance. Fol
 
 Embrace the healing touch by letting the weight of Jesus' words form tenderness instead of fear. Healing in His Presence includes being delivered from casual faith. It also includes being delivered from shame-heavy religion. Jesus calls us into life.
 
-Let prayer turn insight into obedience before noon. Let this text move you toward mercy, not despair; toward faithful love, not spiritual performance.
+Let prayer turn insight into obedience before noon. Let this text move you toward mercy, not despair; toward faithful love, not spiritual self-display.
 
 Walking with Jesus means taking His words seriously enough to let mercy become a way of life.
 
@@ -116,7 +116,7 @@ Walking with Jesus means taking His words seriously enough to let mercy become a
 
 **Journal prompt:** Where is Jesus moving me from casual agreement into lived mercy?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Embrace the Healing Touch in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting His saving work become humble testimony.
 
 **Journal prompt:** What testimony of Jesus is my life quietly carrying right now?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Remember the Call to Follow in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means receiving peace from the eternal God before pressure ge
 
 **Journal prompt:** Where do I need grace and peace to steady my courage today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Walk in Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means resting under the risen Lord who loves, frees, and reig
 
 **Journal prompt:** How does the risen Lord's love change the way I enter this Sabbath?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Let Peace Lead Resurrection Hope in one faithful step today.

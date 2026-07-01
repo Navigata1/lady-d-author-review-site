@@ -32,7 +32,7 @@ Walking with Jesus means letting God's eternal faithfulness become light for one
 
 **Journal prompt:** What situation has been acting like it gets the first and last word in my heart?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Choose the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means receiving endurance as shared discipleship, not lonely 
 
 **Journal prompt:** Where do I need to receive endurance as companionship with Jesus rather than lonely survival?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Listen for the Light on the Path in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means coming thirsty to the One who gives life freely.
 
 **Journal prompt:** Where am I thirsty, and what would it look like to come to Jesus honestly today?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Stand in the Invitation in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting peace be formed by the whole counsel of His tru
 
 **Journal prompt:** Where am I tempted to edit God's truth instead of letting grace help me receive it?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Let Grace Form the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means following the Lord whose road ends in restored life.
 
 **Journal prompt:** What wounded place needs to be seen in the light of Christ's promised healing?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Behold the Road with Jesus in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means receiving His light as both correction and promise.
 
 **Journal prompt:** Where do I need Christ's light to wake faithfulness without pushing me into despair?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Follow the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means resting as one who follows the suffering and glorified 
 
 **Journal prompt:** What outcome do I need to release into Christ's care this Sabbath?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Rest in the Way of Peace in one faithful step today.

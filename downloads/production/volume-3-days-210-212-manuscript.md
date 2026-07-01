@@ -32,7 +32,7 @@ The Spirit rains on dry places by consecrating unpracticed faith.
 
 **Journal prompt:** Where does my faith need consecrated practice?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Surrender to the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit rains on dry places by settling mercy in the presence of real pressur
 
 **Journal prompt:** What pressure needs to be named before God today?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Mercy Speak Holy Fire into one faithful step today.
 
 ---
 
@@ -88,4 +88,4 @@ The Spirit rains on dry places by breathing life into loyal obedience.
 
 **Journal prompt:** Where is obedience revealing the condition of my heart?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Breathe Rain for Dry Places into one faithful step today.

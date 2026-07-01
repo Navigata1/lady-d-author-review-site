@@ -32,7 +32,7 @@ The Spirit grows fruit by clothing service in reverent strength.
 
 **Journal prompt:** Where has my service become too exposed, too hidden, or too dependent on being seen?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Let Love Teach Oil for the Journey into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit grows fruit by washing freedom until it becomes willing response.
 
 **Journal prompt:** Where have I mistaken freedom for delay?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Awaken Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -88,4 +88,4 @@ The Spirit grows fruit by making generosity a living sign of surrendered nearnes
 
 **Journal prompt:** What fruit has surrender made possible in me this month?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Embrace the Breath of God into one faithful step today.

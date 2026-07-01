@@ -32,7 +32,7 @@ The Spirit restores freedom by calling the heart back to God-given identity.
 
 **Journal prompt:** Where do I need to receive conviction as a call back to identity rather than as condemnation?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Trust Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives hopeful breath by settling the heart in God's faithful provisio
 
 **Journal prompt:** What provision from God can help me breathe before I respond today?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Let Hope Rise the Breath of God into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit comforts by restoring the heart to God's true and good purpose.
 
 **Journal prompt:** What condemning thought needs to be answered with God's true purpose for my life?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Carry the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit refines striving hearts by returning them to God's completed care.
 
 **Journal prompt:** Where has anxious striving made correction feel like rejection?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Lean Into Holy Fire into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit refreshes dry places by grounding correction in God's steady faithful
 
 **Journal prompt:** Where has exhaustion begun to sound like faithfulness in my life?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry See Again Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit anoints ordinary obedience by bringing it under God's consecrating lo
 
 **Journal prompt:** What ordinary part of my life needs to be set apart by God's love?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Let Love Teach the Anointing for Today into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit awakens fruit by settling the heart inside God's patient formation.
 
 **Journal prompt:** What small fruit is God beginning to form that I need to notice and protect?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Awaken the Spirit's Fruit into one faithful step today.

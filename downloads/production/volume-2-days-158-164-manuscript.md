@@ -32,7 +32,7 @@ Walking with Jesus means staying near the One whose presence can quiet what your
 
 **Journal prompt:** Where do I need to remain with Jesus after receiving His help?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Let Mercy Speak Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means breathing hope when criticism tries to become the air.
 
 **Journal prompt:** Where has criticism been trying to become the atmosphere I breathe?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Breathe Resurrection Hope in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting His instruction reach the heart before the mout
 
 **Journal prompt:** What has been coming out of my mouth that reveals a deeper place Jesus wants to heal?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Hold Fast to the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting His way keep you honest when others are displea
 
 **Journal prompt:** Where do I need discernment between holy conviction and people-pleasing fear?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Return to the Light on the Path in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means receiving His patient correction as mercy, not rejectio
 
 **Journal prompt:** Where have I mistaken slow learning for failure?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Yield to the Invitation in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting His voice shape the heart that speaks.
 
 **Journal prompt:** What pressure most quickly reveals the source of my words?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Anchor the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means discovering the road where holiness and mercy are not e
 
 **Journal prompt:** Where have I confused human pressure with faithful obedience?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Discover the Road with Jesus in one faithful step today.

@@ -32,7 +32,7 @@ The Spirit grows fruit by bringing loving order to the inner life.
 
 **Journal prompt:** Where does love need to become holy order in me?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Love Teach the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit awakens witness by grounding identity in God's naming.
 
 **Journal prompt:** Where am I trying to name myself instead of receiving my place from God?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Awaken Power to Witness into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit gathers scattered places into belonging and steady ground.
 
 **Journal prompt:** Where do I need God to gather me and give me a place to stand?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Embrace the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit helps wordless prayer rest in God's naming care.
 
 **Journal prompt:** What am I trying too hard to explain that God is simply asking me to bring?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Remember Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit gives breath inside God's unfolding rhythm.
 
 **Journal prompt:** What unfinished matter do I need to release into God's timing today?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Walk in Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit gives peaceful oil for the journey through God's ordered timing.
 
 **Journal prompt:** What season am I in, and what faithful action belongs to this day?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Peace Lead Oil for the Journey into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit gives freedom by teaching the heart to walk in God's light.
 
 **Journal prompt:** What light has God already given me, and what peaceful response belongs to it?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Choose Freedom in the Spirit into one faithful step today.

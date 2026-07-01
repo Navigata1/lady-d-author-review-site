@@ -32,7 +32,7 @@ The Spirit teaches prayer by cleansing desire as it becomes conversation.
 
 **Journal prompt:** What are my conversations confirming in me?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Hold Fast to the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit teaches prayer by making discernment louder than curiosity.
 
 **Journal prompt:** Where has curiosity been louder than wisdom?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Return to Holy Fire into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit teaches prayer by breathing honesty into hidden sweetness.
 
 **Journal prompt:** What have I been enjoying without wanting to explain?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Yield to Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit teaches prayer by setting the heart apart inside public moments.
 
 **Journal prompt:** Where am I being swept along by what everyone expects?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Anchor the Anointing for Today into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit teaches prayer by forming fruit when others gather around pressure.
 
 **Journal prompt:** What kind of person do I become when others are watching?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Discover the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit teaches prayer by cleansing speech from the need to win.
 
 **Journal prompt:** Where has cleverness become a shield for me?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Receive Power to Witness into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit teaches prayer by making belonging louder than the need to prove.
 
 **Journal prompt:** What am I trying to prove, and what would belonging say instead?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Trust the Seal of Belonging into one faithful step today.

@@ -34,7 +34,7 @@ The promise holds better than the performance of repair.
 
 **Journal prompt:** Where am I tempted to fix appearances before surrendering the deeper motive to God?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Come Home to the Promise That Holds into one faithful step today.
 
 ---
 
@@ -64,7 +64,7 @@ The Father can turn the road into a classroom of love.
 
 **Journal prompt:** What road is asking me to move with obedience instead of fear?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Practice the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -94,7 +94,7 @@ Love sends, and love also watches over the place where you lay your head.
 
 **Journal prompt:** What ordinary or uncomfortable place might God be using as a meeting place?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Surrender to Love That Sends You into one faithful step today.
 
 ---
 
@@ -124,7 +124,7 @@ On this Sabbath, let covenant mercy speak louder than your need to climb.
 
 **Journal prompt:** What ladder of self-proving do I need to release this Sabbath?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Let Mercy Speak Covenant Mercy into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ His welcome gives you room to breathe and room to bless.
 
 **Journal prompt:** Where is the Father inviting me to breathe wider than private survival?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Breathe the Father's Welcome into one faithful step today.
 
 ---
 
@@ -184,7 +184,7 @@ The Father who sends you also stays with you.
 
 **Journal prompt:** What uncertainty needs to be answered first by the promise, "I am with you"?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Hold Fast to Beloved Identity into one faithful step today.
 
 ---
 
@@ -214,4 +214,4 @@ The Father's love found you before you knew how to name it.
 
 **Journal prompt:** Where can I now see that God was present even when I did not know it?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Return to Love That Finds You into one faithful step today.

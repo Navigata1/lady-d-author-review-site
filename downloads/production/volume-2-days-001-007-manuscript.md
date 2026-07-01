@@ -32,7 +32,7 @@ Walking with Jesus begins when admiration becomes surrender.
 
 **Journal prompt:** Where is Jesus asking me to move from admiration into actual surrender?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Awaken the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The road with Jesus gives the heart a peace that does not need to perform for ev
 
 **Journal prompt:** Where has approval been shaping my road more than the way of Jesus?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Embrace the Road with Jesus in one faithful step today.
 
 ---
 
@@ -90,7 +90,7 @@ The Lord who passes near is merciful enough to hear the cry that faith brings ho
 
 **Journal prompt:** Where do I need to cry for mercy instead of hiding my need?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Remember the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -118,7 +118,7 @@ Walking with Jesus means letting the true King lead, even when His peace is quie
 
 **Journal prompt:** Where am I asking Jesus to bless my way instead of letting Him lead me in His?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Walk in the Way of Peace in one faithful step today.
 
 ---
 
@@ -146,7 +146,7 @@ The invitation to follow Jesus includes the invitation to carry His peace into t
 
 **Journal prompt:** Where can I carry the peace of Christ into a relationship today?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Let Peace Lead the Table of Grace in one faithful step today.
 
 ---
 
@@ -174,7 +174,7 @@ The disciple becomes whole by staying near enough to be taught.
 
 **Journal prompt:** Where has defensiveness been blocking the healing Jesus wants to bring?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Choose the Healing Touch in one faithful step today.
 
 ---
 
@@ -202,4 +202,4 @@ The peace of discipleship is learning that becoming like Jesus is not small. It 
 
 **Journal prompt:** Where do I need to receive becoming like Jesus as enough?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Listen for the Call to Follow in one faithful step today.

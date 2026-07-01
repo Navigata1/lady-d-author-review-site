@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "616fc26",
+  "commit": "6ab403d",
   "result": "review_ready_not_final_upload",
   "totals": {
     "products": 6,
     "missing_files": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1282,
+    "sabbath_mentions": 1300,
     "saturday_mentions": 202,
-    "words": 372340
+    "words": 377171
   },
   "products": [
     {
@@ -34,12 +34,12 @@
         "encrypted": false
       },
       "counts": {
-        "words": 128919,
-        "sabbath_mentions": 274,
+        "words": 130732,
+        "sabbath_mentions": 280,
         "saturday_mentions": 63,
         "sunday_mentions": 0,
-        "performance_mentions": 187,
-        "earn_mentions": 36
+        "performance_mentions": 174,
+        "earn_mentions": 35
       },
       "missing": [],
       "cover_size_white": "13.171 x 9.250 in",
@@ -69,12 +69,12 @@
         "encrypted": false
       },
       "counts": {
-        "words": 19847,
+        "words": 19854,
         "sabbath_mentions": 177,
         "saturday_mentions": 31,
         "sunday_mentions": 0,
-        "performance_mentions": 44,
-        "earn_mentions": 7
+        "performance_mentions": 41,
+        "earn_mentions": 6
       },
       "missing": [],
       "cover_size_white": "13.308 x 9.250 in",
@@ -104,11 +104,11 @@
         "encrypted": false
       },
       "counts": {
-        "words": 96185,
-        "sabbath_mentions": 294,
+        "words": 97693,
+        "sabbath_mentions": 300,
         "saturday_mentions": 53,
         "sunday_mentions": 0,
-        "performance_mentions": 41,
+        "performance_mentions": 34,
         "earn_mentions": 9
       },
       "missing": [],
@@ -174,11 +174,11 @@
         "encrypted": false
       },
       "counts": {
-        "words": 92590,
-        "sabbath_mentions": 188,
+        "words": 94093,
+        "sabbath_mentions": 194,
         "saturday_mentions": 53,
         "sunday_mentions": 0,
-        "performance_mentions": 27,
+        "performance_mentions": 24,
         "earn_mentions": 9
       },
       "missing": [],

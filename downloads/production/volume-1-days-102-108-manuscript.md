@@ -32,7 +32,7 @@ Take one surrendered step before worry gets the first word. Let mercy become tho
 
 **Journal prompt:** What provision might mercy need for the road ahead?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Choose the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Let prayer turn insight into obedience before noon. If love is sending you, ask 
 
 **Journal prompt:** What truth may God be asking me to carry home with humility?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Listen for Love That Sends You into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Start from what God has revealed, not from what the day is demanding. Mercy can 
 
 **Journal prompt:** Where do I need to let hope arrive slowly instead of forcing a reaction?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Stand in Covenant Mercy into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Do not rush past the verse. Let it steady you before you move. Grace may be form
 
 **Journal prompt:** What visible evidence of care is God asking me to notice or offer?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Let Grace Form the Father's Welcome into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Let the Spirit press this from information into formation. Ask where God is teac
 
 **Journal prompt:** What truth needs to stand in the room without becoming a weapon?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Behold Beloved Identity into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Take one surrendered step before worry gets the first word. Let God, not harm, h
 
 **Journal prompt:** Where can I name both the harm and God's sustaining work?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Follow Love That Finds You into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Let prayer turn insight into obedience before noon. Then let Sabbath keep your o
 
 **Journal prompt:** What step needs prompt obedience without frantic striving?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Rest in Grace Before Striving into one faithful step today.

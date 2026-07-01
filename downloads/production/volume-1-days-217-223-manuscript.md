@@ -34,7 +34,7 @@ The Father loves you enough to give covenant weight to covenant love.
 
 **Journal prompt:** Where have I treated belonging as comfort but resisted the faithful response it asks of me?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Embrace the Promise That Holds into one faithful step today.
 
 ---
 
@@ -64,7 +64,7 @@ The Father does not call you by accident. He knows the story that has been spoke
 
 **Journal prompt:** What old name needs to lose authority because the Father is calling me by a truer one?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Remember the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -94,7 +94,7 @@ You do not have to force fruit. Walk with the God who blesses. Let Him decide ho
 
 **Journal prompt:** Where is God asking me to receive blessing first so I can love without proving myself?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Walk in Love That Sends You into one faithful step today.
 
 ---
 
@@ -124,7 +124,7 @@ On this Sabbath, receive peace as obedience. The Father can hold the promise and
 
 **Journal prompt:** Who am I afraid God will overlook, and what would it look like to entrust that person to Him with peace?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Let Peace Lead Covenant Mercy into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Father's welcome is steady enough to receive your concern and strong enough 
 
 **Journal prompt:** Where do I need to let God's clear answer lead me instead of asking Him to bless my familiar plan?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Choose the Father's Welcome into one faithful step today.
 
 ---
 
@@ -184,7 +184,7 @@ Ask for eyes that can do the same: honor God's purpose without despising the per
 
 **Journal prompt:** Who do I need to see through God's mercy instead of through my disappointed expectation?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Listen for Beloved Identity into one faithful step today.
 
 ---
 
@@ -214,4 +214,4 @@ The Father knows the person, the promise, and the time. Stand there today. Let H
 
 **Journal prompt:** Where do I need to trust God's appointed timing instead of forcing a relational outcome?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Stand in Love That Finds You into one faithful step today.

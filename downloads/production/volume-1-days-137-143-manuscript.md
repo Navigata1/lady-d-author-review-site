@@ -32,7 +32,7 @@ Receive the truth deeply enough that it changes your next decision. If the Fathe
 
 **Journal prompt:** Where might God be asking my love to become practical enough to help someone breathe?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Breathe the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Carry this like bread for the road, not decoration for the shelf. Let clarity be
 
 **Journal prompt:** What matter needs clean, loving clarity instead of more delay?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Hold Fast to Love That Sends You into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Let this word give your morning a spine and your heart a place to rest. A refusa
 
 **Journal prompt:** Where do I need to stop forcing a false redeemer and return to God's covenant mercy?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Return to Covenant Mercy into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The day does not get to name you before God does. Let the Father's welcome make 
 
 **Journal prompt:** What concrete step would confirm the surrender I keep leaving vague?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Yield to the Father's Welcome into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walk out of this page with courage, tenderness, and clarity. The beginning belon
 
 **Journal prompt:** What burden becomes lighter when I remember that God is Creator and I am not?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Anchor Beloved Identity into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Receive the truth deeply enough that it changes your next decision. You do not h
 
 **Journal prompt:** What unfinished place do I need to stop hiding from God's hovering presence?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Discover Love That Finds You into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Carry this like bread for the road, not decoration for the shelf. On this Saturd
 
 **Journal prompt:** Where do I need God's light before I try to work, explain, or fix?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Receive Grace Before Striving into one faithful step today.

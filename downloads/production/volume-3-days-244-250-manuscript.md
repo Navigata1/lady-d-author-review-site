@@ -32,7 +32,7 @@ The Spirit gives power to witness by drawing depleted hearts into honest prayer.
 
 **Journal prompt:** Where do I need to cry out honestly instead of pretending?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Listen for the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives power to witness by anointing honest cries with surrender.
 
 **Journal prompt:** What pressure needs to be named before God today?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Stand in Holy Fire into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit gives power to witness by settling the heart under truthful mercy.
 
 **Journal prompt:** What truth may be God's mercy before visible rescue?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Grace Form Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit gives power to witness by breathing courage through remembered delive
 
 **Journal prompt:** What deliverance do I need to remember today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Behold the Anointing for Today into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit gives power to witness by growing fruit in hidden faithfulness.
 
 **Journal prompt:** Where is God growing fruit in a hidden place?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Follow the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit gives power to witness by speaking courage under the Lord's presence.
 
 **Journal prompt:** What fear-name needs to be replaced by God's truth?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Rest in Power to Witness into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit gives power to witness by consecrating honest questions inside belong
 
 **Journal prompt:** What hard question do I need to bring to God instead of hiding?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Wake Up to the Seal of Belonging into one faithful step today.

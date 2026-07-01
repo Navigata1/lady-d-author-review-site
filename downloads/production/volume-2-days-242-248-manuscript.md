@@ -32,7 +32,7 @@ Walking with Jesus means letting truth become a path, not a debate.
 
 **Journal prompt:** What honest answer have I been delaying because obedience would follow?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Let Hope Rise the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting wholeness make your yes and no clean.
 
 **Journal prompt:** Where am I calling avoidance wisdom?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Carry the Light on the Path in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting compassion become willing service.
 
 **Journal prompt:** What vineyard work is the Father placing before me today?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Listen for the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means serving where repentance is becoming life.
 
 **Journal prompt:** Who have I been defining by an old label instead of present grace?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Stand in the Road with Jesus in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting witnessed grace change your heart.
 
 **Journal prompt:** Whose transformation should be softening my own heart?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Let Grace Form the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means receiving the Son before representing Him.
 
 **Journal prompt:** Where has serving become easier than beholding Jesus?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Behold the Way of Peace in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means serving the vineyard as entrusted grace.
 
 **Journal prompt:** What part of God's vineyard have I been carrying as if it belonged to me?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Follow the Table of Grace in one faithful step today.

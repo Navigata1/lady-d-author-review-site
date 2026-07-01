@@ -34,7 +34,7 @@ The Father may not give you the whole path today. But He can give you the next f
 
 **Journal prompt:** What practical preparation would help me obey God with love instead of delay?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Practice Love That Sends You into one faithful step today.
 
 ---
 
@@ -64,7 +64,7 @@ Covenant mercy does not despise the distance. It walks with you through it.
 
 **Journal prompt:** Where am I tempted to call a process failure simply because it is not complete yet?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Surrender to Covenant Mercy into one faithful step today.
 
 ---
 
@@ -96,7 +96,7 @@ Mercy can teach the heart to worship before everything is simple.
 
 **Journal prompt:** What unresolved concern have I been keeping outside of worship because it still feels heavy?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Mercy Speak the Father's Welcome into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ On this Sabbath, let beloved identity breathe in every difficult relationship.
 
 **Journal prompt:** Who needs to be seen as beloved, not treated as background, while I walk through a hard season?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Breathe Beloved Identity into one faithful step today.
 
 ---
 
@@ -156,7 +156,7 @@ The Father sees what is needed before you can see how it will come.
 
 **Journal prompt:** What provision am I trying to force instead of entrusting it to the Father?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Hold Fast to Love That Finds You into one faithful step today.
 
 ---
 
@@ -186,7 +186,7 @@ Grace does not make obedience shallow. It keeps obedience from becoming cruel.
 
 **Journal prompt:** Where do I need to test pressure against God's character before calling it obedience?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Return to Grace Before Striving into one faithful step today.
 
 ---
 
@@ -216,4 +216,4 @@ The Father is not honored by harm. Yield to the mercy that interrupts before the
 
 **Journal prompt:** Where do I need mercy to interrupt a pattern before it causes deeper harm?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Yield to Mercy in the Morning into one faithful step today.

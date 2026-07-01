@@ -32,7 +32,7 @@ Walking with Jesus means letting grace reconnect the heart to faithful spiritual
 
 **Journal prompt:** Where has loneliness been telling me I am forgotten, and who can I encourage today?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Wake Up to the Table of Grace in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting peace reshape the way we lead, correct, help, a
 
 **Journal prompt:** Where am I tempted to control instead of becoming a faithful example?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Let Fire Refine the Healing Touch in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means trusting His Lordship to guide both movement and stayin
 
 **Journal prompt:** Where is Jesus asking me to stay faithful instead of scattering my attention?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Come Home to the Call to Follow in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means entering ordinary places with courage shaped by His pea
 
 **Journal prompt:** How do I usually enter tense spaces, and what would peace change first?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Practice Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting His call turn an ordinary name into surrendered
 
 **Journal prompt:** What fear rises when I imagine Jesus calling my ordinary life into His mission?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Surrender to Resurrection Hope in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means trusting the Friend who leads different people into one
 
 **Journal prompt:** Who has Jesus called near me that I need to receive with more mercy and less comparison?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Let Mercy Speak the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means breathing truthful peace when allegiance to Him is cost
 
 **Journal prompt:** Where do I need Christ's peace to help me love faithfully without making approval my lord?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Breathe the Light on the Path in one faithful step today.

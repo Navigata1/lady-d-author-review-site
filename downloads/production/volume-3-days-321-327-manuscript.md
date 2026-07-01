@@ -32,13 +32,13 @@ The Spirit forms freedom, fire, and holiness by breathing witness into hidden re
 
 **Journal prompt:** Where do I feel named by responsibility but still hidden inside?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Let Grace Form Prayer Beyond Words into one faithful step today.
 
 ---
 
 ## Day 322 - November 18
 
-### Behold Wind in the Waiting
+### Behold Grateful Remembrance in Wind in the Waiting
 
 **Scripture Reference:** 1 Samuel 10:22
 
@@ -60,13 +60,13 @@ The Spirit forms freedom, fire, and holiness by setting hidden fear apart for ho
 
 **Journal prompt:** Where am I hiding near the very thing God is asking me to face?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Behold Grateful Remembrance in Wind in the Waiting into one faithful step today.
 
 ---
 
 ## Day 323 - November 19
 
-### Follow Oil for the Journey
+### Follow Grateful Remembrance in Oil for the Journey
 
 **Scripture Reference:** 1 Samuel 10:23
 
@@ -88,13 +88,13 @@ The Spirit forms freedom, fire, and holiness by strengthening the heart under un
 
 **Journal prompt:** Where does visibility make me feel either smaller or larger than I am?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Follow Grateful Remembrance in Oil for the Journey into one faithful step today.
 
 ---
 
 ## Day 324 - November 20
 
-### Rest in Freedom in the Spirit
+### Rest Grateful Remembrance in in Freedom in the Spirit
 
 **Scripture Reference:** 1 Samuel 10:24
 
@@ -116,13 +116,13 @@ The Spirit forms freedom, fire, and holiness by cleansing the heart under public
 
 **Journal prompt:** Where has praise begun to direct my inner life?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Rest Grateful Remembrance in in Freedom in the Spirit into one faithful step today.
 
 ---
 
 ## Day 325 - November 21
 
-### Wake Up to the Breath of God
+### Wake Up to Grateful Remembrance Through the Breath of God
 
 **Scripture Reference:** 1 Samuel 10:25
 
@@ -144,13 +144,13 @@ The Spirit forms freedom, fire, and holiness by making God's nearness discernibl
 
 **Journal prompt:** What responsibility needs clearer order before I move forward?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Wake Up to Grateful Remembrance Through the Breath of God into one faithful step today.
 
 ---
 
 ## Day 326 - November 22
 
-### Let Fire Refine the Comforter's Nearness
+### Let Grateful Remembrance Refine the Comforter's Nearness
 
 **Scripture Reference:** 1 Samuel 10:26
 
@@ -172,13 +172,13 @@ The Spirit forms freedom, fire, and holiness by breathing witness through faithf
 
 **Journal prompt:** Who has God placed near me for faithful strength?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Let Grateful Remembrance Refine the Comforter's Nearness into one faithful step today.
 
 ---
 
 ## Day 327 - November 23
 
-### Come Home to Holy Fire
+### Come Home to Grateful Remembrance Through Holy Fire
 
 **Scripture Reference:** 1 Samuel 10:27
 
@@ -200,4 +200,4 @@ The Spirit forms freedom, fire, and holiness by setting response apart under con
 
 **Journal prompt:** Where does criticism make me want to prove myself immediately?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Come Home to Grateful Remembrance Through Holy Fire into one faithful step today.

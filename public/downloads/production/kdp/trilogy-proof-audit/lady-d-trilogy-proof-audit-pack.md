@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Repo commit at generation: `6d1dc28`
+Repo commit at generation: `6ab403d`
 
 Author: Susan "Lady D" Damon
 
@@ -15,26 +15,26 @@ This pack moves the Lady D library from assembled review drafts into a disciplin
 ## Evidence Snapshot
 
 - Products checked: 6
-- Source words checked: 372,340
+- Source words checked: 377,171
 - Placeholder markers found: 0
 - Sunday mentions: 0
-- Sabbath mentions: 1282
+- Sabbath mentions: 1300
 - Saturday mentions: 202
-- Works-righteousness watch contexts: 384
-- Contexts requiring proof review: 12
-- Duplicate devotional title groups: 150
-- Duplicate morning-impact groups: 30
+- Works-righteousness watch contexts: 356
+- Contexts requiring proof review: 0
+- Duplicate devotional title groups: 0
+- Duplicate morning-impact groups: 0
 - Missing required files: 0
 
 ## Product Matrix
 
 | Product | Type | Words | Structure | Sunday | Placeholders | Watch contexts |
 | --- | --- | ---: | --- | ---: | ---: | ---: |
-| Surrendering to God's Love | Devotional | 128,919 | pass | 0 | 0 | 223 |
-| Surrendering to God's Love Companion Journal | Companion Journal | 19,847 | review | 0 | 0 | 51 |
-| Walking with Jesus | Devotional | 96,185 | pass | 0 | 0 | 50 |
+| Surrendering to God's Love | Devotional | 130,732 | pass | 0 | 0 | 209 |
+| Surrendering to God's Love Companion Journal | Companion Journal | 19,854 | review | 0 | 0 | 47 |
+| Walking with Jesus | Devotional | 97,693 | pass | 0 | 0 | 43 |
 | Walking with Jesus Companion Journal | Companion Journal | 17,134 | review | 0 | 0 | 13 |
-| Filled with the Holy Spirit | Devotional | 92,590 | pass | 0 | 0 | 36 |
+| Filled with the Holy Spirit | Devotional | 94,093 | pass | 0 | 0 | 33 |
 | Filled with the Holy Spirit Companion Journal | Companion Journal | 17,665 | review | 0 | 0 | 11 |
 
 ## Judge And Auditor Loop

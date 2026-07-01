@@ -32,7 +32,7 @@ Let the Spirit press this from information into formation. Where fear expects ab
 
 **Journal prompt:** What fear needs heart-level comfort instead of irritation?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Hold Fast to Covenant Mercy into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Take one surrendered step before worry gets the first word. Let today's obedienc
 
 **Journal prompt:** Where is God asking me to let mercy become ordinary and repeatable?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Return to the Father's Welcome into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Let prayer turn insight into obedience before noon. If a request needs to be mad
 
 **Journal prompt:** What request needs humility, clarity, and courage?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Yield to Beloved Identity into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Start from what God has revealed, not from what the day is demanding. Let love a
 
 **Journal prompt:** What promise or responsibility needs honorable follow-through?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Anchor Love That Finds You into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Do not rush past the verse; let it steady you before you move. Grace may be givi
 
 **Journal prompt:** Where has God made room for obedience without frantic striving?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Discover Grace Before Striving into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walk out of this page with courage, tenderness, and clarity. Love may be asking 
 
 **Journal prompt:** What action needs faithful company instead of lonely striving?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Remember the Father's Patience into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Receive the truth deeply enough that it changes your next decision. Love can mov
 
 **Journal prompt:** What needs to move forward, and what needs to be entrusted to God?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Walk in Love Stronger Than Fear into one faithful step today.

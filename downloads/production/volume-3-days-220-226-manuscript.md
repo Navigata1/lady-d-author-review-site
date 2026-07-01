@@ -32,7 +32,7 @@ The Spirit gives oil for the waiting season by consecrating steadiness under gat
 
 **Journal prompt:** What pressure has been gathering around my heart?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Let Peace Lead the Breath of God into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives oil for the waiting season by settling mercy into long enduranc
 
 **Journal prompt:** Where has long waiting made my hope tired?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Choose the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit gives oil for the waiting season by breathing hope through unexpected
 
 **Journal prompt:** Where have I limited God to one expected answer?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Listen for Holy Fire into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit gives oil for the waiting season by renewing hidden preparation.
 
 **Journal prompt:** What quiet preparation step is God asking of me?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Stand in Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit gives oil for the waiting season by forming quiet courage for difficu
 
 **Journal prompt:** What difficult responsibility requires quiet courage today?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Let Grace Form the Anointing for Today into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit gives oil for the waiting season by consecrating timing and restraint
 
 **Journal prompt:** Where does timing matter more than urgency?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Behold the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit gives oil for the waiting season by settling courage to return with t
 
 **Journal prompt:** Where do I need to return with prayerful courage?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Follow Power to Witness into one faithful step today.

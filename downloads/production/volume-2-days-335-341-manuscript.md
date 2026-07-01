@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 335 - December 1
 
-### Awaken the Light on the Path
+### Awaken Finishing Hope in the Light on the Path
 
 **Scripture Reference:** Matthew 10:31
 
@@ -32,13 +32,13 @@ Walking with Jesus means letting the Father's care light the path before fear gi
 
 **Journal prompt:** What fear-shaped decision needs to be answered by the Father's care?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Awaken Finishing Hope in the Light on the Path in one faithful step today.
 
 ---
 
 ## Day 336 - December 2
 
-### Embrace the Invitation
+### Embrace Finishing Hope in the Invitation
 
 **Scripture Reference:** Matthew 10:32
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting private allegiance become humble, visible faith
 
 **Journal prompt:** Where is Jesus inviting my private faith to become humble visible obedience?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Embrace Finishing Hope in the Invitation in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means receiving saving wholeness until fear no longer gets to
 
 **Journal prompt:** Where has fear tempted me to hide the One who rescued me?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Remember the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means choosing His wholeness over counterfeit peace.
 
 **Journal prompt:** Where am I tempted to trade integrity for false peace?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Walk in the Road with Jesus in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means resting near the Lord whose authority is steady when hu
 
 **Journal prompt:** What complicated relationship needs to be placed under the Lordship of Jesus in Sabbath rest?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Let Peace Lead the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means receiving His presence with humility when He comes thro
 
 **Journal prompt:** Who have I been treating as an interruption who may need Christlike reception?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Choose the Way of Peace in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means honoring God's work in others as part of your own faith
 
 **Journal prompt:** Whose faithfulness do I need to honor without comparison?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Listen for the Table of Grace in one faithful step today.

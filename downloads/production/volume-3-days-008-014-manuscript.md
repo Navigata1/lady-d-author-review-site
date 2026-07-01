@@ -32,7 +32,7 @@ The Spirit's anointing makes the heart useful by keeping the calling under God's
 
 **Journal prompt:** Where do I need to receive responsibility as consecration instead of personal importance?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Stand in Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The wind of the Spirit can meet a waiting life and make it newly responsive to G
 
 **Journal prompt:** What old pattern do I need to stop treating as my permanent identity?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Grace Form Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit can anoint the journey with restraint, timing, and quiet trust.
 
 **Journal prompt:** What needs to mature with God before I try to explain it to everyone else?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Behold Oil for the Journey into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit changes the heart so the life can answer God with more than intention
 
 **Journal prompt:** Where do I need more than inspiration and actually need God to change my response?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Follow Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit breathes life into worship that is willing to be shaped by God.
 
 **Journal prompt:** Where does my devotion need more faithful order, care, or follow-through?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Rest in the Breath of God into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit comforts by bringing the heart near to a holy God who truly welcomes 
 
 **Journal prompt:** How can I prepare my heart for God's nearness without becoming casual or afraid?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Wake Up to the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit's fire makes willingness tangible.
 
 **Journal prompt:** What offering has the Spirit been stirring in me that I have delayed bringing?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Fire Refine Holy Fire into one faithful step today.

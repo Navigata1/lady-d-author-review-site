@@ -32,7 +32,7 @@ Walking with Jesus means bringing need close enough for mercy to answer.
 
 **Journal prompt:** What need is Jesus asking me to name plainly?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Wake Up to Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting hope ask clearly.
 
 **Journal prompt:** What do I need to ask Jesus for without hiding behind complicated words?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Let Fire Refine Resurrection Hope in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means trusting the Lord of the vineyard with both work and re
 
 **Journal prompt:** Where is Jesus asking me to trust Him with both work and reward?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Come Home to the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting His presence become the question that changes t
 
 **Journal prompt:** Where have I become familiar with Jesus without freshly recognizing Him?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Practice the Light on the Path in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means moving from description to discipleship.
 
 **Journal prompt:** Where do I need to move from knowing about Jesus to following Him?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Surrender to the Invitation in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting mercy cleanse the places meant for prayer.
 
 **Journal prompt:** What has been crowding the place in me that belongs to prayer?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Let Mercy Speak the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means breathing in the peace of His healing presence.
 
 **Journal prompt:** Where does Jesus want to turn a cleansed place into a healing place?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Breathe the Road with Jesus in one faithful step today.

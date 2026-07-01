@@ -32,7 +32,7 @@ Walking with Jesus means letting His saving grace heal the need to seize what be
 
 **Journal prompt:** Where has control replaced gratitude in the way I hold what God has entrusted to me?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Let Love Teach the Table of Grace in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting peace become honest before God.
 
 **Journal prompt:** What area of stewardship needs honest review with Jesus today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Awaken the Healing Touch in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting His Lordship become visible in simple obedience
 
 **Journal prompt:** What clear step has Jesus already shown me that I need to stop delaying?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Embrace the Call to Follow in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting love for God become the center that orders ordi
 
 **Journal prompt:** Where is my love divided, and how is Jesus calling it back to God?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Remember Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means following the Christ, not merely repeating an answer ab
 
 **Journal prompt:** Where does my life need to agree more deeply with who Jesus truly is?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Walk in Resurrection Hope in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means being saved from a too-small Jesus.
 
 **Journal prompt:** Where have I been living with too small a view of Jesus?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Let Peace Lead the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting Sabbath rest make the heart teachable under His
 
 **Journal prompt:** Where is Jesus inviting my public words and private life into deeper agreement?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Choose the Light on the Path in one faithful step today.

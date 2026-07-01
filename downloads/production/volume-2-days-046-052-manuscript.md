@@ -32,7 +32,7 @@ Walking with Jesus means letting rescue mature into worship.
 
 **Journal prompt:** Where has Jesus rescued, steadied, or corrected me, and how can that mercy become worship today?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Discover the Light on the Path in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting honest need come near His mercy.
 
 **Journal prompt:** What burden have I been carrying privately that Jesus is inviting me to bring near Him?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Receive the Invitation in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means trusting His Lordship without adopting the impatience o
 
 **Journal prompt:** Where am I tempted to interpret delay as rejection, and what has Jesus already revealed about His heart?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Trust the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting His light direct wounded places toward healing.
 
 **Journal prompt:** What need have I been hiding that Jesus is inviting me to bring into His healing light?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Let Hope Rise the Road with Jesus in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting who He is shape how you follow.
 
 **Journal prompt:** What ordinary decision today needs to be shaped by who Jesus truly is?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Carry the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means trusting the Savior whose peace has passed through the 
 
 **Journal prompt:** Where do I need to trust Jesus' redeeming work on a road I would not have chosen?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Lean Into the Way of Peace in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means resting under the grace and truth of the returning King
 
 **Journal prompt:** Where is grace calling me into truthful obedience as I rest under the returning Christ?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through See Again the Table of Grace in one faithful step today.

@@ -32,7 +32,7 @@ The Spirit of God can make the ordinary faithful, beautiful, and wise.
 
 **Journal prompt:** Where have I treated ordinary work as if it were outside the Spirit's care?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Awaken the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit's holy fire makes the work cleaner, the motive quieter, and the offer
 
 **Journal prompt:** What motive beneath my work needs the Spirit's refining fire today?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Embrace Holy Fire into one faithful step today.
 
 ---
 
@@ -90,7 +90,7 @@ God's power is safest when it brings the soul lower in surrender and freer in ob
 
 **Journal prompt:** What has been binding my obedience, and how can I receive God's freedom without turning it into pride?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Remember Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -118,7 +118,7 @@ The Spirit-filled life is not self-powered ministry. It is nearness to Jesus bec
 
 **Journal prompt:** Where do I need to come near to Jesus before trying to serve in His name?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Walk in the Anointing for Today into one faithful step today.
 
 ---
 
@@ -146,7 +146,7 @@ The filled life is not empty religion with better manners. It is the Spirit maki
 
 **Journal prompt:** Where have I tried to manage myself outwardly while keeping an inner room unfilled?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Let Peace Lead the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -174,7 +174,7 @@ Spirit-given power can look like a person standing between pain and despair with
 
 **Journal prompt:** What complaint can become intercession in me today?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Choose Power to Witness into one faithful step today.
 
 ---
 
@@ -202,4 +202,4 @@ The Spirit assures God's children by leading them back to the faithful counsel o
 
 **Journal prompt:** Where is Jesus correcting me as an act of mercy rather than rejection?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Listen for the Seal of Belonging into one faithful step today.

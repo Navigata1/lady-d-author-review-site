@@ -32,7 +32,7 @@ The Spirit forms fruit in the life that lets God restore it.
 
 **Journal prompt:** Where do I need to receive refreshment instead of pretending I am not tired?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Lean Into the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives power to witness by making the heart honest enough to repair wh
 
 **Journal prompt:** Where am I offering a substitute when truth, apology, or wise repair is needed?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry See Again Power to Witness into one faithful step today.
 
 ---
 
@@ -88,4 +88,4 @@ The Spirit seals belonging by teaching love to govern fire.
 
 **Journal prompt:** What fire in me needs to be governed by belonging before it spreads?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Let Love Teach the Seal of Belonging into one faithful step today.

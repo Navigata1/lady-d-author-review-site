@@ -32,7 +32,7 @@ The Spirit brings the Comforter's nearness into real and named places.
 
 **Journal prompt:** What specific place needs the Comforter's nearness today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Grace Form the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit refines the heart by giving correction a faithful direction.
 
 **Journal prompt:** What direction is God making clear that I need to follow?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Behold Holy Fire into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit refreshes dry places by restoring responsibility to grace.
 
 **Journal prompt:** What responsibility needs to be received as stewardship instead of condemnation?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Follow Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit anoints today's obedience by rooting it in God's generous yes.
 
 **Journal prompt:** Where have I heard only God's no and forgotten His generous care?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Rest in the Anointing for Today into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit grows fruit by teaching the heart to receive protective truth.
 
 **Journal prompt:** What warning from God have I mistaken for rejection?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Wake Up to the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit refines witness by freeing the heart from isolated strength.
 
 **Journal prompt:** Where has isolation disguised itself as strength in my life?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Fire Refine Power to Witness into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit seals belonging by inviting humble participation in God's care.
 
 **Journal prompt:** What responsibility has God brought near because my presence matters?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Come Home to the Seal of Belonging into one faithful step today.

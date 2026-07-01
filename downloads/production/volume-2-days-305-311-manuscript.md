@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 305 - November 1
 
-### Discover the Way of Peace
+### Discover Grateful Remembrance in the Way of Peace
 
 **Scripture Reference:** Revelation 22:1
 
@@ -32,7 +32,7 @@ Walking with Jesus means following the road toward the river of life.
 
 **Journal prompt:** Where does my soul need to remember that God's future is life?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Discover Grateful Remembrance in the Way of Peace in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means living faithfully because the coming Christ is gracious
 
 **Journal prompt:** Where do I need both accountability and grace to shape my next decision?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Receive the Table of Grace in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means remaining near the One who opens the way to life.
 
 **Journal prompt:** What shame-name needs to be answered by Christ's welcome?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Trust the Healing Touch in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means following the Morning Star before the day looks bright.
 
 **Journal prompt:** What darkness needs the witness of Jesus' identity today?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Let Hope Rise the Call to Follow in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means learning courage from the promised end of night.
 
 **Journal prompt:** Where has darkness been acting like it owns the future?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Carry Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means leaning your weight on the faithful Word while you walk
 
 **Journal prompt:** What promise needs to carry weight in my life today?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Lean Into Resurrection Hope in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means resting with the Friend who is coming soon.
 
 **Journal prompt:** How can Sabbath worship make me ready in love rather than tense in fear?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through See Again the Friend Who Leads in one faithful step today.

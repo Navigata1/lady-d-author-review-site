@@ -32,7 +32,7 @@ Walking with Jesus means staying awake to Him without becoming anxious about tom
 
 **Journal prompt:** Where has my attention drifted from Jesus, and what simple practice can help me wake up?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Let Fire Refine the Call to Follow in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting saving grace make you ready without making you 
 
 **Journal prompt:** What act of faithful readiness have I been postponing?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Come Home to Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -74,7 +74,7 @@ Walking with Jesus means letting saving grace make you ready without making you 
 
 Resurrection hope becomes practical in the way we serve. Matthew 24:45 turns watchfulness into stewardship. Jesus points toward the servant who is faithful with the household assignment. Readiness is not only looking up. It is also doing the entrusted work with love.
 
-Eirene is peace as wholeness in the presence of the Prince of Peace. Peace steadies responsibility. It keeps service from becoming frantic performance and keeps waiting from becoming laziness.
+Eirene is peace as wholeness in the presence of the Prince of Peace. Peace steadies responsibility. It keeps service from becoming frantic striving and keeps waiting from becoming laziness.
 
 Practice resurrection hope by honoring the assignment in front of you. The way in ordinary days includes meals, messages, work, caregiving, ministry, repairs, apologies, planning, and prayer. These are not interruptions to spiritual life. They are places where faithfulness becomes visible.
 
@@ -88,7 +88,7 @@ Walking with Jesus means waiting for Him through faithful service, not passive d
 
 **Journal prompt:** What ordinary responsibility is Jesus asking me to receive as holy stewardship?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Practice Resurrection Hope in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting His Lordship make belief and daily doing whole.
 
 **Journal prompt:** Where is Jesus inviting my inner yes and outer obedience to come back together?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Trust the Light on the Path in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting His light guard your hope from counterfeit auth
 
 **Journal prompt:** What voice has been shaping me, and does it sound like the character of Jesus?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Let Hope Rise the Invitation in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means staying faithful when timing is unknown and motives are
 
 **Journal prompt:** How has waiting revealed my motives, and where is Jesus forming me?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Carry the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting Sabbath rest heal the heart into watchful love.
 
 **Journal prompt:** What does watchful love look like for me on this Sabbath?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Lean Into the Road with Jesus in one faithful step today.

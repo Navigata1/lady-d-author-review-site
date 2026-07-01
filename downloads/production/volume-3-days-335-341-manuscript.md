@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 335 - December 1
 
-### Awaken Freedom in the Spirit
+### Awaken Finishing Hope in Freedom in the Spirit
 
 **Scripture Reference:** Matthew 10:9
 
@@ -32,13 +32,13 @@ The Spirit forms a sealed and filled life by freeing obedience from provision an
 
 **Journal prompt:** Where is fear making me overpack my heart?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Awaken Finishing Hope in Freedom in the Spirit into one faithful step today.
 
 ---
 
 ## Day 336 - December 2
 
-### Embrace the Breath of God
+### Embrace Finishing Hope in the Breath of God
 
 **Scripture Reference:** Matthew 10:10
 
@@ -60,7 +60,7 @@ The Spirit forms a sealed and filled life by breathing trust into ordinary provi
 
 **Journal prompt:** Where does worry speak before dependence?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Embrace Finishing Hope in the Breath of God into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit forms a sealed and filled life by giving discernment for where witnes
 
 **Journal prompt:** Where am I trying to force welcome that has not been given?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Remember the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit forms a sealed and filled life by making ordinary thresholds places o
 
 **Journal prompt:** How do I enter the rooms God places before me?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Walk in Holy Fire into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit forms a sealed and filled life by growing peace that does not force i
 
 **Journal prompt:** Where am I trying to force peace instead of bearing it?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Peace Lead Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit forms a sealed and filled life by filling the heart for clean release
 
 **Journal prompt:** Where has rejection kept me emotionally stuck?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Choose the Anointing for Today into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit forms a sealed and filled life by making accountability visible as hu
 
 **Journal prompt:** Where does accountability need to soften and sober me?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Listen for the Spirit's Fruit into one faithful step today.

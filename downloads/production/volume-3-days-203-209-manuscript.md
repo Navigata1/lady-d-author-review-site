@@ -32,7 +32,7 @@ The Spirit rains on dry places by renewing witness into shepherding care.
 
 **Journal prompt:** Who needs shepherding prayer in this transition?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Behold Power to Witness into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit rains on dry places by confirming calling in accountable community.
 
 **Journal prompt:** Where does calling need healthy confirmation rather than private pressure?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Follow the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit rains on dry places by consecrating honor for the next season.
 
 **Journal prompt:** Where do I need to share honor so others can step forward well?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Rest in Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit rains on dry places by settling action under God's counsel.
 
 **Journal prompt:** Where have I been moving faster than counsel or prayer?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Wake Up to Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit rains on dry places by breathing life into clear obedience.
 
 **Journal prompt:** What clear obedience have I delayed?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Fire Refine Oil for the Journey into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit rains on dry places by renewing the heart to bless succession.
 
 **Journal prompt:** Where do I need freedom to bless someone else's next step?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Come Home to Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit rains on dry places by breathing formation into untested faith.
 
 **Journal prompt:** Where does my faith need practice instead of theory?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Practice the Breath of God into one faithful step today.

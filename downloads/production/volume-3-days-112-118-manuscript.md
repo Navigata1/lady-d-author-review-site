@@ -32,7 +32,7 @@ The Spirit settles wordless prayer where faithful work and unmet longing meet.
 
 **Journal prompt:** Where do faithful work and unmet longing meet in my life?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Practice Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives breath for waiting while God works beyond control.
 
 **Journal prompt:** What am I trying to manage that belongs to God's hidden work?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Surrender to Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit gives oil for the journey through mercy God forms and brings.
 
 **Journal prompt:** What help might God be forming and bringing that I need to receive?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Mercy Speak Oil for the Journey into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit frees recognition from fear, possession, and shame.
 
 **Journal prompt:** Where does fear turn recognition into control?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Breathe Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit gives breath to faithful love and consecrated attachment.
 
 **Journal prompt:** What commitment needs the Breath of God today?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Hold Fast to the Breath of God into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit restores honest nearness where shame taught the heart to hide.
 
 **Journal prompt:** What hiding strategy is the Comforter gently asking me to surrender?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Return to the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit kindles holy work by returning the heart to God's initiating word.
 
 **Journal prompt:** Where am I acting before I have listened?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Yield to Holy Fire into one faithful step today.

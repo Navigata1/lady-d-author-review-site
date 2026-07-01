@@ -32,7 +32,7 @@ The Spirit turns burned places into humble wisdom for future witness.
 
 **Journal prompt:** What burned place in my story needs to become wisdom instead of shame?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Love Teach Power to Witness into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit teaches belonging to receive provision without being ruled by appetit
 
 **Journal prompt:** What desire is asking to lead me, and what would surrendered receiving look like?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Awaken the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit enlarges prayer until love asks God to shepherd beyond our reach.
 
 **Journal prompt:** Who needs to be entrusted to God's shepherding care beyond my control?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Embrace Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit prepares faithful continuation before fear knows how to let go.
 
 **Journal prompt:** Where is God asking me to recognize His preparation instead of clinging to control?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Remember Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit can make a constrained place holy with the presence and word of Chris
 
 **Journal prompt:** Where have I assumed my current limitations make me unavailable to hear from God?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Walk in Oil for the Journey into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit frees the heart by restoring reverent sight of Jesus.
 
 **Journal prompt:** What false or incomplete picture of Jesus needs correction in me?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Peace Lead Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -200,7 +200,7 @@ The Spirit brings grace and peace from before the throne into the believer's act
 
 **Journal prompt:** Where do I need to receive grace and peace before trying to understand or control everything?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Choose the Breath of God into one faithful step today.
 
 ---
 
@@ -228,4 +228,4 @@ The Spirit fills the extra space with the love and freedom of Jesus.
 
 **Journal prompt:** Where do I need to receive the love of Jesus as freedom rather than mere comfort?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Grace for the Extra Day into one faithful step today.

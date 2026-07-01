@@ -34,13 +34,13 @@ The heart learns identity by remembering where God has already made a way.
 
 **Journal prompt:** What old label has tried to follow me after God already made a way?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Practice Beloved Identity into one faithful step today.
 
 ---
 
 ## Day 351 - December 17
 
-### Surrender to Love That Finds You
+### Surrender to Finishing Hope Through Love That Finds You
 
 **Scripture Reference:** Exodus 15:20
 
@@ -64,13 +64,13 @@ The Father can find you after fear and teach your whole life to answer with prai
 
 **Journal prompt:** Where do I need worship to interrupt the fear that keeps replaying what I survived?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Surrender to Finishing Hope Through Love That Finds You into one faithful step today.
 
 ---
 
 ## Day 352 - December 18
 
-### Let Mercy Speak Grace Before Performance
+### Let Finishing Hope Speak Grace Before Striving
 
 **Scripture Reference:** Exodus 15:21
 
@@ -94,13 +94,13 @@ The Father's love gives the heart a song before it gives the heart an assignment
 
 **Journal prompt:** Where have I been trying to perform before receiving the mercy God has already shown?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Let Finishing Hope Speak Grace Before Striving into one faithful step today.
 
 ---
 
 ## Day 353 - December 19
 
-### Breathe Mercy in the Morning
+### Breathe Finishing Hope in Mercy in the Morning
 
 **Scripture Reference:** Exodus 15:22
 
@@ -124,13 +124,13 @@ Sabbath mercy gives the heart room to breathe before need turns into accusation.
 
 **Journal prompt:** What need have I been carrying as alarm instead of bringing it honestly into God's presence?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Breathe Finishing Hope in Mercy in the Morning into one faithful step today.
 
 ---
 
 ## Day 354 - December 20
 
-### Hold Fast to the Father's Patience
+### Hold Fast to Finishing Hope Through the Father's Patience
 
 **Scripture Reference:** Exodus 15:24
 
@@ -154,13 +154,13 @@ The Father's patience steadies need before complaint takes over the conversation
 
 **Journal prompt:** Where is honest need beginning to sound like complaint in my heart?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Hold Fast to Finishing Hope Through the Father's Patience into one faithful step today.
 
 ---
 
 ## Day 355 - December 21
 
-### Return to Love Stronger Than Fear
+### Return to Finishing Hope Through Love Stronger Than Fear
 
 **Scripture Reference:** Exodus 15:25
 
@@ -184,13 +184,13 @@ The Father's love can show a way forward that fear could not see.
 
 **Journal prompt:** What bitter place needs to be brought to God before I build a story around it?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Return to Finishing Hope Through Love Stronger Than Fear into one faithful step today.
 
 ---
 
 ## Day 356 - December 22
 
-### Yield to Restoring Compassion
+### Yield to Finishing Hope Through Restoring Compassion
 
 **Scripture Reference:** Exodus 15:26
 
@@ -214,4 +214,4 @@ The Lord who heals also teaches the life where healing can take root.
 
 **Journal prompt:** What healing-shaped act of obedience is the Father inviting me to take today?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Yield to Finishing Hope Through Restoring Compassion into one faithful step today.

@@ -2,15 +2,15 @@
 
 Generated: 2026-07-01
 
-Base commit: `616fc26`
+Base commit: `6ab403d`
 
 Result: Review-ready, not final KDP upload.
 
 ## Summary
 
 - Products checked: 6
-- Source words checked: 372,340
-- Sabbath mentions: 1282
+- Source words checked: 377,171
+- Sabbath mentions: 1300
 - Saturday mentions: 202
 - Sunday mentions: 0
 - Missing required source/interior/cover files: 0
@@ -19,11 +19,11 @@ Result: Review-ready, not final KDP upload.
 
 | Product | Type | Pages | Source words | Sabbath mentions | Sunday mentions | Interior page size |
 | --- | --- | ---: | ---: | ---: | ---: | --- |
-| Surrendering to God's Love | Devotional | 369 | 128,919 | 274 | 0 | 432 x 648 |
-| Surrendering to God's Love Companion Journal | Companion Journal | 470 | 19,847 | 177 | 0 | 432 x 648 |
-| Walking with Jesus | Devotional | 369 | 96,185 | 294 | 0 | 432 x 648 |
+| Surrendering to God's Love | Devotional | 369 | 130,732 | 280 | 0 | 432 x 648 |
+| Surrendering to God's Love Companion Journal | Companion Journal | 470 | 19,854 | 177 | 0 | 432 x 648 |
+| Walking with Jesus | Devotional | 369 | 97,693 | 300 | 0 | 432 x 648 |
 | Walking with Jesus Companion Journal | Companion Journal | 477 | 17,134 | 206 | 0 | 432 x 648 |
-| Filled with the Holy Spirit | Devotional | 369 | 92,590 | 188 | 0 | 432 x 648 |
+| Filled with the Holy Spirit | Devotional | 369 | 94,093 | 194 | 0 | 432 x 648 |
 | Filled with the Holy Spirit Companion Journal | Companion Journal | 483 | 17,665 | 143 | 0 | 432 x 648 |
 
 ## Guardrail Finding

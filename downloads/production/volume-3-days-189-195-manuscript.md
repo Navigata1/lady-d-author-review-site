@@ -32,7 +32,7 @@ The Spirit rains on dry places by anointing reverent courage for the right momen
 
 **Journal prompt:** What need requires reverent courage in the right place?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Let Hope Rise the Anointing for Today into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit rains on dry places by making honesty fruitful instead of bitter.
 
 **Journal prompt:** Where does my story need clarity without bitterness?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Carry the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit rains on dry places by giving settled courage to ask for belonging.
 
 **Journal prompt:** What clear request needs to replace a vague ache?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Lean Into Power to Witness into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit rains on dry places by sealing belonging in the presence of the Lord.
 
 **Journal prompt:** What matter needs to be brought before the Lord before I push for an answer?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry See Again the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit rains on dry places by renewing the heart to receive God's answer.
 
 **Journal prompt:** Am I prepared to receive God's answer, or only to present my request?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Let Love Teach Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit rains on dry places by affirming truth and making room for justice.
 
 **Journal prompt:** Where do I need to trust God to affirm what is right in His time?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Awaken Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit rains on dry places by turning received mercy into guidance for the j
 
 **Journal prompt:** What mercy in my life could become guidance for someone else's journey?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Embrace Oil for the Journey into one faithful step today.

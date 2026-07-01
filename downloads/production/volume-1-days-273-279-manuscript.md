@@ -34,13 +34,13 @@ Peace grows stronger when love becomes honest enough to count the cost.
 
 **Journal prompt:** Where does peace need to become a concrete act instead of a vague desire?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Peace Lead the Father's Patience into one faithful step today.
 
 ---
 
 ## Day 274 - October 1
 
-### Come Home to Restoring Compassion
+### Come Home to Holy Steadiness Through Restoring Compassion
 
 **Scripture Reference:** Genesis 32:15
 
@@ -64,13 +64,13 @@ Restoring compassion begins when love pays attention long enough to change.
 
 **Journal prompt:** What detail has love been asking me to notice before I move forward?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Come Home to Holy Steadiness Through Restoring Compassion into one faithful step today.
 
 ---
 
 ## Day 275 - October 2
 
-### Practice the Promise That Holds
+### Practice Holy Steadiness in the Promise That Holds
 
 **Scripture Reference:** Genesis 32:16
 
@@ -94,7 +94,7 @@ You do not have to rush what God is teaching you to carry faithfully.
 
 **Journal prompt:** Where does hope need space, sequence, and restraint instead of urgency?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Practice Holy Steadiness in the Promise That Holds into one faithful step today.
 
 ---
 
@@ -124,7 +124,7 @@ On this Sabbath, let surrendered rest prepare truthful words.
 
 **Journal prompt:** What answer needs to be formed by worship instead of fear?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Surrender to the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Let the first words carry the mercy you want the meeting to receive.
 
 **Journal prompt:** What message is my tone sending ahead of me?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Let Mercy Speak Love That Sends You into one faithful step today.
 
 ---
 
@@ -184,7 +184,7 @@ Mercy becomes credible when it remains steady.
 
 **Journal prompt:** Where does mercy need consistency across more than one moment?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Breathe Covenant Mercy into one faithful step today.
 
 ---
 
@@ -214,4 +214,4 @@ You can desire peace without letting acceptance become your god.
 
 **Journal prompt:** Where do I need the Father's welcome to steady my desire to be received?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Hold Fast to the Father's Welcome into one faithful step today.

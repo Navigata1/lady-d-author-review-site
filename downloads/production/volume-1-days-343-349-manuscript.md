@@ -34,7 +34,7 @@ The Redeemer's nearness makes fear answer to a higher glory.
 
 **Journal prompt:** What fear needs to be brought under the truth of who God has revealed Himself to be?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Let Grace Form Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -64,7 +64,7 @@ The faithful hand of God can restore peace where pressure made the heart feel cr
 
 **Journal prompt:** Where do I need God's faithfulness to restore safety, order, or breathing room today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Behold Restoring Compassion into one faithful step today.
 
 ---
 
@@ -94,7 +94,7 @@ The Father's promise can hold your heart even when the atmosphere trembles.
 
 **Journal prompt:** What outside reaction most often pulls my heart away from steady surrender?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Follow the Promise That Holds into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Father's steadfast love can quiet what the surrounding world stirred up.
 
 **Journal prompt:** What fear around me have I been carrying as if it belonged inside my heart?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Rest in the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -156,7 +156,7 @@ The love that claims you also gives courage for the next faithful crossing.
 
 **Journal prompt:** What obedient step have I delayed because I wanted fear to disappear first?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Wake Up to Love That Sends You into one faithful step today.
 
 ---
 
@@ -186,7 +186,7 @@ The God who rescues also knows where love is meant to take root.
 
 **Journal prompt:** What desire may need refining before it can be planted in God's love?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Let Fire Refine Covenant Mercy into one faithful step today.
 
 ---
 
@@ -216,4 +216,4 @@ The Father's welcome is secure because His reign is faithful forever.
 
 **Journal prompt:** What temporary pressure have I been treating as if it had final authority?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Come Home to the Father's Welcome into one faithful step today.

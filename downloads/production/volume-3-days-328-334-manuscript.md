@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 328 - November 24
 
-### Practice Rain for Dry Places
+### Practice Grateful Remembrance in Rain for Dry Places
 
 **Scripture Reference:** Matthew 10:2
 
@@ -32,13 +32,13 @@ The Spirit forms freedom, fire, and holiness by anointing ordinary named lives f
 
 **Journal prompt:** Where do I feel too ordinary to be used by Jesus?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Practice Grateful Remembrance in Rain for Dry Places into one faithful step today.
 
 ---
 
 ## Day 329 - November 25
 
-### Surrender to the Anointing for Today
+### Surrender to Grateful Remembrance Through the Anointing for Today
 
 **Scripture Reference:** Matthew 10:3
 
@@ -60,13 +60,13 @@ The Spirit forms freedom, fire, and holiness by sealing belonging among differen
 
 **Journal prompt:** Where has comparison made my calling feel smaller?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Surrender to Grateful Remembrance Through the Anointing for Today into one faithful step today.
 
 ---
 
 ## Day 330 - November 26
 
-### Let Mercy Speak the Spirit's Fruit
+### Let Grateful Remembrance Speak the Spirit's Fruit
 
 **Scripture Reference:** Matthew 10:4
 
@@ -88,13 +88,13 @@ The Spirit forms freedom, fire, and holiness by keeping gift submitted to mercy.
 
 **Journal prompt:** Where has gift become image management in me?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Let Grateful Remembrance Speak the Spirit's Fruit into one faithful step today.
 
 ---
 
 ## Day 331 - November 27
 
-### Breathe Power to Witness
+### Breathe Grateful Remembrance in Power to Witness
 
 **Scripture Reference:** Matthew 10:5
 
@@ -116,13 +116,13 @@ The Spirit forms freedom, fire, and holiness by making witness free enough to ob
 
 **Journal prompt:** Where do I want calling without boundaries?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Breathe Grateful Remembrance in Power to Witness into one faithful step today.
 
 ---
 
 ## Day 332 - November 28
 
-### Hold Fast to the Seal of Belonging
+### Hold Fast to Grateful Remembrance Through the Seal of Belonging
 
 **Scripture Reference:** Matthew 10:6
 
@@ -144,13 +144,13 @@ The Spirit forms freedom, fire, and holiness by sending comforted people toward 
 
 **Journal prompt:** Who near me needs compassion without performance?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Hold Fast to Grateful Remembrance Through the Seal of Belonging into one faithful step today.
 
 ---
 
 ## Day 333 - November 29
 
-### Return to Prayer Beyond Words
+### Return to Grateful Remembrance Through Prayer Beyond Words
 
 **Scripture Reference:** Matthew 10:7
 
@@ -172,13 +172,13 @@ The Spirit forms freedom, fire, and holiness by anointing speech to announce God
 
 **Journal prompt:** Where does my speech need to be entrusted back to Jesus?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Return to Grateful Remembrance Through Prayer Beyond Words into one faithful step today.
 
 ---
 
 ## Day 334 - November 30
 
-### Yield to Wind in the Waiting
+### Yield to Grateful Remembrance Through Wind in the Waiting
 
 **Scripture Reference:** Matthew 10:8
 
@@ -200,4 +200,4 @@ The Spirit forms freedom, fire, and holiness by sealing service in received grac
 
 **Journal prompt:** Where has service become a place of grasping?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Yield to Grateful Remembrance Through Wind in the Waiting into one faithful step today.

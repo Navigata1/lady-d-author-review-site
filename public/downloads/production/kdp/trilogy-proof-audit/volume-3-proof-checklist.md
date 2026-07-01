@@ -6,7 +6,7 @@ Generated: 2026-07-01
 
 | Product | Type | Words | Structure | Watch contexts |
 | --- | --- | ---: | --- | ---: |
-| Filled with the Holy Spirit | Devotional | 92,590 | pass | 36 |
+| Filled with the Holy Spirit | Devotional | 94,093 | pass | 33 |
 | Filled with the Holy Spirit Companion Journal | Companion Journal | 17,665 | review | 11 |
 
 ## Checklist
@@ -24,6 +24,6 @@ Generated: 2026-07-01
 
 ## Current Repetition/Watch Counts
 
-- Duplicate title groups: 50
-- Duplicate morning-impact groups: 10
-- Works-righteousness watch contexts: 47
+- Duplicate title groups: 0
+- Duplicate morning-impact groups: 0
+- Works-righteousness watch contexts: 44

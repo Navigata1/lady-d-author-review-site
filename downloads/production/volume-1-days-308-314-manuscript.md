@@ -34,7 +34,7 @@ Hope can rise gently and still be strong.
 
 **Journal prompt:** Where do I need God's peace to make room for honest grief without letting grief name my future?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Let Hope Rise Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -64,7 +64,7 @@ Compassion becomes restoring when it carries without controlling.
 
 **Journal prompt:** Where is God inviting me to offer or receive steady presence instead of isolated strength?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Carry Restoring Compassion into one faithful step today.
 
 ---
 
@@ -94,7 +94,7 @@ The promise that holds you can also teach you how to hold your word.
 
 **Journal prompt:** What faithful step would show that I am leaning into the promise that holds?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Lean Into the Promise That Holds into one faithful step today.
 
 ---
 
@@ -124,7 +124,7 @@ On this Sabbath, let grief rest where God's faithfulness can hold it.
 
 **Journal prompt:** What grief needs Sabbath rest instead of another round of analysis?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry See Again the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Compassion can teach the bowed heart how to stand again.
 
 **Journal prompt:** Where is old guilt still teaching me a posture that God's mercy is ready to change?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Let Love Teach Love That Sends You into one faithful step today.
 
 ---
 
@@ -184,7 +184,7 @@ Peace begins when God is allowed to be God again.
 
 **Journal prompt:** Where am I tempted to sit in God's chair instead of trusting His authority?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Awaken Covenant Mercy into one faithful step today.
 
 ---
 
@@ -214,4 +214,4 @@ The Father can redeem meaning without denying pain.
 
 **Journal prompt:** What truth about harm and what truth about God's redeeming purpose do I need to hold together today?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Embrace the Father's Welcome into one faithful step today.

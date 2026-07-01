@@ -34,7 +34,7 @@ Some blessings are not finished in your hands, but they may still pass through t
 
 **Journal prompt:** Where is God asking me to trust Him with fruit that may outlive this season?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Remember Beloved Identity into one faithful step today.
 
 ---
 
@@ -64,7 +64,7 @@ Love finds what human control cannot hold.
 
 **Journal prompt:** What outcome do I need to release into God's future visitation instead of my own control?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Walk in Love That Finds You into one faithful step today.
 
 ---
 
@@ -94,7 +94,7 @@ God's promise can be carried without being forced.
 
 **Journal prompt:** What reminder of God's promise can steady me without becoming pressure?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Let Peace Lead Grace Before Striving into one faithful step today.
 
 ---
 
@@ -124,7 +124,7 @@ On this Sabbath, let mercy teach you to rest with an unfinished promise.
 
 **Journal prompt:** What unfinished promise needs Sabbath rest instead of anxious force?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Choose Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Holy fire can reveal mercy as well as power.
 
 **Journal prompt:** Where might God be drawing my attention through something I nearly overlooked?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Listen for the Father's Patience into one faithful step today.
 
 ---
 
@@ -184,7 +184,7 @@ The holy thing you notice may become the place where God speaks.
 
 **Journal prompt:** What holy interruption have I been too rushed or afraid to notice?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Stand in Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -214,4 +214,4 @@ Grace does not make holy things casual. It makes holy ground a place where the c
 
 **Journal prompt:** Where is God asking me to recover reverence before I move forward?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Let Grace Form Restoring Compassion into one faithful step today.

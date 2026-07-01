@@ -32,7 +32,7 @@ The Spirit gives power to witness by settling obedience under God's sending word
 
 **Journal prompt:** Where is God moving me from question into obedience?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Fire Refine Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives power to witness by breathing courage into confessed weakness.
 
 **Journal prompt:** Where has inadequacy become my whole explanation?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Come Home to Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit gives power to witness by renewing courage through God's promised pre
 
 **Journal prompt:** Where do I need presence more than self-confidence?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Practice Oil for the Journey into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit gives power to witness by purifying the search for assurance.
 
 **Journal prompt:** Where do I need clarity, and what part is already clear?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Surrender to Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit gives power to witness by consecrating preparation into worship.
 
 **Journal prompt:** What preparation could become worship today?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Let Mercy Speak the Breath of God into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit gives power to witness by settling obedience into ordered faithfulnes
 
 **Journal prompt:** What clear instruction needs calm attention today?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Breathe the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit gives power to witness by breathing reverent awe into the heart.
 
 **Journal prompt:** Where do I need reverence to guard my witness?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Hold Fast to Holy Fire into one faithful step today.

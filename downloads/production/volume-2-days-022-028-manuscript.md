@@ -32,7 +32,7 @@ Walking with Jesus means trusting the Friend who reveals enough for today's obed
 
 **Journal prompt:** Where is Jesus inviting me to obey from revealed light instead of waiting for full control?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Yield to the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -44,7 +44,7 @@ Walking with Jesus means trusting the Friend who reveals enough for today's obed
 
 **Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' closing promise to come because the verse centers on His trusted authority over hope, waiting, and longing.
 
-The light on the path is anchored by the promise of Jesus. Revelation 22:20 stands near the close of Scripture with a holy longing. The church does not end the story by trusting human progress, spiritual performance, or perfect circumstances. The heart answers the promise of Christ with desire for His appearing.
+The light on the path is anchored by the promise of Jesus. Revelation 22:20 stands near the close of Scripture with a holy longing. The church does not end the story by trusting human progress, spiritual self-display, or perfect circumstances. The heart answers the promise of Christ with desire for His appearing.
 
 Kyrios means Lord: trusted authority, not religious decoration. Jesus is Lord over the waiting. He is Lord over the ache for things to be made right. He is Lord over the tired places that still whisper, "Come." His promise steadies hope because His authority is not fragile.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting His coming future train today's faithfulness.
 
 **Journal prompt:** How would my choices today change if I began from the promise that Jesus is coming?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Anchor the Light on the Path in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means discovering again that His grace is the light for the w
 
 **Journal prompt:** Where do I need the grace of Jesus to become light instead of only a word I know?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Discover the Invitation in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting grace establish what suffering tried to shake.
 
 **Journal prompt:** Where is God restoring, confirming, strengthening, or establishing me right now?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Receive the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means serving under the care of the Shepherd who will appear.
 
 **Journal prompt:** Where do I need to trust that Jesus sees service others may overlook?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Trust the Road with Jesus in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means receiving nearness before carrying assignment.
 
 **Journal prompt:** Where have I been trying to serve without first coming near to Jesus?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Let Hope Rise the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means carrying peace faithfully and trusting Him with the res
 
 **Journal prompt:** What room, relationship, or conversation needs me to carry peace without forcing an outcome?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Carry the Way of Peace in one faithful step today.

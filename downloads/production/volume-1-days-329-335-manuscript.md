@@ -10,11 +10,11 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 329 - November 25
 
-### Surrender to Grace Before Performance
+### Surrender to Grateful Remembrance Through Grace Before Striving
 
 **Scripture Reference:** Exodus 3:17
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses God's promised movement from affliction into a land of provision because the verse centers on personal knowledge that leads to faithful deliverance, not religious performance.
+**Production lens correction:** The architecture assigned `yada`; the production lens uses God's promised movement from affliction into a land of provision because the verse centers on personal knowledge that leads to faithful deliverance, not religious self-measuring.
 
 Grace speaks before performance can start bargaining. Exodus 3:17 carries the Father's promise forward: He has seen affliction, and He intends to bring His people up from it. This is not Moses inventing a rescue plan to prove his usefulness. This is God naming what He will do.
 
@@ -34,13 +34,13 @@ The Father's promise is stronger than the pressure to perform.
 
 **Journal prompt:** Where do I most often confuse faithful obedience with proving my worth?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Surrender to Grateful Remembrance Through Grace Before Striving into one faithful step today.
 
 ---
 
 ## Day 330 - November 26
 
-### Let Mercy Speak Mercy in the Morning
+### Let Grateful Remembrance Speak Mercy in the Morning
 
 **Scripture Reference:** Exodus 3:18
 
@@ -64,13 +64,13 @@ Let your morning words be fed by the mercy that found you.
 
 **Journal prompt:** What conversation needs God to strengthen my hope and steady my words?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Let Grateful Remembrance Speak Mercy in the Morning into one faithful step today.
 
 ---
 
 ## Day 331 - November 27
 
-### Breathe the Father's Patience
+### Breathe Grateful Remembrance in the Father's Patience
 
 **Scripture Reference:** Exodus 3:19
 
@@ -94,13 +94,13 @@ God can name the resistance and still keep the promise.
 
 **Journal prompt:** Where do I need comfort that tells the truth instead of pretending the road is easy?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Breathe Grateful Remembrance in the Father's Patience into one faithful step today.
 
 ---
 
 ## Day 332 - November 28
 
-### Hold Fast to Love Stronger Than Fear
+### Hold Fast to Grateful Remembrance Through Love Stronger Than Fear
 
 **Scripture Reference:** Exodus 3:20
 
@@ -124,13 +124,13 @@ On this Sabbath, let God's protective compassion become larger in your imaginati
 
 **Journal prompt:** What fear has become too large in my imagination, and how does God's protective love answer it?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Hold Fast to Grateful Remembrance Through Love Stronger Than Fear into one faithful step today.
 
 ---
 
 ## Day 333 - November 29
 
-### Return to Restoring Compassion
+### Return to Grateful Remembrance Through Restoring Compassion
 
 **Scripture Reference:** Exodus 3:21
 
@@ -154,13 +154,13 @@ God's peace can return weight to a life that pressure made thin.
 
 **Journal prompt:** Where have I mistaken emptiness for humility, and what would restored dignity look like there?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Return to Grateful Remembrance Through Restoring Compassion into one faithful step today.
 
 ---
 
 ## Day 334 - November 30
 
-### Yield to the Promise That Holds
+### Yield to Grateful Remembrance Through the Promise That Holds
 
 **Scripture Reference:** Exodus 3:22
 
@@ -184,13 +184,13 @@ The promise that holds is detailed enough for the journey.
 
 **Journal prompt:** What practical need have I kept clenched instead of yielding to the Father who knows?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Yield to Grateful Remembrance Through the Promise That Holds into one faithful step today.
 
 ---
 
 ## Day 335 - December 1
 
-### Awaken Love That Sends You
+### Awaken Finishing Hope in Love That Sends You
 
 **Scripture Reference:** Exodus 15:1
 
@@ -214,4 +214,4 @@ The heart that remembers deliverance can move into the day with worship in its b
 
 **Journal prompt:** What deliverance do I need to remember so my next step becomes worship instead of fear?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Awaken Finishing Hope in Love That Sends You into one faithful step today.

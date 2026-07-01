@@ -32,7 +32,7 @@ The Spirit gives oil for the waiting season by sealing courage under God's word.
 
 **Journal prompt:** Where do I need to remember that I belong to God before I face pressure?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Rest in the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives oil for the waiting season by turning hidden prayer into surren
 
 **Journal prompt:** Which prayer is God asking me to live out in action?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Wake Up to Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit gives oil for the waiting season by refining the heart into sober cou
 
 **Journal prompt:** Where does my heart need to be purified from reaction or spectacle?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Let Fire Refine Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit gives oil for the waiting season by consecrating completion and wise 
 
 **Journal prompt:** What completed responsibility do I need to release back to God?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Come Home to Oil for the Journey into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit gives oil for the waiting season by settling patience when timing is 
 
 **Journal prompt:** Where do I feel pressured to explain what is not ready to be explained?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Practice Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit gives oil for the waiting season by steadying breath when truth opens
 
 **Journal prompt:** What truth have I been afraid to face?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Surrender to the Breath of God into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit gives oil for the waiting season by forming wise movement through an 
 
 **Journal prompt:** Where is God opening a narrow but faithful way forward?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Let Mercy Speak the Comforter's Nearness into one faithful step today.

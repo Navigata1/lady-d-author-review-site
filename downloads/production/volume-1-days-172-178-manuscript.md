@@ -34,7 +34,7 @@ Receive the truth deeply enough that it changes your next decision. The call of 
 
 **Journal prompt:** What real responsibility do I need to carry under the Father's guidance instead of using it as a reason to delay obedience?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Awaken the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -64,7 +64,7 @@ Carry this like bread for the road, not decoration for the shelf. If the Father 
 
 **Journal prompt:** Where have I mistaken difficult terrain for the absence of the Father's love?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Embrace Love That Sends You into one faithful step today.
 
 ---
 
@@ -94,7 +94,7 @@ Let this word give your morning a spine and your heart a place to rest. The Fath
 
 **Journal prompt:** What place in my story needs to become remembrance instead of only unresolved ache?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Remember Covenant Mercy into one faithful step today.
 
 ---
 
@@ -124,7 +124,7 @@ The day does not get to name you before God does. Keep walking under the welcome
 
 **Journal prompt:** What ordinary step of obedience have I been tempted to dismiss because it does not feel dramatic?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Walk in the Father's Welcome into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walk out of this page with courage, tenderness, and clarity. Let peace lead befo
 
 **Journal prompt:** Where is scarcity trying to make me forget that I am still beloved by the Father?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Let Peace Lead Beloved Identity into one faithful step today.
 
 ---
 
@@ -184,7 +184,7 @@ Receive the truth deeply enough that it changes your next decision. Let love fin
 
 **Journal prompt:** What true concern am I allowing fear to interpret without the Father's love?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Choose Love That Finds You into one faithful step today.
 
 ---
 
@@ -214,4 +214,4 @@ Carry this like bread for the road, not decoration for the shelf. On this Saturd
 
 **Journal prompt:** What feared future do I need to bring into Sabbath rest before fear turns it into performance?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Listen for Grace Before Striving into one faithful step today.

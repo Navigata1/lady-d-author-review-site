@@ -32,7 +32,7 @@ The Spirit gives power to witness by anointing courage when obedience is opposed
 
 **Journal prompt:** Where has criticism made me question obedience God already clarified?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Carry Oil for the Journey into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives power to witness by settling the heart in truth that frees.
 
 **Journal prompt:** What have I been defending out of habit, fear, or pressure?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Lean Into Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit gives power to witness by breathing identity into contested obedience
 
 **Journal prompt:** What label needs to be answered by God's truer word?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry See Again the Breath of God into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit gives power to witness by renewing love under gathered pressure.
 
 **Journal prompt:** Where has pressure made me assume God is far away?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Let Love Teach the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit gives power to witness by purifying the call that gathers others.
 
 **Journal prompt:** Where has readiness become restless pressure?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Awaken Holy Fire into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit gives power to witness by refreshing trembling obedience with mercy.
 
 **Journal prompt:** What anxious question needs to be brought into God's presence?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Embrace Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit gives power to witness by settling assurance into faithful action.
 
 **Journal prompt:** Where am I seeking another sign because the next step feels costly?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Remember the Anointing for Today into one faithful step today.

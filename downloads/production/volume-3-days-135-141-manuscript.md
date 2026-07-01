@@ -32,7 +32,7 @@ The Spirit grows fruit in surrender by watering places that words cannot fully r
 
 **Journal prompt:** Where have I been pushing without being watered by God?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Surrender to Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit grows fruit by making God's voice mercifully clear in surrendered wai
 
 **Journal prompt:** Where do I need God's command more than another opinion?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Let Mercy Speak Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit forms surrendered fruit by making willingness a living witness.
 
 **Journal prompt:** Where has fear made my obedience tight-fisted?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Breathe Oil for the Journey into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit grows fruit by turning freedom into set-apart surrender.
 
 **Journal prompt:** Where has my freedom become scattered instead of set apart?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Hold Fast to Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit grows fruit by strengthening surrendered hearts without hardening the
 
 **Journal prompt:** Where am I protecting myself without receiving God's covering?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Return to the Breath of God into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit grows fruit by bringing hidden beauty into surrendered service.
 
 **Journal prompt:** What precious thing in me needs to be brought back to God?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Yield to the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit grows fruit by anchoring skill, passion, and fire to God's instructio
 
 **Journal prompt:** Where does my skill or passion need to come under God's command again?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Anchor Holy Fire into one faithful step today.

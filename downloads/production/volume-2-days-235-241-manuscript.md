@@ -32,7 +32,7 @@ Walking with Jesus means honoring the Lord when His mercy becomes visible.
 
 **Journal prompt:** Where have I been slow to celebrate the wonderful things Jesus is doing?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Hold Fast to the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting His Word return the heart to peace.
 
 **Journal prompt:** What reaction in me needs the light of Jesus before it becomes a decision?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Return to the Way of Peace in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means following Him into a life that bears fruit.
 
 **Journal prompt:** Where do I need Jesus to grow real fruit beneath visible activity?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Yield to the Table of Grace in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means preparing the way for His humble kingdom.
 
 **Journal prompt:** What small obedience may be preparing room for Jesus to enter?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Anchor the Healing Touch in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting trust become movement.
 
 **Journal prompt:** What faithful step would agree with the prayer I keep praying?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Discover the Call to Follow in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means trusting His authority more than the pressure to explai
 
 **Journal prompt:** Where am I waiting for approval when Jesus has already made obedience clear?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Receive Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means trusting the Light enough to be honest.
 
 **Journal prompt:** What question is Jesus asking beneath the question I keep bringing Him?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Trust Resurrection Hope in one faithful step today.

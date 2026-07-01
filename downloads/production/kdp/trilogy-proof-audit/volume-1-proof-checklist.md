@@ -6,8 +6,8 @@ Generated: 2026-07-01
 
 | Product | Type | Words | Structure | Watch contexts |
 | --- | --- | ---: | --- | ---: |
-| Surrendering to God's Love | Devotional | 128,919 | pass | 223 |
-| Surrendering to God's Love Companion Journal | Companion Journal | 19,847 | review | 51 |
+| Surrendering to God's Love | Devotional | 130,732 | pass | 209 |
+| Surrendering to God's Love Companion Journal | Companion Journal | 19,854 | review | 47 |
 
 ## Checklist
 
@@ -24,6 +24,6 @@ Generated: 2026-07-01
 
 ## Current Repetition/Watch Counts
 
-- Duplicate title groups: 50
-- Duplicate morning-impact groups: 10
-- Works-righteousness watch contexts: 274
+- Duplicate title groups: 0
+- Duplicate morning-impact groups: 0
+- Works-righteousness watch contexts: 256

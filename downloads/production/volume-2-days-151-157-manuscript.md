@@ -32,7 +32,7 @@ Walking with Jesus means trusting the road where small surrender passes through 
 
 **Journal prompt:** What am I withholding because it feels too small to matter?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Embrace the Invitation in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting resurrection hope correct fear's story.
 
 **Journal prompt:** Where has fear been trying to interpret what only Jesus can name?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Rest in the Road with Jesus in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means remaining awake to His presence in the storm.
 
 **Journal prompt:** Where do I need to wake up to Christ's nearness inside the storm?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Wake Up to the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting compassion teach the frightened heart to see.
 
 **Journal prompt:** Where might fear be causing me to misread help as threat?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Let Fire Refine the Way of Peace in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means being formed by grace even when the story is hard.
 
 **Journal prompt:** What hard story needs to sit at the table of grace with Jesus?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Come Home to the Table of Grace in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting sinking become the place where prayer gets hone
 
 **Journal prompt:** What fear needs to become a direct prayer today?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Practice the Healing Touch in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means surrendering to the hand that saves and the voice that 
 
 **Journal prompt:** Where do I need to receive Jesus' hand before analyzing the storm?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Surrender to the Call to Follow in one faithful step today.

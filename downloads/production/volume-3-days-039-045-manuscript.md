@@ -32,7 +32,7 @@ The Spirit meets trembling faith so it can become moving faith.
 
 **Journal prompt:** Where am I asking for assurance because I need wisdom, and where am I delaying obedience?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Surrender to the Anointing for Today into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit can make pressured speech bear fruit instead of fear.
 
 **Journal prompt:** Where do my words need the Spirit's fruit under pressure?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Let Mercy Speak the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit gives power to witness by making ordinary obedience point back to God
 
 **Journal prompt:** What old script is my life tempted to fulfill instead of God's word?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Breathe Power to Witness into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit seals belonging so service can become steady instead of needy.
 
 **Journal prompt:** Where have I been serving from neediness instead of received love?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Hold Fast to the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -142,7 +142,7 @@ The Spirit brings the kingdom near enough to challenge what has held the heart.
 
 **Journal prompt:** Where have I made peace with bondage that Jesus came to confront?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Return to Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -170,7 +170,7 @@ The Spirit-filled heart stays soft enough to receive truth as mercy.
 
 **Journal prompt:** Where is the Spirit asking me to stay tender instead of defensive?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Yield to Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -184,7 +184,7 @@ The Spirit-filled heart stays soft enough to receive truth as mercy.
 
 Fruit tells the truth about the tree. Matthew 12:33 brings the heart back to visible life. Daily filling is not proven by noise, claims, or spiritual vocabulary. It is seen in what grows.
 
-This day falls on Saturday, the seventh-day Sabbath in the 2026 production calendar. This rest gives the heart room to stop decorating the branches and let God tend the root. The Spirit's oil for the journey goes beneath performance. He forms the inner life so the outer fruit can become clean.
+This day falls on Saturday, the seventh-day Sabbath in the 2026 production calendar. This rest gives the heart room to stop decorating the branches and let God tend the root. The Spirit's oil for the journey goes beneath self-display. He forms the inner life so the outer fruit can become clean.
 
 Anchor oil for the journey by asking what fruit has been showing. Peace or agitation. Mercy or contempt. Patience or pressure. Truth or avoidance. You are not asking in order to earn God's love. You are asking so grace can reach the root.
 
@@ -198,4 +198,4 @@ The Spirit forms fruit by healing the root beneath the visible life.
 
 **Journal prompt:** What fruit has been showing in my life, and what root may be feeding it?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Anchor Oil for the Journey into one faithful step today.

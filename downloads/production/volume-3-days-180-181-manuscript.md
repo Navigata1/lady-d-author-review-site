@@ -32,7 +32,7 @@ The Spirit gives gifts for the body by turning renewed obedience into shared wit
 
 **Journal prompt:** Where does obedience need to replace repeated explanation?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Let Grace Form Power to Witness into one faithful step today.
 
 ---
 
@@ -60,4 +60,4 @@ The Spirit gives gifts for the body by confirming belonging beyond human control
 
 **Journal prompt:** Where have I assumed God can only work through the expected person, place, or method?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Behold the Seal of Belonging into one faithful step today.

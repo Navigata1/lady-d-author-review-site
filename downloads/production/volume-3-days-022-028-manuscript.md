@@ -32,7 +32,7 @@ The Spirit carries the blessing of God into fruitfulness that does not have to b
 
 **Journal prompt:** Where am I trying to multiply effort without first receiving God's life and blessing?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Yield to Oil for the Journey into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit anchors freedom by turning entrusted places into fields of faithful c
 
 **Journal prompt:** What entrusted area needs Spirit-formed stewardship instead of neglect or control?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Anchor Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit teaches the heart to breathe in the generosity of God before the week
 
 **Journal prompt:** What provision have I been treating as ordinary instead of receiving as grace?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Discover the Breath of God into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit comforts by reminding the whole person that life is received before i
 
 **Journal prompt:** Where have I treated my life as something to prove instead of something received from God?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Receive the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit's fire purifies; fear's fire consumes.
 
 **Journal prompt:** Where has pressure been shaping my choices more than the Spirit's truth?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Trust Holy Fire into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit can bring rain to dry places by making strong people humble enough to
 
 **Journal prompt:** Where does my strength need surrender before it becomes harmful?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Let Hope Rise Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit's anointing should make the heart grateful, accountable, and more sur
 
 **Journal prompt:** Where has God helped me, and what hidden area still needs His formation?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Carry the Anointing for Today into one faithful step today.

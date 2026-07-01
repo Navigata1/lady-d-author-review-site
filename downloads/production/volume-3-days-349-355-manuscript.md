@@ -32,7 +32,7 @@ The Spirit forms a sealed and filled life by keeping discipleship close to Jesus
 
 **Journal prompt:** Where have I been trying to rise above the path Jesus is using to form me?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Come Home to the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -60,13 +60,13 @@ The Spirit forms a sealed and filled life by filling the heart with Jesus' ident
 
 **Journal prompt:** Where has a wrong label started shaping how I see myself?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Practice Holy Fire into one faithful step today.
 
 ---
 
 ## Day 351 - December 17
 
-### Surrender to Rain for Dry Places
+### Surrender to Finishing Hope Through Rain for Dry Places
 
 **Scripture Reference:** Matthew 10:26
 
@@ -88,13 +88,13 @@ The Spirit forms a sealed and filled life by refreshing courage when hidden fear
 
 **Journal prompt:** What hidden fear has been drying my courage?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Surrender to Finishing Hope Through Rain for Dry Places into one faithful step today.
 
 ---
 
 ## Day 352 - December 18
 
-### Let Mercy Speak the Anointing for Today
+### Let Finishing Hope Speak the Anointing for Today
 
 **Scripture Reference:** Matthew 10:27
 
@@ -116,13 +116,13 @@ The Spirit forms a sealed and filled life by turning private instruction into co
 
 **Journal prompt:** What truth has God been forming privately that now needs a faithful voice?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Let Finishing Hope Speak the Anointing for Today into one faithful step today.
 
 ---
 
 ## Day 353 - December 19
 
-### Breathe the Spirit's Fruit
+### Breathe Finishing Hope in the Spirit's Fruit
 
 **Scripture Reference:** Matthew 10:28
 
@@ -144,13 +144,13 @@ The Spirit forms a sealed and filled life by growing fruit from reverence that f
 
 **Journal prompt:** What lesser fear has been louder than holy reverence?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Breathe Finishing Hope in the Spirit's Fruit into one faithful step today.
 
 ---
 
 ## Day 354 - December 20
 
-### Hold Fast to Power to Witness
+### Hold Fast to Finishing Hope Through Power to Witness
 
 **Scripture Reference:** Matthew 10:29
 
@@ -172,13 +172,13 @@ The Spirit forms a sealed and filled life by rooting witness in the Father's car
 
 **Journal prompt:** Where have I felt too small to matter?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Hold Fast to Finishing Hope Through Power to Witness into one faithful step today.
 
 ---
 
 ## Day 355 - December 21
 
-### Return to the Seal of Belonging
+### Return to Finishing Hope Through the Seal of Belonging
 
 **Scripture Reference:** Matthew 10:30
 
@@ -200,4 +200,4 @@ The Spirit forms a sealed and filled life by filling the heart with rest under G
 
 **Journal prompt:** Where do I feel unseen even while God knows me completely?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Return to Finishing Hope Through the Seal of Belonging into one faithful step today.

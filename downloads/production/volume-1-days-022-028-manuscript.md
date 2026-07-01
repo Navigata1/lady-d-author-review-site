@@ -30,7 +30,7 @@ Today, let His love reach the place where fear has lived physically. Let prayer 
 
 **Journal prompt:** Where has fear been living in my body, not only in my thoughts?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Yield to the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -56,7 +56,7 @@ Do not despise ordinary obedience. The Father can place eternal weight inside qu
 
 **Journal prompt:** What ordinary act of faithfulness have I been tempted to treat as too small to matter?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Anchor Love That Sends You into one faithful step today.
 
 ---
 
@@ -82,7 +82,7 @@ Today, discover mercy that moves. Not frantic movement. Not performance. Surrend
 
 **Journal prompt:** Where has God shown mercy, but I have still been afraid to move forward?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Discover Covenant Mercy into one faithful step today.
 
 ---
 
@@ -108,7 +108,7 @@ Today, welcome may feel like conviction. Do not run from that. Conviction in the
 
 **Journal prompt:** What guarded or stubborn place might God be touching because He loves me?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Receive the Father's Welcome into one faithful step today.
 
 ---
 
@@ -134,7 +134,7 @@ Today, trust your belovedness enough to make room. The Father has welcomed you w
 
 **Journal prompt:** Who around me may feel like a stranger, and what would love look like toward them today?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Trust Beloved Identity into one faithful step today.
 
 ---
 
@@ -160,7 +160,7 @@ Today, do not despise the small place where God is working. Surrender the need f
 
 **Journal prompt:** What small beginning have I been tempted to dismiss, and how might God be asking me to nurture it?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Let Hope Rise Love That Finds You into one faithful step today.
 
 ---
 
@@ -186,5 +186,4 @@ As Sabbath approaches in any given week, this matters deeply. Holy rest and comm
 
 **Journal prompt:** What spiritual practice needs to become an act of return instead of a performance?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
-
+**Morning impact:** Let the Father's love carry Carry Grace Before Striving into one faithful step today.

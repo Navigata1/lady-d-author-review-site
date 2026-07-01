@@ -32,7 +32,7 @@ Walking with Jesus means carrying holy moments under His timing.
 
 **Journal prompt:** Where do I need to follow Jesus in the descent, not only in the moment of glory?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Come Home to the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The peace of Jesus is found on the road where the heart is free enough to follow
 
 **Journal prompt:** What attachment is Jesus gently exposing so I can walk with Him more freely?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Practice the Way of Peace in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means trusting that His future is strong enough to hold today
 
 **Journal prompt:** What cost of following Jesus do I need to place under His promise of renewal?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Surrender to the Table of Grace in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Lord who tells the truth also walks the road He reveals.
 
 **Journal prompt:** What truth from Jesus have I been avoiding because the road feels costly?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Let Mercy Speak the Healing Touch in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus gives courage to keep seeking Him when the crowd does not und
 
 **Journal prompt:** What voice has been trying to silence my prayer for mercy?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Breathe the Call to Follow in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus turns ordinary obedience into participation in His larger pur
 
 **Journal prompt:** What small assignment might be part of Jesus' larger purpose today?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Hold Fast to Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means trusting the Father's marvelous work even when rejectio
 
 **Journal prompt:** Where do I need resurrection hope to answer the voice of rejection?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Return to Resurrection Hope in one faithful step today.

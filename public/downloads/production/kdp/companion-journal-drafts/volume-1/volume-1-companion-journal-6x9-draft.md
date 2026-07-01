@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Base commit: `d1dc5fa`
+Base commit: `6ab403d`
 
 Status: Full companion journal review draft. This is not a final KDP upload file.
 

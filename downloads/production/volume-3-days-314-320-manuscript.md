@@ -28,11 +28,11 @@ The Spirit forms freedom, fire, and holiness by cleansing the heart after spirit
 
 **Today step:** After a meaningful moment, choose one ordinary faithful action instead of chasing intensity.
 
-**Prayer:** Holy Spirit, keep me steady after You meet me. Cleanse my heart from pride, confusion, and performance. Amen.
+**Prayer:** Holy Spirit, keep me steady after You meet me. Cleanse my heart from pride, confusion, and self-display. Amen.
 
 **Journal prompt:** How do I return to ordinary life after a meaningful encounter with God?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Embrace the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit forms freedom, fire, and holiness by making God's nearness discernibl
 
 **Journal prompt:** How do I answer ordinary questions when something deeper is happening in me?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Remember Holy Fire into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit forms freedom, fire, and holiness by breathing restraint into truthfu
 
 **Journal prompt:** Where do I share too much because silence feels vulnerable?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Walk in Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit forms freedom, fire, and holiness by setting public attention under G
 
 **Journal prompt:** Where does public attention unsettle my obedience?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Let Peace Lead the Anointing for Today into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit forms freedom, fire, and holiness by strengthening memory into faithf
 
 **Journal prompt:** What deliverance am I forgetting because present fear feels louder?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Choose the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit forms freedom, fire, and holiness by cleansing desire before it repla
 
 **Journal prompt:** Where do I want something visible to make faith feel safer?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Listen for Power to Witness into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit forms freedom, fire, and holiness by making God's nearness discernibl
 
 **Journal prompt:** Where does attention make me feel exposed instead of held?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Stand in the Seal of Belonging into one faithful step today.

@@ -32,7 +32,7 @@ Walking with Jesus means letting holy wonder become abiding faith.
 
 **Journal prompt:** What holy question may Jesus be using to draw me nearer?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Let Peace Lead Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting His compassionate truth make the heart whole.
 
 **Journal prompt:** Where am I divided, and what whole-hearted step is Jesus inviting?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Choose Resurrection Hope in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting the Teacher form your ear for the kingdom.
 
 **Journal prompt:** Where do I need to recognize God's kingdom breaking into an ordinary moment?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Listen for the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means following the light you have already been given.
 
 **Journal prompt:** Where have I been asking for certainty instead of taking the next faithful step?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Stand in the Light on the Path in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting resurrection hope train the ear away from final
 
 **Journal prompt:** What decision would change if I listened from resurrection hope?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Let Grace Form the Invitation in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting Christ inhabit what He has cleaned.
 
 **Journal prompt:** What space has grace cleared that now needs to be filled with Christ?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Behold the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means following the road where compassion becomes family.
 
 **Journal prompt:** Where do I need to receive Christ's compassion as belonging this Sabbath?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Follow the Road with Jesus in one faithful step today.

@@ -32,7 +32,7 @@ Walking with Jesus means receiving grace even when it comes through familiar doo
 
 **Journal prompt:** Where has familiarity made me less receptive to Jesus?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Trust the Table of Grace in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting the humble Teacher heal the way we see.
 
 **Journal prompt:** What ordinary place might I be dismissing too quickly?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Let Hope Rise the Healing Touch in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means following Him even when honor is withheld.
 
 **Journal prompt:** Where am I waiting to be understood before I obey?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Carry the Call to Follow in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting hope grow roots before the heat comes.
 
 **Journal prompt:** What hidden practice is Jesus using to grow roots in me?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Lean Into Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means remaining steady when noise misnames the truth.
 
 **Journal prompt:** What voice or report needs to be brought under the truth of Jesus?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through See Again Resurrection Hope in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting compassion hold grief and courage together.
 
 **Journal prompt:** What sorrow needs to be held in Christ's compassion today?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Let Love Teach the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means learning from the Teacher who turns compassion into sha
 
 **Journal prompt:** What simple mercy is Jesus inviting me to offer from a rested heart?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Awaken the Light on the Path in one faithful step today.

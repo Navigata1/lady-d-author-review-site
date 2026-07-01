@@ -32,7 +32,7 @@ The Spirit empowers truthful witness before visible fruit appears.
 
 **Journal prompt:** Where do I need honest dependence instead of performance?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Embrace Power to Witness into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit seals belonging by watering hidden places with quiet mercy.
 
 **Journal prompt:** What quiet mercy has God used to keep my heart from hardening?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Remember the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit carries wordless prayer to the God who prepares and places.
 
 **Journal prompt:** What need do I keep trying to explain that I simply need to bring to God?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Walk in Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit brings peaceful breath to desire that is learning God's order.
 
 **Journal prompt:** What desire needs God's peace and order instead of my anxious grasping?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Let Peace Lead Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit gives oil for the journey by drawing movement from God's living sourc
 
 **Journal prompt:** Where am I trying to move outward without first receiving from God?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Choose Oil for the Journey into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit frees the heart by giving movement a submitted direction.
 
 **Journal prompt:** Where does my freedom need submitted direction?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Listen for Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit renews the heart to receive good gifts without worshiping them.
 
 **Journal prompt:** What good gift needs to be received with gratitude and held with surrender?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Stand in the Breath of God into one faithful step today.

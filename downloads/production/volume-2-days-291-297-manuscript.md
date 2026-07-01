@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 291 - October 18
 
-### Awaken the Shepherd's Voice
+### Awaken Holy Steadiness in the Shepherd's Voice
 
 **Scripture Reference:** Matthew 25:23
 
@@ -32,13 +32,13 @@ Walking with Jesus means hearing the Master's joy as part of the call.
 
 **Journal prompt:** Where has faithfulness begun to feel joyless, and what would it mean to serve with Jesus there?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Awaken Holy Steadiness in the Shepherd's Voice in one faithful step today.
 
 ---
 
 ## Day 292 - October 19
 
-### Embrace the Road with Jesus
+### Embrace Holy Steadiness in the Road with Jesus
 
 **Scripture Reference:** Matthew 25:24
 
@@ -60,13 +60,13 @@ Walking with Jesus means staying near enough for the Master's heart to become cl
 
 **Journal prompt:** Where has fear quietly taught me to see God as harsh instead of good?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Embrace Holy Steadiness in the Road with Jesus in one faithful step today.
 
 ---
 
 ## Day 293 - October 20
 
-### Remember the Nearness of Christ
+### Remember Holy Steadiness in the Nearness of Christ
 
 **Scripture Reference:** Matthew 25:26
 
@@ -88,13 +88,13 @@ Walking with Jesus means letting compassion tell the truth that sets stewardship
 
 **Journal prompt:** What excuse has started to sound reasonable because I have repeated it too long?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Remember Holy Steadiness in the Nearness of Christ in one faithful step today.
 
 ---
 
 ## Day 294 - October 21
 
-### Walk in the Way of Peace
+### Walk Holy Steadiness in in the Way of Peace
 
 **Scripture Reference:** Matthew 25:29
 
@@ -116,13 +116,13 @@ Walking with Jesus means letting the Teacher turn received grace into living fai
 
 **Journal prompt:** What received grace needs to move instead of remain unused?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Walk Holy Steadiness in in the Way of Peace in one faithful step today.
 
 ---
 
 ## Day 295 - October 22
 
-### Let Peace Lead the Table of Grace
+### Let Holy Steadiness Lead the Table of Grace
 
 **Scripture Reference:** Matthew 25:32
 
@@ -144,13 +144,13 @@ Walking with Jesus means letting mercy become visible on the road.
 
 **Journal prompt:** Where is grace asking to become visible instead of remaining only a feeling?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Let Holy Steadiness Lead the Table of Grace in one faithful step today.
 
 ---
 
 ## Day 296 - October 23
 
-### Choose the Healing Touch
+### Choose Holy Steadiness in the Healing Touch
 
 **Scripture Reference:** Matthew 25:34
 
@@ -172,13 +172,13 @@ Walking with Jesus means letting received inheritance become generous compassion
 
 **Journal prompt:** Where do I need to receive God's welcome before I try to serve well?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Choose Holy Steadiness in the Healing Touch in one faithful step today.
 
 ---
 
 ## Day 297 - October 24
 
-### Listen for the Call to Follow
+### Listen Holy Steadiness in for the Call to Follow
 
 **Scripture Reference:** Matthew 25:36
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting Sabbath nearness become practical compassion.
 
 **Journal prompt:** Who needs my presence, prayer, or practical care without performance or pride?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Listen Holy Steadiness in for the Call to Follow in one faithful step today.

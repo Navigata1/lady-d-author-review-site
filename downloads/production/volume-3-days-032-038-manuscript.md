@@ -32,7 +32,7 @@ The Spirit's wind can cool the place where anger wants to organize destruction.
 
 **Journal prompt:** Where is my response in danger of becoming bigger than the wound?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Behold Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit consecrates the journey by stopping pain from becoming your pattern.
 
 **Journal prompt:** What pain pattern am I tempted to pass forward?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Follow Oil for the Journey into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit gives freedom that can lead without forgetting who delivered first.
 
 **Journal prompt:** Where do I need Spirit-given wisdom more than self-rescue?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Rest in Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit wakes the heart by making God's voice mercifully hard to ignore.
 
 **Journal prompt:** What has God already shown me that I have been slow to obey?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Wake Up to the Breath of God into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit comforts by waiting near enough to refine fear into offering.
 
 **Journal prompt:** What small offering can I bring while my faith is still learning courage?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Let Fire Refine the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit's fire brings the heart home to reverence, surrender, and courage.
 
 **Journal prompt:** What have I placed before God but kept trying to take back?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Come Home to Holy Fire into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit clothes weakness with courage that belongs to God.
 
 **Journal prompt:** Where do I need to be clothed by the Spirit before I try to act brave?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Practice Rain for Dry Places into one faithful step today.

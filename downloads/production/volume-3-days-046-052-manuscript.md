@@ -32,7 +32,7 @@ The Spirit gives freedom that becomes a dwelling place for God's life.
 
 **Journal prompt:** What needs to fill the space where an old pattern used to live?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Discover Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit fills daily life by changing the air your words create.
 
 **Journal prompt:** What complaint has been shaping the air around me?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Receive the Breath of God into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit comforts burdened people by leading them out of isolated carrying.
 
 **Journal prompt:** What burden have I been carrying alone that needs honest prayer and wise help?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Trust the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit's holy fire can spread as shared strength for a burden too heavy for 
 
 **Journal prompt:** Where have I confused isolated carrying with faithfulness?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Hope Rise Holy Fire into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit rests on God's people so burdens can become shared and dry places ref
 
 **Journal prompt:** Where can I carry rain, and where do I need to receive it?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Carry Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit can make the ordinary camp a place of holy participation.
 
 **Journal prompt:** Where have I assumed my ordinary place is too hidden for the Spirit's work?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Lean Into the Anointing for Today into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit's fruit rejoices when God's life increases in others.
 
 **Journal prompt:** Whose gift do I need to bless instead of compare against my own?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry See Again the Spirit's Fruit into one faithful step today.

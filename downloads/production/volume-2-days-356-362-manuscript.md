@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 356 - December 22
 
-### Yield to Cross-Shaped Courage
+### Yield to Finishing Hope Through Cross-Shaped Courage
 
 **Scripture Reference:** Matthew 12:26
 
@@ -32,13 +32,13 @@ Walking with Jesus means letting His truth gather the divided places into faithf
 
 **Journal prompt:** Where is my witness weakened by divided allegiance?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Yield to Finishing Hope Through Cross-Shaped Courage in one faithful step today.
 
 ---
 
 ## Day 357 - December 23
 
-### Anchor Resurrection Hope
+### Anchor Finishing Hope in Resurrection Hope
 
 **Scripture Reference:** Matthew 12:27
 
@@ -60,13 +60,13 @@ Walking with Jesus means receiving His saving correction until your witness grow
 
 **Journal prompt:** Where do I judge with uneven measures?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Anchor Finishing Hope in Resurrection Hope in one faithful step today.
 
 ---
 
 ## Day 358 - December 24
 
-### Discover the Friend Who Leads
+### Discover Finishing Hope in the Friend Who Leads
 
 **Scripture Reference:** Matthew 12:29
 
@@ -88,13 +88,13 @@ Walking with Jesus means witnessing to the Friend who is strong enough to free c
 
 **Journal prompt:** What has felt stronger than me that needs to be brought under Christ's stronger authority?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Discover Finishing Hope in the Friend Who Leads in one faithful step today.
 
 ---
 
 ## Day 359 - December 25
 
-### Receive the Light on the Path
+### Receive Finishing Hope in the Light on the Path
 
 **Scripture Reference:** Matthew 12:3
 
@@ -116,13 +116,13 @@ Walking with Jesus means receiving His Lordship over how you interpret need.
 
 **Journal prompt:** Where do I need Jesus to correct how I interpret human need?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Receive Finishing Hope in the Light on the Path in one faithful step today.
 
 ---
 
 ## Day 360 - December 26
 
-### Trust the Invitation
+### Trust Finishing Hope in the Invitation
 
 **Scripture Reference:** Matthew 12:30
 
@@ -144,13 +144,13 @@ Walking with Jesus means resting in gathered allegiance instead of drifting in p
 
 **Journal prompt:** What scattered part of my life needs to be gathered back to Jesus this Sabbath?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Trust Finishing Hope in the Invitation in one faithful step today.
 
 ---
 
 ## Day 361 - December 27
 
-### Let Hope Rise the Shepherd's Voice
+### Let Finishing Hope Lift the Shepherd's Voice
 
 **Scripture Reference:** Matthew 12:31
 
@@ -172,13 +172,13 @@ Walking with Jesus means staying tender to the Spirit's witness and quick to ret
 
 **Journal prompt:** Where is the Spirit inviting me to respond with surrender instead of delay?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Let Finishing Hope Lift the Shepherd's Voice in one faithful step today.
 
 ---
 
 ## Day 362 - December 28
 
-### Carry the Road with Jesus
+### Carry Finishing Hope in the Road with Jesus
 
 **Scripture Reference:** Matthew 12:33
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting saving wholeness become visible fruit.
 
 **Journal prompt:** What fruit in my life reveals a root Jesus wants to heal?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Carry Finishing Hope in the Road with Jesus in one faithful step today.

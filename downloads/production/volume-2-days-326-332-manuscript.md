@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 326 - November 22
 
-### Let Fire Refine the Shepherd's Voice
+### Let Grateful Remembrance Refine the Shepherd's Voice
 
 **Scripture Reference:** Matthew 10:19
 
@@ -32,13 +32,13 @@ Walking with Jesus means trusting the living Shepherd before you know every word
 
 **Journal prompt:** What conversation or pressure am I rehearsing in fear instead of entrusting to Jesus?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Let Grateful Remembrance Refine the Shepherd's Voice in one faithful step today.
 
 ---
 
 ## Day 327 - November 23
 
-### Come Home to the Road with Jesus
+### Come Home to Grateful Remembrance Through the Road with Jesus
 
 **Scripture Reference:** Matthew 10:20
 
@@ -60,13 +60,13 @@ Walking with Jesus means staying close enough to receive help that is not manufa
 
 **Journal prompt:** Where do I need to move from self-reliance into Spirit-help?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Come Home to Grateful Remembrance Through the Road with Jesus in one faithful step today.
 
 ---
 
 ## Day 328 - November 24
 
-### Practice the Nearness of Christ
+### Practice Grateful Remembrance in the Nearness of Christ
 
 **Scripture Reference:** Matthew 10:21
 
@@ -88,13 +88,13 @@ Walking with Jesus means bringing close relational pain into the nearness of the
 
 **Journal prompt:** What close wound needs the honest compassion of Jesus today?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Practice Grateful Remembrance in the Nearness of Christ in one faithful step today.
 
 ---
 
 ## Day 329 - November 25
 
-### Surrender to the Way of Peace
+### Surrender to Grateful Remembrance Through the Way of Peace
 
 **Scripture Reference:** Matthew 10:22
 
@@ -116,13 +116,13 @@ Walking with Jesus means enduring in His name without letting opposition become 
 
 **Journal prompt:** Where am I tempted to make opposition louder than belonging to Jesus?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Surrender to Grateful Remembrance Through the Way of Peace in one faithful step today.
 
 ---
 
 ## Day 330 - November 26
 
-### Let Mercy Speak the Table of Grace
+### Let Grateful Remembrance Speak the Table of Grace
 
 **Scripture Reference:** Matthew 10:26
 
@@ -144,13 +144,13 @@ Walking with Jesus means staying on the road of faithful mercy while God holds w
 
 **Journal prompt:** What hidden concern do I need to entrust to the God who sees clearly?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Let Grateful Remembrance Speak the Table of Grace in one faithful step today.
 
 ---
 
 ## Day 331 - November 27
 
-### Breathe the Healing Touch
+### Breathe Grateful Remembrance in the Healing Touch
 
 **Scripture Reference:** Matthew 10:27
 
@@ -172,13 +172,13 @@ Walking with Jesus means receiving His word privately and carrying it faithfully
 
 **Journal prompt:** What truth has Jesus been forming privately that needs humble public obedience?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Breathe Grateful Remembrance in the Healing Touch in one faithful step today.
 
 ---
 
 ## Day 332 - November 28
 
-### Hold Fast to the Call to Follow
+### Hold Fast to Grateful Remembrance Through the Call to Follow
 
 **Scripture Reference:** Matthew 10:28
 
@@ -200,4 +200,4 @@ Walking with Jesus means resting near enough to God that fear loses its throne.
 
 **Journal prompt:** What fear of people needs to be reordered before God in Sabbath worship?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Hold Fast to Grateful Remembrance Through the Call to Follow in one faithful step today.

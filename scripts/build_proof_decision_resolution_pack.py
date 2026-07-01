@@ -180,12 +180,32 @@ def build_resolution(audit: dict[str, object], commit: str) -> dict[str, object]
             "total_decisions": sum(1 for item in all_decisions if item["volume"] == volume),
         }
     likely_aligned = sum(1 for item in audit["works_watch_contexts"] if item["preliminary_read"] == "likely grace-aligned")
+    if all_decisions:
+        status = "decision_queue_ready_not_final_upload"
+        recommended_loop = [
+            "Resolve the 12 theology contexts first because they touch the Adventist grace/obedience guardrail.",
+            "Decide whether repeated morning-impact lines are an intentional refrain system or should be individualized by month.",
+            "Retitle duplicate day-title groups one volume at a time, keeping at most the strongest occurrence when a phrase repeats.",
+            "Run a final copyedit pass after decisions are applied to the manuscripts.",
+            "Regenerate final interiors and covers only after page counts are locked.",
+            "Do not declare KDP final until Previewer and physical proof review pass.",
+        ]
+    else:
+        status = "decision_queue_clear_not_final_upload"
+        recommended_loop = [
+            "Proof audit currently shows no duplicate title groups, no repeated morning-impact groups, and no priority theology contexts.",
+            "Run the next full copyedit pass for author voice, devotional flow, and line-level polish.",
+            "Keep the Adventist Sabbath and grace/obedience guardrails visible during final copyedit.",
+            "Regenerate final interiors and covers only after copyedit approval and locked page counts.",
+            "Do not declare KDP final until Previewer and physical proof review pass.",
+        ]
+
     return {
         "generated": GENERATED,
         "commit": commit,
         "source_audit_commit": audit["commit"],
         "author": AUTHOR,
-        "status": "decision_queue_ready_not_final_upload",
+        "status": status,
         "totals": {
             "decision_items": len(all_decisions),
             "title_decisions": len(title_decisions),
@@ -197,14 +217,7 @@ def build_resolution(audit: dict[str, object], commit: str) -> dict[str, object]
             "placeholder_markers": audit["totals"]["placeholders"],
         },
         "volume_breakdown": by_volume,
-        "recommended_loop": [
-            "Resolve the 12 theology contexts first because they touch the Adventist grace/obedience guardrail.",
-            "Decide whether repeated morning-impact lines are an intentional refrain system or should be individualized by month.",
-            "Retitle duplicate day-title groups one volume at a time, keeping at most the strongest occurrence when a phrase repeats.",
-            "Run a final copyedit pass after decisions are applied to the manuscripts.",
-            "Regenerate final interiors and covers only after page counts are locked.",
-            "Do not declare KDP final until Previewer and physical proof review pass.",
-        ],
+        "recommended_loop": recommended_loop,
         "title_decisions": title_decisions,
         "morning_impact_decisions": impact_decisions,
         "theology_decisions": theology_decisions,
@@ -225,6 +238,15 @@ def main_report_markdown(resolution: dict[str, object], audit: dict[str, object]
         for volume, data in resolution["volume_breakdown"].items()
     )
     loop = "\n".join(f"{idx}. {item}" for idx, item in enumerate(resolution["recommended_loop"], start=1))
+    purpose = (
+        f"The trilogy proof audit identified {totals['title_decisions']} repeated-title groups, "
+        f"{totals['morning_impact_decisions']} repeated morning-impact groups, and "
+        f"{totals['theology_decisions']} grace/obedience contexts requiring focused proof review. "
+        "This pack turns those findings into an operator-ready decision queue."
+        if totals["decision_items"]
+        else "The current trilogy proof audit shows the prior proof decision queue has been cleared: no repeated-title groups, no repeated morning-impact groups, and no priority grace/obedience contexts remain. This pack records the clean queue state and keeps the next production gate explicit."
+    )
+    status_line = "Decision queue ready" if totals["decision_items"] else "Decision queue clear"
     return f"""# Lady D Proof Decision Resolution Pack
 
 Generated: {GENERATED}
@@ -235,11 +257,11 @@ Source proof audit commit: `{resolution['source_audit_commit']}`
 
 Author: {AUTHOR}
 
-Status: Decision queue ready. This is not a final KDP upload declaration.
+Status: {status_line}. This is not a final KDP upload declaration.
 
 ## Purpose
 
-The trilogy proof audit identified repeated titles, repeated morning-impact lines, and 12 grace/obedience contexts requiring focused proof review. This pack turns those findings into an operator-ready decision queue so the next writing loop can apply changes deliberately instead of guessing.
+{purpose}
 
 ## Decision Snapshot
 
@@ -537,7 +559,12 @@ def build_docx(resolution: dict[str, object], audit: dict[str, object]) -> Path:
     doc.core_properties.author = "IDC Publishing"
     add_para(doc, "LADY D DEVOTIONAL LIBRARY", size=9, color=GOLD, bold=True, align=WD_ALIGN_PARAGRAPH.CENTER, after=4)
     add_para(doc, "Proof Decision Resolution Pack", size=24, color=DARK_BLUE, bold=True, align=WD_ALIGN_PARAGRAPH.CENTER, after=10)
-    add_para(doc, "Operator queue for title, morning-impact, and theology proof decisions", size=12, color=MUTED, italic=True, align=WD_ALIGN_PARAGRAPH.CENTER, after=18)
+    subtitle = (
+        "Operator queue for title, morning-impact, and theology proof decisions"
+        if resolution["totals"]["decision_items"]
+        else "Clean proof-decision queue for title, morning-impact, and theology checks"
+    )
+    add_para(doc, subtitle, size=12, color=MUTED, italic=True, align=WD_ALIGN_PARAGRAPH.CENTER, after=18)
     add_para(doc, f"Generated {GENERATED} from commit {resolution['commit']}", size=9, color=MUTED, align=WD_ALIGN_PARAGRAPH.CENTER, after=18)
     doc.add_heading("Readiness Boundary", level=1)
     add_para(doc, "This pack converts proof findings into decisions. It does not make any file final upload-ready. Applied manuscript edits, final proof, Bible permissions, ISBN/barcode, KDP Previewer, and physical proof review still remain.", after=10)
@@ -556,8 +583,11 @@ def build_docx(resolution: dict[str, object], audit: dict[str, object]) -> Path:
     doc.add_heading("Volume Decision Breakdown", level=1)
     add_volume_table(doc, resolution, audit)
     doc.add_heading("Priority Theology Contexts", level=1)
-    add_para(doc, "Resolve these first because they touch the grace/obedience guardrail. Approve only if obedience remains response to grace, never a path to earning God's love.", after=6)
-    add_theology_table(doc, resolution)
+    if resolution["totals"]["theology_decisions"]:
+        add_para(doc, "Resolve these first because they touch the grace/obedience guardrail. Approve only if obedience remains response to grace, never a path to earning God's love.", after=6)
+        add_theology_table(doc, resolution)
+    else:
+        add_para(doc, "No priority theology contexts remain in the current proof audit. Keep the grace/obedience guardrail visible during the final copyedit.", after=6)
     doc.add_heading("Recommended Loop", level=1)
     for item in resolution["recommended_loop"]:
         add_bullet(doc, item)
@@ -579,10 +609,13 @@ def review_html(resolution: dict[str, object], audit: dict[str, object]) -> str:
         f"<tr><td>Volume {volume}</td><td>{html.escape(volume_name(volume, audit))}</td><td>{data['title_decisions']}</td><td>{data['morning_impact_decisions']}</td><td>{data['theology_decisions']}</td><td>{data['total_decisions']}</td></tr>"
         for volume, data in resolution["volume_breakdown"].items()
     )
-    theology_rows = "\n".join(
+    if resolution["theology_decisions"]:
+        theology_rows = "\n".join(
         f"<tr><td>{html.escape(item['id'])}</td><td>{html.escape(item['product_title'])}</td><td>{item['line']}</td><td>{html.escape(str(item['term']))}</td><td>{html.escape(display_action(item['recommended_action']))}</td></tr>"
         for item in resolution["theology_decisions"]
-    )
+        )
+    else:
+        theology_rows = '<tr><td colspan="5">No priority theology contexts remain in the current proof audit.</td></tr>'
     downloads = [
         ("Download proof decision resolution ZIP", "downloads/production/kdp/proof-decision-resolution/Lady-D-Proof-Decision-Resolution-Pack.zip"),
         ("Resolution report PDF", "downloads/production/kdp/proof-decision-resolution/lady-d-proof-decision-resolution-pack.pdf"),
@@ -597,6 +630,16 @@ def review_html(resolution: dict[str, object], audit: dict[str, object]) -> str:
     ]
     download_links = "\n".join(f'<a class="card" href="{href}">{html.escape(label)}</a>' for label, href in downloads)
     loop = "\n".join(f"<li>{html.escape(item)}</li>" for item in resolution["recommended_loop"])
+    header_lead = (
+        "This page turns the proof audit into the next operator queue: theology contexts first, then morning-impact rhythm decisions, then repeated-title revisions one volume at a time."
+        if totals["decision_items"]
+        else "This page records the clean proof-decision queue after source application: no duplicate-title groups, no repeated morning-impact groups, and no priority theology contexts remain."
+    )
+    theology_intro = (
+        f"These {totals['theology_decisions']} contexts should be resolved first when present because they determine whether language remains clear that obedience is response to grace, never a way to earn love."
+        if totals["theology_decisions"]
+        else "No priority theology contexts remain. Keep the grace/obedience guardrail visible during final copyedit."
+    )
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -636,11 +679,11 @@ def review_html(resolution: dict[str, object], audit: dict[str, object]) -> str:
   <header>
     <div class="kicker">Proof decision resolution</div>
     <h1>Lady D proof decision resolution pack</h1>
-    <p class="lead">This page turns the proof audit into the next operator queue: theology contexts first, then morning-impact rhythm decisions, then repeated-title revisions one volume at a time.</p>
+    <p class="lead">{html.escape(header_lead)}</p>
     <div class="badges">
       <span class="badge">Generated {GENERATED}</span>
       <span class="badge">Commit {html.escape(str(resolution['commit']))}</span>
-      <span class="badge">192 decision items</span>
+      <span class="badge">{totals['decision_items']} decision items</span>
       <span class="badge">Not final upload-ready</span>
     </div>
   </header>
@@ -666,7 +709,7 @@ def review_html(resolution: dict[str, object], audit: dict[str, object]) -> str:
     </section>
     <section>
       <h2>Priority Theology Contexts</h2>
-      <p class="lead">These 12 contexts should be resolved first because they determine whether language remains clear that obedience is response to grace, never a way to earn love.</p>
+      <p class="lead">{html.escape(theology_intro)}</p>
       <table><thead><tr><th>ID</th><th>Product</th><th>Line</th><th>Term</th><th>Recommended action</th></tr></thead><tbody>{theology_rows}</tbody></table>
     </section>
     <section>

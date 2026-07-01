@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 336 - December 2
 
-### Embrace Covenant Mercy
+### Embrace Finishing Hope in Covenant Mercy
 
 **Scripture Reference:** Exodus 15:3
 
@@ -34,7 +34,7 @@ The Father is faithful enough to defend what His love has claimed.
 
 **Journal prompt:** Where do I need to receive God's mercy as protective strength, not only gentle comfort?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Embrace Finishing Hope in Covenant Mercy into one faithful step today.
 
 ---
 
@@ -64,7 +64,7 @@ The love of the Father is stronger than the systems that tried to claim you.
 
 **Journal prompt:** What old message still tries to tell me I do not fully belong to the Father's love?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Remember the Father's Welcome into one faithful step today.
 
 ---
 
@@ -94,7 +94,7 @@ The Redeemer's nearness gives the beloved heart a place to stand.
 
 **Journal prompt:** What demand most often tempts me to forget that I am already loved and redeemed?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Walk in Beloved Identity into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The faithful God can lead your rest before He sends your work.
 
 **Journal prompt:** What concern needs to rest under God's faithfulness this Sabbath before I try to carry it again?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Let Peace Lead Love That Finds You into one faithful step today.
 
 ---
 
@@ -156,7 +156,7 @@ The Father forms surrendered hearts by grace before He sends them into action.
 
 **Journal prompt:** Where is my heart tempted to perform instead of receiving grace and obeying freely?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Choose Grace Before Striving into one faithful step today.
 
 ---
 
@@ -186,7 +186,7 @@ Let mercy become the morning sound your obedience follows.
 
 **Journal prompt:** What voice usually tries to interpret my morning before the Father's mercy speaks?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Listen for Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -216,4 +216,4 @@ The Father's chosen love knows how to act without being rushed by fear.
 
 **Journal prompt:** What outcome am I trying to rush because I am afraid patience means abandonment?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Stand in the Father's Patience into one faithful step today.

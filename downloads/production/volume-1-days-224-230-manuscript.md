@@ -24,7 +24,7 @@ Let grace form grace before performance by noticing the order. God is the One wh
 
 Take one surrendered step before worry gets the first word. Before you try to prove yourself in a relationship today, pause. Ask what God has actually spoken. Ask what part of your response is faith and what part is fear wearing religious clothing.
 
-Love in relationships grows stronger when obedience begins in received grace. You do not have to turn every sacred moment into immediate self-justification. You can let the Father's words settle. You can let His presence shape your tone before you speak. You can let His timing protect you from frantic performance.
+Love in relationships grows stronger when obedience begins in received grace. You do not have to turn every sacred moment into immediate self-justification. You can let the Father's words settle. You can let His presence shape your tone before you speak. You can let His timing protect you from frantic striving.
 
 Grace has already come near. Let it form the way you answer.
 
@@ -34,7 +34,7 @@ Grace has already come near. Let it form the way you answer.
 
 **Journal prompt:** Where am I rushing to prove myself before letting God's grace form my response?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Let Grace Form Grace Before Striving into one faithful step today.
 
 ---
 
@@ -66,7 +66,7 @@ Do not despise the morning obedience. It may be the doorway where mercy enters t
 
 **Journal prompt:** What act of obedience has been waiting for a quieter day, and what faithful step can I take before noon?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Behold Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -96,7 +96,7 @@ The Father is patient enough to form obedience in late places. Follow Him there.
 
 **Journal prompt:** Where have I been using delay or history as a reason to avoid present obedience?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Follow the Father's Patience into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ On this Sabbath, rest in the Father's care for the person you cannot carry by co
 
 **Journal prompt:** Who do I need to love with prayer and release instead of fear and control?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Rest in Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -156,7 +156,7 @@ The Father can use a same-day response to awaken more than one heart.
 
 **Journal prompt:** Who is affected by my response to God, and how can I obey with compassion toward them?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Wake Up to Restoring Compassion into one faithful step today.
 
 ---
 
@@ -186,7 +186,7 @@ The refining fire of covenant love is not there to destroy. It is there to make 
 
 **Journal prompt:** What shared pattern in my home, church, work, or ministry needs the refining mercy of God's promise?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Let Fire Refine the Promise That Holds into one faithful step today.
 
 ---
 
@@ -216,4 +216,4 @@ When trust is tested, come home first to the One who knows your name.
 
 **Journal prompt:** Where does trust feel tested, and what is the next faithful step that remains wise, clear, and surrendered to God?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Come Home to the Heart That Calls You into one faithful step today.

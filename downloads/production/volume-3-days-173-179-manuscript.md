@@ -32,7 +32,7 @@ The Spirit gives gifts for the body by setting leadership free from isolation.
 
 **Journal prompt:** Where do I need to stop carrying alone?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Embrace Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives gifts for the body by strengthening hearts to receive holy corr
 
 **Journal prompt:** Where do I want satisfaction without correction?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Remember the Breath of God into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit gives gifts for the body by renewing desire near the Comforter.
 
 **Journal prompt:** Where would more still fail to heal what my heart is seeking?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Walk in the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit gives gifts for the body by letting truthful fire lead to peace.
 
 **Journal prompt:** Where have I softened the name of rejection in my heart?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Let Peace Lead Holy Fire into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit gives gifts for the body by turning honest limitation into prayer.
 
 **Journal prompt:** What practical impossibility needs to be named before God?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Choose Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit gives gifts for the body by setting scarcity logic under God's suffic
 
 **Journal prompt:** Where have I reduced God's answer to the resources I can count?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Listen for the Anointing for Today into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit gives gifts for the body by strengthening trust in God's power.
 
 **Journal prompt:** Where have I quietly shortened God's ability in my imagination?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Stand in the Spirit's Fruit into one faithful step today.

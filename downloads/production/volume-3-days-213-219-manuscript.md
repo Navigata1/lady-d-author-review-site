@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 213 - August 1
 
-### Lean Into the Spirit's Fruit
+### Lean Into Sabbath Trust Through the Spirit's Fruit
 
 **Scripture Reference:** Judges 3:5
 
@@ -32,13 +32,13 @@ The Spirit gives oil for the waiting season by renewing the heart in mixed surro
 
 **Journal prompt:** What influence has been shaping my heart quietly?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Lean Into Sabbath Trust Through the Spirit's Fruit into one faithful step today.
 
 ---
 
 ## Day 214 - August 2
 
-### See Again Power to Witness
+### See Sabbath Trust in Again Power to Witness
 
 **Scripture Reference:** Judges 3:6
 
@@ -60,13 +60,13 @@ The Spirit gives oil for the waiting season by purifying divided allegiance.
 
 **Journal prompt:** Where has closeness become compromise?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry See Sabbath Trust in Again Power to Witness into one faithful step today.
 
 ---
 
 ## Day 215 - August 3
 
-### Let Love Teach the Seal of Belonging
+### Let Sabbath Trust Teach the Seal of Belonging
 
 **Scripture Reference:** Judges 3:7
 
@@ -88,7 +88,7 @@ The Spirit gives oil for the waiting season by consecrating memory into faithful
 
 **Journal prompt:** What mercy do I need to remember before my loyalty drifts?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Let Sabbath Trust Teach the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit gives oil for the waiting season by settling honest prayer under cons
 
 **Journal prompt:** Where do I need honest prayer instead of excuses?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Awaken Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit gives oil for the waiting season by moving mercy toward the honest cr
 
 **Journal prompt:** Where do I need to stop coping and start calling on God?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Embrace Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit gives oil for the waiting season by renewing the heart to receive res
 
 **Journal prompt:** How do I handle relief after God has helped me?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Remember Oil for the Journey into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit gives oil for the waiting season by warning the heart before old cycl
 
 **Journal prompt:** What old cycle is trying to re-form after relief?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Walk in Freedom in the Spirit into one faithful step today.

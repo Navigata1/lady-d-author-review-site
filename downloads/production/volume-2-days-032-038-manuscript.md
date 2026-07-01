@@ -32,7 +32,7 @@ Walking with Jesus means receiving His assignment with peace.
 
 **Journal prompt:** What burden have I been carrying that Jesus has not assigned to me today?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Behold Resurrection Hope in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means staying close to Him when obedience is misunderstood.
 
 **Journal prompt:** Where has fear of being misunderstood made me anxious in my walk with Jesus?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Follow the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means staying tender toward the light He gives.
 
 **Journal prompt:** Where is the Spirit inviting me to stay soft, honest, and responsive?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Rest in the Light on the Path in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means receiving Sabbath truth from the Lord of the Sabbath.
 
 **Journal prompt:** Where does Jesus want to join mercy and obedience more deeply in me?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Wake Up to the Invitation in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means receiving His word deeply enough to keep it.
 
 **Journal prompt:** What tends to snatch God's word from my attention before it can take root?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Let Fire Refine the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting His questions form peace in a teachable heart.
 
 **Journal prompt:** What lesson has Jesus been repeating because He loves me enough to form me?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Come Home to the Road with Jesus in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means practicing His nearness even in grief.
 
 **Journal prompt:** What grief, loss, or unfinished sorrow do I need to tell Jesus about honestly?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Practice the Nearness of Christ in one faithful step today.

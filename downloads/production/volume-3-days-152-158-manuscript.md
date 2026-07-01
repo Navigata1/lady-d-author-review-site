@@ -32,7 +32,7 @@ The Spirit gives gifts for the body by breathing holy purpose into what surrende
 
 **Journal prompt:** What gift have I dismissed as too small for God to use?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Rest in Holy Fire into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives gifts for the body by setting resources apart for renewal.
 
 **Journal prompt:** Where has fear made me treat a gift as too precious to release?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Wake Up to Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit gives gifts for the body through humble, faithful craft.
 
 **Journal prompt:** What faithful craft have I undervalued because it is quiet or unseen?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Let Fire Refine the Anointing for Today into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit gives gifts for the body by watering wisdom until service carries fru
 
 **Journal prompt:** Where is my gift functioning while my heart needs renewal?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Come Home to the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit gives gifts for the body by turning influence into humble witness.
 
 **Journal prompt:** Where does my influence need to become an offering instead of a shield?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Practice Power to Witness into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit gives gifts for the body by turning belonging into willing, shared of
 
 **Journal prompt:** Where have I been acting detached from the body God has called me to love?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Surrender to the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit gives gifts for the body by setting called people near mercy before s
 
 **Journal prompt:** Where do I need God to name me before I use the gift?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Let Mercy Speak Prayer Beyond Words into one faithful step today.

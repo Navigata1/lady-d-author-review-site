@@ -34,7 +34,7 @@ The Father can anchor you before fear finishes the sentence.
 
 **Journal prompt:** Where do I need the Father's patience to interrupt urgency before it wounds someone?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Anchor the Father's Patience into one faithful step today.
 
 ---
 
@@ -64,7 +64,7 @@ Love in relationships becomes braver when provision belongs to God.
 
 **Journal prompt:** Where has fear convinced me there is only one possible ending?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Discover Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -96,7 +96,7 @@ The Father can restore the room after the test has passed.
 
 **Journal prompt:** What part of the aftermath needs God's restoring compassion today?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Receive Restoring Compassion into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ On this Sabbath, let the promise hold you before you try to hold everything else
 
 **Journal prompt:** What promise needs room to breathe in me this Sabbath?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Trust the Promise That Holds into one faithful step today.
 
 ---
 
@@ -156,7 +156,7 @@ When hope rises, love stops asking only, "Will I be okay?" It begins asking, "Ho
 
 **Journal prompt:** Where is God inviting my healing to become a blessing beyond me?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Let Hope Rise the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -186,7 +186,7 @@ Love in relationships is proven not only in crisis, but in how we come back afte
 
 **Journal prompt:** What ordinary place needs me to return with a gentler heart?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Carry Love That Sends You into one faithful step today.
 
 ---
 
@@ -216,4 +216,4 @@ The God who met Abraham on the mountain is also faithful in the family news that
 
 **Journal prompt:** What quiet detail might God be asking me to notice as part of a longer promise?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Listen for the Father's Welcome into one faithful step today.

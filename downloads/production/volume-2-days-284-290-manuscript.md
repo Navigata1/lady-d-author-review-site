@@ -32,7 +32,7 @@ Walking with Jesus means letting His teaching touch the place where fear first r
 
 **Journal prompt:** Where has troubled news been discipling my reactions more than Jesus has?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Receive the Healing Touch in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting grace prepare what crisis cannot borrow.
 
 **Journal prompt:** What readiness have I been trying to borrow instead of cultivate with Jesus?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Trust the Call to Follow in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means stewarding what He entrusted as a living sign of hope.
 
 **Journal prompt:** What entrusted capacity have I minimized because it seemed small beside someone else's?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Let Hope Rise Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means refusing to let fear bury what grace entrusted.
 
 **Journal prompt:** What have I buried because fear sounded like wisdom?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Carry Resurrection Hope in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means bringing faithful fruit back to the Friend who led you.
 
 **Journal prompt:** Where has Jesus brought growth that I can return to Him with thanks?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Lean Into the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means learning joy through faithfulness in the little place.
 
 **Journal prompt:** What small place of faithfulness needs to become sacred again?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through See Again the Light on the Path in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting Sabbath worship return the road to the Master.
 
 **Journal prompt:** What work, responsibility, or result do I need to return to Jesus in Sabbath rest?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Let Love Teach the Invitation in one faithful step today.

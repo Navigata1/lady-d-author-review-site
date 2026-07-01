@@ -32,7 +32,7 @@ Walking with Jesus means letting hope rise when He leads forward.
 
 **Journal prompt:** Where am I tempted to treat a transition as abandonment?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Awaken the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means abiding in the light He has already given.
 
 **Journal prompt:** What revealed truth about Jesus do I need to abide in today?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Embrace the Light on the Path in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting compassion become cross-shaped instead of fear-
 
 **Journal prompt:** Where might I be resisting costly obedience while calling it care?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Remember the Invitation in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means trusting the Teacher when surrender feels like loss.
 
 **Journal prompt:** Where am I trying to save a false life Jesus is asking me to surrender?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Walk in the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting coming glory steady present obedience.
 
 **Journal prompt:** Where do I need a kingdom horizon for present faithfulness?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Let Peace Lead the Road with Jesus in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting hope become watchful.
 
 **Journal prompt:** What hidden influence has been spreading through my thoughts or reactions?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Choose the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means remaining near enough to hear Him beyond the fear of la
 
 **Journal prompt:** Where has scarcity anxiety caused me to misread what Jesus is saying?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Listen for the Way of Peace in one faithful step today.

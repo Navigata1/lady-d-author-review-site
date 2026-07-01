@@ -32,7 +32,7 @@ Walking with Jesus means trusting the Lord's timing more than the pressure to be
 
 **Journal prompt:** Where am I confusing faithful witness with the need to be noticed?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Come Home to the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -60,13 +60,13 @@ Walking with Jesus means letting God's revealed purpose give direction beneath o
 
 **Journal prompt:** What ordinary or understated place needs to be interpreted through God's revealed purpose?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Practice the Road with Jesus in one faithful step today.
 
 ---
 
 ## Day 351 - December 17
 
-### Surrender to the Nearness of Christ
+### Surrender to Finishing Hope Through the Nearness of Christ
 
 **Scripture Reference:** Matthew 12:18
 
@@ -88,13 +88,13 @@ Walking with Jesus means following the beloved Servant into Spirit-filled witnes
 
 **Journal prompt:** Where do I need to serve from beloved identity instead of proving myself?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Surrender to Finishing Hope Through the Nearness of Christ in one faithful step today.
 
 ---
 
 ## Day 352 - December 18
 
-### Let Mercy Speak the Way of Peace
+### Let Finishing Hope Speak the Way of Peace
 
 **Scripture Reference:** Matthew 12:19
 
@@ -116,13 +116,13 @@ Walking with Jesus means letting saving wholeness make your witness both strong 
 
 **Journal prompt:** Where do I mistake loudness for faithfulness?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Let Finishing Hope Speak the Way of Peace in one faithful step today.
 
 ---
 
 ## Day 353 - December 19
 
-### Breathe the Table of Grace
+### Breathe Finishing Hope in the Table of Grace
 
 **Scripture Reference:** Matthew 12:20
 
@@ -144,13 +144,13 @@ Walking with Jesus means resting at the table of grace where fragile places are 
 
 **Journal prompt:** What bruised place needs Christlike gentleness this Sabbath?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Breathe Finishing Hope in the Table of Grace in one faithful step today.
 
 ---
 
 ## Day 354 - December 20
 
-### Hold Fast to the Healing Touch
+### Hold Fast to Finishing Hope Through the Healing Touch
 
 **Scripture Reference:** Matthew 12:21
 
@@ -172,13 +172,13 @@ Walking with Jesus means bearing witness to a Lord whose name carries hope beyon
 
 **Journal prompt:** Who have I quietly excluded from the reach of hope in Jesus' name?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Hold Fast to Finishing Hope Through the Healing Touch in one faithful step today.
 
 ---
 
 ## Day 355 - December 21
 
-### Return to the Call to Follow
+### Return to Finishing Hope Through the Call to Follow
 
 **Scripture Reference:** Matthew 12:24
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting His light correct suspicious interpretations an
 
 **Journal prompt:** Where might fear be causing me to misname something God is doing?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Return to Finishing Hope Through the Call to Follow in one faithful step today.

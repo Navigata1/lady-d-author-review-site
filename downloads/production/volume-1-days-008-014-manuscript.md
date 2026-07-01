@@ -30,7 +30,7 @@ Today, receive courage as part of surrender. Surrender is not always lying down.
 
 **Journal prompt:** Where have I mistaken fear for humility when God is actually asking me to stand?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Stand in Restoring Compassion into one faithful step today.
 
 ---
 
@@ -56,7 +56,7 @@ Today, let grace form trust. Do not treat the promise of God as something fragil
 
 **Journal prompt:** What past mercy do I need to remember so I can trust God in the present?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Let Grace Form the Promise That Holds into one faithful step today.
 
 ---
 
@@ -82,7 +82,7 @@ This kind of surrender is not legalism. It is love becoming whole. The Father is
 
 **Journal prompt:** What part of my life is easiest to keep religiously separate from God?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Behold the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -108,7 +108,7 @@ Do not confuse being loved with being left unchanged. The Father loves too deepl
 
 **Journal prompt:** What act of obedience have I resisted because I misunderstood it as pressure instead of love?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Follow Love That Sends You into one faithful step today.
 
 ---
 
@@ -134,7 +134,7 @@ The Father is not only interested in what He can put in your hands. He is formin
 
 **Journal prompt:** What blessing have I minimized because it did not look like the answer I expected?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Rest in Covenant Mercy into one faithful step today.
 
 ---
 
@@ -160,7 +160,7 @@ If yesterday felt like a battle, begin again here: the Father still leads the re
 
 **Journal prompt:** Where do I need to live more like someone God is actively leading, not merely someone who survived?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Wake Up to the Father's Welcome into one faithful step today.
 
 ---
 
@@ -186,5 +186,4 @@ Let the Father's love refine your identity today. You are not less beloved when 
 
 **Journal prompt:** Where have I confused correction with rejection?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
-
+**Morning impact:** Let the Father's love carry Let Fire Refine Beloved Identity into one faithful step today.

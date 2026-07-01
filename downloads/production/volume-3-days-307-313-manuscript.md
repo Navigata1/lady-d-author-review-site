@@ -32,7 +32,7 @@ The Spirit forms freedom, fire, and holiness by setting provision apart for witn
 
 **Journal prompt:** How do I respond when God provides through ordinary hands?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Trust Power to Witness into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit forms freedom, fire, and holiness by strengthening belonging in charg
 
 **Journal prompt:** What atmosphere makes me forget who I am in God?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Let Hope Rise the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit forms freedom, fire, and holiness by cleansing readiness before actio
 
 **Journal prompt:** Where does opportunity make me move faster than surrender?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Carry Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit forms freedom, fire, and holiness by making God's nearness discernibl
 
 **Journal prompt:** Where do I want direction without delay?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Lean Into Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit forms freedom, fire, and holiness by breathing witness from a changed
 
 **Journal prompt:** Where do I want outward confirmation more than inward surrender?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry See Again Oil for the Journey into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit forms freedom, fire, and holiness by setting identity apart from old 
 
 **Journal prompt:** Where do I need others to understand my growth immediately?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Let Love Teach Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit forms freedom, fire, and holiness by strengthening the heart under un
 
 **Journal prompt:** What question from others still unsettles me?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Awaken the Breath of God into one faithful step today.

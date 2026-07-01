@@ -32,7 +32,7 @@ The Spirit gives oil for the journey by keeping the heart listening to Jesus.
 
 **Journal prompt:** What word from God have I resisted because it felt uncomfortable?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Discover Oil for the Journey into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit frees the heart by teaching it to hear and respond.
 
 **Journal prompt:** What has been louder than the Spirit's witness in my life lately?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Receive Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit steadies the heart by returning it to the Creator.
 
 **Journal prompt:** Where am I acting as if everything begins with me?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Trust the Breath of God into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit brings hope by turning the heart toward God's light.
 
 **Journal prompt:** Where do I need light for the next step instead of control over the whole path?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Hope Rise the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit forms discernment that honors God's light.
 
 **Journal prompt:** Where have I mistaken confusion for peace?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Carry Holy Fire into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit brings refreshment by settling the heart into God's ordered care.
 
 **Journal prompt:** Where do I need to receive God's order instead of living the whole future at once?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Lean Into Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit anoints holy space where the heart can breathe and obey.
 
 **Journal prompt:** Where do I need God to create space so I can breathe, listen, and obey?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry See Again the Anointing for Today into one faithful step today.

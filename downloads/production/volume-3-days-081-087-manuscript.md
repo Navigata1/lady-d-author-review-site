@@ -32,7 +32,7 @@ The Spirit steadies anxious hearts under the ordered generosity of God.
 
 **Journal prompt:** What large concern do I need to place under God's ordered care?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Listen for the Breath of God into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit helps the heart stand in God's placed light.
 
 **Journal prompt:** What provision has God placed near me that I have overlooked?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Stand in the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit forms holy discernment through grace and truth.
 
 **Journal prompt:** Where do I need grace to help me distinguish light from darkness?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Let Grace Form Holy Fire into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit brings renewal through God's faithful rhythm of mercy.
 
 **Journal prompt:** What repeated mercy have I been overlooking?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Behold Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit stirs obedient life where God calls movement forward.
 
 **Journal prompt:** What living step is God calling forward today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Follow the Anointing for Today into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit grows good fruit from received life with God.
 
 **Journal prompt:** Where am I trying to force fruit instead of receiving life with God?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Rest in the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit strengthens witness by returning the heart to God's rhythm.
 
 **Journal prompt:** Where does my witness need God's rhythm more than my urgency?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Wake Up to Power to Witness into one faithful step today.

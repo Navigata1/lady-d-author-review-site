@@ -32,7 +32,7 @@ The Spirit gives power to witness by renewing the heart through God's peace.
 
 **Journal prompt:** What fear needs to be met by God's peace before I move?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Return to Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives power to witness by purifying fear into worshipful remembrance.
 
 **Journal prompt:** Where does worry need to be renamed by worship?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Yield to the Anointing for Today into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit gives power to witness by consecrating obedience in the places neares
 
 **Journal prompt:** What misplaced trust needs to be surrendered or reordered?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Anchor the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit gives power to witness by settling surrendered ground into true worsh
 
 **Journal prompt:** What holy obedience needs to be built where fear once stood?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Discover Power to Witness into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit gives power to witness by breathing obedience into a heart that belon
 
 **Journal prompt:** Where has fear made me think trembling disqualifies obedience?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Receive the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit gives power to witness by renewing faithfulness when obedience is exp
 
 **Journal prompt:** Where am I trying to control reactions before I obey?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Trust Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit gives power to witness by purifying courage while questions rise.
 
 **Journal prompt:** Where do I need hope while questions are still unanswered?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Let Hope Rise Wind in the Waiting into one faithful step today.

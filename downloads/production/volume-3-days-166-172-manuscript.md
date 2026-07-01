@@ -32,7 +32,7 @@ The Spirit gives gifts for the body by making ordinary provision usable through 
 
 **Journal prompt:** Where have I rejected the ordinary shape of today's gift?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Trust the Anointing for Today into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives gifts for the body by letting hope rise through daily mercy.
 
 **Journal prompt:** Where has cynicism made morning mercy look small?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Let Hope Rise the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit gives gifts for the body by setting burdens apart for honest interces
 
 **Journal prompt:** What grief or burden have I been carrying without surrender?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Carry Power to Witness into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit gives gifts for the body by strengthening honest belonging under pres
 
 **Journal prompt:** Where has frustration tempted me to detach from the body?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Lean Into the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit gives gifts for the body by renewing caregivers who know they need Go
 
 **Journal prompt:** Where has care become too heavy for my private strength?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry See Again Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit gives gifts for the body by teaching love to listen when it cannot su
 
 **Journal prompt:** Where am I trying to supply what only God can give?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Let Love Teach Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit gives gifts for the body by turning honest limits into shared mercy.
 
 **Journal prompt:** Where do I need to admit that I cannot carry this alone?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Awaken Oil for the Journey into one faithful step today.

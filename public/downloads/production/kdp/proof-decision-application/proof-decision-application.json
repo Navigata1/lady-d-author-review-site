@@ -1,0 +1,103 @@
+{
+  "generated": "2026-07-01",
+  "commit": "6ab403d",
+  "author": "Susan \"Lady D\" Damon",
+  "status": "proof_decisions_applied_queue_clear_not_final_upload",
+  "prior_queue_totals": {
+    "decision_items": 192,
+    "title_decisions": 150,
+    "morning_impact_decisions": 30,
+    "theology_decisions": 12,
+    "likely_grace_aligned_watch_contexts": 372,
+    "source_words_checked": 372340,
+    "sunday_mentions": 0,
+    "placeholder_markers": 0
+  },
+  "current_queue_totals": {
+    "decision_items": 0,
+    "title_decisions": 0,
+    "morning_impact_decisions": 0,
+    "theology_decisions": 0,
+    "likely_grace_aligned_watch_contexts": 356,
+    "source_words_checked": 377171,
+    "sunday_mentions": 0,
+    "placeholder_markers": 0
+  },
+  "current_proof_audit_totals": {
+    "products": 6,
+    "words": 377171,
+    "placeholders": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 1300,
+    "saturday_mentions": 202,
+    "works_watch_contexts": 356,
+    "review_required_contexts": 0,
+    "duplicate_title_groups": 0,
+    "duplicate_morning_impact_groups": 0,
+    "missing_files": 0
+  },
+  "prior_volume_breakdown": {
+    "1": {
+      "title_decisions": 50,
+      "morning_impact_decisions": 10,
+      "theology_decisions": 6,
+      "total_decisions": 66
+    },
+    "2": {
+      "title_decisions": 50,
+      "morning_impact_decisions": 10,
+      "theology_decisions": 4,
+      "total_decisions": 64
+    },
+    "3": {
+      "title_decisions": 50,
+      "morning_impact_decisions": 10,
+      "theology_decisions": 2,
+      "total_decisions": 62
+    }
+  },
+  "current_volume_proof_counts": {
+    "1": {
+      "title_duplicate_groups": 0,
+      "morning_impact_duplicate_groups": 0,
+      "priority_theology_contexts": 0
+    },
+    "2": {
+      "title_duplicate_groups": 0,
+      "morning_impact_duplicate_groups": 0,
+      "priority_theology_contexts": 0
+    },
+    "3": {
+      "title_duplicate_groups": 0,
+      "morning_impact_duplicate_groups": 0,
+      "priority_theology_contexts": 0
+    }
+  },
+  "source_repetition_check": {
+    "1": {
+      "titles": 366,
+      "morning_impacts": 366,
+      "duplicate_title_groups": 0,
+      "duplicate_morning_impact_groups": 0
+    },
+    "2": {
+      "titles": 366,
+      "morning_impacts": 366,
+      "duplicate_title_groups": 0,
+      "duplicate_morning_impact_groups": 0
+    },
+    "3": {
+      "titles": 366,
+      "morning_impacts": 366,
+      "duplicate_title_groups": 0,
+      "duplicate_morning_impact_groups": 0
+    }
+  },
+  "remaining_release_gates": [
+    "Full author voice copyedit and devotional flow pass.",
+    "Final front matter, dedication, acknowledgments, bio, ISBN, and barcode.",
+    "Bible permissions decision if quotation text is added.",
+    "Locked page counts and regenerated final full-wrap covers.",
+    "KDP Previewer pass and physical proof review before public release."
+  ]
+}

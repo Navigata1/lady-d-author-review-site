@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 298 - October 25
 
-### Stand in Cross-Shaped Courage
+### Stand Holy Steadiness in in Cross-Shaped Courage
 
 **Scripture Reference:** Matthew 25:37
 
@@ -32,13 +32,13 @@ Walking with Jesus means letting compassion serve without asking to be seen.
 
 **Journal prompt:** Where can I serve without needing the act to be noticed?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Stand Holy Steadiness in in Cross-Shaped Courage in one faithful step today.
 
 ---
 
 ## Day 299 - October 26
 
-### Let Grace Form Resurrection Hope
+### Let Holy Steadiness Form Resurrection Hope
 
 **Scripture Reference:** Matthew 25:39
 
@@ -60,13 +60,13 @@ Walking with Jesus means letting the Teacher form eyes for mercy.
 
 **Journal prompt:** Who have I been passing without really seeing?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Let Holy Steadiness Form Resurrection Hope in one faithful step today.
 
 ---
 
 ## Day 300 - October 27
 
-### Behold the Friend Who Leads
+### Behold Holy Steadiness in the Friend Who Leads
 
 **Scripture Reference:** Matthew 25:43
 
@@ -88,13 +88,13 @@ Walking with Jesus means following Him toward the person avoidance would leave a
 
 **Journal prompt:** Where has avoidance been disguising itself as busyness or caution?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Behold Holy Steadiness in the Friend Who Leads in one faithful step today.
 
 ---
 
 ## Day 301 - October 28
 
-### Follow the Light on the Path
+### Follow Holy Steadiness in the Light on the Path
 
 **Scripture Reference:** Matthew 25:6
 
@@ -116,13 +116,13 @@ Walking with Jesus means rising toward the Bridegroom with hope awake.
 
 **Journal prompt:** Where has my faith grown sleepy, and what would readiness look like today?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Follow Holy Steadiness in the Light on the Path in one faithful step today.
 
 ---
 
 ## Day 302 - October 29
 
-### Rest in the Invitation
+### Rest Holy Steadiness in in the Invitation
 
 **Scripture Reference:** Revelation 1:10
 
@@ -144,13 +144,13 @@ Walking with Jesus means remaining available to His voice in the place you did n
 
 **Journal prompt:** Where do I need to remain available to Jesus instead of waiting for better conditions?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Rest Holy Steadiness in in the Invitation in one faithful step today.
 
 ---
 
 ## Day 303 - October 30
 
-### Wake Up to the Shepherd's Voice
+### Wake Up to Holy Steadiness Through the Shepherd's Voice
 
 **Scripture Reference:** Revelation 1:13
 
@@ -172,13 +172,13 @@ Walking with Jesus means serving under the Shepherd who stands in the midst.
 
 **Journal prompt:** How would my service change if I remembered Jesus stands in the midst?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Wake Up to Holy Steadiness Through the Shepherd's Voice in one faithful step today.
 
 ---
 
 ## Day 304 - October 31
 
-### Let Fire Refine the Road with Jesus
+### Let Holy Steadiness Refine the Road with Jesus
 
 **Scripture Reference:** Revelation 1:7
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting Sabbath hope refine the road until He is seen.
 
 **Journal prompt:** What needs to be refined in me as I remember that Jesus will be seen?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Let Holy Steadiness Refine the Road with Jesus in one faithful step today.

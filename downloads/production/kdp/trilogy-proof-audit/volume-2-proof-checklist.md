@@ -6,7 +6,7 @@ Generated: 2026-07-01
 
 | Product | Type | Words | Structure | Watch contexts |
 | --- | --- | ---: | --- | ---: |
-| Walking with Jesus | Devotional | 96,185 | pass | 50 |
+| Walking with Jesus | Devotional | 97,693 | pass | 43 |
 | Walking with Jesus Companion Journal | Companion Journal | 17,134 | review | 13 |
 
 ## Checklist
@@ -24,6 +24,6 @@ Generated: 2026-07-01
 
 ## Current Repetition/Watch Counts
 
-- Duplicate title groups: 50
-- Duplicate morning-impact groups: 10
-- Works-righteousness watch contexts: 63
+- Duplicate title groups: 0
+- Duplicate morning-impact groups: 0
+- Works-righteousness watch contexts: 56

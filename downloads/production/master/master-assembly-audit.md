@@ -12,9 +12,9 @@ Result: Pass
 - Day entries: 365
 - Bonus entries: 1
 - Scripture references: 366
-- Sabbath mentions: 274
+- Sabbath mentions: 280
 - Sunday mentions: 0
-- Word count: 131305
+- Word count: 133112
 - Output: `downloads/production/master/volume-1-master-interior-manuscript.md`
 
 ### Volume 2 - Walking with Jesus
@@ -23,9 +23,9 @@ Result: Pass
 - Day entries: 365
 - Bonus entries: 1
 - Scripture references: 366
-- Sabbath mentions: 294
+- Sabbath mentions: 300
 - Sunday mentions: 0
-- Word count: 98804
+- Word count: 100277
 - Output: `downloads/production/master/volume-2-master-interior-manuscript.md`
 
 ### Volume 3 - Filled with the Holy Spirit
@@ -34,9 +34,9 @@ Result: Pass
 - Day entries: 365
 - Bonus entries: 1
 - Scripture references: 366
-- Sabbath mentions: 188
+- Sabbath mentions: 194
 - Sunday mentions: 0
-- Word count: 95247
+- Word count: 96747
 - Output: `downloads/production/master/volume-3-master-interior-manuscript.md`
 
 ## Companion Journal Counts
@@ -47,7 +47,7 @@ Result: Pass
 - Reflection sections: 366
 - Sabbath mentions: 177
 - Sunday mentions: 0
-- Word count: 21060
+- Word count: 21065
 - Output: `downloads/production/master/volume-1-master-companion-journal.md`
 
 ### Volume 2 - Walking with Jesus

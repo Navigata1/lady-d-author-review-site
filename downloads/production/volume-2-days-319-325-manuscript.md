@@ -32,7 +32,7 @@ Walking with Jesus means letting the song of redemption become stronger than the
 
 **Journal prompt:** What old sentence needs to be answered by the Lamb's redeeming love?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Listen for the Healing Touch in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means following the Sender with enough trust to travel lighte
 
 **Journal prompt:** What am I carrying because I am afraid Jesus will not provide?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Stand in the Call to Follow in one faithful step today.
 
 ---
 
@@ -88,13 +88,13 @@ Walking with Jesus means releasing what refused grace while staying faithful to 
 
 **Journal prompt:** Where do I need to release rejection without releasing my calling?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Let Grace Form Cross-Shaped Courage in one faithful step today.
 
 ---
 
 ## Day 322 - November 18
 
-### Behold Resurrection Hope
+### Behold Grateful Remembrance in Resurrection Hope
 
 **Scripture Reference:** Matthew 10:15
 
@@ -116,13 +116,13 @@ Walking with Jesus means remaining near enough to trust His justice and keep you
 
 **Journal prompt:** What unresolved wrong do I need to entrust to Jesus instead of rehearsing revenge?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Behold Grateful Remembrance in Resurrection Hope in one faithful step today.
 
 ---
 
 ## Day 323 - November 19
 
-### Follow the Friend Who Leads
+### Follow Grateful Remembrance in the Friend Who Leads
 
 **Scripture Reference:** Matthew 10:16
 
@@ -144,13 +144,13 @@ Walking with Jesus means letting the compassionate Friend train both your courag
 
 **Journal prompt:** Where do I need both wisdom and innocence today?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Follow Grateful Remembrance in the Friend Who Leads in one faithful step today.
 
 ---
 
 ## Day 324 - November 20
 
-### Rest in the Light on the Path
+### Rest Grateful Remembrance in in the Light on the Path
 
 **Scripture Reference:** Matthew 10:17
 
@@ -172,13 +172,13 @@ Walking with Jesus means letting the Teacher's warning become steadiness, not fe
 
 **Journal prompt:** What pressure-filled room do I need to enter with preparation instead of panic?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Rest Grateful Remembrance in in the Light on the Path in one faithful step today.
 
 ---
 
 ## Day 325 - November 21
 
-### Wake Up to the Invitation
+### Wake Up to Grateful Remembrance Through the Invitation
 
 **Scripture Reference:** Matthew 10:18
 
@@ -200,4 +200,4 @@ Walking with Jesus means resting in Him so your witness flows from belonging, no
 
 **Journal prompt:** Where might Jesus be turning pressure into witness, and how can Sabbath rest keep my heart humble?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Wake Up to Grateful Remembrance Through the Invitation in one faithful step today.

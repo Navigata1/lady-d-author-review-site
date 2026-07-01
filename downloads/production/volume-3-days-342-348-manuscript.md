@@ -32,7 +32,7 @@ The Spirit forms a sealed and filled life by giving power that stays wise, innoc
 
 **Journal prompt:** Where do I need wisdom without suspicion and gentleness without naivety?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Stand in Power to Witness into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit forms a sealed and filled life by anchoring belonging when opposition
 
 **Journal prompt:** Where has accusation started speaking louder than adoption?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Grace Form the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit forms a sealed and filled life by making private prayer visible as st
 
 **Journal prompt:** What does my life say when I am under pressure?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Behold Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit forms a sealed and filled life by quieting anxious rehearsal and fill
 
 **Journal prompt:** Where am I scripting conversations God has not given me?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Follow Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit forms a sealed and filled life by sustaining obedience when family pa
 
 **Journal prompt:** Where has family pain exhausted my spirit?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Rest in Oil for the Journey into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit forms a sealed and filled life by giving power to remain faithful wit
 
 **Journal prompt:** Where is fear of being disliked discipling my decisions?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Wake Up to Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit forms a sealed and filled life by making faithful movement possible w
 
 **Journal prompt:** Where have I called movement failure when Jesus may be calling it obedience?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Fire Refine the Breath of God into one faithful step today.

@@ -32,7 +32,7 @@ Walk out of this page with courage, tenderness, and clarity. Covenant mercy can 
 
 **Journal prompt:** What timeline do I need to surrender to the Father while still obeying today's light?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Embrace Covenant Mercy into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Receive the truth deeply enough that it changes your next decision. You are not 
 
 **Journal prompt:** Where do I need to receive the Father's light instead of trying to manufacture my own?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Rest in Beloved Identity into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Carry this like bread for the road, not decoration for the shelf. The Father kno
 
 **Journal prompt:** Where has comparison made me despise the light God actually assigned to me?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Wake Up to Love That Finds You into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Let this word give your morning a spine and your heart a place to rest. The Fath
 
 **Journal prompt:** Where am I trying to be seen instead of trusting the Father to place me?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Let Fire Refine Grace Before Striving into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The day does not get to name you before God does. Let mercy govern what fear has
 
 **Journal prompt:** What mixture do I need the Father to lovingly separate so mercy can rule clearly?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Come Home to Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walk out of this page with courage, tenderness, and clarity. Evening and morning
 
 **Journal prompt:** What do I need to close or entrust so this day can keep a faithful rhythm?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Practice the Father's Patience into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Receive the truth deeply enough that it changes your next decision. On this Satu
 
 **Journal prompt:** Where has fear been making me freeze or rush instead of moving from the Father's love?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Surrender to Love Stronger Than Fear into one faithful step today.

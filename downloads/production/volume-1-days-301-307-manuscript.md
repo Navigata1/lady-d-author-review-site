@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 301 - October 28
 
-### Follow Love That Sends You
+### Follow Holy Steadiness in Love That Sends You
 
 **Scripture Reference:** Genesis 45:16
 
@@ -34,13 +34,13 @@ God can make room for a story you thought had to stay hidden.
 
 **Journal prompt:** What part of my story needs God's comfort more than my hiding?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Follow Holy Steadiness in Love That Sends You into one faithful step today.
 
 ---
 
 ## Day 302 - October 29
 
-### Rest in Covenant Mercy
+### Rest Holy Steadiness in in Covenant Mercy
 
 **Scripture Reference:** Genesis 45:17
 
@@ -64,13 +64,13 @@ Mercy may arrive as the strength to move toward what God is sending.
 
 **Journal prompt:** What practical step of care is God asking me to receive or take?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Rest Holy Steadiness in in Covenant Mercy into one faithful step today.
 
 ---
 
 ## Day 303 - October 30
 
-### Wake Up to the Father's Welcome
+### Wake Up to Holy Steadiness Through the Father's Welcome
 
 **Scripture Reference:** Genesis 45:20
 
@@ -94,13 +94,13 @@ Peace begins to rise when promise becomes safer than possession.
 
 **Journal prompt:** What am I holding for security that God is asking me to hold with open hands?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Wake Up to Holy Steadiness Through the Father's Welcome into one faithful step today.
 
 ---
 
 ## Day 304 - October 31
 
-### Let Fire Refine Beloved Identity
+### Let Holy Steadiness Refine Beloved Identity
 
 **Scripture Reference:** Genesis 45:21
 
@@ -124,13 +124,13 @@ On this Sabbath, beloved identity can rest enough to receive care for the way.
 
 **Journal prompt:** Where do I need Sabbath rest to help me receive care instead of performing self-sufficiency?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Let Holy Steadiness Refine Beloved Identity into one faithful step today.
 
 ---
 
 ## Day 305 - November 1
 
-### Discover Grace Before Performance
+### Discover Grateful Remembrance in Grace Before Striving
 
 **Scripture Reference:** Genesis 45:22
 
@@ -154,7 +154,7 @@ Grace is not fragile because another person is also blessed.
 
 **Journal prompt:** Where is comparison making it hard for me to receive the grace God is giving?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Discover Grateful Remembrance in Grace Before Striving into one faithful step today.
 
 ---
 
@@ -184,7 +184,7 @@ Do not let old accusation steal the road mercy has opened.
 
 **Journal prompt:** What old quarrel or accusation do I need to refuse on the road ahead?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Receive Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -214,4 +214,4 @@ Hope can rise slowly and still be real.
 
 **Journal prompt:** What desire is God gently reviving after grief or delay made it feel unsafe?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Trust the Father's Patience into one faithful step today.

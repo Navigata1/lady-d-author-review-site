@@ -32,7 +32,7 @@ The Father does not welcome you because you can see every generation the promise
 
 **Journal prompt:** Where do I need to receive God's covenant welcome before trying to manage the future?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Surrender to the Father's Welcome into one faithful step today.
 
 ---
 
@@ -62,7 +62,7 @@ Let that mercy speak louder than the unsettled place today.
 
 **Journal prompt:** What unsettled place has been trying to define me, and what has God revealed that speaks a truer identity?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Let Mercy Speak Beloved Identity into one faithful step today.
 
 ---
 
@@ -76,7 +76,7 @@ Let that mercy speak louder than the unsettled place today.
 
 Love that finds you also teaches you how to respond. Genesis 17:9 turns from God's "I will" to Abraham's covenant keeping. The order matters. God has spoken His promise, named His faithfulness, and claimed relationship. Then Abraham is called to keep the covenant, he and his descendants after him.
 
-This protects obedience from becoming performance. In hard seasons, the heart can make obedience frantic. We try to prove we are serious, prove we are worthy, prove we have learned enough, prove we will not fail again. But covenant response begins after God has already revealed His faithful initiative.
+This protects obedience from becoming self-measuring striving. In hard seasons, the heart can make obedience frantic. We try to prove we are serious, prove we are worthy, prove we have learned enough, prove we will not fail again. But covenant response begins after God has already revealed His faithful initiative.
 
 Breathe love that finds you by receiving obedience as relationship, not as bargaining. The Father is not asking Abraham to create the covenant out of human strength. He is calling him to live inside what God has already spoken.
 
@@ -92,13 +92,13 @@ The Father's covenant love is not fragile. You do not obey to make Him love you.
 
 **Journal prompt:** What act of obedience would feel like covenant response instead of performance today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Breathe Love That Finds You into one faithful step today.
 
 ---
 
 ## Day 213 - August 1
 
-### Lean Into Mercy in the Morning
+### Lean Into Sabbath Trust Through Mercy in the Morning
 
 **Scripture Reference:** Genesis 17:10
 
@@ -122,13 +122,13 @@ On this Sabbath morning, rest in the God who marks His people by mercy, then let
 
 **Journal prompt:** What quiet sign of God's mercy should become more visible in my relationships?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Lean Into Sabbath Trust Through Mercy in the Morning into one faithful step today.
 
 ---
 
 ## Day 214 - August 2
 
-### See Again the Father's Patience
+### See Sabbath Trust in Again the Father's Patience
 
 **Scripture Reference:** Genesis 17:11
 
@@ -152,13 +152,13 @@ Today, receive the reminder as mercy.
 
 **Journal prompt:** What covenant reminder helps me remember whose I am when pressure rises?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry See Sabbath Trust in Again the Father's Patience into one faithful step today.
 
 ---
 
 ## Day 215 - August 3
 
-### Let Love Teach Love Stronger Than Fear
+### Let Sabbath Trust Teach Love Stronger Than Fear
 
 **Scripture Reference:** Genesis 17:12
 
@@ -182,7 +182,7 @@ The covenant God is patient with generations. Let His love teach you to be faith
 
 **Journal prompt:** What pattern am I helping carry forward, and what small act of faithfulness can strengthen it today?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Let Sabbath Trust Teach Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -212,4 +212,4 @@ The everlasting covenant is not an abstract sentence for religious language. It 
 
 **Journal prompt:** Who near me needs to be seen with restoring compassion instead of treated as background?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Awaken Restoring Compassion into one faithful step today.

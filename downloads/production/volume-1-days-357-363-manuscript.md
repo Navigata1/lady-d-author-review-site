@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 357 - December 23
 
-### Anchor the Promise That Holds
+### Anchor Finishing Hope in the Promise That Holds
 
 **Scripture Reference:** Exodus 15:27
 
@@ -34,13 +34,13 @@ The Father's promise holds the heart by providing what the heart could not manuf
 
 **Journal prompt:** What quiet provision have I rushed past without letting it strengthen my heart?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Anchor Finishing Hope in the Promise That Holds into one faithful step today.
 
 ---
 
 ## Day 358 - December 24
 
-### Discover the Heart That Calls You
+### Discover Finishing Hope in the Heart That Calls You
 
 **Scripture Reference:** Exodus 19:1
 
@@ -64,13 +64,13 @@ The Redeemer who brought you out is faithful to call you near.
 
 **Journal prompt:** Where have I mistaken an in-between place for abandonment?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Discover Finishing Hope in the Heart That Calls You into one faithful step today.
 
 ---
 
 ## Day 359 - December 25
 
-### Receive Love That Sends You
+### Receive Finishing Hope in Love That Sends You
 
 **Scripture Reference:** Exodus 19:2
 
@@ -94,13 +94,13 @@ The Father's faithful love can position you for encounter before it sends you in
 
 **Journal prompt:** What holy pause might God be using to prepare my heart for encounter?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Receive Finishing Hope in Love That Sends You into one faithful step today.
 
 ---
 
 ## Day 360 - December 26
 
-### Trust Covenant Mercy
+### Trust Finishing Hope in Covenant Mercy
 
 **Scripture Reference:** Exodus 19:4
 
@@ -124,13 +124,13 @@ Daily surrender on Sabbath is covenant trust before covenant action.
 
 **Journal prompt:** Where have I turned obedience into a test of whether I am worth carrying?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Trust Finishing Hope in Covenant Mercy into one faithful step today.
 
 ---
 
 ## Day 361 - December 27
 
-### Let Hope Rise the Father's Welcome
+### Let Finishing Hope Lift the Father's Welcome
 
 **Scripture Reference:** Exodus 19:5
 
@@ -154,13 +154,13 @@ The treasured heart can obey with hope because welcome came first.
 
 **Journal prompt:** Where do I need to hear God's call as welcome instead of rejection waiting to happen?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Let Finishing Hope Lift the Father's Welcome into one faithful step today.
 
 ---
 
 ## Day 362 - December 28
 
-### Carry Beloved Identity
+### Carry Finishing Hope in Beloved Identity
 
 **Scripture Reference:** Exodus 19:6
 
@@ -184,13 +184,13 @@ The Father names His people so their obedience can carry His presence, not their
 
 **Journal prompt:** Where has service become heavy because I forgot beloved identity?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Carry Finishing Hope in Beloved Identity into one faithful step today.
 
 ---
 
 ## Day 363 - December 29
 
-### Lean Into Love That Finds You
+### Lean Into Finishing Hope Through Love That Finds You
 
 **Scripture Reference:** Exodus 19:8
 
@@ -214,4 +214,4 @@ The Redeemer who finds the heart also teaches the heart how to answer.
 
 **Journal prompt:** Where is God inviting a renewed yes from me, and what fear has been guarding that place?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Lean Into Finishing Hope Through Love That Finds You into one faithful step today.

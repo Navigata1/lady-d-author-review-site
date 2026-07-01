@@ -34,7 +34,7 @@ The report is not bigger than the God who sent you.
 
 **Journal prompt:** What difficult report needs to be held under what God has already revealed?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Lean Into Love That Sends You into one faithful step today.
 
 ---
 
@@ -64,7 +64,7 @@ The heart can prepare without letting fear become its shepherd.
 
 **Journal prompt:** Where am I dividing my life into camps because fear expects loss?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry See Again Covenant Mercy into one faithful step today.
 
 ---
 
@@ -94,7 +94,7 @@ You are welcome before your strategy is fully healed.
 
 **Journal prompt:** What defensive plan needs the Father's welcome and formation?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Love Teach the Father's Welcome into one faithful step today.
 
 ---
 
@@ -124,7 +124,7 @@ On this Sabbath, let gratitude awaken who you are in the Father's care.
 
 **Journal prompt:** Where do I need to receive God's increase as mercy instead of measuring it as achievement?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Awaken Beloved Identity into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Love finds the place you are finally willing to name.
 
 **Journal prompt:** What specific fear needs to be named directly before God?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Embrace Love That Finds You into one faithful step today.
 
 ---
 
@@ -184,7 +184,7 @@ Let the promise speak before performance starts again.
 
 **Journal prompt:** What task needs to begin from God's promise instead of pressure?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Remember Grace Before Striving into one faithful step today.
 
 ---
 
@@ -214,4 +214,4 @@ Let prayer prepare the mercy your hands will carry.
 
 **Journal prompt:** What concrete gesture of mercy needs to be prepared after prayer?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Walk in Mercy in the Morning into one faithful step today.

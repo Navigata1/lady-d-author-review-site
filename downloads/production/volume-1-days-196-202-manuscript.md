@@ -34,7 +34,7 @@ Drive away what is feeding on your surrender. Let the Father's love strengthen t
 
 **Journal prompt:** What has been circling the place of obedience God asked me to prepare?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Remember Love That Sends You into one faithful step today.
 
 ---
 
@@ -64,7 +64,7 @@ The love of God is not fragile. It can hold the trembling heart. It can remain c
 
 **Journal prompt:** Where have I mistaken fear for evidence that God has left me?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Walk in Covenant Mercy into one faithful step today.
 
 ---
 
@@ -94,7 +94,7 @@ You can be at peace because God knows the whole road. Not because the road is pa
 
 **Journal prompt:** What truth have I been avoiding because I thought peace required denial?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Peace Lead the Father's Welcome into one faithful step today.
 
 ---
 
@@ -124,7 +124,7 @@ Rest in that beloved identity today. Sabbath is a witness that the story belongs
 
 **Journal prompt:** Where do I need to remember that God sees what has pressed on me and still calls me beloved?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Choose Beloved Identity into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Father's love can find you in the long middle. Listen there. He may not expl
 
 **Journal prompt:** Where is God asking me to trust His faithful timing instead of demanding a faster timeline?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Listen for Love That Finds You into one faithful step today.
 
 ---
 
@@ -184,7 +184,7 @@ Let your heart stand where grace has placed it. God is not asking you to be the 
 
 **Journal prompt:** What am I trying to secure by performance that God is asking me to receive by grace?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Stand in Grace Before Striving into one faithful step today.
 
 ---
 
@@ -214,4 +214,4 @@ Let mercy be formed in you today by covenant assurance. Walk softly, but walk st
 
 **Journal prompt:** How would I move through today if I received God's covenant faithfulness before reacting to pressure?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Let Grace Form Mercy in the Morning into one faithful step today.

@@ -32,7 +32,7 @@ The Spirit can turn a practical offering into rain for a thirsty place.
 
 **Journal prompt:** What useful offering have I been delaying that could bring life to a dry place?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Come Home to Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit anoints not only action, but also the holy no that keeps the heart fr
 
 **Journal prompt:** What fire am I tempted to kindle that God is asking me to leave unlit?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Practice the Anointing for Today into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit makes gifted people gentle enough to bless.
 
 **Journal prompt:** Where does my giftedness need more love, humility, or patience?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Surrender to the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit gives oil for light so witness can become mercy people can actually s
 
 **Journal prompt:** Where can I bring light instead of heat today?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Mercy Speak Power to Witness into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit marks belonging by forming fruit that carries the character of God.
 
 **Journal prompt:** What kind of fruit is my life quietly multiplying right now?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Breathe the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit sustains faith until God's ordered life becomes visible.
 
 **Journal prompt:** Where am I tempted to quit because the fruit is not visible yet?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Hold Fast to Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit moves over waiting places before the morning knows what it will becom
 
 **Journal prompt:** What unformed place needs to be surrendered instead of forced today?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Return to Wind in the Waiting into one faithful step today.

@@ -32,7 +32,7 @@ Beloved identity does not mean every pressure disappears. It means you stand bef
 
 **Journal prompt:** Where do I need the Father's patience to replace fear-driven urgency?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Let Love Teach the Father's Patience into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Today, listen for the call inside reverence. Let the Father's holiness steady yo
 
 **Journal prompt:** Where is fear making God's call feel unsafe, and what would reverent trust look like there?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Awaken Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Embrace restoring compassion by allowing God to name you more deeply than your h
 
 **Journal prompt:** What part of my story needs the Father's restoring compassion instead of my silence?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Embrace Restoring Compassion into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Remember the promise that holds by placing God's word before the loudest word in
 
 **Journal prompt:** What word from God needs to stand before the loudest voice in my life right now?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Remember the Promise That Holds into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walk in the heart that calls you today. Let God form a generational witness thro
 
 **Journal prompt:** What would faithful honor look like in my family story without denying truth or safety?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Walk in the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -158,7 +158,7 @@ Walk in the heart that calls you today. Let God form a generational witness thro
 
 Love that sends you begins again at worship. Exodus 20:24 speaks of an altar, offerings, the Lord's name, His coming near, and His blessing. The details belong to Israel's sanctuary-shaped worship life, but the devotional heart can still hear the invitation: do not build life apart from God's presence.
 
-Peace leads when worship is simple and surrendered. The altar of earth reminds us that God is not impressed by spiritual performance. He meets His people by His own mercy, in the place where His name is honored. Blessing flows from His presence, not from our ability to decorate devotion.
+Peace leads when worship is simple and surrendered. The altar of earth reminds us that God is not impressed by spiritual self-display. He meets His people by His own mercy, in the place where His name is honored. Blessing flows from His presence, not from our ability to decorate devotion.
 
 This matters when you are trying to serve, lead, give, write, work, parent, minister, or carry responsibility. Love may send you into many places, but it should not send you away from worship. If peace is going to lead, the heart must return to the presence of God.
 
@@ -172,7 +172,7 @@ Let peace lead love that sends you today. Do not rush from task to task without 
 
 **Journal prompt:** Where do I need to return to worship before trying to carry responsibility?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Let Peace Lead Love That Sends You into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Father is not inviting you into despair. He is inviting you into clean alleg
 
 **Journal prompt:** What rival allegiance needs to lose authority in my heart today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Choose Covenant Mercy into one faithful step today.

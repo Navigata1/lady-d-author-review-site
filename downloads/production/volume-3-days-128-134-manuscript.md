@@ -32,7 +32,7 @@ The Spirit grows fruit by keeping surrendered hearts near the God who sanctifies
 
 **Journal prompt:** Where am I trying to prove what only God can sanctify?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Behold the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives reverent strength to honor what God calls holy.
 
 **Journal prompt:** Where has my obedience become casual around something God calls holy?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Follow Holy Fire into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit renews dry places by freeing the heart from productivity as identity.
 
 **Journal prompt:** Where has productivity been naming me before God does?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Rest in Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit anoints surrendered fruit through faithful rhythm over time.
 
 **Journal prompt:** What faithful rhythm needs my next surrendered yes?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Wake Up to the Anointing for Today into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit refines fruit into witness by teaching the heart surrendered limits.
 
 **Journal prompt:** Where has exhaustion become part of my witness?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Let Fire Refine the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit empowers witness by setting apart the word carried in the life.
 
 **Journal prompt:** Where do my words need to carry God's truth instead of my reaction?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Come Home to Power to Witness into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit strengthens belonging through gathered, surrendered listening.
 
 **Journal prompt:** Where have I withdrawn from gathered listening under God's word?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Practice the Seal of Belonging into one faithful step today.

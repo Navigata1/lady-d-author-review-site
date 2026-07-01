@@ -32,7 +32,7 @@ Walking with Jesus means receiving grace before the next hard road.
 
 **Journal prompt:** Where do I need to recognize preparation as mercy?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Stand in the Table of Grace in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting grace turn delayed understanding into faithful 
 
 **Journal prompt:** What do I understand now that I could not understand then?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Let Grace Form the Healing Touch in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means following Him from glory into mercy.
 
 **Journal prompt:** What need do I need to bring to Jesus without pretense?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Behold the Call to Follow in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means following Him with honest weakness instead of hidden fa
 
 **Journal prompt:** Where do I need to bring inability back to Jesus?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Hold Fast to Resurrection Hope in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means returning to His saving presence with the whole need.
 
 **Journal prompt:** Where do I need both correction and mercy from Jesus?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Return to the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means trusting His authority to bring wholeness where chaos h
 
 **Journal prompt:** What truth about Jesus must get the first word over my worry?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Yield to the Light on the Path in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means anchoring faith in His Lordship before facing the mount
 
 **Journal prompt:** What mountain needs one small act of obedience under Christ's Lordship?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Anchor the Invitation in one faithful step today.

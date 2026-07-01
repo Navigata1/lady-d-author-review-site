@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 356 - December 22
 
-### Yield to Prayer Beyond Words
+### Yield to Finishing Hope Through Prayer Beyond Words
 
 **Scripture Reference:** Matthew 10:31
 
@@ -32,13 +32,13 @@ The Spirit forms a sealed and filled life by quieting fear with the Father's att
 
 **Journal prompt:** Where has fear made me forget my value to the Father?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Yield to Finishing Hope Through Prayer Beyond Words into one faithful step today.
 
 ---
 
 ## Day 357 - December 23
 
-### Anchor Wind in the Waiting
+### Anchor Finishing Hope in Wind in the Waiting
 
 **Scripture Reference:** Matthew 10:32
 
@@ -60,13 +60,13 @@ The Spirit forms a sealed and filled life by giving power to acknowledge Jesus w
 
 **Journal prompt:** Where has silence become self-protection instead of wisdom?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Anchor Finishing Hope in Wind in the Waiting into one faithful step today.
 
 ---
 
 ## Day 358 - December 24
 
-### Discover Oil for the Journey
+### Discover Finishing Hope in Oil for the Journey
 
 **Scripture Reference:** Matthew 10:33
 
@@ -88,13 +88,13 @@ The Spirit forms a sealed and filled life by giving oil for honest allegiance to
 
 **Journal prompt:** Where has convenience tempted me to hide my allegiance to Jesus?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Discover Finishing Hope in Oil for the Journey into one faithful step today.
 
 ---
 
 ## Day 359 - December 25
 
-### Receive Freedom in the Spirit
+### Receive Finishing Hope in Freedom in the Spirit
 
 **Scripture Reference:** Matthew 10:34
 
@@ -116,13 +116,13 @@ The Spirit forms a sealed and filled life by growing fruit that tells the truth 
 
 **Journal prompt:** Where have I called avoidance peace?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Receive Finishing Hope in Freedom in the Spirit into one faithful step today.
 
 ---
 
 ## Day 360 - December 26
 
-### Trust the Breath of God
+### Trust Finishing Hope in the Breath of God
 
 **Scripture Reference:** Matthew 10:35
 
@@ -144,13 +144,13 @@ The Spirit forms a sealed and filled life by filling family tension with tender,
 
 **Journal prompt:** Where have family expectations made obedience feel suffocating?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Trust Finishing Hope in the Breath of God into one faithful step today.
 
 ---
 
 ## Day 361 - December 27
 
-### Let Hope Rise the Comforter's Nearness
+### Let Finishing Hope Lift the Comforter's Nearness
 
 **Scripture Reference:** Matthew 10:36
 
@@ -172,13 +172,13 @@ The Spirit forms a sealed and filled life by making hope visible inside close re
 
 **Journal prompt:** Where has close relational pressure made me feel alone?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Let Finishing Hope Lift the Comforter's Nearness into one faithful step today.
 
 ---
 
 ## Day 362 - December 28
 
-### Carry Holy Fire
+### Carry Finishing Hope in Holy Fire
 
 **Scripture Reference:** Matthew 10:37
 
@@ -200,4 +200,4 @@ The Spirit forms a sealed and filled life by giving power to love people under t
 
 **Journal prompt:** Where has a good love started demanding first place over Jesus?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Carry Finishing Hope in Holy Fire into one faithful step today.

@@ -324,7 +324,7 @@ Father, teach me to rest secure, move forward in mercy, welcome others from belo
 
 **Focus:** Obedience as return.
 
-**Write:** What spiritual practice has become performance?
+**Write:** What spiritual practice has become self-measuring striving instead of grateful return?
 
 **Practice:** Begin that practice with a simple prayer of return.
 
@@ -1895,7 +1895,7 @@ Father, speak to my heart where fear still listens, settle mercy into ordinary r
 
 **Focus:** Grace before performance.
 
-**Write:** Where do I resist receiving because I feel I must earn the right to need provision?
+**Write:** Where do I resist receiving because I feel I am unworthy of needing provision?
 
 **Practice:** Receive one form of provision without rushing to earn it back: food, rest, help, quiet, or encouragement.
 
@@ -2059,7 +2059,7 @@ Father, speak to my heart where fear still listens, settle mercy into ordinary r
 
 1. Where did the Father's heart restore my identity, responsibility, or courage this month?
 2. What kind of fear did I learn to name more honestly?
-3. Where did Sabbath rest protect obedience from performance?
+3. Where did Sabbath rest protect obedience from self-measuring striving?
 4. How did compassion become wiser and more protective?
 5. What truth do I need to carry into July with courage, tenderness, and clarity?
 
@@ -2684,7 +2684,7 @@ Practice: Start today by naming one place where God may already be preparing mer
 
 ### Day 247 Reflection
 
-Where has fear made me measure worth by visibility or performance?
+Where has fear made me measure worth by visibility or outward achievement?
 
 Practice: Honor one overlooked person today with attention, patience, or a practical act of dignity.
 

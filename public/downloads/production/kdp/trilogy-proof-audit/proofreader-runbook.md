@@ -32,6 +32,6 @@ Generated: 2026-07-01
 - Products checked: 6
 - Placeholder markers: 0
 - Sunday mentions: 0
-- Duplicate devotional title groups: 150
-- Duplicate morning-impact groups: 30
-- Works-righteousness watch contexts: 384
+- Duplicate devotional title groups: 0
+- Duplicate morning-impact groups: 0
+- Works-righteousness watch contexts: 356

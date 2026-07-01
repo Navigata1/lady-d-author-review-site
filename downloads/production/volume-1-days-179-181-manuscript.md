@@ -34,7 +34,7 @@ Let this word give your morning a spine and your heart a place to rest. Mercy is
 
 **Journal prompt:** Where is fear tempting me to protect myself in a way that places pressure or risk on someone else?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Stand in Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -64,7 +64,7 @@ The day does not get to name you before God does. Let grace slow your seeing unt
 
 **Journal prompt:** Where do I need the Father's patient sight so I can notice vulnerability instead of rushing past it?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Let Grace Form the Father's Patience into one faithful step today.
 
 ---
 
@@ -94,4 +94,4 @@ Walk out of this page with courage, tenderness, and clarity. Love stronger than 
 
 **Journal prompt:** What painful truth do I need to hold honestly before the Father instead of rushing past it?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Behold Love Stronger Than Fear into one faithful step today.

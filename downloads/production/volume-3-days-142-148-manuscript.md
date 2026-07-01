@@ -32,7 +32,7 @@ The Spirit grows fruit by giving surrendered lives holy shape and shelter.
 
 **Journal prompt:** Where does my surrender need a holy structure instead of another vague intention?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Discover Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit grows fruit by setting surrendered hearts apart near mercy.
 
 **Journal prompt:** Where have I confused usefulness with nearness to God?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Receive the Anointing for Today into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit grows fruit by strengthening the heart with steady nourishment in God
 
 **Journal prompt:** Where am I measuring fruit by intensity instead of steady nourishment?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Trust the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit grows fruit by renewing hope until witness becomes clear light.
 
 **Journal prompt:** Where has my witness become strained because hope needs renewal?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Let Hope Rise Power to Witness into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit grows fruit by calling every hidden place back into cleansed belongin
 
 **Journal prompt:** Where have I separated my identity in God from honest surrender?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Carry the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit grows fruit by helping wordless hearts cross the threshold toward God
 
 **Journal prompt:** Where am I lingering near God but hesitating to come honestly closer?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Lean Into Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit grows fruit by anchoring surrendered hearts in hidden faithfulness.
 
 **Journal prompt:** What needs to be anchored before the next pressure pulls at me?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry See Again Wind in the Waiting into one faithful step today.

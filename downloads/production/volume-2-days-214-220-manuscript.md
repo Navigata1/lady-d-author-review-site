@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 214 - August 2
 
-### See Again the Healing Touch
+### See Sabbath Trust in Again the Healing Touch
 
 **Scripture Reference:** Matthew 19:26
 
@@ -32,13 +32,13 @@ Walking with Jesus means receiving peace from God's possibility.
 
 **Journal prompt:** Where have I treated impossibility as the final word?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through See Sabbath Trust in Again the Healing Touch in one faithful step today.
 
 ---
 
 ## Day 215 - August 3
 
-### Let Love Teach the Call to Follow
+### Let Sabbath Trust Teach the Call to Follow
 
 **Scripture Reference:** Matthew 19:27
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting the Lord meet both surrender and honest longing
 
 **Journal prompt:** What question about surrender do I need to bring plainly to Jesus?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Let Sabbath Trust Teach the Call to Follow in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means trusting that nothing surrendered for Him is wasted.
 
 **Journal prompt:** Where does costly obedience need courage instead of resentment?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Awaken Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting Him lead hard questions into holy ground.
 
 **Journal prompt:** Where do I need to follow Jesus in a difficult question instead of trying to control the answer?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Embrace Resurrection Hope in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting saving wholeness lead wounded places.
 
 **Journal prompt:** Where might I be asking for permission to stay hard instead of asking Jesus to heal me?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Remember the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting truth soften what pain has hardened.
 
 **Journal prompt:** Where has my heart become guarded, sharp, or resistant?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Walk in the Light on the Path in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting His Lordship make covenant places honest, tende
 
 **Journal prompt:** Where do truth, mercy, and surrender need to meet in my covenant life?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Let Peace Lead the Invitation in one faithful step today.

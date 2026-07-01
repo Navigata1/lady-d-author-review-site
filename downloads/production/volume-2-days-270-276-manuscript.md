@@ -32,7 +32,7 @@ Walking with Jesus means trusting His Lordship enough to carry His welcome to th
 
 **Journal prompt:** Who may be waiting on the road for a gentle sign of Christ's welcome?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Embrace the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting His light guide the way back to peace.
 
 **Journal prompt:** What truth is Christ revealing so that compassion can become whole again?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Remember the Way of Peace in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting grace become witness on the road.
 
 **Journal prompt:** Where is Jesus inviting my life to witness to the kingdom today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Walk in the Table of Grace in one faithful step today.
 
 ---
 
@@ -116,13 +116,13 @@ Walking with Jesus means receiving rescue deeply enough to move forward.
 
 **Journal prompt:** What am I tempted to return to when Christ is calling me forward?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Let Peace Lead the Healing Touch in one faithful step today.
 
 ---
 
 ## Day 274 - October 1
 
-### Come Home to Cross-Shaped Courage
+### Come Home to Holy Steadiness Through Cross-Shaped Courage
 
 **Scripture Reference:** Matthew 24:2
 
@@ -144,13 +144,13 @@ Walking with Jesus means letting the Teacher form courage deeper than what can f
 
 **Journal prompt:** What have I treated as immovable that Jesus is teaching me to hold loosely?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Come Home to Holy Steadiness Through Cross-Shaped Courage in one faithful step today.
 
 ---
 
 ## Day 275 - October 2
 
-### Practice Resurrection Hope
+### Practice Holy Steadiness in Resurrection Hope
 
 **Scripture Reference:** Matthew 24:23
 
@@ -172,7 +172,7 @@ Walking with Jesus means staying with Him when other voices try to hurry your so
 
 **Journal prompt:** What urgent voice has been trying to pull me off the road with Jesus?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Practice Holy Steadiness in Resurrection Hope in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means trusting the risen Friend more than every dazzling clai
 
 **Journal prompt:** What spiritual noise do I need to lay down so I can hear Jesus clearly?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Surrender to the Friend Who Leads in one faithful step today.

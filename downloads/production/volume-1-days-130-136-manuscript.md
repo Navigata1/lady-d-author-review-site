@@ -32,7 +32,7 @@ The day does not get to name you before God does. Let His faithful love find you
 
 **Journal prompt:** What voice has been trying to name me before the Father does?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Rest in Love That Finds You into one faithful step today.
 
 ---
 
@@ -62,7 +62,7 @@ Walk out of this page with courage, tenderness, and clarity. Grace is already pr
 
 **Journal prompt:** Where am I trying to perform a future only God can hold?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Wake Up to Grace Before Striving into one faithful step today.
 
 ---
 
@@ -90,7 +90,7 @@ Receive the truth deeply enough that it changes your next decision. If mercy has
 
 **Journal prompt:** Where do I still act as if I am unseen even when mercy is making room?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Let Fire Refine Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -118,7 +118,7 @@ Carry this like bread for the road, not decoration for the shelf. The God who se
 
 **Journal prompt:** What costly obedience do I need to let the Father see without minimizing it?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Come Home to the Father's Patience into one faithful step today.
 
 ---
 
@@ -146,7 +146,7 @@ Let this word give your morning a spine and your heart a place to rest. Today, s
 
 **Journal prompt:** Where can my words help courage breathe instead of making fear louder?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Practice Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -174,7 +174,7 @@ The day does not get to name you before God does. Need does not get to name you 
 
 **Journal prompt:** What small field step is God inviting me to take without controlling the outcome?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Surrender to Restoring Compassion into one faithful step today.
 
 ---
 
@@ -202,4 +202,4 @@ Walk out of this page with courage, tenderness, and clarity. On this Saturday Sa
 
 **Journal prompt:** What evidence of unforsaken kindness do I need to notice before I move into the next week?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Let Mercy Speak the Promise That Holds into one faithful step today.

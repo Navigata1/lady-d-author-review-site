@@ -32,7 +32,7 @@ Walking with Jesus gives courage a cruciform shape: firm, humble, discerning, an
 
 **Journal prompt:** Where do I need cross-shaped courage instead of reactive strength?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Stand in Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The One who teaches in public is also faithful to form hope in private.
 
 **Journal prompt:** What question do I need to bring closer to Jesus instead of hiding it?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Let Grace Form Resurrection Hope in one faithful step today.
 
 ---
 
@@ -90,7 +90,7 @@ The Friend who leads is still near when obedience carries you into unseen water.
 
 **Journal prompt:** Where is Jesus asking me to trust His leadership without seeing the whole crossing?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Behold the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -118,7 +118,7 @@ Walking with Jesus means staying near the light, even when the path humbles you.
 
 **Journal prompt:** Where do I need humble persistence instead of silent discouragement?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Follow the Light on the Path in one faithful step today.
 
 ---
 
@@ -146,7 +146,7 @@ The invitation to follow includes the compassion of the One who sees what the ro
 
 **Journal prompt:** What ordinary need is Jesus inviting me to stop minimizing?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Rest in the Invitation in one faithful step today.
 
 ---
 
@@ -174,7 +174,7 @@ Walking with Jesus becomes steady when confession becomes personal trust.
 
 **Journal prompt:** Where do I need to answer Jesus personally instead of leaning on borrowed words?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Wake Up to the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -202,4 +202,4 @@ Walking with Jesus means letting His light refine both speech and silence.
 
 **Journal prompt:** Where do I need Jesus to refine not only what I say, but when and why I say it?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Let Fire Refine the Road with Jesus in one faithful step today.

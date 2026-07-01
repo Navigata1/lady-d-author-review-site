@@ -34,7 +34,7 @@ You are still beloved when the gift has gone ahead and the answer has not return
 
 **Journal prompt:** Where am I waiting for a response that is trying to rename me?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Return to Beloved Identity into one faithful step today.
 
 ---
 
@@ -64,7 +64,7 @@ The night crossing is not outside His care.
 
 **Journal prompt:** What necessary crossing needs courage without hardness and rest without avoidance?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Yield to Love That Finds You into one faithful step today.
 
 ---
 
@@ -94,7 +94,7 @@ Grace anchors the hand that has to open.
 
 **Journal prompt:** What am I clutching that needs to be entrusted to God with open hands?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Anchor Grace Before Striving into one faithful step today.
 
 ---
 
@@ -124,7 +124,7 @@ On this Sabbath, let God meet you in the honest night and carry mercy toward mor
 
 **Journal prompt:** What struggle needs to be brought into Sabbath prayer without being polished first?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Discover Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Weakness may be the doorway where self-reliance stops pretending to be peace.
 
 **Journal prompt:** Where has endurance become self-reliance instead of dependence on God?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Receive the Father's Patience into one faithful step today.
 
 ---
 
@@ -184,7 +184,7 @@ Do not leave the encounter with God asking for less than blessing.
 
 **Journal prompt:** What blessing do I need to ask God for directly instead of settling for survival?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Trust Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -214,4 +214,4 @@ Hope rises when truth is safe enough to tell in God's presence.
 
 **Journal prompt:** What name, label, or story needs to be brought honestly before God?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Let Hope Rise Restoring Compassion into one faithful step today.

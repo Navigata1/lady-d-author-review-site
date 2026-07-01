@@ -32,7 +32,7 @@ Walking with Jesus means letting His voice awaken life beneath the surface.
 
 **Journal prompt:** What truth from Jesus needs to become breath in me today?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Breathe the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means remaining with the Sower instead of trying to become Hi
 
 **Journal prompt:** Where am I confusing faithful participation with anxious ownership?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Hold Fast to the Light on the Path in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting compassion make room for the word to enter.
 
 **Journal prompt:** What has hardened my listening, and how is Jesus inviting me back?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Return to the Invitation in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting the Teacher form holiness without fear.
 
 **Journal prompt:** What have I been excusing that Jesus is asking me to surrender?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Yield to the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means practicing discernment without taking God's seat.
 
 **Journal prompt:** Where do I need clarity without harshness?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Anchor the Road with Jesus in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting resurrection hope make obedience sober and free
 
 **Journal prompt:** What choice becomes clearer when I remember that Jesus is Lord of the end and the beginning?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Discover the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means remaining with the word after the lesson ends.
 
 **Journal prompt:** What word from Jesus do I need to carry into Sabbath rest and beyond?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Receive the Way of Peace in one faithful step today.

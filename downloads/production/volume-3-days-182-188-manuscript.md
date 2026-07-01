@@ -32,7 +32,7 @@ The Spirit rains on dry places by loosening control and teaching patient discern
 
 **Journal prompt:** Where might I be calling surprise a threat?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Hold Fast to Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit rains on dry places by renewing the heart for faithful return.
 
 **Journal prompt:** Where should spiritual insight become ordinary faithfulness today?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Return to Oil for the Journey into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit rains on dry places by freeing desire from the bondage of excess.
 
 **Journal prompt:** What abundance would still leave my heart unhealed?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Yield to Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit rains on dry places by anchoring life in God's breath rather than cra
 
 **Journal prompt:** What appetite has been breathing louder than God?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Anchor the Breath of God into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit rains on dry places by turning remembered warning into settled mercy.
 
 **Journal prompt:** What painful lesson needs to become wisdom instead of shame?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Discover the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit rains on dry places by moving corrected hearts forward.
 
 **Journal prompt:** Where have I remained camped at a memory God is calling me to move beyond?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Receive Holy Fire into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit rains on dry places by giving overlooked hearts courage to come forwa
 
 **Journal prompt:** What overlooked need needs to be named before God?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Trust Rain for Dry Places into one faithful step today.

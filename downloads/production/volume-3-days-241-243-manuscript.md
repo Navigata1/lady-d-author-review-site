@@ -32,7 +32,7 @@ The Spirit gives oil for the waiting season by settling trust when old pressures
 
 **Journal prompt:** Where has repeated loss made me afraid to sow again?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Trust Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives oil for the waiting season by breathing hope into depleted plac
 
 **Journal prompt:** Where do I need hope to rise in a depleted place?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Hope Rise Oil for the Journey into one faithful step today.
 
 ---
 
@@ -88,4 +88,4 @@ The Spirit gives oil for the waiting season by renewing inner freedom under over
 
 **Journal prompt:** Where does pressure feel multiplied, and what truth can I carry there?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Carry Freedom in the Spirit into one faithful step today.

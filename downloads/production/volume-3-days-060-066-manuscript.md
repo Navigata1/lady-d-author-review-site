@@ -32,7 +32,7 @@ The Spirit brings the nearness of revealed truth into dry places.
 
 **Journal prompt:** What truth has God already opened to me that I need to stop treating as distant?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Surrender to Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit calls thirsty hearts toward the life Jesus gives.
 
 **Journal prompt:** Where am I thirsty, and what would it mean to come honestly instead of hiding the need?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Let Mercy Speak the Anointing for Today into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit grows fruit that carries healing into ordinary places.
 
 **Journal prompt:** What fruit is God growing slowly in me, and where can it bring healing today?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Breathe the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit awakens witness by bringing breath back to the hidden life.
 
 **Journal prompt:** Where do I need the Spirit to bring my public witness and private life back together?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Hold Fast to Power to Witness into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit steadies belonging into patient endurance.
 
 **Journal prompt:** Where is Jesus asking me to practice patient endurance instead of anxious escape?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Return to the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit comforts by teaching the heart to hear and respond.
 
 **Journal prompt:** What might the Spirit be saying that my hurry has been drowning out?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Yield to Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit anchors waiting hearts in the faithful and true Jesus.
 
 **Journal prompt:** Where do I need Jesus to be my anchor before I understand the next correction or direction?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Anchor Wind in the Waiting into one faithful step today.

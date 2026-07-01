@@ -60,7 +60,7 @@ Father, teach me to rest secure, move forward in mercy, welcome others from belo
 
 **Focus:** Obedience as return.
 
-**Write:** What spiritual practice has become performance?
+**Write:** What spiritual practice has become self-measuring striving instead of grateful return?
 
 **Practice:** Begin that practice with a simple prayer of return.
 
@@ -71,4 +71,3 @@ Father, teach me to rest secure, move forward in mercy, welcome others from belo
 3. What stubborn place became softer?
 4. Who did I welcome?
 5. How did obedience become return instead of performance?
-

@@ -32,7 +32,7 @@ Walking with Jesus means trusting the Teacher beyond familiar ground.
 
 **Journal prompt:** Where do I need to receive Christ's nearness beyond familiar ground?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Receive the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means bringing pressure to Him before it hardens into distanc
 
 **Journal prompt:** What need have I been trying to manage instead of bringing directly to Jesus?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Trust the Way of Peace in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting grace have the final voice over what felt final
 
 **Journal prompt:** Where do I need persistent faith without trying to control the outcome?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Let Hope Rise the Table of Grace in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means remaining near Him until your help is shaped by His pea
 
 **Journal prompt:** Where am I trying to help from hurry instead of abiding presence?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Carry the Healing Touch in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means naming lack without surrendering trust.
 
 **Journal prompt:** Where can I see the need more clearly than I can see the supply?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Lean Into the Call to Follow in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting the Teacher begin with what is truly in your ha
 
 **Journal prompt:** What actual loaves do I need to place before Jesus without apology?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through See Again Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting Sabbath rest teach thanksgiving on the road of 
 
 **Journal prompt:** Where is Jesus inviting me to give thanks before I can see enough?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Let Love Teach Resurrection Hope in one faithful step today.

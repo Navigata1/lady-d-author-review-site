@@ -30,7 +30,7 @@ This is not passive love. Chosen love calls you into a life that looks different
 
 **Journal prompt:** Where have I been trying to earn welcome instead of receiving the Father's love first?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Awaken the Father's Welcome into one faithful step today.
 
 ---
 
@@ -56,7 +56,7 @@ Today, do not let fear write your name tag. Do not let yesterday's failure renam
 
 **Journal prompt:** Which false identity tries to speak loudest over me in this season?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Embrace Beloved Identity into one faithful step today.
 
 ---
 
@@ -74,7 +74,7 @@ The Father does not find you just to leave you unchanged. His love is tender, bu
 
 Faithfulness under weight is important because life will put pressure on your surrender. Family concerns, financial strain, grief, ministry, health, and private questions can all press on the soul. Under that pressure, love that is only emotional will not hold. But the Father's faithful love holds. He does not simply inspire you for a moment. He steadies you for a walk.
 
-Today is not asking for a dramatic religious performance. It is asking for the next faithful step. Walk in His way in the conversation in front of you. Serve Him in the task already in your hand. Love Him by refusing to give fear the steering wheel.
+Today is not asking for a dramatic religious self-measuring. It is asking for the next faithful step. Walk in His way in the conversation in front of you. Serve Him in the task already in your hand. Love Him by refusing to give fear the steering wheel.
 
 **Today step:** Choose one ordinary action today and do it deliberately as worship.
 
@@ -82,7 +82,7 @@ Today is not asking for a dramatic religious performance. It is asking for the n
 
 **Journal prompt:** What ordinary part of my day needs to become an act of worship instead of a place of complaint?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Remember Love That Finds You into one faithful step today.
 
 ---
 
@@ -108,7 +108,7 @@ Today, notice where you are tempted to perform for love. Maybe you perform throu
 
 **Journal prompt:** Where am I performing strength while my heart is asking for grace?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Walk in Grace Before Striving into one faithful step today.
 
 ---
 
@@ -134,7 +134,7 @@ Today, let the Father's love open your eyes. Someone around you may need a call,
 
 **Journal prompt:** Who near me needs mercy to become visible through my actions, not only my words?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Peace Lead Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -160,7 +160,7 @@ This is deeply practical. When impatience rises, the heart often reaches for con
 
 **Journal prompt:** Where am I tempted to interpret delay as distance from God?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Choose the Father's Patience into one faithful step today.
 
 ---
 
@@ -188,5 +188,4 @@ Today, listen for the Father's love where fear has been loud. He is not asking f
 
 **Journal prompt:** What part of my heart has learned to obey outwardly while staying afraid inwardly?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
-
+**Morning impact:** Let the Father's love carry Listen for Love Stronger Than Fear into one faithful step today.

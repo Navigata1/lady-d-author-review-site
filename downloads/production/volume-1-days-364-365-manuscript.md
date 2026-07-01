@@ -10,7 +10,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 364 - December 30
 
-### See Again Grace Before Performance
+### See Finishing Hope in Again Grace Before Striving
 
 **Scripture Reference:** Exodus 19:9
 
@@ -34,13 +34,13 @@ The faithful Father steadies trust before He asks for deeper surrender.
 
 **Journal prompt:** Where do I need to let God's faithfulness speak louder than my unfinished list?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry See Finishing Hope in Again Grace Before Striving into one faithful step today.
 
 ---
 
 ## Day 365 - December 31
 
-### Let Love Teach Mercy in the Morning
+### Let Finishing Hope Teach Mercy in the Morning
 
 **Scripture Reference:** Exodus 19:10
 
@@ -66,4 +66,4 @@ The Father's love does not merely comfort the heart; it consecrates the heart fo
 
 **Journal prompt:** What part of my heart needs to be set apart for God's presence as this year closes?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Finishing Hope Teach Mercy in the Morning into one faithful step today.

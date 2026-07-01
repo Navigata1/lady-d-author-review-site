@@ -32,7 +32,7 @@ The Spirit rains on dry places by settling freedom inside God's faithful order.
 
 **Journal prompt:** Where have I treated structure as the enemy of grace?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Remember Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit rains on dry places by breathing life into faithful responsibility.
 
 **Journal prompt:** Where does future care need one practical step of faith?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Walk in the Breath of God into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit rains on dry places by renewing peace for complex responsibilities.
 
 **Journal prompt:** What complicated responsibility needs the Comforter's wisdom?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Let Peace Lead the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit rains on dry places by purifying sight into surrendered worship.
 
 **Journal prompt:** Where is God inviting me to see and bless what I cannot control?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Choose Holy Fire into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit rains on dry places by consecrating limits with tender trust.
 
 **Journal prompt:** What limit or transition needs honest tenderness before God?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Listen for Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit rains on dry places by settling accountability inside mercy.
 
 **Journal prompt:** Where do I need to receive correction as part of honoring God's holiness?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Stand in the Anointing for Today into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit rains on dry places by turning limitation into prayerful care.
 
 **Journal prompt:** Who needs my prayerful care in the middle of this transition?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Grace Form the Spirit's Fruit into one faithful step today.

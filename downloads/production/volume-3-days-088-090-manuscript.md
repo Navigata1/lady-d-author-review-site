@@ -32,7 +32,7 @@ The Spirit refines belonging by calling the heart back to God's placed care.
 
 **Journal prompt:** Where has fear made me question my place in God's care?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Let Fire Refine the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit brings wordless prayer home to the God who sees with mercy.
 
 **Journal prompt:** What part of my life have I judged harshly that needs to be brought home to God?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Come Home to Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -88,4 +88,4 @@ The Spirit gives breath while God prepares identity and purpose.
 
 **Journal prompt:** Where am I trying to hurry what God is still forming?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Practice Wind in the Waiting into one faithful step today.

@@ -32,7 +32,7 @@ Carry this like bread for the road, not decoration for the shelf. The Father who
 
 **Journal prompt:** Where do I need the Father to speak restoring compassion over a deep or unnamed place in me?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Let Mercy Speak Restoring Compassion into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Let this word give your morning a spine and your heart a place to rest. What God
 
 **Journal prompt:** What promise from the Father do I need to breathe under today instead of living under fear's curse?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Breathe the Promise That Holds into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The day does not get to name you before God does. Evening and morning are held b
 
 **Journal prompt:** What part of my restoration do I need to entrust to the Father's timing instead of forcing it to finish today?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Hold Fast to the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walk out of this page with courage, tenderness, and clarity. The Father can brin
 
 **Journal prompt:** Where is the Father calling life out of the real ground of my life today?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Return to Love That Sends You into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Receive the truth deeply enough that it changes your next decision. The Father i
 
 **Journal prompt:** Where am I resisting the Father's formation because I am afraid of being corrected or known?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Yield to Covenant Mercy into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Carry this like bread for the road, not decoration for the shelf. The Father's w
 
 **Journal prompt:** Where have I been trying to earn welcome through responsibility instead of receiving identity from the Father?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Anchor the Father's Welcome into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Let this word give your morning a spine and your heart a place to rest. On this 
 
 **Journal prompt:** What false name do I need to lay down so I can receive beloved identity from the Creator?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Discover Beloved Identity into one faithful step today.

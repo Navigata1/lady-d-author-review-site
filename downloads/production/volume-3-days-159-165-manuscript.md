@@ -32,7 +32,7 @@ The Spirit gives gifts for the body by strengthening patient imagination.
 
 **Journal prompt:** Where does my gift need patient imagination instead of panic?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Breathe Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ The Spirit gives gifts for the body by renewing detailed service.
 
 **Journal prompt:** Where has detailed service begun to dry out my joy?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Hold Fast to Oil for the Journey into one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ The Spirit gives gifts for the body by turning ability into shared equipping.
 
 **Journal prompt:** Where am I guarding knowledge, skill, or opportunity too tightly?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Return to Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ The Spirit gives gifts for the body by breathing trust where craving wants contr
 
 **Journal prompt:** Where is craving speaking louder than calling?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Yield to the Breath of God into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Spirit gives gifts for the body by anchoring memory in truth.
 
 **Journal prompt:** Where am I romanticizing an old place or pattern God has called me out of?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Anchor the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ The Spirit gives gifts for the body by strengthening gratitude where contempt ha
 
 **Journal prompt:** Where has dissatisfaction made me contemptuous toward God's provision?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Discover Holy Fire into one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ The Spirit gives gifts for the body by renewing the ability to see provision.
 
 **Journal prompt:** What have I stopped noticing because it has become familiar?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Receive Rain for Dry Places into one faithful step today.

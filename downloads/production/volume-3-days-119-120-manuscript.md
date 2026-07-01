@@ -32,7 +32,7 @@ The Spirit refreshes dry identity by anchoring calling in God's name and supply.
 
 **Journal prompt:** What gift or responsibility needs to be named and surrendered back to God?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Anchor Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -60,4 +60,4 @@ The Spirit anoints practical skill by turning it into obedient service.
 
 **Journal prompt:** What practical skill or task needs to be offered to God today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Discover the Anointing for Today into one faithful step today.

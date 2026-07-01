@@ -66,9 +66,9 @@
       "day_entries": 365,
       "bonus_entries": 1,
       "scripture_references": 366,
-      "sabbath_mentions": 274,
+      "sabbath_mentions": 280,
       "sunday_mentions": 0,
-      "words": 131305,
+      "words": 133112,
       "output": "downloads/production/master/volume-1-master-interior-manuscript.md"
     },
     {
@@ -134,9 +134,9 @@
       "day_entries": 365,
       "bonus_entries": 1,
       "scripture_references": 366,
-      "sabbath_mentions": 294,
+      "sabbath_mentions": 300,
       "sunday_mentions": 0,
-      "words": 98804,
+      "words": 100277,
       "output": "downloads/production/master/volume-2-master-interior-manuscript.md"
     },
     {
@@ -205,9 +205,9 @@
       "day_entries": 365,
       "bonus_entries": 1,
       "scripture_references": 366,
-      "sabbath_mentions": 188,
+      "sabbath_mentions": 194,
       "sunday_mentions": 0,
-      "words": 95247,
+      "words": 96747,
       "output": "downloads/production/master/volume-3-master-interior-manuscript.md"
     }
   ],
@@ -275,7 +275,7 @@
       "reflection_sections": 366,
       "sabbath_mentions": 177,
       "sunday_mentions": 0,
-      "words": 21060,
+      "words": 21065,
       "output": "downloads/production/master/volume-1-master-companion-journal.md"
     },
     {

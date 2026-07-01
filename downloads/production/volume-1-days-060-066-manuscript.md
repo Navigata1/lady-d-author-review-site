@@ -30,7 +30,7 @@ Surrender to love that finds you by letting God lead more than your circumstance
 
 **Journal prompt:** What struggle needs the Father's way, not only my preferred timing?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Surrender to Love That Finds You into one faithful step today.
 
 ---
 
@@ -58,7 +58,7 @@ Let mercy speak today. Ask for the presence of God to shape the way you walk thr
 
 **Journal prompt:** Where am I trying to appear strong instead of asking for God's presence?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Mercy Speak Grace Before Striving into one faithful step today.
 
 ---
 
@@ -86,7 +86,7 @@ The struggle may still be real after prayer. But you do not have to carry it as 
 
 **Journal prompt:** What would change if I began this struggle from being known by the Father?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Breathe Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -114,7 +114,7 @@ Hold fast today. The Father is patient enough to meet you again, and again, and 
 
 **Journal prompt:** What ordinary place can become a place of seeking God in this season?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Hold Fast to the Father's Patience into one faithful step today.
 
 ---
 
@@ -140,7 +140,7 @@ Return to love stronger than fear by refusing to treat your life as ownerless or
 
 **Journal prompt:** What part of my life am I treating as self-owned when the Father is calling it redeemed?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Return to Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -168,7 +168,7 @@ The Father's compassion is not only comfort after damage. It is the call that br
 
 **Journal prompt:** Where is God calling me to return before distance becomes normal?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Yield to Restoring Compassion into one faithful step today.
 
 ---
 
@@ -196,4 +196,4 @@ On this Saturday Sabbath, let rest become agreement with His character. You do n
 
 **Journal prompt:** Which part of God's revealed character needs to answer my fear today?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Anchor the Promise That Holds into one faithful step today.

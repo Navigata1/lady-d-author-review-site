@@ -32,7 +32,7 @@ Walking with Jesus means serving with wisdom that can walk away from a trap with
 
 **Journal prompt:** Where do I need light before I answer?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Breathe the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -60,7 +60,7 @@ Walking with Jesus means staying on the road even when a question exposes how mu
 
 **Journal prompt:** What assumption do I need to bring into the presence of Jesus?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Hold Fast to the Road with Jesus in one faithful step today.
 
 ---
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting His saving nearness enter the places we are tem
 
 **Journal prompt:** Where do I need Jesus' nearness before I try to solve anything?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Return to the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -116,7 +116,7 @@ Walking with Jesus means trusting resurrection hope enough to serve without forc
 
 **Journal prompt:** What future question am I trying to control before I serve?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Yield to the Way of Peace in one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting His authority bring you back to Scripture and t
 
 **Journal prompt:** Where do I need Scripture and God's power to correct my assumptions?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Anchor the Table of Grace in one faithful step today.
 
 ---
 
@@ -172,7 +172,7 @@ Walking with Jesus means receiving the invitation before carrying it.
 
 **Journal prompt:** Where am I invited but still refusing to come close?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Discover the Healing Touch in one faithful step today.
 
 ---
 
@@ -200,4 +200,4 @@ Walking with Jesus means following Him with eternity in view and mercy in hand.
 
 **Journal prompt:** What earthly concern needs to be held inside resurrection hope?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Receive the Call to Follow in one faithful step today.
