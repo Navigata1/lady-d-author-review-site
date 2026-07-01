@@ -1,0 +1,494 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23182646'/%3E%3Ctext x='50%25' y='55%25' dominant-baseline='middle' text-anchor='middle' font-family='Georgia,serif' font-size='26' fill='%23fffdf8'%3ELD%3C/text%3E%3C/svg%3E">
+  <title>Lady D Release Readiness Dashboard</title>
+  <style>
+    :root {
+      --ink: #111827;
+      --paper: #fffdf8;
+      --mist: #f5f2eb;
+      --indigo: #182646;
+      --teal: #1d716f;
+      --gold: #c99335;
+      --line: rgba(17, 24, 39, .14);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: linear-gradient(180deg, var(--paper), var(--mist));
+      line-height: 1.5;
+    }
+    header, main { max-width: 1180px; margin: 0 auto; padding: 34px 22px; }
+    h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; line-height: 1.05; margin: 0 0 14px; letter-spacing: 0; }
+    h1 { font-size: clamp(42px, 7vw, 84px); max-width: 960px; }
+    h2 { font-size: clamp(28px, 4vw, 48px); }
+    p { margin: 0 0 14px; }
+    .lead { font-size: clamp(18px, 2vw, 23px); max-width: 820px; color: #2e3746; }
+    .kicker { color: var(--teal); font-weight: 900; letter-spacing: .14em; text-transform: uppercase; font-size: 12px; margin-bottom: 14px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
+    .card, .panel {
+      border: 1px solid var(--line);
+      background: white;
+      border-radius: 8px;
+      padding: 18px;
+      box-shadow: 0 18px 50px rgba(24, 38, 70, .10);
+    }
+    .card span { color: var(--gold); font-size: 12px; font-weight: 900; text-transform: uppercase; letter-spacing: .12em; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+    .actions a {
+      display: inline-flex;
+      align-items: center;
+      min-height: 38px;
+      padding: 8px 11px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: var(--teal);
+      background: white;
+      font-size: 13px;
+      font-weight: 900;
+      text-decoration: none;
+    }
+    dl { margin: 16px 0 0; display: grid; gap: 10px; }
+    dt { font-weight: 900; color: var(--indigo); }
+    dd { margin: 0; color: #374151; }
+    section { border-top: 1px solid var(--line); padding: 34px 0; }
+    ul { margin: 0; padding-left: 22px; }
+    li { margin: 8px 0; }
+    .status { display: inline-block; background: var(--indigo); color: white; padding: 7px 10px; border-radius: 999px; font-size: 12px; font-weight: 900; }
+    a { color: var(--teal); text-underline-offset: 3px; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="kicker">IDC Publishing release dashboard</div>
+    <h1>Lady D Devotional Library release readiness</h1>
+    <p class="lead">The three devotional manuscripts are complete at the dated-entry level and now have master assemblies, companion journals, cover candidates, KDP trim math, devotional and companion journal full-wrap drafts, interior finalization templates, the first Volume 1 6 x 9 interior prototype, full 6 x 9 devotional drafts, full 6 x 9 companion journal drafts, a release-upload readiness pack, a trilogy proof/copyedit audit pack, a proof decision resolution pack, proof decision application evidence showing the prior 192-item queue now cleared, an author-voice copyedit gate, and the completed Volume 1 author-voice line-edit surface covering Days 001-094 plus Leap Day. This dashboard separates what is complete from what still gates true KDP upload readiness.</p>
+    <p><span class="status">Generated 2026-07-01</span> <span class="status">Base commit: f85e049</span></p>
+    <div class="actions">
+      <a href="production.html">Production Review</a>
+      <a href="volume-1-interior-prototype.html">Volume 1 Interior Prototype</a>
+      <a href="volume-1-full-interior-draft.html">Volume 1 Full Draft</a>
+      <a href="volume-2-full-interior-draft.html">Volume 2 Full Draft</a>
+      <a href="volume-3-full-interior-draft.html">Volume 3 Full Draft</a>
+      <a href="volume-1-companion-journal-draft.html">Volume 1 Journal Draft</a>
+      <a href="volume-2-companion-journal-draft.html">Volume 2 Journal Draft</a>
+      <a href="volume-3-companion-journal-draft.html">Volume 3 Journal Draft</a>
+      <a href="downloads/production/kdp/interior-finalization/Lady-D-KDP-Interior-Finalization-Kit.zip">Interior Kit ZIP</a>
+      <a href="downloads/production/kdp/interior-finalization/lady-d-kdp-interior-finalization-kit.pdf">Interior Kit PDF</a>
+      <a href="downloads/production/kdp/companion-journal-full-wrap-drafts/Lady-D-Companion-Journal-Full-Wrap-Draft-Pack.zip">Journal Full-Wrap ZIP</a>
+      <a href="release-upload-readiness.html">Upload Readiness Page</a>
+      <a href="downloads/production/kdp/release-upload-readiness/Lady-D-Release-Upload-Readiness-Pack.zip">Upload Readiness ZIP</a>
+      <a href="downloads/production/kdp/release-upload-readiness/lady-d-release-upload-readiness-pack.pdf">Upload Readiness PDF</a>
+      <a href="trilogy-proof-audit.html">Proof Audit Page</a>
+      <a href="downloads/production/kdp/trilogy-proof-audit/Lady-D-Trilogy-Proof-Audit-Pack.zip">Proof Audit ZIP</a>
+      <a href="downloads/production/kdp/trilogy-proof-audit/lady-d-trilogy-proof-audit-pack.pdf">Proof Audit PDF</a>
+      <a href="proof-decision-resolution.html">Proof Decision Page</a>
+      <a href="downloads/production/kdp/proof-decision-resolution/Lady-D-Proof-Decision-Resolution-Pack.zip">Proof Decision ZIP</a>
+      <a href="downloads/production/kdp/proof-decision-resolution/lady-d-proof-decision-resolution-pack.pdf">Proof Decision PDF</a>
+      <a href="proof-decision-application.html">Proof Applied Page</a>
+      <a href="downloads/production/kdp/proof-decision-application/Lady-D-Proof-Decision-Application-Pack.zip">Proof Applied ZIP</a>
+      <a href="downloads/production/kdp/proof-decision-application/lady-d-proof-decision-application-pack.pdf">Proof Applied PDF</a>
+      <a href="author-voice-copyedit.html">Author Voice Gate</a>
+      <a href="downloads/production/kdp/author-voice-copyedit/Lady-D-Author-Voice-Copyedit-Pack.zip">Author Voice ZIP</a>
+      <a href="downloads/production/kdp/author-voice-copyedit/lady-d-author-voice-copyedit-pack.pdf">Author Voice PDF</a>
+      <a href="volume-1-days-001-007-line-edit.html">V1 Days 001-007 Line Edit</a>
+      <a href="volume-1-days-008-014-line-edit.html">V1 Days 008-014 Line Edit</a>
+      <a href="volume-1-days-015-021-line-edit.html">V1 Days 015-021 Line Edit</a>
+      <a href="volume-1-days-022-028-line-edit.html">V1 Days 022-028 Line Edit</a>
+      <a href="volume-1-days-029-031-line-edit.html">V1 Days 029-031 Line Edit</a>
+      <a href="volume-1-days-032-038-line-edit.html">V1 Days 032-038 Line Edit</a>
+      <a href="volume-1-days-039-045-line-edit.html">V1 Days 039-045 Line Edit</a>
+      <a href="volume-1-days-046-052-line-edit.html">V1 Days 046-052 Line Edit</a>
+      <a href="volume-1-days-053-059-line-edit.html">V1 Days 053-059 Line Edit</a>
+      <a href="volume-1-leap-day-and-days-060-066-line-edit.html">V1 Leap Day + Days 060-066 Line Edit</a>
+      <a href="volume-1-days-067-073-line-edit.html">V1 Days 067-073 Line Edit</a>
+      <a href="volume-1-days-074-080-line-edit.html">V1 Days 074-080 Line Edit</a>
+      <a href="volume-1-days-081-087-line-edit.html">V1 Days 081-087 Line Edit</a>
+      <a href="volume-1-days-088-094-line-edit.html">V1 Days 088-094 Line Edit</a>
+      <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-001-007/Lady-D-Volume-1-Days-001-007-Line-Edit-Pack.zip">Days 001-007 ZIP</a>
+      <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-008-014/Lady-D-Volume-1-Days-008-014-Line-Edit-Pack.zip">Days 008-014 ZIP</a>
+      <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-015-021/Lady-D-Volume-1-Days-015-021-Line-Edit-Pack.zip">Days 015-021 ZIP</a>
+      <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-022-028/Lady-D-Volume-1-Days-022-028-Line-Edit-Pack.zip">Days 022-028 ZIP</a>
+      <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-029-031/Lady-D-Volume-1-Days-029-031-Line-Edit-Pack.zip">Days 029-031 ZIP</a>
+      <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-032-038/Lady-D-Volume-1-Days-032-038-Line-Edit-Pack.zip">Days 032-038 ZIP</a>
+      <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-039-045/Lady-D-Volume-1-Days-039-045-Line-Edit-Pack.zip">Days 039-045 ZIP</a>
+      <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-046-052/Lady-D-Volume-1-Days-046-052-Line-Edit-Pack.zip">Days 046-052 ZIP</a>
+      <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-053-059/Lady-D-Volume-1-Days-053-059-Line-Edit-Pack.zip">Days 053-059 ZIP</a>
+      <a href="downloads/production/kdp/author-voice-line-edit/volume-1-leap-day-and-days-060-066/Lady-D-Volume-1-Leap-Day-And-Days-060-066-Line-Edit-Pack.zip">Leap Day + Days 060-066 ZIP</a>
+      <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-067-073/Lady-D-Volume-1-Days-067-073-Line-Edit-Pack.zip">Days 067-073 ZIP</a>
+      <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-074-080/Lady-D-Volume-1-Days-074-080-Line-Edit-Pack.zip">Days 074-080 ZIP</a>
+      <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-081-087/Lady-D-Volume-1-Days-081-087-Line-Edit-Pack.zip">Days 081-087 ZIP</a>
+      <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-088-094/Lady-D-Volume-1-Days-088-094-Line-Edit-Pack.zip">Days 088-094 ZIP</a>
+    </div>
+  </header>
+  <main>
+    <section>
+      <h2>Book Status</h2>
+      <div class="grid">
+        <article class="card">
+          <span>Volume 1</span>
+          <h3>Surrendering to God&#x27;s Love</h3>
+          <p>A 365-Day Devotional Journey into the Father&#x27;s Heart</p>
+          <p><strong>Lane:</strong> God the Father / love, identity, surrender, forgiveness, timing, daily trust</p>
+          <dl>
+            <div><dt>Manuscript</dt><dd>369 pages / 130,566 words</dd></div>
+            <div><dt>Journal</dt><dd>470 pages / 21,065 source words</dd></div>
+            <div><dt>Status</dt><dd>Dated manuscript, devotional 6 x 9 draft, and companion journal 6 x 9 draft are built. Final copyedited upload files are still required.</dd></div>
+            <div><dt>Devotional white / cream cover</dt><dd>13.081 x 9.250 in / 13.173 x 9.250 in</dd></div>
+            <div><dt>Journal white / cream cover</dt><dd>13.308 x 9.250 in / 13.425 x 9.250 in</dd></div>
+          </dl>
+        </article>
+
+        <article class="card">
+          <span>Volume 2</span>
+          <h3>Walking with Jesus</h3>
+          <p>A 365-Day Devotional Journey with the Son</p>
+          <p><strong>Lane:</strong> Jesus / discipleship, nearness, obedience, healing, following, abiding</p>
+          <dl>
+            <div><dt>Manuscript</dt><dd>369 pages / 97,711 words</dd></div>
+            <div><dt>Journal</dt><dd>477 pages / 18,940 source words</dd></div>
+            <div><dt>Status</dt><dd>Dated manuscript, devotional 6 x 9 draft, and companion journal 6 x 9 draft are built. Final copyedited upload files are still required.</dd></div>
+            <div><dt>Devotional white / cream cover</dt><dd>13.081 x 9.250 in / 13.173 x 9.250 in</dd></div>
+            <div><dt>Journal white / cream cover</dt><dd>13.324 x 9.250 in / 13.443 x 9.250 in</dd></div>
+          </dl>
+        </article>
+
+        <article class="card">
+          <span>Volume 3</span>
+          <h3>Filled with the Holy Spirit</h3>
+          <p>A 365-Day Devotional Journey of Power, Comfort, and Fire</p>
+          <p><strong>Lane:</strong> Holy Spirit / filling, comfort, conviction, gifts, fruit, rain, oil, breath</p>
+          <dl>
+            <div><dt>Manuscript</dt><dd>369 pages / 94,175 words</dd></div>
+            <div><dt>Journal</dt><dd>483 pages / 19,003 source words</dd></div>
+            <div><dt>Status</dt><dd>Dated manuscript, devotional 6 x 9 draft, and companion journal 6 x 9 draft are built. Final copyedited upload files are still required.</dd></div>
+            <div><dt>Devotional white / cream cover</dt><dd>13.081 x 9.250 in / 13.173 x 9.250 in</dd></div>
+            <div><dt>Journal white / cream cover</dt><dd>13.338 x 9.250 in / 13.457 x 9.250 in</dd></div>
+          </dl>
+        </article>
+        </div>
+    </section>
+    <section class="grid">
+      <div class="panel">
+        <h2>Finalized So Far</h2>
+        <ul><li>1,098 devotional day cards generated and live.</li><li>Three master manuscripts assembled in Markdown, DOCX, and PDF.</li><li>Three companion journals assembled in Markdown, DOCX, and PDF.</li><li>Nine 6 x 9 front-cover art candidates generated.</li><li>Path-route full-wrap draft covers generated for the three main manuscripts.</li><li>Path-route full-wrap draft covers generated for the three companion journals.</li><li>KDP trim and cover worksheet generated from official KDP guidance.</li><li>Volume 1 6 x 9 interior prototype package generated for the first seven devotional entries.</li><li>Full 6 x 9 interior review drafts generated for Volumes 1, 2, and 3 with 366 entries each.</li><li>Full 6 x 9 companion journal review drafts generated for Volumes 1, 2, and 3.</li><li>Interior finalization front/back matter templates created for all three volumes.</li><li>Release upload readiness pack generated with KDP metadata drafts, permissions policy, proof runbook, and theological-production audit.</li><li>Trilogy proof and copyedit audit pack generated with repetition ledgers, theological watchlist contexts, and volume proof checklists.</li><li>Proof decision resolution pack regenerated with zero current title, morning-impact, or theology decisions.</li><li>Proof decision application pack generated; the prior 192-item proof queue is preserved and now audits clear.</li><li>Author-voice copyedit gate generated with 1,098 source context/language lenses and zero internal production labels in the master manuscripts.</li><li>Volume 1 Days 001-094, including Leap Day, author-voice line edits completed across twelve seven-day batches, one eight-entry leap-day/March gate, plus a three-day January closeout with 95 varied morning-impact lines, zero old Volume 1 impact templates, zero internal production labels, and zero Sunday mentions.</li></ul>
+      </div>
+      <div class="panel">
+        <h2>Remaining Gates Before KDP Upload</h2>
+        <ul><li>Final paper type and ISBN/barcode data.</li><li>Author-approved dedication, acknowledgments, and bio.</li><li>Final Bible translation permissions statement.</li><li>Remaining author-voice line edits after the completed Volume 1 Days 001-094 plus Leap Day batches.</li><li>Author approval of companion journal rhythm and front/back matter.</li><li>Final approved 6 x 9 devotional and journal upload interiors with locked page counts.</li><li>Regenerated full-wrap covers from locked page counts.</li><li>KDP Previewer and physical proof review.</li></ul>
+      </div>
+      <div class="panel">
+        <h2>Guardrail Snapshot</h2>
+        <ul><li>Sabbath remains seventh-day/Saturday Sabbath throughout the release lane.</li><li>Obedience remains a response to God&#x27;s grace, not a method of earning God&#x27;s love.</li><li>Final copyedit and metadata must preserve the Adventist theological frame.</li><li>Scripture references may stay reference-only unless a final translation permission statement is added.</li></ul>
+      </div>
+    </section>
+    <section>
+      <h2>Release Upload Readiness Pack</h2>
+      <p class="lead">The newest pack gathers KDP-facing metadata drafts, Scripture permissions policy, proof-run instructions, and a machine-readable theological-production audit for all three devotionals and all three companion journals.</p>
+      <div class="grid">
+        <article class="card">
+          <span>Coverage</span>
+          <h3>Six KDP products</h3>
+          <p>Three devotional books and three companion journals now have dedicated metadata sheets with descriptions, keyword candidates, upload file pairs, and approval fields.</p>
+        </article>
+        <article class="card">
+          <span>Evidence</span>
+          <h3>377,171 source words</h3>
+          <p>The regenerated proof audit reports zero Sunday mentions, zero placeholders, zero duplicate-title groups, zero repeated morning-impact groups, and zero priority theology contexts across the current review set.</p>
+        </article>
+        <article class="card">
+          <span>Boundary</span>
+          <h3>Review ready, not upload final</h3>
+          <p>Final ISBN/barcode, paper type, Bible permissions, final proof, KDP Previewer, and physical proof review still gate public release.</p>
+        </article>
+      </div>
+      <div class="actions">
+        <a href="release-upload-readiness.html">Open Upload Readiness Page</a>
+        <a href="downloads/production/kdp/release-upload-readiness/Lady-D-Release-Upload-Readiness-Pack.zip">Download Upload Readiness ZIP</a>
+        <a href="downloads/production/kdp/release-upload-readiness/theological-production-readiness-audit.json">Audit JSON</a>
+        <a href="downloads/production/kdp/release-upload-readiness/kdp-upload-proof-runbook.md">Proof Runbook</a>
+        <a href="downloads/production/kdp/release-upload-readiness/scripture-permissions-and-kdp-policy.md">Permissions Policy</a>
+      </div>
+    </section>
+    <section>
+      <h2>Trilogy Proof And Copyedit Audit Pack</h2>
+      <p class="lead">The newest proof pack documents the regenerated clean gate after the proof decisions were applied: structure checks, placeholder scan, Adventist Sabbath guardrail confirmation, repeated-title ledger, repeated morning-impact ledger, and grace/performance context review.</p>
+      <div class="grid">
+        <article class="card">
+          <span>Structure</span>
+          <h3>Three devotional masters pass</h3>
+          <p>Each devotional master contains 365 dated entries, one February 29 bonus, 366 Scripture references, 366 prayers, and 366 morning-impact lines.</p>
+        </article>
+        <article class="card">
+          <span>Guardrail</span>
+          <h3>Zero Sunday mentions</h3>
+          <p>The audit checks 377,171 source words and reports zero placeholders, zero Sunday mentions, and zero priority theology contexts requiring resolution.</p>
+        </article>
+        <article class="card">
+          <span>Editorial result</span>
+          <h3>Repetition ledgers clear</h3>
+          <p>The regenerated ledger reports zero duplicate title groups and zero repeated morning-impact groups across the six review products.</p>
+        </article>
+      </div>
+      <div class="actions">
+        <a href="trilogy-proof-audit.html">Open Proof Audit Page</a>
+        <a href="downloads/production/kdp/trilogy-proof-audit/Lady-D-Trilogy-Proof-Audit-Pack.zip">Download Proof Audit ZIP</a>
+        <a href="downloads/production/kdp/trilogy-proof-audit/trilogy-proof-audit.json">Audit JSON</a>
+        <a href="downloads/production/kdp/trilogy-proof-audit/title-and-impact-repetition-ledger.md">Repetition Ledger</a>
+        <a href="downloads/production/kdp/trilogy-proof-audit/theological-watchlist-context-ledger.md">Theological Watchlist</a>
+      </div>
+    </section>
+    <section>
+      <h2>Proof Decision Resolution Pack</h2>
+      <p class="lead">The newest resolution pack has been regenerated after source application. It records a clear decision queue while preserving the machine-readable register for audit traceability.</p>
+      <div class="grid">
+        <article class="card">
+          <span>Decision queue</span>
+          <h3>0 proof decisions</h3>
+          <p>The current register includes no duplicate-title decisions, no morning-impact rhythm decisions, and no priority theology contexts.</p>
+        </article>
+        <article class="card">
+          <span>Priority</span>
+          <h3>Grace preserved</h3>
+          <p>The cleaned audit keeps obedience framed as response to grace and never as a way to earn God's love.</p>
+        </article>
+        <article class="card">
+          <span>Operator surface</span>
+          <h3>Trace remains</h3>
+          <p>The prior queue and source application ledger are preserved in the proof decision application pack.</p>
+        </article>
+      </div>
+      <div class="actions">
+        <a href="proof-decision-resolution.html">Open Proof Decision Page</a>
+        <a href="downloads/production/kdp/proof-decision-resolution/Lady-D-Proof-Decision-Resolution-Pack.zip">Download Proof Decision ZIP</a>
+        <a href="downloads/production/kdp/proof-decision-resolution/proof-decision-resolution.json">Decision Register JSON</a>
+        <a href="downloads/production/kdp/proof-decision-resolution/title-revision-decision-queue.md">Title Queue</a>
+        <a href="downloads/production/kdp/proof-decision-resolution/morning-impact-resolution-queue.md">Morning-Impact Queue</a>
+        <a href="downloads/production/kdp/proof-decision-resolution/theological-context-resolution-queue.md">Theology Queue</a>
+      </div>
+    </section>
+    <section>
+      <h2>Proof Decision Application Pack</h2>
+      <p class="lead">The application pack proves the prior 192-item proof decision queue was applied into the source manuscripts and regenerated through the proof lane. It is evidence of a cleared proof-decision queue, not final KDP upload approval.</p>
+      <div class="grid">
+        <article class="card">
+          <span>Prior queue</span>
+          <h3>192 applied</h3>
+          <p>The preserved snapshot includes 150 title decisions, 30 morning-impact decisions, and 12 theology decisions.</p>
+        </article>
+        <article class="card">
+          <span>Current audit</span>
+          <h3>0 current blockers</h3>
+          <p>The regenerated audit reports zero duplicate title groups, zero repeated impact groups, and zero priority theology contexts.</p>
+        </article>
+        <article class="card">
+          <span>Boundary</span>
+          <h3>Still not upload final</h3>
+          <p>Final copyedit, author approvals, ISBN/barcode, locked covers, KDP Previewer, and physical proofs still gate public release.</p>
+        </article>
+      </div>
+      <div class="actions">
+        <a href="proof-decision-application.html">Open Proof Applied Page</a>
+        <a href="downloads/production/kdp/proof-decision-application/Lady-D-Proof-Decision-Application-Pack.zip">Download Proof Applied ZIP</a>
+        <a href="downloads/production/kdp/proof-decision-application/proof-decision-application.json">Application JSON</a>
+        <a href="downloads/production/kdp/proof-decision-application/proof-decision-source-application.json">Source Application Ledger</a>
+        <a href="downloads/production/kdp/proof-decision-application/proof-decision-prior-queue-snapshot.json">Prior Queue Snapshot</a>
+      </div>
+    </section>
+    <section>
+      <h2>Author Voice Copyedit Gate</h2>
+      <p class="lead">The author-voice gate proves the internal production-lens language has been removed from the source and public manuscript surfaces, then names the remaining voice-rhythm work honestly before any final upload claim.</p>
+      <div class="grid">
+        <article class="card">
+          <span>Reader-facing lens cleanup</span>
+          <h3>1,098 context lenses</h3>
+          <p>Every devotional entry across the three volumes now has a reader-facing context/language lens in the source manuscript set and public mirror.</p>
+        </article>
+        <article class="card">
+          <span>Internal label audit</span>
+          <h3>0 remaining</h3>
+          <p>The regenerated master manuscripts report zero internal production-lens labels and zero Sunday mentions.</p>
+        </article>
+        <article class="card">
+          <span>Next editorial surface</span>
+          <h3>22 queue items</h3>
+          <p>The pack identifies repeated sentences, morning-impact patterns, and voice-rhythm issues for the next Lady D line edit.</p>
+        </article>
+      </div>
+      <div class="actions">
+        <a href="author-voice-copyedit.html">Open Author Voice Gate</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/Lady-D-Author-Voice-Copyedit-Pack.zip">Download Author Voice ZIP</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/lady-d-author-voice-copyedit-pack.pdf">Author Voice PDF</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/lady-d-author-voice-copyedit-pack.docx">Author Voice DOCX</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/author-voice-copyedit-pack.json">Author Voice JSON</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/reader-facing-lens-application.md">Lens Application Report</a>
+      </div>
+    </section>
+    <section>
+      <h2>Author-Voice Line Edit Progress</h2>
+      <p class="lead">Volume 1 Days 001-094 plus Leap Day has moved from structural manuscript into line-edited review surface across twelve seven-day batches, one eight-entry leap-day/March gate, plus a three-day January closeout. The edited surface has 95 varied morning-impact lines, zero old Volume 1 impact templates, zero internal production labels, and zero Sunday mentions. This is continuing review progress, not final KDP upload approval.</p>
+      <div class="grid">
+        <article class="card">
+          <span>Completed batch</span>
+          <h3>Volume 1 Days 001-007</h3>
+          <p>The edited pilot belongs to <em>Surrendering to God's Love</em> and is mirrored into public downloads and the Production Library.</p>
+        </article>
+        <article class="card">
+          <span>Completed batch</span>
+          <h3>Volume 1 Days 008-014</h3>
+          <p>The second January batch is now mirrored into public downloads and the Production Library with its own PDF, DOCX, JSON, and ZIP pack.</p>
+        </article>
+        <article class="card">
+          <span>Completed batch</span>
+          <h3>Volume 1 Days 015-021</h3>
+          <p>The third January batch is now mirrored into public downloads and the Production Library with its own PDF, DOCX, JSON, and ZIP pack.</p>
+        </article>
+        <article class="card">
+          <span>Completed batch</span>
+          <h3>Volume 1 Days 022-028</h3>
+          <p>The fourth January batch is now mirrored into public downloads and the Production Library with its own PDF, DOCX, JSON, and ZIP pack.</p>
+        </article>
+        <article class="card">
+          <span>Month closeout</span>
+          <h3>Volume 1 Days 029-031</h3>
+          <p>The January closeout is now mirrored into public downloads and the Production Library with its own PDF, DOCX, JSON, and ZIP pack.</p>
+        </article>
+        <article class="card">
+          <span>Completed batch</span>
+          <h3>Volume 1 Days 032-038</h3>
+          <p>The February Beloved Identity opening batch is now mirrored into public downloads and the Production Library with its own PDF, DOCX, JSON, and ZIP pack.</p>
+        </article>
+        <article class="card">
+          <span>Completed batch</span>
+          <h3>Volume 1 Days 039-045</h3>
+          <p>The second February Beloved Identity batch is now mirrored into public downloads and the Production Library with its own PDF, DOCX, JSON, and ZIP pack.</p>
+        </article>
+        <article class="card">
+          <span>Completed batch</span>
+          <h3>Volume 1 Days 046-052</h3>
+          <p>The third February Beloved Identity batch is now mirrored into public downloads and the Production Library with its own PDF, DOCX, JSON, and ZIP pack.</p>
+        </article>
+        <article class="card">
+          <span>Completed batch</span>
+          <h3>Volume 1 Days 053-059</h3>
+          <p>The fourth February Beloved Identity batch is now mirrored into public downloads and the Production Library with its own PDF, DOCX, JSON, and ZIP pack.</p>
+        </article>
+        <article class="card">
+          <span>Completed gate</span>
+          <h3>Volume 1 Leap Day + Days 060-066</h3>
+          <p>The February 29 bonus and first March week are now mirrored into public downloads and the Production Library with the companion journal, audit, PDF, DOCX, JSON, and ZIP pack.</p>
+        </article>
+        <article class="card">
+          <span>Completed batch</span>
+          <h3>Volume 1 Days 067-073</h3>
+          <p>The second March struggle-timing batch is now mirrored into public downloads and the Production Library with the companion journal, audit, PDF, DOCX, JSON, and ZIP pack.</p>
+        </article>
+        <article class="card">
+          <span>Completed batch</span>
+          <h3>Volume 1 Days 074-080</h3>
+          <p>The third March struggle-timing batch is now mirrored into public downloads and the Production Library with the companion journal, audit, PDF, DOCX, JSON, and ZIP pack.</p>
+        </article>
+        <article class="card">
+          <span>Completed batch</span>
+          <h3>Volume 1 Days 081-087</h3>
+          <p>The fourth March struggle-timing batch is now mirrored into public downloads and the Production Library with the companion journal, audit, PDF, DOCX, JSON, and ZIP pack.</p>
+        </article>
+        <article class="card">
+          <span>Completed transition batch</span>
+          <h3>Volume 1 Days 088-094</h3>
+          <p>The March close and April mercy-forgiveness opening batch is now mirrored into public downloads and the Production Library with the companion journal, audit, PDF, DOCX, JSON, and ZIP pack.</p>
+        </article>
+        <article class="card">
+          <span>Combined result</span>
+          <h3>95 varied impacts</h3>
+          <p>The repeated `Let the Father's love carry` impact frame has been removed from the completed Days 001-094 plus Leap Day surface.</p>
+        </article>
+        <article class="card">
+          <span>Guardrail</span>
+          <h3>0 Sunday mentions</h3>
+          <p>The Adventist Sabbath frame remains seventh-day/Saturday and obedience remains response to grace in the full edited Days 001-094 plus Leap Day surface.</p>
+        </article>
+      </div>
+      <div class="actions">
+        <a href="volume-1-days-001-007-line-edit.html">Open Days 001-007 Page</a>
+        <a href="volume-1-days-008-014-line-edit.html">Open Days 008-014 Page</a>
+        <a href="volume-1-days-015-021-line-edit.html">Open Days 015-021 Page</a>
+        <a href="volume-1-days-022-028-line-edit.html">Open Days 022-028 Page</a>
+        <a href="volume-1-days-029-031-line-edit.html">Open Days 029-031 Page</a>
+        <a href="volume-1-days-032-038-line-edit.html">Open Days 032-038 Page</a>
+        <a href="volume-1-days-039-045-line-edit.html">Open Days 039-045 Page</a>
+        <a href="volume-1-days-046-052-line-edit.html">Open Days 046-052 Page</a>
+        <a href="volume-1-days-053-059-line-edit.html">Open Days 053-059 Page</a>
+        <a href="volume-1-leap-day-and-days-060-066-line-edit.html">Open Leap Day + Days 060-066 Page</a>
+        <a href="volume-1-days-067-073-line-edit.html">Open Days 067-073 Page</a>
+        <a href="volume-1-days-074-080-line-edit.html">Open Days 074-080 Page</a>
+        <a href="volume-1-days-081-087-line-edit.html">Open Days 081-087 Page</a>
+        <a href="volume-1-days-088-094-line-edit.html">Open Days 088-094 Page</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-001-007/Lady-D-Volume-1-Days-001-007-Line-Edit-Pack.zip">Days 001-007 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-008-014/Lady-D-Volume-1-Days-008-014-Line-Edit-Pack.zip">Days 008-014 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-015-021/Lady-D-Volume-1-Days-015-021-Line-Edit-Pack.zip">Days 015-021 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-022-028/Lady-D-Volume-1-Days-022-028-Line-Edit-Pack.zip">Days 022-028 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-029-031/Lady-D-Volume-1-Days-029-031-Line-Edit-Pack.zip">Days 029-031 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-032-038/Lady-D-Volume-1-Days-032-038-Line-Edit-Pack.zip">Days 032-038 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-039-045/Lady-D-Volume-1-Days-039-045-Line-Edit-Pack.zip">Days 039-045 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-046-052/Lady-D-Volume-1-Days-046-052-Line-Edit-Pack.zip">Days 046-052 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-053-059/Lady-D-Volume-1-Days-053-059-Line-Edit-Pack.zip">Days 053-059 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-leap-day-and-days-060-066/Lady-D-Volume-1-Leap-Day-And-Days-060-066-Line-Edit-Pack.zip">Leap Day + Days 060-066 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-067-073/Lady-D-Volume-1-Days-067-073-Line-Edit-Pack.zip">Days 067-073 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-074-080/Lady-D-Volume-1-Days-074-080-Line-Edit-Pack.zip">Days 074-080 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-081-087/Lady-D-Volume-1-Days-081-087-Line-Edit-Pack.zip">Days 081-087 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-088-094/Lady-D-Volume-1-Days-088-094-Line-Edit-Pack.zip">Days 088-094 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-008-014/volume-1-days-008-014-line-edit-report.pdf">Days 008-014 PDF</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-008-014/volume-1-days-008-014-line-edit-report.docx">Days 008-014 DOCX</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-008-014/volume-1-days-008-014-line-edit.json">Days 008-014 JSON</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-015-021/volume-1-days-015-021-line-edit-report.pdf">Days 015-021 PDF</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-015-021/volume-1-days-015-021-line-edit-report.docx">Days 015-021 DOCX</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-015-021/volume-1-days-015-021-line-edit.json">Days 015-021 JSON</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-022-028/volume-1-days-022-028-line-edit-report.pdf">Days 022-028 PDF</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-022-028/volume-1-days-022-028-line-edit-report.docx">Days 022-028 DOCX</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-022-028/volume-1-days-022-028-line-edit.json">Days 022-028 JSON</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-029-031/volume-1-days-029-031-line-edit-report.pdf">Days 029-031 PDF</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-029-031/volume-1-days-029-031-line-edit-report.docx">Days 029-031 DOCX</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-029-031/volume-1-days-029-031-line-edit.json">Days 029-031 JSON</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-032-038/volume-1-days-032-038-line-edit-report.pdf">Days 032-038 PDF</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-032-038/volume-1-days-032-038-line-edit-report.docx">Days 032-038 DOCX</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-032-038/volume-1-days-032-038-line-edit.json">Days 032-038 JSON</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-039-045/volume-1-days-039-045-line-edit-report.pdf">Days 039-045 PDF</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-039-045/volume-1-days-039-045-line-edit-report.docx">Days 039-045 DOCX</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-039-045/volume-1-days-039-045-line-edit.json">Days 039-045 JSON</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-046-052/volume-1-days-046-052-line-edit-report.pdf">Days 046-052 PDF</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-046-052/volume-1-days-046-052-line-edit-report.docx">Days 046-052 DOCX</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-046-052/volume-1-days-046-052-line-edit.json">Days 046-052 JSON</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-053-059/volume-1-days-053-059-line-edit-report.pdf">Days 053-059 PDF</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-053-059/volume-1-days-053-059-line-edit-report.docx">Days 053-059 DOCX</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-053-059/volume-1-days-053-059-line-edit.json">Days 053-059 JSON</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-leap-day-and-days-060-066/volume-1-leap-day-and-days-060-066-line-edit-report.pdf">Leap + 060-066 PDF</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-leap-day-and-days-060-066/volume-1-leap-day-and-days-060-066-line-edit-report.docx">Leap + 060-066 DOCX</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-leap-day-and-days-060-066/volume-1-leap-day-and-days-060-066-line-edit.json">Leap + 060-066 JSON</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-067-073/volume-1-days-067-073-line-edit-report.pdf">Days 067-073 PDF</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-067-073/volume-1-days-067-073-line-edit-report.docx">Days 067-073 DOCX</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-067-073/volume-1-days-067-073-line-edit.json">Days 067-073 JSON</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-074-080/volume-1-days-074-080-line-edit-report.pdf">Days 074-080 PDF</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-074-080/volume-1-days-074-080-line-edit-report.docx">Days 074-080 DOCX</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-074-080/volume-1-days-074-080-line-edit.json">Days 074-080 JSON</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-081-087/volume-1-days-081-087-line-edit-report.pdf">Days 081-087 PDF</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-081-087/volume-1-days-081-087-line-edit-report.docx">Days 081-087 DOCX</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-081-087/volume-1-days-081-087-line-edit.json">Days 081-087 JSON</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-088-094/volume-1-days-088-094-line-edit-report.pdf">Days 088-094 PDF</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-088-094/volume-1-days-088-094-line-edit-report.docx">Days 088-094 DOCX</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-088-094/volume-1-days-088-094-line-edit.json">Days 088-094 JSON</a>
+      </div>
+    </section>
+    <section>
+      <h2>Active Recommendation</h2>
+      <p class="lead">Use the three devotional drafts, three companion journal drafts, release-upload readiness pack, trilogy proof audit pack, proof decision resolution pack, proof decision application pack, author-voice copyedit gate, and Volume 1 Days 001-094 plus Leap Day line-edit batches as the next copyedit and theological proof surface. Do not mark any file as final upload-ready until the remaining author-voice line edits, ISBN/barcode, paper type, Bible permissions, KDP Previewer, and physical proof review pass.</p>
+      <p><a href="production.html">Return to production review page</a></p>
+    </section>
+  </main>
+</body>
+</html>

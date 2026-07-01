@@ -1,0 +1,172 @@
+{
+  "generated": "2026-07-01",
+  "status": "volume-1-days-074-080_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Days 074-080",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/volume-1-days-074-080-manuscript.md",
+    "public_source": "public/downloads/production/volume-1-days-074-080-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/01 Manuscript/Month 03 - March/Days 074-080 Manuscript.md",
+    "repo_source_parts": [
+      "downloads/production/volume-1-days-074-080-manuscript.md"
+    ],
+    "supporting_files": [
+      "downloads/production/volume-1-march-week-3-companion-journal.md",
+      "downloads/production/volume-1-days-074-080-audit.md"
+    ]
+  },
+  "edits": [
+    {
+      "day": "Day 074",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Love Teach Mercy in the Morning into one faithful step today.",
+      "after": "Hold the familiar thing loosely today; the Father's mercy already knows the road He is showing.",
+      "reason": "Keeps Abram's forward call concrete without making release careless toward family, place, or memory."
+    },
+    {
+      "day": "Day 075",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Awaken the Father's Patience into one faithful step today.",
+      "after": "Let correction become mercy today; one honest repair is braver than another fear-managed story.",
+      "reason": "Preserves correction without shame and refuses to romanticize fear-managed truth."
+    },
+    {
+      "day": "Day 076",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Embrace Love Stronger Than Fear into one faithful step today.",
+      "after": "Build a quiet altar in the unsettled place today; worship can travel with you.",
+      "reason": "Turns Abram's tent-and-altar pattern into a memorable practice for transition."
+    },
+    {
+      "day": "Day 077",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Remember Restoring Compassion into one faithful step today.",
+      "after": "Bring the impossible question facedown today; restoring compassion can hold what evidence cannot.",
+      "reason": "Keeps Abraham's laughter tender and honest without flattening the promise into easy optimism."
+    },
+    {
+      "day": "Day 078",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Walk in the Promise That Holds into one faithful step today.",
+      "after": "Let God's covenant word answer your fear-based sentence today, then walk from promise.",
+      "reason": "Preserves obedience as response to covenant faithfulness rather than orphaned self-production."
+    },
+    {
+      "day": "Day 079",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Peace Lead the Heart That Calls You into one faithful step today.",
+      "after": "Name one pressure and one boundary today; peace grows where God brings wise order.",
+      "reason": "Connects creation order to practical discernment without turning boundaries into control."
+    },
+    {
+      "day": "Day 080",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Choose Love That Sends You into one faithful step today.",
+      "after": "Guard one Saturday Sabbath boundary today; the Creator's rhythm can send you from rest.",
+      "reason": "Preserves seventh-day Sabbath rhythm and frames sending as rest-shaped trust, not exhaustion."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Day 074",
+      "date": "March 15",
+      "title": "Let Love Teach Mercy in the Morning",
+      "scripture": "Genesis 12:1",
+      "morning_impact": "Hold the familiar thing loosely today; the Father's mercy already knows the road He is showing."
+    },
+    {
+      "label": "Day 075",
+      "date": "March 16",
+      "title": "Awaken the Father's Patience",
+      "scripture": "Genesis 12:18",
+      "morning_impact": "Let correction become mercy today; one honest repair is braver than another fear-managed story."
+    },
+    {
+      "label": "Day 076",
+      "date": "March 17",
+      "title": "Embrace Love Stronger Than Fear",
+      "scripture": "Genesis 12:8",
+      "morning_impact": "Build a quiet altar in the unsettled place today; worship can travel with you."
+    },
+    {
+      "label": "Day 077",
+      "date": "March 18",
+      "title": "Remember Restoring Compassion",
+      "scripture": "Genesis 17:17",
+      "morning_impact": "Bring the impossible question facedown today; restoring compassion can hold what evidence cannot."
+    },
+    {
+      "label": "Day 078",
+      "date": "March 19",
+      "title": "Walk in the Promise That Holds",
+      "scripture": "Genesis 17:4",
+      "morning_impact": "Let God's covenant word answer your fear-based sentence today, then walk from promise."
+    },
+    {
+      "label": "Day 079",
+      "date": "March 20",
+      "title": "Let Peace Lead the Heart That Calls You",
+      "scripture": "Genesis 1:10",
+      "morning_impact": "Name one pressure and one boundary today; peace grows where God brings wise order."
+    },
+    {
+      "label": "Day 080",
+      "date": "March 21",
+      "title": "Choose Love That Sends You",
+      "scripture": "Genesis 1:5",
+      "morning_impact": "Guard one Saturday Sabbath boundary today; the Creator's rhythm can send you from rest."
+    }
+  ],
+  "audit": {
+    "entries": 7,
+    "scripture_references": 7,
+    "context_lenses": 7,
+    "today_steps": 7,
+    "prayers": 7,
+    "journal_prompts": 7,
+    "morning_impacts": 7,
+    "old_volume_1_template_impacts_before": 7,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 6,
+    "placeholder_flags": 0,
+    "words": 2374
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "All 7 impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The batch file now has zero old Volume 1 morning-impact templates."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate."
+}

@@ -1,0 +1,712 @@
+{
+  "generated": "2026-07-01",
+  "snapshot": "Production snapshot",
+  "status": "author_voice_copyedit_gate_ready_not_final_upload",
+  "author": "Susan \"Lady D\" Damon",
+  "sources": {
+    "voice_bible": "/Users/IDC2.5/Documents/LADY D/Production Library/_Shared/Voice Bible/Lady-D-Voice-and-Theology-Guardrails.md",
+    "legacy_voice_guide": "downloads/OLD-Lady-D-Author-Voice-Style-Guide.md",
+    "meeting_synthesis": "downloads/FINAL-2026-06-14-GOOGLE-MEET-CAPTURE.md",
+    "reader_facing_lens_application": "downloads/production/kdp/author-voice-copyedit/reader-facing-lens-application.json"
+  },
+  "source_audit": {
+    "totals": {
+      "files": 166,
+      "entries": 1098,
+      "context_lens_labels": 1098,
+      "internal_production_labels": 0,
+      "translation_review_notes": 1,
+      "sabbath_mentions": 769,
+      "saturday_mentions": 171,
+      "sunday_mentions": 0,
+      "placeholders": 0,
+      "words": 318650
+    },
+    "by_volume": {
+      "1": {
+        "files": 55,
+        "entries": 366,
+        "context_lens_labels": 366,
+        "internal_production_labels": 0,
+        "translation_review_notes": 0,
+        "sabbath_mentions": 279,
+        "saturday_mentions": 67,
+        "sunday_mentions": 0,
+        "placeholders": 0,
+        "words": 129457
+      },
+      "2": {
+        "files": 54,
+        "entries": 366,
+        "context_lens_labels": 366,
+        "internal_production_labels": 0,
+        "translation_review_notes": 1,
+        "sabbath_mentions": 298,
+        "saturday_mentions": 52,
+        "sunday_mentions": 0,
+        "placeholders": 0,
+        "words": 96350
+      },
+      "3": {
+        "files": 57,
+        "entries": 366,
+        "context_lens_labels": 366,
+        "internal_production_labels": 0,
+        "translation_review_notes": 0,
+        "sabbath_mentions": 192,
+        "saturday_mentions": 52,
+        "sunday_mentions": 0,
+        "placeholders": 0,
+        "words": 92843
+      }
+    }
+  },
+  "master_audit": {
+    "totals": {
+      "entries": 1098,
+      "bonus_entries": 3,
+      "context_lens_labels": 1098,
+      "internal_production_labels": 0,
+      "translation_review_notes": 1,
+      "sabbath_mentions": 775,
+      "saturday_mentions": 174,
+      "sunday_mentions": 0,
+      "placeholders": 0,
+      "words": 314829
+    },
+    "by_volume": {
+      "1": {
+        "entries": 366,
+        "bonus_entries": 1,
+        "context_lens_labels": 366,
+        "internal_production_labels": 0,
+        "translation_review_notes": 0,
+        "sabbath_mentions": 281,
+        "saturday_mentions": 68,
+        "sunday_mentions": 0,
+        "placeholders": 0,
+        "words": 128194
+      },
+      "2": {
+        "entries": 366,
+        "bonus_entries": 1,
+        "context_lens_labels": 366,
+        "internal_production_labels": 0,
+        "translation_review_notes": 1,
+        "sabbath_mentions": 300,
+        "saturday_mentions": 53,
+        "sunday_mentions": 0,
+        "placeholders": 0,
+        "words": 95114
+      },
+      "3": {
+        "entries": 366,
+        "bonus_entries": 1,
+        "context_lens_labels": 366,
+        "internal_production_labels": 0,
+        "translation_review_notes": 0,
+        "sabbath_mentions": 194,
+        "saturday_mentions": 53,
+        "sunday_mentions": 0,
+        "placeholders": 0,
+        "words": 91521
+      }
+    }
+  },
+  "reader_facing_lens_application": {
+    "generated": "2026-07-01",
+    "status": "reader_facing_lens_copyedit_applied_not_final_upload",
+    "applications": [
+      {
+        "file": "downloads/production/volume-2-days-060-066-manuscript.md",
+        "line": 129,
+        "volume": 2,
+        "route": "production text note",
+        "old_label": "Production text note",
+        "old_text": "Matthew 18:11 has textual-placement differences across Bible editions. The production use treats the assigned reference as a rescue-focused saying for planning purposes, with final wording and placement to be confirmed during translation and permissions review.",
+        "new_text": "Matthew 18:11 has textual-placement differences across Bible editions. Treat this day as rescue-focused while final wording and placement are confirmed during translation and permissions review."
+      }
+    ],
+    "source_files_touched": [
+      "downloads/production/volume-2-days-060-066-manuscript.md"
+    ],
+    "post_audit": {
+      "production_lens_labels": 0,
+      "architecture_mentions": 0,
+      "context_lens_labels": 1098,
+      "entries": 1098,
+      "by_volume": {
+        "1": {
+          "entries": 366,
+          "context_lens_labels": 366,
+          "production_lens_labels": 0,
+          "translation_review_notes": 0
+        },
+        "2": {
+          "entries": 366,
+          "context_lens_labels": 366,
+          "production_lens_labels": 0,
+          "translation_review_notes": 1
+        },
+        "3": {
+          "entries": 366,
+          "context_lens_labels": 366,
+          "production_lens_labels": 0,
+          "translation_review_notes": 0
+        }
+      }
+    },
+    "public_audit": {
+      "production_lens_labels": 0,
+      "architecture_mentions": 0,
+      "context_lens_labels": 1098,
+      "entries": 1098,
+      "by_volume": {
+        "1": {
+          "entries": 366,
+          "context_lens_labels": 366,
+          "production_lens_labels": 0,
+          "translation_review_notes": 0
+        },
+        "2": {
+          "entries": 366,
+          "context_lens_labels": 366,
+          "production_lens_labels": 0,
+          "translation_review_notes": 1
+        },
+        "3": {
+          "entries": 366,
+          "context_lens_labels": 366,
+          "production_lens_labels": 0,
+          "translation_review_notes": 0
+        }
+      }
+    }
+  },
+  "repetition_ledgers": {
+    "repeated_sentences": [
+      {
+        "phrase": "Let the Spirit press this from information into formation.",
+        "count": 131,
+        "action": "Rewrite Volume 3 formation bridges so the Spirit language feels alive and not template-driven."
+      },
+      {
+        "phrase": "Do not rush past the verse; let it steady you before you move.",
+        "count": 130,
+        "action": "Vary the intake line with fresh morning verbs: sit, receive, notice, breathe, confess, carry."
+      },
+      {
+        "phrase": "Let prayer turn insight into obedience before noon.",
+        "count": 129,
+        "action": "Keep obedience-as-response, but write more specific today-sized applications."
+      },
+      {
+        "phrase": "Take one surrendered step before worry gets the first word.",
+        "count": 127,
+        "action": "Replace repeated surrender line with concrete steps tied to each day's passage."
+      },
+      {
+        "phrase": "Start from what God has revealed, not from what the day is demanding.",
+        "count": 125,
+        "action": "Vary the opening claim so it sounds like Lady D speaking into that specific morning."
+      },
+      {
+        "phrase": "This day falls on Saturday, the seventh-day Sabbath in the 2026 production calendar.",
+        "count": 125,
+        "action": "Keep the Saturday Sabbath truth, but move repeated production-calendar wording into a reusable Sabbath note or vary it by entry."
+      },
+      {
+        "phrase": "Walk out of this page with courage, tenderness, and clarity.",
+        "count": 73,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Receive the truth deeply enough that it changes your next decision.",
+        "count": 73,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "The day does not get to name you before God does.",
+        "count": 72,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Carry this like bread for the road, not decoration for the shelf.",
+        "count": 70,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Let this word give your morning a spine and your heart a place to rest.",
+        "count": 70,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Akoloutheo means to follow as a disciple, not merely admire from a distance.",
+        "count": 49,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Kyrios means Lord: trusted authority, not religious decoration.",
+        "count": 48,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Eirene is peace as wholeness in the presence of the Prince of Peace.",
+        "count": 25,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Hodos means way or road: Jesus as the path, not only the pointer.",
+        "count": 25,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Didaskalos means Teacher: One who forms the life, not just informs the mind.",
+        "count": 25,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Phos means light that exposes danger and gives direction.",
+        "count": 25,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Phos is light that exposes danger and gives direction.",
+        "count": 24,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Anastasis means resurrection: life rising where finality seemed to speak.",
+        "count": 24,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Eirene means peace as wholeness in the presence of the Prince of Peace.",
+        "count": 24,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Sozo means Jesus saving as rescue, healing, and wholeness.",
+        "count": 19,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Sozo means saving, rescuing, healing, and making whole.",
+        "count": 14,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Meno means to remain or abide: staying close enough for His life to shape yours.",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Meno means to remain or abide; staying close enough for His life to shape yours.",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      }
+    ],
+    "opening_patterns": [
+      {
+        "phrase": "Matthew",
+        "count": 377,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Genesis",
+        "count": 287,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Let the Father's love carry",
+        "count": 271,
+        "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
+      },
+      {
+        "phrase": "Walking with Jesus means letting",
+        "count": 153,
+        "action": "Vary Volume 2 concluding claims with scene-specific discipleship language."
+      },
+      {
+        "phrase": "This day falls on Saturday",
+        "count": 130,
+        "action": "Keep the Saturday Sabbath truth, but move repeated production-calendar wording into a reusable Sabbath note or vary it by entry."
+      },
+      {
+        "phrase": "Do not rush past the",
+        "count": 129,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Exodus",
+        "count": 128,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Let the Spirit press this",
+        "count": 125,
+        "action": "Rewrite Volume 3 formation bridges so the Spirit language feels alive and not template-driven."
+      },
+      {
+        "phrase": "Take one surrendered step before",
+        "count": 123,
+        "action": "Replace repeated surrender line with concrete steps tied to each day's passage."
+      },
+      {
+        "phrase": "Let prayer turn insight into",
+        "count": 122,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Start from what God has",
+        "count": 119,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Judges",
+        "count": 111,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Where do I need to",
+        "count": 77,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk out of this page",
+        "count": 73,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Receive the truth deeply enough",
+        "count": 73,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "The day does not get",
+        "count": 71,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Let",
+        "count": 71,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Let the Spirit carry Let",
+        "count": 71,
+        "action": "Rewrite Volume 3 morning impacts with less repeated carrier language."
+      },
+      {
+        "phrase": "Carry this like bread for",
+        "count": 70,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Let this word give your",
+        "count": 70,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Numbers",
+        "count": 58,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Akoloutheo means to follow as",
+        "count": 49,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Kyrios means Lord trusted authority",
+        "count": 48,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Revelation",
+        "count": 44,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      }
+    ],
+    "morning_impact_patterns": [
+      {
+        "phrase": "Let the Father's love carry",
+        "count": 271,
+        "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
+      },
+      {
+        "phrase": "Walk with Jesus through Let",
+        "count": 71,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Let the Spirit carry Let",
+        "count": 71,
+        "action": "Rewrite Volume 3 morning impacts with less repeated carrier language."
+      },
+      {
+        "phrase": "Walk with Jesus through Awaken",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Embrace",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Remember",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Walk",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Behold",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Rest",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Wake",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Come",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Practice",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Surrender",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Breathe",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Hold",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Return",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Yield",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Walk with Jesus through Discover",
+        "count": 12,
+        "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      }
+    ]
+  },
+  "copyedit_queue": [
+    {
+      "type": "Repeated sentence",
+      "phrase": "Let the Spirit press this from information into formation.",
+      "count": 131,
+      "action": "Rewrite Volume 3 formation bridges so the Spirit language feels alive and not template-driven."
+    },
+    {
+      "type": "Repeated sentence",
+      "phrase": "Do not rush past the verse; let it steady you before you move.",
+      "count": 130,
+      "action": "Vary the intake line with fresh morning verbs: sit, receive, notice, breathe, confess, carry."
+    },
+    {
+      "type": "Repeated sentence",
+      "phrase": "Let prayer turn insight into obedience before noon.",
+      "count": 129,
+      "action": "Keep obedience-as-response, but write more specific today-sized applications."
+    },
+    {
+      "type": "Repeated sentence",
+      "phrase": "Take one surrendered step before worry gets the first word.",
+      "count": 127,
+      "action": "Replace repeated surrender line with concrete steps tied to each day's passage."
+    },
+    {
+      "type": "Repeated sentence",
+      "phrase": "Start from what God has revealed, not from what the day is demanding.",
+      "count": 125,
+      "action": "Vary the opening claim so it sounds like Lady D speaking into that specific morning."
+    },
+    {
+      "type": "Repeated sentence",
+      "phrase": "This day falls on Saturday, the seventh-day Sabbath in the 2026 production calendar.",
+      "count": 125,
+      "action": "Keep the Saturday Sabbath truth, but move repeated production-calendar wording into a reusable Sabbath note or vary it by entry."
+    },
+    {
+      "type": "Repeated sentence",
+      "phrase": "Walk out of this page with courage, tenderness, and clarity.",
+      "count": 73,
+      "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+    },
+    {
+      "type": "Repeated sentence",
+      "phrase": "Receive the truth deeply enough that it changes your next decision.",
+      "count": 73,
+      "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+    },
+    {
+      "type": "Repeated sentence",
+      "phrase": "The day does not get to name you before God does.",
+      "count": 72,
+      "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+    },
+    {
+      "type": "Repeated sentence",
+      "phrase": "Carry this like bread for the road, not decoration for the shelf.",
+      "count": 70,
+      "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+    },
+    {
+      "type": "Repeated sentence",
+      "phrase": "Let this word give your morning a spine and your heart a place to rest.",
+      "count": 70,
+      "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+    },
+    {
+      "type": "Repeated sentence",
+      "phrase": "Akoloutheo means to follow as a disciple, not merely admire from a distance.",
+      "count": 49,
+      "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+    },
+    {
+      "type": "Morning impact pattern",
+      "phrase": "Let the Father's love carry",
+      "count": 271,
+      "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
+    },
+    {
+      "type": "Morning impact pattern",
+      "phrase": "Walk with Jesus through Let",
+      "count": 71,
+      "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+    },
+    {
+      "type": "Morning impact pattern",
+      "phrase": "Let the Spirit carry Let",
+      "count": 71,
+      "action": "Rewrite Volume 3 morning impacts with less repeated carrier language."
+    },
+    {
+      "type": "Morning impact pattern",
+      "phrase": "Walk with Jesus through Awaken",
+      "count": 12,
+      "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+    },
+    {
+      "type": "Morning impact pattern",
+      "phrase": "Walk with Jesus through Embrace",
+      "count": 12,
+      "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+    },
+    {
+      "type": "Morning impact pattern",
+      "phrase": "Walk with Jesus through Remember",
+      "count": 12,
+      "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+    },
+    {
+      "type": "Morning impact pattern",
+      "phrase": "Walk with Jesus through Walk",
+      "count": 12,
+      "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+    },
+    {
+      "type": "Morning impact pattern",
+      "phrase": "Walk with Jesus through Behold",
+      "count": 12,
+      "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+    },
+    {
+      "type": "Opening pattern",
+      "phrase": "Matthew",
+      "count": 377,
+      "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+    },
+    {
+      "type": "Opening pattern",
+      "phrase": "Genesis",
+      "count": 287,
+      "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+    }
+  ],
+  "judge_loops": [
+    {
+      "loop": "Voice judge",
+      "pass_count": "3 passes per batch",
+      "standard": "Sounds like Lady D sitting with the reader in the morning: warm, reverent, direct, practical, not generic or academic."
+    },
+    {
+      "loop": "Theology auditor",
+      "pass_count": "3 to 7 passes when needed",
+      "standard": "Saturday Sabbath is protected, obedience is response to grace, and Father/Son/Spirit lanes stay distinct without separating God."
+    },
+    {
+      "loop": "Repetition auditor",
+      "pass_count": "3 passes per volume after every rewrite wave",
+      "standard": "No mechanical openings, repeated prayers, recycled morning-impact lines, or repeated bridge sentences unless deliberately liturgical."
+    },
+    {
+      "loop": "Permissions auditor",
+      "pass_count": "1 pass every release build",
+      "standard": "References-only remains safe until a final Bible translation and copyright notice are locked."
+    },
+    {
+      "loop": "Production auditor",
+      "pass_count": "1 pass every artifact build",
+      "standard": "Markdown, DOCX, PDF, ZIP, public download links, and Vercel pages all match the same current evidence."
+    }
+  ],
+  "gpt_settings": [
+    {
+      "phase": "Batch rewriting",
+      "recommended": "Best available flagship writing/reasoning model, medium reasoning",
+      "use_for": "Rewriting 7 to 14 entries at a time while preserving Scripture reference, day title, prayer, journal prompt, and Adventist guardrails."
+    },
+    {
+      "phase": "Judge and auditor loop",
+      "recommended": "Best available flagship model, extra-high reasoning",
+      "use_for": "Theology, voice, repetition, permissions, and KDP readiness audits. Use three passes for routine batches and up to seven for difficult theological or voice sections."
+    },
+    {
+      "phase": "Mechanical checks",
+      "recommended": "Fast or spark-class model",
+      "use_for": "Link checks, count verification, HTML index updates, artifact inventories, and non-theological formatting checks."
+    },
+    {
+      "phase": "Cover and visual prompts",
+      "recommended": "GPT image workflow with the strongest available image model and high-quality portrait/book-cover settings",
+      "use_for": "6 x 9 cover variants, typography-free concept art, full-wrap direction boards, and visual comparison sheets."
+    }
+  ],
+  "release_boundary": [
+    "This package is an author-voice copyedit gate, not a final KDP upload approval.",
+    "The reader-facing lens labels are clean across the 1,098 source entries and public mirrors.",
+    "The next manuscript work is a line-level voice and rhythm pass, followed by Bible permissions, final interiors, cover regeneration from locked page counts, KDP Previewer, and physical proof review."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "generated": "2026-07-01",
+  "commit": "f85e049",
+  "source_audit_commit": "f85e049",
+  "author": "Susan \"Lady D\" Damon",
+  "status": "decision_queue_clear_not_final_upload",
+  "totals": {
+    "decision_items": 0,
+    "title_decisions": 0,
+    "morning_impact_decisions": 0,
+    "theology_decisions": 0,
+    "likely_grace_aligned_watch_contexts": 356,
+    "source_words_checked": 369482,
+    "sunday_mentions": 0,
+    "placeholder_markers": 0
+  },
+  "volume_breakdown": {
+    "1": {
+      "title_decisions": 0,
+      "morning_impact_decisions": 0,
+      "theology_decisions": 0,
+      "total_decisions": 0
+    },
+    "2": {
+      "title_decisions": 0,
+      "morning_impact_decisions": 0,
+      "theology_decisions": 0,
+      "total_decisions": 0
+    },
+    "3": {
+      "title_decisions": 0,
+      "morning_impact_decisions": 0,
+      "theology_decisions": 0,
+      "total_decisions": 0
+    }
+  },
+  "recommended_loop": [
+    "Proof audit currently shows no duplicate title groups, no repeated morning-impact groups, and no priority theology contexts.",
+    "Run the next full copyedit pass for author voice, devotional flow, and line-level polish.",
+    "Keep the Adventist Sabbath and grace/obedience guardrails visible during final copyedit.",
+    "Regenerate final interiors and covers only after copyedit approval and locked page counts.",
+    "Do not declare KDP final until Previewer and physical proof review pass."
+  ],
+  "title_decisions": [],
+  "morning_impact_decisions": [],
+  "theology_decisions": []
+}
