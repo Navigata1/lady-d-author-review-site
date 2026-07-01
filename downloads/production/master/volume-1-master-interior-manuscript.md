@@ -2051,7 +2051,7 @@ The Father's mercy does not abandon you when He calls you forward. He goes befor
 
 **Journal prompt:** What familiar security might I be treating as safer than God's leading?
 
-**Morning impact:** Let the Father's love carry Let Love Teach Mercy in the Morning into one faithful step today.
+**Morning impact:** Hold the familiar thing loosely today; the Father's mercy already knows the road He is showing.
 
 ---
 
@@ -2079,7 +2079,7 @@ The Father is patient enough to correct His children without crushing them. Let 
 
 **Journal prompt:** Where is the Father patiently inviting me out of fear-managed truth?
 
-**Morning impact:** Let the Father's love carry Awaken the Father's Patience into one faithful step today.
+**Morning impact:** Let correction become mercy today; one honest repair is braver than another fear-managed story.
 
 ---
 
@@ -2107,7 +2107,7 @@ You may still be moving. You may still be waiting. But the name of the Lord is w
 
 **Journal prompt:** Where can I build a quiet altar of prayer in a season that still feels unsettled?
 
-**Morning impact:** Let the Father's love carry Embrace Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Build a quiet altar in the unsettled place today; worship can travel with you.
 
 ---
 
@@ -2135,7 +2135,7 @@ The Father does not need you to pretend the impossible looks easy. He invites yo
 
 **Journal prompt:** What promise or hope feels too late, too large, or too impossible for me to carry easily?
 
-**Morning impact:** Let the Father's love carry Remember Restoring Compassion into one faithful step today.
+**Morning impact:** Bring the impossible question facedown today; restoring compassion can hold what evidence cannot.
 
 ---
 
@@ -2163,7 +2163,7 @@ The Father who speaks covenant also sustains the child who must walk it out.
 
 **Journal prompt:** What fear-based sentence about myself needs to be answered by God's faithfulness?
 
-**Morning impact:** Let the Father's love carry Walk in the Promise That Holds into one faithful step today.
+**Morning impact:** Let God's covenant word answer your fear-based sentence today, then walk from promise.
 
 ---
 
@@ -2191,7 +2191,7 @@ Let the heart that calls you receive peace today. Ask the Father to bring wise o
 
 **Journal prompt:** What pressure needs a God-given name or boundary before I try to carry it?
 
-**Morning impact:** Let the Father's love carry Let Peace Lead the Heart That Calls You into one faithful step today.
+**Morning impact:** Name one pressure and one boundary today; peace grows where God brings wise order.
 
 ---
 
@@ -2219,7 +2219,7 @@ Choose love today by letting God's rhythm send you forward from rest, not exhaus
 
 **Journal prompt:** What Sabbath boundary would help me trust God with time instead of trying to control it?
 
-**Morning impact:** Let the Father's love carry Choose Love That Sends You into one faithful step today.
+**Morning impact:** Guard one Saturday Sabbath boundary today; the Creator's rhythm can send you from rest.
 
 ---
 

@@ -764,6 +764,80 @@ BATCHES = {
             "volume-1-days-067-073-audit.md",
         ),
     ),
+    "volume-1-days-074-080": Batch(
+        key="volume-1-days-074-080",
+        scope="Volume 1 Days 074-080",
+        title="Volume 1 Days 074-080 Line Edit",
+        intro=(
+            "The third March week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "God's forward call, correction without shame, worship in transition, "
+            "honest impossible questions, covenant promise, wise order, and "
+            "Saturday Sabbath rhythm."
+        ),
+        source_name="volume-1-days-074-080-manuscript.md",
+        public_page_name="volume-1-days-074-080-line-edit.html",
+        output_slug="volume-1-days-074-080-line-edit",
+        zip_name="Lady-D-Volume-1-Days-074-080-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 03 - March" / "Days 074-080 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 074-080",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 074",
+                "Let the Father's love carry Let Love Teach Mercy in the Morning into one faithful step today.",
+                "Hold the familiar thing loosely today; the Father's mercy already knows the road He is showing.",
+                "Keeps Abram's forward call concrete without making release careless toward family, place, or memory.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 075",
+                "Let the Father's love carry Awaken the Father's Patience into one faithful step today.",
+                "Let correction become mercy today; one honest repair is braver than another fear-managed story.",
+                "Preserves correction without shame and refuses to romanticize fear-managed truth.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 076",
+                "Let the Father's love carry Embrace Love Stronger Than Fear into one faithful step today.",
+                "Build a quiet altar in the unsettled place today; worship can travel with you.",
+                "Turns Abram's tent-and-altar pattern into a memorable practice for transition.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 077",
+                "Let the Father's love carry Remember Restoring Compassion into one faithful step today.",
+                "Bring the impossible question facedown today; restoring compassion can hold what evidence cannot.",
+                "Keeps Abraham's laughter tender and honest without flattening the promise into easy optimism.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 078",
+                "Let the Father's love carry Walk in the Promise That Holds into one faithful step today.",
+                "Let God's covenant word answer your fear-based sentence today, then walk from promise.",
+                "Preserves obedience as response to covenant faithfulness rather than orphaned self-production.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 079",
+                "Let the Father's love carry Let Peace Lead the Heart That Calls You into one faithful step today.",
+                "Name one pressure and one boundary today; peace grows where God brings wise order.",
+                "Connects creation order to practical discernment without turning boundaries into control.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 080",
+                "Let the Father's love carry Choose Love That Sends You into one faithful step today.",
+                "Guard one Saturday Sabbath boundary today; the Creator's rhythm can send you from rest.",
+                "Preserves seventh-day Sabbath rhythm and frames sending as rest-shaped trust, not exhaustion.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-march-week-3-companion-journal.md",
+            "volume-1-days-074-080-audit.md",
+        ),
+    ),
 }
 
 
@@ -1254,6 +1328,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-053-059-line-edit.html">Days 053-059</a>
     <a href="volume-1-leap-day-and-days-060-066-line-edit.html">Leap + 060-066</a>
     <a href="volume-1-days-067-073-line-edit.html">Days 067-073</a>
+    <a href="volume-1-days-074-080-line-edit.html">Days 074-080</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -1357,7 +1432,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-067-073")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-074-080")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 
