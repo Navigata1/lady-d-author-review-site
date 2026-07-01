@@ -40,10 +40,11 @@
       top: 0;
       z-index: 20;
       display: flex;
-      gap: 12px;
+      flex-wrap: wrap;
+      gap: 8px 10px;
       align-items: center;
-      overflow-x: auto;
-      padding: 12px clamp(16px, 4vw, 42px);
+      overflow-x: visible;
+      padding: 10px clamp(16px, 4vw, 42px);
       background: rgba(17, 24, 39, .94);
       backdrop-filter: blur(16px);
     }
@@ -52,16 +53,18 @@
       flex: 0 0 auto;
       color: white;
       font-weight: 900;
-      margin-right: 10px;
+      margin-right: 4px;
     }
 
     .nav a {
-      flex: 0 0 auto;
+      flex: 0 1 auto;
       color: rgba(255, 255, 255, .88);
       text-decoration: none;
       font-size: 13px;
       font-weight: 850;
-      padding: 8px 10px;
+      line-height: 1;
+      white-space: nowrap;
+      padding: 7px 9px;
       border-radius: 999px;
     }
 
@@ -250,6 +253,8 @@
     <a href="#downloads">Downloads</a>
     <a href="#master-assembly">Master Assembly</a>
     <a href="#kdp-readiness">KDP Readiness</a>
+    <a href="#interior-finalization">Interior Kit</a>
+    <a href="release-status.html">Release Dashboard</a>
     <a href="#next">Next Loop</a>
   </nav>
 
@@ -262,7 +267,7 @@
       </div>
       <aside class="panel">
         <div class="kicker">Current release state</div>
-        <p><strong>This is not a final KDP upload package yet.</strong> It now includes the full dated devotional base for all three books, each with its February 29 bonus, KDP-oriented master manuscript and companion journal review assemblies in Markdown, DOCX, and PDF, a nine-candidate cover board, and a KDP trim/cover readiness worksheet. Volume 3 is complete through December 31, closing Living Sealed and Filled with costly obedience, surrendered life, and fruitful welcome that points beyond self to Jesus.</p>
+        <p><strong>This is not a final KDP upload package yet.</strong> It now includes the full dated devotional base for all three books, each with its February 29 bonus, KDP-oriented master manuscript and companion journal review assemblies in Markdown, DOCX, and PDF, a nine-candidate cover board, a KDP trim/cover readiness worksheet, first-pass full-wrap drafts, and an interior finalization kit. Volume 3 is complete through December 31, closing Living Sealed and Filled with costly obedience, surrendered life, and fruitful welcome that points beyond self to Jesus.</p>
         <div class="callout warning">
           <p><strong>Adventist guardrail:</strong> Sabbath language is protected as seventh-day/Saturday Sabbath. Obedience is framed as response to grace, not a way to earn God's love.</p>
         </div>
@@ -6951,10 +6956,31 @@
       </figure>
     </section>
 
+    <section class="wrap section" id="interior-finalization">
+      <div class="kicker">Interior finalization</div>
+      <h2>Front matter, back matter, and release dashboard</h2>
+      <p class="lead">The next KDP step now has a concrete interior finalization kit: standardized front/back matter templates for all three volumes, permissions and Sabbath guardrail notes, the remaining KDP upload gates, and a rich release dashboard separating completed artifacts from remaining release blockers.</p>
+      <div class="audit-grid">
+        <div class="audit"><h3>Front matter system</h3><p>Half-title, series page, title page, copyright, dedication, author welcome, how-to-use note, permissions note, Sabbath and grace note, reader orientation.</p></div>
+        <div class="audit"><h3>Back matter system</h3><p>Closing reflection, companion journal invitation, prayer for the next season, author bio, IDC Publishing note, series page, acknowledgments.</p></div>
+        <div class="audit"><h3>Release dashboard</h3><p>Live HTML status page showing what is complete and what still gates KDP upload readiness.</p></div>
+      </div>
+      <div class="downloads">
+        <a class="download" href="release-status.html">Open rich release readiness dashboard</a>
+        <a class="download" href="downloads/production/kdp/interior-finalization/Lady-D-KDP-Interior-Finalization-Kit.zip">Download KDP interior finalization kit</a>
+        <a class="download" href="downloads/production/kdp/interior-finalization/lady-d-kdp-interior-finalization-kit.md">Interior finalization kit MD</a>
+        <a class="download" href="downloads/production/kdp/interior-finalization/lady-d-kdp-interior-finalization-kit.docx">Interior finalization kit DOCX</a>
+        <a class="download" href="downloads/production/kdp/interior-finalization/lady-d-kdp-interior-finalization-kit.pdf">Interior finalization kit PDF</a>
+        <a class="download" href="downloads/production/kdp/interior-finalization/front-back-matter-template-volume-1.md">Volume 1 front/back matter template</a>
+        <a class="download" href="downloads/production/kdp/interior-finalization/front-back-matter-template-volume-2.md">Volume 2 front/back matter template</a>
+        <a class="download" href="downloads/production/kdp/interior-finalization/front-back-matter-template-volume-3.md">Volume 3 front/back matter template</a>
+      </div>
+    </section>
+
     <section class="wrap section" id="next">
       <div class="kicker">Next production loop</div>
       <h2>Continuing without stopping</h2>
-      <p class="lead">Volume 1, Volume 2, and Volume 3 day production are complete at 365 dated entries plus the February 29 bonus for each volume, and master manuscript/journal review assemblies now exist for all three books. The cover lane now has nine front-cover candidates, current KDP trim math, and first-pass Path-route full-wrap drafts. The next stage is trim-specific KDP design: standardize front/back matter, run final theological and copyedit passes, then regenerate upload-ready interiors and full-wrap covers after final page counts are locked.</p>
+      <p class="lead">Volume 1, Volume 2, and Volume 3 day production are complete at 365 dated entries plus the February 29 bonus for each volume, and master manuscript/journal review assemblies now exist for all three books. The cover lane now has nine front-cover candidates, current KDP trim math, first-pass Path-route full-wrap drafts, and an interior finalization kit. The next stage is final 6x9 interior design: build the Volume 1 upload-style template, render it, QA it, then apply the system across Volumes 2 and 3 plus the companion journals.</p>
       <div class="callout">
         <p><strong>Active production instruction:</strong> keep moving in seven-day manuscript batches, update the review site after meaningful completed artifacts, and preserve the Adventist theological guardrails throughout.</p>
       </div>

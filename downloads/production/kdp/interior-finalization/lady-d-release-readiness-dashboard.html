@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lady D Release Readiness Dashboard</title>
+  <style>
+    :root {
+      --ink: #111827;
+      --paper: #fffdf8;
+      --mist: #f5f2eb;
+      --indigo: #182646;
+      --teal: #1d716f;
+      --gold: #c99335;
+      --line: rgba(17, 24, 39, .14);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: linear-gradient(180deg, var(--paper), var(--mist));
+      line-height: 1.5;
+    }
+    header, main { max-width: 1180px; margin: 0 auto; padding: 34px 22px; }
+    h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; line-height: 1.05; margin: 0 0 14px; letter-spacing: 0; }
+    h1 { font-size: clamp(42px, 7vw, 84px); max-width: 960px; }
+    h2 { font-size: clamp(28px, 4vw, 48px); }
+    p { margin: 0 0 14px; }
+    .lead { font-size: clamp(18px, 2vw, 23px); max-width: 820px; color: #2e3746; }
+    .kicker { color: var(--teal); font-weight: 900; letter-spacing: .14em; text-transform: uppercase; font-size: 12px; margin-bottom: 14px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
+    .card, .panel {
+      border: 1px solid var(--line);
+      background: white;
+      border-radius: 8px;
+      padding: 18px;
+      box-shadow: 0 18px 50px rgba(24, 38, 70, .10);
+    }
+    .card span { color: var(--gold); font-size: 12px; font-weight: 900; text-transform: uppercase; letter-spacing: .12em; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+    .actions a {
+      display: inline-flex;
+      align-items: center;
+      min-height: 38px;
+      padding: 8px 11px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: var(--teal);
+      background: white;
+      font-size: 13px;
+      font-weight: 900;
+      text-decoration: none;
+    }
+    dl { margin: 16px 0 0; display: grid; gap: 10px; }
+    dt { font-weight: 900; color: var(--indigo); }
+    dd { margin: 0; color: #374151; }
+    section { border-top: 1px solid var(--line); padding: 34px 0; }
+    ul { margin: 0; padding-left: 22px; }
+    li { margin: 8px 0; }
+    .status { display: inline-block; background: var(--indigo); color: white; padding: 7px 10px; border-radius: 999px; font-size: 12px; font-weight: 900; }
+    a { color: var(--teal); text-underline-offset: 3px; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="kicker">IDC Publishing release dashboard</div>
+    <h1>Lady D Devotional Library release readiness</h1>
+    <p class="lead">The three devotional manuscripts are complete at the dated-entry level and now have master assemblies, companion journals, cover candidates, KDP trim math, full-wrap drafts, and interior finalization templates. This dashboard separates what is complete from what still gates true KDP upload readiness.</p>
+    <p><span class="status">Generated 2026-07-01</span> <span class="status">Base commit: acdcdb9</span></p>
+    <div class="actions">
+      <a href="production.html">Production Review</a>
+      <a href="downloads/production/kdp/interior-finalization/Lady-D-KDP-Interior-Finalization-Kit.zip">Interior Kit ZIP</a>
+      <a href="downloads/production/kdp/interior-finalization/lady-d-kdp-interior-finalization-kit.pdf">Interior Kit PDF</a>
+    </div>
+  </header>
+  <main>
+    <section>
+      <h2>Book Status</h2>
+      <div class="grid">
+        <article class="card">
+          <span>Volume 1</span>
+          <h3>Surrendering to God&#x27;s Love</h3>
+          <p>A 365-Day Devotional Journey into the Father&#x27;s Heart</p>
+          <p><strong>Lane:</strong> God the Father / love, identity, surrender, forgiveness, timing, daily trust</p>
+          <dl>
+            <div><dt>Manuscript</dt><dd>409 pages / 131,305 words</dd></div>
+            <div><dt>Journal</dt><dd>94 pages / 20,799 words</dd></div>
+            <div><dt>Status</dt><dd>Dated manuscript and journal review files are built. Final designed interior is still required.</dd></div>
+            <div><dt>White-paper cover</dt><dd>13.171 x 9.250 in</dd></div>
+            <div><dt>Cream-paper cover</dt><dd>13.273 x 9.250 in</dd></div>
+          </dl>
+        </article>
+
+        <article class="card">
+          <span>Volume 2</span>
+          <h3>Walking with Jesus</h3>
+          <p>A 365-Day Devotional Journey with the Son</p>
+          <p><strong>Lane:</strong> Jesus / discipleship, nearness, obedience, healing, following, abiding</p>
+          <dl>
+            <div><dt>Manuscript</dt><dd>350 pages / 98,804 words</dd></div>
+            <div><dt>Journal</dt><dd>81 pages / 18,940 words</dd></div>
+            <div><dt>Status</dt><dd>Dated manuscript and journal review files are built. Final designed interior is still required.</dd></div>
+            <div><dt>White-paper cover</dt><dd>13.038 x 9.250 in</dd></div>
+            <div><dt>Cream-paper cover</dt><dd>13.125 x 9.250 in</dd></div>
+          </dl>
+        </article>
+
+        <article class="card">
+          <span>Volume 3</span>
+          <h3>Filled with the Holy Spirit</h3>
+          <p>A 365-Day Devotional Journey of Power, Comfort, and Fire</p>
+          <p><strong>Lane:</strong> Holy Spirit / filling, comfort, conviction, gifts, fruit, rain, oil, breath</p>
+          <dl>
+            <div><dt>Manuscript</dt><dd>339 pages / 95,247 words</dd></div>
+            <div><dt>Journal</dt><dd>90 pages / 19,003 words</dd></div>
+            <div><dt>Status</dt><dd>Dated manuscript and journal review files are built. Final designed interior is still required.</dd></div>
+            <div><dt>White-paper cover</dt><dd>13.013 x 9.250 in</dd></div>
+            <div><dt>Cream-paper cover</dt><dd>13.098 x 9.250 in</dd></div>
+          </dl>
+        </article>
+        </div>
+    </section>
+    <section class="grid">
+      <div class="panel">
+        <h2>Finalized So Far</h2>
+        <ul><li>1,098 devotional day cards generated and live.</li><li>Three master manuscripts assembled in Markdown, DOCX, and PDF.</li><li>Three companion journals assembled in Markdown, DOCX, and PDF.</li><li>Nine 6 x 9 front-cover art candidates generated.</li><li>Path-route full-wrap draft covers generated for the three main manuscripts.</li><li>KDP trim and cover worksheet generated from official KDP guidance.</li><li>Interior finalization front/back matter templates created for all three volumes.</li></ul>
+      </div>
+      <div class="panel">
+        <h2>Remaining Gates Before KDP Upload</h2>
+        <ul><li>Final paper type and ISBN/barcode data.</li><li>Author-approved dedication, acknowledgments, and bio.</li><li>Final Bible translation permissions statement.</li><li>Final copyedit and theological proof pass.</li><li>Final designed 6 x 9 interiors with locked page counts.</li><li>Regenerated full-wrap covers from locked page counts.</li><li>KDP Previewer and physical proof review.</li></ul>
+      </div>
+      <div class="panel">
+        <h2>Guardrail Snapshot</h2>
+        <ul><li>Sabbath remains seventh-day/Saturday Sabbath throughout the release lane.</li><li>Obedience remains a response to God&#x27;s grace, not a method of earning God&#x27;s love.</li><li>Final copyedit and metadata must preserve the Adventist theological frame.</li><li>Scripture references may stay reference-only unless a final translation permission statement is added.</li></ul>
+      </div>
+    </section>
+    <section>
+      <h2>Active Recommendation</h2>
+      <p class="lead">Build the final Volume 1 6 x 9 interior template first, then apply the same design system to Volumes 2 and 3 and the companion journals. Do not mark any file as final upload-ready until KDP Previewer and physical proof review pass.</p>
+      <p><a href="production.html">Return to production review page</a></p>
+    </section>
+  </main>
+</body>
+</html>
