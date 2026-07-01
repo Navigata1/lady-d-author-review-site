@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Repo commit at generation: `6f208eb`
+Repo commit at generation: `33c58a1`
 
 Status: Production-planning kit. This is not a final KDP upload package.
 
@@ -29,7 +29,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - Path-route full-wrap draft pack for the three main manuscripts.
 - KDP trim and cover readiness worksheet.
 - Volume 1 6 x 9 interior prototype package for the first seven devotional entries.
-- Full Volume 1 6 x 9 interior review draft with all 366 entries.
+- Full 6 x 9 interior review drafts for Volumes 1, 2, and 3 with 366 entries each.
 - Public Vercel review page for author-facing review.
 
 ## Interior Finalization Deliverables In This Kit
@@ -108,4 +108,4 @@ Run three to seven passes depending on risk:
 
 ## Recommended Next Production Step
 
-Use the full Volume 1 6 x 9 interior review draft as the next copyedit and theological proof surface. Once Volume 1 is approved and page count is locked, regenerate its full-wrap cover, then apply the same interior system to Volumes 2 and 3 and the companion journals.
+Use the full 6 x 9 interior review drafts as the next trilogy-wide copyedit and theological proof surface. Once each devotional volume is approved and page counts are locked, regenerate the full-wrap covers, then apply the same interior rhythm to the companion journals.

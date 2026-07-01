@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the full Volume 1 6x9 interior draft package."""
+"""Build the full 6x9 interior draft packages for the Lady D trilogy."""
 
 from __future__ import annotations
 
@@ -21,18 +21,6 @@ from pypdf import PdfReader, PdfWriter
 
 ROOT = Path(__file__).resolve().parents[1]
 LIBRARY_ROOT = Path("/Users/IDC2.5/Documents/LADY D/Production Library")
-BOOK_ROOT = LIBRARY_ROOT / "01 Surrendering to God's Love"
-MASTER_MD = BOOK_ROOT / "06 Master Assembly" / "volume-1-master-interior-manuscript.md"
-TEMPLATE_MD = BOOK_ROOT / "06 Master Assembly" / "front-back-matter-template-volume-1.md"
-OUT = ROOT / "downloads" / "production" / "kdp" / "interior-drafts" / "volume-1"
-PUBLIC_OUT = ROOT / "public" / "downloads" / "production" / "kdp" / "interior-drafts" / "volume-1"
-SOURCE_PAGE = ROOT / "volume-1-full-interior-draft.html"
-PUBLIC_PAGE = ROOT / "public" / "volume-1-full-interior-draft.html"
-LIBRARY_OUT = BOOK_ROOT / "06 Master Assembly" / "Full Interior Draft"
-
-
-BOOK_TITLE = "Surrendering to God's Love"
-BOOK_SUBTITLE = "A 365-Day Devotional Journey into the Father's Heart"
 AUTHOR = 'Susan "Lady D" Damon'
 
 INK = RGBColor(31, 31, 31)
@@ -41,6 +29,53 @@ DEEP = RGBColor(41, 36, 34)
 RULE = RGBColor(149, 132, 99)
 SOFT = "F8F5EE"
 BOX = "EFE9DD"
+
+
+@dataclass(frozen=True)
+class BookConfig:
+    volume: int
+    folder: str
+    title: str
+    subtitle: str
+    lane_label: str
+
+
+BOOKS = [
+    BookConfig(
+        volume=1,
+        folder="01 Surrendering to God's Love",
+        title="Surrendering to God's Love",
+        subtitle="A 365-Day Devotional Journey into the Father's Heart",
+        lane_label="God the Father",
+    ),
+    BookConfig(
+        volume=2,
+        folder="02 Walking with Jesus",
+        title="Walking with Jesus",
+        subtitle="A 365-Day Devotional Journey with the Son",
+        lane_label="Jesus the Son",
+    ),
+    BookConfig(
+        volume=3,
+        folder="03 Filled with the Holy Spirit",
+        title="Filled with the Holy Spirit",
+        subtitle="A 365-Day Devotional Journey of Power, Comfort, and Fire",
+        lane_label="The Holy Spirit",
+    ),
+]
+
+
+ACTIVE_BOOK = BOOKS[0]
+BOOK_ROOT = LIBRARY_ROOT / ACTIVE_BOOK.folder
+MASTER_MD = BOOK_ROOT / "06 Master Assembly" / f"volume-{ACTIVE_BOOK.volume}-master-interior-manuscript.md"
+TEMPLATE_MD = BOOK_ROOT / "06 Master Assembly" / f"front-back-matter-template-volume-{ACTIVE_BOOK.volume}.md"
+OUT = ROOT / "downloads" / "production" / "kdp" / "interior-drafts" / f"volume-{ACTIVE_BOOK.volume}"
+PUBLIC_OUT = ROOT / "public" / "downloads" / "production" / "kdp" / "interior-drafts" / f"volume-{ACTIVE_BOOK.volume}"
+SOURCE_PAGE = ROOT / f"volume-{ACTIVE_BOOK.volume}-full-interior-draft.html"
+PUBLIC_PAGE = ROOT / "public" / f"volume-{ACTIVE_BOOK.volume}-full-interior-draft.html"
+LIBRARY_OUT = BOOK_ROOT / "06 Master Assembly" / "Full Interior Draft"
+BOOK_TITLE = ACTIVE_BOOK.title
+BOOK_SUBTITLE = ACTIVE_BOOK.subtitle
 
 
 @dataclass(frozen=True)
@@ -57,6 +92,23 @@ class Entry:
     prayer: str
     journal_prompt: str
     morning_impact: str
+
+
+def set_active_book(book: BookConfig) -> None:
+    global ACTIVE_BOOK, BOOK_ROOT, MASTER_MD, TEMPLATE_MD, OUT, PUBLIC_OUT
+    global SOURCE_PAGE, PUBLIC_PAGE, LIBRARY_OUT, BOOK_TITLE, BOOK_SUBTITLE
+
+    ACTIVE_BOOK = book
+    BOOK_ROOT = LIBRARY_ROOT / book.folder
+    MASTER_MD = BOOK_ROOT / "06 Master Assembly" / f"volume-{book.volume}-master-interior-manuscript.md"
+    TEMPLATE_MD = BOOK_ROOT / "06 Master Assembly" / f"front-back-matter-template-volume-{book.volume}.md"
+    OUT = ROOT / "downloads" / "production" / "kdp" / "interior-drafts" / f"volume-{book.volume}"
+    PUBLIC_OUT = ROOT / "public" / "downloads" / "production" / "kdp" / "interior-drafts" / f"volume-{book.volume}"
+    SOURCE_PAGE = ROOT / f"volume-{book.volume}-full-interior-draft.html"
+    PUBLIC_PAGE = ROOT / "public" / f"volume-{book.volume}-full-interior-draft.html"
+    LIBRARY_OUT = BOOK_ROOT / "06 Master Assembly" / "Full Interior Draft"
+    BOOK_TITLE = book.title
+    BOOK_SUBTITLE = book.subtitle
 
 
 def current_commit() -> str:
@@ -94,7 +146,7 @@ def fields_from_body(raw: str) -> tuple[dict[str, str], list[str], str]:
 def parse_entries() -> list[Entry]:
     text = MASTER_MD.read_text()
     heading_pattern = re.compile(
-        r"^## (?P<head>(?:Day (?P<day>\d{3}) - (?P<date>.+?))|(?:Bonus / Leap Day - (?P<bonus_date>.+?)))$",
+        r"^## (?P<head>(?:Day (?P<day>\d{3}) - (?P<date>.+?))|(?:Bonus(?: / Leap Day)? - (?P<bonus_date>.+?)))$",
         flags=re.M,
     )
     entries: list[Entry] = []
@@ -214,7 +266,7 @@ def setup_doc(doc: Document) -> None:
     section.header.paragraphs[0].text = BOOK_TITLE
     section.header.paragraphs[0].alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_font(section.header.paragraphs[0].runs[0], size=7.4, color=MUTED, italic=True)
-    section.footer.paragraphs[0].text = "Volume 1 Full Interior Draft - not final KDP upload file"
+    section.footer.paragraphs[0].text = f"Volume {ACTIVE_BOOK.volume} Full Interior Draft - not final KDP upload file"
     section.footer.paragraphs[0].alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_font(section.footer.paragraphs[0].runs[0], size=7.2, color=MUTED)
 
@@ -342,7 +394,7 @@ def add_back_matter(doc: Document, entries: list[Entry]) -> None:
     doc.add_heading("Draft Back Matter", level=1)
     add_para(
         doc,
-        f"This full interior draft flows {len(entries)} Volume 1 entries through the selected 6 x 9 design rhythm. It is intended for author, editorial, theological, and production review before final KDP upload preparation.",
+        f"This full interior draft flows {len(entries)} Volume {ACTIVE_BOOK.volume} entries through the selected 6 x 9 design rhythm. It is intended for author, editorial, theological, and production review before final KDP upload preparation.",
     )
     doc.add_heading("Before Final Interior Lock", level=2)
     for item in [
@@ -369,7 +421,7 @@ def build_docx(entries: list[Entry]) -> Path:
         add_entry(doc, entry)
     add_back_matter(doc, entries)
     OUT.mkdir(parents=True, exist_ok=True)
-    out = OUT / "volume-1-full-6x9-interior-draft.docx"
+    out = OUT / f"volume-{ACTIVE_BOOK.volume}-full-6x9-interior-draft.docx"
     doc.save(out)
     return out
 
@@ -416,7 +468,7 @@ def summary_markdown(entries: list[Entry], commit: str, page_count: int | None =
     ]
     rows = "\n".join(f"| {name} | {count} |" for name, count in months)
     page_line = f"- Rendered PDF pages: {page_count}" if page_count else "- Rendered PDF pages: generated during QA"
-    return f"""# Volume 1 Full 6x9 Interior Draft
+    return f"""# Volume {ACTIVE_BOOK.volume} Full 6x9 Interior Draft
 
 Generated: 2026-07-01
 
@@ -444,7 +496,7 @@ Status: Full review draft. This is not a final KDP upload file.
 ## Judge And Auditor Loop Applied
 
 1. Editorial judge: preserve devotional warmth, morning practicality, and Lady D voice.
-2. Theological auditor: preserve Father-love, grace-before-performance, and Adventist Sabbath frame.
+2. Theological auditor: preserve the {ACTIVE_BOOK.lane_label} devotional lane, grace-before-performance, and Adventist Sabbath frame.
 3. Production auditor: 6 x 9 trim, no-bleed interior, exact 432 x 648 pt PDF page boxes.
 4. Permissions auditor: keep Scripture references without full quotation text.
 5. Release auditor: mark full draft status clearly and block final-upload language.
@@ -471,7 +523,7 @@ def audit_markdown(entries: list[Entry], page_count: int) -> str:
             value = getattr(entry, field)
             if not value:
                 missing.append(f"{entry.label} {entry.date}: {field}")
-    return f"""# Volume 1 Full Interior Draft Audit
+    return f"""# Volume {ACTIVE_BOOK.volume} Full Interior Draft Audit
 
 Generated: 2026-07-01
 
@@ -504,6 +556,14 @@ Pass for full-draft publication to the author-facing review site.
 
 
 def review_html(entries: list[Entry], commit: str, page_count: int) -> str:
+    volume = ACTIVE_BOOK.volume
+    volume_dir = f"volume-{volume}"
+    title = html.escape(BOOK_TITLE)
+    docx_name = f"volume-{volume}-full-6x9-interior-draft.docx"
+    pdf_name = f"volume-{volume}-full-6x9-interior-draft.pdf"
+    notes_name = f"volume-{volume}-full-6x9-interior-draft.md"
+    audit_name = f"volume-{volume}-full-6x9-interior-draft-audit.md"
+    zip_name = f"Lady-D-Volume-{volume}-Full-Interior-Draft-Pack.zip"
     month_counts: dict[str, int] = {}
     for entry in entries:
         month = "Leap Day" if entry.date == "February 29" else entry.date.split()[0]
@@ -541,7 +601,8 @@ def review_html(entries: list[Entry], commit: str, page_count: int) -> str:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Volume 1 Full 6x9 Interior Draft - Lady D</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23182646'/%3E%3Ctext x='50%25' y='55%25' dominant-baseline='middle' text-anchor='middle' font-family='Georgia,serif' font-size='26' fill='%23fffdf8'%3ELD%3C/text%3E%3C/svg%3E">
+  <title>Volume {volume} Full 6x9 Interior Draft - Lady D</title>
   <style>
     :root {{
       --ink: #171717;
@@ -578,15 +639,18 @@ def review_html(entries: list[Entry], commit: str, page_count: int) -> str:
 <body>
   <nav aria-label="Full draft navigation">
     <a href="production.html">Production Review</a>
+    <a href="volume-1-full-interior-draft.html">Volume 1 Draft</a>
+    <a href="volume-2-full-interior-draft.html">Volume 2 Draft</a>
+    <a href="volume-3-full-interior-draft.html">Volume 3 Draft</a>
     <a href="volume-1-interior-prototype.html">V1 Prototype</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#downloads">Downloads</a>
     <a href="#coverage">Coverage</a>
   </nav>
   <header>
-    <div class="kicker">Volume 1 full interior draft</div>
-    <h1>Full 6x9 interior draft for <em>Surrendering to God's Love</em></h1>
-    <p class="lead">All 365 dated entries plus the February 29 bonus have now been flowed through the Volume 1 6x9 interior system for author, editorial, theological, and production review.</p>
+    <div class="kicker">Volume {volume} full interior draft</div>
+    <h1>Full 6x9 interior draft for <em>{title}</em></h1>
+    <p class="lead">All 365 dated entries plus the February 29 bonus have now been flowed through the Volume {volume} 6x9 interior system for author, editorial, theological, and production review.</p>
     <div class="status">
       <p><strong>Status:</strong> Full review draft ready. Not final KDP upload file.</p>
       <p><strong>Base commit:</strong> {html.escape(commit)}</p>
@@ -599,11 +663,11 @@ def review_html(entries: list[Entry], commit: str, page_count: int) -> str:
     <section id="downloads">
       <h2>Full Draft Downloads</h2>
       <div class="grid">
-        <a class="download" href="downloads/production/kdp/interior-drafts/volume-1/Lady-D-Volume-1-Full-Interior-Draft-Pack.zip">Download full draft pack</a>
-        <a class="download" href="downloads/production/kdp/interior-drafts/volume-1/volume-1-full-6x9-interior-draft.docx">Download DOCX draft</a>
-        <a class="download" href="downloads/production/kdp/interior-drafts/volume-1/volume-1-full-6x9-interior-draft.pdf">Download PDF draft</a>
-        <a class="download" href="downloads/production/kdp/interior-drafts/volume-1/volume-1-full-6x9-interior-draft.md">Download draft notes</a>
-        <a class="download" href="downloads/production/kdp/interior-drafts/volume-1/volume-1-full-6x9-interior-draft-audit.md">Download draft audit</a>
+        <a class="download" href="downloads/production/kdp/interior-drafts/{volume_dir}/{zip_name}">Download full draft pack</a>
+        <a class="download" href="downloads/production/kdp/interior-drafts/{volume_dir}/{docx_name}">Download DOCX draft</a>
+        <a class="download" href="downloads/production/kdp/interior-drafts/{volume_dir}/{pdf_name}">Download PDF draft</a>
+        <a class="download" href="downloads/production/kdp/interior-drafts/{volume_dir}/{notes_name}">Download draft notes</a>
+        <a class="download" href="downloads/production/kdp/interior-drafts/{volume_dir}/{audit_name}">Download draft audit</a>
       </div>
     </section>
     <section id="coverage">
@@ -644,7 +708,7 @@ def pdf_page_count(pdf_path: Path) -> int:
 
 
 def make_zip(paths: list[Path]) -> Path:
-    zip_path = OUT / "Lady-D-Volume-1-Full-Interior-Draft-Pack.zip"
+    zip_path = OUT / f"Lady-D-Volume-{ACTIVE_BOOK.volume}-Full-Interior-Draft-Pack.zip"
     with zipfile.ZipFile(zip_path, "w", compression=zipfile.ZIP_DEFLATED) as zf:
         for path in paths:
             zf.write(path, path.name)
@@ -659,8 +723,8 @@ def sync(paths: list[Path]) -> None:
         shutil.copy2(path, LIBRARY_OUT / path.name)
 
 
-def main() -> None:
-    commit = current_commit()
+def build_book(book: BookConfig, commit: str) -> dict[str, str | int]:
+    set_active_book(book)
     entries = parse_entries()
     if len(entries) != 366:
         raise SystemExit(f"expected 366 entries including leap day, found {len(entries)}")
@@ -675,9 +739,9 @@ def main() -> None:
     pdf_path = convert_pdf(docx_path)
     page_count = pdf_page_count(pdf_path)
 
-    notes_path = OUT / "volume-1-full-6x9-interior-draft.md"
-    audit_path = OUT / "volume-1-full-6x9-interior-draft-audit.md"
-    review_path = OUT / "volume-1-full-6x9-interior-draft-review.html"
+    notes_path = OUT / f"volume-{ACTIVE_BOOK.volume}-full-6x9-interior-draft.md"
+    audit_path = OUT / f"volume-{ACTIVE_BOOK.volume}-full-6x9-interior-draft-audit.md"
+    review_path = OUT / f"volume-{ACTIVE_BOOK.volume}-full-6x9-interior-draft-review.html"
     write_text(notes_path, summary_markdown(entries, commit, page_count))
     write_text(audit_path, audit_markdown(entries, page_count))
     write_text(review_path, review_html(entries, commit, page_count))
@@ -687,16 +751,21 @@ def main() -> None:
     sync(paths + [zip_path])
     shutil.copy2(review_path, SOURCE_PAGE)
     shutil.copy2(review_path, PUBLIC_PAGE)
-    print(
-        {
-            "entries": len(entries),
-            "pages": page_count,
-            "docx": str(docx_path.relative_to(ROOT)),
-            "pdf": str(pdf_path.relative_to(ROOT)),
-            "review": str(SOURCE_PAGE.relative_to(ROOT)),
-            "zip": str(zip_path.relative_to(ROOT)),
-        }
-    )
+    return {
+        "volume": ACTIVE_BOOK.volume,
+        "entries": len(entries),
+        "pages": page_count,
+        "docx": str(docx_path.relative_to(ROOT)),
+        "pdf": str(pdf_path.relative_to(ROOT)),
+        "review": str(SOURCE_PAGE.relative_to(ROOT)),
+        "zip": str(zip_path.relative_to(ROOT)),
+    }
+
+
+def main() -> None:
+    commit = current_commit()
+    results = [build_book(book, commit) for book in BOOKS]
+    print(results)
 
 
 if __name__ == "__main__":

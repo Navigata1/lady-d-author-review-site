@@ -188,7 +188,7 @@ def build_docx() -> Path:
         "Nine 6 x 9 front-cover candidates and first-pass Path-route full-wrap drafts.",
         "KDP trim and cover readiness worksheet generated from current official KDP guidance.",
         "Volume 1 6 x 9 interior prototype package generated for the first seven devotional entries.",
-        "Full Volume 1 6 x 9 interior review draft generated with all 366 entries.",
+        "Full 6 x 9 interior review drafts generated for Volumes 1, 2, and 3 with 366 entries each.",
         "Public Vercel review page for author-facing review.",
     ]:
         add_bullet(doc, item)
@@ -253,7 +253,7 @@ def build_docx() -> Path:
         "Final author bio, dedication, acknowledgments, and ISBN.",
         "Final Bible permissions statement.",
         "Final copyedit of all three manuscripts and journals.",
-        "Full 6 x 9 designed interiors with locked page counts.",
+        "Final copyedited 6 x 9 interiors with locked page counts.",
         "Regenerated full-wrap covers from final page counts.",
         "KDP Previewer pass for each upload file.",
         "Physical proof review before public release.",
@@ -262,7 +262,7 @@ def build_docx() -> Path:
 
     doc.add_heading("Recommended Next Production Step", level=1)
     doc.add_paragraph(
-        "Use the full Volume 1 6 x 9 interior review draft as the next copyedit and theological proof surface. Once Volume 1 is approved and page count is locked, regenerate its full-wrap cover, then apply the same interior system to Volumes 2 and 3 and the companion journals."
+        "Use the full 6 x 9 interior review drafts as the next trilogy-wide copyedit and theological proof surface. Once each devotional volume is approved and page counts are locked, regenerate the full-wrap covers, then apply the same interior rhythm to the companion journals."
     )
 
     footer = doc.sections[0].footer.paragraphs[0]

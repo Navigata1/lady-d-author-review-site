@@ -1,4 +1,4 @@
-# Volume 1 Full 6x9 Interior Draft
+# Volume 2 Full 6x9 Interior Draft
 
 Generated: 2026-07-01
 
@@ -8,14 +8,14 @@ Status: Full review draft. This is not a final KDP upload file.
 
 ## Book
 
-- Title: Surrendering to God's Love
-- Subtitle: A 365-Day Devotional Journey into the Father's Heart
+- Title: Walking with Jesus
+- Subtitle: A 365-Day Devotional Journey with the Son
 - Author: Susan "Lady D" Damon
 - Trim: 6 x 9 inches, no bleed interior draft
 - Entries: 366 including February 29 bonus
 - Rendered PDF pages: 369
-- Source: `/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/06 Master Assembly/volume-1-master-interior-manuscript.md`
-- Front/back matter source: `/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/06 Master Assembly/front-back-matter-template-volume-1.md`
+- Source: `/Users/IDC2.5/Documents/LADY D/Production Library/02 Walking with Jesus/06 Master Assembly/volume-2-master-interior-manuscript.md`
+- Front/back matter source: `/Users/IDC2.5/Documents/LADY D/Production Library/02 Walking with Jesus/06 Master Assembly/front-back-matter-template-volume-2.md`
 
 ## Month Coverage
 
@@ -38,7 +38,7 @@ Status: Full review draft. This is not a final KDP upload file.
 ## Judge And Auditor Loop Applied
 
 1. Editorial judge: preserve devotional warmth, morning practicality, and Lady D voice.
-2. Theological auditor: preserve the God the Father devotional lane, grace-before-performance, and Adventist Sabbath frame.
+2. Theological auditor: preserve the Jesus the Son devotional lane, grace-before-performance, and Adventist Sabbath frame.
 3. Production auditor: 6 x 9 trim, no-bleed interior, exact 432 x 648 pt PDF page boxes.
 4. Permissions auditor: keep Scripture references without full quotation text.
 5. Release auditor: mark full draft status clearly and block final-upload language.

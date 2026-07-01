@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Base commit: `6f208eb`
+Base commit: `33c58a1`
 
 Status: Full review draft. This is not a final KDP upload file.
 
@@ -38,7 +38,7 @@ Status: Full review draft. This is not a final KDP upload file.
 ## Judge And Auditor Loop Applied
 
 1. Editorial judge: preserve devotional warmth, morning practicality, and Lady D voice.
-2. Theological auditor: preserve Father-love, grace-before-performance, and Adventist Sabbath frame.
+2. Theological auditor: preserve the God the Father devotional lane, grace-before-performance, and Adventist Sabbath frame.
 3. Production auditor: 6 x 9 trim, no-bleed interior, exact 432 x 648 pt PDF page boxes.
 4. Permissions auditor: keep Scripture references without full quotation text.
 5. Release auditor: mark full draft status clearly and block final-upload language.

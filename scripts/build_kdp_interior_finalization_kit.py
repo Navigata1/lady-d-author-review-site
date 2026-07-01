@@ -229,7 +229,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - Path-route full-wrap draft pack for the three main manuscripts.
 - KDP trim and cover readiness worksheet.
 - Volume 1 6 x 9 interior prototype package for the first seven devotional entries.
-- Full Volume 1 6 x 9 interior review draft with all 366 entries.
+- Full 6 x 9 interior review drafts for Volumes 1, 2, and 3 with 366 entries each.
 - Public Vercel review page for author-facing review.
 
 ## Interior Finalization Deliverables In This Kit
@@ -306,7 +306,7 @@ Run three to seven passes depending on risk:
 
 ## Recommended Next Production Step
 
-Use the full Volume 1 6 x 9 interior review draft as the next copyedit and theological proof surface. Once Volume 1 is approved and page count is locked, regenerate its full-wrap cover, then apply the same interior system to Volumes 2 and 3 and the companion journals.
+Use the full 6 x 9 interior review drafts as the next trilogy-wide copyedit and theological proof surface. Once each devotional volume is approved and page counts are locked, regenerate the full-wrap covers, then apply the same interior rhythm to the companion journals.
 """
 
 
@@ -321,7 +321,7 @@ def dashboard_html(commit: str) -> str:
           <dl>
             <div><dt>Manuscript</dt><dd>{b.manuscript_pages} pages / {b.manuscript_words:,} words</dd></div>
             <div><dt>Journal</dt><dd>{b.journal_pages} pages / {b.journal_words:,} words</dd></div>
-            <div><dt>Status</dt><dd>Dated manuscript and journal review files are built. Final designed interior is still required.</dd></div>
+            <div><dt>Status</dt><dd>Dated manuscript, journal review files, and full 6 x 9 interior review draft are built. Final copyedited upload file is still required.</dd></div>
             <div><dt>White-paper cover</dt><dd>{b.cover_width_white}</dd></div>
             <div><dt>Cream-paper cover</dt><dd>{b.cover_width_cream}</dd></div>
           </dl>
@@ -337,7 +337,7 @@ def dashboard_html(commit: str) -> str:
         "Path-route full-wrap draft covers generated for the three main manuscripts.",
         "KDP trim and cover worksheet generated from official KDP guidance.",
         "Volume 1 6 x 9 interior prototype package generated for the first seven devotional entries.",
-        "Full Volume 1 6 x 9 interior review draft generated with all 366 entries.",
+        "Full 6 x 9 interior review drafts generated for Volumes 1, 2, and 3 with 366 entries each.",
         "Interior finalization front/back matter templates created for all three volumes.",
     ]
     remaining = [
@@ -345,7 +345,7 @@ def dashboard_html(commit: str) -> str:
         "Author-approved dedication, acknowledgments, and bio.",
         "Final Bible translation permissions statement.",
         "Final copyedit and theological proof pass.",
-        "Full designed 6 x 9 interiors with locked page counts.",
+        "Final copyedited 6 x 9 interiors with locked page counts.",
         "Regenerated full-wrap covers from locked page counts.",
         "KDP Previewer and physical proof review.",
     ]
@@ -363,6 +363,7 @@ def dashboard_html(commit: str) -> str:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23182646'/%3E%3Ctext x='50%25' y='55%25' dominant-baseline='middle' text-anchor='middle' font-family='Georgia,serif' font-size='26' fill='%23fffdf8'%3ELD%3C/text%3E%3C/svg%3E">
   <title>Lady D Release Readiness Dashboard</title>
   <style>
     :root {{
@@ -426,12 +427,14 @@ def dashboard_html(commit: str) -> str:
   <header>
     <div class="kicker">IDC Publishing release dashboard</div>
     <h1>Lady D Devotional Library release readiness</h1>
-    <p class="lead">The three devotional manuscripts are complete at the dated-entry level and now have master assemblies, companion journals, cover candidates, KDP trim math, full-wrap drafts, interior finalization templates, the first Volume 1 6 x 9 interior prototype, and the full Volume 1 6 x 9 interior review draft. This dashboard separates what is complete from what still gates true KDP upload readiness.</p>
+    <p class="lead">The three devotional manuscripts are complete at the dated-entry level and now have master assemblies, companion journals, cover candidates, KDP trim math, full-wrap drafts, interior finalization templates, the first Volume 1 6 x 9 interior prototype, and full 6 x 9 interior review drafts for all three devotional volumes. This dashboard separates what is complete from what still gates true KDP upload readiness.</p>
     <p><span class="status">Generated 2026-07-01</span> <span class="status">Base commit: {html.escape(commit)}</span></p>
     <div class="actions">
       <a href="production.html">Production Review</a>
       <a href="volume-1-interior-prototype.html">Volume 1 Interior Prototype</a>
       <a href="volume-1-full-interior-draft.html">Volume 1 Full Draft</a>
+      <a href="volume-2-full-interior-draft.html">Volume 2 Full Draft</a>
+      <a href="volume-3-full-interior-draft.html">Volume 3 Full Draft</a>
       <a href="downloads/production/kdp/interior-finalization/Lady-D-KDP-Interior-Finalization-Kit.zip">Interior Kit ZIP</a>
       <a href="downloads/production/kdp/interior-finalization/lady-d-kdp-interior-finalization-kit.pdf">Interior Kit PDF</a>
     </div>
@@ -457,7 +460,7 @@ def dashboard_html(commit: str) -> str:
     </section>
     <section>
       <h2>Active Recommendation</h2>
-      <p class="lead">Use the full Volume 1 6 x 9 interior review draft as the next copyedit and theological proof surface. Do not mark any file as final upload-ready until KDP Previewer and physical proof review pass.</p>
+      <p class="lead">Use the three full 6 x 9 interior review drafts as the next copyedit and theological proof surface. Do not mark any file as final upload-ready until KDP Previewer and physical proof review pass.</p>
       <p><a href="production.html">Return to production review page</a></p>
     </section>
   </main>
