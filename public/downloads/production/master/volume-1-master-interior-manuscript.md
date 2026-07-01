@@ -1852,7 +1852,7 @@ You are not loved because you have never resisted. You are loved by the Father w
 
 **Journal prompt:** Where has pressure made me stiff, and how can I invite the Father into that place honestly?
 
-**Morning impact:** Let the Father's love carry Discover the Heart That Calls You into one faithful step today.
+**Morning impact:** Bring the stiff place into prayer today; the Father can forgive, remain near, and make you His own.
 
 ---
 
@@ -1880,7 +1880,7 @@ Do not assume the season is empty because it is quiet. The Father knows how to p
 
 **Journal prompt:** What ordinary responsibility might be a place of preparation rather than a place of delay?
 
-**Morning impact:** Let the Father's love carry Receive Love That Sends You into one faithful step today.
+**Morning impact:** Tend the ordinary work in front of you today; the Father can make quiet wilderness ground holy.
 
 ---
 
@@ -1908,7 +1908,7 @@ When you do not know what to say next, begin where Moses begins. Ask the Father 
 
 **Journal prompt:** Where am I trying to carry responsibility before receiving what God has revealed?
 
-**Morning impact:** Let the Father's love carry Trust Covenant Mercy into one faithful step today.
+**Morning impact:** Receive the true word before the hard room today; covenant mercy can steady what you carry.
 
 ---
 
@@ -1936,7 +1936,7 @@ You can face today's demand from a longer memory. Let the name of the Lord answe
 
 **Journal prompt:** What part of God's past faithfulness needs to speak into my present struggle?
 
-**Morning impact:** Let the Father's love carry Let Hope Rise the Father's Welcome into one faithful step today.
+**Morning impact:** Let God's longer faithfulness answer today's narrow fear; His name still holds more than this moment.
 
 ---
 
@@ -1964,7 +1964,7 @@ You are not abandoned because the season has been hard. The God who sees can als
 
 **Journal prompt:** What part of my story needs to be brought under the Father's seeing instead of carried alone?
 
-**Morning impact:** Let the Father's love carry Carry Beloved Identity into one faithful step today.
+**Morning impact:** Let the Father's seeing rename one bruised place today; what happened to you is not your final name.
 
 ---
 
@@ -1992,7 +1992,7 @@ Do not despise the pause. A surrendered pause can become the doorway to obedienc
 
 **Journal prompt:** What holy interruption might I miss if I keep moving at the pace of worry?
 
-**Morning impact:** Let the Father's love carry Lean Into Love That Finds You into one faithful step today.
+**Morning impact:** Turn aside before hurry takes over today; love may be calling your name in the pause.
 
 ---
 
@@ -2020,7 +2020,7 @@ The Father who calls you is holy, faithful, and near. Let awe quiet the need to 
 
 **Journal prompt:** Where do I need reverent awe to free me from performing for acceptance?
 
-**Morning impact:** Let the Father's love carry See Again Grace Before Striving into one faithful step today.
+**Morning impact:** Rest this Saturday before the holy God who calls you; grace can quiet the need to perform.
 
 ---
 

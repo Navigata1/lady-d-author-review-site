@@ -690,6 +690,80 @@ BATCHES = {
             "volume-1-leap-day-and-days-060-066-audit.md",
         ),
     ),
+    "volume-1-days-067-073": Batch(
+        key="volume-1-days-067-073",
+        scope="Volume 1 Days 067-073",
+        title="Volume 1 Days 067-073 Line Edit",
+        intro=(
+            "The second March week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "honest confession, ordinary faithfulness, covenant mercy, God's "
+            "long memory, beloved identity, holy attention, and Saturday Sabbath "
+            "worship before performance."
+        ),
+        source_name="volume-1-days-067-073-manuscript.md",
+        public_page_name="volume-1-days-067-073-line-edit.html",
+        output_slug="volume-1-days-067-073-line-edit",
+        zip_name="Lady-D-Volume-1-Days-067-073-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 03 - March" / "Days 067-073 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 067-073",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 067",
+                "Let the Father's love carry Discover the Heart That Calls You into one faithful step today.",
+                "Bring the stiff place into prayer today; the Father can forgive, remain near, and make you His own.",
+                "Keeps Moses' honest confession and God's nearness concrete without excusing stubbornness.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 068",
+                "Let the Father's love carry Receive Love That Sends You into one faithful step today.",
+                "Tend the ordinary work in front of you today; the Father can make quiet wilderness ground holy.",
+                "Turns Moses' ordinary shepherding place into a practical faithfulness step.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 069",
+                "Let the Father's love carry Trust Covenant Mercy into one faithful step today.",
+                "Receive the true word before the hard room today; covenant mercy can steady what you carry.",
+                "Preserves the name-and-sending lens while grounding responsibility in received revelation.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 070",
+                "Let the Father's love carry Let Hope Rise the Father's Welcome into one faithful step today.",
+                "Let God's longer faithfulness answer today's narrow fear; His name still holds more than this moment.",
+                "Keeps the generation-to-generation covenant memory as the answer to a pressured horizon.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 071",
+                "Let the Father's love carry Carry Beloved Identity into one faithful step today.",
+                "Let the Father's seeing rename one bruised place today; what happened to you is not your final name.",
+                "Connects beloved identity to God's attention without denying the reality of harm.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 072",
+                "Let the Father's love carry Lean Into Love That Finds You into one faithful step today.",
+                "Turn aside before hurry takes over today; love may be calling your name in the pause.",
+                "Keeps the burning-bush attention theme small, memorable, and practical.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 073",
+                "Let the Father's love carry See Again Grace Before Striving into one faithful step today.",
+                "Rest this Saturday before the holy God who calls you; grace can quiet the need to perform.",
+                "Preserves seventh-day Sabbath rest and grace-before-performance without making holiness casual.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-march-week-2-companion-journal.md",
+            "volume-1-days-067-073-audit.md",
+        ),
+    ),
 }
 
 
@@ -1179,6 +1253,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-046-052-line-edit.html">Days 046-052</a>
     <a href="volume-1-days-053-059-line-edit.html">Days 053-059</a>
     <a href="volume-1-leap-day-and-days-060-066-line-edit.html">Leap + 060-066</a>
+    <a href="volume-1-days-067-073-line-edit.html">Days 067-073</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -1282,7 +1357,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-leap-day-and-days-060-066")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-067-073")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

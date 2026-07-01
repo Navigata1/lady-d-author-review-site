@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "c500c77",
+  "commit": "245a378",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369473,
+    "words": 369487,
     "placeholders": 0,
     "sunday_mentions": 0,
     "sabbath_mentions": 1300,
-    "saturday_mentions": 203,
+    "saturday_mentions": 204,
     "works_watch_contexts": 356,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128185,
+      "words": 128199,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -36,7 +36,7 @@
       "placeholders": 0,
       "sunday_mentions": 0,
       "sabbath_mentions": 280,
-      "saturday_mentions": 64,
+      "saturday_mentions": 65,
       "works_watch_contexts": 209,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
@@ -647,7 +647,7 @@
       "kind": "Devotional",
       "term": "Performance",
       "line": 2001,
-      "snippet": "'s love carry Lean Into Love That Finds You into one faithful step today. --- ## Day 073 - March 14 ### See Again Grace Before Performance **Scripture Reference:** Exodus 3:6 **Context and language lens:** `anokhi/Elohei-avikha/panim/yare/nabat` - I am, God of your",
+      "snippet": "efore hurry takes over today; love may be calling your name in the pause. --- ## Day 073 - March 14 ### See Again Grace Before Performance **Scripture Reference:** Exodus 3:6 **Context and language lens:** `anokhi/Elohei-avikha/panim/yare/nabat` - I am, God of your",
       "preliminary_read": "likely grace-aligned"
     },
     {

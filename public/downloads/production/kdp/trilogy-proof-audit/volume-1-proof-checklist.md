@@ -6,7 +6,7 @@ Generated: 2026-07-01
 
 | Product | Type | Words | Structure | Watch contexts |
 | --- | --- | ---: | --- | ---: |
-| Surrendering to God's Love | Devotional | 128,185 | pass | 209 |
+| Surrendering to God's Love | Devotional | 128,199 | pass | 209 |
 | Surrendering to God's Love Companion Journal | Companion Journal | 19,854 | review | 47 |
 
 ## Checklist
