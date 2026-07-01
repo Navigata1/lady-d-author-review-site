@@ -30,7 +30,7 @@ Today, receive courage as part of surrender. Surrender is not always lying down.
 
 **Journal prompt:** Where have I mistaken fear for humility when God is actually asking me to stand?
 
-**Morning impact:** Let the Father's love carry Stand in Restoring Compassion into one faithful step today.
+**Morning impact:** Stand where fear once made you shrink; the Father's compassion can make courage tender today.
 
 ---
 
@@ -56,7 +56,7 @@ Today, let grace form trust. Do not treat the promise of God as something fragil
 
 **Journal prompt:** What past mercy do I need to remember so I can trust God in the present?
 
-**Morning impact:** Let the Father's love carry Let Grace Form the Promise That Holds into one faithful step today.
+**Morning impact:** Carry one remembered mercy into today, and let grace hold what your feelings cannot.
 
 ---
 
@@ -82,7 +82,7 @@ This kind of surrender is not legalism. It is love becoming whole. The Father is
 
 **Journal prompt:** What part of my life is easiest to keep religiously separate from God?
 
-**Morning impact:** Let the Father's love carry Behold the Heart That Calls You into one faithful step today.
+**Morning impact:** Bring God one divided place today; whole-hearted love begins with honest surrender.
 
 ---
 
@@ -108,7 +108,7 @@ Do not confuse being loved with being left unchanged. The Father loves too deepl
 
 **Journal prompt:** What act of obedience have I resisted because I misunderstood it as pressure instead of love?
 
-**Morning impact:** Let the Father's love carry Follow Love That Sends You into one faithful step today.
+**Morning impact:** Let one act of obedience make love visible before the day gets away from you.
 
 ---
 
@@ -134,7 +134,7 @@ The Father is not only interested in what He can put in your hands. He is formin
 
 **Journal prompt:** What blessing have I minimized because it did not look like the answer I expected?
 
-**Morning impact:** Let the Father's love carry Rest in Covenant Mercy into one faithful step today.
+**Morning impact:** Rest in a mercy you cannot manufacture, and thank the Father for a blessing you nearly overlooked.
 
 ---
 
@@ -160,7 +160,7 @@ If yesterday felt like a battle, begin again here: the Father still leads the re
 
 **Journal prompt:** Where do I need to live more like someone God is actively leading, not merely someone who survived?
 
-**Morning impact:** Let the Father's love carry Wake Up to the Father's Welcome into one faithful step today.
+**Morning impact:** Step like someone being led, not merely someone who survived the last battle.
 
 ---
 
@@ -186,4 +186,4 @@ Let the Father's love refine your identity today. You are not less beloved when 
 
 **Journal prompt:** Where have I confused correction with rejection?
 
-**Morning impact:** Let the Father's love carry Let Fire Refine Beloved Identity into one faithful step today.
+**Morning impact:** Receive correction without shame; holy love is refining what already belongs to the Father.
