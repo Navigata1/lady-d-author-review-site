@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 22:12
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses God's interrupting command, Abraham's reverence, and the spared son because the verse centers on divine patience stopping the crisis before harm defines the story.
+**Context and language lens:** God's interrupting command, Abraham's reverence, and the spared son because the verse centers on divine patience stopping the crisis before harm defines the story.
 
 The Father's patience knows when to interrupt. Genesis 22:12 brings the story from the edge into God's merciful halt. Abraham has reached the place of testing, but God does not let the raised hand have the last word. The voice of heaven stops what should not continue.
 
@@ -44,7 +44,7 @@ The Father can anchor you before fear finishes the sentence.
 
 **Scripture Reference:** Genesis 22:13
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses the ram God provides after Abraham lifts his eyes because the verse centers on God-given provision replacing fear's imagined ending.
+**Context and language lens:** The ram God provides after Abraham lifts his eyes because the verse centers on God-given provision replacing fear's imagined ending.
 
 Love stronger than fear often begins when God helps the heart look again. Genesis 22:13 shows Abraham lifting his eyes and seeing provision he did not manufacture. The answer is not produced by force. It is received from the God who sees the whole mountain.
 
@@ -74,7 +74,7 @@ Love in relationships becomes braver when provision belongs to God.
 
 **Scripture Reference:** Genesis 22:16
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses God's oath-bound word after the test because the verse centers on divine faithfulness restoring the narrative after the crisis.
+**Context and language lens:** God's oath-bound word after the test because the verse centers on divine faithfulness restoring the narrative after the crisis.
 
 Restoring compassion speaks after the crisis, not only before it. Genesis 22:16 brings God's solemn word into the aftermath of the test. The story does not end with Abraham trying to explain himself. God speaks. The Father steadies the future by His own faithfulness.
 
@@ -106,7 +106,7 @@ The Father can restore the room after the test has passed.
 
 **Scripture Reference:** Genesis 22:17
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses God's promised blessing and multiplication because the verse centers on the heart learning to rest under a promise larger than the visible moment.
+**Context and language lens:** God's promised blessing and multiplication because the verse centers on the heart learning to rest under a promise larger than the visible moment.
 
 The promise that holds is larger than the day that tested you. Genesis 22:17 turns the reader toward God's blessing and future fruitfulness. The same story that held trembling obedience now hears a promise that stretches beyond Abraham's immediate sight.
 
@@ -136,7 +136,7 @@ On this Sabbath, let the promise hold you before you try to hold everything else
 
 **Scripture Reference:** Genesis 22:18
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses God's promise that blessing will reach beyond Abraham's household because the verse centers on covenant hope becoming outward-facing.
+**Context and language lens:** God's promise that blessing will reach beyond Abraham's household because the verse centers on covenant hope becoming outward-facing.
 
 Hope rises when the Father's promise becomes bigger than the private room. Genesis 22:18 points beyond Abraham's household toward blessing that reaches nations. The test was deeply personal, but the promise is not small. God's faithfulness is never trapped inside one family's fear.
 
@@ -166,7 +166,7 @@ When hope rises, love stops asking only, "Will I be okay?" It begins asking, "Ho
 
 **Scripture Reference:** Genesis 22:19
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Abraham's return to the waiting servants and the movement back to settled life because the verse centers on carrying tested love into ordinary responsibility.
+**Context and language lens:** Abraham's return to the waiting servants and the movement back to settled life because the verse centers on carrying tested love into ordinary responsibility.
 
 Love that sends you also teaches you how to return. Genesis 22:19 moves from the mountain back toward the young men and then to Beersheba. After the intensity of the test, the story returns to travel, community, and settled life.
 
@@ -196,7 +196,7 @@ Love in relationships is proven not only in crisis, but in how we come back afte
 
 **Scripture Reference:** Genesis 22:20
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses the family news that arrives after the test because the verse opens a wider promise horizon and begins the movement into Promises That Do Not Fail.
+**Context and language lens:** The family news that arrives after the test because the verse opens a wider promise horizon and begins the movement into Promises That Do Not Fail.
 
 Promises that do not fail often arrive through quiet news, ordinary names, and family lines God has been tending beyond our sight. Genesis 22:20 comes after the mountain and after the return. Abraham receives word about his extended family. The verse may seem quiet after the drama before it, but it opens a door into the next movements of promise.
 

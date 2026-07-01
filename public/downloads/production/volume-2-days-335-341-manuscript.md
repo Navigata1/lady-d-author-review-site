@@ -10,11 +10,11 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 335 - December 1
 
-### Awaken the Light on the Path
+### Awaken Finishing Hope in the Light on the Path
 
 **Scripture Reference:** Matthew 10:31
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus' command not to fear because God's attentive care gives the witness a steady light for the next step.
+**Context and language lens:** Jesus' command not to fear because God's attentive care gives the witness a steady light for the next step.
 
 Matthew 10:31 follows Jesus' assurance that the Father knows and values His children. The command not to fear is not scolding. It is grounded in care.
 
@@ -32,17 +32,17 @@ Walking with Jesus means letting the Father's care light the path before fear gi
 
 **Journal prompt:** What fear-shaped decision needs to be answered by the Father's care?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Awaken Finishing Hope in the Light on the Path in one faithful step today.
 
 ---
 
 ## Day 336 - December 2
 
-### Embrace the Invitation
+### Embrace Finishing Hope in the Invitation
 
 **Scripture Reference:** Matthew 10:32
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses Jesus' call to acknowledge Him openly because witness is discipleship made visible, not admiration kept private.
+**Context and language lens:** Jesus' call to acknowledge Him openly because witness is discipleship made visible, not admiration kept private.
 
 Matthew 10:32 brings witness into the open. Jesus speaks of acknowledging Him before others, not as religious display, but as faithful allegiance.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting private allegiance become humble, visible faith
 
 **Journal prompt:** Where is Jesus inviting my private faith to become humble visible obedience?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Embrace Finishing Hope in the Invitation in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting private allegiance become humble, visible faith
 
 **Scripture Reference:** Matthew 10:33
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus' warning about denying Him because saving wholeness includes truthful allegiance when fear tempts the heart to hide.
+**Context and language lens:** Jesus' warning about denying Him because saving wholeness includes truthful allegiance when fear tempts the heart to hide.
 
 Matthew 10:33 is sobering. Jesus does not treat denial as a small matter because love and allegiance belong together.
 
@@ -88,7 +88,7 @@ Walking with Jesus means receiving saving wholeness until fear no longer gets to
 
 **Journal prompt:** Where has fear tempted me to hide the One who rescued me?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Remember the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means receiving saving wholeness until fear no longer gets to
 
 **Scripture Reference:** Matthew 10:36
 
-**Production lens note:** The architecture assigns eirene; the production lens uses Jesus' warning about household opposition because peace in Christ is deeper than conflict avoidance.
+**Context and language lens:** Jesus' warning about household opposition because peace in Christ is deeper than conflict avoidance.
 
 Matthew 10:36 names the ache of division close to home. Jesus is not teaching His people to love conflict. He is teaching them that faithfulness may disturb false peace.
 
@@ -116,7 +116,7 @@ Walking with Jesus means choosing His wholeness over counterfeit peace.
 
 **Journal prompt:** Where am I tempted to trade integrity for false peace?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Walk in the Road with Jesus in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means choosing His wholeness over counterfeit peace.
 
 **Scripture Reference:** Matthew 10:4
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the disciple list, including a future betrayer, because the Lord's authority is steady even when human loyalty is complicated.
+**Context and language lens:** The disciple list, including a future betrayer, because the Lord's authority is steady even when human loyalty is complicated.
 
 Matthew 10:4 sits inside the naming of the twelve. It includes zeal, calling, complexity, and the shadow of betrayal. Jesus is not naive about the people near Him.
 
@@ -144,7 +144,7 @@ Walking with Jesus means resting near the Lord whose authority is steady when hu
 
 **Journal prompt:** What complicated relationship needs to be placed under the Lordship of Jesus in Sabbath rest?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Let Peace Lead the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means resting near the Lord whose authority is steady when hu
 
 **Scripture Reference:** Matthew 10:40
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus' teaching about receiving His sent ones because witness carries Christ's presence into ordinary hospitality and response.
+**Context and language lens:** Jesus' teaching about receiving His sent ones because witness carries Christ's presence into ordinary hospitality and response.
 
 Matthew 10:40 shows the dignity of receiving those Jesus sends. Hospitality is not small when it honors Christ.
 
@@ -172,7 +172,7 @@ Walking with Jesus means receiving His presence with humility when He comes thro
 
 **Journal prompt:** Who have I been treating as an interruption who may need Christlike reception?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Choose the Way of Peace in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means receiving His presence with humility when He comes thro
 
 **Scripture Reference:** Matthew 10:41
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses Jesus' promise about receiving a prophet or righteous person because discipleship honors God's work in others.
+**Context and language lens:** Jesus' promise about receiving a prophet or righteous person because discipleship honors God's work in others.
 
 Matthew 10:41 continues the theme of receiving. Jesus gives weight to the way His people honor those who carry His work.
 
@@ -200,4 +200,4 @@ Walking with Jesus means honoring God's work in others as part of your own faith
 
 **Journal prompt:** Whose faithfulness do I need to honor without comparison?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Listen for the Table of Grace in one faithful step today.

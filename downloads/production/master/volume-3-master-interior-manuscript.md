@@ -31,7 +31,7 @@ This master gathers the complete daily devotional production batches in calendar
 
 **Scripture Reference:** Exodus 31:3
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the Spirit-filled wisdom given to Bezalel because the passage centers on God's Spirit equipping ordinary work with wisdom, understanding, knowledge, and skill.
+**Context and language lens:** The Spirit-filled wisdom given to Bezalel because the passage centers on God's Spirit equipping ordinary work with wisdom, understanding, knowledge, and skill.
 
 The Holy Spirit does not only meet people in a sanctuary service after the work is already done. Exodus 31:3 shows God filling a craftsman for faithful labor. The Spirit's nearness entered skill, planning, beauty, detail, and obedience.
 
@@ -59,7 +59,7 @@ The Spirit of God can make the ordinary faithful, beautiful, and wise.
 
 **Scripture Reference:** Exodus 35:31
 
-**Production lens correction:** The architecture assigned `esh`; the production lens keeps the holy-fire language as refinement and consecration, while grounding the entry in the verse's emphasis on Spirit-filled wisdom, understanding, knowledge, and craftsmanship.
+**Context and language lens:** This lens keeps the holy-fire language as refinement and consecration, while grounding the entry in the verse's emphasis on Spirit-filled wisdom, understanding, knowledge, and craftsmanship.
 
 Holy fire does not burn to show off. It consecrates. Exodus 35:31 returns to the Spirit-filled work of Bezalel and reminds the reader that God gives wisdom for what He calls a person to build.
 
@@ -87,7 +87,7 @@ The Spirit's holy fire makes the work cleaner, the motive quieter, and the offer
 
 **Scripture Reference:** Judges 15:14
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the Spirit's sudden empowering in Samson's crisis while refusing to romanticize Samson's impulses. The emphasis is God's delivering power over bondage, not human self-display.
+**Context and language lens:** The Spirit's sudden empowering in Samson's crisis while refusing to romanticize Samson's impulses. The emphasis is God's delivering power over bondage, not human self-display.
 
 Dry places do not always look dry from the outside. Sometimes the soul is bound, pressed, and out of strength while still trying to look brave. Judges 15:14 is a difficult and forceful moment, but one truth stands clearly: the Spirit of the Lord was able to break what had held Samson.
 
@@ -117,7 +117,7 @@ God's power is safest when it brings the soul lower in surrender and freer in ob
 
 **Scripture Reference:** Matthew 10:1
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus giving His disciples authority because the verse centers on delegated ministry under Christ's command, not self-generated spiritual power.
+**Context and language lens:** Jesus giving His disciples authority because the verse centers on delegated ministry under Christ's command, not self-generated spiritual power.
 
 The anointing for today begins under the authority of Jesus. Matthew 10:1 does not present disciples inventing a ministry from their own confidence. Jesus calls them near, gives them authority, and sends them into work they could not do in their own strength.
 
@@ -145,7 +145,7 @@ The Spirit-filled life is not self-powered ministry. It is nearness to Jesus bec
 
 **Scripture Reference:** Matthew 12:45
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens handles the warning about an empty house carefully. The devotional focus is not fear-based spectacle, but the danger of outward reform without inward filling.
+**Context and language lens:** This lens reads the warning about an empty house carefully. The devotional focus is not fear-based spectacle, but the danger of outward reform without inward filling.
 
 An empty house can look improved and still remain vulnerable. Matthew 12:45 is a sober warning. The issue is not only what has been swept out. The deeper question is who fills the house afterward.
 
@@ -173,7 +173,7 @@ The filled life is not empty religion with better manners. It is the Spirit maki
 
 **Scripture Reference:** Numbers 11:2
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Moses' intercession after the people's complaint and judgment because Spirit-shaped power often appears as prayerful mediation instead of reactive anger.
+**Context and language lens:** Moses' intercession after the people's complaint and judgment because Spirit-shaped power often appears as prayerful mediation instead of reactive anger.
 
 Power to witness is not always a loud word. Sometimes it is the holy choice to pray when everyone else is reacting. Numbers 11:2 shows Moses turning toward the Lord in a moment of trouble, and the destructive fire is restrained.
 
@@ -201,7 +201,7 @@ Spirit-given power can look like a person standing between pain and despair with
 
 **Scripture Reference:** Revelation 3:18
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' counsel to the Laodicean church because the text presses the heart toward refined faith, covered shame, and healed sight. The Spirit's sealing work is held with Christ's corrective mercy.
+**Context and language lens:** Jesus' counsel to the Laodicean church because the text presses the heart toward refined faith, covered shame, and healed sight. The Spirit's sealing work is held with Christ's corrective mercy.
 
 Belonging to God is not flattery. It is mercy strong enough to tell the truth. Revelation 3:18 comes in the middle of Jesus' counsel to a church that did not see itself clearly. He does not abandon them to their self-deception. He invites them toward refined faith, covered shame, and healed sight.
 
@@ -232,7 +232,7 @@ The Spirit assures God's children by leading them back to the faithful counsel o
 
 **Scripture Reference:** 1 Samuel 10:1
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Samuel's anointing of Saul because the verse centers on oil as consecration to a calling received from God, not personal ambition.
+**Context and language lens:** Samuel's anointing of Saul because the verse centers on oil as consecration to a calling received from God, not personal ambition.
 
 Anointing is not permission to become large in your own eyes. In 1 Samuel 10:1, Saul receives oil, a kiss, and a word that his life has been set apart for responsibility before the Lord. The oil marks calling, but the calling still belongs to God.
 
@@ -260,7 +260,7 @@ The Spirit's anointing makes the heart useful by keeping the calling under God's
 
 **Scripture Reference:** 1 Samuel 10:10
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the Spirit coming upon Saul among the prophets because the passage centers on God's surprising empowerment that interrupts ordinary expectation.
+**Context and language lens:** The Spirit coming upon Saul among the prophets because the passage centers on God's surprising empowerment that interrupts ordinary expectation.
 
 Grace can move like wind before a person knows how to explain what is happening. In 1 Samuel 10:10, Saul is met by a company of prophets, and the Spirit of God comes upon him with power. People who thought they knew the old Saul had to reckon with the work of God.
 
@@ -288,7 +288,7 @@ The wind of the Spirit can meet a waiting life and make it newly responsive to G
 
 **Scripture Reference:** 1 Samuel 10:15
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Saul's guarded response to his uncle because the wider anointing scene includes a hidden calling that is not ready to be publicly managed.
+**Context and language lens:** Saul's guarded response to his uncle because the wider anointing scene includes a hidden calling that is not ready to be publicly managed.
 
 Not every holy thing must be explained before it has matured. 1 Samuel 10:15 sits after Saul's anointing and prophetic encounter. His uncle asks what Samuel said, and Saul does not turn the whole matter of kingship into public conversation.
 
@@ -316,7 +316,7 @@ The Spirit can anoint the journey with restraint, timing, and quiet trust.
 
 **Scripture Reference:** 1 Samuel 10:6
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Samuel's promise that the Spirit would come upon Saul and he would be changed, while keeping transformation dependent on God rather than personality force.
+**Context and language lens:** Samuel's promise that the Spirit would come upon Saul and he would be changed, while keeping transformation dependent on God rather than personality force.
 
 Freedom in the Spirit is more than relief from pressure. It is becoming responsive to God in a way the old self could not produce. In 1 Samuel 10:6, Saul is told that the Spirit of the Lord will come upon him and he will be changed.
 
@@ -344,7 +344,7 @@ The Spirit changes the heart so the life can answer God with more than intention
 
 **Scripture Reference:** Exodus 31:11
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the anointing oil, incense, and commanded tabernacle work because the verse centers on consecrated worship prepared according to God's instruction.
+**Context and language lens:** The anointing oil, incense, and commanded tabernacle work because the verse centers on consecrated worship prepared according to God's instruction.
 
 The breath of God brings order to worship. Exodus 31:11 names sacred items and closes with the call to do the work according to what God commanded. The Spirit-filled work of the tabernacle was not careless creativity. It was consecrated obedience.
 
@@ -372,7 +372,7 @@ The Spirit breathes life into worship that is willing to be shaped by God.
 
 **Scripture Reference:** Exodus 35:15
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the oil, incense, altar, and screen because the verse points to consecrated worship and the nearness of God approached with reverence.
+**Context and language lens:** The oil, incense, altar, and screen because the verse points to consecrated worship and the nearness of God approached with reverence.
 
 The Comforter is near, but nearness is not casual. Exodus 35:15 gathers oil, incense, altar, and entrance into the work of worship. The details remind the heart that God made a way for nearness, and that nearness was to be approached with reverence.
 
@@ -400,7 +400,7 @@ The Spirit comforts by bringing the heart near to a holy God who truly welcomes 
 
 **Scripture Reference:** Exodus 35:21
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the willing heart and stirred spirit of the people because the verse centers on Spirit-responsive generosity for God's dwelling place.
+**Context and language lens:** The willing heart and stirred spirit of the people because the verse centers on Spirit-responsive generosity for God's dwelling place.
 
 Holy fire refines what the heart is willing to bring. Exodus 35:21 shows people coming forward because their hearts were stirred and their spirits were moved. The offering was not forced performance. It was willing response.
 
@@ -431,7 +431,7 @@ The Spirit's fire makes willingness tangible.
 
 **Scripture Reference:** Exodus 35:28
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the rulers bringing spices and oil because the passage centers on provision for consecrated worship, not abstract breath imagery.
+**Context and language lens:** The rulers bringing spices and oil because the passage centers on provision for consecrated worship, not abstract breath imagery.
 
 Dry places often need more than a feeling. They need a prepared offering. Exodus 35:28 shows leaders bringing spices and oil for the holy work of worship. What they carried was practical, fragrant, useful, and set apart for God.
 
@@ -459,7 +459,7 @@ The Spirit can turn a practical offering into rain for a thirsty place.
 
 **Scripture Reference:** Exodus 35:3
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the command's holy boundary around fire and work without labeling this production date as the weekly rest day. The emphasis is consecrated restraint that trusts God's order.
+**Context and language lens:** The command's holy boundary around fire and work without labeling this production date as the weekly rest day. The emphasis is consecrated restraint that trusts God's order.
 
 Anointing is not only seen in what a person does. Sometimes it is seen in what a person refuses to force. Exodus 35:3 gives a clear boundary around fire and work within God's ordered life for His people. The heart had to learn that holy obedience includes restraint.
 
@@ -487,7 +487,7 @@ The Spirit anoints not only action, but also the holy no that keeps the heart fr
 
 **Scripture Reference:** Exodus 35:35
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God-given skill, teaching capacity, and craftsmanship because the verse centers on Spirit-enabled excellence that can bless others.
+**Context and language lens:** God-given skill, teaching capacity, and craftsmanship because the verse centers on Spirit-enabled excellence that can bless others.
 
 The fruit of the Spirit is not vague sweetness. It becomes visible in a life that can be taught, skilled, patient, and useful. Exodus 35:35 describes people filled with ability for craftsmanship and even the capacity to teach. God gave more than talent. He gave wisdom that could serve the whole community.
 
@@ -515,7 +515,7 @@ The Spirit makes gifted people gentle enough to bless.
 
 **Scripture Reference:** Exodus 35:8
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the oil for light, anointing oil, and fragrant incense because the passage points to witness through consecrated light and worship.
+**Context and language lens:** The oil for light, anointing oil, and fragrant incense because the passage points to witness through consecrated light and worship.
 
 Power to witness begins with what gives light. Exodus 35:8 names oil for the light, along with oil and incense for holy worship. Before the people could be impressed by the beauty of the sanctuary, the light had to be supplied.
 
@@ -543,7 +543,7 @@ The Spirit gives oil for light so witness can become mercy people can actually s
 
 **Scripture Reference:** Genesis 1:11
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's command for the earth to bring forth vegetation because the passage centers on life-bearing order and seed-bearing fruitfulness.
+**Context and language lens:** God's command for the earth to bring forth vegetation because the passage centers on life-bearing order and seed-bearing fruitfulness.
 
 Belonging to God bears fruit after its kind. Genesis 1:11 shows creation responding to God's word with ordered life: vegetation, plants, trees, and seed-bearing fruit. Life was not random. It carried design, purpose, and the capacity to multiply.
 
@@ -571,7 +571,7 @@ The Spirit marks belonging by forming fruit that carries the character of God.
 
 **Scripture Reference:** Genesis 1:12
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the earth bringing forth vegetation according to God's command because the passage confirms that God's spoken order becomes visible life.
+**Context and language lens:** The earth bringing forth vegetation according to God's command because the passage confirms that God's spoken order becomes visible life.
 
 Prayer beyond words sometimes looks like waiting for God's word to become visible. Genesis 1:12 shows the earth bringing forth what God commanded. The life that appeared was not self-invented. It answered the Creator's word.
 
@@ -599,7 +599,7 @@ The Spirit sustains faith until God's ordered life becomes visible.
 
 **Scripture Reference:** Genesis 1:2
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the Spirit of God hovering over the waters because the passage centers on God's presence near unformed places before visible order appears.
+**Context and language lens:** The Spirit of God hovering over the waters because the passage centers on God's presence near unformed places before visible order appears.
 
 The Spirit is present before the shape is clear. Genesis 1:2 holds a holy mystery: the earth is unformed, the deep is present, and the Spirit of God is moving over the waters. God is not absent from what has not yet come together.
 
@@ -630,7 +630,7 @@ The Spirit moves over waiting places before the morning knows what it will becom
 
 **Scripture Reference:** Genesis 1:22
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's blessing over living creatures because the passage centers on life multiplied by God's word, not fire imagery.
+**Context and language lens:** God's blessing over living creatures because the passage centers on life multiplied by God's word, not fire imagery.
 
 The journey of the Spirit-filled life begins with blessing before it becomes movement. Genesis 1:22 shows God blessing living creatures and speaking fruitfulness over them. Life expands because God speaks life into it.
 
@@ -658,7 +658,7 @@ The Spirit carries the blessing of God into fruitfulness that does not have to b
 
 **Scripture Reference:** Genesis 1:28
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's blessing and human vocation because the passage centers on fruitful stewardship under God's authority.
+**Context and language lens:** God's blessing and human vocation because the passage centers on fruitful stewardship under God's authority.
 
 Freedom in the Spirit does not mean life without responsibility. Genesis 1:28 shows blessing and vocation together. Humanity receives fruitfulness, stewardship, and a calling to order life under God.
 
@@ -686,7 +686,7 @@ The Spirit anchors freedom by turning entrusted places into fields of faithful c
 
 **Scripture Reference:** Genesis 1:29
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's provision of food because the passage centers on provision before striving and the generosity of the Creator.
+**Context and language lens:** God's provision of food because the passage centers on provision before striving and the generosity of the Creator.
 
 Before the human hand planted anything, God gave provision. Genesis 1:29 shows the Creator giving food from the created world. Provision came as gift, not as proof that humanity had earned the right to live.
 
@@ -714,7 +714,7 @@ The Spirit teaches the heart to breathe in the generosity of God before the week
 
 **Scripture Reference:** Genesis 2:7
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the breath of life because the passage directly invites reflection on life received from God.
+**Context and language lens:** The breath of life because the passage directly invites reflection on life received from God.
 
 The first breath was not self-made. Genesis 2:7 shows the life of humanity received from the breath of God. The body was formed, but breath made the person living.
 
@@ -742,7 +742,7 @@ The Spirit comforts by reminding the whole person that life is received before i
 
 **Scripture Reference:** Judges 14:15
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens treats the verse as a warning about pressure, fear, and manipulation rather than an example to imitate.
+**Context and language lens:** This lens treats the verse as a warning about pressure, fear, and manipulation rather than an example to imitate.
 
 Not every fire is holy. Judges 14:15 is a tense and painful verse, full of pressure and manipulation. Fear speaks through threats. Relationship is twisted into leverage. The human heart looks for control instead of truth.
 
@@ -770,7 +770,7 @@ The Spirit's fire purifies; fear's fire consumes.
 
 **Scripture Reference:** Judges 14:19
 
-**Production lens correction:** The architecture assigned `esh`; the production lens handles this difficult Samson text as a warning-filled story of power in a tangled life. It does not present violence or anger as a devotional pattern.
+**Context and language lens:** This lens reads this difficult Samson text as a warning-filled story of power in a tangled life. It does not present violence or anger as a devotional pattern.
 
 Some texts make the reader slow down. Judges 14:19 belongs to a complicated Samson story where strength, anger, consequences, and the Spirit's empowering appear in a hard place. This is not a call to admire rage. It is a reminder that human brokenness can make even real power dangerous when the heart is not surrendered.
 
@@ -798,7 +798,7 @@ The Spirit can bring rain to dry places by making strong people humble enough to
 
 **Scripture Reference:** Judges 14:6
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the Spirit's empowerment of Samson in danger while noting the wider story's secrecy and immaturity as caution.
+**Context and language lens:** The Spirit's empowerment of Samson in danger while noting the wider story's secrecy and immaturity as caution.
 
 The anointing for today is not a trophy. Judges 14:6 shows the Spirit empowering Samson in a moment of danger. Yet the wider story reminds us that strength can exist alongside immaturity, secrecy, and a heart still needing formation.
 
@@ -829,7 +829,7 @@ The Spirit's anointing should make the heart grateful, accountable, and more sur
 
 **Scripture Reference:** Judges 15:19
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's provision of water after Samson's exhaustion because the passage centers on mercy, refreshment, and life returning after depletion.
+**Context and language lens:** God's provision of water after Samson's exhaustion because the passage centers on mercy, refreshment, and life returning after depletion.
 
 Fruitfulness cannot survive on strength alone. Judges 15:19 shows Samson exhausted and in need of water. After all the force and conflict around him, the moment that matters is simple: God provides refreshment, and life returns.
 
@@ -857,7 +857,7 @@ The Spirit forms fruit in the life that lets God restore it.
 
 **Scripture Reference:** Judges 15:2
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses this painful relational fallout as a warning about human attempts to repair harm with substitution instead of truth.
+**Context and language lens:** This painful relational fallout as a warning about human attempts to repair harm with substitution instead of truth.
 
 Power to witness includes the courage to tell the truth about damage. Judges 15:2 sits inside a messy story of broken trust, assumptions, and an attempted substitute. A wrong cannot be healed merely by offering something adjacent to what was lost.
 
@@ -885,7 +885,7 @@ The Spirit gives power to witness by making the heart honest enough to repair wh
 
 **Scripture Reference:** Judges 15:4
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens handles this retaliatory Samson scene as a warning. The devotional focus is not revenge, but the Spirit's call to let belonging govern anger before fire spreads.
+**Context and language lens:** This lens reads this retaliatory Samson scene as a warning. The devotional focus is not revenge, but the Spirit's call to let belonging govern anger before fire spreads.
 
 Belonging to God must teach the heart what to do with fire. Judges 15:4 is part of a retaliatory story. The image is vivid, but it is not a devotional pattern to imitate. It shows what can happen when anger becomes creative in the wrong direction.
 
@@ -916,7 +916,7 @@ The Spirit seals belonging by teaching love to govern fire.
 
 **Scripture Reference:** Judges 15:5
 
-**Production lens correction:** The architecture assigned `esh`; the production lens treats this retaliatory fire scene as a warning about destructive escalation, not as a pattern for Spirit-filled action.
+**Context and language lens:** This lens treats this retaliatory fire scene as a warning about destructive escalation, not as a pattern for Spirit-filled action.
 
 Daily life gives the heart many chances to choose what kind of fire it will carry. Judges 15:5 belongs to a painful chain of retaliation. The fire is real, but it is not holy fire for the believer to imitate. It shows how quickly anger can become organized damage.
 
@@ -944,7 +944,7 @@ The Spirit's wind can cool the place where anger wants to organize destruction.
 
 **Scripture Reference:** Judges 15:6
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the tragic fallout in the story to expose fear, blame, and communal violence rather than treating the scene as devotional behavior.
+**Context and language lens:** The tragic fallout in the story to expose fear, blame, and communal violence rather than treating the scene as devotional behavior.
 
 Some consequences reveal how far fear can travel. Judges 15:6 shows a community reacting with its own violence after trying to trace blame. The story is not clean. It is a warning about how sin, fear, and revenge can keep passing pain from one set of hands to another.
 
@@ -972,7 +972,7 @@ The Spirit consecrates the journey by stopping pain from becoming your pattern.
 
 **Scripture Reference:** Judges 3:10
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the Spirit coming upon Othniel because the passage centers on God raising deliverance and wise leadership in a pressured time.
+**Context and language lens:** The Spirit coming upon Othniel because the passage centers on God raising deliverance and wise leadership in a pressured time.
 
 Freedom in the Spirit is not self-release. It is God bringing deliverance where His people cannot rescue themselves. Judges 3:10 shows the Spirit of the Lord coming upon Othniel, who then leads and judges Israel in a time of oppression.
 
@@ -1000,7 +1000,7 @@ The Spirit gives freedom that can lead without forgetting who delivered first.
 
 **Scripture Reference:** Judges 6:10
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God's reminder through the prophet because the passage centers on hearing the Lord's voice and recognizing disobedience without despair.
+**Context and language lens:** God's reminder through the prophet because the passage centers on hearing the Lord's voice and recognizing disobedience without despair.
 
 The breath of God can come as a word that wakes the heart. Judges 6:10 recalls the Lord's command and the people's failure to listen. The verse is not meant to crush the reader; it is meant to stop the drift before fear becomes normal.
 
@@ -1028,7 +1028,7 @@ The Spirit wakes the heart by making God's voice mercifully hard to ignore.
 
 **Scripture Reference:** Judges 6:18
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Gideon's request for the Lord's messenger to wait while he brings an offering because the verse centers on hesitant faith seeking assurance.
+**Context and language lens:** Gideon's request for the Lord's messenger to wait while he brings an offering because the verse centers on hesitant faith seeking assurance.
 
 The Comforter is near to hesitant faith. Judges 6:18 shows Gideon asking the messenger to wait while he brings an offering. Gideon is not yet bold. He is trying to respond, but he needs assurance.
 
@@ -1056,7 +1056,7 @@ The Spirit comforts by waiting near enough to refine fear into offering.
 
 **Scripture Reference:** Judges 6:21
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the fire that consumes Gideon's offering as holy confirmation, not spectacle or emotional display.
+**Context and language lens:** The fire that consumes Gideon's offering as holy confirmation, not spectacle or emotional display.
 
 Holy fire confirms what belongs to God. Judges 6:21 shows the offering consumed in a way that awakens Gideon to the seriousness of the Lord's presence. This fire is not for entertainment. It is holy confirmation.
 
@@ -1084,7 +1084,7 @@ The Spirit's fire brings the heart home to reverence, surrender, and courage.
 
 **Scripture Reference:** Judges 6:34
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the Spirit clothing Gideon because the passage centers on God covering weakness with courage for a needed call.
+**Context and language lens:** The Spirit clothing Gideon because the passage centers on God covering weakness with courage for a needed call.
 
 Dry courage needs to be clothed by God. Judges 6:34 shows the Spirit of the Lord clothing Gideon, and Gideon sounding a call. This is not courage manufactured by personality. It is weakness covered for obedience.
 
@@ -1115,7 +1115,7 @@ The Spirit clothes weakness with courage that belongs to God.
 
 **Scripture Reference:** Judges 6:39
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses Gideon's cautious request for further assurance because the passage centers on fear being brought honestly before God, not on testing as a lifestyle.
+**Context and language lens:** Gideon's cautious request for further assurance because the passage centers on fear being brought honestly before God, not on testing as a lifestyle.
 
 The anointing for today does not make a fearful person pretend. Judges 6:39 shows Gideon still cautious, still asking, still needing assurance. His request is not a model for controlling God, but it does reveal a God patient enough to deal with trembling faith.
 
@@ -1143,7 +1143,7 @@ The Spirit meets trembling faith so it can become moving faith.
 
 **Scripture Reference:** Matthew 10:20
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' promise that the Spirit of the Father speaks through His people under pressure.
+**Context and language lens:** Jesus' promise that the Spirit of the Father speaks through His people under pressure.
 
 The Spirit's fruit can be heard in the way mercy speaks under pressure. Matthew 10:20 reminds the disciple that there are moments when the words needed are not manufactured by panic. The Spirit of the Father is near enough to help.
 
@@ -1171,7 +1171,7 @@ The Spirit can make pressured speech bear fruit instead of fear.
 
 **Scripture Reference:** Matthew 12:17
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Matthew's fulfillment marker to frame Jesus' ministry as Spirit-shaped witness promised by Scripture.
+**Context and language lens:** Matthew's fulfillment marker to frame Jesus' ministry as Spirit-shaped witness promised by Scripture.
 
 Power to witness is not self-announcement. Matthew 12:17 points the reader toward fulfillment: Jesus' life and ministry are moving according to what God had spoken. The witness is powerful because it is rooted in God's promise, not human noise.
 
@@ -1199,7 +1199,7 @@ The Spirit gives power to witness by making ordinary obedience point back to God
 
 **Scripture Reference:** Matthew 12:18
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses the Father's delight in the Servant and the Spirit placed upon Him because the passage centers on Jesus as the chosen, beloved, Spirit-anointed Servant.
+**Context and language lens:** The Father's delight in the Servant and the Spirit placed upon Him because the passage centers on Jesus as the chosen, beloved, Spirit-anointed Servant.
 
 Belonging is strongest when it is received from the Father. Matthew 12:18 reveals Jesus as chosen, beloved, pleasing to the Father, and anointed by the Spirit for justice and witness. Before the mission is seen, the relationship is named.
 
@@ -1227,7 +1227,7 @@ The Spirit seals belonging so service can become steady instead of needy.
 
 **Scripture Reference:** Matthew 12:28
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' word about the Spirit of God and the kingdom because the passage centers on God's reign breaking into bondage through the Spirit.
+**Context and language lens:** Jesus' word about the Spirit of God and the kingdom because the passage centers on God's reign breaking into bondage through the Spirit.
 
 Some prayers are deeper than words because they ask for the kingdom to come where bondage has felt normal. Matthew 12:28 names the Spirit of God in relation to Jesus' authority and the nearness of God's kingdom. The Spirit does not only comfort the heart; He announces that another reign has arrived.
 
@@ -1253,7 +1253,7 @@ The Spirit brings the kingdom near enough to challenge what has held the heart.
 
 **Scripture Reference:** Matthew 12:32
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens handles Jesus' severe warning with reverence, keeping the focus on tenderness toward the Spirit rather than fear-bait or careless speculation.
+**Context and language lens:** This lens reads Jesus' severe warning with reverence, keeping the focus on tenderness toward the Spirit rather than fear-bait or careless speculation.
 
 The wind in the waiting teaches tenderness. Matthew 12:32 is a severe warning, and severe warnings should make the heart sober, not speculative. Jesus is not inviting anxious believers to torment themselves. He is warning against a hardened posture that calls the Spirit's witness evil and refuses truth while standing in its light.
 
@@ -1281,7 +1281,7 @@ The Spirit-filled heart stays soft enough to receive truth as mercy.
 
 **Scripture Reference:** Matthew 12:33
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' tree-and-fruit teaching because the passage centers on visible fruit flowing from the true condition of the life.
+**Context and language lens:** Jesus' tree-and-fruit teaching because the passage centers on visible fruit flowing from the true condition of the life.
 
 Fruit tells the truth about the tree. Matthew 12:33 brings the heart back to visible life. Daily filling is not proven by noise, claims, or spiritual vocabulary. It is seen in what grows.
 
@@ -1312,7 +1312,7 @@ The Spirit forms fruit by healing the root beneath the visible life.
 
 **Scripture Reference:** Matthew 12:43
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' warning about restless uncleanness to frame freedom as more than removal. The heart needs filling, not emptiness.
+**Context and language lens:** Jesus' warning about restless uncleanness to frame freedom as more than removal. The heart needs filling, not emptiness.
 
 Freedom in the Spirit is not an empty room. Matthew 12:43 describes restless movement through dry places, seeking rest and not finding it. The warning belongs to a larger teaching about what happens when a life is only cleared out but not truly filled.
 
@@ -1340,7 +1340,7 @@ The Spirit gives freedom that becomes a dwelling place for God's life.
 
 **Scripture Reference:** Numbers 11:1
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the people's complaint and the fire at the camp's edge as a warning about complaint becoming spiritual atmosphere.
+**Context and language lens:** The people's complaint and the fire at the camp's edge as a warning about complaint becoming spiritual atmosphere.
 
 Complaint can become the air a camp breathes. Numbers 11:1 shows the people grumbling in a way that displeases the Lord, and judgment reaches the edges of the camp. The verse is sobering because complaint is not treated as harmless background noise.
 
@@ -1368,7 +1368,7 @@ The Spirit fills daily life by changing the air your words create.
 
 **Scripture Reference:** Numbers 11:15
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Moses' overwhelmed cry as a pastoral window into burden, exhaustion, and honest prayer before God.
+**Context and language lens:** Moses' overwhelmed cry as a pastoral window into burden, exhaustion, and honest prayer before God.
 
 The Comforter is near when leadership feels too heavy to carry. Numbers 11:15 is one of the Bible's painfully honest cries. Moses is overwhelmed enough to speak words that show deep distress. The verse should make readers gentle with burdened people, not quick to judge them.
 
@@ -1396,7 +1396,7 @@ The Spirit comforts burdened people by leading them out of isolated carrying.
 
 **Scripture Reference:** Numbers 11:17
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's promise to share the Spirit given to Moses with elders so the burden can be carried together.
+**Context and language lens:** God's promise to share the Spirit given to Moses with elders so the burden can be carried together.
 
 Holy fire can look like shared burden. Numbers 11:17 answers Moses' overwhelm with God's provision: the burden will not remain on one person alone. God will take from the Spirit upon Moses and place that upon elders who can help carry.
 
@@ -1424,7 +1424,7 @@ The Spirit's holy fire can spread as shared strength for a burden too heavy for 
 
 **Scripture Reference:** Numbers 11:25
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the Spirit resting on the elders and their prophetic response because the passage centers directly on God's Spirit shared for communal burden-bearing.
+**Context and language lens:** The Spirit resting on the elders and their prophetic response because the passage centers directly on God's Spirit shared for communal burden-bearing.
 
 Rain for dry places can fall through shared participation. Numbers 11:25 shows the Spirit resting on the elders, and they respond prophetically. The burden that had been crushing Moses is met by God's Spirit distributed among others.
 
@@ -1452,7 +1452,7 @@ The Spirit rests on God's people so burdens can become shared and dry places ref
 
 **Scripture Reference:** Numbers 11:26
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Eldad and Medad prophesying in the camp because the passage centers on the Spirit working beyond expected location and control.
+**Context and language lens:** Eldad and Medad prophesying in the camp because the passage centers on the Spirit working beyond expected location and control.
 
 The anointing for today may not appear where everyone expected it. Numbers 11:26 names Eldad and Medad, who remained in the camp and still prophesied. The Spirit was not trapped by human staging.
 
@@ -1480,7 +1480,7 @@ The Spirit can make the ordinary camp a place of holy participation.
 
 **Scripture Reference:** Numbers 11:29
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Moses' generous desire that all the Lord's people would receive the Spirit because the verse centers on non-possessive leadership and Spirit-shaped abundance.
+**Context and language lens:** Moses' generous desire that all the Lord's people would receive the Spirit because the verse centers on non-possessive leadership and Spirit-shaped abundance.
 
 The fruit of the Spirit is generous, not possessive. Numbers 11:29 shows Moses refusing jealousy and expressing a holy desire that all the Lord's people would receive the Spirit. That is leadership with open hands.
 
@@ -1511,7 +1511,7 @@ The Spirit's fruit rejoices when God's life increases in others.
 
 **Scripture Reference:** Numbers 11:3
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the naming of Taberah because the verse turns a painful place into a remembered warning about complaint and consuming fire.
+**Context and language lens:** The naming of Taberah because the verse turns a painful place into a remembered warning about complaint and consuming fire.
 
 Some places receive names because the heart needs to remember what happened there. Numbers 11:3 names the place where fire burned among the people. It is a sobering memory, not a scene to decorate.
 
@@ -1539,7 +1539,7 @@ The Spirit turns burned places into humble wisdom for future witness.
 
 **Scripture Reference:** Numbers 11:31
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the wind that brought quail while keeping the wider story's warning about craving and discontent.
+**Context and language lens:** The wind that brought quail while keeping the wider story's warning about craving and discontent.
 
 Provision can reveal the heart as much as lack does. Numbers 11:31 shows a wind bringing quail near the camp. The wider story is complicated because the people's craving was not the same as contented trust.
 
@@ -1567,7 +1567,7 @@ The Spirit teaches belonging to receive provision without being ruled by appetit
 
 **Scripture Reference:** Numbers 27:16
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Moses' appeal to the Lord, the God of the spirits of all flesh, to appoint a shepherding leader for the people.
+**Context and language lens:** Moses' appeal to the Lord, the God of the spirits of all flesh, to appoint a shepherding leader for the people.
 
 Prayer beyond words often begins with concern for the people who will remain after us. Numbers 27:16 shows Moses praying to the Lord as the God of the spirits of all flesh and asking for leadership for the congregation.
 
@@ -1595,7 +1595,7 @@ The Spirit enlarges prayer until love asks God to shepherd beyond our reach.
 
 **Scripture Reference:** Numbers 27:18
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Joshua as one in whom is the Spirit and the laying on of hands because the passage centers on Spirit-recognized leadership and succession.
+**Context and language lens:** Joshua as one in whom is the Spirit and the laying on of hands because the passage centers on Spirit-recognized leadership and succession.
 
 The wind in the waiting may already be resting on someone God has prepared. Numbers 27:18 names Joshua as a man in whom is the Spirit and calls Moses to lay his hand on him. The next step in the story was not panic. It was recognition.
 
@@ -1623,7 +1623,7 @@ The Spirit prepares faithful continuation before fear knows how to let go.
 
 **Scripture Reference:** Revelation 1:10
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses John's Spirit-received vision without making a calendar claim. The emphasis is belonging to the Lord and being receptive to the Spirit in exile and limitation.
+**Context and language lens:** John's Spirit-received vision without making a calendar claim. The emphasis is belonging to the Lord and being receptive to the Spirit in exile and limitation.
 
 The journey can still be anointed in a lonely place. Revelation 1:10 places John in the Spirit as the vision opens. He is not in a comfortable setting, but he is not beyond the reach of God.
 
@@ -1651,7 +1651,7 @@ The Spirit can make a constrained place holy with the presence and word of Chris
 
 **Scripture Reference:** Revelation 1:14
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses John's vision of the risen Christ because the passage centers on holy purity, searching sight, and reverent peace before Jesus.
+**Context and language lens:** John's vision of the risen Christ because the passage centers on holy purity, searching sight, and reverent peace before Jesus.
 
 Freedom in the Spirit grows as the heart sees Jesus more truly. Revelation 1:14 gives a glimpse of the risen Christ in purity and holy fire. This is not a casual picture. It steadies the soul with reverence.
 
@@ -1679,7 +1679,7 @@ The Spirit frees the heart by restoring reverent sight of Jesus.
 
 **Scripture Reference:** Revelation 1:4
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses John's greeting of grace and peace before God's throne, including the sevenfold Spirit imagery, without flattening the mystery.
+**Context and language lens:** John's greeting of grace and peace before God's throne, including the sevenfold Spirit imagery, without flattening the mystery.
 
 Grace and peace are not decorations at the beginning of a spiritual letter. Revelation 1:4 places the reader before God, with grace and peace flowing from the eternal One and with rich Spirit imagery before the throne.
 
@@ -1707,7 +1707,7 @@ The Spirit brings grace and peace from before the throne into the believer's act
 
 **Scripture Reference:** Revelation 1:5
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses the praise of Jesus as faithful witness, firstborn from the dead, ruler of kings, the One who loves and frees His people.
+**Context and language lens:** The praise of Jesus as faithful witness, firstborn from the dead, ruler of kings, the One who loves and frees His people.
 
 Extra grace always brings the heart back to Jesus. Revelation 1:5 gathers witness, resurrection, authority, love, and freedom into one bright testimony. Before the reader does anything, Christ is named as faithful, risen, ruling, loving, and freeing.
 
@@ -1738,7 +1738,7 @@ The Spirit fills the extra space with the love and freedom of Jesus.
 
 **Scripture Reference:** Revelation 22:10
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses the instruction not to seal the words of the prophecy because the time is near. Comfort is framed as revealed truth brought close, not hidden from the people of God.
+**Context and language lens:** The instruction not to seal the words of the prophecy because the time is near. Comfort is framed as revealed truth brought close, not hidden from the people of God.
 
 Dry places often feel as if God has hidden what the heart most needs. Revelation 22:10 moves in the opposite direction. The message is not sealed away. The word is opened because the time is near.
 
@@ -1766,7 +1766,7 @@ The Spirit brings the nearness of revealed truth into dry places.
 
 **Scripture Reference:** Revelation 22:17
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses the Spirit's invitation, with the bride, for the thirsty to come and receive the water of life.
+**Context and language lens:** The Spirit's invitation, with the bride, for the thirsty to come and receive the water of life.
 
 The Spirit's nearness has an invitation in it. Revelation 22:17 is not cold instruction. It is a mercy-filled call for the thirsty to come.
 
@@ -1794,7 +1794,7 @@ The Spirit calls thirsty hearts toward the life Jesus gives.
 
 **Scripture Reference:** Revelation 22:2
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses the tree of life imagery, fruit, and healing for the nations as the passage's own picture of Spirit-shaped life and restoration.
+**Context and language lens:** The tree of life imagery, fruit, and healing for the nations as the passage's own picture of Spirit-shaped life and restoration.
 
 The nearness of the Comforter is not thin. Revelation 22:2 gives a picture of life that is fruitful, steady, and healing. The tree of life stands where God has made all things whole.
 
@@ -1822,7 +1822,7 @@ The Spirit grows fruit that carries healing into ordinary places.
 
 **Scripture Reference:** Revelation 3:1
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Christ's message to Sardis, including the seven Spirits of God and the danger of having a reputation for life while needing true awakening.
+**Context and language lens:** Christ's message to Sardis, including the seven Spirits of God and the danger of having a reputation for life while needing true awakening.
 
 Power to witness begins with truth in the hidden place. Revelation 3:1 is a serious mercy: a church can have a name for being alive while needing to wake up before God.
 
@@ -1850,7 +1850,7 @@ The Spirit awakens witness by bringing breath back to the hidden life.
 
 **Scripture Reference:** Revelation 3:10
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Christ's word to the faithful church about keeping His word of patient endurance. The entry avoids overclaiming end-time mechanics and focuses on faithful nearness.
+**Context and language lens:** Christ's word to the faithful church about keeping His word of patient endurance. The entry avoids overclaiming end-time mechanics and focuses on faithful nearness.
 
 Belonging is strengthened when the heart keeps Christ's word with patience. Revelation 3:10 speaks to endurance that has held on under pressure. It is not noisy, but it is precious.
 
@@ -1878,7 +1878,7 @@ The Spirit steadies belonging into patient endurance.
 
 **Scripture Reference:** Revelation 3:13
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses the repeated call to hear what the Spirit says to the churches. Prayer beyond words includes listening that becomes obedience.
+**Context and language lens:** The repeated call to hear what the Spirit says to the churches. Prayer beyond words includes listening that becomes obedience.
 
 Some prayers are too full for many words. Revelation 3:13 calls the one with ears to hear what the Spirit says. That means nearness is not only God listening to us; it is also God teaching us how to listen.
 
@@ -1906,7 +1906,7 @@ The Spirit comforts by teaching the heart to hear and respond.
 
 **Scripture Reference:** Revelation 3:14
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Christ as the Amen, the faithful and true Witness, and the beginning/source of God's creation. The Comforter anchors the heart in Jesus while the next word of correction is being prepared.
+**Context and language lens:** Christ as the Amen, the faithful and true Witness, and the beginning/source of God's creation. The Comforter anchors the heart in Jesus while the next word of correction is being prepared.
 
 Waiting needs an anchor stronger than mood. Revelation 3:14 names Jesus as faithful and true before the message unfolds. Before correction, there is Christ. Before the heart is examined, there is the One who is steady, truthful, and sovereign.
 
@@ -1937,7 +1937,7 @@ The Spirit anchors waiting hearts in the faithful and true Jesus.
 
 **Scripture Reference:** Revelation 3:22
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses the closing call to hear what the Spirit says to the churches. The filling emphasis becomes a listening life that keeps receiving correction, promise, and direction from Christ.
+**Context and language lens:** The closing call to hear what the Spirit says to the churches. The filling emphasis becomes a listening life that keeps receiving correction, promise, and direction from Christ.
 
 The journey needs oil that does not run out when the heart is corrected. Revelation 3:22 comes after a message that has not been easy. Yet the Spirit still speaks, and the faithful response is to hear.
 
@@ -1965,7 +1965,7 @@ The Spirit gives oil for the journey by keeping the heart listening to Jesus.
 
 **Scripture Reference:** Revelation 3:6
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses the repeated call to hear what the Spirit says to the churches, with freedom framed as responsive listening rather than self-directed impulse.
+**Context and language lens:** The repeated call to hear what the Spirit says to the churches, with freedom framed as responsive listening rather than self-directed impulse.
 
 Freedom in the Spirit begins with the humility to hear. Revelation 3:6 is simple and searching: the one with ears is called to listen to what the Spirit says.
 
@@ -1993,7 +1993,7 @@ The Spirit frees the heart by teaching it to hear and respond.
 
 **Scripture Reference:** Genesis 1:1
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses creation's beginning to frame God as Creator before human effort begins. The new-heart emphasis becomes trust in the God who starts what we cannot start.
+**Context and language lens:** Creation's beginning to frame God as Creator before human effort begins. The new-heart emphasis becomes trust in the God who starts what we cannot start.
 
 Before the day has demands, God is Creator. Genesis 1:1 does not begin with human striving, human explaining, or human fear. It begins with God.
 
@@ -2021,7 +2021,7 @@ The Spirit steadies the heart by returning it to the Creator.
 
 **Scripture Reference:** Genesis 1:3
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's command that light appear. Holy fire is framed as God's light overcoming confusion without becoming spectacle.
+**Context and language lens:** God's command that light appear. Holy fire is framed as God's light overcoming confusion without becoming spectacle.
 
 Hope can rise before every detail is fixed. Genesis 1:3 shows God bringing light by His word. The scene is not anxious. It is authoritative, simple, and full of creative mercy.
 
@@ -2049,7 +2049,7 @@ The Spirit brings hope by turning the heart toward God's light.
 
 **Scripture Reference:** Genesis 1:4
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's seeing the light as good and separating light from darkness. Holy fire is framed as discernment that honors what God calls good.
+**Context and language lens:** God's seeing the light as good and separating light from darkness. Holy fire is framed as discernment that honors what God calls good.
 
 Holy fire teaches the heart to discern. Genesis 1:4 shows God recognizing the goodness of light and separating light from darkness. Creation has mercy in it, and it also has distinction.
 
@@ -2077,7 +2077,7 @@ The Spirit forms discernment that honors God's light.
 
 **Scripture Reference:** Genesis 1:5
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's naming of day and night and the ordered rhythm of evening and morning. Resting and settling are framed as receiving God's order in time.
+**Context and language lens:** God's naming of day and night and the ordered rhythm of evening and morning. Resting and settling are framed as receiving God's order in time.
 
 Dry places become more frightening when time feels shapeless. Genesis 1:5 gives names and rhythm: evening and morning are not chaos. They are held inside God's ordering care.
 
@@ -2105,7 +2105,7 @@ The Spirit brings refreshment by settling the heart into God's ordered care.
 
 **Scripture Reference:** Genesis 1:6
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God's creation of expanse and separation of waters. The anointing for today is framed as Spirit-given space, order, and breath where life can continue forming.
+**Context and language lens:** God's creation of expanse and separation of waters. The anointing for today is framed as Spirit-given space, order, and breath where life can continue forming.
 
 The anointing for today may begin with God making space. Genesis 1:6 pictures ordered separation, not confusion without boundary. God creates room within creation for life to unfold.
 
@@ -2136,7 +2136,7 @@ The Spirit anoints holy space where the heart can breathe and obey.
 
 **Scripture Reference:** Genesis 1:7
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's making of ordered space and separation in creation. The new-heart emphasis becomes love that lets God form inner order where fear has blurred boundaries.
+**Context and language lens:** God's making of ordered space and separation in creation. The new-heart emphasis becomes love that lets God form inner order where fear has blurred boundaries.
 
 The Spirit's fruit grows best where God is allowed to bring order. Genesis 1:7 continues the creation movement of making space and setting boundaries. Life is being prepared before it is fully visible.
 
@@ -2164,7 +2164,7 @@ The Spirit grows fruit by bringing loving order to the inner life.
 
 **Scripture Reference:** Genesis 1:8
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's naming of the expanse and the completion of the second day. Power to witness is framed as living under God's named order rather than needing to prove oneself.
+**Context and language lens:** God's naming of the expanse and the completion of the second day. Power to witness is framed as living under God's named order rather than needing to prove oneself.
 
 Witness becomes stronger when the heart stops trying to name itself. Genesis 1:8 shows God naming what He has made. Creation receives identity from the Creator.
 
@@ -2192,7 +2192,7 @@ The Spirit awakens witness by grounding identity in God's naming.
 
 **Scripture Reference:** Genesis 1:9
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's gathering of the waters and the appearing of dry land. Belonging is framed as God's ability to gather what feels scattered and reveal a place to stand.
+**Context and language lens:** God's gathering of the waters and the appearing of dry land. Belonging is framed as God's ability to gather what feels scattered and reveal a place to stand.
 
 Belonging often begins when God gathers what has been scattered. Genesis 1:9 shows ordered gathering and dry land appearing. A place to stand comes into view.
 
@@ -2220,7 +2220,7 @@ The Spirit gathers scattered places into belonging and steady ground.
 
 **Scripture Reference:** Genesis 1:10
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's naming of land and seas and His declaration of goodness. Prayer beyond words becomes resting in God's ability to name and hold what we cannot explain.
+**Context and language lens:** God's naming of land and seas and His declaration of goodness. Prayer beyond words becomes resting in God's ability to name and hold what we cannot explain.
 
 Some prayers begin when we stop trying to explain everything perfectly. Genesis 1:10 shows God naming land and seas, and seeing goodness in His ordered work.
 
@@ -2248,7 +2248,7 @@ The Spirit helps wordless prayer rest in God's naming care.
 
 **Scripture Reference:** Genesis 1:13
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the evening-and-morning rhythm of the third day. Wind in the waiting is framed as Spirit-nearness inside God's timing.
+**Context and language lens:** The evening-and-morning rhythm of the third day. Wind in the waiting is framed as Spirit-nearness inside God's timing.
 
 Waiting becomes harder when the heart forgets rhythm. Genesis 1:13 closes the third day with evening and morning. God's creative work is moving, but it is not frantic.
 
@@ -2276,7 +2276,7 @@ The Spirit gives breath inside God's unfolding rhythm.
 
 **Scripture Reference:** Genesis 1:14
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's appointment of lights for seasons, days, and years. Oil for the journey is framed as Spirit-given peace with God's markers and timing.
+**Context and language lens:** God's appointment of lights for seasons, days, and years. Oil for the journey is framed as Spirit-given peace with God's markers and timing.
 
 Peace comes when the journey is no longer measured only by anxiety. Genesis 1:14 shows God appointing lights for seasons, days, and years. Time is not outside His care.
 
@@ -2304,7 +2304,7 @@ The Spirit gives peaceful oil for the journey through God's ordered timing.
 
 **Scripture Reference:** Genesis 1:15
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the lights giving light upon the earth. Freedom in the Spirit is framed as walking in God's given light rather than being ruled by darkness or drivenness.
+**Context and language lens:** The lights giving light upon the earth. Freedom in the Spirit is framed as walking in God's given light rather than being ruled by darkness or drivenness.
 
 Freedom needs light. Genesis 1:15 shows the lights serving their purpose by giving light upon the earth. What God appoints, God also uses to bless the place where life is forming.
 
@@ -2335,7 +2335,7 @@ The Spirit gives freedom by teaching the heart to walk in God's light.
 
 **Scripture Reference:** Genesis 1:16
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's making of the great lights and the stars. The breath of God is framed as His ordered generosity in giving light beyond what the eye can measure.
+**Context and language lens:** God's making of the great lights and the stars. The breath of God is framed as His ordered generosity in giving light beyond what the eye can measure.
 
 The breath of God can be heard in order, not only in intensity. Genesis 1:16 gives a wide picture of created lights, including the stars. God is not careless with light. He gives it with purpose and abundance.
 
@@ -2363,7 +2363,7 @@ The Spirit steadies anxious hearts under the ordered generosity of God.
 
 **Scripture Reference:** Genesis 1:17
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's placement of the lights in the expanse to give light on the earth. Resting and settling are framed as trusting God's placed provision.
+**Context and language lens:** God's placement of the lights in the expanse to give light on the earth. Resting and settling are framed as trusting God's placed provision.
 
 God knows where to place light. Genesis 1:17 shows the lights set where they can serve the earth. Provision is not random; it is placed.
 
@@ -2391,7 +2391,7 @@ The Spirit helps the heart stand in God's placed light.
 
 **Scripture Reference:** Genesis 1:18
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the governing function of the lights and the separation of light from darkness. Holy fire is framed as grace that teaches wise distinction.
+**Context and language lens:** The governing function of the lights and the separation of light from darkness. Holy fire is framed as grace that teaches wise distinction.
 
 Grace does not leave the heart without discernment. Genesis 1:18 shows light governing and separating. God's order is merciful because it keeps darkness from being mistaken for light.
 
@@ -2419,7 +2419,7 @@ The Spirit forms holy discernment through grace and truth.
 
 **Scripture Reference:** Genesis 1:19
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the evening-and-morning rhythm of the fourth day. Rain for dry places is framed as renewal that comes through God's repeated mercy in time.
+**Context and language lens:** The evening-and-morning rhythm of the fourth day. Rain for dry places is framed as renewal that comes through God's repeated mercy in time.
 
 Dry places need repeated mercy. Genesis 1:19 closes another day with evening and morning. God's work continues with rhythm, not panic.
 
@@ -2447,7 +2447,7 @@ The Spirit brings renewal through God's faithful rhythm of mercy.
 
 **Scripture Reference:** Genesis 1:20
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's command for waters to teem with life and birds to fly. The anointing for today is framed as Spirit-given movement where God calls life forward.
+**Context and language lens:** God's command for waters to teem with life and birds to fly. The anointing for today is framed as Spirit-given movement where God calls life forward.
 
 When God calls life forward, movement begins. Genesis 1:20 pictures waters filled with living creatures and birds moving through open space. Creation is no longer only ordered; it is stirring with life.
 
@@ -2475,7 +2475,7 @@ The Spirit stirs obedient life where God calls movement forward.
 
 **Scripture Reference:** Genesis 1:21
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's creation of living creatures and His declaration of goodness. The Spirit's fruit is framed as received life that God can call good.
+**Context and language lens:** God's creation of living creatures and His declaration of goodness. The Spirit's fruit is framed as received life that God can call good.
 
 Fruitful life is not something the heart has to force into being. Genesis 1:21 shows God creating living creatures and seeing goodness in what He has made.
 
@@ -2503,7 +2503,7 @@ The Spirit grows good fruit from received life with God.
 
 **Scripture Reference:** Genesis 1:23
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the evening-and-morning close of the fifth day. Power to witness is framed as awakening to God's rhythm after a day of living movement and blessing.
+**Context and language lens:** The evening-and-morning close of the fifth day. Power to witness is framed as awakening to God's rhythm after a day of living movement and blessing.
 
 Power to witness needs rhythm as much as urgency. Genesis 1:23 closes the fifth day with evening and morning. Life has been called forward, but the day still rests inside God's order.
 
@@ -2534,7 +2534,7 @@ The Spirit strengthens witness by returning the heart to God's rhythm.
 
 **Scripture Reference:** Genesis 1:24
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God's command for living creatures to come forth on the earth. The seal of belonging is framed as God calling life into its proper place and kind.
+**Context and language lens:** God's command for living creatures to come forth on the earth. The seal of belonging is framed as God calling life into its proper place and kind.
 
 Belonging is not vague. Genesis 1:24 shows God calling living creatures forth on the earth according to His order. Life is not floating without place; it is called forward by the Creator.
 
@@ -2562,7 +2562,7 @@ The Spirit refines belonging by calling the heart back to God's placed care.
 
 **Scripture Reference:** Genesis 1:25
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's making of living creatures and His declaration of goodness. Prayer beyond words becomes coming home to the God who sees His work clearly.
+**Context and language lens:** God's making of living creatures and His declaration of goodness. Prayer beyond words becomes coming home to the God who sees His work clearly.
 
 There are days when the heart cannot explain itself, but it can still come home. Genesis 1:25 shows God making life and seeing goodness in what He has made.
 
@@ -2590,7 +2590,7 @@ The Spirit brings wordless prayer home to the God who sees with mercy.
 
 **Scripture Reference:** Genesis 1:26
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's counsel before creating humanity in His image. Wind in the waiting is framed as patient reverence before identity and calling are spoken.
+**Context and language lens:** God's counsel before creating humanity in His image. Wind in the waiting is framed as patient reverence before identity and calling are spoken.
 
 Some of the holiest moments begin before anything visible happens. Genesis 1:26 brings the reader to the threshold of humanity's creation in God's image. Before the formed life is seen, God's purpose is being spoken.
 
@@ -2621,7 +2621,7 @@ The Spirit gives breath while God prepares identity and purpose.
 
 **Scripture Reference:** Genesis 1:27
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses humanity made in God's image. Oil and anointing are framed as consecrated identity and service that begin with what God gives, not what the heart performs.
+**Context and language lens:** Humanity made in God's image. Oil and anointing are framed as consecrated identity and service that begin with what God gives, not what the heart performs.
 
 Conviction without condemnation begins with identity. Genesis 1:27 brings the heart close to the truth that humanity is not an accident, a mistake, or a project without meaning. Life begins under the Creator's intentional care.
 
@@ -2649,7 +2649,7 @@ The Spirit restores freedom by calling the heart back to God-given identity.
 
 **Scripture Reference:** Genesis 1:30
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's provision for living creatures. Resting and settling are framed as hope that breathes because God provides before fear demands.
+**Context and language lens:** God's provision for living creatures. Resting and settling are framed as hope that breathes because God provides before fear demands.
 
 Hope rises differently when the heart remembers provision. Genesis 1:30 shows God caring for living creatures with what they need. The world is not presented as a place where every life must scramble before God notices.
 
@@ -2677,7 +2677,7 @@ The Spirit gives hopeful breath by settling the heart in God's faithful provisio
 
 **Scripture Reference:** Genesis 1:31
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God's declaration of goodness over His completed creation. The Spirit's nearness is framed as restoring the heart to God's good intent instead of letting failure have the final word.
+**Context and language lens:** God's declaration of goodness over His completed creation. The Spirit's nearness is framed as restoring the heart to God's good intent instead of letting failure have the final word.
 
 God knows how to call His work good. Genesis 1:31 gathers the work of creation under the Creator's approving sight. Goodness is not shallow optimism; it is God's true judgment over what He has made.
 
@@ -2705,7 +2705,7 @@ The Spirit comforts by restoring the heart to God's true and good purpose.
 
 **Scripture Reference:** Genesis 2:1
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the completed heavens and earth. Holy fire is framed as the Spirit's refining work that lets the heart stop striving and receive God's completed care.
+**Context and language lens:** The completed heavens and earth. Holy fire is framed as the Spirit's refining work that lets the heart stop striving and receive God's completed care.
 
 Genesis 2:1 stands at the hush of completion. The heavens and the earth are not hanging loose in confusion. God has brought His ordered work to fullness.
 
@@ -2733,7 +2733,7 @@ The Spirit refines striving hearts by returning them to God's completed care.
 
 **Scripture Reference:** Genesis 2:2
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God resting after completing His work. Rain for dry places is framed as mercy that falls on exhausted striving because God's work is not frantic.
+**Context and language lens:** God resting after completing His work. Rain for dry places is framed as mercy that falls on exhausted striving because God's work is not frantic.
 
 Dry places often come from trying to live as if everything depends on your strain. Genesis 2:2 shows God resting after completing His work. The verse carries a holy steadiness: God is not frantic.
 
@@ -2761,7 +2761,7 @@ The Spirit refreshes dry places by grounding correction in God's steady faithful
 
 **Scripture Reference:** Genesis 2:3
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God blessing and making holy the seventh day in the text. Anointing is framed as consecrated time and consecrated life that receive holiness from God before serving Him.
+**Context and language lens:** God blessing and making holy the seventh day in the text. Anointing is framed as consecrated time and consecrated life that receive holiness from God before serving Him.
 
 Holy things are made holy by God. Genesis 2:3 shows blessing and consecration flowing from the Creator's own action. Holiness is not the heart decorating itself to look acceptable; holiness begins with God's setting apart.
 
@@ -2789,7 +2789,7 @@ The Spirit anoints ordinary obedience by bringing it under God's consecrating lo
 
 **Scripture Reference:** Genesis 2:4
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the generations of the heavens and the earth. The Spirit's fruit is framed as settled growth inside God's larger story of what He is bringing forth.
+**Context and language lens:** The generations of the heavens and the earth. The Spirit's fruit is framed as settled growth inside God's larger story of what He is bringing forth.
 
 Genesis 2:4 turns the heart toward generations, beginnings, and what God brings forth in His own order. The story of creation is not a random pile of moments. It is held together by the Lord who forms, names, blesses, and continues His work.
 
@@ -2820,7 +2820,7 @@ The Spirit awakens fruit by settling the heart inside God's patient formation.
 
 **Scripture Reference:** Genesis 2:5
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the earth before cultivated growth, before rain, and before human tilling. Power to witness is framed as honest dependence before visible fruit appears.
+**Context and language lens:** The earth before cultivated growth, before rain, and before human tilling. Power to witness is framed as honest dependence before visible fruit appears.
 
 There is a kind of honesty in Genesis 2:5. The ground is not pretending to be more fruitful than it is. The verse lets the reader stand before what is not yet growing, not yet watered, not yet tended by human hands.
 
@@ -2848,7 +2848,7 @@ The Spirit empowers truthful witness before visible fruit appears.
 
 **Scripture Reference:** Genesis 2:6
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the mist that waters the ground. The seal of belonging is framed as God's quiet mercy reaching the ground before the human story becomes visible.
+**Context and language lens:** The mist that waters the ground. The seal of belonging is framed as God's quiet mercy reaching the ground before the human story becomes visible.
 
 God's mercy can move quietly. Genesis 2:6 pictures water rising and touching the ground before the next formed life appears. It is not loud, but it is preparation.
 
@@ -2876,7 +2876,7 @@ The Spirit seals belonging by watering hidden places with quiet mercy.
 
 **Scripture Reference:** Genesis 2:8
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God planting a garden and placing the man there. Prayer beyond words is framed as resting in the God who prepares a place before the heart can explain its need.
+**Context and language lens:** God planting a garden and placing the man there. Prayer beyond words is framed as resting in the God who prepares a place before the heart can explain its need.
 
 Genesis 2:8 shows God as the One who plants and places. Before the man is given tasks to name, tend, or guard, God prepares a place. Grace is already active before human explanation.
 
@@ -2904,7 +2904,7 @@ The Spirit carries wordless prayer to the God who prepares and places.
 
 **Scripture Reference:** Genesis 2:9
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the trees God caused to grow, including beauty, nourishment, life, and moral boundary. Wind in the waiting is framed as peaceful trust while desire learns holy order.
+**Context and language lens:** The trees God caused to grow, including beauty, nourishment, life, and moral boundary. Wind in the waiting is framed as peaceful trust while desire learns holy order.
 
 Genesis 2:9 brings beauty, nourishment, life, and boundary into the garden story. God does not form a bare place. He makes what is pleasant and good, while also teaching that desire must live under His wisdom.
 
@@ -2932,7 +2932,7 @@ The Spirit brings peaceful breath to desire that is learning God's order.
 
 **Scripture Reference:** Genesis 2:10
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the river flowing from Eden and dividing outward. Oil for the journey is framed as grace received at the source before it becomes outward movement.
+**Context and language lens:** The river flowing from Eden and dividing outward. Oil for the journey is framed as grace received at the source before it becomes outward movement.
 
 The journey begins with a source. Genesis 2:10 pictures a river flowing from Eden before it divides outward. Movement is real, but it comes from what God has already provided.
 
@@ -2960,7 +2960,7 @@ The Spirit gives oil for the journey by drawing movement from God's living sourc
 
 **Scripture Reference:** Genesis 2:11
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the named river and land. Freedom in the Spirit is framed as guided movement that can be named, directed, and kept from wandering into greed.
+**Context and language lens:** The named river and land. Freedom in the Spirit is framed as guided movement that can be named, directed, and kept from wandering into greed.
 
 Genesis 2:11 does not leave movement vague. The river has a name, a direction, and a land it surrounds. God's world includes flow, but it is not formless wandering.
 
@@ -2988,7 +2988,7 @@ The Spirit frees the heart by giving movement a submitted direction.
 
 **Scripture Reference:** Genesis 2:12
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the goodness and beauty associated with the land. The Breath of God is framed as a renewed heart that values hidden gifts without worshiping them.
+**Context and language lens:** The goodness and beauty associated with the land. The Breath of God is framed as a renewed heart that values hidden gifts without worshiping them.
 
 Genesis 2:12 notices goodness and beauty in the land. The text does not treat created gifts as worthless. It also does not make them ultimate.
 
@@ -3019,7 +3019,7 @@ The Spirit renews the heart to receive good gifts without worshiping them.
 
 **Scripture Reference:** Genesis 2:13
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the named river and region. The Comforter's nearness is framed as grace that meets the believer in real places, not only in private feelings.
+**Context and language lens:** The named river and region. The Comforter's nearness is framed as grace that meets the believer in real places, not only in private feelings.
 
 God's care is not vague. Genesis 2:13 names a river and a land. The garden story has movement, location, and particularity. God is present in a real creation, not only in an idea.
 
@@ -3047,7 +3047,7 @@ The Spirit brings the Comforter's nearness into real and named places.
 
 **Scripture Reference:** Genesis 2:14
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the named rivers and directions. Holy fire is framed as Spirit-given clarity that gives movement direction without turning correction into fear.
+**Context and language lens:** The named rivers and directions. Holy fire is framed as Spirit-given clarity that gives movement direction without turning correction into fear.
 
 Genesis 2:14 continues naming rivers and directions. The movement of water is not shapeless. It is located, directed, and known.
 
@@ -3075,7 +3075,7 @@ The Spirit refines the heart by giving correction a faithful direction.
 
 **Scripture Reference:** Genesis 2:15
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God placing the man in the garden to work and keep it. Rain for dry places is framed as restored stewardship that receives assignment without condemnation.
+**Context and language lens:** God placing the man in the garden to work and keep it. Rain for dry places is framed as restored stewardship that receives assignment without condemnation.
 
 Genesis 2:15 shows placement and purpose together. The man is not thrown into the garden as punishment. He is placed there with meaningful work and keeping.
 
@@ -3103,7 +3103,7 @@ The Spirit refreshes dry places by restoring responsibility to grace.
 
 **Scripture Reference:** Genesis 2:16
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God's generous permission before the boundary that follows. The anointing for today is framed as Spirit-led rest in God's generous yes.
+**Context and language lens:** God's generous permission before the boundary that follows. The anointing for today is framed as Spirit-led rest in God's generous yes.
 
 Genesis 2:16 begins with generosity. Before the heart hears boundary, it hears permission. God is not stingy with life.
 
@@ -3131,7 +3131,7 @@ The Spirit anoints today's obedience by rooting it in God's generous yes.
 
 **Scripture Reference:** Genesis 2:17
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's protective boundary concerning the tree of knowledge. The Spirit's fruit is framed as life protected by boundaries that love refuses to ignore.
+**Context and language lens:** God's protective boundary concerning the tree of knowledge. The Spirit's fruit is framed as life protected by boundaries that love refuses to ignore.
 
 Love tells the truth about danger. Genesis 2:17 brings a boundary with consequence. It is not cruelty. It is protection spoken by the God who gives life.
 
@@ -3159,7 +3159,7 @@ The Spirit grows fruit by teaching the heart to receive protective truth.
 
 **Scripture Reference:** Genesis 2:18
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's statement that isolation is not good and His provision of suitable help. Power to witness is framed as humility that receives relationship rather than performing strength alone.
+**Context and language lens:** God's statement that isolation is not good and His provision of suitable help. Power to witness is framed as humility that receives relationship rather than performing strength alone.
 
 Genesis 2:18 names what is not good and answers it with provision. God sees isolation clearly, and He does not shame the human need for help.
 
@@ -3187,7 +3187,7 @@ The Spirit refines witness by freeing the heart from isolated strength.
 
 **Scripture Reference:** Genesis 2:19
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God bringing living creatures to the man and allowing him to name them. The seal of belonging is framed as participatory responsibility under God's presence.
+**Context and language lens:** God bringing living creatures to the man and allowing him to name them. The seal of belonging is framed as participatory responsibility under God's presence.
 
 Genesis 2:19 shows God bringing living creatures to the man and making room for naming. Belonging does not erase responsibility. It invites participation under God's presence.
 
@@ -3218,7 +3218,7 @@ The Spirit seals belonging by inviting humble participation in God's care.
 
 **Scripture Reference:** Genesis 2:20
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the naming of living creatures and the unfulfilled search for suitable help. Prayer beyond words is framed as honest naming that can rest before God even when something is still missing.
+**Context and language lens:** The naming of living creatures and the unfulfilled search for suitable help. Prayer beyond words is framed as honest naming that can rest before God even when something is still missing.
 
 Genesis 2:20 holds both responsibility and ache. The man names the living creatures, yet the story also reveals that something fitting is not yet found. Faith can be active and still be waiting.
 
@@ -3246,7 +3246,7 @@ The Spirit settles wordless prayer where faithful work and unmet longing meet.
 
 **Scripture Reference:** Genesis 2:21
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the deep sleep and hidden work of God. Wind in the waiting is framed as Spirit-given trust when God is working beyond human control.
+**Context and language lens:** The deep sleep and hidden work of God. Wind in the waiting is framed as Spirit-given trust when God is working beyond human control.
 
 Genesis 2:21 shows God working while the man is not managing the process. The deep sleep is a mercy. The hidden work belongs to God.
 
@@ -3274,7 +3274,7 @@ The Spirit gives breath for waiting while God works beyond control.
 
 **Scripture Reference:** Genesis 2:22
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God building and bringing the woman to the man. Oil for the journey is framed as mercy that forms help, relationship, and provision with care.
+**Context and language lens:** God building and bringing the woman to the man. Oil for the journey is framed as mercy that forms help, relationship, and provision with care.
 
 Genesis 2:22 shows God building and bringing. Provision is not slapped together. It is formed with intention and brought in love.
 
@@ -3302,7 +3302,7 @@ The Spirit gives oil for the journey through mercy God forms and brings.
 
 **Scripture Reference:** Genesis 2:23
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses recognition and joyful kinship. Freedom in the Spirit is framed as holy recognition that receives relationship without possession, fear, or shame.
+**Context and language lens:** Recognition and joyful kinship. Freedom in the Spirit is framed as holy recognition that receives relationship without possession, fear, or shame.
 
 Genesis 2:23 carries recognition. The man receives the one God has formed and brought, and the response is not suspicion but glad acknowledgement.
 
@@ -3330,7 +3330,7 @@ The Spirit frees recognition from fear, possession, and shame.
 
 **Scripture Reference:** Genesis 2:24
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses covenant union and new household formation. The Breath of God is framed as consecrated love that forms faithful attachment without erasing holy identity.
+**Context and language lens:** Covenant union and new household formation. The Breath of God is framed as consecrated love that forms faithful attachment without erasing holy identity.
 
 Genesis 2:24 moves from recognition into covenant attachment. Love is not meant to remain shallow, rootless, or endlessly self-protective. God forms bonds that carry responsibility.
 
@@ -3358,7 +3358,7 @@ The Spirit gives breath to faithful love and consecrated attachment.
 
 **Scripture Reference:** Genesis 2:25
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses unashamed openness before sin enters the story. The Comforter's nearness is framed as restored honesty that brings shame into God's healing light.
+**Context and language lens:** Unashamed openness before sin enters the story. The Comforter's nearness is framed as restored honesty that brings shame into God's healing light.
 
 Genesis 2:25 shows openness without shame. Before hiding enters the story, there is a picture of life without the covering strategies fear later invents.
 
@@ -3386,7 +3386,7 @@ The Spirit restores honest nearness where shame taught the heart to hide.
 
 **Scripture Reference:** Exodus 31:1
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God speaking to Moses as the opening of a Spirit-enabled craftsmanship passage. Holy fire is framed as yielded attention to God's initiating word before skill becomes action.
+**Context and language lens:** God speaking to Moses as the opening of a Spirit-enabled craftsmanship passage. Holy fire is framed as yielded attention to God's initiating word before skill becomes action.
 
 Exodus 31:1 begins with God speaking. Before names, skills, materials, and assignments unfold, the first movement is divine initiative.
 
@@ -3417,7 +3417,7 @@ The Spirit kindles holy work by returning the heart to God's initiating word.
 
 **Scripture Reference:** Exodus 31:2
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God naming Bezalel for Spirit-enabled work. Rain for dry places is framed as renewed identity and capacity that begin with God's call rather than human self-promotion.
+**Context and language lens:** God naming Bezalel for Spirit-enabled work. Rain for dry places is framed as renewed identity and capacity that begin with God's call rather than human self-promotion.
 
 Exodus 31:2 turns from the garden story into named calling. God is not speaking about vague usefulness. He names a person for a work He intends to fill with His Spirit.
 
@@ -3445,7 +3445,7 @@ The Spirit refreshes dry identity by anchoring calling in God's name and supply.
 
 **Scripture Reference:** Exodus 31:4
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Spirit-enabled design and craftsmanship. The anointing for today is framed as holy wisdom that turns skill, beauty, and planning into obedient service.
+**Context and language lens:** Spirit-enabled design and craftsmanship. The anointing for today is framed as holy wisdom that turns skill, beauty, and planning into obedient service.
 
 Exodus 31:4 shows that Spirit-filled life can touch design, skill, planning, beauty, and material work. God cares about what is made and how it is made.
 
@@ -3476,7 +3476,7 @@ The Spirit anoints practical skill by turning it into obedient service.
 
 **Scripture Reference:** Exodus 31:5
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Spirit-enabled craftsmanship in stone, wood, and practical making. Power to witness is framed as surrendered excellence that lets ordinary work speak of God's nearness.
+**Context and language lens:** Spirit-enabled craftsmanship in stone, wood, and practical making. Power to witness is framed as surrendered excellence that lets ordinary work speak of God's nearness.
 
 Exodus 31:5 keeps the Spirit's work close to materials, tools, and skill. The witness is not only a sermon; it can be a well-made thing offered to God.
 
@@ -3504,7 +3504,7 @@ The Spirit gives power to witness through surrendered excellence in ordinary wor
 
 **Scripture Reference:** Exodus 31:6
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses God appointing a helper and giving wisdom to skilled people. The seal of belonging is framed as Spirit-breathed participation in shared work rather than isolated importance.
+**Context and language lens:** God appointing a helper and giving wisdom to skilled people. The seal of belonging is framed as Spirit-breathed participation in shared work rather than isolated importance.
 
 Exodus 31:6 shows that Spirit-enabled work is not lonely work. God appoints, gives wisdom, and gathers people into shared purpose.
 
@@ -3532,7 +3532,7 @@ The Spirit seals belonging by placing gifts into shared surrender.
 
 **Scripture Reference:** Exodus 31:7
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses holy furnishings and the place of meeting. Prayer beyond words is framed as a surrendered heart becoming a place where God can meet and guide.
+**Context and language lens:** Holy furnishings and the place of meeting. Prayer beyond words is framed as a surrendered heart becoming a place where God can meet and guide.
 
 Exodus 31:7 points toward sacred space and furnishings prepared for meeting with God. The details matter because the meeting matters.
 
@@ -3560,7 +3560,7 @@ The Spirit forms fruit by making the surrendered heart a place of meeting.
 
 **Scripture Reference:** Exodus 31:8
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses additional furnishings for worship. Wind in the waiting is framed as Spirit-given capacity for detailed faithfulness before visible fruit is celebrated.
+**Context and language lens:** Additional furnishings for worship. Wind in the waiting is framed as Spirit-given capacity for detailed faithfulness before visible fruit is celebrated.
 
 Exodus 31:8 keeps naming specific pieces of worshipful work. God sees the details that serve the larger purpose.
 
@@ -3588,7 +3588,7 @@ The Spirit gives capacity for detailed faithfulness while fruit is still forming
 
 **Scripture Reference:** Exodus 31:9
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses worship furnishings connected with offering and cleansing. Oil for the journey is framed as renewal that keeps surrendered service from becoming dry duty.
+**Context and language lens:** Worship furnishings connected with offering and cleansing. Oil for the journey is framed as renewal that keeps surrendered service from becoming dry duty.
 
 Exodus 31:9 continues the list of holy work connected to worship, offering, and cleansing. The details are not lifeless. They serve communion with God.
 
@@ -3616,7 +3616,7 @@ The Spirit renews surrendered service so duty can become living worship again.
 
 **Scripture Reference:** Exodus 31:10
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses garments for ministry. Freedom in the Spirit is framed as receiving a God-given covering for service instead of building identity from appearance.
+**Context and language lens:** Garments for ministry. Freedom in the Spirit is framed as receiving a God-given covering for service instead of building identity from appearance.
 
 Exodus 31:10 names garments connected to ministry. What is worn for service matters because it belongs to a holy purpose.
 
@@ -3644,7 +3644,7 @@ The Spirit frees service from image management and roots identity in God.
 
 **Scripture Reference:** Exodus 31:12
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses God speaking again to Moses. The Breath of God is framed as grace that keeps surrendered fruit listening before the next command is carried out.
+**Context and language lens:** God speaking again to Moses. The Breath of God is framed as grace that keeps surrendered fruit listening before the next command is carried out.
 
 Exodus 31:12 begins with God speaking again. Spirit-enabled work does not outgrow listening.
 
@@ -3675,7 +3675,7 @@ The Spirit forms fruit by keeping surrendered hearts responsive to God's voice.
 
 **Scripture Reference:** Exodus 31:13
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses God's sign of sanctifying His people. The Comforter's nearness is framed as being set apart by God before fruit is displayed.
+**Context and language lens:** God's sign of sanctifying His people. The Comforter's nearness is framed as being set apart by God before fruit is displayed.
 
 Exodus 31:13 makes belonging deeply practical. God does not merely ask His people to do holy things. He reminds them that He is the One who sanctifies them.
 
@@ -3703,7 +3703,7 @@ The Spirit grows fruit by keeping surrendered hearts near the God who sanctifies
 
 **Scripture Reference:** Exodus 31:14
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses God's command to treat holy rest as holy. Holy fire is framed as reverent strength that protects surrender from casual disobedience.
+**Context and language lens:** God's command to treat holy rest as holy. Holy fire is framed as reverent strength that protects surrender from casual disobedience.
 
 Exodus 31:14 is not casual language. Holiness is treated as holy because God is holy. The heart is not asked to handle sacred things as if they are ordinary preferences.
 
@@ -3731,7 +3731,7 @@ The Spirit gives reverent strength to honor what God calls holy.
 
 **Scripture Reference:** Exodus 31:15
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the rhythm of work and holy rest in the text. Rain for dry places is framed as renewal that protects surrender from being swallowed by productivity.
+**Context and language lens:** The rhythm of work and holy rest in the text. Rain for dry places is framed as renewal that protects surrender from being swallowed by productivity.
 
 Exodus 31:15 places work and holy rest inside God's authority. Productivity is not allowed to become the master of the soul.
 
@@ -3759,7 +3759,7 @@ The Spirit renews dry places by freeing the heart from productivity as identity.
 
 **Scripture Reference:** Exodus 31:16
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses a covenant rhythm that God's people are called to keep. The anointing for today is framed as Spirit-enabled consistency over time.
+**Context and language lens:** A covenant rhythm that God's people are called to keep. The anointing for today is framed as Spirit-enabled consistency over time.
 
 Exodus 31:16 points to a rhythm that is kept, not merely admired. Covenant faithfulness has memory, repetition, and embodied practice.
 
@@ -3787,7 +3787,7 @@ The Spirit anoints surrendered fruit through faithful rhythm over time.
 
 **Scripture Reference:** Exodus 31:17
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses the sign, creation pattern, and divine refreshment in the text. The Spirit's fruit is framed as witness that is refined by rest, creation memory, and surrendered limits.
+**Context and language lens:** The sign, creation pattern, and divine refreshment in the text. The Spirit's fruit is framed as witness that is refined by rest, creation memory, and surrendered limits.
 
 Exodus 31:17 ties God's people back to creation and to a sign of belonging. The rhythm speaks. It witnesses to the God who made, finished, and was refreshed.
 
@@ -3815,7 +3815,7 @@ The Spirit refines fruit into witness by teaching the heart surrendered limits.
 
 **Scripture Reference:** Exodus 31:18
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses God giving the tablets of testimony. Power to witness is framed as God's word being received, carried, and set apart in the life.
+**Context and language lens:** God giving the tablets of testimony. Power to witness is framed as God's word being received, carried, and set apart in the life.
 
 Exodus 31:18 closes the mountain conversation with testimony given by God. Witness begins with what God gives, not what the heart invents.
 
@@ -3843,7 +3843,7 @@ The Spirit empowers witness by setting apart the word carried in the life.
 
 **Scripture Reference:** Exodus 35:1
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Moses gathering the congregation to hear God's commands. The seal of belonging is framed as gathered listening that strengthens surrender.
+**Context and language lens:** Moses gathering the congregation to hear God's commands. The seal of belonging is framed as gathered listening that strengthens surrender.
 
 Exodus 35:1 gathers the community before instruction. Belonging is not only private comfort; it is shared listening under God's word.
 
@@ -3874,7 +3874,7 @@ The Spirit strengthens belonging through gathered, surrendered listening.
 
 **Scripture Reference:** Exodus 35:2
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the six-day work and holy-rest rhythm in the text. Prayer beyond words is framed as cleansing surrender that lets God interrupt drivenness before it hardens.
+**Context and language lens:** The six-day work and holy-rest rhythm in the text. Prayer beyond words is framed as cleansing surrender that lets God interrupt drivenness before it hardens.
 
 Exodus 35:2 places work under God's rhythm. The command does not treat labor as worthless. It treats God as Lord over the labor.
 
@@ -3902,7 +3902,7 @@ The Spirit grows fruit in surrender by watering places that words cannot fully r
 
 **Scripture Reference:** Exodus 35:4
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Moses speaking what the Lord commanded. Mercy speaking wind is framed as the Spirit making God's command discernible, merciful, and timely in the waiting.
+**Context and language lens:** Moses speaking what the Lord commanded. Mercy speaking wind is framed as the Spirit making God's command discernible, merciful, and timely in the waiting.
 
 Exodus 35:4 moves from rhythm into command. Moses does not speak from impulse. He gives the people what the Lord has commanded.
 
@@ -3930,7 +3930,7 @@ The Spirit grows fruit by making God's voice mercifully clear in surrendered wai
 
 **Scripture Reference:** Exodus 35:5
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses the willing-hearted offering in the text. Oil for the journey is framed as Spirit-breathed witness that gives freely because surrender has loosened the grip.
+**Context and language lens:** The willing-hearted offering in the text. Oil for the journey is framed as Spirit-breathed witness that gives freely because surrender has loosened the grip.
 
 Exodus 35:5 calls for an offering from willing hearts. The gift is not dragged out of the people. It rises from surrendered willingness.
 
@@ -3958,7 +3958,7 @@ The Spirit forms surrendered fruit by making willingness a living witness.
 
 **Scripture Reference:** Exodus 35:6
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses the prepared materials named for sacred work. Freedom in the Spirit is framed as being set apart for God's purpose, not scattered into self-direction.
+**Context and language lens:** The prepared materials named for sacred work. Freedom in the Spirit is framed as being set apart for God's purpose, not scattered into self-direction.
 
 Exodus 35:6 names materials that will be brought for the work. Ordinary possessions become part of sacred construction when surrendered to God's purpose.
 
@@ -3986,7 +3986,7 @@ The Spirit grows fruit by turning freedom into set-apart surrender.
 
 **Scripture Reference:** Exodus 35:7
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses costly coverings prepared for sacred work. The breath of God is framed as strength that covers, protects, and steadies surrender.
+**Context and language lens:** Costly coverings prepared for sacred work. The breath of God is framed as strength that covers, protects, and steadies surrender.
 
 Exodus 35:7 continues the list of materials for the sanctuary work. Coverings matter because what God builds is not left exposed to every element.
 
@@ -4014,7 +4014,7 @@ The Spirit grows fruit by strengthening surrendered hearts without hardening the
 
 **Scripture Reference:** Exodus 35:9
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses precious stones prepared for priestly service. The Comforter's nearness is framed as cleansing and renewal that makes hidden beauty available for God's service.
+**Context and language lens:** Precious stones prepared for priestly service. The Comforter's nearness is framed as cleansing and renewal that makes hidden beauty available for God's service.
 
 Exodus 35:9 names stones that will be used in sacred garments and service. What is precious is not hidden for vanity. It is prepared for holy use.
 
@@ -4042,7 +4042,7 @@ The Spirit grows fruit by bringing hidden beauty into surrendered service.
 
 **Scripture Reference:** Exodus 35:10
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses skilled hearts invited to come and make what the Lord commanded. Holy fire is framed as Spirit-guided skill anchored to God's instruction.
+**Context and language lens:** Skilled hearts invited to come and make what the Lord commanded. Holy fire is framed as Spirit-guided skill anchored to God's instruction.
 
 Exodus 35:10 calls skilled hearts to come and make what the Lord commanded. Ability is honored, but it is not made sovereign. Skill is brought under God's word.
 
@@ -4073,7 +4073,7 @@ The Spirit grows fruit by anchoring skill, passion, and fire to God's instructio
 
 **Scripture Reference:** Exodus 35:11
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses the sanctuary structure and coverings in the text. Rain for dry places is framed as Spirit-breathed witness that gives shape and shelter to surrendered places.
+**Context and language lens:** The sanctuary structure and coverings in the text. Rain for dry places is framed as Spirit-breathed witness that gives shape and shelter to surrendered places.
 
 Exodus 35:11 names the pieces that will form the tabernacle structure. The work is not vague. The place of meeting will have shape, covering, connection, and strength.
 
@@ -4101,7 +4101,7 @@ The Spirit grows fruit by giving surrendered lives holy shape and shelter.
 
 **Scripture Reference:** Exodus 35:12
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses the ark, mercy seat, and veil imagery in the text. The anointing for today is framed as being set apart near mercy, not performing beyond grace.
+**Context and language lens:** The ark, mercy seat, and veil imagery in the text. The anointing for today is framed as being set apart near mercy, not performing beyond grace.
 
 Exodus 35:12 points to holy objects connected to God's presence, mercy, and covering. Sacred nearness is handled with reverence.
 
@@ -4129,7 +4129,7 @@ The Spirit grows fruit by setting surrendered hearts apart near mercy.
 
 **Scripture Reference:** Exodus 35:13
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses the table, its vessels, and the bread of the Presence. The Spirit's fruit is framed as strength for steady nourishment in God's presence.
+**Context and language lens:** The table, its vessels, and the bread of the Presence. The Spirit's fruit is framed as strength for steady nourishment in God's presence.
 
 Exodus 35:13 brings the table and its service into view. The holy place includes provision, order, and a sign that God's presence nourishes His people.
 
@@ -4157,7 +4157,7 @@ The Spirit grows fruit by strengthening the heart with steady nourishment in God
 
 **Scripture Reference:** Exodus 35:14
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the lampstand and oil for light. Power to witness is framed as cleansed, renewed light that rises from surrendered hope.
+**Context and language lens:** The lampstand and oil for light. Power to witness is framed as cleansed, renewed light that rises from surrendered hope.
 
 Exodus 35:14 names the lampstand, its vessels, and oil for the light. Witness is not treated as noise. It is light prepared for holy purpose.
 
@@ -4185,7 +4185,7 @@ The Spirit grows fruit by renewing hope until witness becomes clear light.
 
 **Scripture Reference:** Exodus 35:16
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses altar, basin, and utensils for surrendered worship and cleansing. The seal of belonging is framed as hearing God's nearness in cleansing, consecration, and return.
+**Context and language lens:** Altar, basin, and utensils for surrendered worship and cleansing. The seal of belonging is framed as hearing God's nearness in cleansing, consecration, and return.
 
 Exodus 35:16 gathers pieces connected to worship, offering, cleansing, and readiness. Belonging is not sentimental. It is brought to God, cleansed by God, and returned to God.
 
@@ -4213,7 +4213,7 @@ The Spirit grows fruit by calling every hidden place back into cleansed belongin
 
 **Scripture Reference:** Exodus 35:17
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses the courtyard hangings, pillars, and entrance. Prayer beyond words is framed as Spirit-breathed witness that creates a guarded, honest threshold with God.
+**Context and language lens:** The courtyard hangings, pillars, and entrance. Prayer beyond words is framed as Spirit-breathed witness that creates a guarded, honest threshold with God.
 
 Exodus 35:17 names the courtyard boundaries and entrance. Sacred space has a threshold. There is a way to draw near.
 
@@ -4241,7 +4241,7 @@ The Spirit grows fruit by helping wordless hearts cross the threshold toward God
 
 **Scripture Reference:** Exodus 35:18
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses the stakes and cords that hold the tabernacle and courtyard in place. Wind in the waiting is framed as set-apart stability when life feels exposed.
+**Context and language lens:** The stakes and cords that hold the tabernacle and courtyard in place. Wind in the waiting is framed as set-apart stability when life feels exposed.
 
 Exodus 35:18 names the stakes and cords. These are not the most glamorous pieces, but they help hold the sacred structure steady.
 
@@ -4272,7 +4272,7 @@ The Spirit grows fruit by anchoring surrendered hearts in hidden faithfulness.
 
 **Scripture Reference:** Exodus 35:19
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses the finely made garments for ministry in the holy place. Oil for the journey is framed as strength for service that is clothed in reverence, not self-display.
+**Context and language lens:** The finely made garments for ministry in the holy place. Oil for the journey is framed as strength for service that is clothed in reverence, not self-display.
 
 Exodus 35:19 names garments made for ministry in the holy place. Service is not treated as casual exposure. It is clothed, prepared, and set within reverence.
 
@@ -4300,7 +4300,7 @@ The Spirit grows fruit by clothing service in reverent strength.
 
 **Scripture Reference:** Exodus 35:20
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the congregation leaving Moses' presence to respond. Freedom in the Spirit is framed as cleansed willingness that moves after hearing God's word.
+**Context and language lens:** The congregation leaving Moses' presence to respond. Freedom in the Spirit is framed as cleansed willingness that moves after hearing God's word.
 
 Exodus 35:20 shows the people leaving Moses' presence after instruction. Hearing becomes a doorway into response.
 
@@ -4328,7 +4328,7 @@ The Spirit grows fruit by washing freedom until it becomes willing response.
 
 **Scripture Reference:** Exodus 35:22
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses willing hearts bringing offerings. The breath of God is framed as God's nearness becoming discernible through willing generosity.
+**Context and language lens:** Willing hearts bringing offerings. The breath of God is framed as God's nearness becoming discernible through willing generosity.
 
 Exodus 35:22 shows willing hearts bringing what they have. The offering is not lifeless compliance. It is a response from hearts moved toward God.
 
@@ -4359,7 +4359,7 @@ The Spirit grows fruit by making generosity a living sign of surrendered nearnes
 
 **Scripture Reference:** Exodus 35:23
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses people bringing materials they had for the sanctuary work. Holy fire is framed as Spirit-breathed witness that turns available gifts into service for the body.
+**Context and language lens:** People bringing materials they had for the sanctuary work. Holy fire is framed as Spirit-breathed witness that turns available gifts into service for the body.
 
 Exodus 35:23 shows people bringing what was in their hands. The work of God receives many kinds of material, and none of it is treated as meaningless when surrendered for holy purpose.
 
@@ -4387,7 +4387,7 @@ The Spirit gives gifts for the body by breathing holy purpose into what surrende
 
 **Scripture Reference:** Exodus 35:24
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses people bringing precious metals and materials for the work. Rain for dry places is framed as gifts set apart to renew what scarcity has dried out.
+**Context and language lens:** People bringing precious metals and materials for the work. Rain for dry places is framed as gifts set apart to renew what scarcity has dried out.
 
 Exodus 35:24 continues the pattern of willing contribution. What has value is not hoarded as private security. It is brought for the Lord's work.
 
@@ -4415,7 +4415,7 @@ The Spirit gives gifts for the body by setting resources apart for renewal.
 
 **Scripture Reference:** Exodus 35:25
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses skilled women spinning with their hands. The anointing for today is framed as capacity for faithful craft offered to the body with humility.
+**Context and language lens:** Skilled women spinning with their hands. The anointing for today is framed as capacity for faithful craft offered to the body with humility.
 
 Exodus 35:25 honors skilled hands. The sanctuary work includes craft, patience, attention, and embodied wisdom.
 
@@ -4443,7 +4443,7 @@ The Spirit gives gifts for the body through humble, faithful craft.
 
 **Scripture Reference:** Exodus 35:26
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses hearts stirred in wisdom to contribute skilled work. The Spirit's fruit is framed as renewal that moves wisdom from the heart into helpful service.
+**Context and language lens:** Hearts stirred in wisdom to contribute skilled work. The Spirit's fruit is framed as renewal that moves wisdom from the heart into helpful service.
 
 Exodus 35:26 describes willing hearts stirred in wisdom. The gift is not only in the hands. Something holy is moving in the heart.
 
@@ -4471,7 +4471,7 @@ The Spirit gives gifts for the body by watering wisdom until service carries fru
 
 **Scripture Reference:** Exodus 35:27
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses leaders bringing costly stones and spices. Power to witness is framed as God's nearness becoming discernible when influence offers its best humbly.
+**Context and language lens:** Leaders bringing costly stones and spices. Power to witness is framed as God's nearness becoming discernible when influence offers its best humbly.
 
 Exodus 35:27 shows leaders bringing costly materials. Influence is not exempt from surrender. Position also has something to offer.
 
@@ -4499,7 +4499,7 @@ The Spirit gives gifts for the body by turning influence into humble witness.
 
 **Scripture Reference:** Exodus 35:29
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses willing men and women bringing freewill offerings. The seal of belonging is framed as Spirit-breathed witness that the whole body belongs through willing surrender.
+**Context and language lens:** Willing men and women bringing freewill offerings. The seal of belonging is framed as Spirit-breathed witness that the whole body belongs through willing surrender.
 
 Exodus 35:29 gathers the people in willing offering. The work is shared by men and women whose hearts are moved toward God.
 
@@ -4527,7 +4527,7 @@ The Spirit gives gifts for the body by turning belonging into willing, shared of
 
 **Scripture Reference:** Exodus 35:30
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Bezalel being called by name for skilled work. Prayer beyond words is framed as being set apart by God's mercy before the gift is exercised.
+**Context and language lens:** Bezalel being called by name for skilled work. Prayer beyond words is framed as being set apart by God's mercy before the gift is exercised.
 
 Exodus 35:30 names a worker called for a specific purpose. The gift is personal, but it is not private property. It belongs to the God who calls by name.
 
@@ -4558,7 +4558,7 @@ The Spirit gives gifts for the body by setting called people near mercy before s
 
 **Scripture Reference:** Exodus 35:32
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Spirit-enabled design for skilled work. Wind in the waiting is framed as strength for patient imagination that serves the body.
+**Context and language lens:** Spirit-enabled design for skilled work. Wind in the waiting is framed as strength for patient imagination that serves the body.
 
 Exodus 35:32 points to designed work in costly materials. Skill is not random. The Spirit can give wisdom that sees what is not yet formed and helps bring it into faithful shape.
 
@@ -4586,7 +4586,7 @@ The Spirit gives gifts for the body by strengthening patient imagination.
 
 **Scripture Reference:** Exodus 35:33
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses stone-setting, carving, and skilled workmanship. Oil for the journey is framed as renewal for detailed service that can otherwise become dry.
+**Context and language lens:** Stone-setting, carving, and skilled workmanship. Oil for the journey is framed as renewal for detailed service that can otherwise become dry.
 
 Exodus 35:33 honors careful workmanship. Some gifts require detail, repetition, pressure, and patience with small things.
 
@@ -4614,7 +4614,7 @@ The Spirit gives gifts for the body by renewing detailed service.
 
 **Scripture Reference:** Exodus 35:34
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses God-given ability to teach. Freedom in the Spirit is framed as hearing God's nearness through gifts that multiply by equipping others.
+**Context and language lens:** God-given ability to teach. Freedom in the Spirit is framed as hearing God's nearness through gifts that multiply by equipping others.
 
 Exodus 35:34 includes the ability to teach. The gift is not locked inside one person. It is meant to be shared, multiplied, and passed along.
 
@@ -4642,7 +4642,7 @@ The Spirit gives gifts for the body by turning ability into shared equipping.
 
 **Scripture Reference:** Numbers 11:4
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses craving and complaint in the wilderness. The breath of God is framed as Spirit-breathed witness that protects gifts for the body from appetite-led discontent.
+**Context and language lens:** Craving and complaint in the wilderness. The breath of God is framed as Spirit-breathed witness that protects gifts for the body from appetite-led discontent.
 
 Numbers 11:4 introduces craving in the camp. Desire begins to pull the people away from trust.
 
@@ -4670,7 +4670,7 @@ The Spirit gives gifts for the body by breathing trust where craving wants contr
 
 **Scripture Reference:** Numbers 11:5
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses nostalgia for Egypt's food. The Comforter's nearness is framed as a set-apart anchor when memory idealizes what God has delivered the heart from.
+**Context and language lens:** Nostalgia for Egypt's food. The Comforter's nearness is framed as a set-apart anchor when memory idealizes what God has delivered the heart from.
 
 Numbers 11:5 remembers old food while forgetting old bondage. Nostalgia can edit the past until slavery starts looking safe.
 
@@ -4698,7 +4698,7 @@ The Spirit gives gifts for the body by anchoring memory in truth.
 
 **Scripture Reference:** Numbers 11:6
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses the people's complaint that their soul felt dried out. Holy fire is framed as Spirit-given strength that refuses contempt for God's provision.
+**Context and language lens:** The people's complaint that their soul felt dried out. Holy fire is framed as Spirit-given strength that refuses contempt for God's provision.
 
 Numbers 11:6 exposes a dry and dissatisfied soul. Provision is present, but contempt has made it feel like nothing.
 
@@ -4726,7 +4726,7 @@ The Spirit gives gifts for the body by strengthening gratitude where contempt ha
 
 **Scripture Reference:** Numbers 11:7
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the description of manna after the complaint. Rain for dry places is framed as renewal that teaches the heart to see provision again.
+**Context and language lens:** The description of manna after the complaint. Rain for dry places is framed as renewal that teaches the heart to see provision again.
 
 Numbers 11:7 returns attention to manna itself. The provision was there even when the people were tired of seeing it.
 
@@ -4757,7 +4757,7 @@ The Spirit gives gifts for the body by renewing the ability to see provision.
 
 **Scripture Reference:** Numbers 11:8
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses the people's daily handling and preparing of manna. The anointing for today is framed as God's nearness becoming discernible in ordinary receiving, preparing, and sharing.
+**Context and language lens:** The people's daily handling and preparing of manna. The anointing for today is framed as God's nearness becoming discernible in ordinary receiving, preparing, and sharing.
 
 Numbers 11:8 shows provision being gathered, prepared, and made usable. Daily grace still asks to be received and handled faithfully.
 
@@ -4785,7 +4785,7 @@ The Spirit gives gifts for the body by making ordinary provision usable through 
 
 **Scripture Reference:** Numbers 11:9
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses manna arriving with the dew. The Spirit's fruit is framed as Spirit-breathed witness that hope can rise quietly with daily mercy.
+**Context and language lens:** Manna arriving with the dew. The Spirit's fruit is framed as Spirit-breathed witness that hope can rise quietly with daily mercy.
 
 Numbers 11:9 returns to quiet provision. Manna arrives with the morning dew, steady and undeserved.
 
@@ -4813,7 +4813,7 @@ The Spirit gives gifts for the body by letting hope rise through daily mercy.
 
 **Scripture Reference:** Numbers 11:10
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Moses hearing the people weep and feeling the burden before the Lord. Power to witness is framed as being set apart to carry grief honestly into God's presence.
+**Context and language lens:** Moses hearing the people weep and feeling the burden before the Lord. Power to witness is framed as being set apart to carry grief honestly into God's presence.
 
 Numbers 11:10 is not a peaceful leadership moment. Moses hears widespread weeping, and the burden becomes heavy.
 
@@ -4841,7 +4841,7 @@ The Spirit gives gifts for the body by setting burdens apart for honest interces
 
 **Scripture Reference:** Numbers 11:11
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Moses' honest question to God under leadership strain. The seal of belonging is framed as strength to bring hard questions to God instead of abandoning the body.
+**Context and language lens:** Moses' honest question to God under leadership strain. The seal of belonging is framed as strength to bring hard questions to God instead of abandoning the body.
 
 Numbers 11:11 gives space for a strained servant to speak honestly to God. The pressure is not hidden under polished religious language.
 
@@ -4869,7 +4869,7 @@ The Spirit gives gifts for the body by strengthening honest belonging under pres
 
 **Scripture Reference:** Numbers 11:12
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses Moses' image of carrying the people like a nursing caregiver. Prayer beyond words is framed as renewal for caregiving burdens that exceed human capacity.
+**Context and language lens:** Moses' image of carrying the people like a nursing caregiver. Prayer beyond words is framed as renewal for caregiving burdens that exceed human capacity.
 
 Numbers 11:12 exposes the weight Moses feels. The burden is described with caregiving imagery, intimate and exhausting.
 
@@ -4897,7 +4897,7 @@ The Spirit gives gifts for the body by renewing caregivers who know they need Go
 
 **Scripture Reference:** Numbers 11:13
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Moses' question about where provision will come from. Wind in the waiting is framed as God's voice becoming discernible when love does not know how to meet the need.
+**Context and language lens:** Moses' question about where provision will come from. Wind in the waiting is framed as God's voice becoming discernible when love does not know how to meet the need.
 
 Numbers 11:13 holds the ache of a leader facing needs he cannot satisfy. The question is practical and desperate.
 
@@ -4925,7 +4925,7 @@ The Spirit gives gifts for the body by teaching love to listen when it cannot su
 
 **Scripture Reference:** Numbers 11:14
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Moses admitting he cannot carry the people alone. Oil for the journey is framed as Spirit-breathed witness that shared burden is part of God's mercy.
+**Context and language lens:** Moses admitting he cannot carry the people alone. Oil for the journey is framed as Spirit-breathed witness that shared burden is part of God's mercy.
 
 Numbers 11:14 is holy honesty. Moses says the burden is too heavy for him to carry alone.
 
@@ -4956,7 +4956,7 @@ The Spirit gives gifts for the body by turning honest limits into shared mercy.
 
 **Scripture Reference:** Numbers 11:16
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses God's instruction to gather elders to share the burden. Freedom in the Spirit is framed as leadership set apart for shared responsibility.
+**Context and language lens:** God's instruction to gather elders to share the burden. Freedom in the Spirit is framed as leadership set apart for shared responsibility.
 
 Numbers 11:16 answers Moses' impossible burden with shared leadership. God does not shame the limit. He begins to distribute the weight.
 
@@ -4984,7 +4984,7 @@ The Spirit gives gifts for the body by setting leadership free from isolation.
 
 **Scripture Reference:** Numbers 11:18
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses God's command for the people to prepare themselves after their craving. The breath of God is framed as strength to receive correction without losing reverence.
+**Context and language lens:** God's command for the people to prepare themselves after their craving. The breath of God is framed as strength to receive correction without losing reverence.
 
 Numbers 11:18 shows God addressing the people's craving directly. Desire is not ignored. It is brought under holy confrontation.
 
@@ -5012,7 +5012,7 @@ The Spirit gives gifts for the body by strengthening hearts to receive holy corr
 
 **Scripture Reference:** Numbers 11:19
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses God's response to persistent craving. The Comforter's nearness is framed as renewal that keeps desire from becoming excess.
+**Context and language lens:** God's response to persistent craving. The Comforter's nearness is framed as renewal that keeps desire from becoming excess.
 
 Numbers 11:19 begins to show the seriousness of unchecked craving. What the people demanded will not heal what is wrong in the heart.
 
@@ -5040,7 +5040,7 @@ The Spirit gives gifts for the body by renewing desire near the Comforter.
 
 **Scripture Reference:** Numbers 11:20
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses God's warning that rejected provision can turn desired excess into grief. Holy fire is framed as God's voice bringing peace through truth, not appeasement.
+**Context and language lens:** God's warning that rejected provision can turn desired excess into grief. Holy fire is framed as God's voice bringing peace through truth, not appeasement.
 
 Numbers 11:20 is a hard warning. The people have not only wanted food. They have treated God's deliverance and provision with rejection.
 
@@ -5068,7 +5068,7 @@ The Spirit gives gifts for the body by letting truthful fire lead to peace.
 
 **Scripture Reference:** Numbers 11:21
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Moses naming the practical impossibility before him. Rain for dry places is framed as Spirit-breathed witness that brings real limitation into prayer.
+**Context and language lens:** Moses naming the practical impossibility before him. Rain for dry places is framed as Spirit-breathed witness that brings real limitation into prayer.
 
 Numbers 11:21 lets Moses speak about the scale of the problem. The numbers are overwhelming. The need looks impossible.
 
@@ -5096,7 +5096,7 @@ The Spirit gives gifts for the body by turning honest limitation into prayer.
 
 **Scripture Reference:** Numbers 11:22
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Moses questioning whether available resources could satisfy the people. The anointing for today is framed as being set apart from scarcity logic while still telling God the truth.
+**Context and language lens:** Moses questioning whether available resources could satisfy the people. The anointing for today is framed as being set apart from scarcity logic while still telling God the truth.
 
 Numbers 11:22 presses the question of sufficiency. Moses looks at the available resources and cannot see how they could meet the demand.
 
@@ -5124,7 +5124,7 @@ The Spirit gives gifts for the body by setting scarcity logic under God's suffic
 
 **Scripture Reference:** Numbers 11:23
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses the Lord's answer that His power is not shortened. The Spirit's fruit is framed as strength to stand in trust when God's ability confronts human limitation.
+**Context and language lens:** The Lord's answer that His power is not shortened. The Spirit's fruit is framed as strength to stand in trust when God's ability confronts human limitation.
 
 Numbers 11:23 answers scarcity with God's own power. The question is not whether human capacity is enough. The question is whether the Lord is limited.
 
@@ -5155,7 +5155,7 @@ The Spirit gives gifts for the body by strengthening trust in God's power.
 
 **Scripture Reference:** Numbers 11:24
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses Moses gathering the elders and speaking the Lord's words. Grace is framed as renewal that turns private burden into shared witness through obedient leadership.
+**Context and language lens:** Moses gathering the elders and speaking the Lord's words. Grace is framed as renewal that turns private burden into shared witness through obedient leadership.
 
 Numbers 11:24 shows Moses moving from his complaint into obedience. He gathers the elders and speaks what the Lord has said. The burden is still real, but it is no longer carried in isolation.
 
@@ -5183,7 +5183,7 @@ The Spirit gives gifts for the body by turning renewed obedience into shared wit
 
 **Scripture Reference:** Numbers 11:27
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses the report that Eldad and Medad were prophesying in the camp. The seal of belonging is framed as God's voice confirming that His Spirit is not controlled by human expectations.
+**Context and language lens:** The report that Eldad and Medad were prophesying in the camp. The seal of belonging is framed as God's voice confirming that His Spirit is not controlled by human expectations.
 
 Numbers 11:27 brings unexpected news. Two men are prophesying in the camp, outside the neat place where others expected the sign to happen.
 
@@ -5214,7 +5214,7 @@ The Spirit gives gifts for the body by confirming belonging beyond human control
 
 **Scripture Reference:** Numbers 11:28
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Joshua's concern over Eldad and Medad. Wind in the waiting is framed as Spirit-taught patience when another person's gift unsettles our expectations.
+**Context and language lens:** Joshua's concern over Eldad and Medad. Wind in the waiting is framed as Spirit-taught patience when another person's gift unsettles our expectations.
 
 Numbers 11:28 shows Joshua reacting to what seems irregular. He sees people prophesying in the camp and wants Moses to restrain them.
 
@@ -5242,7 +5242,7 @@ The Spirit rains on dry places by loosening control and teaching patient discern
 
 **Scripture Reference:** Numbers 11:30
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Moses returning to the camp with the elders. Oil for the journey is framed as inward renewal that returns spiritual experience to ordinary community life.
+**Context and language lens:** Moses returning to the camp with the elders. Oil for the journey is framed as inward renewal that returns spiritual experience to ordinary community life.
 
 Numbers 11:30 brings the scene back to the camp. The moment of shared Spirit-given participation does not end in display. It returns to the people who still need faithful presence.
 
@@ -5270,7 +5270,7 @@ The Spirit rains on dry places by renewing the heart for faithful return.
 
 **Scripture Reference:** Numbers 11:32
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the people gathering quail in abundance. Freedom in the Spirit is framed as holy fire that exposes the bondage of unchecked appetite.
+**Context and language lens:** The people gathering quail in abundance. Freedom in the Spirit is framed as holy fire that exposes the bondage of unchecked appetite.
 
 Numbers 11:32 is abundance without healing. The people gather what they craved, but the heart beneath the craving has not been restored.
 
@@ -5298,7 +5298,7 @@ The Spirit rains on dry places by freeing desire from the bondage of excess.
 
 **Scripture Reference:** Numbers 11:33
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the warning of judgment while craving is still active. The breath of God is framed as consecrated life that must not be traded for appetite.
+**Context and language lens:** The warning of judgment while craving is still active. The breath of God is framed as consecrated life that must not be traded for appetite.
 
 Numbers 11:33 is sobering. The craving has not become harmless just because the people received what they demanded.
 
@@ -5326,7 +5326,7 @@ The Spirit rains on dry places by anchoring life in God's breath rather than cra
 
 **Scripture Reference:** Numbers 11:34
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the naming of Kibroth-hattaavah, the graves of craving. The Comforter's nearness is framed as settled mercy that teaches the heart to remember warnings without despair.
+**Context and language lens:** The naming of Kibroth-hattaavah, the graves of craving. The Comforter's nearness is framed as settled mercy that teaches the heart to remember warnings without despair.
 
 Numbers 11:34 gives a place a painful name. The story does not erase the cost of craving. It remembers it.
 
@@ -5354,7 +5354,7 @@ The Spirit rains on dry places by turning remembered warning into settled mercy.
 
 **Scripture Reference:** Numbers 11:35
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Israel's movement from Kibroth-hattaavah to Hazeroth. Holy fire is framed as Spirit-led movement after correction, not staying permanently camped at failure.
+**Context and language lens:** Israel's movement from Kibroth-hattaavah to Hazeroth. Holy fire is framed as Spirit-led movement after correction, not staying permanently camped at failure.
 
 Numbers 11:35 shows movement after a painful place. The people do not stay forever where craving was judged.
 
@@ -5382,7 +5382,7 @@ The Spirit rains on dry places by moving corrected hearts forward.
 
 **Scripture Reference:** Numbers 27:1
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the daughters of Zelophehad being named as they come forward. Rain for dry places is framed as inward courage to bring an overlooked need into the presence of God's people.
+**Context and language lens:** The daughters of Zelophehad being named as they come forward. Rain for dry places is framed as inward courage to bring an overlooked need into the presence of God's people.
 
 Numbers 27:1 begins with names. The daughters of Zelophehad are not treated as a vague problem. They come forward as real women with a real need.
 
@@ -5413,7 +5413,7 @@ The Spirit rains on dry places by giving overlooked hearts courage to come forwa
 
 **Scripture Reference:** Numbers 27:2
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the daughters of Zelophehad standing before Moses, Eleazar, the leaders, and the congregation. The anointing for today is framed as holy courage to bring a need into the right place with reverence.
+**Context and language lens:** The daughters of Zelophehad standing before Moses, Eleazar, the leaders, and the congregation. The anointing for today is framed as holy courage to bring a need into the right place with reverence.
 
 Numbers 27:2 shows the daughters coming forward publicly and respectfully. They do not hide their need, and they do not treat reverence as silence.
 
@@ -5441,7 +5441,7 @@ The Spirit rains on dry places by anointing reverent courage for the right momen
 
 **Scripture Reference:** Numbers 27:3
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the daughters naming their father's story truthfully. The Spirit's fruit is framed as consecrated honesty that tells the truth without bitterness.
+**Context and language lens:** The daughters naming their father's story truthfully. The Spirit's fruit is framed as consecrated honesty that tells the truth without bitterness.
 
 Numbers 27:3 shows the daughters speaking with careful truth. They name their father's death, clarify what he was not part of, and make the family story plain.
 
@@ -5469,7 +5469,7 @@ The Spirit rains on dry places by making honesty fruitful instead of bitter.
 
 **Scripture Reference:** Numbers 27:4
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the daughters asking why their father's name should disappear and requesting an inheritance. Power to witness is framed as settled courage to ask for belonging without panic.
+**Context and language lens:** The daughters asking why their father's name should disappear and requesting an inheritance. Power to witness is framed as settled courage to ask for belonging without panic.
 
 Numbers 27:4 gives their petition. They ask a clear question and make a concrete request.
 
@@ -5497,7 +5497,7 @@ The Spirit rains on dry places by giving settled courage to ask for belonging.
 
 **Scripture Reference:** Numbers 27:5
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Moses bringing the daughters' case before the Lord. The seal of belonging is framed as Spirit-taught humility that waits for God's judgment rather than forcing human control.
+**Context and language lens:** Moses bringing the daughters' case before the Lord. The seal of belonging is framed as Spirit-taught humility that waits for God's judgment rather than forcing human control.
 
 Numbers 27:5 shows Moses doing something beautiful with authority. He brings the case before the Lord.
 
@@ -5525,7 +5525,7 @@ The Spirit rains on dry places by sealing belonging in the presence of the Lord.
 
 **Scripture Reference:** Numbers 27:6
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the Lord speaking to Moses. Prayer beyond words is framed as inward renewal that remains open to God's answer after the petition is placed before Him.
+**Context and language lens:** The Lord speaking to Moses. Prayer beyond words is framed as inward renewal that remains open to God's answer after the petition is placed before Him.
 
 Numbers 27:6 begins the answer. The Lord speaks after the case is brought before Him.
 
@@ -5553,7 +5553,7 @@ The Spirit rains on dry places by renewing the heart to receive God's answer.
 
 **Scripture Reference:** Numbers 27:7
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's affirmation that the daughters speak rightly and His command to give them an inheritance. Wind in the waiting is framed as holy fire that vindicates truth and makes room for justice.
+**Context and language lens:** God's affirmation that the daughters speak rightly and His command to give them an inheritance. Wind in the waiting is framed as holy fire that vindicates truth and makes room for justice.
 
 Numbers 27:7 is a moment of holy affirmation. The Lord says the daughters have spoken rightly, and He commands that inheritance be given.
 
@@ -5581,7 +5581,7 @@ The Spirit rains on dry places by affirming truth and making room for justice.
 
 **Scripture Reference:** Numbers 27:8
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's instruction that inheritance pass to a daughter when there is no son. Oil for the journey is framed as consecrated guidance that turns one faithful case into a path for others.
+**Context and language lens:** God's instruction that inheritance pass to a daughter when there is no son. Oil for the journey is framed as consecrated guidance that turns one faithful case into a path for others.
 
 Numbers 27:8 shows the answer becoming instruction. What began as one family's need becomes guidance for the community.
 
@@ -5612,7 +5612,7 @@ The Spirit rains on dry places by turning received mercy into guidance for the j
 
 **Scripture Reference:** Numbers 27:9
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's inheritance instruction when there is no daughter. Freedom in the Spirit is framed as settled trust that God's care can continue through faithful order.
+**Context and language lens:** God's inheritance instruction when there is no daughter. Freedom in the Spirit is framed as settled trust that God's care can continue through faithful order.
 
 Numbers 27:9 continues the inheritance instruction. God makes provision so the family line is not left without a path.
 
@@ -5640,7 +5640,7 @@ The Spirit rains on dry places by settling freedom inside God's faithful order.
 
 **Scripture Reference:** Numbers 27:10
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the instruction for inheritance to pass to the father's brothers. The breath of God is framed as life moving through responsibility when fear says no one will remember.
+**Context and language lens:** The instruction for inheritance to pass to the father's brothers. The breath of God is framed as life moving through responsibility when fear says no one will remember.
 
 Numbers 27:10 continues the careful path of provision. The issue is not dismissed as too complicated. God keeps speaking into the details.
 
@@ -5668,7 +5668,7 @@ The Spirit rains on dry places by breathing life into faithful responsibility.
 
 **Scripture Reference:** Numbers 27:11
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's broader inheritance statute for nearest kin. The Comforter's nearness is framed as inward renewal that trusts God's care in complicated family and community realities.
+**Context and language lens:** God's broader inheritance statute for nearest kin. The Comforter's nearness is framed as inward renewal that trusts God's care in complicated family and community realities.
 
 Numbers 27:11 turns the case into a lasting statute. A complicated need becomes a path of care for more than one family.
 
@@ -5696,7 +5696,7 @@ The Spirit rains on dry places by renewing peace for complex responsibilities.
 
 **Scripture Reference:** Numbers 27:12
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God inviting Moses to go up the mountain and see the land. Holy fire is framed as purified sight that receives God's promise even when personal limits are real.
+**Context and language lens:** God inviting Moses to go up the mountain and see the land. Holy fire is framed as purified sight that receives God's promise even when personal limits are real.
 
 Numbers 27:12 is tender and weighty. Moses is told to go up and see the land God is giving His people.
 
@@ -5724,7 +5724,7 @@ The Spirit rains on dry places by purifying sight into surrendered worship.
 
 **Scripture Reference:** Numbers 27:13
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's word that Moses will be gathered to his people after seeing the land. Rain for dry places is framed as consecrated tenderness in the face of limits, transition, and mortality.
+**Context and language lens:** God's word that Moses will be gathered to his people after seeing the land. Rain for dry places is framed as consecrated tenderness in the face of limits, transition, and mortality.
 
 Numbers 27:13 continues the hard tenderness of the moment. Moses will see the land, and then his own journey will close.
 
@@ -5752,7 +5752,7 @@ The Spirit rains on dry places by consecrating limits with tender trust.
 
 **Scripture Reference:** Numbers 27:14
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's reminder of Moses' failure to uphold His holiness at Meribah. The anointing for today is framed as settled accountability that receives truth without losing God's mercy.
+**Context and language lens:** God's reminder of Moses' failure to uphold His holiness at Meribah. The anointing for today is framed as settled accountability that receives truth without losing God's mercy.
 
 Numbers 27:14 names the reason for Moses' limit. God does not erase the truth, even in a tender transition.
 
@@ -5780,7 +5780,7 @@ The Spirit rains on dry places by settling accountability inside mercy.
 
 **Scripture Reference:** Numbers 27:15
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Moses speaking to the Lord after hearing about his transition. The Spirit's fruit is framed as grace that turns personal limitation into prayerful care for the people.
+**Context and language lens:** Moses speaking to the Lord after hearing about his transition. The Spirit's fruit is framed as grace that turns personal limitation into prayerful care for the people.
 
 Numbers 27:15 shows Moses speaking to the Lord. After hearing hard truth about his own transition, he turns toward God.
 
@@ -5811,7 +5811,7 @@ The Spirit rains on dry places by turning limitation into prayerful care.
 
 **Scripture Reference:** Numbers 27:17
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Moses' concern that the congregation not be left like sheep without a shepherd. Power to witness is framed as a renewed heart that cares for the people after personal transition.
+**Context and language lens:** Moses' concern that the congregation not be left like sheep without a shepherd. Power to witness is framed as a renewed heart that cares for the people after personal transition.
 
 Numbers 27:17 reveals Moses' shepherding heart. He has heard about his own limit, yet his prayer turns toward the people who still need guidance.
 
@@ -5839,7 +5839,7 @@ The Spirit rains on dry places by renewing witness into shepherding care.
 
 **Scripture Reference:** Numbers 27:19
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's instruction to set Joshua before Eleazar and the congregation. The seal of belonging is framed as holy fire that confirms calling in accountable community.
+**Context and language lens:** God's instruction to set Joshua before Eleazar and the congregation. The seal of belonging is framed as holy fire that confirms calling in accountable community.
 
 Numbers 27:19 shows that Joshua's calling is not hidden in private ambition. He is set before priest and people, and the transition is made visible.
 
@@ -5867,7 +5867,7 @@ The Spirit rains on dry places by confirming calling in accountable community.
 
 **Scripture Reference:** Numbers 27:20
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's instruction to put some of Moses' honor on Joshua so the congregation will obey. Prayer beyond words is framed as consecrated transfer that helps others receive new leadership.
+**Context and language lens:** God's instruction to put some of Moses' honor on Joshua so the congregation will obey. Prayer beyond words is framed as consecrated transfer that helps others receive new leadership.
 
 Numbers 27:20 shows honor being shared for the sake of the people. Moses is not asked to disappear bitterly. Joshua is not asked to lead without recognizable support.
 
@@ -5895,7 +5895,7 @@ The Spirit rains on dry places by consecrating honor for the next season.
 
 **Scripture Reference:** Numbers 27:21
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's instruction that Joshua inquire before the Lord through Eleazar before movement. Wind in the waiting is framed as settled dependence on God's counsel before action.
+**Context and language lens:** God's instruction that Joshua inquire before the Lord through Eleazar before movement. Wind in the waiting is framed as settled dependence on God's counsel before action.
 
 Numbers 27:21 places leadership under divine counsel. Going out and coming in must happen at the Lord's command.
 
@@ -5923,7 +5923,7 @@ The Spirit rains on dry places by settling action under God's counsel.
 
 **Scripture Reference:** Numbers 27:22
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Moses doing as the Lord commanded and taking Joshua. Oil for the journey is framed as Spirit-breathed obedience that acts when the instruction is clear.
+**Context and language lens:** Moses doing as the Lord commanded and taking Joshua. Oil for the journey is framed as Spirit-breathed obedience that acts when the instruction is clear.
 
 Numbers 27:22 is simple and strong. Moses does what the Lord commanded.
 
@@ -5951,7 +5951,7 @@ The Spirit rains on dry places by breathing life into clear obedience.
 
 **Scripture Reference:** Numbers 27:23
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Moses laying hands on Joshua and commissioning him as the Lord commanded. Freedom in the Spirit is framed as inward renewal that can bless succession without fear.
+**Context and language lens:** Moses laying hands on Joshua and commissioning him as the Lord commanded. Freedom in the Spirit is framed as inward renewal that can bless succession without fear.
 
 Numbers 27:23 completes the commissioning. Moses lays hands on Joshua and does what the Lord commanded through him.
 
@@ -5979,7 +5979,7 @@ The Spirit rains on dry places by renewing the heart to bless succession.
 
 **Scripture Reference:** Judges 3:1
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the nations left to test Israel. The breath of God is framed as holy formation in untested places, not fear-driven speculation about hardship.
+**Context and language lens:** The nations left to test Israel. The breath of God is framed as holy formation in untested places, not fear-driven speculation about hardship.
 
 Judges 3:1 opens a different kind of text. There are people in Israel who have not experienced certain tests, and the story names that reality plainly.
 
@@ -6010,7 +6010,7 @@ The Spirit rains on dry places by breathing formation into untested faith.
 
 **Scripture Reference:** Judges 3:2
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the training of a generation that had not known previous battles. The Comforter's nearness is framed as consecrated formation for places where faith has not yet been practiced.
+**Context and language lens:** The training of a generation that had not known previous battles. The Comforter's nearness is framed as consecrated formation for places where faith has not yet been practiced.
 
 Judges 3:2 names a generation that had not known certain battles. The text is not romanticizing conflict. It is telling the truth about untested people needing formation.
 
@@ -6038,7 +6038,7 @@ The Spirit rains on dry places by consecrating unpracticed faith.
 
 **Scripture Reference:** Judges 3:3
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the named nations and pressures surrounding Israel. Holy fire is framed as settled mercy that names real pressure without letting fear rule the heart.
+**Context and language lens:** The named nations and pressures surrounding Israel. Holy fire is framed as settled mercy that names real pressure without letting fear rule the heart.
 
 Judges 3:3 names the peoples and pressures around Israel. The story does not leave the testing vague.
 
@@ -6066,7 +6066,7 @@ The Spirit rains on dry places by settling mercy in the presence of real pressur
 
 **Scripture Reference:** Judges 3:4
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the testing of whether Israel would obey the Lord's commandments. Rain for dry places is framed as Spirit-breathed obedience that reveals whether faith is becoming lived loyalty.
+**Context and language lens:** The testing of whether Israel would obey the Lord's commandments. Rain for dry places is framed as Spirit-breathed obedience that reveals whether faith is becoming lived loyalty.
 
 Judges 3:4 brings the issue to obedience. The test reveals whether God's people will listen and walk in what He commanded.
 
@@ -6097,7 +6097,7 @@ The Spirit rains on dry places by breathing life into loyal obedience.
 
 **Scripture Reference:** Judges 3:5
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Israel dwelling among surrounding nations. The Spirit's fruit is framed as inward renewal for faithfulness while living in mixed surroundings.
+**Context and language lens:** Israel dwelling among surrounding nations. The Spirit's fruit is framed as inward renewal for faithfulness while living in mixed surroundings.
 
 Judges 3:5 names where Israel lived. They were among surrounding peoples, and the environment around them mattered.
 
@@ -6125,7 +6125,7 @@ The Spirit gives oil for the waiting season by renewing the heart in mixed surro
 
 **Scripture Reference:** Judges 3:6
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Israel's compromise through relationships and worship. Power to witness is framed as holy fire that exposes divided affection before it becomes surrendered allegiance to other gods.
+**Context and language lens:** Israel's compromise through relationships and worship. Power to witness is framed as holy fire that exposes divided affection before it becomes surrendered allegiance to other gods.
 
 Judges 3:6 shows compromise becoming relational and worshipful. What began as living nearby moves toward deep entanglement and misplaced allegiance.
 
@@ -6153,7 +6153,7 @@ The Spirit gives oil for the waiting season by purifying divided allegiance.
 
 **Scripture Reference:** Judges 3:7
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Israel forgetting the Lord and serving false gods. The seal of belonging is framed as consecrated memory that keeps love from drifting into false worship.
+**Context and language lens:** Israel forgetting the Lord and serving false gods. The seal of belonging is framed as consecrated memory that keeps love from drifting into false worship.
 
 Judges 3:7 is painful because forgetting becomes worship in the wrong direction. The heart does not stay empty. What it forgets in God, it often tries to replace elsewhere.
 
@@ -6181,7 +6181,7 @@ The Spirit gives oil for the waiting season by consecrating memory into faithful
 
 **Scripture Reference:** Judges 3:8
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the consequence of Israel's rebellion and years of servitude. Prayer beyond words is framed as settled honesty under consequence without despair.
+**Context and language lens:** The consequence of Israel's rebellion and years of servitude. Prayer beyond words is framed as settled honesty under consequence without despair.
 
 Judges 3:8 shows that rebellion has weight. Israel experiences consequence over time.
 
@@ -6209,7 +6209,7 @@ The Spirit gives oil for the waiting season by settling honest prayer under cons
 
 **Scripture Reference:** Judges 3:9
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Israel crying out and the Lord raising a deliverer. Wind in the waiting is framed as God's life moving when repentance finally cries for help.
+**Context and language lens:** Israel crying out and the Lord raising a deliverer. Wind in the waiting is framed as God's life moving when repentance finally cries for help.
 
 Judges 3:9 brings mercy into the story. The people cry out, and the Lord raises up a deliverer.
 
@@ -6237,7 +6237,7 @@ The Spirit gives oil for the waiting season by moving mercy toward the honest cr
 
 **Scripture Reference:** Judges 3:11
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the land having rest after deliverance. Oil for the journey is framed as inward renewal that knows how to receive rest after mercy.
+**Context and language lens:** The land having rest after deliverance. Oil for the journey is framed as inward renewal that knows how to receive rest after mercy.
 
 Judges 3:11 shows rest after deliverance. The story pauses in mercy.
 
@@ -6265,7 +6265,7 @@ The Spirit gives oil for the waiting season by renewing the heart to receive res
 
 **Scripture Reference:** Judges 3:12
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Israel again doing evil and the Lord strengthening an adversary. Freedom in the Spirit is framed as holy fire that warns against cycles returning after rest.
+**Context and language lens:** Israel again doing evil and the Lord strengthening an adversary. Freedom in the Spirit is framed as holy fire that warns against cycles returning after rest.
 
 Judges 3:12 is sobering because the cycle begins again. Rest was real, but drift returned.
 
@@ -6296,7 +6296,7 @@ The Spirit gives oil for the waiting season by warning the heart before old cycl
 
 **Scripture Reference:** Judges 3:13
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the gathering of enemies and the taking of the city of palms. The breath of God is framed as consecrated steadiness when pressure gathers.
+**Context and language lens:** The gathering of enemies and the taking of the city of palms. The breath of God is framed as consecrated steadiness when pressure gathers.
 
 Judges 3:13 shows pressure gathering. Trouble does not always arrive alone; sometimes it comes with alliances, momentum, and visible loss.
 
@@ -6324,7 +6324,7 @@ The Spirit gives oil for the waiting season by consecrating steadiness under gat
 
 **Scripture Reference:** Judges 3:14
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses Israel's long servitude under Eglon. The Comforter's nearness is framed as settled mercy for long waiting seasons that have not ended quickly.
+**Context and language lens:** Israel's long servitude under Eglon. The Comforter's nearness is framed as settled mercy for long waiting seasons that have not ended quickly.
 
 Judges 3:14 names a long season. The oppression did not lift overnight.
 
@@ -6352,7 +6352,7 @@ The Spirit gives oil for the waiting season by settling mercy into long enduranc
 
 **Scripture Reference:** Judges 3:15
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Israel crying out and the Lord raising Ehud as deliverer. Holy fire is framed as Spirit-breathed hope through an unexpected instrument.
+**Context and language lens:** Israel crying out and the Lord raising Ehud as deliverer. Holy fire is framed as Spirit-breathed hope through an unexpected instrument.
 
 Judges 3:15 brings the cry for help and God's answer. The Lord raises a deliverer in a way the people may not have scripted.
 
@@ -6380,7 +6380,7 @@ The Spirit gives oil for the waiting season by breathing hope through unexpected
 
 **Scripture Reference:** Judges 3:16
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Ehud's hidden preparation. Rain for dry places is framed as inward renewal that prepares faithfully before the visible moment arrives.
+**Context and language lens:** Ehud's hidden preparation. Rain for dry places is framed as inward renewal that prepares faithfully before the visible moment arrives.
 
 Judges 3:16 shows preparation before public action. The visible moment is not the whole story.
 
@@ -6408,7 +6408,7 @@ The Spirit gives oil for the waiting season by renewing hidden preparation.
 
 **Scripture Reference:** Judges 3:17
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Ehud presenting tribute to Eglon. The anointing for today is framed as holy courage for a difficult assignment without performative bravado.
+**Context and language lens:** Ehud presenting tribute to Eglon. The anointing for today is framed as holy courage for a difficult assignment without performative bravado.
 
 Judges 3:17 places Ehud in a difficult assignment. The text is tense, but it does not need embellishment to be serious.
 
@@ -6436,7 +6436,7 @@ The Spirit gives oil for the waiting season by forming quiet courage for difficu
 
 **Scripture Reference:** Judges 3:18
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Ehud finishing the presentation of tribute and sending the carriers away. The Spirit's fruit is framed as consecrated timing and wise restraint.
+**Context and language lens:** Ehud finishing the presentation of tribute and sending the carriers away. The Spirit's fruit is framed as consecrated timing and wise restraint.
 
 Judges 3:18 shows movement, timing, and restraint. Ehud finishes one part of the assignment before the next part unfolds.
 
@@ -6464,7 +6464,7 @@ The Spirit gives oil for the waiting season by consecrating timing and restraint
 
 **Scripture Reference:** Judges 3:19
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses Ehud turning back with a message. Power to witness is framed as settled courage to return to an assignment when God gives a word.
+**Context and language lens:** Ehud turning back with a message. Power to witness is framed as settled courage to return to an assignment when God gives a word.
 
 Judges 3:19 shows Ehud turning back. There is a message to deliver, and he returns to the moment.
 
@@ -6495,7 +6495,7 @@ The Spirit gives oil for the waiting season by settling courage to return with t
 
 **Scripture Reference:** Judges 3:20
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Ehud standing with a word from God in a tense room. The seal of belonging is framed as Spirit-breathed courage to stand under God's word before status, pressure, or fear.
+**Context and language lens:** Ehud standing with a word from God in a tense room. The seal of belonging is framed as Spirit-breathed courage to stand under God's word before status, pressure, or fear.
 
 Judges 3:20 brings the moment into focus. A word from God is named, and the room changes.
 
@@ -6523,7 +6523,7 @@ The Spirit gives oil for the waiting season by sealing courage under God's word.
 
 **Scripture Reference:** Judges 3:21
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses a difficult deliverance moment without graphic amplification. Prayer beyond words is framed as inward obedience when the moment for action can no longer remain only private intention.
+**Context and language lens:** A difficult deliverance moment without graphic amplification. Prayer beyond words is framed as inward obedience when the moment for action can no longer remain only private intention.
 
 Judges 3:21 is part of a hard deliverance narrative. The devotional task is not to turn violence into fascination, but to receive the sober truth that deliverance sometimes confronts what has held people captive.
 
@@ -6551,7 +6551,7 @@ The Spirit gives oil for the waiting season by turning hidden prayer into surren
 
 **Scripture Reference:** Judges 3:22
 
-**Production lens correction:** The architecture assigned `esh`; the production lens handles the graphic narrative detail with restraint. Wind in the waiting is framed as holy fire that purifies the heart from spectacle and keeps deliverance sober.
+**Context and language lens:** This lens reads the graphic narrative detail with restraint. Wind in the waiting is framed as holy fire that purifies the heart from spectacle and keeps deliverance sober.
 
 Judges 3:22 is not a passage to decorate. The detail is severe, and faithful devotion should not make it entertaining.
 
@@ -6579,7 +6579,7 @@ The Spirit gives oil for the waiting season by refining the heart into sober cou
 
 **Scripture Reference:** Judges 3:23
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Ehud's departure and closed doors. Oil for the journey is framed as consecrated completion, wise closure, and restraint after a difficult assignment.
+**Context and language lens:** Ehud's departure and closed doors. Oil for the journey is framed as consecrated completion, wise closure, and restraint after a difficult assignment.
 
 Judges 3:23 shows movement after the moment. Ehud leaves, and the scene shifts behind closed doors.
 
@@ -6607,7 +6607,7 @@ The Spirit gives oil for the waiting season by consecrating completion and wise 
 
 **Scripture Reference:** Judges 3:24
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the servants' delay and misunderstanding. Freedom in the Spirit is framed as settled patience when others misread timing or do not yet understand what God is doing.
+**Context and language lens:** The servants' delay and misunderstanding. Freedom in the Spirit is framed as settled patience when others misread timing or do not yet understand what God is doing.
 
 Judges 3:24 includes delay and misunderstanding. People outside the room interpret what they can see, and their interpretation is incomplete.
 
@@ -6635,7 +6635,7 @@ The Spirit gives oil for the waiting season by settling patience when timing is 
 
 **Scripture Reference:** Judges 3:25
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the servants' long wait and the opened door. The breath of God is framed as Spirit-given steadiness when delayed truth finally opens.
+**Context and language lens:** The servants' long wait and the opened door. The breath of God is framed as Spirit-given steadiness when delayed truth finally opens.
 
 Judges 3:25 shows waiting until the truth can no longer stay hidden. A door opens, and the reality inside must be faced.
 
@@ -6663,7 +6663,7 @@ The Spirit gives oil for the waiting season by steadying breath when truth opens
 
 **Scripture Reference:** Judges 3:26
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Ehud's escape while others delay. The Comforter's nearness is framed as mercy that makes a way forward during a narrow window.
+**Context and language lens:** Ehud's escape while others delay. The Comforter's nearness is framed as mercy that makes a way forward during a narrow window.
 
 Judges 3:26 shows escape during delay. The deliverer moves while the window is open.
 
@@ -6694,7 +6694,7 @@ The Spirit gives oil for the waiting season by forming wise movement through an 
 
 **Scripture Reference:** Judges 3:27
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Ehud sounding the trumpet and gathering Israel after escape. Holy fire is framed as purified readiness to respond when God calls a people forward.
+**Context and language lens:** Ehud sounding the trumpet and gathering Israel after escape. Holy fire is framed as purified readiness to respond when God calls a people forward.
 
 Judges 3:27 moves from hidden deliverance to public summons. A trumpet sounds, and the people are called to move.
 
@@ -6722,7 +6722,7 @@ The Spirit gives oil for the waiting season by purifying readiness when God call
 
 **Scripture Reference:** Judges 3:28
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Ehud's call to follow and the guarded crossing. Rain for dry places is framed as consecrated leadership, trust, and wise boundaries in a deliverance moment.
+**Context and language lens:** Ehud's call to follow and the guarded crossing. Rain for dry places is framed as consecrated leadership, trust, and wise boundaries in a deliverance moment.
 
 Judges 3:28 shows leadership under pressure. The people are called to follow, and the passageway is guarded.
 
@@ -6750,7 +6750,7 @@ The Spirit gives oil for the waiting season by consecrating leadership and wise 
 
 **Scripture Reference:** Judges 3:29
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens handles the battle summary without dwelling on numbers for spectacle. The anointing for today is framed as settled courage when God deals decisively with what once seemed too strong.
+**Context and language lens:** This lens reads the battle summary without dwelling on numbers for spectacle. The anointing for today is framed as settled courage when God deals decisively with what once seemed too strong.
 
 Judges 3:29 records decisive deliverance. The text marks a turning point, not entertainment.
 
@@ -6778,7 +6778,7 @@ The Spirit gives oil for the waiting season by settling courage before what once
 
 **Scripture Reference:** Judges 3:30
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Moab's subduing and the land's long rest. The Spirit's fruit is framed as peace that outlasts the immediate crisis.
+**Context and language lens:** Moab's subduing and the land's long rest. The Spirit's fruit is framed as peace that outlasts the immediate crisis.
 
 Judges 3:30 brings the arc into rest. The pressure is subdued, and the land receives a long season of quiet.
 
@@ -6806,7 +6806,7 @@ The Spirit gives oil for the waiting season by forming peace that outlasts crisi
 
 **Scripture Reference:** Judges 3:31
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Shamgar's ordinary tool and Israel's rescue without sensationalizing the conflict. Power to witness is framed as faithful courage with what is already in the hand.
+**Context and language lens:** Shamgar's ordinary tool and Israel's rescue without sensationalizing the conflict. Power to witness is framed as faithful courage with what is already in the hand.
 
 Judges 3:31 introduces Shamgar with an ordinary tool in a serious moment. The verse is brief, but the witness is clear: God can save through what looks unimpressive.
 
@@ -6834,7 +6834,7 @@ The Spirit gives oil for the waiting season by anchoring witness in surrendered 
 
 **Scripture Reference:** Judges 6:1
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Israel's return to evil and the beginning of Midianite oppression. The seal of belonging is framed as holy warning that calls the heart back before distance becomes bondage.
+**Context and language lens:** Israel's return to evil and the beginning of Midianite oppression. The seal of belonging is framed as holy warning that calls the heart back before distance becomes bondage.
 
 Judges 6:1 opens a new cycle with painful honesty. The people return to evil, and oppression follows.
 
@@ -6862,7 +6862,7 @@ The Spirit gives oil for the waiting season by sealing correction as mercy that 
 
 **Scripture Reference:** Judges 6:2
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Israel's hidden places under Midian pressure. Prayer beyond words is framed as consecrated honesty when fear has driven the heart into hiding.
+**Context and language lens:** Israel's hidden places under Midian pressure. Prayer beyond words is framed as consecrated honesty when fear has driven the heart into hiding.
 
 Judges 6:2 shows people hiding because pressure has become severe. Fear has shaped where they live.
 
@@ -6893,7 +6893,7 @@ The Spirit gives oil for the waiting season by consecrating hidden fear into hon
 
 **Scripture Reference:** Judges 6:3
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses repeated invasion after sowing. Wind in the waiting is framed as settled trust when old pressures return at the moment of expected fruit.
+**Context and language lens:** Repeated invasion after sowing. Wind in the waiting is framed as settled trust when old pressures return at the moment of expected fruit.
 
 Judges 6:3 names a painful pattern. The people sow, and then pressure comes up against what was planted.
 
@@ -6921,7 +6921,7 @@ The Spirit gives oil for the waiting season by settling trust when old pressures
 
 **Scripture Reference:** Judges 6:4
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the stripping away of produce and sustenance. Oil for the journey is framed as Spirit-breathed hope when depletion has touched provision.
+**Context and language lens:** The stripping away of produce and sustenance. Oil for the journey is framed as Spirit-breathed hope when depletion has touched provision.
 
 Judges 6:4 shows depletion. What should have nourished the people is stripped away.
 
@@ -6949,7 +6949,7 @@ The Spirit gives oil for the waiting season by breathing hope into depleted plac
 
 **Scripture Reference:** Judges 6:5
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses overwhelming pressure that ravages the land. Freedom in the Spirit is framed as inward renewal when fear feels multiplied and the ground feels invaded.
+**Context and language lens:** Overwhelming pressure that ravages the land. Freedom in the Spirit is framed as inward renewal when fear feels multiplied and the ground feels invaded.
 
 Judges 6:5 describes pressure that feels overwhelming. The land is not simply inconvenienced; it is ravaged.
 
@@ -6980,7 +6980,7 @@ The Spirit gives oil for the waiting season by renewing inner freedom under over
 
 **Scripture Reference:** Judges 6:6
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Israel's deep impoverishment and cry to the Lord. The Comforter's nearness is framed as holy mercy that draws a depleted people into honest prayer.
+**Context and language lens:** Israel's deep impoverishment and cry to the Lord. The Comforter's nearness is framed as holy mercy that draws a depleted people into honest prayer.
 
 Judges 6:6 names deep need. The people are brought low, and the cry finally turns toward the Lord.
 
@@ -7008,7 +7008,7 @@ The Spirit gives power to witness by drawing depleted hearts into honest prayer.
 
 **Scripture Reference:** Judges 6:7
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Israel crying to the Lord because of Midian. Holy fire is framed as consecrated prayer that rises from oppression without becoming bitterness.
+**Context and language lens:** Israel crying to the Lord because of Midian. Holy fire is framed as consecrated prayer that rises from oppression without becoming bitterness.
 
 Judges 6:7 shows the cry continuing. The pressure has a name, and the people bring it before the Lord.
 
@@ -7036,7 +7036,7 @@ The Spirit gives power to witness by anointing honest cries with surrender.
 
 **Scripture Reference:** Judges 6:8
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the Lord sending a prophet. Rain for dry places is framed as settled mercy that answers prayer with truth before visible rescue.
+**Context and language lens:** The Lord sending a prophet. Rain for dry places is framed as settled mercy that answers prayer with truth before visible rescue.
 
 Judges 6:8 shows God's first answer: a prophet comes with a word. Before the visible rescue, truth arrives.
 
@@ -7064,7 +7064,7 @@ The Spirit gives power to witness by settling the heart under truthful mercy.
 
 **Scripture Reference:** Judges 6:9
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God's reminder of deliverance from Egypt and oppressors. The anointing for today is framed as Spirit-breathed memory that confronts fear with God's history.
+**Context and language lens:** God's reminder of deliverance from Egypt and oppressors. The anointing for today is framed as Spirit-breathed memory that confronts fear with God's history.
 
 Judges 6:9 remembers deliverance. God reminds His people that oppression has not been the only story.
 
@@ -7092,7 +7092,7 @@ The Spirit gives power to witness by breathing courage through remembered delive
 
 **Scripture Reference:** Judges 6:11
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Gideon threshing wheat in hiding. The Spirit's fruit is framed as inward faithfulness when obedience is happening in a hidden, pressured place.
+**Context and language lens:** Gideon threshing wheat in hiding. The Spirit's fruit is framed as inward faithfulness when obedience is happening in a hidden, pressured place.
 
 Judges 6:11 brings us to Gideon in a hidden place, trying to preserve what remains under pressure.
 
@@ -7120,7 +7120,7 @@ The Spirit gives power to witness by growing fruit in hidden faithfulness.
 
 **Scripture Reference:** Judges 6:12
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the angel's greeting to Gideon. Power to witness is framed as holy identity spoken over a person who does not yet feel brave.
+**Context and language lens:** The angel's greeting to Gideon. Power to witness is framed as holy identity spoken over a person who does not yet feel brave.
 
 Judges 6:12 speaks courage over Gideon before Gideon feels like the greeting is true.
 
@@ -7148,7 +7148,7 @@ The Spirit gives power to witness by speaking courage under the Lord's presence.
 
 **Scripture Reference:** Judges 6:13
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Gideon's honest question about God's presence and past wonders. The seal of belonging is framed as consecrated honesty that brings hard questions into relationship instead of walking away.
+**Context and language lens:** Gideon's honest question about God's presence and past wonders. The seal of belonging is framed as consecrated honesty that brings hard questions into relationship instead of walking away.
 
 Judges 6:13 gives room to a hard question. Gideon hears the greeting, but his heart carries history, loss, and confusion.
 
@@ -7179,7 +7179,7 @@ The Spirit gives power to witness by consecrating honest questions inside belong
 
 **Scripture Reference:** Judges 6:14
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the Lord turning to Gideon and sending him. Prayer beyond words is framed as settled obedience when God turns a fearful heart toward assignment.
+**Context and language lens:** The Lord turning to Gideon and sending him. Prayer beyond words is framed as settled obedience when God turns a fearful heart toward assignment.
 
 Judges 6:14 moves Gideon from questions toward calling. The Lord turns to him and sends him.
 
@@ -7207,7 +7207,7 @@ The Spirit gives power to witness by settling obedience under God's sending word
 
 **Scripture Reference:** Judges 6:15
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Gideon's honest weakness and smallness. Wind in the waiting is framed as God's breath meeting confessed inadequacy.
+**Context and language lens:** Gideon's honest weakness and smallness. Wind in the waiting is framed as God's breath meeting confessed inadequacy.
 
 Judges 6:15 lets Gideon speak from weakness. He names his family position and his own smallness.
 
@@ -7235,7 +7235,7 @@ The Spirit gives power to witness by breathing courage into confessed weakness.
 
 **Scripture Reference:** Judges 6:16
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's promise to be with Gideon. Oil for the journey is framed as inward renewal rooted in divine presence rather than self-reliance.
+**Context and language lens:** God's promise to be with Gideon. Oil for the journey is framed as inward renewal rooted in divine presence rather than self-reliance.
 
 Judges 6:16 answers weakness with presence. God does not give Gideon a speech about being impressive; He promises to be with him.
 
@@ -7263,7 +7263,7 @@ The Spirit gives power to witness by renewing courage through God's promised pre
 
 **Scripture Reference:** Judges 6:17
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Gideon's request for confirmation. Freedom in the Spirit is framed as holy honesty that seeks assurance without refusing obedience.
+**Context and language lens:** Gideon's request for confirmation. Freedom in the Spirit is framed as holy honesty that seeks assurance without refusing obedience.
 
 Judges 6:17 shows Gideon asking for a sign. The request comes from a heart still trying to understand the encounter.
 
@@ -7291,7 +7291,7 @@ The Spirit gives power to witness by purifying the search for assurance.
 
 **Scripture Reference:** Judges 6:19
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Gideon preparing an offering. The breath of God is framed as consecrated preparation that turns fear toward worship.
+**Context and language lens:** Gideon preparing an offering. The breath of God is framed as consecrated preparation that turns fear toward worship.
 
 Judges 6:19 shows Gideon preparing what he will bring. Before the next revelation, there is an offering.
 
@@ -7319,7 +7319,7 @@ The Spirit gives power to witness by consecrating preparation into worship.
 
 **Scripture Reference:** Judges 6:20
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the angel's specific instruction about the offering. The Comforter's nearness is framed as settled obedience to God's ordered instruction.
+**Context and language lens:** The angel's specific instruction about the offering. The Comforter's nearness is framed as settled obedience to God's ordered instruction.
 
 Judges 6:20 gives instruction. Gideon is told how to place what he has brought.
 
@@ -7347,7 +7347,7 @@ The Spirit gives power to witness by settling obedience into ordered faithfulnes
 
 **Scripture Reference:** Judges 6:22
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Gideon's recognition and fear after the encounter. Holy fire is framed as reverent awe that humbles power and keeps witness submitted to God.
+**Context and language lens:** Gideon's recognition and fear after the encounter. Holy fire is framed as reverent awe that humbles power and keeps witness submitted to God.
 
 Judges 6:22 brings realization. Gideon recognizes the holiness of the encounter and responds with fear.
 
@@ -7378,7 +7378,7 @@ The Spirit gives power to witness by breathing reverent awe into the heart.
 
 **Scripture Reference:** Judges 6:23
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's word of peace after Gideon's fear. Rain for dry places is framed as inward renewal that receives God's nearness before trying to witness for Him.
+**Context and language lens:** God's word of peace after Gideon's fear. Rain for dry places is framed as inward renewal that receives God's nearness before trying to witness for Him.
 
 Judges 6:23 answers fear with peace. Gideon is not first pushed into public action. He is steadied by God's reassurance.
 
@@ -7406,7 +7406,7 @@ The Spirit gives power to witness by renewing the heart through God's peace.
 
 **Scripture Reference:** Judges 6:24
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Gideon's altar of peace. The anointing for today is framed as holy presence that turns fear into worship before it turns into witness.
+**Context and language lens:** Gideon's altar of peace. The anointing for today is framed as holy presence that turns fear into worship before it turns into witness.
 
 Judges 6:24 shows Gideon marking the place of encounter with worship. Fear is not allowed to have the final word.
 
@@ -7434,7 +7434,7 @@ The Spirit gives power to witness by purifying fear into worshipful remembrance.
 
 **Scripture Reference:** Judges 6:25
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's command to remove false worship from Gideon's own household setting. The Spirit's fruit is framed as consecrated service that begins close to home.
+**Context and language lens:** God's command to remove false worship from Gideon's own household setting. The Spirit's fruit is framed as consecrated service that begins close to home.
 
 Judges 6:25 moves from altar to obedience. Gideon is called to address what has been standing in the place of God.
 
@@ -7462,7 +7462,7 @@ The Spirit gives power to witness by consecrating obedience in the places neares
 
 **Scripture Reference:** Judges 6:26
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the building of a true altar in place of false dependence. Power to witness is framed as settled worship that replaces what could not save.
+**Context and language lens:** The building of a true altar in place of false dependence. Power to witness is framed as settled worship that replaces what could not save.
 
 Judges 6:26 gives Gideon a constructive obedience. He is not only told what must come down; he is told what must be built in its place.
 
@@ -7490,7 +7490,7 @@ The Spirit gives power to witness by settling surrendered ground into true worsh
 
 **Scripture Reference:** Judges 6:27
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Gideon's trembling obedience carried out with help. The seal of belonging is framed as God's breath moving obedience forward even when courage is still growing.
+**Context and language lens:** Gideon's trembling obedience carried out with help. The seal of belonging is framed as God's breath moving obedience forward even when courage is still growing.
 
 Judges 6:27 does not pretend Gideon feels fearless. He obeys, but he is still afraid.
 
@@ -7518,7 +7518,7 @@ The Spirit gives power to witness by breathing obedience into a heart that belon
 
 **Scripture Reference:** Judges 6:28
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the morning discovery after Gideon's obedience. Prayer beyond words is framed as a renewed heart remaining faithful when hidden obedience becomes visible.
+**Context and language lens:** The morning discovery after Gideon's obedience. Prayer beyond words is framed as a renewed heart remaining faithful when hidden obedience becomes visible.
 
 Judges 6:28 shows the results of obedience becoming public. What Gideon did in the night is discovered in the morning.
 
@@ -7546,7 +7546,7 @@ The Spirit gives power to witness by renewing faithfulness when obedience is exp
 
 **Scripture Reference:** Judges 6:29
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the community's search for who had torn down the false altar. Wind in the waiting is framed as holy courage while questions, accusation, and uncertainty rise.
+**Context and language lens:** The community's search for who had torn down the false altar. Wind in the waiting is framed as holy courage while questions, accusation, and uncertainty rise.
 
 Judges 6:29 shows questions spreading through the community. Gideon's obedience has disturbed what people had accepted.
 
@@ -7577,7 +7577,7 @@ The Spirit gives power to witness by purifying courage while questions rise.
 
 **Scripture Reference:** Judges 6:30
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the public anger after Gideon's obedience. Oil for the journey is framed as consecrated courage when surrender is misunderstood and opposed.
+**Context and language lens:** The public anger after Gideon's obedience. Oil for the journey is framed as consecrated courage when surrender is misunderstood and opposed.
 
 Judges 6:30 shows the cost of visible obedience. The men of the city demand an answer for what has been torn down.
 
@@ -7605,7 +7605,7 @@ The Spirit gives power to witness by anointing courage when obedience is opposed
 
 **Scripture Reference:** Judges 6:31
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses Joash's defense and the exposure of false dependence. Freedom in the Spirit is framed as settled truth that stops defending what cannot save.
+**Context and language lens:** Joash's defense and the exposure of false dependence. Freedom in the Spirit is framed as settled truth that stops defending what cannot save.
 
 Judges 6:31 places false worship on trial. Joash's response exposes the weakness of what people were trying to protect.
 
@@ -7633,7 +7633,7 @@ The Spirit gives power to witness by settling the heart in truth that frees.
 
 **Scripture Reference:** Judges 6:32
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Gideon's new public name after the confrontation. The breath of God is framed as life moving through a renamed witness.
+**Context and language lens:** Gideon's new public name after the confrontation. The breath of God is framed as life moving through a renamed witness.
 
 Judges 6:32 shows a new name attached to Gideon's obedience. The accusation becomes part of the public story.
 
@@ -7661,7 +7661,7 @@ The Spirit gives power to witness by breathing identity into contested obedience
 
 **Scripture Reference:** Judges 6:33
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the gathering of enemy forces. The Comforter's nearness is framed as inward renewal when pressure increases instead of decreases.
+**Context and language lens:** The gathering of enemy forces. The Comforter's nearness is framed as inward renewal when pressure increases instead of decreases.
 
 Judges 6:33 brings a wider threat into view. The pressure around God's people gathers again.
 
@@ -7689,7 +7689,7 @@ The Spirit gives power to witness by renewing love under gathered pressure.
 
 **Scripture Reference:** Judges 6:35
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Gideon's messengers calling the tribes together. Holy fire is framed as purified readiness that calls others without panic or self-display.
+**Context and language lens:** Gideon's messengers calling the tribes together. Holy fire is framed as purified readiness that calls others without panic or self-display.
 
 Judges 6:35 shows witness moving outward. Gideon's call reaches beyond his own immediate circle.
 
@@ -7717,7 +7717,7 @@ The Spirit gives power to witness by purifying the call that gathers others.
 
 **Scripture Reference:** Judges 6:36
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Gideon's honest request for assurance. Rain for dry places is framed as God meeting a consecrated but trembling heart with patient mercy.
+**Context and language lens:** Gideon's honest request for assurance. Rain for dry places is framed as God meeting a consecrated but trembling heart with patient mercy.
 
 Judges 6:36 shows Gideon bringing his need for assurance before God. He remembers what God has said, but his heart still trembles.
 
@@ -7745,7 +7745,7 @@ The Spirit gives power to witness by refreshing trembling obedience with mercy.
 
 **Scripture Reference:** Judges 6:37
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses Gideon's fleece request. The anointing for today is framed as settled trust that asks honestly without turning signs into a substitute for obedience.
+**Context and language lens:** Gideon's fleece request. The anointing for today is framed as settled trust that asks honestly without turning signs into a substitute for obedience.
 
 Judges 6:37 shows Gideon asking for confirmation in a very specific way. His request reveals both faith and fear.
 
@@ -7776,7 +7776,7 @@ The Spirit gives power to witness by settling assurance into faithful action.
 
 **Scripture Reference:** Judges 6:38
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God's merciful answer to Gideon's request. The Spirit's fruit is framed as humble obedience after God meets trembling faith.
+**Context and language lens:** God's merciful answer to Gideon's request. The Spirit's fruit is framed as humble obedience after God meets trembling faith.
 
 Judges 6:38 shows God meeting Gideon in the place where he asked for reassurance. The answer is tangible enough for a fearful heart to notice.
 
@@ -7804,7 +7804,7 @@ The Spirit gives power to witness by making answered mercy bear humble fruit.
 
 **Scripture Reference:** Judges 6:40
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's second merciful confirmation to Gideon. Peace leading power to witness is framed as inward renewal that receives assurance without becoming dependent on endless signs.
+**Context and language lens:** God's second merciful confirmation to Gideon. Peace leading power to witness is framed as inward renewal that receives assurance without becoming dependent on endless signs.
 
 Judges 6:40 closes this reassurance moment with God's patience on display. Gideon's fear is not praised, but God still meets him with mercy.
 
@@ -7832,7 +7832,7 @@ The Spirit gives power to witness by renewing assurance into obedient peace.
 
 **Scripture Reference:** Judges 14:1
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens opens Samson's desire carefully. Prayer beyond words is framed as cleansing desire before it becomes a decision.
+**Context and language lens:** This lens opens Samson's desire carefully. Prayer beyond words is framed as cleansing desire before it becomes a decision.
 
 Judges 14:1 begins with sight and desire. Samson sees, and the story starts moving around what has captured his attention.
 
@@ -7860,7 +7860,7 @@ The Spirit teaches prayer by cleansing desire before it becomes direction.
 
 **Scripture Reference:** Judges 14:2
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Samson's spoken desire and the family conversation it creates. Wind in the waiting is framed as learning which voice is shaping prayer.
+**Context and language lens:** Samson's spoken desire and the family conversation it creates. Wind in the waiting is framed as learning which voice is shaping prayer.
 
 Judges 14:2 lets desire become speech. Samson tells his parents what he has seen and what he wants.
 
@@ -7888,7 +7888,7 @@ The Spirit teaches prayer by making the heart attentive to the voice beneath des
 
 **Scripture Reference:** Judges 14:3
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses family counsel and Samson's insistence. Oil for the journey is framed as prayerful surrender when desire resists wise correction.
+**Context and language lens:** Family counsel and Samson's insistence. Oil for the journey is framed as prayerful surrender when desire resists wise correction.
 
 Judges 14:3 brings counsel and insistence into the same room. Samson hears concern, yet his desire keeps pressing.
 
@@ -7916,7 +7916,7 @@ The Spirit teaches prayer by surrendering desire before it overrules wisdom.
 
 **Scripture Reference:** Judges 14:4
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses the hidden providence named in the verse without treating every desire as automatically endorsed. Freedom in the Spirit is framed as trust that God's purpose is larger than human understanding and still calls motives into prayer.
+**Context and language lens:** The hidden providence named in the verse without treating every desire as automatically endorsed. Freedom in the Spirit is framed as trust that God's purpose is larger than human understanding and still calls motives into prayer.
 
 Judges 14:4 reveals a layer the people in the story do not understand. God is working beyond what the family can see.
 
@@ -7944,7 +7944,7 @@ The Spirit teaches prayer by freeing trust while keeping motives surrendered.
 
 **Scripture Reference:** Judges 14:5
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses the sudden threat on Samson's road. The breath of God is framed as God-given capacity when prayer meets unexpected pressure.
+**Context and language lens:** The sudden threat on Samson's road. The breath of God is framed as God-given capacity when prayer meets unexpected pressure.
 
 Judges 14:5 moves from desire and family conversation into the road ahead. A sudden threat appears in the journey.
 
@@ -7975,7 +7975,7 @@ The Spirit teaches prayer by breathing strength into unexpected pressure.
 
 **Scripture Reference:** Judges 14:7
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses Samson's conversation and continuing attraction. The Comforter's nearness is framed as cleansing desire while relationship and decision begin to take shape.
+**Context and language lens:** Samson's conversation and continuing attraction. The Comforter's nearness is framed as cleansing desire while relationship and decision begin to take shape.
 
 Judges 14:7 keeps the story close to desire and conversation. Samson moves nearer to what has captured his attention.
 
@@ -8003,7 +8003,7 @@ The Spirit teaches prayer by cleansing desire as it becomes conversation.
 
 **Scripture Reference:** Judges 14:8
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Samson turning aside to revisit the place of danger. Holy fire is framed as discernment when curiosity pulls the heart back toward what should be handled carefully.
+**Context and language lens:** Samson turning aside to revisit the place of danger. Holy fire is framed as discernment when curiosity pulls the heart back toward what should be handled carefully.
 
 Judges 14:8 shows Samson returning and turning aside. What was once danger now holds unexpected sweetness.
 
@@ -8031,7 +8031,7 @@ The Spirit teaches prayer by making discernment louder than curiosity.
 
 **Scripture Reference:** Judges 14:9
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Samson taking sweetness and hiding its source. Rain for dry places is framed as Spirit-breathed honesty where secrecy would dry out prayer.
+**Context and language lens:** Samson taking sweetness and hiding its source. Rain for dry places is framed as Spirit-breathed honesty where secrecy would dry out prayer.
 
 Judges 14:9 brings sweetness, sharing, and silence together. Samson receives and gives, but he does not tell the whole story.
 
@@ -8059,7 +8059,7 @@ The Spirit teaches prayer by breathing honesty into hidden sweetness.
 
 **Scripture Reference:** Judges 14:10
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses the feast and public custom around Samson's choice. The anointing for today is framed as set-apart purpose inside ordinary social moments.
+**Context and language lens:** The feast and public custom around Samson's choice. The anointing for today is framed as set-apart purpose inside ordinary social moments.
 
 Judges 14:10 moves the story into public celebration. Private desire now has public surroundings.
 
@@ -8087,7 +8087,7 @@ The Spirit teaches prayer by setting the heart apart inside public moments.
 
 **Scripture Reference:** Judges 14:11
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses the arrival of companions around Samson. The Spirit's fruit is framed as God-given capacity for prayerful steadiness when people gather around a vulnerable moment.
+**Context and language lens:** The arrival of companions around Samson. The Spirit's fruit is framed as God-given capacity for prayerful steadiness when people gather around a vulnerable moment.
 
 Judges 14:11 shows companions being brought into the scene. Samson is no longer alone with his desire or his plans.
 
@@ -8115,7 +8115,7 @@ The Spirit teaches prayer by forming fruit when others gather around pressure.
 
 **Scripture Reference:** Judges 14:12
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses Samson's riddle and wager. Power to witness is framed as cleansed speech that resists proving itself through cleverness, games, or control.
+**Context and language lens:** Samson's riddle and wager. Power to witness is framed as cleansed speech that resists proving itself through cleverness, games, or control.
 
 Judges 14:12 brings speech into a contest. Samson uses a riddle and attaches a wager to the moment.
 
@@ -8143,7 +8143,7 @@ The Spirit teaches prayer by cleansing speech from the need to win.
 
 **Scripture Reference:** Judges 14:13
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses the terms of the riddle contest. The seal of belonging is framed as hearing God's nearness beneath the voice that wants to secure identity by winning.
+**Context and language lens:** The terms of the riddle contest. The seal of belonging is framed as hearing God's nearness beneath the voice that wants to secure identity by winning.
 
 Judges 14:13 shows the contest terms being named. The stakes of the game are placed in front of everyone.
 
@@ -8174,7 +8174,7 @@ The Spirit teaches prayer by making belonging louder than the need to prove.
 
 **Scripture Reference:** Judges 14:14
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Samson's riddle without quoting it. Prayer beyond words is framed as Spirit-breathed witness that chooses clarity over cleverness.
+**Context and language lens:** Samson's riddle without quoting it. Prayer beyond words is framed as Spirit-breathed witness that chooses clarity over cleverness.
 
 Judges 14:14 places Samson's words before the wedding companions as a riddle. What he says is shaped by secrecy, cleverness, and contest.
 
@@ -8202,7 +8202,7 @@ The Spirit teaches prayer by breathing clarity into guarded speech.
 
 **Scripture Reference:** Judges 14:16
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses emotional pressure inside Samson's marriage feast. Wind in the waiting is framed as set-apart patience when love, fear, and pressure become tangled.
+**Context and language lens:** Emotional pressure inside Samson's marriage feast. Wind in the waiting is framed as set-apart patience when love, fear, and pressure become tangled.
 
 Judges 14:16 brings relational pressure into the story. Tears, accusation, and fear press against the hidden riddle.
 
@@ -8230,7 +8230,7 @@ The Spirit teaches prayer by setting tenderness apart from manipulation.
 
 **Scripture Reference:** Judges 14:17
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses prolonged pressure and the revealing of the riddle. Oil for the journey is framed as God-given capacity to keep integrity under sustained pressure.
+**Context and language lens:** Prolonged pressure and the revealing of the riddle. Oil for the journey is framed as God-given capacity to keep integrity under sustained pressure.
 
 Judges 14:17 shows pressure continuing until Samson gives away what he had kept hidden. The secret does not stay contained.
 
@@ -8258,7 +8258,7 @@ The Spirit teaches prayer by strengthening integrity under sustained pressure.
 
 **Scripture Reference:** Judges 14:18
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the exposure of Samson's secret and his sharp response. Freedom in the Spirit is framed as cleansing reaction before humiliation becomes anger.
+**Context and language lens:** The exposure of Samson's secret and his sharp response. Freedom in the Spirit is framed as cleansing reaction before humiliation becomes anger.
 
 Judges 14:18 exposes what had been hidden. Samson realizes his secret has been used against him.
 
@@ -8286,7 +8286,7 @@ The Spirit teaches prayer by cleansing reaction before anger takes over.
 
 **Scripture Reference:** Judges 14:20
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses relational loss and betrayal after the feast. The breath of God is framed as prayerful nearness when grief needs a truer voice than revenge.
+**Context and language lens:** Relational loss and betrayal after the feast. The breath of God is framed as prayerful nearness when grief needs a truer voice than revenge.
 
 Judges 14:20 leaves Samson with a painful relational loss. What was pursued becomes tangled in betrayal and consequence.
 
@@ -8314,7 +8314,7 @@ The Spirit teaches prayer by breathing God's nearness into relational grief.
 
 **Scripture Reference:** Judges 15:1
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Samson's return and blocked expectation. The Comforter's nearness is framed as Spirit-breathed prayer when an assumed door is closed.
+**Context and language lens:** Samson's return and blocked expectation. The Comforter's nearness is framed as Spirit-breathed prayer when an assumed door is closed.
 
 Judges 15:1 shows Samson returning with expectation. The way he expects to enter is blocked.
 
@@ -8342,7 +8342,7 @@ The Spirit teaches prayer by breathing honesty into disappointed expectation.
 
 **Scripture Reference:** Judges 15:3
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Samson's self-justifying words before retaliation. Holy fire is framed as set-apart surrender before pain argues for revenge.
+**Context and language lens:** Samson's self-justifying words before retaliation. Holy fire is framed as set-apart surrender before pain argues for revenge.
 
 Judges 15:3 brings the first edge of retaliation into speech. Samson gives himself permission to act from injury.
 
@@ -8373,7 +8373,7 @@ The Spirit teaches prayer by setting pain apart before it becomes retaliation.
 
 **Scripture Reference:** Judges 15:7
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Samson's vow of revenge without quoting it. Rain for dry places is framed as Spirit-given capacity to let prayer reach the place where injury wants to become retaliation.
+**Context and language lens:** Samson's vow of revenge without quoting it. Rain for dry places is framed as Spirit-given capacity to let prayer reach the place where injury wants to become retaliation.
 
 Judges 15:7 brings Samson's wounded resolve into the open. The injury has become a plan.
 
@@ -8401,7 +8401,7 @@ The Spirit teaches prayer by sending strength into the dry place where revenge h
 
 **Scripture Reference:** Judges 15:8
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the violent aftermath and Samson's withdrawal to frame anointing for today as cleansing after a reaction has crossed a line.
+**Context and language lens:** The violent aftermath and Samson's withdrawal to frame anointing for today as cleansing after a reaction has crossed a line.
 
 Judges 15:8 shows retaliation moving from words into action. Afterward, Samson withdraws into the cleft of the rock.
 
@@ -8429,7 +8429,7 @@ The Spirit teaches prayer by renewing the heart after reaction exposes it.
 
 **Scripture Reference:** Judges 15:9
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses the Philistine camp in Judah as a pressure scene. Peace leading the Spirit's fruit is framed as discerning God's nearness when fear gathers around the people.
+**Context and language lens:** The Philistine camp in Judah as a pressure scene. Peace leading the Spirit's fruit is framed as discerning God's nearness when fear gathers around the people.
 
 Judges 15:9 shows the conflict spreading. The pressure is no longer private; fear settles over a whole place.
 
@@ -8457,7 +8457,7 @@ The Spirit teaches prayer by making God's nearness discernible when fear gathers
 
 **Scripture Reference:** Judges 15:10
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses the question of why conflict has come. Power to witness is framed as Spirit-breathed truth when people demand explanations under pressure.
+**Context and language lens:** The question of why conflict has come. Power to witness is framed as Spirit-breathed truth when people demand explanations under pressure.
 
 Judges 15:10 brings a question into the tension. The people want to know why the enemy has come against them.
 
@@ -8485,7 +8485,7 @@ The Spirit teaches prayer by breathing truthful witness into pressured explanati
 
 **Scripture Reference:** Judges 15:11
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Judah's fearful submission and Samson's self-justifying answer. The seal of belonging is framed as set-apart identity when people have learned to live under fear.
+**Context and language lens:** Judah's fearful submission and Samson's self-justifying answer. The seal of belonging is framed as set-apart identity when people have learned to live under fear.
 
 Judges 15:11 shows a crowd coming to Samson in the cleft of the rock. Their words reveal how deeply fear has shaped their sense of what is normal.
 
@@ -8513,7 +8513,7 @@ The Spirit teaches prayer by sealing identity in God before fear defines normal.
 
 **Scripture Reference:** Judges 15:12
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Samson being bound by his own people. Prayer beyond words is framed as Spirit-given capacity when restraint feels humiliating and trust feels costly.
+**Context and language lens:** Samson being bound by his own people. Prayer beyond words is framed as Spirit-given capacity when restraint feels humiliating and trust feels costly.
 
 Judges 15:12 shows Samson facing restraint from people who should have stood with him. The scene is tense, humiliating, and full of danger.
 
@@ -8541,7 +8541,7 @@ The Spirit teaches prayer by strengthening the heart when restraint feels humili
 
 **Scripture Reference:** Judges 15:13
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the new cords and the movement out from the rock. Wind in the waiting is framed as cleansing grace when the next step includes limitation.
+**Context and language lens:** The new cords and the movement out from the rock. Wind in the waiting is framed as cleansing grace when the next step includes limitation.
 
 Judges 15:13 shows Samson bound and brought up from the rock. Movement comes, but it comes with cords.
 
@@ -8572,7 +8572,7 @@ The Spirit teaches prayer by cleansing waiting before limitation becomes bittern
 
 **Scripture Reference:** Judges 15:15
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses the jawbone scene without quoting it. Oil for the journey is framed as discerning God's nearness when an ordinary thing becomes part of a difficult deliverance.
+**Context and language lens:** The jawbone scene without quoting it. Oil for the journey is framed as discerning God's nearness when an ordinary thing becomes part of a difficult deliverance.
 
 Judges 15:15 shows Samson taking up what is near him in a moment of crisis. The story is forceful, but the devotional lesson must stay submitted to prayer instead of celebrating violence.
 
@@ -8600,7 +8600,7 @@ The Spirit teaches prayer by making God's nearness louder than the instrument in
 
 **Scripture Reference:** Judges 15:16
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Samson's victory speech without quoting it. Freedom in the Spirit is framed as Spirit-breathed witness cleansed from self-glory.
+**Context and language lens:** Samson's victory speech without quoting it. Freedom in the Spirit is framed as Spirit-breathed witness cleansed from self-glory.
 
 Judges 15:16 brings speech after victory. The mouth tries to interpret what has happened.
 
@@ -8628,7 +8628,7 @@ The Spirit teaches prayer by cleansing witness after success.
 
 **Scripture Reference:** Judges 15:17
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Samson laying aside the instrument after the conflict. The breath of God is framed as set-apart release when the season requires letting go.
+**Context and language lens:** Samson laying aside the instrument after the conflict. The breath of God is framed as set-apart release when the season requires letting go.
 
 Judges 15:17 shows an ending gesture after the conflict. What was used is no longer held.
 
@@ -8656,7 +8656,7 @@ The Spirit teaches prayer by setting apart the courage to lay an old instrument 
 
 **Scripture Reference:** Judges 15:18
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Samson's thirst after deliverance. The Comforter's nearness is framed as strength to admit need after exertion.
+**Context and language lens:** Samson's thirst after deliverance. The Comforter's nearness is framed as strength to admit need after exertion.
 
 Judges 15:18 shows Samson depleted after the conflict. Strength has been spent, and thirst becomes honest prayer.
 
@@ -8684,7 +8684,7 @@ The Spirit teaches prayer by strengthening honest need after exertion.
 
 **Scripture Reference:** Judges 15:20
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the summary of Samson's years of judging Israel. Holy fire is framed as cleansing legacy so long service remains surrendered.
+**Context and language lens:** The summary of Samson's years of judging Israel. Holy fire is framed as cleansing legacy so long service remains surrendered.
 
 Judges 15:20 steps back and names a longer season of leadership. A life is not only one crisis; it is also the pattern that follows.
 
@@ -8712,7 +8712,7 @@ The Spirit teaches prayer by cleansing long service into surrendered legacy.
 
 **Scripture Reference:** 1 Samuel 10:2
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Samuel's directional word to Saul after anointing. The anointing for today is framed as discerning God's nearness when news changes what the heart has been chasing.
+**Context and language lens:** Samuel's directional word to Saul after anointing. The anointing for today is framed as discerning God's nearness when news changes what the heart has been chasing.
 
 1 Samuel 10:2 moves Saul from the moment of anointing into a word of direction and news. What had been lost is no longer the center of concern.
 
@@ -8740,7 +8740,7 @@ The Spirit forms freedom, fire, and holiness by reordering attention under God's
 
 **Scripture Reference:** 1 Samuel 10:3
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Saul's next appointed meeting on the road. The Spirit's fruit is framed as Spirit-breathed witness that receives provision without grasping.
+**Context and language lens:** Saul's next appointed meeting on the road. The Spirit's fruit is framed as Spirit-breathed witness that receives provision without grasping.
 
 1 Samuel 10:3 places Saul on a road where he will meet others carrying offerings and provision. The next step is not empty.
 
@@ -8771,7 +8771,7 @@ The Spirit forms freedom, fire, and holiness by teaching the heart to receive pr
 
 **Scripture Reference:** 1 Samuel 10:4
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Saul receiving provision on the road after anointing. Power to witness is framed as set-apart receiving that does not confuse provision with ownership.
+**Context and language lens:** Saul receiving provision on the road after anointing. Power to witness is framed as set-apart receiving that does not confuse provision with ownership.
 
 1 Samuel 10:4 continues the road signs after Saul's anointing. He is met, greeted, and given what he needs for the way.
 
@@ -8799,7 +8799,7 @@ The Spirit forms freedom, fire, and holiness by setting provision apart for witn
 
 **Scripture Reference:** 1 Samuel 10:5
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Saul approaching a spiritually charged and politically tense place. The seal of belonging is framed as capacity to stay grounded when atmosphere, music, power, and pressure meet.
+**Context and language lens:** Saul approaching a spiritually charged and politically tense place. The seal of belonging is framed as capacity to stay grounded when atmosphere, music, power, and pressure meet.
 
 1 Samuel 10:5 places Saul near a significant place with visible spiritual activity and surrounding tension. The atmosphere is not casual.
 
@@ -8827,7 +8827,7 @@ The Spirit forms freedom, fire, and holiness by strengthening belonging in charg
 
 **Scripture Reference:** 1 Samuel 10:7
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses Samuel's instruction about responding when the appointed signs happen. Prayer beyond words is framed as cleansing readiness so freedom does not become impulsiveness.
+**Context and language lens:** Samuel's instruction about responding when the appointed signs happen. Prayer beyond words is framed as cleansing readiness so freedom does not become impulsiveness.
 
 1 Samuel 10:7 points Saul toward a moment when signs have confirmed the road. He will still need a clean heart for what comes next.
 
@@ -8855,7 +8855,7 @@ The Spirit forms freedom, fire, and holiness by cleansing readiness before actio
 
 **Scripture Reference:** 1 Samuel 10:8
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Samuel's instruction to wait for appointed guidance. Wind in the waiting is framed as hearing God's nearness through restraint and timing.
+**Context and language lens:** Samuel's instruction to wait for appointed guidance. Wind in the waiting is framed as hearing God's nearness through restraint and timing.
 
 1 Samuel 10:8 gives Saul a waiting instruction. The calling has begun, but timing still matters.
 
@@ -8883,7 +8883,7 @@ The Spirit forms freedom, fire, and holiness by making God's nearness discernibl
 
 **Scripture Reference:** 1 Samuel 10:9
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses God changing Saul's heart and confirming the signs. Oil for the journey is framed as Spirit-breathed witness beginning with inward change.
+**Context and language lens:** God changing Saul's heart and confirming the signs. Oil for the journey is framed as Spirit-breathed witness beginning with inward change.
 
 1 Samuel 10:9 shows the turning of Saul's heart and the confirming of the signs. The journey changes from the inside before it is recognized from the outside.
 
@@ -8911,7 +8911,7 @@ The Spirit forms freedom, fire, and holiness by breathing witness from a changed
 
 **Scripture Reference:** 1 Samuel 10:11
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses public surprise at Saul among the prophets. Freedom in the Spirit is framed as set-apart identity when others are startled by change.
+**Context and language lens:** Public surprise at Saul among the prophets. Freedom in the Spirit is framed as set-apart identity when others are startled by change.
 
 1 Samuel 10:11 shows people reacting to Saul in a new context. They recognize him, but they do not know what to do with what they see.
 
@@ -8939,7 +8939,7 @@ The Spirit forms freedom, fire, and holiness by setting identity apart from old 
 
 **Scripture Reference:** 1 Samuel 10:12
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses the public question that follows Saul's changed behavior. The breath of God is framed as capacity to keep breathing when questions remain unresolved.
+**Context and language lens:** The public question that follows Saul's changed behavior. The breath of God is framed as capacity to keep breathing when questions remain unresolved.
 
 1 Samuel 10:12 leaves a question in the air. The people are trying to interpret what they have witnessed.
 
@@ -8970,7 +8970,7 @@ The Spirit forms freedom, fire, and holiness by strengthening the heart under un
 
 **Scripture Reference:** 1 Samuel 10:13
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses Saul returning from the prophetic moment to the high place. The Comforter's nearness is framed as cleansing after spiritual experience so the heart returns steady.
+**Context and language lens:** Saul returning from the prophetic moment to the high place. The Comforter's nearness is framed as cleansing after spiritual experience so the heart returns steady.
 
 1 Samuel 10:13 shows a transition after a remarkable moment. The public sign is not the end of the walk.
 
@@ -8998,7 +8998,7 @@ The Spirit forms freedom, fire, and holiness by cleansing the heart after spirit
 
 **Scripture Reference:** 1 Samuel 10:14
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses a family question after Saul's encounter with Samuel. Holy fire is framed as discerning God's nearness inside ordinary questions.
+**Context and language lens:** A family question after Saul's encounter with Samuel. Holy fire is framed as discerning God's nearness inside ordinary questions.
 
 1 Samuel 10:14 brings Saul into a normal conversation. Someone close to him asks where he has been.
 
@@ -9026,7 +9026,7 @@ The Spirit forms freedom, fire, and holiness by making God's nearness discernibl
 
 **Scripture Reference:** 1 Samuel 10:16
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Saul's restrained disclosure. Rain for dry places is framed as Spirit-breathed witness that knows when not to reveal everything.
+**Context and language lens:** Saul's restrained disclosure. Rain for dry places is framed as Spirit-breathed witness that knows when not to reveal everything.
 
 1 Samuel 10:16 shows Saul answering truthfully while withholding part of what had been spoken over him. Not every holy thing is ready for public handling.
 
@@ -9054,7 +9054,7 @@ The Spirit forms freedom, fire, and holiness by breathing restraint into truthfu
 
 **Scripture Reference:** 1 Samuel 10:17
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Samuel gathering the people before the Lord. The anointing for today is framed as set-apart public attention under God's presence.
+**Context and language lens:** Samuel gathering the people before the Lord. The anointing for today is framed as set-apart public attention under God's presence.
 
 1 Samuel 10:17 moves the story into a gathered public moment. The people are assembled before God.
 
@@ -9082,7 +9082,7 @@ The Spirit forms freedom, fire, and holiness by setting public attention under G
 
 **Scripture Reference:** 1 Samuel 10:18
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Samuel's reminder of God's deliverance. The Spirit's fruit is framed as strength to remember rescue before choosing a visible substitute for trust.
+**Context and language lens:** Samuel's reminder of God's deliverance. The Spirit's fruit is framed as strength to remember rescue before choosing a visible substitute for trust.
 
 1 Samuel 10:18 calls the people to remember deliverance. The story begins with what God has already done.
 
@@ -9110,7 +9110,7 @@ The Spirit forms freedom, fire, and holiness by strengthening memory into faithf
 
 **Scripture Reference:** 1 Samuel 10:19
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the people's desire for visible security. Power to witness is framed as cleansing desire when the heart is tempted to replace trust with control.
+**Context and language lens:** The people's desire for visible security. Power to witness is framed as cleansing desire when the heart is tempted to replace trust with control.
 
 1 Samuel 10:19 exposes a painful exchange. The people want visible security, even after God's saving faithfulness has been named.
 
@@ -9138,7 +9138,7 @@ The Spirit forms freedom, fire, and holiness by cleansing desire before it repla
 
 **Scripture Reference:** 1 Samuel 10:20
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses the tribe of Benjamin being selected. The seal of belonging is framed as hearing God's nearness when selection narrows and identity feels exposed.
+**Context and language lens:** The tribe of Benjamin being selected. The seal of belonging is framed as hearing God's nearness when selection narrows and identity feels exposed.
 
 1 Samuel 10:20 begins narrowing the public selection. A tribe is brought forward, and attention becomes more focused.
 
@@ -9169,7 +9169,7 @@ The Spirit forms freedom, fire, and holiness by making God's nearness discernibl
 
 **Scripture Reference:** 1 Samuel 10:21
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Saul being selected while still not appearing before the people. Prayer beyond words is framed as Spirit-breathed witness when calling feels both near and hidden.
+**Context and language lens:** Saul being selected while still not appearing before the people. Prayer beyond words is framed as Spirit-breathed witness when calling feels both near and hidden.
 
 1 Samuel 10:21 narrows the public selection until Saul is named. Yet the story does not immediately resolve into easy visibility.
 
@@ -9197,7 +9197,7 @@ The Spirit forms freedom, fire, and holiness by breathing witness into hidden re
 
 **Scripture Reference:** 1 Samuel 10:22
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses the people inquiring and Saul being found hidden among the supplies. Wind in the waiting is framed as set-apart honesty when avoidance hides near calling.
+**Context and language lens:** The people inquiring and Saul being found hidden among the supplies. Wind in the waiting is framed as set-apart honesty when avoidance hides near calling.
 
 1 Samuel 10:22 shows the people asking for clarity and Saul being found hidden away. The public moment reveals private fear.
 
@@ -9225,7 +9225,7 @@ The Spirit forms freedom, fire, and holiness by setting hidden fear apart for ho
 
 **Scripture Reference:** 1 Samuel 10:23
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Saul being brought out and made visible. Oil for the journey is framed as strength to stand when attention suddenly becomes unavoidable.
+**Context and language lens:** Saul being brought out and made visible. Oil for the journey is framed as strength to stand when attention suddenly becomes unavoidable.
 
 1 Samuel 10:23 brings Saul from hiddenness into public view. The attention becomes impossible to ignore.
 
@@ -9253,7 +9253,7 @@ The Spirit forms freedom, fire, and holiness by strengthening the heart under un
 
 **Scripture Reference:** 1 Samuel 10:24
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses public affirmation after Saul is presented. Freedom in the Spirit is framed as cleansing the heart when applause or approval gathers.
+**Context and language lens:** Public affirmation after Saul is presented. Freedom in the Spirit is framed as cleansing the heart when applause or approval gathers.
 
 1 Samuel 10:24 places Saul before the people and public affirmation follows. The room responds.
 
@@ -9281,7 +9281,7 @@ The Spirit forms freedom, fire, and holiness by cleansing the heart under public
 
 **Scripture Reference:** 1 Samuel 10:25
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Samuel explaining and recording the responsibilities of kingship before the Lord. The breath of God is framed as God's voice bringing order to public responsibility.
+**Context and language lens:** Samuel explaining and recording the responsibilities of kingship before the Lord. The breath of God is framed as God's voice bringing order to public responsibility.
 
 1 Samuel 10:25 shows public responsibility being explained, recorded, and placed before God. Calling needs order.
 
@@ -9309,7 +9309,7 @@ The Spirit forms freedom, fire, and holiness by making God's nearness discernibl
 
 **Scripture Reference:** 1 Samuel 10:26
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses the men whose hearts God touched going with Saul. The Comforter's nearness is framed as Spirit-breathed witness through faithful companions.
+**Context and language lens:** The men whose hearts God touched going with Saul. The Comforter's nearness is framed as Spirit-breathed witness through faithful companions.
 
 1 Samuel 10:26 shows Saul going home with companions whose hearts God has moved. Calling does not have to walk alone.
 
@@ -9337,7 +9337,7 @@ The Spirit forms freedom, fire, and holiness by breathing witness through faithf
 
 **Scripture Reference:** 1 Samuel 10:27
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses contempt toward Saul and his restrained response. Holy fire is framed as set-apart restraint when criticism tries to provoke reaction.
+**Context and language lens:** Contempt toward Saul and his restrained response. Holy fire is framed as set-apart restraint when criticism tries to provoke reaction.
 
 1 Samuel 10:27 introduces contempt. Not everyone honors what has been set in motion.
 
@@ -9368,7 +9368,7 @@ The Spirit forms freedom, fire, and holiness by setting response apart under con
 
 **Scripture Reference:** Matthew 10:2
 
-**Production lens correction:** The architecture assigned `chrisma`; the production lens uses the naming of the first apostles. Rain for dry places is framed as anointing that teaches, marks, and empowers ordinary named people for Jesus' mission.
+**Context and language lens:** The naming of the first apostles. Rain for dry places is framed as anointing that teaches, marks, and empowers ordinary named people for Jesus' mission.
 
 Matthew 10:2 begins naming the twelve apostles. Mission becomes personal before it becomes public.
 
@@ -9396,7 +9396,7 @@ The Spirit forms freedom, fire, and holiness by anointing ordinary named lives f
 
 **Scripture Reference:** Matthew 10:3
 
-**Production lens correction:** The architecture assigned `sphragizo`; the production lens uses the varied list of disciples. The anointing for today is framed as sealed belonging among different stories and backgrounds.
+**Context and language lens:** The varied list of disciples. The anointing for today is framed as sealed belonging among different stories and backgrounds.
 
 Matthew 10:3 continues the list with disciples whose stories and temperaments were not identical. Jesus gathers real people, not interchangeable images.
 
@@ -9424,7 +9424,7 @@ The Spirit forms freedom, fire, and holiness by sealing belonging among differen
 
 **Scripture Reference:** Matthew 10:4
 
-**Production lens correction:** The architecture assigned `charisma`; the production lens uses the completion of the disciple list, including difficult and sobering names. The Spirit's fruit is framed as gift of grace for service, not self-display.
+**Context and language lens:** The completion of the disciple list, including difficult and sobering names. The Spirit's fruit is framed as gift of grace for service, not self-display.
 
 Matthew 10:4 completes the list with names that remind the reader how sobering human calling can be. A place near holy work does not automatically make the heart surrendered.
 
@@ -9452,7 +9452,7 @@ The Spirit forms freedom, fire, and holiness by keeping gift submitted to mercy.
 
 **Scripture Reference:** Matthew 10:5
 
-**Production lens correction:** The architecture assigned `eleutheria`; the production lens uses Jesus sending the twelve with specific boundaries. Power to witness is framed as Spirit-given freedom that obeys direction instead of wandering into self-directed mission.
+**Context and language lens:** Jesus sending the twelve with specific boundaries. Power to witness is framed as Spirit-given freedom that obeys direction instead of wandering into self-directed mission.
 
 Matthew 10:5 shows Jesus sending the twelve with boundaries. The mission is empowered, but it is not self-invented.
 
@@ -9480,7 +9480,7 @@ The Spirit forms freedom, fire, and holiness by making witness free enough to ob
 
 **Scripture Reference:** Matthew 10:6
 
-**Production lens correction:** The architecture assigned `parakletos`; the production lens uses Jesus directing the disciples toward lost sheep of Israel. The seal of belonging is framed as the Comforter's help when mission turns toward those who are near, vulnerable, and wandering.
+**Context and language lens:** Jesus directing the disciples toward lost sheep of Israel. The seal of belonging is framed as the Comforter's help when mission turns toward those who are near, vulnerable, and wandering.
 
 Matthew 10:6 narrows the disciples' attention toward a people described as lost. The instruction is particular, compassionate, and near.
 
@@ -9508,7 +9508,7 @@ The Spirit forms freedom, fire, and holiness by sending comforted people toward 
 
 **Scripture Reference:** Matthew 10:7
 
-**Production lens correction:** The architecture assigned `chrisma`; the production lens uses Jesus' proclamation instruction. Prayer beyond words is framed as anointing that teaches speech to announce God's nearness with humility.
+**Context and language lens:** Jesus' proclamation instruction. Prayer beyond words is framed as anointing that teaches speech to announce God's nearness with humility.
 
 Matthew 10:7 gives the disciples a message to carry. Their words are not self-generated; they are entrusted.
 
@@ -9536,7 +9536,7 @@ The Spirit forms freedom, fire, and holiness by anointing speech to announce God
 
 **Scripture Reference:** Matthew 10:8
 
-**Production lens correction:** The architecture assigned `sphragizo`; the production lens uses Jesus connecting ministry to received grace and generous giving. Wind in the waiting is framed as sealed belonging that serves without grasping.
+**Context and language lens:** Jesus connecting ministry to received grace and generous giving. Wind in the waiting is framed as sealed belonging that serves without grasping.
 
 Matthew 10:8 ties ministry to received grace. The disciples are not owners of power; they are stewards of mercy.
 
@@ -9567,7 +9567,7 @@ The Spirit forms freedom, fire, and holiness by sealing service in received grac
 
 **Scripture Reference:** Matthew 10:9
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' instruction about not loading the mission with stored-up security. Freedom in the Spirit is framed as being filled enough to release fear-driven provision anxiety.
+**Context and language lens:** Jesus' instruction about not loading the mission with stored-up security. Freedom in the Spirit is framed as being filled enough to release fear-driven provision anxiety.
 
 Matthew 10:9 moves the disciples into a leaner kind of trust. Jesus sends them without letting accumulated security become the source of courage.
 
@@ -9595,7 +9595,7 @@ The Spirit forms a sealed and filled life by freeing obedience from provision an
 
 **Scripture Reference:** Matthew 10:10
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' instruction about simplicity and worthy provision. The breath of God is framed as invisible presence with visible effect in practical dependence.
+**Context and language lens:** Jesus' instruction about simplicity and worthy provision. The breath of God is framed as invisible presence with visible effect in practical dependence.
 
 Matthew 10:10 continues the sending with practical restraint and trust for daily provision. The mission is spiritual, but it touches ordinary needs.
 
@@ -9623,7 +9623,7 @@ The Spirit forms a sealed and filled life by breathing trust into ordinary provi
 
 **Scripture Reference:** Matthew 10:11
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' instruction to discern where to stay. The Comforter's nearness is framed as power for witness and holy endurance through wise welcome.
+**Context and language lens:** Jesus' instruction to discern where to stay. The Comforter's nearness is framed as power for witness and holy endurance through wise welcome.
 
 Matthew 10:11 teaches discernment. The disciples are not told to force every door; they are taught to recognize where welcome is present.
 
@@ -9651,7 +9651,7 @@ The Spirit forms a sealed and filled life by giving discernment for where witnes
 
 **Scripture Reference:** Matthew 10:12
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' instruction to greet a household. Holy fire is framed as the Spirit's pledge that God's peace can be carried into ordinary thresholds.
+**Context and language lens:** Jesus' instruction to greet a household. Holy fire is framed as the Spirit's pledge that God's peace can be carried into ordinary thresholds.
 
 Matthew 10:12 begins with a greeting. Before outcomes are measured, peace is offered.
 
@@ -9679,7 +9679,7 @@ The Spirit forms a sealed and filled life by making ordinary thresholds places o
 
 **Scripture Reference:** Matthew 10:13
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' teaching about peace resting or returning. Rain for dry places is framed as fruit that offers peace without forcing it.
+**Context and language lens:** Jesus' teaching about peace resting or returning. Rain for dry places is framed as fruit that offers peace without forcing it.
 
 Matthew 10:13 shows peace as something offered and received, not controlled. The disciples are responsible to carry peace; they are not responsible to force its welcome.
 
@@ -9707,7 +9707,7 @@ The Spirit forms a sealed and filled life by growing peace that does not force i
 
 **Scripture Reference:** Matthew 10:14
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' instruction for unreceptive places. The anointing for today is framed as being filled enough to release rejection without bitterness.
+**Context and language lens:** Jesus' instruction for unreceptive places. The anointing for today is framed as being filled enough to release rejection without bitterness.
 
 Matthew 10:14 names the possibility of refusal. Not every place will receive the messenger or the message.
 
@@ -9735,7 +9735,7 @@ The Spirit forms a sealed and filled life by filling the heart for clean release
 
 **Scripture Reference:** Matthew 10:15
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' sober warning without weaponizing it. The Spirit's fruit is framed as visible life under accountability, not harshness toward others.
+**Context and language lens:** Jesus' sober warning without weaponizing it. The Spirit's fruit is framed as visible life under accountability, not harshness toward others.
 
 Matthew 10:15 is sober. Jesus does not pretend response to truth is weightless.
 
@@ -9766,7 +9766,7 @@ The Spirit forms a sealed and filled life by making accountability visible as hu
 
 **Scripture Reference:** Matthew 10:16
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' warning about being sent into vulnerable places. Power to witness is framed as Spirit-enabled wisdom, innocence, and holy endurance, not force.
+**Context and language lens:** Jesus' warning about being sent into vulnerable places. Power to witness is framed as Spirit-enabled wisdom, innocence, and holy endurance, not force.
 
 Matthew 10:16 is not a romantic picture of ministry. Jesus tells His disciples the truth about the world they are entering, and He gives them a way to walk in it without becoming hard.
 
@@ -9794,7 +9794,7 @@ The Spirit forms a sealed and filled life by giving power that stays wise, innoc
 
 **Scripture Reference:** Matthew 10:17
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' warning about opposition from public and religious systems. The seal of belonging is framed as the Spirit's pledge that accusation does not own the believer.
+**Context and language lens:** Jesus' warning about opposition from public and religious systems. The seal of belonging is framed as the Spirit's pledge that accusation does not own the believer.
 
 Matthew 10:17 prepares the disciples for opposition. Jesus does not hide the cost of witness, and He does not let opposition become the final name over them.
 
@@ -9822,7 +9822,7 @@ The Spirit forms a sealed and filled life by anchoring belonging when opposition
 
 **Scripture Reference:** Matthew 10:18
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' teaching about witness before people in authority. Prayer beyond words is framed as Spirit-grown fruit that becomes visible when life is placed under public pressure.
+**Context and language lens:** Jesus' teaching about witness before people in authority. Prayer beyond words is framed as Spirit-grown fruit that becomes visible when life is placed under public pressure.
 
 Matthew 10:18 shows witness moving into official rooms and visible places. The disciples' lives will speak where comfort would rather remain private.
 
@@ -9850,7 +9850,7 @@ The Spirit forms a sealed and filled life by making private prayer visible as st
 
 **Scripture Reference:** Matthew 10:19
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' instruction not to be anxious about what to say when handed over. Wind in the waiting is framed as being filled enough to trust the Spirit's timing and speech.
+**Context and language lens:** Jesus' instruction not to be anxious about what to say when handed over. Wind in the waiting is framed as being filled enough to trust the Spirit's timing and speech.
 
 Matthew 10:19 meets anxiety at the mouth. Jesus knows the fear of being put on the spot, misunderstood, and required to answer before the heart feels ready.
 
@@ -9878,7 +9878,7 @@ The Spirit forms a sealed and filled life by quieting anxious rehearsal and fill
 
 **Scripture Reference:** Matthew 10:21
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' sober words about family division and betrayal. Oil for the journey is framed as the Spirit's breath sustaining faith when obedience touches family pain.
+**Context and language lens:** Jesus' sober words about family division and betrayal. Oil for the journey is framed as the Spirit's breath sustaining faith when obedience touches family pain.
 
 Matthew 10:21 is tender and sobering. Jesus names the kind of pain that can feel hardest to carry: conflict, rejection, or betrayal close to home.
 
@@ -9906,7 +9906,7 @@ The Spirit forms a sealed and filled life by sustaining obedience when family pa
 
 **Scripture Reference:** Matthew 10:22
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' call to endure when hatred comes because of His name. Freedom in the Spirit is framed as power to remain faithful without being ruled by approval.
+**Context and language lens:** Jesus' call to endure when hatred comes because of His name. Freedom in the Spirit is framed as power to remain faithful without being ruled by approval.
 
 Matthew 10:22 names the cost of belonging to Jesus. Faithfulness may not always be applauded.
 
@@ -9934,7 +9934,7 @@ The Spirit forms a sealed and filled life by giving power to remain faithful wit
 
 **Scripture Reference:** Matthew 10:23
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' instruction about moving when persecution comes. The breath of God is framed as the Spirit's pledge that faithful movement can be obedience, not failure.
+**Context and language lens:** Jesus' instruction about moving when persecution comes. The breath of God is framed as the Spirit's pledge that faithful movement can be obedience, not failure.
 
 Matthew 10:23 shows that faithfulness is not always staying in one place. Sometimes obedience moves on.
 
@@ -9965,7 +9965,7 @@ The Spirit forms a sealed and filled life by making faithful movement possible w
 
 **Scripture Reference:** Matthew 10:24
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' teaching that a disciple is not above the teacher. The Comforter's nearness is framed as Spirit-grown fruit that keeps the learner close to Jesus.
+**Context and language lens:** Jesus' teaching that a disciple is not above the teacher. The Comforter's nearness is framed as Spirit-grown fruit that keeps the learner close to Jesus.
 
 Matthew 10:24 brings the heart back to humility. The disciple is not called to outrun the Teacher, outshine the Teacher, or build a safer path than the Teacher walked.
 
@@ -9993,7 +9993,7 @@ The Spirit forms a sealed and filled life by keeping discipleship close to Jesus
 
 **Scripture Reference:** Matthew 10:25
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' teaching about being treated as the Teacher was treated. Holy fire is framed as being filled enough to let misnaming be refined under Jesus.
+**Context and language lens:** Jesus' teaching about being treated as the Teacher was treated. Holy fire is framed as being filled enough to let misnaming be refined under Jesus.
 
 Matthew 10:25 tells the truth about misnaming. If Jesus was falsely accused, His followers should not be shocked when obedience is misunderstood.
 
@@ -10021,7 +10021,7 @@ The Spirit forms a sealed and filled life by filling the heart with Jesus' ident
 
 **Scripture Reference:** Matthew 10:26
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' command not to fear because hidden things will be revealed. Rain for dry places is framed as the Spirit's breath bringing courage where fear has dried the heart.
+**Context and language lens:** Jesus' command not to fear because hidden things will be revealed. Rain for dry places is framed as the Spirit's breath bringing courage where fear has dried the heart.
 
 Matthew 10:26 speaks directly to fear. Jesus does not deny that there are hidden pressures, covered motives, and unseen tensions. He tells His disciples not to be ruled by them.
 
@@ -10049,7 +10049,7 @@ The Spirit forms a sealed and filled life by refreshing courage when hidden fear
 
 **Scripture Reference:** Matthew 10:27
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' movement from private instruction to public witness. The anointing for today is framed as power to speak mercy with courage when God brings truth into the open.
+**Context and language lens:** Jesus' movement from private instruction to public witness. The anointing for today is framed as power to speak mercy with courage when God brings truth into the open.
 
 Matthew 10:27 turns hidden instruction into open witness. What is received with Jesus in the quiet is not meant to stay buried in fear.
 
@@ -10077,7 +10077,7 @@ The Spirit forms a sealed and filled life by turning private instruction into co
 
 **Scripture Reference:** Matthew 10:28
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' teaching about rightly ordered fear. The Spirit's fruit is framed as the pledge of coming life that frees the heart from lesser fears.
+**Context and language lens:** Jesus' teaching about rightly ordered fear. The Spirit's fruit is framed as the pledge of coming life that frees the heart from lesser fears.
 
 Matthew 10:28 is holy and weighty. Jesus does not invite careless courage; He calls the heart into rightly ordered reverence.
 
@@ -10105,7 +10105,7 @@ The Spirit forms a sealed and filled life by growing fruit from reverence that f
 
 **Scripture Reference:** Matthew 10:29
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' reminder that small lives are not unnoticed by the Father. Power to witness is framed as Spirit-grown fruit rooted in God's attentive care.
+**Context and language lens:** Jesus' reminder that small lives are not unnoticed by the Father. Power to witness is framed as Spirit-grown fruit rooted in God's attentive care.
 
 Matthew 10:29 draws the anxious heart toward the Father's attention. Nothing small is invisible to Him.
 
@@ -10133,7 +10133,7 @@ The Spirit forms a sealed and filled life by rooting witness in the Father's car
 
 **Scripture Reference:** Matthew 10:30
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' assurance of the Father's intimate knowledge. The seal of belonging is framed as being filled enough to rest under God's detailed care.
+**Context and language lens:** Jesus' assurance of the Father's intimate knowledge. The seal of belonging is framed as being filled enough to rest under God's detailed care.
 
 Matthew 10:30 brings comfort down to the smallest detail. Jesus wants the fearful heart to know that God's care is not vague.
 
@@ -10164,7 +10164,7 @@ The Spirit forms a sealed and filled life by filling the heart with rest under G
 
 **Scripture Reference:** Matthew 10:31
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' assurance not to fear because the Father values His children. Prayer beyond words is framed as the Spirit's breath quieting fear through the Father's care.
+**Context and language lens:** Jesus' assurance not to fear because the Father values His children. Prayer beyond words is framed as the Spirit's breath quieting fear through the Father's care.
 
 Matthew 10:31 carries the tenderness of Jesus into the anxious places of the heart. He does not merely command courage; He anchors courage in the Father's value over His children.
 
@@ -10192,7 +10192,7 @@ The Spirit forms a sealed and filled life by quieting fear with the Father's att
 
 **Scripture Reference:** Matthew 10:32
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' call to acknowledge Him before others. Wind in the waiting is framed as power for witness that becomes confession when the moment arrives.
+**Context and language lens:** Jesus' call to acknowledge Him before others. Wind in the waiting is framed as power for witness that becomes confession when the moment arrives.
 
 Matthew 10:32 brings waiting into witness. The life that belongs to Jesus is eventually invited to acknowledge Him in visible ways.
 
@@ -10220,7 +10220,7 @@ The Spirit forms a sealed and filled life by giving power to acknowledge Jesus w
 
 **Scripture Reference:** Matthew 10:33
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' sober warning about denying Him before others. Oil for the journey is framed as the Spirit's pledge that loyalty to Jesus matters now and in what is coming.
+**Context and language lens:** Jesus' sober warning about denying Him before others. Oil for the journey is framed as the Spirit's pledge that loyalty to Jesus matters now and in what is coming.
 
 Matthew 10:33 is sober because Jesus treats public loyalty as weighty. He is not inviting fragile shame; He is calling the heart into honest allegiance.
 
@@ -10248,7 +10248,7 @@ The Spirit forms a sealed and filled life by giving oil for honest allegiance to
 
 **Scripture Reference:** Matthew 10:34
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' hard saying about false peace and division. Freedom in the Spirit is framed as fruit that refuses counterfeit peace without becoming combative.
+**Context and language lens:** Jesus' hard saying about false peace and division. Freedom in the Spirit is framed as fruit that refuses counterfeit peace without becoming combative.
 
 Matthew 10:34 can startle the heart because Jesus refuses shallow peace. His coming exposes what is false, divided, and resistant to truth.
 
@@ -10276,7 +10276,7 @@ The Spirit forms a sealed and filled life by growing fruit that tells the truth 
 
 **Scripture Reference:** Matthew 10:35
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' words about division inside close family bonds. The breath of God is framed as being filled enough to remain tender and faithful when obedience disrupts expected loyalties.
+**Context and language lens:** Jesus' words about division inside close family bonds. The breath of God is framed as being filled enough to remain tender and faithful when obedience disrupts expected loyalties.
 
 Matthew 10:35 speaks into painful closeness. Jesus knows that allegiance to Him can disturb expectations inside family systems.
 
@@ -10304,7 +10304,7 @@ The Spirit forms a sealed and filled life by filling family tension with tender,
 
 **Scripture Reference:** Matthew 10:36
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' acknowledgment that conflict can come from close relationships. The Comforter's nearness is framed as the Spirit's invisible presence with visible effect in painful household pressure.
+**Context and language lens:** Jesus' acknowledgment that conflict can come from close relationships. The Comforter's nearness is framed as the Spirit's invisible presence with visible effect in painful household pressure.
 
 Matthew 10:36 names a grief many people would rather hide: pain can come from the places that were expected to feel safest.
 
@@ -10332,7 +10332,7 @@ The Spirit forms a sealed and filled life by making hope visible inside close re
 
 **Scripture Reference:** Matthew 10:37
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' call to love Him above even the dearest relationships. Holy fire is framed as power for rightly ordered love, not rejection of family.
+**Context and language lens:** Jesus' call to love Him above even the dearest relationships. Holy fire is framed as power for rightly ordered love, not rejection of family.
 
 Matthew 10:37 is not a call to coldness. Jesus is teaching the heart that even the dearest loves must be ordered under Him.
 
@@ -10363,7 +10363,7 @@ The Spirit forms a sealed and filled life by giving power to love people under t
 
 **Scripture Reference:** Matthew 10:38
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' call to take up the cross and follow Him. Rain for dry places is framed as the Spirit's pledge that costly obedience is held by what God has promised.
+**Context and language lens:** Jesus' call to take up the cross and follow Him. Rain for dry places is framed as the Spirit's pledge that costly obedience is held by what God has promised.
 
 Matthew 10:38 brings discipleship to a clear and costly place. Jesus does not call the heart to decorate faith; He calls the whole life to follow Him.
 
@@ -10391,7 +10391,7 @@ The Spirit forms a sealed and filled life by refreshing costly obedience with th
 
 **Scripture Reference:** Matthew 10:39
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' teaching about losing and finding life. The anointing for today is framed as Spirit-grown fruit that releases self-preservation and receives life from Jesus.
+**Context and language lens:** Jesus' teaching about losing and finding life. The anointing for today is framed as Spirit-grown fruit that releases self-preservation and receives life from Jesus.
 
 Matthew 10:39 turns the world's logic inside out. The life clutched for self-preservation becomes smaller, while the life surrendered to Jesus is found more truly.
 
@@ -10419,7 +10419,7 @@ The Spirit forms a sealed and filled life by growing fruit where surrendered lif
 
 **Scripture Reference:** Matthew 10:40
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' teaching that receiving His messengers is connected to receiving Him and the One who sent Him. The Spirit's fruit is framed as being filled enough to carry welcome that points beyond self.
+**Context and language lens:** Jesus' teaching that receiving His messengers is connected to receiving Him and the One who sent Him. The Spirit's fruit is framed as being filled enough to carry welcome that points beyond self.
 
 Matthew 10:40 closes the year with holy welcome. Jesus ties reception of His sent ones to reception of Himself and the Father who sent Him.
 

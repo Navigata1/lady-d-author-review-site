@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 14:13
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Jesus withdrawing after hearing of John's death because light gives direction for grief, solitude, and compassion without rushing the heart.
+**Context and language lens:** Jesus withdrawing after hearing of John's death because light gives direction for grief, solitude, and compassion without rushing the heart.
 
 The way of peace sometimes begins with Jesus making room for grief. Matthew 14:13 follows painful news. Jesus withdraws to a solitary place, yet the crowds still come. The verse holds a tension many faithful people know: the need to be with God and the pressure of human need.
 
@@ -32,7 +32,7 @@ Walking with Jesus means letting His light guide grief toward peace.
 
 **Journal prompt:** Where do I need to pause with Jesus instead of rushing past grief or weariness?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Surrender to the Way of Peace in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting His light guide grief toward peace.
 
 **Scripture Reference:** Matthew 14:14
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus seeing the crowd, being moved with compassion, and healing because discipleship learns mercy by staying close to His heart.
+**Context and language lens:** Jesus seeing the crowd, being moved with compassion, and healing because discipleship learns mercy by staying close to His heart.
 
 The table of grace begins in the compassion of Jesus. Matthew 14:14 shows Him seeing the crowd and being moved toward them. He does not look at people as interruptions. He sees need with holy tenderness.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting His compassion train your attention.
 
 **Journal prompt:** Where has my heart grown numb, and how is Jesus inviting compassion to wake up again?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Let Mercy Speak the Table of Grace in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting His compassion train your attention.
 
 **Scripture Reference:** Matthew 14:15
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the disciples' concern about evening, wilderness, and hungry crowds because saving wholeness meets fear about limited resources.
+**Context and language lens:** The disciples' concern about evening, wilderness, and hungry crowds because saving wholeness meets fear about limited resources.
 
 The healing touch of Jesus reaches the place where scarcity starts talking. Matthew 14:15 shows the disciples noticing the hour, the remote place, and the hungry crowd. Their concern is understandable. Need can look larger than provision.
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting His wholeness meet the fear of lack.
 
 **Journal prompt:** What "not enough" thought needs to be brought near to Jesus today?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Breathe the Healing Touch in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting His wholeness meet the fear of lack.
 
 **Scripture Reference:** Matthew 14:23
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus dismissing the crowds and going up the mountain alone to pray because peace is formed through communion with the Father.
+**Context and language lens:** Jesus dismissing the crowds and going up the mountain alone to pray because peace is formed through communion with the Father.
 
 The call to follow includes learning when to step away and pray. Matthew 14:23 shows Jesus dismissing the crowd and going up the mountain by Himself. He had served with compassion, but He did not confuse endless public demand with the Father's voice.
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting hidden prayer keep love whole.
 
 **Journal prompt:** What crowd, demand, or noise do I need to dismiss long enough to pray?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Hold Fast to the Call to Follow in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting hidden prayer keep love whole.
 
 **Scripture Reference:** Matthew 14:27
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus speaking courage in the storm because His trusted authority answers fear with His presence.
+**Context and language lens:** Jesus speaking courage in the storm because His trusted authority answers fear with His presence.
 
 Cross-shaped courage begins with hearing Jesus in the storm. Matthew 14:27 shows Him speaking to frightened disciples. He does not begin with a lecture. He gives courage, identifies Himself, and tells them not to be afraid.
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting His voice lead courage before fear leads reacti
 
 **Journal prompt:** Where do I need the voice of Jesus to become louder than fear?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Return to Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting His voice lead courage before fear leads reacti
 
 **Scripture Reference:** Matthew 14:28
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Peter's request for Jesus' command because light helps the disciple distinguish faith from impulse.
+**Context and language lens:** Peter's request for Jesus' command because light helps the disciple distinguish faith from impulse.
 
 Resurrection hope asks for the voice of Jesus before stepping into the impossible. Matthew 14:28 shows Peter responding to Jesus with desire and dependence. He does not simply jump because the moment is dramatic. He asks for the Lord's command.
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting His command give direction to courage.
 
 **Journal prompt:** Where do I need Jesus to distinguish faith from impulse before I move?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Yield to Resurrection Hope in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting His command give direction to courage.
 
 **Scripture Reference:** Matthew 14:29
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' invitation to Peter, "Come," because discipleship steps toward Christ by His word, not by self-generated courage.
+**Context and language lens:** Jesus' invitation to Peter, "Come," because discipleship steps toward Christ by His word, not by self-generated courage.
 
 The Friend who leads can call you forward on waters you could never master. Matthew 14:29 centers on Jesus' invitation and Peter's response. The power is not in Peter's confidence. The power is in the word of Christ.
 
@@ -200,4 +200,4 @@ Walking with Jesus means following His call from Sabbath-rooted belonging.
 
 **Journal prompt:** Where is Jesus calling me closer, and what step can I take from rest rather than pressure?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Anchor the Friend Who Leads in one faithful step today.

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 6:38
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God's merciful answer to Gideon's request. The Spirit's fruit is framed as humble obedience after God meets trembling faith.
+**Context and language lens:** God's merciful answer to Gideon's request. The Spirit's fruit is framed as humble obedience after God meets trembling faith.
 
 Judges 6:38 shows God meeting Gideon in the place where he asked for reassurance. The answer is tangible enough for a fearful heart to notice.
 
@@ -32,7 +32,7 @@ The Spirit gives power to witness by making answered mercy bear humble fruit.
 
 **Journal prompt:** How has God's patience met me, and what fruit should it produce today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Walk in the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit gives power to witness by making answered mercy bear humble fruit.
 
 **Scripture Reference:** Judges 6:40
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's second merciful confirmation to Gideon. Peace leading power to witness is framed as inward renewal that receives assurance without becoming dependent on endless signs.
+**Context and language lens:** God's second merciful confirmation to Gideon. Peace leading power to witness is framed as inward renewal that receives assurance without becoming dependent on endless signs.
 
 Judges 6:40 closes this reassurance moment with God's patience on display. Gideon's fear is not praised, but God still meets him with mercy.
 
@@ -60,17 +60,17 @@ The Spirit gives power to witness by renewing assurance into obedient peace.
 
 **Journal prompt:** What reassurance has God already given that now calls for obedience?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Let Peace Lead Power to Witness into one faithful step today.
 
 ---
 
 ## Day 274 - October 1
 
-### Come Home to Prayer Beyond Words
+### Come Home to Holy Steadiness Through Prayer Beyond Words
 
 **Scripture Reference:** Judges 14:1
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens opens Samson's desire carefully. Prayer beyond words is framed as cleansing desire before it becomes a decision.
+**Context and language lens:** This lens opens Samson's desire carefully. Prayer beyond words is framed as cleansing desire before it becomes a decision.
 
 Judges 14:1 begins with sight and desire. Samson sees, and the story starts moving around what has captured his attention.
 
@@ -88,17 +88,17 @@ The Spirit teaches prayer by cleansing desire before it becomes direction.
 
 **Journal prompt:** What desire needs to be brought home to God before it becomes a decision?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Come Home to Holy Steadiness Through Prayer Beyond Words into one faithful step today.
 
 ---
 
 ## Day 275 - October 2
 
-### Practice Wind in the Waiting
+### Practice Holy Steadiness in Wind in the Waiting
 
 **Scripture Reference:** Judges 14:2
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Samson's spoken desire and the family conversation it creates. Wind in the waiting is framed as learning which voice is shaping prayer.
+**Context and language lens:** Samson's spoken desire and the family conversation it creates. Wind in the waiting is framed as learning which voice is shaping prayer.
 
 Judges 14:2 lets desire become speech. Samson tells his parents what he has seen and what he wants.
 
@@ -116,7 +116,7 @@ The Spirit teaches prayer by making the heart attentive to the voice beneath des
 
 **Journal prompt:** Which voice has been loudest in the way I speak about what I want?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Practice Holy Steadiness in Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit teaches prayer by making the heart attentive to the voice beneath des
 
 **Scripture Reference:** Judges 14:3
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses family counsel and Samson's insistence. Oil for the journey is framed as prayerful surrender when desire resists wise correction.
+**Context and language lens:** Family counsel and Samson's insistence. Oil for the journey is framed as prayerful surrender when desire resists wise correction.
 
 Judges 14:3 brings counsel and insistence into the same room. Samson hears concern, yet his desire keeps pressing.
 
@@ -144,7 +144,7 @@ The Spirit teaches prayer by surrendering desire before it overrules wisdom.
 
 **Journal prompt:** Where am I insisting when God may be asking me to listen?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Surrender to Oil for the Journey into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit teaches prayer by surrendering desire before it overrules wisdom.
 
 **Scripture Reference:** Judges 14:4
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses the hidden providence named in the verse without treating every desire as automatically endorsed. Freedom in the Spirit is framed as trust that God's purpose is larger than human understanding and still calls motives into prayer.
+**Context and language lens:** The hidden providence named in the verse without treating every desire as automatically endorsed. Freedom in the Spirit is framed as trust that God's purpose is larger than human understanding and still calls motives into prayer.
 
 Judges 14:4 reveals a layer the people in the story do not understand. God is working beyond what the family can see.
 
@@ -172,7 +172,7 @@ The Spirit teaches prayer by freeing trust while keeping motives surrendered.
 
 **Journal prompt:** Where do I need to trust God's hidden work while still surrendering my motives?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Let Mercy Speak Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit teaches prayer by freeing trust while keeping motives surrendered.
 
 **Scripture Reference:** Judges 14:5
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses the sudden threat on Samson's road. The breath of God is framed as God-given capacity when prayer meets unexpected pressure.
+**Context and language lens:** The sudden threat on Samson's road. The breath of God is framed as God-given capacity when prayer meets unexpected pressure.
 
 Judges 14:5 moves from desire and family conversation into the road ahead. A sudden threat appears in the journey.
 
@@ -200,4 +200,4 @@ The Spirit teaches prayer by breathing strength into unexpected pressure.
 
 **Journal prompt:** Where do I need God-given breath for unexpected pressure?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Breathe the Breath of God into one faithful step today.

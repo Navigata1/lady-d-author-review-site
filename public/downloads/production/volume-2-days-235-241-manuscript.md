@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 21:15
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the temple leaders' reaction to Jesus' wonderful works and the children's praise because Lordship reveals itself through mercy that religion cannot control.
+**Context and language lens:** The temple leaders' reaction to Jesus' wonderful works and the children's praise because Lordship reveals itself through mercy that religion cannot control.
 
 Matthew 21:15 shows a painful contrast. The chief priests and scribes see wonderful things in the temple. They also hear children crying praise to Jesus. Instead of rejoicing, they become indignant.
 
@@ -32,7 +32,7 @@ Walking with Jesus means honoring the Lord when His mercy becomes visible.
 
 **Journal prompt:** Where have I been slow to celebrate the wonderful things Jesus is doing?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Hold Fast to the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means honoring the Lord when His mercy becomes visible.
 
 **Scripture Reference:** Matthew 21:16
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus answering religious indignation with Scripture because light exposes fear and gives direction back to worship.
+**Context and language lens:** Jesus answering religious indignation with Scripture because light exposes fear and gives direction back to worship.
 
 Matthew 21:16 shows Jesus refusing to silence holy praise. When the leaders object to the children, Jesus points them back to what God has already revealed. Their fear is exposed by the light of the Word.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting His Word return the heart to peace.
 
 **Journal prompt:** What reaction in me needs the light of Jesus before it becomes a decision?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Return to the Way of Peace in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting His Word return the heart to peace.
 
 **Scripture Reference:** Matthew 21:19
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses the fig tree as a discipleship warning because following Jesus includes fruit, not only leaves.
+**Context and language lens:** The fig tree as a discipleship warning because following Jesus includes fruit, not only leaves.
 
 Matthew 21:19 is sobering. Jesus comes to the fig tree and finds leaves but no fruit. The moment is not random anger; it is a living lesson about appearance without life.
 
@@ -88,7 +88,7 @@ Walking with Jesus means following Him into a life that bears fruit.
 
 **Journal prompt:** Where do I need Jesus to grow real fruit beneath visible activity?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Yield to the Table of Grace in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means following Him into a life that bears fruit.
 
 **Scripture Reference:** Matthew 21:2
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus' instruction to bring the donkey and colt because saving wholeness often begins with humble obedience that makes room for the King.
+**Context and language lens:** Jesus' instruction to bring the donkey and colt because saving wholeness often begins with humble obedience that makes room for the King.
 
 Matthew 21:2 is practical and specific. Jesus sends disciples into the village and tells them what they will find. The King enters His city through humble preparation and ordinary obedience.
 
@@ -116,7 +116,7 @@ Walking with Jesus means preparing the way for His humble kingdom.
 
 **Journal prompt:** What small obedience may be preparing room for Jesus to enter?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Anchor the Healing Touch in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means preparing the way for His humble kingdom.
 
 **Scripture Reference:** Matthew 21:21
 
-**Production lens note:** The architecture assigns eirene; the production lens uses Jesus teaching faith after the fig tree because peace grows where trust stops arguing with God.
+**Context and language lens:** Jesus teaching faith after the fig tree because peace grows where trust stops arguing with God.
 
 Matthew 21:21 turns the disciples' amazement toward faith. Jesus teaches them about trust, prayer, and the danger of a divided heart. The lesson reaches beyond the tree into the way a disciple relates to God.
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting trust become movement.
 
 **Journal prompt:** What faithful step would agree with the prayer I keep praying?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Discover the Call to Follow in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting trust become movement.
 
 **Scripture Reference:** Matthew 21:23
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the leaders questioning Jesus' authority because Lordship steadies courage when control demands credentials on its own terms.
+**Context and language lens:** The leaders questioning Jesus' authority because Lordship steadies courage when control demands credentials on its own terms.
 
 Matthew 21:23 shows Jesus teaching in the temple when leaders challenge His authority. They want to know who gave Him the right to do these things. The question sounds official, but underneath it is resistance to surrender.
 
@@ -172,7 +172,7 @@ Walking with Jesus means trusting His authority more than the pressure to explai
 
 **Journal prompt:** Where am I waiting for approval when Jesus has already made obedience clear?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Receive Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means trusting His authority more than the pressure to explai
 
 **Scripture Reference:** Matthew 21:24
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus answering with a question because light can reveal whether the heart truly wants truth or only control.
+**Context and language lens:** Jesus answering with a question because light can reveal whether the heart truly wants truth or only control.
 
 Matthew 21:24 shows Jesus answering the authority challenge with a question. He is not trapped by their demand. His response exposes the deeper issue: do they want truth, or do they want control?
 
@@ -200,4 +200,4 @@ Walking with Jesus means trusting the Light enough to be honest.
 
 **Journal prompt:** What question is Jesus asking beneath the question I keep bringing Him?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Trust Resurrection Hope in one faithful step today.

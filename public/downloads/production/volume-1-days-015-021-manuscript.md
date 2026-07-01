@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 33:19
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `chanan/racham` - grace and compassion - because the passage emphasizes God's free mercy and compassionate self-revelation.
+**Context and language lens:** `chanan/racham` - grace and compassion - because the passage emphasizes God's free mercy and compassionate self-revelation.
 
 There are seasons when the soul needs more than an answer. It needs God Himself to pass near. Exodus 33:19 comes in the tender ache of Moses asking to know God's ways and see His glory. The Father's response is not to hand Moses a formula. He reveals His goodness, grace, and compassion.
 
@@ -30,7 +30,7 @@ Come home today from the exhausting place where you keep trying to make God unde
 
 **Journal prompt:** Where have I been asking for answers while my heart most needs a fresh vision of God's goodness?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Come Home to Love That Finds You into one faithful step today.
 
 ---
 
@@ -40,7 +40,7 @@ Come home today from the exhausting place where you keep trying to make God unde
 
 **Scripture Reference:** Exodus 34:7
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `hesed/emet/nasa` - steadfast love, faithfulness, and forgiving lifting-away - because the passage describes God's covenant character.
+**Context and language lens:** `hesed/emet/nasa` - steadfast love, faithfulness, and forgiving lifting-away - because the passage describes God's covenant character.
 
 God's mercy is not shallow. Exodus 34:7 belongs to one of Scripture's great revelations of God's character. The Father is not introduced as impatient, unstable, or easily finished with His people. He is shown as overflowing in steadfast love and faithfulness, forgiving, and still morally serious.
 
@@ -56,7 +56,7 @@ Practicing grace before performance today may look like confession instead of im
 
 **Journal prompt:** What am I still trying to manage through performance that needs to be brought into grace?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Practice Grace Before Striving into one faithful step today.
 
 ---
 
@@ -66,7 +66,7 @@ Practicing grace before performance today may look like confession instead of im
 
 **Scripture Reference:** Genesis 15:15
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `shalom/seybah tovah` - peace and good old age - because the verse speaks of God's assurance over the span and ending of Abraham's life.
+**Context and language lens:** `shalom/seybah tovah` - peace and good old age - because the verse speaks of God's assurance over the span and ending of Abraham's life.
 
 Mercy does not only meet the emergency. Sometimes mercy speaks over the whole length of a life. Genesis 15:15 sits inside a covenant conversation where God gives Abram a future larger than his present sight. In the middle of promises too big to hold, God also gives a personal assurance: Abram's life is seen by God.
 
@@ -82,7 +82,7 @@ You may not know how everything will unfold. But you can entrust the span of you
 
 **Journal prompt:** What long-term concern keeps stealing peace from this morning?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Surrender to Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -92,7 +92,7 @@ You may not know how everything will unfold. But you can entrust the span of you
 
 **Scripture Reference:** Genesis 17:5
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `shem/av hamon` - name and father of a multitude - because the verse centers on God's renaming and calling of Abraham.
+**Context and language lens:** `shem/av hamon` - name and father of a multitude - because the verse centers on God's renaming and calling of Abraham.
 
 The Father sometimes speaks identity before circumstances know how to agree. Genesis 17:5 is the renaming of Abram into Abraham. God speaks a calling that stretches beyond what Abraham can prove in the moment. The name becomes a witness to promise.
 
@@ -108,7 +108,7 @@ Let mercy speak today. Not the voice that excuses unbelief, but the voice that s
 
 **Journal prompt:** What old name tries to return when God's promise feels slow?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Let Mercy Speak the Father's Patience into one faithful step today.
 
 ---
 
@@ -118,7 +118,7 @@ Let mercy speak today. Not the voice that excuses unbelief, but the voice that s
 
 **Scripture Reference:** Genesis 28:21
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `shuv/shalom` - return and peace - because Jacob's vow looks toward God bringing him back in peace.
+**Context and language lens:** `shuv/shalom` - return and peace - because Jacob's vow looks toward God bringing him back in peace.
 
 Jacob's journey reminds us that fear can travel with a person who has still been met by God. Genesis 28:21 is part of Jacob's response after a holy encounter on the road. He is not yet a finished man. He is a man in motion, learning that God can be present even in an uncertain place.
 
@@ -134,7 +134,7 @@ Today, breathe before fear finishes its sentence. You do not have to solve the w
 
 **Journal prompt:** What uncertain road am I walking right now, and where do I need to notice God's presence on the way?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Breathe Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Today, breathe before fear finishes its sentence. You do not have to solve the w
 
 **Scripture Reference:** Genesis 50:17
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `nasa/pesha` - to lift or bear away transgression - because the passage centers on forgiveness after family harm.
+**Context and language lens:** `nasa/pesha` - to lift or bear away transgression - because the passage centers on forgiveness after family harm.
 
 Some wounds are complicated because they come through people who were supposed to love us. Genesis 50:17 stands in the painful aftermath of Joseph's family story. His brothers ask forgiveness for harm that cannot be made small. The text does not pretend betrayal was harmless. It brings the wound into the place where mercy must become real.
 
@@ -160,7 +160,7 @@ Today, hold fast to the God who understands family grief, betrayal, repentance, 
 
 **Journal prompt:** Where do I need God's wisdom to hold both truth and mercy?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Hold Fast to Restoring Compassion into one faithful step today.
 
 ---
 
@@ -170,7 +170,7 @@ Today, hold fast to the God who understands family grief, betrayal, repentance, 
 
 **Scripture Reference:** Psalm 13:5
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `hesed/batach` - steadfast love and trust - because the psalm turns from lament toward trust in God's covenant love.
+**Context and language lens:** `hesed/batach` - steadfast love and trust - because the psalm turns from lament toward trust in God's covenant love.
 
 Psalm 13 is honest enough to make room for sorrow and faithful enough to turn toward trust. That is a gift for any believer who has ever prayed with questions still in the room. The verse does not require pretending. It shows a heart choosing to trust God's steadfast love while still walking out of anguish.
 
@@ -186,5 +186,4 @@ This is one of the deep mercies of God: His love is sturdy enough for your hones
 
 **Journal prompt:** What honest prayer have I been afraid to bring to God, and what truth can help me return to trust?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
-
+**Morning impact:** Let the Father's love carry Return to the Promise That Holds into one faithful step today.

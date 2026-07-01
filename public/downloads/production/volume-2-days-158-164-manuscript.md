@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 14:32
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses the wind ceasing when Jesus and Peter entered the boat because abiding peace is learned near Christ, not by mastering the storm from a distance.
+**Context and language lens:** The wind ceasing when Jesus and Peter entered the boat because abiding peace is learned near Christ, not by mastering the storm from a distance.
 
 Matthew 14:32 brings the storm to a quiet turning point. Jesus and Peter come into the boat, and the wind ceases. The rescue does not stay private; it becomes a witness before the others who were afraid.
 
@@ -32,7 +32,7 @@ Walking with Jesus means staying near the One whose presence can quiet what your
 
 **Journal prompt:** Where do I need to remain with Jesus after receiving His help?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Let Mercy Speak Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means staying near the One whose presence can quiet what your
 
 **Scripture Reference:** Matthew 15:1
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the arrival of Pharisees and scribes from Jerusalem because Christ's compassionate steadiness is visible when scrutiny and religious pressure enter the room.
+**Context and language lens:** The arrival of Pharisees and scribes from Jerusalem because Christ's compassionate steadiness is visible when scrutiny and religious pressure enter the room.
 
 Matthew 15:1 opens a scene of inspection. Religious leaders come from Jerusalem to question Jesus. The pressure is public, serious, and wrapped in spiritual language.
 
@@ -60,7 +60,7 @@ Walking with Jesus means breathing hope when criticism tries to become the air.
 
 **Journal prompt:** Where has criticism been trying to become the atmosphere I breathe?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Breathe Resurrection Hope in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means breathing hope when criticism tries to become the air.
 
 **Scripture Reference:** Matthew 15:11
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus' teaching about what truly defiles because the Teacher forms a clean heart, not merely a careful exterior.
+**Context and language lens:** Jesus' teaching about what truly defiles because the Teacher forms a clean heart, not merely a careful exterior.
 
 Jesus moves the conversation from surface religion to the deeper place. Matthew 15:11 teaches that the problem is not solved by managing appearances. The heart and its overflow matter before God.
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting His instruction reach the heart before the mout
 
 **Journal prompt:** What has been coming out of my mouth that reveals a deeper place Jesus wants to heal?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Hold Fast to the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting His instruction reach the heart before the mout
 
 **Scripture Reference:** Matthew 15:12
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the disciples' concern that the Pharisees were offended because the way of Jesus requires truthful steps without pride or performative harshness.
+**Context and language lens:** The disciples' concern that the Pharisees were offended because the way of Jesus requires truthful steps without pride or performative harshness.
 
 The disciples notice the offense. Matthew 15:12 shows them bringing to Jesus the reaction of those who had heard Him. Truth had disturbed people who were confident in their own religious footing.
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting His way keep you honest when others are displea
 
 **Journal prompt:** Where do I need discernment between holy conviction and people-pleasing fear?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Return to the Light on the Path in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting His way keep you honest when others are displea
 
 **Scripture Reference:** Matthew 15:16
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus' question about understanding because resurrection hope includes the patient mercy of Christ for slow learners.
+**Context and language lens:** Jesus' question about understanding because resurrection hope includes the patient mercy of Christ for slow learners.
 
 Jesus asks a searching question in Matthew 15:16. His disciples still do not understand. They are near Him, listening to Him, and still learning slowly.
 
@@ -144,7 +144,7 @@ Walking with Jesus means receiving His patient correction as mercy, not rejectio
 
 **Journal prompt:** Where have I mistaken slow learning for failure?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Yield to the Invitation in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means receiving His patient correction as mercy, not rejectio
 
 **Scripture Reference:** Matthew 15:18
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus' teaching about speech proceeding from the heart because abiding with Christ anchors the source, not only the expression.
+**Context and language lens:** Jesus' teaching about speech proceeding from the heart because abiding with Christ anchors the source, not only the expression.
 
 Matthew 15:18 keeps the focus on the heart. What comes out has a source. Words are not random when pressure squeezes them into the open.
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting His voice shape the heart that speaks.
 
 **Journal prompt:** What pressure most quickly reveals the source of my words?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Anchor the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting His voice shape the heart that speaks.
 
 **Scripture Reference:** Matthew 15:2
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the tradition-of-the-elders controversy because Christ's compassion frees the heart from confusing human performance rules with the mercy and commandments of God.
+**Context and language lens:** The tradition-of-the-elders controversy because Christ's compassion frees the heart from confusing human performance rules with the mercy and commandments of God.
 
 Matthew 15:2 brings a question about tradition into the open. The issue is not reverence for God, but the danger of letting human rules become a measure of faithfulness while the heart drifts from mercy.
 
@@ -200,4 +200,4 @@ Walking with Jesus means discovering the road where holiness and mercy are not e
 
 **Journal prompt:** Where have I confused human pressure with faithful obedience?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Discover the Road with Jesus in one faithful step today.

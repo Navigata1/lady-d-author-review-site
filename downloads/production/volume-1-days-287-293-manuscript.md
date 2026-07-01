@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 32:29
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses Jacob asking for the divine name and receiving blessing there because the verse centers on mercy that blesses without explaining everything.
+**Context and language lens:** Jacob asking for the divine name and receiving blessing there because the verse centers on mercy that blesses without explaining everything.
 
 The promise that holds you may not answer every question first. Genesis 32:29 shows Jacob asking the name of the One who has wrestled with him. Instead of receiving the kind of explanation he asks for, Jacob receives blessing there.
 
@@ -44,7 +44,7 @@ The promise can hold you even when the mystery remains.
 
 **Scripture Reference:** Genesis 32:31
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses the sun rising on Jacob as he passes Penuel while limping because the verse centers on peace that can include evidence of transformation.
+**Context and language lens:** The sun rising on Jacob as he passes Penuel while limping because the verse centers on peace that can include evidence of transformation.
 
 The heart that calls you does not require you to pretend the limp is not there. Genesis 32:31 gives a quiet picture: the sun rises on Jacob as he passes Penuel, and he is limping because of his hip. Morning comes, but the encounter has left a mark.
 
@@ -74,7 +74,7 @@ The sun can rise on a life that walks differently.
 
 **Scripture Reference:** Genesis 32:32
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses Israel's lasting practice of remembering the touched hip because the verse centers on communal memory shaped by encounter.
+**Context and language lens:** Israel's lasting practice of remembering the touched hip because the verse centers on communal memory shaped by encounter.
 
 Love that sends you also teaches you how to remember. Genesis 32:32 explains a lasting practice among the children of Israel connected to the place where Jacob's hip was touched. The encounter did not stay private. It became a memory carried into ordinary life.
 
@@ -104,7 +104,7 @@ Let remembered mercy become wisdom for the road.
 
 **Scripture Reference:** Genesis 45:1
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Joseph no longer being able to restrain himself and clearing the room before revealing himself because the verse centers on long-held tension giving way to truthful mercy.
+**Context and language lens:** Joseph no longer being able to restrain himself and clearing the room before revealing himself because the verse centers on long-held tension giving way to truthful mercy.
 
 Covenant mercy sometimes begins when restraint finally gives way to truth. Genesis 45:1 moves from Jacob's transformation into Joseph's revelation. Joseph can no longer control himself before those standing near him, and he sends everyone out before making himself known to his brothers.
 
@@ -134,7 +134,7 @@ On this Sabbath, let love teach mercy without spectacle.
 
 **Scripture Reference:** Genesis 45:2
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses Joseph weeping loudly enough for Egypt and Pharaoh's house to hear because the verse centers on comfort that allows grief to breathe.
+**Context and language lens:** Joseph weeping loudly enough for Egypt and Pharaoh's house to hear because the verse centers on comfort that allows grief to breathe.
 
 The Father's welcome is not frightened by tears. Genesis 45:2 shows Joseph weeping aloud. The grief is not quiet enough to be managed neatly. Egypt hears it. Pharaoh's household hears it. The long story presses through his body in sound.
 
@@ -164,7 +164,7 @@ Tears can become the doorway where comfort finally breathes.
 
 **Scripture Reference:** Genesis 45:4
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses Joseph asking his brothers to come near and naming himself as the brother they sold because the verse centers on compassion that can draw near without denying harm.
+**Context and language lens:** Joseph asking his brothers to come near and naming himself as the brother they sold because the verse centers on compassion that can draw near without denying harm.
 
 Beloved identity can stand close to truth. Genesis 45:4 shows Joseph asking his brothers to come near. Then he names himself plainly: he is Joseph, their brother, the one they sold. Nearness and truth stand together in the same verse.
 
@@ -194,7 +194,7 @@ Come near to truth without surrendering beloved identity.
 
 **Scripture Reference:** Genesis 45:5
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses Joseph telling his brothers not to be distressed or angry with themselves because God sent him ahead to preserve life because the verse centers on peace that reframes harm without denying it.
+**Context and language lens:** Joseph telling his brothers not to be distressed or angry with themselves because God sent him ahead to preserve life because the verse centers on peace that reframes harm without denying it.
 
 Love that finds you can meet the place where regret has become a prison. Genesis 45:5 does not erase what Joseph's brothers did. The selling is named. But Joseph also tells them not to be distressed or angry with themselves, because God has been at work to preserve life.
 

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 17:14
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Genesis 17:14's sober covenant boundary because the verse centers on the seriousness of belonging, not sentimental love detached from response.
+**Context and language lens:** Genesis 17:14's sober covenant boundary because the verse centers on the seriousness of belonging, not sentimental love detached from response.
 
 The promise that holds is not casual. Genesis 17:14 gives weight to the covenant sign and names the grief of refusing the covenant relationship God has established. The verse may feel severe to a tender heart, but it reveals something important: belonging to God is mercy, and mercy is not meant to be treated lightly.
 
@@ -34,7 +34,7 @@ The Father loves you enough to give covenant weight to covenant love.
 
 **Journal prompt:** Where have I treated belonging as comfort but resisted the faithful response it asks of me?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Embrace the Promise That Holds into one faithful step today.
 
 ---
 
@@ -44,7 +44,7 @@ The Father loves you enough to give covenant weight to covenant love.
 
 **Scripture Reference:** Genesis 17:15
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses God's renaming of Sarai as Sarah because the verse centers on bestowed identity and relational calling.
+**Context and language lens:** God's renaming of Sarai as Sarah because the verse centers on bestowed identity and relational calling.
 
 The heart that calls you knows your name before you know how to live into it. Genesis 17:15 brings Sarah forward with holy attention. God does not speak only about Abraham's future. He names Sarah. He gives her a new name and draws her identity into the covenant story with intention.
 
@@ -64,7 +64,7 @@ The Father does not call you by accident. He knows the story that has been spoke
 
 **Journal prompt:** What old name needs to lose authority because the Father is calling me by a truer one?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Remember the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -74,7 +74,7 @@ The Father does not call you by accident. He knows the story that has been spoke
 
 **Scripture Reference:** Genesis 17:16
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses God's promised blessing over Sarah, including sonship, nations, and kings, because the verse centers on divine fruitfulness through a named relationship rather than kinsman-redemption language.
+**Context and language lens:** God's promised blessing over Sarah, including sonship, nations, and kings, because the verse centers on divine fruitfulness through a named relationship rather than kinsman-redemption language.
 
 Love that sends you begins as blessing before it becomes assignment. Genesis 17:16 speaks blessing over Sarah and names fruitfulness that reaches beyond what anyone standing there could naturally imagine. A son will come through her. Peoples and kings will be connected to her life. God is not merely solving a private ache. He is unfolding covenant purpose through a relationship He has chosen to bless.
 
@@ -94,7 +94,7 @@ You do not have to force fruit. Walk with the God who blesses. Let Him decide ho
 
 **Journal prompt:** Where is God asking me to receive blessing first so I can love without proving myself?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Walk in Love That Sends You into one faithful step today.
 
 ---
 
@@ -104,7 +104,7 @@ You do not have to force fruit. Walk with the God who blesses. Let Him decide ho
 
 **Scripture Reference:** Genesis 17:18
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Abraham's plea for Ishmael because the verse centers on a father's concern, an already-loved child, and the need to trust God's covenant answer.
+**Context and language lens:** Abraham's plea for Ishmael because the verse centers on a father's concern, an already-loved child, and the need to trust God's covenant answer.
 
 Peace has to lead when love is tangled with fear. Genesis 17:18 shows Abraham speaking to God about Ishmael. The promised son through Sarah has just been announced, but Abraham's heart turns toward the child he already loves. His plea is not cold theology. It is fatherly concern brought into the presence of God.
 
@@ -124,7 +124,7 @@ On this Sabbath, receive peace as obedience. The Father can hold the promise and
 
 **Journal prompt:** Who am I afraid God will overlook, and what would it look like to entrust that person to Him with peace?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Let Peace Lead Covenant Mercy into one faithful step today.
 
 ---
 
@@ -134,7 +134,7 @@ On this Sabbath, receive peace as obedience. The Father can hold the promise and
 
 **Scripture Reference:** Genesis 17:19
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses God's answer naming Sarah's son Isaac and establishing covenant through him because the verse centers on divine welcome, correction, and purpose rather than generic heart language.
+**Context and language lens:** God's answer naming Sarah's son Isaac and establishing covenant through him because the verse centers on divine welcome, correction, and purpose rather than generic heart language.
 
 The Father's welcome can correct us without rejecting us. Genesis 17:19 answers Abraham's plea with clarity. God does not ignore Ishmael, but He also does not let Abraham rewrite the covenant path. Sarah will bear Isaac, and the covenant will be established through him.
 
@@ -154,7 +154,7 @@ The Father's welcome is steady enough to receive your concern and strong enough 
 
 **Journal prompt:** Where do I need to let God's clear answer lead me instead of asking Him to bless my familiar plan?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Choose the Father's Welcome into one faithful step today.
 
 ---
 
@@ -164,7 +164,7 @@ The Father's welcome is steady enough to receive your concern and strong enough 
 
 **Scripture Reference:** Genesis 17:20
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses God's blessing over Ishmael because the verse reveals mercy, fruitfulness, and dignity for the child outside the covenant line.
+**Context and language lens:** God's blessing over Ishmael because the verse reveals mercy, fruitfulness, and dignity for the child outside the covenant line.
 
 Beloved identity is not erased because a person's path is different from the one you imagined. Genesis 17:20 answers Abraham's concern for Ishmael with mercy. God hears. God blesses. God speaks fruitfulness and future. Ishmael is not the covenant son through whom the specific promise will be established, but he is not unseen by the Father.
 
@@ -184,7 +184,7 @@ Ask for eyes that can do the same: honor God's purpose without despising the per
 
 **Journal prompt:** Who do I need to see through God's mercy instead of through my disappointed expectation?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Listen for Beloved Identity into one faithful step today.
 
 ---
 
@@ -194,7 +194,7 @@ Ask for eyes that can do the same: honor God's purpose without despising the per
 
 **Scripture Reference:** Genesis 17:21
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses God's appointed covenant with Isaac and the named timing of Sarah's son because the verse centers on faithful appointment, not love as emotion only.
+**Context and language lens:** God's appointed covenant with Isaac and the named timing of Sarah's son because the verse centers on faithful appointment, not love as emotion only.
 
 Love that finds you is able to appoint a time. Genesis 17:21 returns to the covenant God will establish with Isaac and names the coming season through Sarah. God is not vague, hurried, or confused. The promise has a person, a mother, a future, and an appointed time.
 
@@ -214,4 +214,4 @@ The Father knows the person, the promise, and the time. Stand there today. Let H
 
 **Journal prompt:** Where do I need to trust God's appointed timing instead of forcing a relational outcome?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Stand in Love That Finds You into one faithful step today.

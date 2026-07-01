@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lady D Author-Voice Copyedit Gate</title>
+  <style>
+    :root {
+      --ink: #111827;
+      --muted: #5b6474;
+      --paper: #fffdf8;
+      --mist: #f5f2eb;
+      --indigo: #182646;
+      --plum: #56325f;
+      --gold: #c99335;
+      --teal: #1d716f;
+      --rose: #a35f68;
+      --line: rgba(17,24,39,.14);
+      --shadow: 0 22px 60px rgba(24,38,70,.12);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: linear-gradient(180deg, var(--paper), var(--mist));
+      line-height: 1.5;
+    }
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      padding: 10px clamp(16px,4vw,42px);
+      background: rgba(17,24,39,.94);
+      backdrop-filter: blur(14px);
+    }
+    nav strong { color: white; margin-right: 6px; }
+    nav a {
+      color: rgba(255,255,255,.9);
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 850;
+      border-radius: 999px;
+      padding: 7px 9px;
+    }
+    nav a:hover { background: rgba(255,255,255,.1); color: white; }
+    header, main { max-width: 1180px; margin: 0 auto; padding: clamp(26px,5vw,58px) clamp(16px,4vw,28px); }
+    h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; line-height: 1.04; letter-spacing: 0; margin: 0 0 14px; }
+    h1 { font-size: clamp(44px,7vw,88px); max-width: 990px; }
+    h2 { font-size: clamp(30px,4vw,50px); }
+    h3 { font-size: 25px; }
+    p { margin: 0 0 14px; color: #2f3a4b; }
+    .kicker { color: var(--plum); font-size: 12px; font-weight: 900; letter-spacing: .15em; text-transform: uppercase; margin-bottom: 12px; }
+    .lead { max-width: 900px; font-size: clamp(18px,2vw,23px); line-height: 1.42; }
+    .status {
+      display: inline-flex;
+      min-height: 32px;
+      align-items: center;
+      border-radius: 999px;
+      padding: 6px 10px;
+      color: white;
+      background: var(--indigo);
+      font-size: 12px;
+      font-weight: 900;
+      margin-right: 7px;
+    }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(230px,1fr)); gap: 14px; }
+    .card, .panel, .volume {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: white;
+      box-shadow: var(--shadow);
+      padding: 18px;
+    }
+    .card span, .volume span { display: block; color: var(--gold); font-size: 12px; font-weight: 900; text-transform: uppercase; letter-spacing: .12em; }
+    .card strong { display: block; font-family: Georgia, "Times New Roman", serif; font-size: 42px; line-height: 1; margin: 8px 0; color: var(--indigo); }
+    section { border-top: 1px solid var(--line); padding: 36px 0; }
+    table { width: 100%; border-collapse: collapse; background: white; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+    th, td { padding: 10px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; font-size: 14px; }
+    th { background: #e8eef5; color: var(--indigo); font-weight: 900; }
+    td:nth-child(2) { font-weight: 900; color: var(--plum); }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+    .actions a {
+      display: inline-flex;
+      min-height: 38px;
+      align-items: center;
+      padding: 8px 11px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: var(--teal);
+      background: white;
+      font-weight: 900;
+      font-size: 13px;
+      text-decoration: none;
+    }
+    dl { display: grid; gap: 9px; margin: 16px 0 0; }
+    dt { font-weight: 900; color: var(--indigo); }
+    dd { margin: 0; color: var(--muted); }
+    .note { border-left: 5px solid var(--teal); background: rgba(29,113,111,.1); padding: 16px; border-radius: 8px; }
+    @media (max-width: 700px) {
+      nav { position: static; }
+      th, td { font-size: 13px; }
+    }
+  </style>
+</head>
+<body>
+  <nav aria-label="Author voice gate navigation">
+    <strong>Lady D Production</strong>
+    <a href="production.html">Production Review</a>
+    <a href="release-status.html">Release Dashboard</a>
+    <a href="#queue">Copyedit Queue</a>
+    <a href="#loops">Loops</a>
+    <a href="#settings">GPT Settings</a>
+    <a href="#downloads">Downloads</a>
+  </nav>
+  <header>
+    <div class="kicker">IDC Publishing author-voice gate</div>
+    <h1>Lady D Author-Voice Copyedit Gate</h1>
+    <p class="lead">The current trilogy manuscripts have been cleaned of internal production-lens labels and are ready for the next line-level author-voice pass. This page separates what is now clean from what still needs rhythmic, Lady D-centered editorial work before KDP upload.</p>
+    <p><span class="status">Generated 2026-07-01</span><span class="status">Commit 9aab4b1</span><span class="status">Not final upload approval</span></p>
+    <div class="actions">
+      <a href="downloads/production/kdp/author-voice-copyedit/Lady-D-Author-Voice-Copyedit-Pack.zip">Download ZIP</a>
+      <a href="downloads/production/kdp/author-voice-copyedit/lady-d-author-voice-copyedit-pack.pdf">PDF</a>
+      <a href="downloads/production/kdp/author-voice-copyedit/lady-d-author-voice-copyedit-pack.docx">DOCX</a>
+      <a href="downloads/production/kdp/author-voice-copyedit/author-voice-copyedit-pack.json">JSON</a>
+      <a href="downloads/production/kdp/author-voice-copyedit/reader-facing-lens-application.md">Lens Application Report</a>
+    </div>
+  </header>
+  <main>
+    <section><div class="grid"><article class="card"><span>Entries</span><strong>1,098</strong><p>Master devotional entries now covered by the gate.</p></article><article class="card"><span>Context Lenses</span><strong>1,098</strong><p>Reader-facing source lenses across the public manuscript set.</p></article><article class="card"><span>Internal Labels</span><strong>0</strong><p>Production lens labels remaining in regenerated master manuscripts.</p></article><article class="card"><span>Sunday Mentions</span><strong>0</strong><p>Sabbath guardrail remains clean for the master devotional manuscripts.</p></article></div></section>
+    <section>
+      <h2>Volume Snapshot</h2>
+      <div class="grid">
+        <article class="volume">
+          <span>Volume 1</span>
+          <h3>Surrendering to God&#x27;s Love</h3>
+          <p>The Father&#x27;s love, identity, surrender, forgiveness, timing, daily trust</p>
+          <dl>
+            <div><dt>Entries</dt><dd>366</dd></div>
+            <div><dt>Context lenses</dt><dd>366</dd></div>
+            <div><dt>Internal labels</dt><dd>0</dd></div>
+          </dl>
+        </article>
+
+        <article class="volume">
+          <span>Volume 2</span>
+          <h3>Walking with Jesus</h3>
+          <p>The Son, discipleship, nearness, obedience, healing, following, abiding</p>
+          <dl>
+            <div><dt>Entries</dt><dd>366</dd></div>
+            <div><dt>Context lenses</dt><dd>366</dd></div>
+            <div><dt>Internal labels</dt><dd>0</dd></div>
+          </dl>
+        </article>
+
+        <article class="volume">
+          <span>Volume 3</span>
+          <h3>Filled with the Holy Spirit</h3>
+          <p>The Spirit, filling, comfort, conviction, gifts, fruit, rain, oil, breath</p>
+          <dl>
+            <div><dt>Entries</dt><dd>366</dd></div>
+            <div><dt>Context lenses</dt><dd>366</dd></div>
+            <div><dt>Internal labels</dt><dd>0</dd></div>
+          </dl>
+        </article>
+        </div>
+    </section>
+    <section id="queue">
+      <h2>Main Author-Voice Queue</h2>
+      <p class="lead">These are not failures; they are the next obvious places where a real copyedit can lift the manuscripts from complete to beautiful.</p>
+      <table><thead><tr><th>Type</th><th>Count</th><th>Pattern</th><th>Recommended action</th></tr></thead><tbody><tr><td>Repeated sentence</td><td>131</td><td>Let the Spirit press this from information into formation.</td><td>Rewrite Volume 3 formation bridges so the Spirit language feels alive and not template-driven.</td></tr><tr><td>Repeated sentence</td><td>130</td><td>Do not rush past the verse; let it steady you before you move.</td><td>Vary the intake line with fresh morning verbs: sit, receive, notice, breathe, confess, carry.</td></tr><tr><td>Repeated sentence</td><td>129</td><td>Let prayer turn insight into obedience before noon.</td><td>Keep obedience-as-response, but write more specific today-sized applications.</td></tr><tr><td>Repeated sentence</td><td>127</td><td>Take one surrendered step before worry gets the first word.</td><td>Replace repeated surrender line with concrete steps tied to each day&#x27;s passage.</td></tr><tr><td>Repeated sentence</td><td>125</td><td>Start from what God has revealed, not from what the day is demanding.</td><td>Vary the opening claim so it sounds like Lady D speaking into that specific morning.</td></tr><tr><td>Repeated sentence</td><td>125</td><td>This day falls on Saturday, the seventh-day Sabbath in the 2026 production calendar.</td><td>Keep the Saturday Sabbath truth, but move repeated production-calendar wording into a reusable Sabbath note or vary it by entry.</td></tr><tr><td>Repeated sentence</td><td>73</td><td>Walk out of this page with courage, tenderness, and clarity.</td><td>Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional.</td></tr><tr><td>Repeated sentence</td><td>73</td><td>Receive the truth deeply enough that it changes your next decision.</td><td>Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional.</td></tr><tr><td>Repeated sentence</td><td>72</td><td>The day does not get to name you before God does.</td><td>Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional.</td></tr><tr><td>Repeated sentence</td><td>70</td><td>Carry this like bread for the road, not decoration for the shelf.</td><td>Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional.</td></tr><tr><td>Repeated sentence</td><td>70</td><td>Let this word give your morning a spine and your heart a place to rest.</td><td>Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional.</td></tr><tr><td>Repeated sentence</td><td>49</td><td>Akoloutheo means to follow as a disciple, not merely admire from a distance.</td><td>Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional.</td></tr><tr><td>Morning impact pattern</td><td>366</td><td>Let the Father&#x27;s love carry</td><td>Rewrite morning-impact lines so they carry the day&#x27;s actual image rather than the title template.</td></tr><tr><td>Morning impact pattern</td><td>71</td><td>Walk with Jesus through Let</td><td>Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional.</td></tr><tr><td>Morning impact pattern</td><td>71</td><td>Let the Spirit carry Let</td><td>Rewrite Volume 3 morning impacts with less repeated carrier language.</td></tr><tr><td>Morning impact pattern</td><td>12</td><td>Walk with Jesus through Awaken</td><td>Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional.</td></tr><tr><td>Morning impact pattern</td><td>12</td><td>Walk with Jesus through Embrace</td><td>Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional.</td></tr><tr><td>Morning impact pattern</td><td>12</td><td>Walk with Jesus through Remember</td><td>Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional.</td></tr></tbody></table>
+    </section>
+    <section id="loops">
+      <h2>Judge And Auditor Loops</h2>
+      <table><thead><tr><th>Loop</th><th>Pass count</th><th>Standard</th></tr></thead><tbody><tr><td>Voice judge</td><td>3 passes per batch</td><td>Sounds like Lady D sitting with the reader in the morning: warm, reverent, direct, practical, not generic or academic.</td></tr><tr><td>Theology auditor</td><td>3 to 7 passes when needed</td><td>Saturday Sabbath is protected, obedience is response to grace, and Father/Son/Spirit lanes stay distinct without separating God.</td></tr><tr><td>Repetition auditor</td><td>3 passes per volume after every rewrite wave</td><td>No mechanical openings, repeated prayers, recycled morning-impact lines, or repeated bridge sentences unless deliberately liturgical.</td></tr><tr><td>Permissions auditor</td><td>1 pass every release build</td><td>References-only remains safe until a final Bible translation and copyright notice are locked.</td></tr><tr><td>Production auditor</td><td>1 pass every artifact build</td><td>Markdown, DOCX, PDF, ZIP, public download links, and Vercel pages all match the same current evidence.</td></tr></tbody></table>
+    </section>
+    <section id="settings">
+      <h2>Recommended GPT Settings</h2>
+      <table><thead><tr><th>Phase</th><th>Recommended</th><th>Use for</th></tr></thead><tbody><tr><td>Batch rewriting</td><td>Best available flagship writing/reasoning model, medium reasoning</td><td>Rewriting 7 to 14 entries at a time while preserving Scripture reference, day title, prayer, journal prompt, and Adventist guardrails.</td></tr><tr><td>Judge and auditor loop</td><td>Best available flagship model, extra-high reasoning</td><td>Theology, voice, repetition, permissions, and KDP readiness audits. Use three passes for routine batches and up to seven for difficult theological or voice sections.</td></tr><tr><td>Mechanical checks</td><td>Fast or spark-class model</td><td>Link checks, count verification, HTML index updates, artifact inventories, and non-theological formatting checks.</td></tr><tr><td>Cover and visual prompts</td><td>GPT image workflow with the strongest available image model and high-quality portrait/book-cover settings</td><td>6 x 9 cover variants, typography-free concept art, full-wrap direction boards, and visual comparison sheets.</td></tr></tbody></table>
+    </section>
+    <section>
+      <h2>Release Boundary</h2>
+      <div class="note">
+        <p>This gate clears reader-facing labels and identifies the next voice-rhythm pass. It does not replace author approval, final Scripture permissions, final KDP interiors, cover regeneration from locked page counts, KDP Previewer, or physical proof review.</p>
+      </div>
+    </section>
+    <section id="downloads">
+      <h2>Downloads</h2>
+      <div class="actions">
+        <a href="downloads/production/kdp/author-voice-copyedit/Lady-D-Author-Voice-Copyedit-Pack.zip">Author Voice Pack ZIP</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/lady-d-author-voice-copyedit-pack.md">Markdown</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/lady-d-author-voice-copyedit-pack.pdf">PDF</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/lady-d-author-voice-copyedit-pack.docx">DOCX</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/author-voice-copyedit-pack.json">JSON</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/reader-facing-lens-application.json">Lens JSON</a>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

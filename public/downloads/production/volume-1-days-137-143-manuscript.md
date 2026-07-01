@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Ruth 4:15
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `meshiv nefesh/ulekhalkel et-seivatekh/ahavatekh/tovah lakh mishivah banim` - a restorer of life, a nourisher of old age, your daughter-in-law who loves you, better to you than seven sons - because the verse centers on life restored through covenant love that has become embodied care.
+**Context and language lens:** `meshiv nefesh/ulekhalkel et-seivatekh/ahavatekh/tovah lakh mishivah banim` - a restorer of life, a nourisher of old age, your daughter-in-law who loves you, better to you than seven sons - because the verse centers on life restored through covenant love that has become embodied care.
 
 The heart that calls you is not always loud. In Ruth 4:15, restoration sounds like women blessing Naomi over a child who will renew her life and sustain her old age. The story that began with famine, graves, and emptiness now carries a living testimony of love.
 
@@ -32,7 +32,7 @@ Receive the truth deeply enough that it changes your next decision. If the Fathe
 
 **Journal prompt:** Where might God be asking my love to become practical enough to help someone breathe?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Breathe the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Receive the truth deeply enough that it changes your next decision. If the Fathe
 
 **Scripture Reference:** Ruth 4:4
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `egleh aznekha/qeneh neged hayyoshvim/ti'gal ge'al/haggidah li we'ede'ah` - I will uncover your ear, buy before those sitting here, if you will redeem, redeem, tell me so I may know - because the verse centers on public clarity, responsibility, and redemption handled in the open.
+**Context and language lens:** `egleh aznekha/qeneh neged hayyoshvim/ti'gal ge'al/haggidah li we'ede'ah` - I will uncover your ear, buy before those sitting here, if you will redeem, redeem, tell me so I may know - because the verse centers on public clarity, responsibility, and redemption handled in the open.
 
 Boaz does not hide the matter in a corner. He brings the question of redemption before witnesses and speaks plainly. If the nearer relative will redeem, let him redeem. If not, let it be said clearly. Love that sends you does not have to be vague when responsibility is at stake.
 
@@ -60,7 +60,7 @@ Carry this like bread for the road, not decoration for the shelf. Let clarity be
 
 **Journal prompt:** What matter needs clean, loving clarity instead of more delay?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Hold Fast to Love That Sends You into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Carry this like bread for the road, not decoration for the shelf. Let clarity be
 
 **Scripture Reference:** Ruth 4:6
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `lo ukhal lig'ol li/pen-ashchit et-nachalati/ge'al lekha et-ge'ullati` - I am not able to redeem for myself, lest I damage my inheritance; redeem my right for yourself - because the verse centers on relinquished right, inability, inheritance, and the opening of the way for Boaz to redeem.
+**Context and language lens:** `lo ukhal lig'ol li/pen-ashchit et-nachalati/ge'al lekha et-ge'ullati` - I am not able to redeem for myself, lest I damage my inheritance; redeem my right for yourself - because the verse centers on relinquished right, inability, inheritance, and the opening of the way for Boaz to redeem.
 
 The nearer redeemer has a right, but he does not have the willingness to carry the cost. He steps back. His refusal could sound like another closed door, but in God's mercy it becomes the opening through which Boaz can act.
 
@@ -88,7 +88,7 @@ Let this word give your morning a spine and your heart a place to rest. A refusa
 
 **Journal prompt:** Where do I need to stop forcing a false redeemer and return to God's covenant mercy?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Return to Covenant Mercy into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Let this word give your morning a spine and your heart a place to rest. A refusa
 
 **Scripture Reference:** Ruth 4:7
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `ge'ullah/temurah/leqayyem kol-davar/shalaf na'alo/te'udah` - redemption, exchange, confirming every matter, removing the sandal, and testimony in Israel - because the verse centers on a public sign that confirms redemption and makes the matter witnessed.
+**Context and language lens:** `ge'ullah/temurah/leqayyem kol-davar/shalaf na'alo/te'udah` - redemption, exchange, confirming every matter, removing the sandal, and testimony in Israel - because the verse centers on a public sign that confirms redemption and makes the matter witnessed.
 
 Ruth 4:7 explains the old custom: in matters of redemption and exchange, a man removed his sandal and gave it to another as testimony. The detail may feel far from modern life, but the spiritual principle is close. Redemption was not left as a private intention. It was confirmed.
 
@@ -116,7 +116,7 @@ The day does not get to name you before God does. Let the Father's welcome make 
 
 **Journal prompt:** What concrete step would confirm the surrender I keep leaving vague?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Yield to the Father's Welcome into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The day does not get to name you before God does. Let the Father's welcome make 
 
 **Scripture Reference:** Genesis 1:1
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `bereshit bara Elohim et hashamayim we'et ha'aretz` - in the beginning God created the heavens and the earth - because the verse centers on God as Creator before any created thing can claim final authority.
+**Context and language lens:** `bereshit bara Elohim et hashamayim we'et ha'aretz` - in the beginning God created the heavens and the earth - because the verse centers on God as Creator before any created thing can claim final authority.
 
 Beloved identity begins under the God who was already God in the beginning. Genesis 1:1 does not open with human achievement, hurry, fear, or explanation. It opens with God creating the heavens and the earth.
 
@@ -144,7 +144,7 @@ Walk out of this page with courage, tenderness, and clarity. The beginning belon
 
 **Journal prompt:** What burden becomes lighter when I remember that God is Creator and I am not?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Anchor Beloved Identity into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walk out of this page with courage, tenderness, and clarity. The beginning belon
 
 **Scripture Reference:** Genesis 1:2
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `tohu wabohu/choshekh al-penei tehom/ruach Elohim merachefet al-penei hammayim` - formless and void, darkness over the face of the deep, and the Spirit of God hovering over the waters - because the verse centers on God's Spirit present over unformed darkness before visible order appears.
+**Context and language lens:** `tohu wabohu/choshekh al-penei tehom/ruach Elohim merachefet al-penei hammayim` - formless and void, darkness over the face of the deep, and the Spirit of God hovering over the waters - because the verse centers on God's Spirit present over unformed darkness before visible order appears.
 
 Love that finds you is not frightened by what is still unformed. Genesis 1:2 shows the earth formless and void, darkness over the deep, and the Spirit of God hovering over the waters. Before beauty is visible, God is present.
 
@@ -172,7 +172,7 @@ Receive the truth deeply enough that it changes your next decision. You do not h
 
 **Journal prompt:** What unfinished place do I need to stop hiding from God's hovering presence?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Discover Love That Finds You into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Receive the truth deeply enough that it changes your next decision. You do not h
 
 **Scripture Reference:** Genesis 1:3
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `wayyomer Elohim yehi or/wayhi or` - God said, Let there be light, and there was light - because the verse centers on God's effective word bringing light before human effort exists.
+**Context and language lens:** `wayyomer Elohim yehi or/wayhi or` - God said, Let there be light, and there was light - because the verse centers on God's effective word bringing light before human effort exists.
 
 Grace speaks before performance can begin. Genesis 1:3 gives the first recorded divine command in creation: God speaks light, and light is. No human hand helps it arrive. No creature earns it. The word of God brings what the darkness could not produce.
 
@@ -200,4 +200,4 @@ Carry this like bread for the road, not decoration for the shelf. On this Saturd
 
 **Journal prompt:** Where do I need God's light before I try to work, explain, or fix?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Receive Grace Before Striving into one faithful step today.

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** 1 Samuel 10:21
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Saul being selected while still not appearing before the people. Prayer beyond words is framed as Spirit-breathed witness when calling feels both near and hidden.
+**Context and language lens:** Saul being selected while still not appearing before the people. Prayer beyond words is framed as Spirit-breathed witness when calling feels both near and hidden.
 
 1 Samuel 10:21 narrows the public selection until Saul is named. Yet the story does not immediately resolve into easy visibility.
 
@@ -42,7 +42,7 @@ The Spirit forms freedom, fire, and holiness by breathing witness into hidden re
 
 **Scripture Reference:** 1 Samuel 10:22
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses the people inquiring and Saul being found hidden among the supplies. Wind in the waiting is framed as set-apart honesty when avoidance hides near calling.
+**Context and language lens:** The people inquiring and Saul being found hidden among the supplies. Wind in the waiting is framed as set-apart honesty when avoidance hides near calling.
 
 1 Samuel 10:22 shows the people asking for clarity and Saul being found hidden away. The public moment reveals private fear.
 
@@ -70,7 +70,7 @@ The Spirit forms freedom, fire, and holiness by setting hidden fear apart for ho
 
 **Scripture Reference:** 1 Samuel 10:23
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Saul being brought out and made visible. Oil for the journey is framed as strength to stand when attention suddenly becomes unavoidable.
+**Context and language lens:** Saul being brought out and made visible. Oil for the journey is framed as strength to stand when attention suddenly becomes unavoidable.
 
 1 Samuel 10:23 brings Saul from hiddenness into public view. The attention becomes impossible to ignore.
 
@@ -98,7 +98,7 @@ The Spirit forms freedom, fire, and holiness by strengthening the heart under un
 
 **Scripture Reference:** 1 Samuel 10:24
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses public affirmation after Saul is presented. Freedom in the Spirit is framed as cleansing the heart when applause or approval gathers.
+**Context and language lens:** Public affirmation after Saul is presented. Freedom in the Spirit is framed as cleansing the heart when applause or approval gathers.
 
 1 Samuel 10:24 places Saul before the people and public affirmation follows. The room responds.
 
@@ -126,7 +126,7 @@ The Spirit forms freedom, fire, and holiness by cleansing the heart under public
 
 **Scripture Reference:** 1 Samuel 10:25
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Samuel explaining and recording the responsibilities of kingship before the Lord. The breath of God is framed as God's voice bringing order to public responsibility.
+**Context and language lens:** Samuel explaining and recording the responsibilities of kingship before the Lord. The breath of God is framed as God's voice bringing order to public responsibility.
 
 1 Samuel 10:25 shows public responsibility being explained, recorded, and placed before God. Calling needs order.
 
@@ -154,7 +154,7 @@ The Spirit forms freedom, fire, and holiness by making God's nearness discernibl
 
 **Scripture Reference:** 1 Samuel 10:26
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses the men whose hearts God touched going with Saul. The Comforter's nearness is framed as Spirit-breathed witness through faithful companions.
+**Context and language lens:** The men whose hearts God touched going with Saul. The Comforter's nearness is framed as Spirit-breathed witness through faithful companions.
 
 1 Samuel 10:26 shows Saul going home with companions whose hearts God has moved. Calling does not have to walk alone.
 
@@ -182,7 +182,7 @@ The Spirit forms freedom, fire, and holiness by breathing witness through faithf
 
 **Scripture Reference:** 1 Samuel 10:27
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses contempt toward Saul and his restrained response. Holy fire is framed as set-apart restraint when criticism tries to provoke reaction.
+**Context and language lens:** Contempt toward Saul and his restrained response. Holy fire is framed as set-apart restraint when criticism tries to provoke reaction.
 
 1 Samuel 10:27 introduces contempt. Not everyone honors what has been set in motion.
 

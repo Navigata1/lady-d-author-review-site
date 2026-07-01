@@ -10,11 +10,11 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 328 - November 24
 
-### Practice Rain for Dry Places
+### Practice Grateful Remembrance in Rain for Dry Places
 
 **Scripture Reference:** Matthew 10:2
 
-**Production lens correction:** The architecture assigned `chrisma`; the production lens uses the naming of the first apostles. Rain for dry places is framed as anointing that teaches, marks, and empowers ordinary named people for Jesus' mission.
+**Context and language lens:** The naming of the first apostles. Rain for dry places is framed as anointing that teaches, marks, and empowers ordinary named people for Jesus' mission.
 
 Matthew 10:2 begins naming the twelve apostles. Mission becomes personal before it becomes public.
 
@@ -32,17 +32,17 @@ The Spirit forms freedom, fire, and holiness by anointing ordinary named lives f
 
 **Journal prompt:** Where do I feel too ordinary to be used by Jesus?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Practice Grateful Remembrance in Rain for Dry Places into one faithful step today.
 
 ---
 
 ## Day 329 - November 25
 
-### Surrender to the Anointing for Today
+### Surrender to Grateful Remembrance Through the Anointing for Today
 
 **Scripture Reference:** Matthew 10:3
 
-**Production lens correction:** The architecture assigned `sphragizo`; the production lens uses the varied list of disciples. The anointing for today is framed as sealed belonging among different stories and backgrounds.
+**Context and language lens:** The varied list of disciples. The anointing for today is framed as sealed belonging among different stories and backgrounds.
 
 Matthew 10:3 continues the list with disciples whose stories and temperaments were not identical. Jesus gathers real people, not interchangeable images.
 
@@ -60,17 +60,17 @@ The Spirit forms freedom, fire, and holiness by sealing belonging among differen
 
 **Journal prompt:** Where has comparison made my calling feel smaller?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Surrender to Grateful Remembrance Through the Anointing for Today into one faithful step today.
 
 ---
 
 ## Day 330 - November 26
 
-### Let Mercy Speak the Spirit's Fruit
+### Let Grateful Remembrance Speak the Spirit's Fruit
 
 **Scripture Reference:** Matthew 10:4
 
-**Production lens correction:** The architecture assigned `charisma`; the production lens uses the completion of the disciple list, including difficult and sobering names. The Spirit's fruit is framed as gift of grace for service, not self-display.
+**Context and language lens:** The completion of the disciple list, including difficult and sobering names. The Spirit's fruit is framed as gift of grace for service, not self-display.
 
 Matthew 10:4 completes the list with names that remind the reader how sobering human calling can be. A place near holy work does not automatically make the heart surrendered.
 
@@ -88,17 +88,17 @@ The Spirit forms freedom, fire, and holiness by keeping gift submitted to mercy.
 
 **Journal prompt:** Where has gift become image management in me?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Let Grateful Remembrance Speak the Spirit's Fruit into one faithful step today.
 
 ---
 
 ## Day 331 - November 27
 
-### Breathe Power to Witness
+### Breathe Grateful Remembrance in Power to Witness
 
 **Scripture Reference:** Matthew 10:5
 
-**Production lens correction:** The architecture assigned `eleutheria`; the production lens uses Jesus sending the twelve with specific boundaries. Power to witness is framed as Spirit-given freedom that obeys direction instead of wandering into self-directed mission.
+**Context and language lens:** Jesus sending the twelve with specific boundaries. Power to witness is framed as Spirit-given freedom that obeys direction instead of wandering into self-directed mission.
 
 Matthew 10:5 shows Jesus sending the twelve with boundaries. The mission is empowered, but it is not self-invented.
 
@@ -116,17 +116,17 @@ The Spirit forms freedom, fire, and holiness by making witness free enough to ob
 
 **Journal prompt:** Where do I want calling without boundaries?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Breathe Grateful Remembrance in Power to Witness into one faithful step today.
 
 ---
 
 ## Day 332 - November 28
 
-### Hold Fast to the Seal of Belonging
+### Hold Fast to Grateful Remembrance Through the Seal of Belonging
 
 **Scripture Reference:** Matthew 10:6
 
-**Production lens correction:** The architecture assigned `parakletos`; the production lens uses Jesus directing the disciples toward lost sheep of Israel. The seal of belonging is framed as the Comforter's help when mission turns toward those who are near, vulnerable, and wandering.
+**Context and language lens:** Jesus directing the disciples toward lost sheep of Israel. The seal of belonging is framed as the Comforter's help when mission turns toward those who are near, vulnerable, and wandering.
 
 Matthew 10:6 narrows the disciples' attention toward a people described as lost. The instruction is particular, compassionate, and near.
 
@@ -144,17 +144,17 @@ The Spirit forms freedom, fire, and holiness by sending comforted people toward 
 
 **Journal prompt:** Who near me needs compassion without performance?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Hold Fast to Grateful Remembrance Through the Seal of Belonging into one faithful step today.
 
 ---
 
 ## Day 333 - November 29
 
-### Return to Prayer Beyond Words
+### Return to Grateful Remembrance Through Prayer Beyond Words
 
 **Scripture Reference:** Matthew 10:7
 
-**Production lens correction:** The architecture assigned `chrisma`; the production lens uses Jesus' proclamation instruction. Prayer beyond words is framed as anointing that teaches speech to announce God's nearness with humility.
+**Context and language lens:** Jesus' proclamation instruction. Prayer beyond words is framed as anointing that teaches speech to announce God's nearness with humility.
 
 Matthew 10:7 gives the disciples a message to carry. Their words are not self-generated; they are entrusted.
 
@@ -172,17 +172,17 @@ The Spirit forms freedom, fire, and holiness by anointing speech to announce God
 
 **Journal prompt:** Where does my speech need to be entrusted back to Jesus?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Return to Grateful Remembrance Through Prayer Beyond Words into one faithful step today.
 
 ---
 
 ## Day 334 - November 30
 
-### Yield to Wind in the Waiting
+### Yield to Grateful Remembrance Through Wind in the Waiting
 
 **Scripture Reference:** Matthew 10:8
 
-**Production lens correction:** The architecture assigned `sphragizo`; the production lens uses Jesus connecting ministry to received grace and generous giving. Wind in the waiting is framed as sealed belonging that serves without grasping.
+**Context and language lens:** Jesus connecting ministry to received grace and generous giving. Wind in the waiting is framed as sealed belonging that serves without grasping.
 
 Matthew 10:8 ties ministry to received grace. The disciples are not owners of power; they are stewards of mercy.
 
@@ -200,4 +200,4 @@ The Spirit forms freedom, fire, and holiness by sealing service in received grac
 
 **Journal prompt:** Where has service become a place of grasping?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Yield to Grateful Remembrance Through Wind in the Waiting into one faithful step today.

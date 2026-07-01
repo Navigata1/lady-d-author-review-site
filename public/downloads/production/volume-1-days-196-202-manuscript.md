@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 15:11
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the scene of `ha'ayit` coming down on the prepared pieces and Abram driving the birds away because the verse centers on a heart that guards the place of covenant preparation when interference arrives.
+**Context and language lens:** The scene of `ha'ayit` coming down on the prepared pieces and Abram driving the birds away because the verse centers on a heart that guards the place of covenant preparation when interference arrives.
 
 Love that sends you also steadies your heart to guard what God has placed before you. Genesis 15:11 is not a loud verse, but it is full of ordinary faithfulness. Abram has prepared what God instructed. Then birds of prey come down on the pieces, and Abram drives them away.
 
@@ -34,7 +34,7 @@ Drive away what is feeding on your surrender. Let the Father's love strengthen t
 
 **Journal prompt:** What has been circling the place of obedience God asked me to prepare?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Remember Love That Sends You into one faithful step today.
 
 ---
 
@@ -44,7 +44,7 @@ Drive away what is feeding on your surrender. Let the Father's love strengthen t
 
 **Scripture Reference:** Genesis 15:12
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `tardemah` and `emah hashekhah gedolah` - deep sleep, dread, and great darkness falling on Abram - because the verse centers on covenant mercy meeting a vulnerable, fearful human frame.
+**Context and language lens:** `tardemah` and `emah hashekhah gedolah` - deep sleep, dread, and great darkness falling on Abram - because the verse centers on covenant mercy meeting a vulnerable, fearful human frame.
 
 Covenant mercy does not disappear when darkness falls. Genesis 15:12 brings Abram into a heavy moment. The sun is going down. A deep sleep comes. A great darkness and dread fall over him. The covenant scene is holy, but it is not sentimental.
 
@@ -64,7 +64,7 @@ The love of God is not fragile. It can hold the trembling heart. It can remain c
 
 **Journal prompt:** Where have I mistaken fear for evidence that God has left me?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Walk in Covenant Mercy into one faithful step today.
 
 ---
 
@@ -74,7 +74,7 @@ The love of God is not fragile. It can hold the trembling heart. It can remain c
 
 **Scripture Reference:** Genesis 15:13
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses God's sober word that Abram's descendants will be strangers, serve another people, and be afflicted for four hundred years because the verse centers on love that tells the truth without releasing the promise.
+**Context and language lens:** God's sober word that Abram's descendants will be strangers, serve another people, and be afflicted for four hundred years because the verse centers on love that tells the truth without releasing the promise.
 
 The Father's welcome is peaceful, but it is not shallow. Genesis 15:13 is a hard word. God tells Abram that the promised family will walk through generations of strangerhood, service, and affliction before the promise unfolds in fullness. This is not the kind of sentence we would choose for a devotional page, but it is the kind of truth Scripture gives us.
 
@@ -94,7 +94,7 @@ You can be at peace because God knows the whole road. Not because the road is pa
 
 **Journal prompt:** What truth have I been avoiding because I thought peace required denial?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Peace Lead the Father's Welcome into one faithful step today.
 
 ---
 
@@ -104,7 +104,7 @@ You can be at peace because God knows the whole road. Not because the road is pa
 
 **Scripture Reference:** Genesis 15:14
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses God's promise to judge the oppressing nation and bring Abram's descendants out with provision because the verse centers on redemption as family-keeping justice, not distant rescue.
+**Context and language lens:** God's promise to judge the oppressing nation and bring Abram's descendants out with provision because the verse centers on redemption as family-keeping justice, not distant rescue.
 
 Beloved identity rests in the God who sees oppression and names an after. Genesis 15:14 does not leave the hard word of the previous verse alone. God says He will judge the nation that enslaves Abram's descendants, and afterward they will come out with provision. The pain is real, but it is not endless. The injustice is seen, but it is not ultimate.
 
@@ -124,7 +124,7 @@ Rest in that beloved identity today. Sabbath is a witness that the story belongs
 
 **Journal prompt:** Where do I need to remember that God sees what has pressed on me and still calls me beloved?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Choose Beloved Identity into one faithful step today.
 
 ---
 
@@ -134,7 +134,7 @@ Rest in that beloved identity today. Sabbath is a witness that the story belongs
 
 **Scripture Reference:** Genesis 15:16
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses the fourth-generation return and God's statement that the Amorites' iniquity is not yet complete because the verse centers on faithful timing, patient justice, and a promise that waits without wandering.
+**Context and language lens:** The fourth-generation return and God's statement that the Amorites' iniquity is not yet complete because the verse centers on faithful timing, patient justice, and a promise that waits without wandering.
 
 Love that finds you is faithful even when the timing is longer than you wanted. Genesis 15:16 gives Abram a future marked by generations. The return will come, but not immediately. God names timing with a patience that includes both mercy and justice.
 
@@ -154,7 +154,7 @@ The Father's love can find you in the long middle. Listen there. He may not expl
 
 **Journal prompt:** Where is God asking me to trust His faithful timing instead of demanding a faster timeline?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Listen for Love That Finds You into one faithful step today.
 
 ---
 
@@ -164,7 +164,7 @@ The Father's love can find you in the long middle. Listen there. He may not expl
 
 **Scripture Reference:** Genesis 15:17
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the `tanur ashan` and `lapid esh` - the smoking fire pot and flaming torch passing between the pieces - because the verse centers on God taking covenant initiative while Abram receives rather than performs the covenant.
+**Context and language lens:** The `tanur ashan` and `lapid esh` - the smoking fire pot and flaming torch passing between the pieces - because the verse centers on God taking covenant initiative while Abram receives rather than performs the covenant.
 
 Grace before performance shines brightest when God moves where we cannot. Genesis 15:17 is holy and mysterious. Darkness has fallen. The prepared pieces are there. Then the smoking fire pot and flaming torch pass between them. God Himself takes the covenant initiative.
 
@@ -184,7 +184,7 @@ Let your heart stand where grace has placed it. God is not asking you to be the 
 
 **Journal prompt:** What am I trying to secure by performance that God is asking me to receive by grace?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Stand in Grace Before Striving into one faithful step today.
 
 ---
 
@@ -194,7 +194,7 @@ Let your heart stand where grace has placed it. God is not asking you to be the 
 
 **Scripture Reference:** Genesis 15:18
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `karat YHWH et-Avram berit` and the promise given to Abram's offspring because the verse centers on covenant being cut by God and mercy receiving a future that God names.
+**Context and language lens:** `karat YHWH et-Avram berit` and the promise given to Abram's offspring because the verse centers on covenant being cut by God and mercy receiving a future that God names.
 
 Grace forms mercy in the morning by reminding us that God makes covenant before we can see the whole inheritance. Genesis 15:18 gathers the scene into a clear covenant promise. The Lord makes covenant with Abram and names what He is giving to Abram's offspring.
 
@@ -214,4 +214,4 @@ Let mercy be formed in you today by covenant assurance. Walk softly, but walk st
 
 **Journal prompt:** How would I move through today if I received God's covenant faithfulness before reacting to pressure?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Let Grace Form Mercy in the Morning into one faithful step today.

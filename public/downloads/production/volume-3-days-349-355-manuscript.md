@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 10:24
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' teaching that a disciple is not above the teacher. The Comforter's nearness is framed as Spirit-grown fruit that keeps the learner close to Jesus.
+**Context and language lens:** Jesus' teaching that a disciple is not above the teacher. The Comforter's nearness is framed as Spirit-grown fruit that keeps the learner close to Jesus.
 
 Matthew 10:24 brings the heart back to humility. The disciple is not called to outrun the Teacher, outshine the Teacher, or build a safer path than the Teacher walked.
 
@@ -32,7 +32,7 @@ The Spirit forms a sealed and filled life by keeping discipleship close to Jesus
 
 **Journal prompt:** Where have I been trying to rise above the path Jesus is using to form me?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Come Home to the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit forms a sealed and filled life by keeping discipleship close to Jesus
 
 **Scripture Reference:** Matthew 10:25
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' teaching about being treated as the Teacher was treated. Holy fire is framed as being filled enough to let misnaming be refined under Jesus.
+**Context and language lens:** Jesus' teaching about being treated as the Teacher was treated. Holy fire is framed as being filled enough to let misnaming be refined under Jesus.
 
 Matthew 10:25 tells the truth about misnaming. If Jesus was falsely accused, His followers should not be shocked when obedience is misunderstood.
 
@@ -60,17 +60,17 @@ The Spirit forms a sealed and filled life by filling the heart with Jesus' ident
 
 **Journal prompt:** Where has a wrong label started shaping how I see myself?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Practice Holy Fire into one faithful step today.
 
 ---
 
 ## Day 351 - December 17
 
-### Surrender to Rain for Dry Places
+### Surrender to Finishing Hope Through Rain for Dry Places
 
 **Scripture Reference:** Matthew 10:26
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' command not to fear because hidden things will be revealed. Rain for dry places is framed as the Spirit's breath bringing courage where fear has dried the heart.
+**Context and language lens:** Jesus' command not to fear because hidden things will be revealed. Rain for dry places is framed as the Spirit's breath bringing courage where fear has dried the heart.
 
 Matthew 10:26 speaks directly to fear. Jesus does not deny that there are hidden pressures, covered motives, and unseen tensions. He tells His disciples not to be ruled by them.
 
@@ -88,17 +88,17 @@ The Spirit forms a sealed and filled life by refreshing courage when hidden fear
 
 **Journal prompt:** What hidden fear has been drying my courage?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Surrender to Finishing Hope Through Rain for Dry Places into one faithful step today.
 
 ---
 
 ## Day 352 - December 18
 
-### Let Mercy Speak the Anointing for Today
+### Let Finishing Hope Speak the Anointing for Today
 
 **Scripture Reference:** Matthew 10:27
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' movement from private instruction to public witness. The anointing for today is framed as power to speak mercy with courage when God brings truth into the open.
+**Context and language lens:** Jesus' movement from private instruction to public witness. The anointing for today is framed as power to speak mercy with courage when God brings truth into the open.
 
 Matthew 10:27 turns hidden instruction into open witness. What is received with Jesus in the quiet is not meant to stay buried in fear.
 
@@ -116,17 +116,17 @@ The Spirit forms a sealed and filled life by turning private instruction into co
 
 **Journal prompt:** What truth has God been forming privately that now needs a faithful voice?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Let Finishing Hope Speak the Anointing for Today into one faithful step today.
 
 ---
 
 ## Day 353 - December 19
 
-### Breathe the Spirit's Fruit
+### Breathe Finishing Hope in the Spirit's Fruit
 
 **Scripture Reference:** Matthew 10:28
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' teaching about rightly ordered fear. The Spirit's fruit is framed as the pledge of coming life that frees the heart from lesser fears.
+**Context and language lens:** Jesus' teaching about rightly ordered fear. The Spirit's fruit is framed as the pledge of coming life that frees the heart from lesser fears.
 
 Matthew 10:28 is holy and weighty. Jesus does not invite careless courage; He calls the heart into rightly ordered reverence.
 
@@ -144,17 +144,17 @@ The Spirit forms a sealed and filled life by growing fruit from reverence that f
 
 **Journal prompt:** What lesser fear has been louder than holy reverence?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Breathe Finishing Hope in the Spirit's Fruit into one faithful step today.
 
 ---
 
 ## Day 354 - December 20
 
-### Hold Fast to Power to Witness
+### Hold Fast to Finishing Hope Through Power to Witness
 
 **Scripture Reference:** Matthew 10:29
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' reminder that small lives are not unnoticed by the Father. Power to witness is framed as Spirit-grown fruit rooted in God's attentive care.
+**Context and language lens:** Jesus' reminder that small lives are not unnoticed by the Father. Power to witness is framed as Spirit-grown fruit rooted in God's attentive care.
 
 Matthew 10:29 draws the anxious heart toward the Father's attention. Nothing small is invisible to Him.
 
@@ -172,17 +172,17 @@ The Spirit forms a sealed and filled life by rooting witness in the Father's car
 
 **Journal prompt:** Where have I felt too small to matter?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Hold Fast to Finishing Hope Through Power to Witness into one faithful step today.
 
 ---
 
 ## Day 355 - December 21
 
-### Return to the Seal of Belonging
+### Return to Finishing Hope Through the Seal of Belonging
 
 **Scripture Reference:** Matthew 10:30
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' assurance of the Father's intimate knowledge. The seal of belonging is framed as being filled enough to rest under God's detailed care.
+**Context and language lens:** Jesus' assurance of the Father's intimate knowledge. The seal of belonging is framed as being filled enough to rest under God's detailed care.
 
 Matthew 10:30 brings comfort down to the smallest detail. Jesus wants the fearful heart to know that God's care is not vague.
 
@@ -200,4 +200,4 @@ The Spirit forms a sealed and filled life by filling the heart with rest under G
 
 **Journal prompt:** Where do I feel unseen even while God knows me completely?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Return to Finishing Hope Through the Seal of Belonging into one faithful step today.

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 12:1
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `lekh-lekha/erets/moledet/bet-av/ha-aretz/ar'eka` - go, from your land, kindred, father's house, the land, and I will show - because the Lord calls Abram away from familiar securities toward a land not yet fully seen.
+**Context and language lens:** `lekh-lekha/erets/moledet/bet-av/ha-aretz/ar'eka` - go, from your land, kindred, father's house, the land, and I will show - because the Lord calls Abram away from familiar securities toward a land not yet fully seen.
 
 Mercy in the morning sometimes begins with a call you cannot completely explain yet. Genesis 12:1 is not a comfortable invitation to stay where everything is known. The Lord calls Abram to leave land, kindred, and father's house, and to go toward the land God will show him.
 
@@ -32,7 +32,7 @@ The Father's mercy does not abandon you when He calls you forward. He goes befor
 
 **Journal prompt:** What familiar security might I be treating as safer than God's leading?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Let Love Teach Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Father's mercy does not abandon you when He calls you forward. He goes befor
 
 **Scripture Reference:** Genesis 12:18
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `qara/mah/asah/lammah/nagad/ishshah` - called, what, done, why, tell, and wife - because Pharaoh confronts Abram about the harm caused by Abram's fearful withholding of the truth.
+**Context and language lens:** `qara/mah/asah/lammah/nagad/ishshah` - called, what, done, why, tell, and wife - because Pharaoh confronts Abram about the harm caused by Abram's fearful withholding of the truth.
 
 The Father's patience is not the same as pretending nothing happened. Genesis 12:18 is uncomfortable because Abram is confronted by Pharaoh. The question is direct. What has been done? Why was the truth withheld? The passage does not ask us to admire fear-driven half-truths. It asks us to notice that God's people still need correction.
 
@@ -60,7 +60,7 @@ The Father is patient enough to correct His children without crushing them. Let 
 
 **Journal prompt:** Where is the Father patiently inviting me out of fear-managed truth?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Awaken the Father's Patience into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Father is patient enough to correct His children without crushing them. Let 
 
 **Scripture Reference:** Genesis 12:8
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `natah/ohel/mizbeach/qara/shem/YHWH` - pitched, tent, altar, called, name, and YHWH - because Abram moves through the land, pitches his tent, builds an altar, and calls on the name of the Lord.
+**Context and language lens:** `natah/ohel/mizbeach/qara/shem/YHWH` - pitched, tent, altar, called, name, and YHWH - because Abram moves through the land, pitches his tent, builds an altar, and calls on the name of the Lord.
 
 Love stronger than fear makes worship possible in a temporary place. Genesis 12:8 shows Abram moving, pitching his tent, building an altar, and calling on the name of the Lord. The tent tells us he has not settled everything. The altar tells us he can still worship.
 
@@ -88,7 +88,7 @@ You may still be moving. You may still be waiting. But the name of the Lord is w
 
 **Journal prompt:** Where can I build a quiet altar of prayer in a season that still feels unsettled?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Embrace Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ You may still be moving. You may still be waiting. But the name of the Lord is w
 
 **Scripture Reference:** Genesis 17:17
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `naphal/panim/tsachaq/amar/lev/ben/yalad/Sarah` - fell, face, laughed, said, heart, son, born, and Sarah - because Abraham falls facedown, laughs inwardly, and wrestles with the impossibility of the promised birth.
+**Context and language lens:** `naphal/panim/tsachaq/amar/lev/ben/yalad/Sarah` - fell, face, laughed, said, heart, son, born, and Sarah - because Abraham falls facedown, laughs inwardly, and wrestles with the impossibility of the promised birth.
 
 Restoring compassion knows how to meet the heart that laughs because the promise feels impossible. Genesis 17:17 is tender and honest. Abraham falls facedown and laughs. In his heart, the promise collides with age, limitation, and the visible facts of Sarah's body.
 
@@ -116,7 +116,7 @@ The Father does not need you to pretend the impossible looks easy. He invites yo
 
 **Journal prompt:** What promise or hope feels too late, too large, or too impossible for me to carry easily?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Remember Restoring Compassion into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Father does not need you to pretend the impossible looks easy. He invites yo
 
 **Scripture Reference:** Genesis 17:4
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `ani/hinneh/beriti/ittakh/av/hamon/goyim` - I, behold, My covenant, with you, father, multitude, and nations - because God grounds Abram's future in His own covenant initiative.
+**Context and language lens:** `ani/hinneh/beriti/ittakh/av/hamon/goyim` - I, behold, My covenant, with you, father, multitude, and nations - because God grounds Abram's future in His own covenant initiative.
 
 The promise that holds begins with God saying, "As for Me." Genesis 17:4 anchors Abram's future in God's covenant initiative. Before Abram can produce the promised outcome, God declares what He is doing and who Abram will become.
 
@@ -144,7 +144,7 @@ The Father who speaks covenant also sustains the child who must walk it out.
 
 **Journal prompt:** What fear-based sentence about myself needs to be answered by God's faithfulness?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Walk in the Promise That Holds into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Father who speaks covenant also sustains the child who must walk it out.
 
 **Scripture Reference:** Genesis 1:10
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `qara/yabbashah/erets/miqveh/mayim/yammim/raah/tov` - called, dry land, earth, gathering, waters, seas, saw, and good - because God names the ordered places of creation and sees that they are good.
+**Context and language lens:** `qara/yabbashah/erets/miqveh/mayim/yammim/raah/tov` - called, dry land, earth, gathering, waters, seas, saw, and good - because God names the ordered places of creation and sees that they are good.
 
 Peace can lead the heart when God is allowed to name what belongs where. Genesis 1:10 shows the Creator naming dry land and seas, gathering what needed gathering, and seeing goodness in ordered creation. The verse is quiet, but it is strong.
 
@@ -172,7 +172,7 @@ Let the heart that calls you receive peace today. Ask the Father to bring wise o
 
 **Journal prompt:** What pressure needs a God-given name or boundary before I try to carry it?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Let Peace Lead the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Let the heart that calls you receive peace today. Ask the Father to bring wise o
 
 **Scripture Reference:** Genesis 1:5
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `qara/or/yom/choshekh/laylah/erev/boqer/yom-echad` - called, light, day, darkness, night, evening, morning, and first day - because God names light and darkness and establishes the first evening-morning rhythm.
+**Context and language lens:** `qara/or/yom/choshekh/laylah/erev/boqer/yom-echad` - called, light, day, darkness, night, evening, morning, and first day - because God names light and darkness and establishes the first evening-morning rhythm.
 
 Love that sends you also teaches you holy rhythm. Genesis 1:5 names light and darkness, day and night, evening and morning. Before human striving enters the story, God is already ordering time. The day is not a frantic accident. It is received within the Creator's rhythm.
 
@@ -200,4 +200,4 @@ Choose love today by letting God's rhythm send you forward from rest, not exhaus
 
 **Journal prompt:** What Sabbath boundary would help me trust God with time instead of trying to control it?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Choose Love That Sends You into one faithful step today.

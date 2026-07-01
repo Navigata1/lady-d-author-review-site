@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 14:19
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses Jesus blessing, breaking, and giving bread because the road with Him invites the reader to bring what feels small into His hands.
+**Context and language lens:** Jesus blessing, breaking, and giving bread because the road with Him invites the reader to bring what feels small into His hands.
 
 Jesus did not despise what was placed before Him. Matthew 14:19 shows Him taking bread, looking to heaven, blessing, breaking, and giving. The miracle moved through His hands.
 
@@ -32,7 +32,7 @@ Walking with Jesus means trusting the road where small surrender passes through 
 
 **Journal prompt:** What am I withholding because it feels too small to matter?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Embrace the Invitation in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means trusting the road where small surrender passes through 
 
 **Scripture Reference:** Matthew 14:2
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Herod's fearful resurrection language because peace in the storm requires hearing truth beyond fear's interpretation.
+**Context and language lens:** Herod's fearful resurrection language because peace in the storm requires hearing truth beyond fear's interpretation.
 
 Fear can build a story around what it hears. Matthew 14:2 shows Herod interpreting Jesus through his own troubled conscience and fear. He hears power, but not peace.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting resurrection hope correct fear's story.
 
 **Journal prompt:** Where has fear been trying to interpret what only Jesus can name?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Rest in the Road with Jesus in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting resurrection hope correct fear's story.
 
 **Scripture Reference:** Matthew 14:25
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus coming to the disciples on the sea because abiding learns nearness even when help arrives in the storm.
+**Context and language lens:** Jesus coming to the disciples on the sea because abiding learns nearness even when help arrives in the storm.
 
 Jesus came to them in the dark watch of the night. Matthew 14:25 places Him on the sea, moving toward frightened disciples while the storm was still real. His nearness did not wait for calm water.
 
@@ -88,7 +88,7 @@ Walking with Jesus means remaining awake to His presence in the storm.
 
 **Journal prompt:** Where do I need to wake up to Christ's nearness inside the storm?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Wake Up to the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means remaining awake to His presence in the storm.
 
 **Scripture Reference:** Matthew 14:26
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the disciples' fear when they misrecognized Jesus because His compassion meets terror with truth.
+**Context and language lens:** The disciples' fear when they misrecognized Jesus because His compassion meets terror with truth.
 
 Storms can make the heart misread help. Matthew 14:26 shows the disciples terrified because they did not recognize Jesus as He came toward them. Fear can turn nearness into threat.
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting compassion teach the frightened heart to see.
 
 **Journal prompt:** Where might fear be causing me to misread help as threat?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Let Fire Refine the Way of Peace in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting compassion teach the frightened heart to see.
 
 **Scripture Reference:** Matthew 14:3
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses John's imprisonment because the Teacher forms peace that does not deny injustice or surrender courage.
+**Context and language lens:** John's imprisonment because the Teacher forms peace that does not deny injustice or surrender courage.
 
 The storm sometimes begins before the waves. Matthew 14:3 remembers John being bound and imprisoned. This is not easy material, but Scripture does not hide the cost of faithfulness.
 
@@ -144,7 +144,7 @@ Walking with Jesus means being formed by grace even when the story is hard.
 
 **Journal prompt:** What hard story needs to sit at the table of grace with Jesus?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Come Home to the Table of Grace in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means being formed by grace even when the story is hard.
 
 **Scripture Reference:** Matthew 14:30
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses Peter seeing the wind and crying out because the road with Jesus turns panic into prayer.
+**Context and language lens:** Peter seeing the wind and crying out because the road with Jesus turns panic into prayer.
 
 Peter saw the wind and began to sink. Matthew 14:30 is honest about how quickly courage can become fear. But the verse also shows panic becoming prayer.
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting sinking become the place where prayer gets hone
 
 **Journal prompt:** What fear needs to become a direct prayer today?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Practice the Healing Touch in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting sinking become the place where prayer gets hone
 
 **Scripture Reference:** Matthew 14:31
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus immediately reaching for Peter because resurrection-shaped hope often begins with the saving hand of Christ in the storm.
+**Context and language lens:** Jesus immediately reaching for Peter because resurrection-shaped hope often begins with the saving hand of Christ in the storm.
 
 Jesus reached immediately. Matthew 14:31 shows His hand meeting Peter in the moment of sinking. His correction came with rescue, not after rescue had been withheld.
 
@@ -200,4 +200,4 @@ Walking with Jesus means surrendering to the hand that saves and the voice that 
 
 **Journal prompt:** Where do I need to receive Jesus' hand before analyzing the storm?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Surrender to the Call to Follow in one faithful step today.

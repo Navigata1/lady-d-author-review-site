@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Numbers 11:16
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses God's instruction to gather elders to share the burden. Freedom in the Spirit is framed as leadership set apart for shared responsibility.
+**Context and language lens:** God's instruction to gather elders to share the burden. Freedom in the Spirit is framed as leadership set apart for shared responsibility.
 
 Numbers 11:16 answers Moses' impossible burden with shared leadership. God does not shame the limit. He begins to distribute the weight.
 
@@ -42,7 +42,7 @@ The Spirit gives gifts for the body by setting leadership free from isolation.
 
 **Scripture Reference:** Numbers 11:18
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses God's command for the people to prepare themselves after their craving. The breath of God is framed as strength to receive correction without losing reverence.
+**Context and language lens:** God's command for the people to prepare themselves after their craving. The breath of God is framed as strength to receive correction without losing reverence.
 
 Numbers 11:18 shows God addressing the people's craving directly. Desire is not ignored. It is brought under holy confrontation.
 
@@ -70,7 +70,7 @@ The Spirit gives gifts for the body by strengthening hearts to receive holy corr
 
 **Scripture Reference:** Numbers 11:19
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses God's response to persistent craving. The Comforter's nearness is framed as renewal that keeps desire from becoming excess.
+**Context and language lens:** God's response to persistent craving. The Comforter's nearness is framed as renewal that keeps desire from becoming excess.
 
 Numbers 11:19 begins to show the seriousness of unchecked craving. What the people demanded will not heal what is wrong in the heart.
 
@@ -98,7 +98,7 @@ The Spirit gives gifts for the body by renewing desire near the Comforter.
 
 **Scripture Reference:** Numbers 11:20
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses God's warning that rejected provision can turn desired excess into grief. Holy fire is framed as God's voice bringing peace through truth, not appeasement.
+**Context and language lens:** God's warning that rejected provision can turn desired excess into grief. Holy fire is framed as God's voice bringing peace through truth, not appeasement.
 
 Numbers 11:20 is a hard warning. The people have not only wanted food. They have treated God's deliverance and provision with rejection.
 
@@ -126,7 +126,7 @@ The Spirit gives gifts for the body by letting truthful fire lead to peace.
 
 **Scripture Reference:** Numbers 11:21
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Moses naming the practical impossibility before him. Rain for dry places is framed as Spirit-breathed witness that brings real limitation into prayer.
+**Context and language lens:** Moses naming the practical impossibility before him. Rain for dry places is framed as Spirit-breathed witness that brings real limitation into prayer.
 
 Numbers 11:21 lets Moses speak about the scale of the problem. The numbers are overwhelming. The need looks impossible.
 
@@ -154,7 +154,7 @@ The Spirit gives gifts for the body by turning honest limitation into prayer.
 
 **Scripture Reference:** Numbers 11:22
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Moses questioning whether available resources could satisfy the people. The anointing for today is framed as being set apart from scarcity logic while still telling God the truth.
+**Context and language lens:** Moses questioning whether available resources could satisfy the people. The anointing for today is framed as being set apart from scarcity logic while still telling God the truth.
 
 Numbers 11:22 presses the question of sufficiency. Moses looks at the available resources and cannot see how they could meet the demand.
 
@@ -182,7 +182,7 @@ The Spirit gives gifts for the body by setting scarcity logic under God's suffic
 
 **Scripture Reference:** Numbers 11:23
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses the Lord's answer that His power is not shortened. The Spirit's fruit is framed as strength to stand in trust when God's ability confronts human limitation.
+**Context and language lens:** The Lord's answer that His power is not shortened. The Spirit's fruit is framed as strength to stand in trust when God's ability confronts human limitation.
 
 Numbers 11:23 answers scarcity with God's own power. The question is not whether human capacity is enough. The question is whether the Lord is limited.
 

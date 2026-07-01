@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 17:22
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses Genesis 17:22's closing of the divine conversation because the verse centers on God's initiative, presence, and timing after covenant instruction, not kinsman-redemption language.
+**Context and language lens:** Genesis 17:22's closing of the divine conversation because the verse centers on God's initiative, presence, and timing after covenant instruction, not kinsman-redemption language.
 
 Grace does not rush the holy conversation. Genesis 17:22 closes the encounter by saying that when God finished speaking with Abraham, He went up from him. The verse is simple, but it is not empty. God speaks. God gives covenant promise and covenant instruction. Then the moment closes in God's timing.
 
@@ -44,7 +44,7 @@ Grace has already come near. Let it form the way you answer.
 
 **Scripture Reference:** Genesis 17:23
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Abraham's same-day obedience and the household scope of the covenant sign, handled reverently and discreetly, because the verse centers on faithful response under God's word.
+**Context and language lens:** Abraham's same-day obedience and the household scope of the covenant sign, handled reverently and discreetly, because the verse centers on faithful response under God's word.
 
 Mercy in the morning sometimes looks like obedience before the day has time to argue. Genesis 17:23 shows Abraham responding to God's covenant instruction that very day. The verse names household members and the covenant sign in an embodied ancient context, and it deserves reverent, discreet handling. The main point for this devotional moment is not graphic detail. It is faithful response.
 
@@ -76,7 +76,7 @@ Do not despise the morning obedience. It may be the doorway where mercy enters t
 
 **Scripture Reference:** Genesis 17:24
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Abraham's age at the covenant sign because the verse centers on late-season obedience and patient covenant formation, not heart language in the abstract.
+**Context and language lens:** Abraham's age at the covenant sign because the verse centers on late-season obedience and patient covenant formation, not heart language in the abstract.
 
 The Father's patience reaches into seasons we may think are too late. Genesis 17:24 names Abraham's age when he received the covenant sign. Ninety-nine years of life stood behind him. Yet God's covenant call still touched his present obedience.
 
@@ -106,7 +106,7 @@ The Father is patient enough to form obedience in late places. Follow Him there.
 
 **Scripture Reference:** Genesis 17:25
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Ishmael's named age at the covenant sign because the verse centers on a beloved son's inclusion in the household response, not broad covenant-love vocabulary alone.
+**Context and language lens:** Ishmael's named age at the covenant sign because the verse centers on a beloved son's inclusion in the household response, not broad covenant-love vocabulary alone.
 
 Love stronger than fear makes room for the child whose story is still unfolding. Genesis 17:25 names Ishmael's age when he received the covenant sign. The verse is brief, but it keeps Ishmael visible. He is not erased from the household moment. His story remains tender, complicated, and held before God.
 
@@ -136,7 +136,7 @@ On this Sabbath, rest in the Father's care for the person you cannot carry by co
 
 **Scripture Reference:** Genesis 17:26
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses the same-day covenant response of Abraham and Ishmael together because the verse centers on shared household obedience and restored attention, not affection alone.
+**Context and language lens:** The same-day covenant response of Abraham and Ishmael together because the verse centers on shared household obedience and restored attention, not affection alone.
 
 Restoring compassion wakes up when we notice who is standing with us in obedience. Genesis 17:26 names Abraham and Ishmael together in the same-day covenant response. The verse gathers father and son in one moment of household faithfulness.
 
@@ -166,7 +166,7 @@ The Father can use a same-day response to awaken more than one heart.
 
 **Scripture Reference:** Genesis 17:27
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses the full household scope of Abraham's covenant response because the verse centers on comprehensive belonging and costly communal faithfulness, not narrow kinsman redemption.
+**Context and language lens:** The full household scope of Abraham's covenant response because the verse centers on comprehensive belonging and costly communal faithfulness, not narrow kinsman redemption.
 
 The promise that holds also refines what the household carries together. Genesis 17:27 widens the scene again to the men of Abraham's house, those born there and those brought into the household. The ancient context must be handled carefully and never romanticized. Still, the verse shows that covenant response was not treated as a private decoration for one man's spirituality.
 
@@ -196,7 +196,7 @@ The refining fire of covenant love is not there to destroy. It is there to make 
 
 **Scripture Reference:** Genesis 22:1
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Genesis 22:1's testing of Abraham because the verse opens a severe narrative about tested trust, requiring careful pastoral framing before any application to relationships.
+**Context and language lens:** Genesis 22:1's testing of Abraham because the verse opens a severe narrative about tested trust, requiring careful pastoral framing before any application to relationships.
 
 The heart that calls you is still the Father's heart when trust is tested. Genesis 22:1 opens one of Scripture's most difficult narratives. God tests Abraham. We must approach this text slowly, reverently, and without using it to pressure people into unsafe, unquestioning human relationships.
 

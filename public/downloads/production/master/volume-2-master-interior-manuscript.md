@@ -31,7 +31,7 @@ This master gathers the complete daily devotional production batches in calendar
 
 **Scripture Reference:** Matthew 16:24
 
-**Production lens correction:** The architecture assigned `sōzō`; the production lens uses Jesus' call to deny self, take up the cross, and follow because saving wholeness includes being rescued from self-rule into the life of the Savior.
+**Context and language lens:** Jesus' call to deny self, take up the cross, and follow because saving wholeness includes being rescued from self-rule into the life of the Savior.
 
 The Shepherd's voice does not flatter the self. It calls the self into surrender. Matthew 16:24 is not a decorative invitation to admire Jesus from a safe distance. It is the clear word of the Son to anyone who would come after Him.
 
@@ -59,7 +59,7 @@ Walking with Jesus begins when admiration becomes surrender.
 
 **Scripture Reference:** Matthew 22:16
 
-**Production lens correction:** The architecture assigned `eirēnē`; the production lens uses the public acknowledgment of Jesus' truthful way because the verse centers on peace formed by walking with the One who teaches God's way without being controlled by human approval.
+**Context and language lens:** The public acknowledgment of Jesus' truthful way because the verse centers on peace formed by walking with the One who teaches God's way without being controlled by human approval.
 
 The road with Jesus is truthful even when people are complicated. Matthew 22:16 sits inside a tense moment. Jesus is being approached with words that sound respectful, yet the setting is testing and pressure. Still, the testimony about Him is true: He teaches the way of God with integrity and is not ruled by appearances.
 
@@ -87,7 +87,7 @@ The road with Jesus gives the heart a peace that does not need to perform for ev
 
 **Scripture Reference:** Matthew 20:30
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the cry of the blind men because the verse centers on Jesus as Lord whose authority is near enough to receive mercy-seeking faith.
+**Context and language lens:** The cry of the blind men because the verse centers on Jesus as Lord whose authority is near enough to receive mercy-seeking faith.
 
 The nearness of Christ can be heard in a desperate cry. Matthew 20:30 shows two blind men recognizing Jesus as more than a passing figure. Their need does not make them polite and distant. It makes them call out for mercy.
 
@@ -117,7 +117,7 @@ The Lord who passes near is merciful enough to hear the cry that faith brings ho
 
 **Scripture Reference:** Matthew 21:9
 
-**Production lens correction:** The architecture assigned `phōs`; the production lens uses the crowd's welcome of Jesus because the verse centers on light exposing shallow expectations and directing the heart toward the true King.
+**Context and language lens:** The crowd's welcome of Jesus because the verse centers on light exposing shallow expectations and directing the heart toward the true King.
 
 The way of peace may look different from the way people expected triumph to look. Matthew 21:9 holds the public welcome of Jesus, but the road He walks will not bend into human control. He comes as King, yet His kingdom exposes what kind of salvation the heart truly wants.
 
@@ -145,7 +145,7 @@ Walking with Jesus means letting the true King lead, even when His peace is quie
 
 **Scripture Reference:** 1 Peter 5:14
 
-**Production lens correction:** The architecture assigned `akoloutheō`; the production lens uses peace and love within the community of Christ because following Jesus becomes visible in how His people greet, receive, and bless one another.
+**Context and language lens:** Peace and love within the community of Christ because following Jesus becomes visible in how His people greet, receive, and bless one another.
 
 The table of grace is not built by perfect people. It is formed by people who are learning to belong to Christ together. 1 Peter 5:14 gathers love, greeting, peace, and life in Christ into one simple closing word.
 
@@ -173,7 +173,7 @@ The invitation to follow Jesus includes the invitation to carry His peace into t
 
 **Scripture Reference:** Matthew 10:24
 
-**Production lens correction:** The architecture assigned `sōzō`; the production lens uses Jesus' teaching on the disciple and teacher because saving wholeness heals the pride that wants to follow without becoming teachable.
+**Context and language lens:** Jesus' teaching on the disciple and teacher because saving wholeness heals the pride that wants to follow without becoming teachable.
 
 The healing touch of Jesus often begins by making the heart teachable. Matthew 10:24 reminds the disciple that following has an order. The student does not stand above the teacher. The servant does not outrank the master.
 
@@ -201,7 +201,7 @@ The disciple becomes whole by staying near enough to be taught.
 
 **Scripture Reference:** Matthew 10:25
 
-**Production lens correction:** The architecture assigned `eirēnē`; the production lens uses Jesus' word about the disciple becoming like the teacher because peace grows when the heart receives likeness to Christ as enough.
+**Context and language lens:** Jesus' word about the disciple becoming like the teacher because peace grows when the heart receives likeness to Christ as enough.
 
 The call to follow Jesus is also the call to become like Him. Matthew 10:25 gives the disciple a different measure of success. The goal is not to be impressive, untouchable, or above the path Jesus walked. It is enough for the disciple to become like the Teacher.
 
@@ -232,7 +232,7 @@ The peace of discipleship is learning that becoming like Jesus is not small. It 
 
 **Scripture Reference:** Matthew 12:15
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' withdrawal and continued healing because the verse centers on the Lord's authority moving with courage, compassion, and wisdom instead of public pressure.
+**Context and language lens:** Jesus' withdrawal and continued healing because the verse centers on the Lord's authority moving with courage, compassion, and wisdom instead of public pressure.
 
 Cross-shaped courage does not always look like standing in the loudest place. Matthew 12:15 shows Jesus moving with awareness, withdrawing from danger, and still ministering with compassion. He is not driven by fear, but He is also not controlled by the need to prove Himself.
 
@@ -260,7 +260,7 @@ Walking with Jesus gives courage a cruciform shape: firm, humble, discerning, an
 
 **Scripture Reference:** Matthew 13:36
 
-**Production lens correction:** The architecture assigned `phōs`; the production lens uses the disciples asking Jesus for understanding after the crowd leaves because the verse centers on light forming hope through private instruction.
+**Context and language lens:** The disciples asking Jesus for understanding after the crowd leaves because the verse centers on light forming hope through private instruction.
 
 Grace forms hope when Jesus welcomes the questions that remain after the crowd is gone. Matthew 13:36 moves from public teaching into a more private moment. The disciples come near and ask for understanding. They do not pretend to understand everything simply because they were near the sermon.
 
@@ -288,7 +288,7 @@ The One who teaches in public is also faithful to form hope in private.
 
 **Scripture Reference:** Matthew 14:22
 
-**Production lens correction:** The architecture assigned `akoloutheō`; the production lens uses Jesus directing the disciples into the boat while He dismisses the crowd because the verse centers on following the Friend who leads even when the next stretch is not fully visible.
+**Context and language lens:** Jesus directing the disciples into the boat while He dismisses the crowd because the verse centers on following the Friend who leads even when the next stretch is not fully visible.
 
 The Friend who leads may send you ahead before you understand the whole night. Matthew 14:22 shows Jesus directing His disciples into the boat while He tends to the crowd. His leadership is intentional. The disciples are not abandoned simply because they are sent forward.
 
@@ -318,7 +318,7 @@ The Friend who leads is still near when obedience carries you into unseen water.
 
 **Scripture Reference:** Matthew 15:27
 
-**Production lens correction:** The architecture assigned `sōzō`; the production lens uses the woman's humble, persistent faith because the verse centers on saving mercy meeting a heart that refuses to let discouragement silence trust.
+**Context and language lens:** The woman's humble, persistent faith because the verse centers on saving mercy meeting a heart that refuses to let discouragement silence trust.
 
 The light on the path may come through a humble heart that keeps trusting. Matthew 15:27 shows a woman responding to Jesus with persistent faith. She does not come with entitlement. She comes with need, humility, and a confidence that even the mercy near the table is enough.
 
@@ -346,7 +346,7 @@ Walking with Jesus means staying near the light, even when the path humbles you.
 
 **Scripture Reference:** Matthew 15:32
 
-**Production lens correction:** The architecture assigned `eirēnē`; the production lens uses Jesus' compassion for the hungry crowd because the verse centers on peace in the presence of the One who sees human weakness before sending people forward.
+**Context and language lens:** Jesus' compassion for the hungry crowd because the verse centers on peace in the presence of the One who sees human weakness before sending people forward.
 
 The invitation of Jesus includes rest for human weakness. Matthew 15:32 shows His compassion for a crowd that has remained with Him. He notices hunger. He considers the journey. He refuses to treat physical limitation as an inconvenience beneath His attention.
 
@@ -374,7 +374,7 @@ The invitation to follow includes the compassion of the One who sees what the ro
 
 **Scripture Reference:** Matthew 16:13
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' question about His identity because the verse centers on the Lord drawing His disciples beyond public opinion into personal confession.
+**Context and language lens:** Jesus' question about His identity because the verse centers on the Lord drawing His disciples beyond public opinion into personal confession.
 
 The Shepherd's voice wakes the heart by asking the question beneath all other questions. Matthew 16:13 brings the disciples into a moment of identity. Public opinion is present, but Jesus is leading them toward something more personal than what others are saying.
 
@@ -402,7 +402,7 @@ Walking with Jesus becomes steady when confession becomes personal trust.
 
 **Scripture Reference:** Matthew 16:20
 
-**Production lens correction:** The architecture assigned `phōs`; the production lens uses Jesus' instruction to the disciples to hold back public announcement because the verse centers on light refining timing, restraint, and obedience.
+**Context and language lens:** Jesus' instruction to the disciples to hold back public announcement because the verse centers on light refining timing, restraint, and obedience.
 
 The road with Jesus is refined by restraint. Matthew 16:20 comes after a powerful confession, yet Jesus gives His disciples instruction about what not to announce. Truth is holy, but timing matters. Revelation is not permission for self-directed display.
 
@@ -433,7 +433,7 @@ Walking with Jesus means letting His light refine both speech and silence.
 
 **Scripture Reference:** Matthew 17:9
 
-**Production lens correction:** The architecture assigned `akoloutheō`; the production lens uses Jesus leading the disciples down from the mountain with timing and restraint because the verse centers on following Him from holy encounter into obedient waiting.
+**Context and language lens:** Jesus leading the disciples down from the mountain with timing and restraint because the verse centers on following Him from holy encounter into obedient waiting.
 
 The nearness of Christ is not only for the mountaintop. Matthew 17:9 comes as Jesus and the disciples are coming down after a holy glimpse of glory. He gives instruction about timing. They have seen something sacred, but following Him means carrying the sacred with obedience, not self-directed announcement.
 
@@ -461,7 +461,7 @@ Walking with Jesus means carrying holy moments under His timing.
 
 **Scripture Reference:** Matthew 19:21
 
-**Production lens correction:** The architecture assigned `sōzō`; the production lens uses Jesus' invitation to release attachment and follow Him because saving wholeness touches what the heart holds for security.
+**Context and language lens:** Jesus' invitation to release attachment and follow Him because saving wholeness touches what the heart holds for security.
 
 The way of peace may begin with release. Matthew 19:21 shows Jesus naming a path that touches possession, treasure, compassion, and following. He is not trying to shame the heart. He is exposing what keeps the heart from walking freely with Him.
 
@@ -489,7 +489,7 @@ The peace of Jesus is found on the road where the heart is free enough to follow
 
 **Scripture Reference:** Matthew 19:28
 
-**Production lens correction:** The architecture assigned `eirēnē`; the production lens uses Jesus' promise of renewal and future restoration because the verse centers on peace for disciples who have left much to follow Him.
+**Context and language lens:** Jesus' promise of renewal and future restoration because the verse centers on peace for disciples who have left much to follow Him.
 
 The table of grace is larger than what obedience seems to cost. Matthew 19:28 points the disciples toward renewal and the future faithfulness of God. Jesus does not ignore sacrifice. He places it inside the promise of restoration.
 
@@ -517,7 +517,7 @@ Walking with Jesus means trusting that His future is strong enough to hold today
 
 **Scripture Reference:** Matthew 20:17
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus taking the Twelve aside on the road to Jerusalem because the verse centers on the Lord's trusted authority telling the truth before the painful path unfolds.
+**Context and language lens:** Jesus taking the Twelve aside on the road to Jerusalem because the verse centers on the Lord's trusted authority telling the truth before the painful path unfolds.
 
 Mercy does not hide the truth from the people Jesus loves. Matthew 20:17 places Jesus on the road to Jerusalem with the Twelve drawn close. He is not drifting toward suffering unknowingly. He leads with authority, and He prepares His disciples with truth.
 
@@ -545,7 +545,7 @@ The Lord who tells the truth also walks the road He reveals.
 
 **Scripture Reference:** Matthew 20:31
 
-**Production lens correction:** The architecture assigned `phōs`; the production lens uses the blind men's intensified cry after rebuke because the verse centers on light giving courage to seek mercy when voices try to silence faith.
+**Context and language lens:** The blind men's intensified cry after rebuke because the verse centers on light giving courage to seek mercy when voices try to silence faith.
 
 The call to follow sometimes sounds like a cry that refuses to be silenced. Matthew 20:31 shows the crowd trying to quiet the blind men, but their need presses their faith louder. They are not performing drama. They are reaching for mercy.
 
@@ -573,7 +573,7 @@ Walking with Jesus gives courage to keep seeking Him when the crowd does not und
 
 **Scripture Reference:** Matthew 21:1
 
-**Production lens correction:** The architecture assigned `akoloutheō`; the production lens uses Jesus drawing near to Jerusalem and sending disciples ahead because the verse centers on following through ordinary obedience on the edge of a costly mission.
+**Context and language lens:** Jesus drawing near to Jerusalem and sending disciples ahead because the verse centers on following through ordinary obedience on the edge of a costly mission.
 
 Cross-shaped courage often begins with a simple assignment. Matthew 21:1 brings Jesus and the disciples near Jerusalem. The weight of what is coming is great, yet the next act of obedience is concrete and ordinary: Jesus sends disciples ahead.
 
@@ -601,7 +601,7 @@ Walking with Jesus turns ordinary obedience into participation in His larger pur
 
 **Scripture Reference:** Matthew 21:42
 
-**Production lens correction:** The architecture assigned `sōzō`; the production lens uses Jesus' word about the rejected stone becoming central because the verse centers on saving hope through God's reversal of rejection.
+**Context and language lens:** Jesus' word about the rejected stone becoming central because the verse centers on saving hope through God's reversal of rejection.
 
 Resurrection hope begins where human rejection does not get the final word. Matthew 21:42 points to the stone rejected and then made central by God's doing. Jesus is not surprised by rejection. He reveals a kingdom where the Father's purpose overturns what people dismiss.
 
@@ -632,7 +632,7 @@ Walking with Jesus means trusting the Father's marvelous work even when rejectio
 
 **Scripture Reference:** Revelation 1:1
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the opening of Revelation as the unveiling of Jesus Christ because peace begins when fear is led by what God reveals, not by what the heart imagines.
+**Context and language lens:** The opening of Revelation as the unveiling of Jesus Christ because peace begins when fear is led by what God reveals, not by what the heart imagines.
 
 The Friend who leads does not leave His people guessing in the dark. Revelation 1:1 opens with unveiling. God gives the revelation of Jesus Christ for His servants, and the message is carried with purpose. Before Revelation speaks of conflict, endurance, judgment, and hope, it begins by showing that Jesus is not absent from history.
 
@@ -660,7 +660,7 @@ Walking with Jesus means trusting the Friend who reveals enough for today's obed
 
 **Scripture Reference:** Revelation 22:20
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' closing promise to come because the verse centers on His trusted authority over hope, waiting, and longing.
+**Context and language lens:** Jesus' closing promise to come because the verse centers on His trusted authority over hope, waiting, and longing.
 
 The light on the path is anchored by the promise of Jesus. Revelation 22:20 stands near the close of Scripture with a holy longing. The church does not end the story by trusting human progress, spiritual self-display, or perfect circumstances. The heart answers the promise of Christ with desire for His appearing.
 
@@ -688,7 +688,7 @@ Walking with Jesus means letting His coming future train today's faithfulness.
 
 **Scripture Reference:** Revelation 22:21
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses the final grace blessing because grace is the light that steadies the heart at the close of the story and sends the disciple into faithful rest.
+**Context and language lens:** The final grace blessing because grace is the light that steadies the heart at the close of the story and sends the disciple into faithful rest.
 
 The invitation ends in grace because the walk with Jesus begins, continues, and finishes by grace. Revelation 22:21 closes with the grace of the Lord Jesus. After prophecy, warning, promise, worship, and longing, the final word is not fear. It is grace.
 
@@ -716,7 +716,7 @@ Walking with Jesus means discovering again that His grace is the light for the w
 
 **Scripture Reference:** 1 Peter 5:10
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses the God of all grace restoring, confirming, strengthening, and establishing His people because following Jesus includes being formed after suffering.
+**Context and language lens:** The God of all grace restoring, confirming, strengthening, and establishing His people because following Jesus includes being formed after suffering.
 
 The Shepherd's voice is not only heard in easy pasture. 1 Peter 5:10 speaks to believers who know suffering, but it does not leave them there. The God of all grace is named as the One who restores, confirms, strengthens, and establishes. Grace has hands. Grace rebuilds.
 
@@ -744,7 +744,7 @@ Walking with Jesus means letting grace establish what suffering tried to shake.
 
 **Scripture Reference:** 1 Peter 5:4
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Christ as the Chief Shepherd whose appearing gives hope to faithful service because saving wholeness is held by His care and His reward.
+**Context and language lens:** Christ as the Chief Shepherd whose appearing gives hope to faithful service because saving wholeness is held by His care and His reward.
 
 The road with Jesus is watched by the Chief Shepherd. 1 Peter 5:4 points the heart toward Christ's appearing and the unfading crown of glory. The servant of God does not labor unseen. The shepherding heart does not pour out in vain.
 
@@ -772,7 +772,7 @@ Walking with Jesus means serving under the care of the Shepherd who will appear.
 
 **Scripture Reference:** Matthew 10:1
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus calling the Twelve near and giving authority because peace is formed by nearness to Christ before mission is carried outward.
+**Context and language lens:** Jesus calling the Twelve near and giving authority because peace is formed by nearness to Christ before mission is carried outward.
 
 Hope rises when Jesus calls His disciples near. Matthew 10:1 comes before the sending. Jesus calls the Twelve to Himself and gives them authority for the work ahead. Mission does not begin with noise. It begins with nearness.
 
@@ -800,7 +800,7 @@ Walking with Jesus means receiving nearness before carrying assignment.
 
 **Scripture Reference:** Matthew 10:13
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' instruction about peace resting on a worthy household because His Lordship governs how disciples offer peace without forcing reception.
+**Context and language lens:** Jesus' instruction about peace resting on a worthy household because His Lordship governs how disciples offer peace without forcing reception.
 
 The way of peace is carried, but it is not forced. Matthew 10:13 places peace in the hands of disciples who enter homes under Jesus' instruction. They offer peace with sincerity, but they do not control how it is received.
 
@@ -831,7 +831,7 @@ Walking with Jesus means carrying peace faithfully and trusting Him with the res
 
 **Scripture Reference:** Matthew 10:23
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Jesus' instruction about persecution, wise movement, and the Son of Man's coming because light gives direction when fear wants either panic or stubbornness.
+**Context and language lens:** Jesus' instruction about persecution, wise movement, and the Son of Man's coming because light gives direction when fear wants either panic or stubbornness.
 
 The table of grace is not only for quiet rooms. Matthew 10:23 places disciples in a world where rejection and persecution can become real. Jesus does not romanticize danger. He gives instruction. He teaches His followers how to move wisely, keep going, and hold hope under pressure.
 
@@ -859,7 +859,7 @@ Walking with Jesus means letting His light guide courage with wisdom.
 
 **Scripture Reference:** Matthew 10:34
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' hard word about division because following Him heals false peace by making allegiance truthful.
+**Context and language lens:** Jesus' hard word about division because following Him heals false peace by making allegiance truthful.
 
 The healing touch of Jesus sometimes begins by telling the truth about false peace. Matthew 10:34 is not a call to cruelty or needless conflict. It is Jesus preparing disciples to understand that allegiance to Him can expose divisions that polite silence has been hiding.
 
@@ -887,7 +887,7 @@ Walking with Jesus means letting His truth heal false peace.
 
 **Scripture Reference:** Matthew 10:38
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' call to take up the cross and follow because saving wholeness includes surrendering self-protection to His way of love.
+**Context and language lens:** Jesus' call to take up the cross and follow because saving wholeness includes surrendering self-protection to His way of love.
 
 Love teaches the call to follow by bringing the cross into ordinary life. Matthew 10:38 is direct. Jesus does not invite disciples to admire Him from a comfortable distance. He calls them to take up the cross and follow Him.
 
@@ -918,7 +918,7 @@ Walking with Jesus means receiving Sabbath grace for cross-shaped faithfulness.
 
 **Scripture Reference:** Matthew 10:5
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus' focused sending of the Twelve because peace grows when the disciple receives the assignment Jesus gives instead of carrying every possible burden at once.
+**Context and language lens:** Jesus' focused sending of the Twelve because peace grows when the disciple receives the assignment Jesus gives instead of carrying every possible burden at once.
 
 Resurrection hope can look like a clear next assignment. Matthew 10:5 shows Jesus sending the Twelve with specific direction. He does not hand them a vague burden for the whole world in one breath. He gives them a focused path for that moment.
 
@@ -946,7 +946,7 @@ Walking with Jesus means receiving His assignment with peace.
 
 **Scripture Reference:** Matthew 12:1
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the Sabbath-field setting and Jesus' presence with hungry disciples because His Lordship protects mercy from religious scrutiny.
+**Context and language lens:** The Sabbath-field setting and Jesus' presence with hungry disciples because His Lordship protects mercy from religious scrutiny.
 
 The Friend who leads stays near when need is misunderstood. Matthew 12:1 places Jesus with His disciples as hunger, Sabbath setting, and religious scrutiny meet in one scene. The disciples are close to Jesus, yet they are still watched and criticized.
 
@@ -974,7 +974,7 @@ Walking with Jesus means staying close to Him when obedience is misunderstood.
 
 **Scripture Reference:** Matthew 12:32
 
-**Production lens correction:** The architecture assigned `phos`; the production lens handles this warning pastorally as light exposing hardened resistance to the Spirit, not as a trap for tender consciences.
+**Context and language lens:** This lens reads this warning pastorally as light exposing hardened resistance to the Spirit, not as a trap for tender consciences.
 
 The light on the path tells the truth because Jesus loves the soul. Matthew 12:32 is a serious warning, and serious warnings should make the heart sober, not hopeless. Jesus is addressing resistance to the Spirit's witness, not tormenting tender people who long to belong to God.
 
@@ -1002,7 +1002,7 @@ Walking with Jesus means staying tender toward the light He gives.
 
 **Scripture Reference:** Matthew 12:8
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus as Lord of the Sabbath because abiding close to Him means receiving Sabbath as His mercy-shaped gift rather than a weapon of control.
+**Context and language lens:** Jesus as Lord of the Sabbath because abiding close to Him means receiving Sabbath as His mercy-shaped gift rather than a weapon of control.
 
 The invitation to abide close to Jesus includes learning His heart for Sabbath. Matthew 12:8 names the Son of Man as Lord of the Sabbath. This is not Jesus dismissing Sabbath. It is Jesus revealing His authority over it and His mercy within it.
 
@@ -1030,7 +1030,7 @@ Walking with Jesus means receiving Sabbath truth from the Lord of the Sabbath.
 
 **Scripture Reference:** Matthew 13:19
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the seed snatched from the path because saving wholeness includes receiving the word deeply enough that it is not stolen by hardness or hurry.
+**Context and language lens:** The seed snatched from the path because saving wholeness includes receiving the word deeply enough that it is not stolen by hardness or hurry.
 
 The Shepherd's voice is meant to go deeper than the surface. Matthew 13:19 describes the word heard but not understood, and then snatched away. Jesus is not trying to embarrass the listener. He is teaching us how vulnerable an unreceived word can be.
 
@@ -1058,7 +1058,7 @@ Walking with Jesus means receiving His word deeply enough to keep it.
 
 **Scripture Reference:** Matthew 13:51
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus asking whether His disciples understand because peace grows through teachability, not pretending to understand more than we do.
+**Context and language lens:** Jesus asking whether His disciples understand because peace grows through teachability, not pretending to understand more than we do.
 
 The road with Jesus includes honest learning. Matthew 13:51 shows Jesus asking His disciples whether they understand. He is not afraid to question them. He is forming people who can receive, respond, and keep growing.
 
@@ -1086,7 +1086,7 @@ Walking with Jesus means letting His questions form peace in a teachable heart.
 
 **Scripture Reference:** Matthew 14:12
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the disciples burying John and telling Jesus because His Lordship gives a place to carry grief, honor, and honest report.
+**Context and language lens:** The disciples burying John and telling Jesus because His Lordship gives a place to carry grief, honor, and honest report.
 
 The nearness of Christ gives grief somewhere holy to go. Matthew 14:12 follows the death of John the Baptist. John's disciples do what love requires, and then they go and tell Jesus. Their grief is not left floating in silence.
 
@@ -1117,7 +1117,7 @@ Walking with Jesus means practicing His nearness even in grief.
 
 **Scripture Reference:** Matthew 14:13
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Jesus withdrawing after hearing of John's death because light gives direction for grief, solitude, and compassion without rushing the heart.
+**Context and language lens:** Jesus withdrawing after hearing of John's death because light gives direction for grief, solitude, and compassion without rushing the heart.
 
 The way of peace sometimes begins with Jesus making room for grief. Matthew 14:13 follows painful news. Jesus withdraws to a solitary place, yet the crowds still come. The verse holds a tension many faithful people know: the need to be with God and the pressure of human need.
 
@@ -1145,7 +1145,7 @@ Walking with Jesus means letting His light guide grief toward peace.
 
 **Scripture Reference:** Matthew 14:14
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus seeing the crowd, being moved with compassion, and healing because discipleship learns mercy by staying close to His heart.
+**Context and language lens:** Jesus seeing the crowd, being moved with compassion, and healing because discipleship learns mercy by staying close to His heart.
 
 The table of grace begins in the compassion of Jesus. Matthew 14:14 shows Him seeing the crowd and being moved toward them. He does not look at people as interruptions. He sees need with holy tenderness.
 
@@ -1173,7 +1173,7 @@ Walking with Jesus means letting His compassion train your attention.
 
 **Scripture Reference:** Matthew 14:15
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the disciples' concern about evening, wilderness, and hungry crowds because saving wholeness meets fear about limited resources.
+**Context and language lens:** The disciples' concern about evening, wilderness, and hungry crowds because saving wholeness meets fear about limited resources.
 
 The healing touch of Jesus reaches the place where scarcity starts talking. Matthew 14:15 shows the disciples noticing the hour, the remote place, and the hungry crowd. Their concern is understandable. Need can look larger than provision.
 
@@ -1201,7 +1201,7 @@ Walking with Jesus means letting His wholeness meet the fear of lack.
 
 **Scripture Reference:** Matthew 14:23
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus dismissing the crowds and going up the mountain alone to pray because peace is formed through communion with the Father.
+**Context and language lens:** Jesus dismissing the crowds and going up the mountain alone to pray because peace is formed through communion with the Father.
 
 The call to follow includes learning when to step away and pray. Matthew 14:23 shows Jesus dismissing the crowd and going up the mountain by Himself. He had served with compassion, but He did not confuse endless public demand with the Father's voice.
 
@@ -1229,7 +1229,7 @@ Walking with Jesus means letting hidden prayer keep love whole.
 
 **Scripture Reference:** Matthew 14:27
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus speaking courage in the storm because His trusted authority answers fear with His presence.
+**Context and language lens:** Jesus speaking courage in the storm because His trusted authority answers fear with His presence.
 
 Cross-shaped courage begins with hearing Jesus in the storm. Matthew 14:27 shows Him speaking to frightened disciples. He does not begin with a lecture. He gives courage, identifies Himself, and tells them not to be afraid.
 
@@ -1257,7 +1257,7 @@ Walking with Jesus means letting His voice lead courage before fear leads reacti
 
 **Scripture Reference:** Matthew 14:28
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Peter's request for Jesus' command because light helps the disciple distinguish faith from impulse.
+**Context and language lens:** Peter's request for Jesus' command because light helps the disciple distinguish faith from impulse.
 
 Resurrection hope asks for the voice of Jesus before stepping into the impossible. Matthew 14:28 shows Peter responding to Jesus with desire and dependence. He does not simply jump because the moment is dramatic. He asks for the Lord's command.
 
@@ -1285,7 +1285,7 @@ Walking with Jesus means letting His command give direction to courage.
 
 **Scripture Reference:** Matthew 14:29
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' invitation to Peter, "Come," because discipleship steps toward Christ by His word, not by self-generated courage.
+**Context and language lens:** Jesus' invitation to Peter, "Come," because discipleship steps toward Christ by His word, not by self-generated courage.
 
 The Friend who leads can call you forward on waters you could never master. Matthew 14:29 centers on Jesus' invitation and Peter's response. The power is not in Peter's confidence. The power is in the word of Christ.
 
@@ -1316,7 +1316,7 @@ Walking with Jesus means following His call from Sabbath-rooted belonging.
 
 **Scripture Reference:** Matthew 14:33
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the disciples' worship after the storm because Jesus' saving rescue leads the heart from fear into surrendered recognition.
+**Context and language lens:** The disciples' worship after the storm because Jesus' saving rescue leads the heart from fear into surrendered recognition.
 
 The light on the path often becomes clearest after Jesus has carried us through what we could not control. Matthew 14:33 comes after wind, fear, rescue, and the settling presence of Christ. The disciples are not merely impressed by power. Their hearts are brought to worship.
 
@@ -1344,7 +1344,7 @@ Walking with Jesus means letting rescue mature into worship.
 
 **Scripture Reference:** Matthew 15:22
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the Canaanite woman's desperate cry because peace begins when pain is carried toward the mercy of Jesus instead of hidden in isolation.
+**Context and language lens:** The Canaanite woman's desperate cry because peace begins when pain is carried toward the mercy of Jesus instead of hidden in isolation.
 
 The invitation of Jesus is wide enough for desperate prayer. Matthew 15:22 shows a woman crying out for mercy because someone she loves is suffering. Her need is not polished. Her request comes from a wounded place, but she brings it to the right Person.
 
@@ -1372,7 +1372,7 @@ Walking with Jesus means letting honest need come near His mercy.
 
 **Scripture Reference:** Matthew 15:23
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' silence and the disciples' impatience because trusted Lordship holds the heart steady when the answer is not immediate.
+**Context and language lens:** Jesus' silence and the disciples' impatience because trusted Lordship holds the heart steady when the answer is not immediate.
 
 Trust becomes tender when heaven seems quiet. Matthew 15:23 is not an easy verse. The woman cries out, Jesus does not answer immediately, and the disciples want the disturbance removed. The scene exposes how quickly people can confuse another person's pain with inconvenience.
 
@@ -1400,7 +1400,7 @@ Walking with Jesus means trusting His Lordship without adopting the impatience o
 
 **Scripture Reference:** Matthew 15:30
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses the crowds bringing wounded people to Jesus' feet because light exposes need and gives direction toward His healing presence.
+**Context and language lens:** The crowds bringing wounded people to Jesus' feet because light exposes need and gives direction toward His healing presence.
 
 Hope rises when need is brought to the feet of Jesus. Matthew 15:30 gathers many forms of suffering into one movement toward Him. People come carrying wounds, limitations, weakness, and long-standing pain. They do not keep the broken places hidden from Christ.
 
@@ -1428,7 +1428,7 @@ Walking with Jesus means letting His light direct wounded places toward healing.
 
 **Scripture Reference:** Matthew 16:16
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Peter's confession because discipleship is formed by recognizing who Jesus is before deciding how to follow Him.
+**Context and language lens:** Peter's confession because discipleship is formed by recognizing who Jesus is before deciding how to follow Him.
 
 The nearness of Christ becomes steady when the heart knows who He is. Matthew 16:16 brings Peter's confession into the open. Jesus is not merely a teacher with wise words or a helper for difficult seasons. He is the promised Christ, the living Son.
 
@@ -1456,7 +1456,7 @@ Walking with Jesus means letting who He is shape how you follow.
 
 **Scripture Reference:** Matthew 16:21
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' first plain teaching about His suffering, death, and resurrection because saving wholeness comes through the cross, not around it.
+**Context and language lens:** Jesus' first plain teaching about His suffering, death, and resurrection because saving wholeness comes through the cross, not around it.
 
 The way of peace is not always the way around suffering. Matthew 16:21 marks a turning point as Jesus begins to speak plainly about what waits ahead. His path will include rejection, suffering, death, and resurrection. He does not hide the cost of salvation.
 
@@ -1484,7 +1484,7 @@ Walking with Jesus means trusting the Savior whose peace has passed through the 
 
 **Scripture Reference:** Matthew 16:27
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus' promise of coming glory and righteous reward because peace rests in the returning King whose judgment is truthful, gracious, and just.
+**Context and language lens:** Jesus' promise of coming glory and righteous reward because peace rests in the returning King whose judgment is truthful, gracious, and just.
 
 The table of grace is not separated from the coming glory of Jesus. Matthew 16:27 points the heart toward His return, the Father's glory, the angels, and the truth that every life will be seen rightly. This is not meant to make a surrendered heart panic. It is meant to make the heart honest and awake.
 
@@ -1515,7 +1515,7 @@ Walking with Jesus means resting under the grace and truth of the returning King
 
 **Scripture Reference:** Matthew 16:5
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the disciples' forgotten bread because trusted Lordship meets ordinary lack, practical oversight, and the anxiety that follows.
+**Context and language lens:** The disciples' forgotten bread because trusted Lordship meets ordinary lack, practical oversight, and the anxiety that follows.
 
 The healing touch of Jesus reaches even into ordinary forgetfulness. Matthew 16:5 is not dramatic at first glance. The disciples cross over and realize bread has been left behind. It is the kind of small practical failure that can quickly become worry, blame, or self-reproach.
 
@@ -1543,7 +1543,7 @@ Walking with Jesus means letting His Lordship steady ordinary lack before worry 
 
 **Scripture Reference:** Matthew 16:8
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Jesus exposing anxious discussion about bread because light reveals when the heart has forgotten remembered provision.
+**Context and language lens:** Jesus exposing anxious discussion about bread because light reveals when the heart has forgotten remembered provision.
 
 The call to follow includes letting Jesus expose anxious conversations. Matthew 16:8 shows Him discerning the disciples' concern. Their discussion about bread is not hidden from Him. He sees the fear under the words.
 
@@ -1571,7 +1571,7 @@ Walking with Jesus means allowing His light to correct forgetful fear.
 
 **Scripture Reference:** Matthew 17:10
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses the disciples' question about Elijah because discipleship brings sincere questions to Jesus instead of hiding confusion behind religious confidence.
+**Context and language lens:** The disciples' question about Elijah because discipleship brings sincere questions to Jesus instead of hiding confusion behind religious confidence.
 
 Cross-shaped courage is honest enough to ask Jesus real questions. Matthew 17:10 comes after glory on the mountain. The disciples have seen what they cannot fully understand, and they bring a question to Him about what they have been taught.
 
@@ -1599,7 +1599,7 @@ Walking with Jesus means letting honest questions remain near Him.
 
 **Scripture Reference:** Matthew 17:11
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' word about restoration because saving wholeness includes God's promise to restore what sin, confusion, and disorder have damaged.
+**Context and language lens:** Jesus' word about restoration because saving wholeness includes God's promise to restore what sin, confusion, and disorder have damaged.
 
 Resurrection hope remembers that Jesus speaks restoration into places that look tangled. Matthew 17:11 points to a restoring work in God's plan. Before the disciples can understand every detail, Jesus gives them a word that carries hope: God is not careless with what has been broken.
 
@@ -1627,7 +1627,7 @@ Walking with Jesus means trusting the Savior who restores what brokenness tried 
 
 **Scripture Reference:** Matthew 17:12
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus' teaching about unrecognized mission and suffering because peace is formed when the heart trusts Him through misunderstanding and costly obedience.
+**Context and language lens:** Jesus' teaching about unrecognized mission and suffering because peace is formed when the heart trusts Him through misunderstanding and costly obedience.
 
 The Friend who leads does not hide that faithful paths can be misunderstood. Matthew 17:12 speaks of recognition missed, God's messenger mistreated, and the suffering path of the Son of Man. Jesus is helping the disciples see that God's work is not always welcomed by the world.
 
@@ -1655,7 +1655,7 @@ Walking with Jesus means receiving His peace when faithfulness is misunderstood.
 
 **Scripture Reference:** Matthew 17:15
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the father's plea for mercy because trusted Lordship welcomes family pain, helpless love, and suffering brought honestly to Jesus.
+**Context and language lens:** The father's plea for mercy because trusted Lordship welcomes family pain, helpless love, and suffering brought honestly to Jesus.
 
 Peace leads the path when family pain is brought to Jesus without pretending. Matthew 17:15 holds the voice of a father asking for mercy for his suffering son. He is not presenting a theory. He is carrying pain, helplessness, and love.
 
@@ -1683,7 +1683,7 @@ Walking with Jesus means carrying loved ones to the Lord without carrying the ro
 
 **Scripture Reference:** Matthew 17:19
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses the disciples' private question after failure because light creates teachable space where shame could have created hiding.
+**Context and language lens:** The disciples' private question after failure because light creates teachable space where shame could have created hiding.
 
 The invitation of Jesus includes private teachability after public weakness. Matthew 17:19 shows the disciples coming to Jesus with a question about their inability. They do not have to pretend the failure did not happen. They bring it near enough to learn.
 
@@ -1711,7 +1711,7 @@ Walking with Jesus means letting His light turn failure into teachable nearness.
 
 **Scripture Reference:** Matthew 17:22
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus preparing His disciples for betrayal and suffering because following Him includes staying near through hard truth, not only glorious moments.
+**Context and language lens:** Jesus preparing His disciples for betrayal and suffering because following Him includes staying near through hard truth, not only glorious moments.
 
 Grace for the extra day gives the heart room to hear hard truth with Jesus. Matthew 17:22 comes after glory, questions, restoration language, and healing need. Jesus again prepares His disciples for what is coming. The road with Him includes truth they would not have chosen.
 
@@ -1742,7 +1742,7 @@ Walking with Jesus means staying close when grace tells the truth.
 
 **Scripture Reference:** Matthew 17:24
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the temple-tax question because peace with Jesus reaches public obligations, ordinary questions, and moments when faith is observed by others.
+**Context and language lens:** The temple-tax question because peace with Jesus reaches public obligations, ordinary questions, and moments when faith is observed by others.
 
 The nearness of Christ is not only for mountains, storms, and miracles. Matthew 17:24 brings Jesus and Peter into an ordinary question about the temple tax. The scene is practical, public, and easy to overlook. Yet the way of Jesus is formed in such ordinary places.
 
@@ -1770,7 +1770,7 @@ Walking with Jesus means letting His nearness enter ordinary obligations.
 
 **Scripture Reference:** Matthew 17:25
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' question to Peter because trusted Lordship teaches freedom, discernment, and conversation before reaction.
+**Context and language lens:** Jesus' question to Peter because trusted Lordship teaches freedom, discernment, and conversation before reaction.
 
 The way of peace often begins with Jesus asking a question. Matthew 17:25 shows Jesus speaking with Peter before the situation is handled outwardly. He does not rush past the heart to manage appearances. He teaches Peter how to think as a son under the Father's care.
 
@@ -1798,7 +1798,7 @@ Walking with Jesus means letting His Lordship teach freedom before action.
 
 **Scripture Reference:** Matthew 17:4
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Peter's desire to build shelters on the mountain because light exposes the temptation to preserve holy moments by control instead of receiving them with reverence.
+**Context and language lens:** Peter's desire to build shelters on the mountain because light exposes the temptation to preserve holy moments by control instead of receiving them with reverence.
 
 The table of grace includes moments we cannot control. Matthew 17:4 holds Peter's impulse during the transfiguration. He is near glory, overwhelmed by the moment, and eager to do something with what he sees. The desire is understandable, but the holy moment cannot be managed into safety.
 
@@ -1826,7 +1826,7 @@ Walking with Jesus means letting His light turn holy overwhelm into reverent lis
 
 **Scripture Reference:** Matthew 18:1
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses the disciples' greatness question because discipleship heals ambition by bringing ordinary status hunger into Jesus' kingdom teaching.
+**Context and language lens:** The disciples' greatness question because discipleship heals ambition by bringing ordinary status hunger into Jesus' kingdom teaching.
 
 The healing touch of Jesus reaches the desire to be important. Matthew 18:1 shows the disciples asking about greatness. It is an ordinary human question wearing religious clothing. Who is ahead? Who matters most? Who will be recognized?
 
@@ -1854,9 +1854,9 @@ Walking with Jesus means letting discipleship heal the hunger to be first.
 
 **Scripture Reference:** Matthew 18:11
 
-**Production text note:** Matthew 18:11 has textual-placement differences across Bible editions. The production use treats the assigned reference as a rescue-focused saying for planning purposes, with final wording and placement to be confirmed during translation and permissions review.
+**Translation review note:** Matthew 18:11 has textual-placement differences across Bible editions. Treat this day as rescue-focused while final wording and placement are confirmed during translation and permissions review.
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the rescue of the lost because Jesus' saving wholeness reaches people who are overlooked, endangered, or dismissed.
+**Context and language lens:** The rescue of the lost because Jesus' saving wholeness reaches people who are overlooked, endangered, or dismissed.
 
 The call to follow brings the heart near the saving purpose of Jesus. Matthew 18:11, where included, points toward His mission to save the lost. Even with textual-placement review still ahead, the theme harmonizes with the surrounding chapter's concern for little ones, humility, and the Father's care.
 
@@ -1884,7 +1884,7 @@ Walking with Jesus means letting His rescue mission train ordinary attention.
 
 **Scripture Reference:** Matthew 19:14
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus welcoming children because peace in ordinary days makes room for vulnerable people instead of treating them as interruptions.
+**Context and language lens:** Jesus welcoming children because peace in ordinary days makes room for vulnerable people instead of treating them as interruptions.
 
 Cross-shaped courage makes room for the small, the dependent, and the overlooked. Matthew 19:14 shows Jesus welcoming children when others might have pushed them aside. His kingdom is not too important for vulnerable people. It belongs to such as these.
 
@@ -1912,7 +1912,7 @@ Walking with Jesus means receiving the vulnerable as welcomed by Him.
 
 **Scripture Reference:** Matthew 19:16
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the rich young man's question because trusted Lordship exposes self-managed religion and invites the heart beyond self-managed goodness.
+**Context and language lens:** The rich young man's question because trusted Lordship exposes self-managed religion and invites the heart beyond self-managed goodness.
 
 Resurrection hope must be anchored deeper than self-managed goodness. Matthew 19:16 brings a serious question to Jesus about eternal life. The question sounds spiritual, but it also reveals a heart looking for something it can do, measure, and perhaps control.
 
@@ -1943,7 +1943,7 @@ Walking with Jesus means resting from self-made righteousness and listening to t
 
 **Scripture Reference:** Matthew 19:2
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses the crowds following Jesus and being healed because light gives direction for public need, ordinary movement, and mercy on the way.
+**Context and language lens:** The crowds following Jesus and being healed because light gives direction for public need, ordinary movement, and mercy on the way.
 
 The Friend who leads does not treat ordinary movement as empty space. Matthew 19:2 shows crowds following Jesus and receiving healing. He is on the way, yet mercy is still present. Movement does not make Him unavailable.
 
@@ -1971,7 +1971,7 @@ Walking with Jesus means letting His light make ordinary movement merciful.
 
 **Scripture Reference:** Matthew 19:23
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' warning about riches and the kingdom because discipleship loosens attachments that make following Him feel impossible.
+**Context and language lens:** Jesus' warning about riches and the kingdom because discipleship loosens attachments that make following Him feel impossible.
 
 The light on the path can reveal what has quietly become heavy. Matthew 19:23 follows the sorrow of a man who could not imagine surrendering what possessed him. Jesus names the difficulty honestly. Wealth, comfort, status, and control can make the kingdom feel narrow to a heart that wants to stay in charge.
 
@@ -1999,7 +1999,7 @@ Walking with Jesus means letting His call become stronger than the grip of what 
 
 **Scripture Reference:** Matthew 20:28
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' servant-ransom mission because saving wholeness is revealed through His self-giving love, not human striving for greatness.
+**Context and language lens:** Jesus' servant-ransom mission because saving wholeness is revealed through His self-giving love, not human striving for greatness.
 
 The invitation of Jesus is shaped by His own self-giving life. Matthew 20:28 reveals the Son of Man as servant and ransom. He does not merely teach humility from a distance. He embodies it for our salvation.
 
@@ -2027,7 +2027,7 @@ Walking with Jesus means receiving the One who served before we could serve well
 
 **Scripture Reference:** Matthew 20:34
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus' compassionate touch and restored sight because peace rises when mercy sees suffering and brings healing near.
+**Context and language lens:** Jesus' compassionate touch and restored sight because peace rises when mercy sees suffering and brings healing near.
 
 Hope rises when Jesus is moved with compassion. Matthew 20:34 shows mercy becoming touch and sight being restored. He does not pass by pain as if need is an interruption to mission. His compassion is part of the mission.
 
@@ -2055,7 +2055,7 @@ Walking with Jesus means trusting the Shepherd whose compassion restores vision.
 
 **Scripture Reference:** Matthew 20:8
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the landowner's payment order because trusted Lordship challenges ordinary assumptions about fairness, grace, and comparison.
+**Context and language lens:** The landowner's payment order because trusted Lordship challenges ordinary assumptions about fairness, grace, and comparison.
 
 The road with Jesus can challenge the way we measure fairness. Matthew 20:8 comes inside a parable where the landowner's order unsettles expectation. The last are called forward first. Grace begins to disturb comparison.
 
@@ -2083,7 +2083,7 @@ Walking with Jesus means trusting His Lordship when grace disrupts comparison.
 
 **Scripture Reference:** Matthew 21:20
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses the disciples' amazement at the withered fig tree because light exposes fruitless appearance and calls the heart toward living faith.
+**Context and language lens:** The disciples' amazement at the withered fig tree because light exposes fruitless appearance and calls the heart toward living faith.
 
 The nearness of Christ can expose what only looked alive from a distance. Matthew 21:20 records the disciples' amazement after the fig tree withered. The moment is sobering. Jesus is teaching more than botanical surprise. He is revealing the seriousness of fruitless appearance.
 
@@ -2111,7 +2111,7 @@ Walking with Jesus means letting His light turn appearance into living faith.
 
 **Scripture Reference:** Matthew 21:3
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' instruction about the needed animals because discipleship makes ordinary possessions, timing, and availability responsive to the Lord.
+**Context and language lens:** Jesus' instruction about the needed animals because discipleship makes ordinary possessions, timing, and availability responsive to the Lord.
 
 The way of peace includes availability. Matthew 21:3 gives the disciples a simple answer if anyone questions the errand: the Lord has need. Ordinary animals, ordinary owners, ordinary questions, and ordinary obedience become part of Jesus' road toward Jerusalem.
 
@@ -2142,7 +2142,7 @@ Walking with Jesus means resting with open hands when the Lord has need.
 
 **Scripture Reference:** Matthew 21:38
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the tenants' grasping response to the son because saving wholeness exposes the fear, entitlement, and control that resist rightful ownership.
+**Context and language lens:** The tenants' grasping response to the son because saving wholeness exposes the fear, entitlement, and control that resist rightful ownership.
 
 The table of grace is hard to receive when the heart is grasping for ownership. Matthew 21:38 sits inside a sobering parable. The tenants see the son and begin reasoning from entitlement instead of reverence. Their desire to seize what is not theirs reveals how distorted fear and control can become.
 
@@ -2170,7 +2170,7 @@ Walking with Jesus means letting His saving grace heal the need to seize what be
 
 **Scripture Reference:** Matthew 21:40
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the vineyard owner's coming because peace includes honest accountability under God's rightful authority.
+**Context and language lens:** The vineyard owner's coming because peace includes honest accountability under God's rightful authority.
 
 The healing touch of Jesus does not remove accountability. Matthew 21:40 asks what will happen when the owner comes. The question is direct. It pulls hidden motives into the light and reminds the hearer that stewardship will be answered for.
 
@@ -2198,7 +2198,7 @@ Walking with Jesus means letting peace become honest before God.
 
 **Scripture Reference:** Matthew 21:6
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the disciples doing what Jesus directed because trusted Lordship becomes visible in simple, ordinary obedience.
+**Context and language lens:** The disciples doing what Jesus directed because trusted Lordship becomes visible in simple, ordinary obedience.
 
 The call to follow is sometimes very plain. Matthew 21:6 shows the disciples doing what Jesus directed. No stage lights. No long explanation. No dramatic speech. Just responsive obedience in an ordinary task that belongs to a larger holy story.
 
@@ -2226,7 +2226,7 @@ Walking with Jesus means letting His Lordship become visible in simple obedience
 
 **Scripture Reference:** Matthew 22:37
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses the greatest-commandment answer because light reveals love for God as the center that orders every ordinary affection and decision.
+**Context and language lens:** The greatest-commandment answer because light reveals love for God as the center that orders every ordinary affection and decision.
 
 Cross-shaped courage begins with ordered love. Matthew 22:37 brings the heart back to the center: love for God with the whole self. Jesus does not reduce faith to fragments. He calls the heart, soul, and mind into surrendered love.
 
@@ -2254,7 +2254,7 @@ Walking with Jesus means letting love for God become the center that orders ordi
 
 **Scripture Reference:** Matthew 22:42
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' question about the Christ because discipleship must be formed by who Jesus truly is, not by borrowed opinion.
+**Context and language lens:** Jesus' question about the Christ because discipleship must be formed by who Jesus truly is, not by borrowed opinion.
 
 Resurrection hope asks the most important question again: who is the Christ? Matthew 22:42 brings identity to the center. Jesus is not gathering opinions for curiosity. He is pressing the hearers beyond inherited answers into recognition.
 
@@ -2282,7 +2282,7 @@ Walking with Jesus means following the Christ, not merely repeating an answer ab
 
 **Scripture Reference:** Matthew 22:45
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' question about David calling the Messiah Lord because saving wholeness enlarges a too-small view of Christ.
+**Context and language lens:** Jesus' question about David calling the Messiah Lord because saving wholeness enlarges a too-small view of Christ.
 
 The Friend who leads is greater than our categories. Matthew 22:45 presses the hearers to consider the Messiah as more than they expected. Jesus is not a manageable figure inside human assumptions. He is Lord.
 
@@ -2310,7 +2310,7 @@ Walking with Jesus means being saved from a too-small Jesus.
 
 **Scripture Reference:** Matthew 23:1
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus addressing the crowds and disciples before hard teaching because peace receives truth before hypocrisy has time to defend itself.
+**Context and language lens:** Jesus addressing the crowds and disciples before hard teaching because peace receives truth before hypocrisy has time to defend itself.
 
 The light on the path sometimes begins with hard teaching. Matthew 23:1 introduces Jesus speaking to the crowds and His disciples before a searching warning unfolds. He does not reserve truth only for opponents. Those who follow Him must also listen.
 
@@ -2341,7 +2341,7 @@ Walking with Jesus means letting Sabbath rest make the heart teachable under His
 
 **Scripture Reference:** Matthew 23:10
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' warning against misplaced religious titles because trusted Lordship means Christ alone gets the final forming authority over the disciple.
+**Context and language lens:** Jesus' warning against misplaced religious titles because trusted Lordship means Christ alone gets the final forming authority over the disciple.
 
 The invitation of Jesus is not only an invitation to come close. It is also an invitation to stop giving ultimate authority to every voice that wants to form us. Matthew 23:10 sits inside Jesus' correction of status-seeking religion. He is not attacking healthy teaching or humble leadership. He is correcting the heart that uses spiritual language to climb.
 
@@ -2369,7 +2369,7 @@ Walking with Jesus means letting Christ alone hold the final authority to form t
 
 **Scripture Reference:** Matthew 23:35
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Jesus naming the history of righteous blood because His light exposes how resistance to truth can dress itself in religious confidence.
+**Context and language lens:** Jesus naming the history of righteous blood because His light exposes how resistance to truth can dress itself in religious confidence.
 
 The Shepherd's voice is gentle, but it is not vague. Matthew 23:35 belongs to one of Jesus' searching warnings. He names a history of violence against righteousness, not to crush tender hearts, but to expose how far self-protective religion can go when it refuses truth.
 
@@ -2397,7 +2397,7 @@ Walking with Jesus means trusting the Shepherd enough to let His light expose wh
 
 **Scripture Reference:** Matthew 23:39
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' forward-looking lament over Jerusalem because following Him includes hope that waits for recognition, return, and restored sight.
+**Context and language lens:** Jesus' forward-looking lament over Jerusalem because following Him includes hope that waits for recognition, return, and restored sight.
 
 The road with Jesus carries lament and hope together. Matthew 23:39 comes after grief, warning, and holy ache. Jesus does not speak as one detached from the people before Him. His words carry the sorrow of rejected mercy and the promise that recognition is still part of the story.
 
@@ -2425,7 +2425,7 @@ Walking with Jesus means carrying sorrow in hope, not surrendering hope to sorro
 
 **Scripture Reference:** Matthew 23:8
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' instruction about one Teacher and the family of disciples because saving wholeness heals religious hierarchy into humble belonging.
+**Context and language lens:** Jesus' instruction about one Teacher and the family of disciples because saving wholeness heals religious hierarchy into humble belonging.
 
 The nearness of Christ changes how we see one another. Matthew 23:8 corrects the spirit that uses spiritual position to stand above people. Jesus gathers disciples under one true Teacher and reminds them that they belong to one another without superiority.
 
@@ -2453,7 +2453,7 @@ Walking with Jesus means letting His saving wholeness turn superiority into fami
 
 **Scripture Reference:** Matthew 24:1
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the disciples pointing out the temple buildings because peace learns not to anchor security in impressive visible structures.
+**Context and language lens:** The disciples pointing out the temple buildings because peace learns not to anchor security in impressive visible structures.
 
 The way of peace is tested by what impresses us. Matthew 24:1 shows the disciples noticing the temple buildings as they leave with Jesus. The scene feels ordinary, but it opens into deep teaching about what can and cannot hold.
 
@@ -2481,7 +2481,7 @@ Walking with Jesus means letting peace rest in Him more than in what looks perma
 
 **Scripture Reference:** Matthew 24:27
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' image of unmistakable coming because trusted Lordship frees the disciple from panic, secrecy, and fear-driven claims.
+**Context and language lens:** Jesus' image of unmistakable coming because trusted Lordship frees the disciple from panic, secrecy, and fear-driven claims.
 
 The table of grace steadies the heart when the world feels loud. Matthew 24:27 points toward the unmistakable visibility of Christ's coming. Jesus is not training His disciples to chase every rumor or live under spiritual panic. He is grounding them in the Lordship of the One whose return will not need manipulation.
 
@@ -2509,7 +2509,7 @@ Walking with Jesus means trusting His Lordship enough to live watchful without b
 
 **Scripture Reference:** Matthew 24:39
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Jesus' warning about unpreparedness because light awakens the heart to readiness without turning watchfulness into fear.
+**Context and language lens:** Jesus' warning about unpreparedness because light awakens the heart to readiness without turning watchfulness into fear.
 
 The healing touch of Jesus sometimes wakes us up. Matthew 24:39 looks back to people unaware until judgment came. Jesus is not inviting morbid fear. He is calling the disciple out of sleepy distraction and into faithful readiness.
 
@@ -2540,7 +2540,7 @@ Walking with Jesus means letting Sabbath rest awaken the heart to steady, hopefu
 
 **Scripture Reference:** Matthew 24:42
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' call to watchfulness because following Him includes awake attention, not anxious speculation.
+**Context and language lens:** Jesus' call to watchfulness because following Him includes awake attention, not anxious speculation.
 
 The call to follow becomes refined when Jesus teaches watchfulness. Matthew 24:42 is not an invitation to panic. It is an invitation to stay awake to the Lord in ordinary life. Jesus does not train disciples to live frantic. He trains them to live attentive.
 
@@ -2568,7 +2568,7 @@ Walking with Jesus means staying awake to Him without becoming anxious about tom
 
 **Scripture Reference:** Matthew 24:44
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' readiness command because saving wholeness prepares the heart through grace, not fear-driven urgency.
+**Context and language lens:** Jesus' readiness command because saving wholeness prepares the heart through grace, not fear-driven urgency.
 
 Cross-shaped courage is not denial of the future. It is readiness rooted in Jesus. Matthew 24:44 calls the disciple to be prepared because the Son of Man comes according to God's timing, not ours. The warning is serious, but it does not have to become panic.
 
@@ -2596,7 +2596,7 @@ Walking with Jesus means letting saving grace make you ready without making you 
 
 **Scripture Reference:** Matthew 24:45
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus' picture of the faithful servant because peace becomes visible through steady responsibility while the Lord is awaited.
+**Context and language lens:** Jesus' picture of the faithful servant because peace becomes visible through steady responsibility while the Lord is awaited.
 
 Resurrection hope becomes practical in the way we serve. Matthew 24:45 turns watchfulness into stewardship. Jesus points toward the servant who is faithful with the household assignment. Readiness is not only looking up. It is also doing the entrusted work with love.
 
@@ -2624,7 +2624,7 @@ Walking with Jesus means waiting for Him through faithful service, not passive d
 
 **Scripture Reference:** Matthew 24:46
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus blessing the servant found faithful because trusted Lordship heals the split between belief and daily doing.
+**Context and language lens:** Jesus blessing the servant found faithful because trusted Lordship heals the split between belief and daily doing.
 
 Healing in His presence begins with a faithful life becoming whole. Matthew 24:46 blesses the servant found doing what was entrusted. Jesus is not asking for showy spirituality. He is naming the beauty of faithfulness that continues when no one is clapping.
 
@@ -2652,7 +2652,7 @@ Walking with Jesus means letting His Lordship make belief and daily doing whole.
 
 **Scripture Reference:** Matthew 24:5
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Jesus' warning about deceptive claims because light protects the wounded heart from voices that misuse His name.
+**Context and language lens:** Jesus' warning about deceptive claims because light protects the wounded heart from voices that misuse His name.
 
 The invitation of Jesus is clear enough to protect us from false voices. Matthew 24:5 warns that many will misuse His name and mislead people. Jesus does not say this to make the disciple suspicious of everyone. He says it because love tells the truth before harm grows.
 
@@ -2680,7 +2680,7 @@ Walking with Jesus means letting His light guard your hope from counterfeit auth
 
 **Scripture Reference:** Matthew 24:50
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses the unexpected return of the master because discipleship is formed in hidden faithfulness when timing is unknown.
+**Context and language lens:** The unexpected return of the master because discipleship is formed in hidden faithfulness when timing is unknown.
 
 The Shepherd's voice carries into the hidden hours. Matthew 24:50 warns about the master coming at an unexpected time. The point is not to make the disciple guess the schedule. The point is to reveal the heart when it thinks no one is watching.
 
@@ -2708,7 +2708,7 @@ Walking with Jesus means staying faithful when timing is unknown and motives are
 
 **Scripture Reference:** Matthew 25:13
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' watchfulness command because saving readiness heals spiritual sleep into steady, Sabbath-shaped attention.
+**Context and language lens:** Jesus' watchfulness command because saving readiness heals spiritual sleep into steady, Sabbath-shaped attention.
 
 The road with Jesus is walked awake. Matthew 25:13 continues the call to watchfulness. Jesus does not reveal the timing so the heart can control it. He teaches the heart to stay ready because love is awake even when the hour is unknown.
 
@@ -2739,7 +2739,7 @@ Walking with Jesus means letting Sabbath rest heal the heart into watchful love.
 
 **Scripture Reference:** Matthew 25:19
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the master's return and accounting because peace becomes whole when stewardship is brought honestly before the Lord.
+**Context and language lens:** The master's return and accounting because peace becomes whole when stewardship is brought honestly before the Lord.
 
 The nearness of Christ changes how we think about accountability. Matthew 25:19 shows the master returning after a long time and settling accounts. Jesus is not teaching a cold spreadsheet faith. He is teaching that entrusted life matters.
 
@@ -2767,7 +2767,7 @@ Walking with Jesus means letting peace become honest stewardship before Him.
 
 **Scripture Reference:** Matthew 25:31
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the Son of Man in glory because Jesus' Lordship is not decoration; it is the authority that gathers, judges, and heals what is disordered.
+**Context and language lens:** The Son of Man in glory because Jesus' Lordship is not decoration; it is the authority that gathers, judges, and heals what is disordered.
 
 The way of peace is held by the Lord who reigns. Matthew 25:31 gives a majestic picture of the Son of Man coming in glory. The Jesus who walks near the wounded is also the King who will set things right. Tenderness and authority are not enemies in Him.
 
@@ -2795,7 +2795,7 @@ Walking with Jesus means receiving the healing authority of the King who is near
 
 **Scripture Reference:** Matthew 25:44
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses the question of missed mercy because Christ's light exposes blind spots where need was present but unnoticed.
+**Context and language lens:** The question of missed mercy because Christ's light exposes blind spots where need was present but unnoticed.
 
 The table of grace opens our eyes to people. Matthew 25:44 holds a painful question: when was Christ present in need and not recognized? Jesus brings mercy down from theory into hunger, welcome, sickness, loneliness, and overlooked suffering.
 
@@ -2823,7 +2823,7 @@ Walking with Jesus means letting His light turn unseen need into neighborly love
 
 **Scripture Reference:** Matthew 25:46
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses the sober contrast of final outcomes because discipleship takes mercy, life, and judgment seriously without using fear as manipulation.
+**Context and language lens:** The sober contrast of final outcomes because discipleship takes mercy, life, and judgment seriously without using fear as manipulation.
 
 The healing touch of Jesus does not make serious things light. Matthew 25:46 closes a sobering teaching. Jesus speaks with weight because mercy matters, life matters, and the direction of the heart matters.
 
@@ -2851,7 +2851,7 @@ Walking with Jesus means taking His words seriously enough to let mercy become a
 
 **Scripture Reference:** Revelation 1:2
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses John's witness to God's word and the testimony of Jesus because saving wholeness is strengthened by faithful testimony, not private spirituality alone.
+**Context and language lens:** John's witness to God's word and the testimony of Jesus because saving wholeness is strengthened by faithful testimony, not private spirituality alone.
 
 The call to follow is also a call to bear witness. Revelation 1:2 introduces testimony: God's word and the testimony of Jesus are received and faithfully held. John does not treat revelation as private decoration. He bears witness.
 
@@ -2879,7 +2879,7 @@ Walking with Jesus means letting His saving work become humble testimony.
 
 **Scripture Reference:** Revelation 1:4
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the greeting of grace and peace from the eternal God because peace is anchored in the One who is, was, and is coming.
+**Context and language lens:** The greeting of grace and peace from the eternal God because peace is anchored in the One who is, was, and is coming.
 
 Cross-shaped courage begins with grace and peace. Revelation 1:4 opens with a greeting that steadies the church under the eternal presence of God. The world may feel unstable, but God is not becoming Himself. He is faithful across every tense of time.
 
@@ -2907,7 +2907,7 @@ Walking with Jesus means receiving peace from the eternal God before pressure ge
 
 **Scripture Reference:** Revelation 1:5
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus as faithful witness, risen Lord, ruler, loving deliverer because trusted Lordship is grounded in resurrection, love, and redemption.
+**Context and language lens:** Jesus as faithful witness, risen Lord, ruler, loving deliverer because trusted Lordship is grounded in resurrection, love, and redemption.
 
 Resurrection hope has a name. Revelation 1:5 gathers the heart around Jesus: faithful witness, risen One, ruler, loving Deliverer. This is not thin encouragement. It is a throne-level hope with scars of love in it.
 
@@ -2938,7 +2938,7 @@ Walking with Jesus means resting under the risen Lord who loves, frees, and reig
 
 **Scripture Reference:** Revelation 1:8
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses God's declaration as Alpha and Omega because the light that heals begins with who God is before the day starts asking who we are.
+**Context and language lens:** God's declaration as Alpha and Omega because the light that heals begins with who God is before the day starts asking who we are.
 
 The Friend who leads is not limited by the part of the story we can see. Revelation 1:8 gathers time inside the faithfulness of God: beginning, ending, present, past, future, and almighty strength. The heart does not have to be its own horizon.
 
@@ -2966,7 +2966,7 @@ Walking with Jesus means letting God's eternal faithfulness become light for one
 
 **Scripture Reference:** Revelation 1:9
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses John's companionship in tribulation, kingdom, and patient endurance because following Jesus includes shared suffering and faithful steadiness.
+**Context and language lens:** John's companionship in tribulation, kingdom, and patient endurance because following Jesus includes shared suffering and faithful steadiness.
 
 The light on the path does not always remove hardship. Revelation 1:9 places John with the church as a brother and companion in tribulation, kingdom, and patient endurance in Jesus. He is not standing above the hurting. He is standing with them.
 
@@ -2994,7 +2994,7 @@ Walking with Jesus means receiving endurance as shared discipleship, not lonely 
 
 **Scripture Reference:** Revelation 22:17
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the Spirit's invitation to come and receive living water because Jesus' saving work is offered as rescue, healing, and wholeness for the thirsty.
+**Context and language lens:** The Spirit's invitation to come and receive living water because Jesus' saving work is offered as rescue, healing, and wholeness for the thirsty.
 
 The invitation of Jesus is not weak. Revelation 22:17 opens a holy welcome: the Spirit calls, the bride calls, the thirsty are invited, and the water of life is offered freely. Heaven's final movement is not stinginess. It is holy invitation.
 
@@ -3022,7 +3022,7 @@ Walking with Jesus means coming thirsty to the One who gives life freely.
 
 **Scripture Reference:** Revelation 22:19
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the warning about taking away from the words of the book because peace is formed by reverent trust in God's whole testimony, not by trimming hard truth until it feels safer.
+**Context and language lens:** The warning about taking away from the words of the book because peace is formed by reverent trust in God's whole testimony, not by trimming hard truth until it feels safer.
 
 The Shepherd's voice is gracious enough to tell the truth. Revelation 22:19 carries a serious warning about taking away from what God has given. This is not an invitation to panic. It is a call to reverence.
 
@@ -3050,7 +3050,7 @@ Walking with Jesus means letting peace be formed by the whole counsel of His tru
 
 **Scripture Reference:** Revelation 22:2
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the tree of life and healing of the nations because Jesus' Lordship leads history toward life, restoration, and healed communion.
+**Context and language lens:** The tree of life and healing of the nations because Jesus' Lordship leads history toward life, restoration, and healed communion.
 
 The road with Jesus leads toward healing. Revelation 22:2 gives a picture of life, fruitfulness, and leaves for the healing of the nations. The story does not end with exhaustion, division, or wound. It ends with the Lord's restoration.
 
@@ -3078,7 +3078,7 @@ Walking with Jesus means following the Lord whose road ends in restored life.
 
 **Scripture Reference:** Revelation 3:5
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Christ's promise to the conquering faithful because light exposes compromise while also giving identity, covering, and hope in His confession.
+**Context and language lens:** Christ's promise to the conquering faithful because light exposes compromise while also giving identity, covering, and hope in His confession.
 
 The nearness of Christ is both searching and comforting. Revelation 3:5 speaks of faithful overcoming, white garments, a name not erased, and confession before the Father and His angels. Jesus does not expose in order to abandon. He brings light so the heart can stay awake and receive His promise.
 
@@ -3106,7 +3106,7 @@ Walking with Jesus means receiving His light as both correction and promise.
 
 **Scripture Reference:** 1 Peter 5:1
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Peter's witness to Christ's sufferings and coming glory because discipleship follows Jesus through humble witness, shared suffering, and promised glory.
+**Context and language lens:** Peter's witness to Christ's sufferings and coming glory because discipleship follows Jesus through humble witness, shared suffering, and promised glory.
 
 The way of peace is not detached from suffering. 1 Peter 5:1 presents Peter as a fellow elder, a witness of Christ's sufferings, and a participant in the glory to be revealed. He leads from nearness, witness, humility, and hope.
 
@@ -3137,7 +3137,7 @@ Walking with Jesus means resting as one who follows the suffering and glorified 
 
 **Scripture Reference:** 1 Peter 5:13
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the closing greeting from fellow believers because saving wholeness includes being remembered, connected, and strengthened in spiritual family.
+**Context and language lens:** The closing greeting from fellow believers because saving wholeness includes being remembered, connected, and strengthened in spiritual family.
 
 The table of grace has names around it. 1 Peter 5:13 carries greeting, companionship, and spiritual affection from believers who share the road. It is a small line, but small lines can heal lonely places.
 
@@ -3165,7 +3165,7 @@ Walking with Jesus means letting grace reconnect the heart to faithful spiritual
 
 **Scripture Reference:** 1 Peter 5:3
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Peter's warning against domineering leadership because peace is formed when influence becomes example instead of control.
+**Context and language lens:** Peter's warning against domineering leadership because peace is formed when influence becomes example instead of control.
 
 The healing touch of Jesus refines how we use influence. 1 Peter 5:3 warns against domineering over those entrusted to our care and calls leaders to become examples. That word reaches far beyond formal titles.
 
@@ -3193,7 +3193,7 @@ Walking with Jesus means letting peace reshape the way we lead, correct, help, a
 
 **Scripture Reference:** Matthew 10:11
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' instruction about finding a worthy household because His Lordship gives discernment for where to stay, serve, and keep peace.
+**Context and language lens:** Jesus' instruction about finding a worthy household because His Lordship gives discernment for where to stay, serve, and keep peace.
 
 The call to follow includes discernment. Matthew 10:11 shows Jesus sending His disciples with practical instruction: look carefully, enter wisely, and stay faithfully where welcome and worthiness are found. Mission is not frantic wandering.
 
@@ -3221,7 +3221,7 @@ Walking with Jesus means trusting His Lordship to guide both movement and stayin
 
 **Scripture Reference:** Matthew 10:12
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Jesus' instruction to greet the household because light gives direction for entering spaces with peace before control.
+**Context and language lens:** Jesus' instruction to greet the household because light gives direction for entering spaces with peace before control.
 
 Cross-shaped courage can begin with a greeting. Matthew 10:12 is simple and practical: when the disciples enter a house, they are to greet it. Jesus sends His people with peace on their lips before proof in their hands.
 
@@ -3249,7 +3249,7 @@ Walking with Jesus means entering ordinary places with courage shaped by His pea
 
 **Scripture Reference:** Matthew 10:2
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses the naming of the twelve apostles because discipleship becomes concrete when Jesus calls real people into His mission.
+**Context and language lens:** The naming of the twelve apostles because discipleship becomes concrete when Jesus calls real people into His mission.
 
 Resurrection hope often begins with being named. Matthew 10:2 begins listing the apostles. These are not abstract symbols. They are people with stories, temperaments, limits, and futures Jesus will shape through following Him.
 
@@ -3277,7 +3277,7 @@ Walking with Jesus means letting His call turn an ordinary name into surrendered
 
 **Scripture Reference:** Matthew 10:3
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the continued naming of the apostles because Jesus' saving work gathers different people into one mission of mercy.
+**Context and language lens:** The continued naming of the apostles because Jesus' saving work gathers different people into one mission of mercy.
 
 The Friend who leads gathers people we might not have gathered. Matthew 10:3 continues naming disciples with different stories and callings. Jesus does not build His mission from one personality type.
 
@@ -3305,7 +3305,7 @@ Walking with Jesus means trusting the Friend who leads different people into one
 
 **Scripture Reference:** Matthew 10:35
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus' hard word about divided households because peace as wholeness is not false calm; it is allegiance to Christ ordered by love and truth.
+**Context and language lens:** Jesus' hard word about divided households because peace as wholeness is not false calm; it is allegiance to Christ ordered by love and truth.
 
 The light on the path sometimes exposes false peace. Matthew 10:35 is a hard saying. Jesus does not pretend that allegiance to Him will always be understood, welcomed, or easy inside the closest relationships.
 
@@ -3336,7 +3336,7 @@ Walking with Jesus means breathing truthful peace when allegiance to Him is cost
 
 **Scripture Reference:** Matthew 10:37
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' call to supreme allegiance because His Lordship heals loves that have become disordered, fearful, or ultimate.
+**Context and language lens:** Jesus' call to supreme allegiance because His Lordship heals loves that have become disordered, fearful, or ultimate.
 
 The invitation of Jesus is beautiful, but it is not casual. Matthew 10:37 presses into the deepest loves of home and family. Jesus is not teaching coldness. He is revealing that every love becomes safer when He is Lord over it.
 
@@ -3364,7 +3364,7 @@ Walking with Jesus means letting His Lordship make every other love more truthfu
 
 **Scripture Reference:** Matthew 10:39
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Jesus' paradox of losing and finding life because His light exposes self-preservation that keeps the soul from freedom.
+**Context and language lens:** Jesus' paradox of losing and finding life because His light exposes self-preservation that keeps the soul from freedom.
 
 The Shepherd's voice can sound like loss before it feels like life. Matthew 10:39 brings a holy paradox: the life we clutch can slip away, while the life surrendered to Jesus is found.
 
@@ -3392,7 +3392,7 @@ Walking with Jesus means losing fear's version of life to find the life Christ g
 
 **Scripture Reference:** Matthew 10:42
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' promise about giving a cup of cold water because discipleship becomes visible in small acts of mercy done for His sake.
+**Context and language lens:** Jesus' promise about giving a cup of cold water because discipleship becomes visible in small acts of mercy done for His sake.
 
 The road with Jesus honors small mercy. Matthew 10:42 lifts a cup of cold water into kingdom significance. Jesus sees love that may look ordinary to everyone else.
 
@@ -3420,7 +3420,7 @@ Walking with Jesus means letting small mercy become part of the road.
 
 **Scripture Reference:** Matthew 10:8
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' command to heal and give freely because saving wholeness received from Christ is meant to move outward as generous mercy.
+**Context and language lens:** Jesus' command to heal and give freely because saving wholeness received from Christ is meant to move outward as generous mercy.
 
 The nearness of Christ is generous. Matthew 10:8 sends disciples into healing work and reminds them that what they have received freely must be given freely. Grace is not meant to stop with the receiver.
 
@@ -3448,7 +3448,7 @@ Walking with Jesus means freely offering mercy because mercy has freely found us
 
 **Scripture Reference:** Matthew 12:10
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the biblical Sabbath healing question because peace is made whole when mercy is allowed to stand in the middle of scrutiny.
+**Context and language lens:** The biblical Sabbath healing question because peace is made whole when mercy is allowed to stand in the middle of scrutiny.
 
 The way of peace is not intimidated by watchful criticism. Matthew 12:10 places a suffering person in a tense religious setting. A question about healing becomes a test, but Jesus sees the person, not only the pressure.
 
@@ -3476,7 +3476,7 @@ Walking with Jesus means letting His peace make mercy brave.
 
 **Scripture Reference:** Matthew 12:2
 
-**Production lens correction:** The architecture assigned `hodos`; the production lens uses the biblical Sabbath controversy over hunger and accusation because learning Jesus' voice means discerning mercy from religious suspicion.
+**Context and language lens:** The biblical Sabbath controversy over hunger and accusation because learning Jesus' voice means discerning mercy from religious suspicion.
 
 The healing touch of Jesus begins to teach His voice. Matthew 12:2 shows accusation rising around hungry disciples in a biblical Sabbath context. The issue is not only grain. It is how quickly religious suspicion can speak before mercy listens.
 
@@ -3504,7 +3504,7 @@ Walking with Jesus means learning His voice until mercy becomes easier to hear.
 
 **Scripture Reference:** Matthew 12:22
 
-**Production lens correction:** The architecture assigned `anastasis`; the production lens uses Jesus' healing of a bound, blind, and mute man because resurrection hope is life rising where finality seemed to speak.
+**Context and language lens:** Jesus' healing of a bound, blind, and mute man because resurrection hope is life rising where finality seemed to speak.
 
 The call to follow listens for life where finality has been loud. Matthew 12:22 shows Jesus healing a man whose suffering had closed sight and speech. The crowd sees what only Christ could make whole.
 
@@ -3535,7 +3535,7 @@ Walking with Jesus means following the voice that calls life out of finality.
 
 **Scripture Reference:** Matthew 12:23
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses the crowd's question about Jesus because abiding begins when wonder is allowed to become surrendered attention instead of passing curiosity.
+**Context and language lens:** The crowd's question about Jesus because abiding begins when wonder is allowed to become surrendered attention instead of passing curiosity.
 
 Peace can begin with a question. Matthew 12:23 shows people amazed by what Jesus has done and asking whether He could be the promised Son of David. Their wonder is not yet full surrender, but it has opened a door.
 
@@ -3563,7 +3563,7 @@ Walking with Jesus means letting holy wonder become abiding faith.
 
 **Scripture Reference:** Matthew 12:25
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses Jesus' knowledge of divided thoughts and divided kingdoms because His compassion moves toward wholeness, not denial.
+**Context and language lens:** Jesus' knowledge of divided thoughts and divided kingdoms because His compassion moves toward wholeness, not denial.
 
 Jesus is not confused by division. Matthew 12:25 says He knew their thoughts and answered the danger beneath them. He sees what is said aloud and what is being protected underneath.
 
@@ -3591,7 +3591,7 @@ Walking with Jesus means letting His compassionate truth make the heart whole.
 
 **Scripture Reference:** Matthew 12:28
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus' words about the Spirit of God and the nearness of the kingdom because the Teacher forms us to recognize God's rule when it arrives.
+**Context and language lens:** Jesus' words about the Spirit of God and the nearness of the kingdom because the Teacher forms us to recognize God's rule when it arrives.
 
 The Friend who leads does not always arrive with noise. Matthew 12:28 points to the Spirit of God and the kingdom of God breaking into the present moment through Jesus' authority. Heaven is not theoretical when Christ is at work.
 
@@ -3619,7 +3619,7 @@ Walking with Jesus means letting the Teacher form your ear for the kingdom.
 
 **Scripture Reference:** Matthew 12:38
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the request for a sign because Jesus' way exposes the heart that wants proof without surrender.
+**Context and language lens:** The request for a sign because Jesus' way exposes the heart that wants proof without surrender.
 
 Sometimes the heart asks for another sign when obedience is already clear. Matthew 12:38 shows religious leaders asking Jesus for a sign, not from tender trust, but from a posture that wanted to evaluate Him without yielding to Him.
 
@@ -3647,7 +3647,7 @@ Walking with Jesus means following the light you have already been given.
 
 **Scripture Reference:** Matthew 12:40
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus' sign of Jonah because resurrection hope is the deep answer beneath every demand for proof.
+**Context and language lens:** Jesus' sign of Jonah because resurrection hope is the deep answer beneath every demand for proof.
 
 Grace forms the invitation around the cross and the resurrection. Matthew 12:40 points toward Jesus' death, burial, and rising through the sign of Jonah. He does not answer shallow testing with a performance. He points to the saving center.
 
@@ -3675,7 +3675,7 @@ Walking with Jesus means letting resurrection hope train the ear away from final
 
 **Scripture Reference:** Matthew 12:44
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus' warning about an empty house because abiding in Christ is more than being swept clean; the heart must be filled and kept by Him.
+**Context and language lens:** Jesus' warning about an empty house because abiding in Christ is more than being swept clean; the heart must be filled and kept by Him.
 
 The Shepherd's voice does more than empty a room. Matthew 12:44 warns of a house swept, ordered, and still empty. The image is sober because a life can look improved and still remain uninhabited by surrender.
 
@@ -3703,7 +3703,7 @@ Walking with Jesus means letting Christ inhabit what He has cleaned.
 
 **Scripture Reference:** Matthew 12:49
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses Jesus' gesture toward His disciples because His compassion gathers a new family around obedience to the Father's will.
+**Context and language lens:** Jesus' gesture toward His disciples because His compassion gathers a new family around obedience to the Father's will.
 
 The road with Jesus becomes a family road. Matthew 12:49 shows Jesus stretching His hand toward His disciples. He is not shrinking love; He is revealing the grace that gathers people into belonging through the Father's will.
 
@@ -3734,7 +3734,7 @@ Walking with Jesus means following the road where compassion becomes family.
 
 **Scripture Reference:** Matthew 13:1
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus sitting beside the sea because the Teacher forms hearts in ordinary places, not only formal religious settings.
+**Context and language lens:** Jesus sitting beside the sea because the Teacher forms hearts in ordinary places, not only formal religious settings.
 
 The nearness of Christ can meet you beside the water, at the table, in the car, or in the quiet space before the day becomes loud. Matthew 13:1 places Jesus outside the house and by the sea, ready to teach in a setting that feels both ordinary and holy.
 
@@ -3762,7 +3762,7 @@ Walking with Jesus means being formed by His voice in ordinary places.
 
 **Scripture Reference:** Matthew 13:10
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the disciples' question about parables because the way of Jesus welcomes honest questions that stay close to Him.
+**Context and language lens:** The disciples' question about parables because the way of Jesus welcomes honest questions that stay close to Him.
 
 Peace does not require pretending every mystery is simple. Matthew 13:10 shows the disciples bringing their question to Jesus. They do not understand everything, but they come near enough to ask.
 
@@ -3790,7 +3790,7 @@ Walking with Jesus means letting honest questions keep you near enough to hear.
 
 **Scripture Reference:** Matthew 13:12
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus' teaching about receiving more light because resurrection-shaped hope grows where the heart stays responsive to what has already been given.
+**Context and language lens:** Jesus' teaching about receiving more light because resurrection-shaped hope grows where the heart stays responsive to what has already been given.
 
 Grace is generous, but it also trains response. Matthew 13:12 is sober because Jesus speaks about receiving, having, and losing. He is not playing games with the heart. He is teaching that receptivity matters.
 
@@ -3818,7 +3818,7 @@ Walking with Jesus means letting received light become living response.
 
 **Scripture Reference:** Matthew 13:15
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus' warning about dull hearts, ears, and eyes because abiding keeps the heart soft enough to receive healing.
+**Context and language lens:** Jesus' warning about dull hearts, ears, and eyes because abiding keeps the heart soft enough to receive healing.
 
 Jesus tells the truth about spiritual dullness because He wants healing, not distance. Matthew 13:15 names a heart grown heavy, ears slow to hear, and eyes closed. The warning is serious, but the desire underneath it is restoration.
 
@@ -3846,7 +3846,7 @@ Walking with Jesus means abiding until the heart can hear again.
 
 **Scripture Reference:** Matthew 13:22
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the thorn-choked soil because Jesus' compassion sees how worry, pressure, and false security can choke the word before it bears fruit.
+**Context and language lens:** The thorn-choked soil because Jesus' compassion sees how worry, pressure, and false security can choke the word before it bears fruit.
 
 Jesus knows how a heart gets choked. Matthew 13:22 speaks of the word being crowded by the cares of the world and the deceitfulness of riches. This is not only about wealth. It is about whatever promises safety while stealing fruitfulness.
 
@@ -3874,7 +3874,7 @@ Walking with Jesus means letting compassion pull thorns from the heart.
 
 **Scripture Reference:** Matthew 13:25
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses the enemy sowing weeds because the Teacher forms watchfulness without fear and patience without passivity.
+**Context and language lens:** The enemy sowing weeds because the Teacher forms watchfulness without fear and patience without passivity.
 
 Jesus teaches with clear eyes. Matthew 13:25 names the reality of an enemy sowing weeds while people slept. He does not pretend opposition is imaginary, but He also does not train His disciples to live frantic and suspicious.
 
@@ -3902,7 +3902,7 @@ Walking with Jesus means learning watchfulness that remains rooted in trust.
 
 **Scripture Reference:** Matthew 13:32
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the mustard seed because the road of Jesus honors small beginnings that become sheltering grace.
+**Context and language lens:** The mustard seed because the road of Jesus honors small beginnings that become sheltering grace.
 
 Mercy often begins smaller than we expected. Matthew 13:32 points to a tiny seed that grows into something large enough to give shelter. The kingdom does not need to impress the impatient in order to be real.
 
@@ -3933,7 +3933,7 @@ Walking with Jesus means following the road where small mercy becomes shelter.
 
 **Scripture Reference:** Matthew 13:34
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus teaching in parables because resurrection-shaped hope can awaken the heart through truth that invites listening instead of shallow consumption.
+**Context and language lens:** Jesus teaching in parables because resurrection-shaped hope can awaken the heart through truth that invites listening instead of shallow consumption.
 
 Jesus knew how to teach in a way that made people listen beneath the surface. Matthew 13:34 shows Him speaking to the crowds in parables. He was not hiding truth from hungry hearts. He was inviting listeners to come awake.
 
@@ -3961,7 +3961,7 @@ Walking with Jesus means letting His voice awaken life beneath the surface.
 
 **Scripture Reference:** Matthew 13:37
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus identifying the sower of good seed because abiding begins with knowing whose field, seed, and work we belong to.
+**Context and language lens:** Jesus identifying the sower of good seed because abiding begins with knowing whose field, seed, and work we belong to.
 
 Jesus names the source of the good seed. Matthew 13:37 points back to Him as the One who sows what is good. The field is not abandoned, and the seed is not accidental.
 
@@ -3989,7 +3989,7 @@ Walking with Jesus means remaining with the Sower instead of trying to become Hi
 
 **Scripture Reference:** Matthew 13:4
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the seed falling beside the path because Jesus' compassion names hardened places before the word is stolen away.
+**Context and language lens:** The seed falling beside the path because Jesus' compassion names hardened places before the word is stolen away.
 
 The invitation of Jesus is tender enough to tell the truth. Matthew 13:4 describes seed falling beside the path and being taken away. The image is simple, but it reaches into a serious place: the word can land near a heart without entering it.
 
@@ -4017,7 +4017,7 @@ Walking with Jesus means letting compassion make room for the word to enter.
 
 **Scripture Reference:** Matthew 13:41
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus' teaching about removing what causes sin because the Teacher forms holiness as hope, not terror.
+**Context and language lens:** Jesus' teaching about removing what causes sin because the Teacher forms holiness as hope, not terror.
 
 Jesus does not teach holiness casually. Matthew 13:41 speaks of the Son of Man gathering out what causes sin and lawlessness. The language is sober because evil is not harmless.
 
@@ -4045,7 +4045,7 @@ Walking with Jesus means letting the Teacher form holiness without fear.
 
 **Scripture Reference:** Matthew 13:48
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the sorting of the full net because the road with Jesus includes discernment, endurance, and a sober trust that final judgment belongs to God.
+**Context and language lens:** The sorting of the full net because the road with Jesus includes discernment, endurance, and a sober trust that final judgment belongs to God.
 
 The road with Jesus is merciful, but it is not careless. Matthew 13:48 pictures a full net and a sorting. The image reminds us that not everything gathered belongs to the same end.
 
@@ -4073,7 +4073,7 @@ Walking with Jesus means practicing discernment without taking God's seat.
 
 **Scripture Reference:** Matthew 13:49
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus' teaching about the end of the age because resurrection hope gives holy seriousness without panic.
+**Context and language lens:** Jesus' teaching about the end of the age because resurrection hope gives holy seriousness without panic.
 
 The nearness of Christ gives courage to face serious truth. Matthew 13:49 speaks about the end of the age and the separation of what is wicked from what is righteous. Jesus is not vague about final reality.
 
@@ -4101,7 +4101,7 @@ Walking with Jesus means letting resurrection hope make obedience sober and free
 
 **Scripture Reference:** Matthew 13:53
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus finishing the parables and moving on because abiding includes carrying the word after the lesson ends.
+**Context and language lens:** Jesus finishing the parables and moving on because abiding includes carrying the word after the lesson ends.
 
 Jesus finished these parables and departed from there. Matthew 13:53 gives a simple transition, but transitions matter. The lesson does not end when the teaching moment ends. The word now has to be carried.
 
@@ -4132,7 +4132,7 @@ Walking with Jesus means remaining with the word after the lesson ends.
 
 **Scripture Reference:** Matthew 13:54
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses Jesus teaching in His hometown because His compassion keeps offering wisdom even where familiarity may resist it.
+**Context and language lens:** Jesus teaching in His hometown because His compassion keeps offering wisdom even where familiarity may resist it.
 
 Jesus brought wisdom close to home. Matthew 13:54 shows Him teaching in His own country, and people were astonished. The grace of God was near, but nearness can expose the heart as much as distance can.
 
@@ -4160,7 +4160,7 @@ Walking with Jesus means receiving grace even when it comes through familiar doo
 
 **Scripture Reference:** Matthew 13:55
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses the people's questions about Jesus' family and ordinary background because the Teacher often comes wrapped in humility.
+**Context and language lens:** The people's questions about Jesus' family and ordinary background because the Teacher often comes wrapped in humility.
 
 People can miss glory when it arrives without the packaging they expected. Matthew 13:55 shows the crowd naming Jesus by His family and trade context. They knew facts about Him, but facts without faith can still resist the truth.
 
@@ -4188,7 +4188,7 @@ Walking with Jesus means letting the humble Teacher heal the way we see.
 
 **Scripture Reference:** Matthew 13:57
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses Jesus' rejection in His hometown because the road with Him includes faithfulness when honor is withheld.
+**Context and language lens:** Jesus' rejection in His hometown because the road with Him includes faithfulness when honor is withheld.
 
 Jesus knows what it is to be dishonored by familiar people. Matthew 13:57 names the painful pattern of a prophet being without honor in his own country and house. Rejection did not make Jesus less true.
 
@@ -4216,7 +4216,7 @@ Walking with Jesus means following Him even when honor is withheld.
 
 **Scripture Reference:** Matthew 13:6
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses the scorched seed because resurrection-shaped hope grows roots before heat tests the heart.
+**Context and language lens:** The scorched seed because resurrection-shaped hope grows roots before heat tests the heart.
 
 The sun reveals what the soil has not yet held. Matthew 13:6 describes growth that springs up quickly but withers under heat because there is no root. Jesus is teaching more than gardening. He is teaching endurance.
 
@@ -4244,7 +4244,7 @@ Walking with Jesus means letting hope grow roots before the heat comes.
 
 **Scripture Reference:** Matthew 14:1
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Herod hearing reports about Jesus because abiding helps the heart remain steady when powerful voices misunderstand or misname Christ.
+**Context and language lens:** Herod hearing reports about Jesus because abiding helps the heart remain steady when powerful voices misunderstand or misname Christ.
 
 Not every report about Jesus is clear, humble, or true. Matthew 14:1 shows Herod hearing about Jesus. Power hears the rumor, but hearing is not the same as surrender.
 
@@ -4272,7 +4272,7 @@ Walking with Jesus means remaining steady when noise misnames the truth.
 
 **Scripture Reference:** Matthew 14:10
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the death of John the Baptist with restraint, allowing Christ's compassion to meet grief, injustice, and holy witness without graphic detail.
+**Context and language lens:** The death of John the Baptist with restraint, allowing Christ's compassion to meet grief, injustice, and holy witness without graphic detail.
 
 Some verses carry grief without needing many words. Matthew 14:10 records the death of John the Baptist. The moment is unjust, sobering, and painful. Faith does not have to pretend otherwise.
 
@@ -4300,7 +4300,7 @@ Walking with Jesus means letting compassion hold grief and courage together.
 
 **Scripture Reference:** Matthew 14:16
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus' instruction to feed the crowd because the Teacher forms compassionate participation instead of sending need away.
+**Context and language lens:** Jesus' instruction to feed the crowd because the Teacher forms compassionate participation instead of sending need away.
 
 Jesus did not let need become someone else's problem. Matthew 14:16 shows Him telling the disciples that the crowd did not need to go away and calling them into participation. Compassion became assignment.
 
@@ -4331,7 +4331,7 @@ Walking with Jesus means learning from the Teacher who turns compassion into sha
 
 **Scripture Reference:** Matthew 14:19
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses Jesus blessing, breaking, and giving bread because the road with Him invites the reader to bring what feels small into His hands.
+**Context and language lens:** Jesus blessing, breaking, and giving bread because the road with Him invites the reader to bring what feels small into His hands.
 
 Jesus did not despise what was placed before Him. Matthew 14:19 shows Him taking bread, looking to heaven, blessing, breaking, and giving. The miracle moved through His hands.
 
@@ -4359,7 +4359,7 @@ Walking with Jesus means trusting the road where small surrender passes through 
 
 **Scripture Reference:** Matthew 14:2
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Herod's fearful resurrection language because peace in the storm requires hearing truth beyond fear's interpretation.
+**Context and language lens:** Herod's fearful resurrection language because peace in the storm requires hearing truth beyond fear's interpretation.
 
 Fear can build a story around what it hears. Matthew 14:2 shows Herod interpreting Jesus through his own troubled conscience and fear. He hears power, but not peace.
 
@@ -4387,7 +4387,7 @@ Walking with Jesus means letting resurrection hope correct fear's story.
 
 **Scripture Reference:** Matthew 14:25
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus coming to the disciples on the sea because abiding learns nearness even when help arrives in the storm.
+**Context and language lens:** Jesus coming to the disciples on the sea because abiding learns nearness even when help arrives in the storm.
 
 Jesus came to them in the dark watch of the night. Matthew 14:25 places Him on the sea, moving toward frightened disciples while the storm was still real. His nearness did not wait for calm water.
 
@@ -4415,7 +4415,7 @@ Walking with Jesus means remaining awake to His presence in the storm.
 
 **Scripture Reference:** Matthew 14:26
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the disciples' fear when they misrecognized Jesus because His compassion meets terror with truth.
+**Context and language lens:** The disciples' fear when they misrecognized Jesus because His compassion meets terror with truth.
 
 Storms can make the heart misread help. Matthew 14:26 shows the disciples terrified because they did not recognize Jesus as He came toward them. Fear can turn nearness into threat.
 
@@ -4443,7 +4443,7 @@ Walking with Jesus means letting compassion teach the frightened heart to see.
 
 **Scripture Reference:** Matthew 14:3
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses John's imprisonment because the Teacher forms peace that does not deny injustice or surrender courage.
+**Context and language lens:** John's imprisonment because the Teacher forms peace that does not deny injustice or surrender courage.
 
 The storm sometimes begins before the waves. Matthew 14:3 remembers John being bound and imprisoned. This is not easy material, but Scripture does not hide the cost of faithfulness.
 
@@ -4471,7 +4471,7 @@ Walking with Jesus means being formed by grace even when the story is hard.
 
 **Scripture Reference:** Matthew 14:30
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses Peter seeing the wind and crying out because the road with Jesus turns panic into prayer.
+**Context and language lens:** Peter seeing the wind and crying out because the road with Jesus turns panic into prayer.
 
 Peter saw the wind and began to sink. Matthew 14:30 is honest about how quickly courage can become fear. But the verse also shows panic becoming prayer.
 
@@ -4499,7 +4499,7 @@ Walking with Jesus means letting sinking become the place where prayer gets hone
 
 **Scripture Reference:** Matthew 14:31
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus immediately reaching for Peter because resurrection-shaped hope often begins with the saving hand of Christ in the storm.
+**Context and language lens:** Jesus immediately reaching for Peter because resurrection-shaped hope often begins with the saving hand of Christ in the storm.
 
 Jesus reached immediately. Matthew 14:31 shows His hand meeting Peter in the moment of sinking. His correction came with rescue, not after rescue had been withheld.
 
@@ -4530,7 +4530,7 @@ Walking with Jesus means surrendering to the hand that saves and the voice that 
 
 **Scripture Reference:** Matthew 14:32
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses the wind ceasing when Jesus and Peter entered the boat because abiding peace is learned near Christ, not by mastering the storm from a distance.
+**Context and language lens:** The wind ceasing when Jesus and Peter entered the boat because abiding peace is learned near Christ, not by mastering the storm from a distance.
 
 Matthew 14:32 brings the storm to a quiet turning point. Jesus and Peter come into the boat, and the wind ceases. The rescue does not stay private; it becomes a witness before the others who were afraid.
 
@@ -4558,7 +4558,7 @@ Walking with Jesus means staying near the One whose presence can quiet what your
 
 **Scripture Reference:** Matthew 15:1
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the arrival of Pharisees and scribes from Jerusalem because Christ's compassionate steadiness is visible when scrutiny and religious pressure enter the room.
+**Context and language lens:** The arrival of Pharisees and scribes from Jerusalem because Christ's compassionate steadiness is visible when scrutiny and religious pressure enter the room.
 
 Matthew 15:1 opens a scene of inspection. Religious leaders come from Jerusalem to question Jesus. The pressure is public, serious, and wrapped in spiritual language.
 
@@ -4586,7 +4586,7 @@ Walking with Jesus means breathing hope when criticism tries to become the air.
 
 **Scripture Reference:** Matthew 15:11
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus' teaching about what truly defiles because the Teacher forms a clean heart, not merely a careful exterior.
+**Context and language lens:** Jesus' teaching about what truly defiles because the Teacher forms a clean heart, not merely a careful exterior.
 
 Jesus moves the conversation from surface religion to the deeper place. Matthew 15:11 teaches that the problem is not solved by managing appearances. The heart and its overflow matter before God.
 
@@ -4614,7 +4614,7 @@ Walking with Jesus means letting His instruction reach the heart before the mout
 
 **Scripture Reference:** Matthew 15:12
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the disciples' concern that the Pharisees were offended because the way of Jesus requires truthful steps without pride or performative harshness.
+**Context and language lens:** The disciples' concern that the Pharisees were offended because the way of Jesus requires truthful steps without pride or performative harshness.
 
 The disciples notice the offense. Matthew 15:12 shows them bringing to Jesus the reaction of those who had heard Him. Truth had disturbed people who were confident in their own religious footing.
 
@@ -4642,7 +4642,7 @@ Walking with Jesus means letting His way keep you honest when others are displea
 
 **Scripture Reference:** Matthew 15:16
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus' question about understanding because resurrection hope includes the patient mercy of Christ for slow learners.
+**Context and language lens:** Jesus' question about understanding because resurrection hope includes the patient mercy of Christ for slow learners.
 
 Jesus asks a searching question in Matthew 15:16. His disciples still do not understand. They are near Him, listening to Him, and still learning slowly.
 
@@ -4670,7 +4670,7 @@ Walking with Jesus means receiving His patient correction as mercy, not rejectio
 
 **Scripture Reference:** Matthew 15:18
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus' teaching about speech proceeding from the heart because abiding with Christ anchors the source, not only the expression.
+**Context and language lens:** Jesus' teaching about speech proceeding from the heart because abiding with Christ anchors the source, not only the expression.
 
 Matthew 15:18 keeps the focus on the heart. What comes out has a source. Words are not random when pressure squeezes them into the open.
 
@@ -4698,7 +4698,7 @@ Walking with Jesus means letting His voice shape the heart that speaks.
 
 **Scripture Reference:** Matthew 15:2
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the tradition-of-the-elders controversy because Christ's compassion frees the heart from confusing human performance rules with the mercy and commandments of God.
+**Context and language lens:** The tradition-of-the-elders controversy because Christ's compassion frees the heart from confusing human performance rules with the mercy and commandments of God.
 
 Matthew 15:2 brings a question about tradition into the open. The issue is not reverence for God, but the danger of letting human rules become a measure of faithfulness while the heart drifts from mercy.
 
@@ -4729,7 +4729,7 @@ Walking with Jesus means discovering the road where holiness and mercy are not e
 
 **Scripture Reference:** Matthew 15:21
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus withdrawing toward Tyre and Sidon because the Teacher forms trust even when His path moves into unfamiliar borderland.
+**Context and language lens:** Jesus withdrawing toward Tyre and Sidon because the Teacher forms trust even when His path moves into unfamiliar borderland.
 
 Matthew 15:21 moves Jesus into the region of Tyre and Sidon. The scene shifts away from the expected center. The road is not random; the Teacher is still leading.
 
@@ -4757,7 +4757,7 @@ Walking with Jesus means trusting the Teacher beyond familiar ground.
 
 **Scripture Reference:** Matthew 15:25
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the woman's kneeling plea for help because the way of Jesus makes prayer honest, direct, and humble under pressure.
+**Context and language lens:** The woman's kneeling plea for help because the way of Jesus makes prayer honest, direct, and humble under pressure.
 
 Matthew 15:25 shows a woman coming close, kneeling, and asking Jesus for help. Her need is not polished into religious distance. It becomes a direct approach to Christ.
 
@@ -4785,7 +4785,7 @@ Walking with Jesus means bringing pressure to Him before it hardens into distanc
 
 **Scripture Reference:** Matthew 15:28
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus' response to the woman's faith and the healing of her daughter because resurrection hope rises where persistence meets mercy.
+**Context and language lens:** Jesus' response to the woman's faith and the healing of her daughter because resurrection hope rises where persistence meets mercy.
 
 Matthew 15:28 turns persistence into testimony. Jesus sees the woman's faith, and mercy reaches the need she has carried to Him. The storm around her household does not get the final word.
 
@@ -4813,7 +4813,7 @@ Walking with Jesus means letting grace have the final voice over what felt final
 
 **Scripture Reference:** Matthew 15:29
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus going by the Sea of Galilee, going up the mountain, and sitting there because healing presence begins with remaining near the One who receives the needy.
+**Context and language lens:** Jesus going by the Sea of Galilee, going up the mountain, and sitting there because healing presence begins with remaining near the One who receives the needy.
 
 Matthew 15:29 places Jesus by the sea, then on the mountain, seated and present. He is not frantic. He is available.
 
@@ -4841,7 +4841,7 @@ Walking with Jesus means remaining near Him until your help is shaped by His pea
 
 **Scripture Reference:** Matthew 15:33
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the disciples' question about feeding a crowd in a desolate place because Christ's compassion meets honest lack without despising the question.
+**Context and language lens:** The disciples' question about feeding a crowd in a desolate place because Christ's compassion meets honest lack without despising the question.
 
 Matthew 15:33 lets the disciples speak the visible problem. The place seems empty. The crowd is large. Their resources feel insufficient.
 
@@ -4869,7 +4869,7 @@ Walking with Jesus means naming lack without surrendering trust.
 
 **Scripture Reference:** Matthew 15:34
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus asking about the available loaves because the Teacher begins with surrendered reality, not imagined abundance.
+**Context and language lens:** Jesus asking about the available loaves because the Teacher begins with surrendered reality, not imagined abundance.
 
 Jesus asks what is available. Matthew 15:34 brings the disciples from overwhelm to inventory. The Teacher does not ask them to pretend they have more than they have.
 
@@ -4897,7 +4897,7 @@ Walking with Jesus means letting the Teacher begin with what is truly in your ha
 
 **Scripture Reference:** Matthew 15:36
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses Jesus giving thanks, breaking, and giving because the road with Him turns surrendered provision into shared mercy.
+**Context and language lens:** Jesus giving thanks, breaking, and giving because the road with Him turns surrendered provision into shared mercy.
 
 Matthew 15:36 shows Jesus receiving what is present, giving thanks, breaking, and giving. The movement is quiet and holy: received, blessed, broken, shared.
 
@@ -4928,7 +4928,7 @@ Walking with Jesus means letting Sabbath rest teach thanksgiving on the road of 
 
 **Scripture Reference:** Matthew 15:39
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus sending the crowd away, entering the boat, and moving to Magadan because resurrection hope keeps the heart alive when one faithful season ends and the next crossing begins.
+**Context and language lens:** Jesus sending the crowd away, entering the boat, and moving to Magadan because resurrection hope keeps the heart alive when one faithful season ends and the next crossing begins.
 
 Matthew 15:39 is a movement verse. The crowd has been fed. Jesus sends them away, enters the boat, and goes on. Mercy does not become stagnation.
 
@@ -4956,7 +4956,7 @@ Walking with Jesus means letting hope rise when He leads forward.
 
 **Scripture Reference:** Matthew 16:17
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus blessing Peter because revelation from the Father becomes a place to abide, not a trophy to hold.
+**Context and language lens:** Jesus blessing Peter because revelation from the Father becomes a place to abide, not a trophy to hold.
 
 Matthew 16:17 shows Jesus blessing Peter for receiving what human cleverness could not produce. The Father has revealed truth, and Jesus names the grace in that moment.
 
@@ -4984,7 +4984,7 @@ Walking with Jesus means abiding in the light He has already given.
 
 **Scripture Reference:** Matthew 16:22
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses Peter resisting Jesus' suffering because compassion must be purified by the cross, not driven by fear of costly obedience.
+**Context and language lens:** Peter resisting Jesus' suffering because compassion must be purified by the cross, not driven by fear of costly obedience.
 
 Matthew 16:22 is a tender and dangerous moment. Peter reacts to Jesus' words about suffering. He means to protect, but he does not yet understand the way of the cross.
 
@@ -5012,7 +5012,7 @@ Walking with Jesus means letting compassion become cross-shaped instead of fear-
 
 **Scripture Reference:** Matthew 16:25
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus' teaching about losing and finding life because the Teacher forms surrender deeper than self-preservation.
+**Context and language lens:** Jesus' teaching about losing and finding life because the Teacher forms surrender deeper than self-preservation.
 
 Matthew 16:25 cuts beneath surface religion. Jesus teaches that self-preservation cannot save the soul. Life is found by surrendering to Him.
 
@@ -5040,7 +5040,7 @@ Walking with Jesus means trusting the Teacher when surrender feels like loss.
 
 **Scripture Reference:** Matthew 16:28
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses Jesus' promise that some would see the Son of Man coming in His kingdom because the road with Him is strengthened by glimpses of coming glory.
+**Context and language lens:** Jesus' promise that some would see the Son of Man coming in His kingdom because the road with Him is strengthened by glimpses of coming glory.
 
 Matthew 16:28 gives the disciples a forward-looking word. Jesus speaks of coming kingdom glory after calling them into costly discipleship. The road is hard, but it is not empty.
 
@@ -5068,7 +5068,7 @@ Walking with Jesus means letting coming glory steady present obedience.
 
 **Scripture Reference:** Matthew 16:6
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus warning about leaven because resurrection hope includes alertness to hidden influence that can quietly reshape the heart.
+**Context and language lens:** Jesus warning about leaven because resurrection hope includes alertness to hidden influence that can quietly reshape the heart.
 
 Matthew 16:6 gives a warning. Jesus tells His disciples to watch for the leaven of the Pharisees and Sadducees. Small hidden influence can spread through the whole life.
 
@@ -5096,7 +5096,7 @@ Walking with Jesus means letting hope become watchful.
 
 **Scripture Reference:** Matthew 16:7
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses the disciples' bread-anxiety because abiding with Jesus steadies the heart when scarcity makes it misread His words.
+**Context and language lens:** The disciples' bread-anxiety because abiding with Jesus steadies the heart when scarcity makes it misread His words.
 
 Matthew 16:7 shows the disciples reasoning among themselves about bread. Jesus has spoken a warning, but their minds run toward what they forgot to bring. Scarcity can make the heart mishear.
 
@@ -5127,7 +5127,7 @@ Walking with Jesus means remaining near enough to hear Him beyond the fear of la
 
 **Scripture Reference:** Matthew 17:1
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses Jesus taking Peter, James, and John up the mountain because His compassion prepares disciples for costly truth by giving them a glimpse of glory.
+**Context and language lens:** Jesus taking Peter, James, and John up the mountain because His compassion prepares disciples for costly truth by giving them a glimpse of glory.
 
 Matthew 17:1 begins a holy ascent. Jesus takes three disciples with Him up the mountain. They do not yet understand everything that is ahead, but He brings them near.
 
@@ -5155,7 +5155,7 @@ Walking with Jesus means receiving grace before the next hard road.
 
 **Scripture Reference:** Matthew 17:13
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses the disciples understanding Jesus' words about John the Baptist because the Teacher forms hindsight, discernment, and sober trust after confusion.
+**Context and language lens:** The disciples understanding Jesus' words about John the Baptist because the Teacher forms hindsight, discernment, and sober trust after confusion.
 
 Matthew 17:13 shows understanding arriving. The disciples recognize what Jesus has been teaching them. Some clarity comes after walking with Him through questions.
 
@@ -5183,7 +5183,7 @@ Walking with Jesus means letting grace turn delayed understanding into faithful 
 
 **Scripture Reference:** Matthew 17:14
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the man approaching Jesus and kneeling before Him because the road with Jesus receives desperate need at His feet.
+**Context and language lens:** The man approaching Jesus and kneeling before Him because the road with Jesus receives desperate need at His feet.
 
 Matthew 17:14 brings the story down from the mountain into human need. A man approaches Jesus and kneels. Glory is not detached from pain.
 
@@ -5211,7 +5211,7 @@ Walking with Jesus means following Him from glory into mercy.
 
 **Scripture Reference:** Matthew 17:16
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses the disciples' inability to help because following Jesus includes bringing ministry failure, family pain, and unanswered need back to Him.
+**Context and language lens:** The disciples' inability to help because following Jesus includes bringing ministry failure, family pain, and unanswered need back to Him.
 
 Matthew 17:16 is honest about inability. The need had been brought to the disciples, and they could not heal it. The verse does not hide the disappointment.
 
@@ -5239,7 +5239,7 @@ Walking with Jesus means following Him with honest weakness instead of hidden fa
 
 **Scripture Reference:** Matthew 17:17
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses Jesus calling the need back to Himself because His saving work gathers weakness, unbelief, and pain into His presence.
+**Context and language lens:** Jesus calling the need back to Himself because His saving work gathers weakness, unbelief, and pain into His presence.
 
 Matthew 17:17 carries both grief and invitation. Jesus names the unbelief around Him, yet He still calls the suffering child to be brought near. His correction does not cancel His mercy.
 
@@ -5267,7 +5267,7 @@ Walking with Jesus means returning to His saving presence with the whole need.
 
 **Scripture Reference:** Matthew 17:18
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses Jesus' rebuke and the child's healing because peace as wholeness is found under Christ's authority.
+**Context and language lens:** Jesus' rebuke and the child's healing because peace as wholeness is found under Christ's authority.
 
 Matthew 17:18 shows Jesus acting with authority. The tormenting power is rebuked, and the child is healed. The passage reveals Jesus before it asks anything of us.
 
@@ -5295,7 +5295,7 @@ Walking with Jesus means trusting His authority to bring wholeness where chaos h
 
 **Scripture Reference:** Matthew 17:20
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses Jesus' teaching about little faith and moving mountains because the Lord invites concrete trust, not religious display.
+**Context and language lens:** Jesus' teaching about little faith and moving mountains because the Lord invites concrete trust, not religious display.
 
 Matthew 17:20 brings the disciples into the heart of faith. Jesus speaks about little faith, mustard-seed trust, and impossible-looking obstacles. He does not invite performance. He invites trust in Him.
 
@@ -5326,7 +5326,7 @@ Walking with Jesus means anchoring faith in His Lordship before facing the mount
 
 **Scripture Reference:** Matthew 17:26
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses Jesus' teaching about sons being free because His light exposes the difference between obligation that proves worth and belonging that receives the Father's care.
+**Context and language lens:** Jesus' teaching about sons being free because His light exposes the difference between obligation that proves worth and belonging that receives the Father's care.
 
 Matthew 17:26 lands inside an ordinary question about temple tax, duty, and belonging. Jesus leads Peter beneath the surface. Before the practical answer comes, He reveals something about sonship.
 
@@ -5354,7 +5354,7 @@ Walking with Jesus means hearing freedom before handling obligation.
 
 **Scripture Reference:** Matthew 17:27
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses Jesus' instruction to Peter about the fish and the coin because following Him includes humble, practical obedience that does not need to win every public argument.
+**Context and language lens:** Jesus' instruction to Peter about the fish and the coin because following Him includes humble, practical obedience that does not need to win every public argument.
 
 Matthew 17:27 is wonderfully practical. Jesus has already revealed freedom, yet He still gives Peter a concrete instruction that meets the public need without unnecessary offense. Grace does not make the disciple careless. It makes obedience peaceful.
 
@@ -5382,7 +5382,7 @@ Walking with Jesus means obeying with freedom, wisdom, and peace.
 
 **Scripture Reference:** Matthew 17:5
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses the Father's voice at the transfiguration because saving nearness centers the disciple on Jesus, the beloved Son, before fear or confusion can scatter attention.
+**Context and language lens:** The Father's voice at the transfiguration because saving nearness centers the disciple on Jesus, the beloved Son, before fear or confusion can scatter attention.
 
 Matthew 17:5 brings the Father's witness over the mountain. The disciples are surrounded by glory, cloud, and holy awe. In the middle of it, the Father directs their attention to Jesus.
 
@@ -5410,7 +5410,7 @@ Walking with Jesus means letting the Father's witness center the whole life on C
 
 **Scripture Reference:** Matthew 17:6
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses the disciples falling in fear because peace as wholeness does not deny holy awe, but receives Christ's mercy inside it.
+**Context and language lens:** The disciples falling in fear because peace as wholeness does not deny holy awe, but receives Christ's mercy inside it.
 
 Matthew 17:6 shows the disciples overwhelmed. They fall on their faces and are deeply afraid. Holy moments can expose how small we are, how little we control, and how much mercy we need.
 
@@ -5438,7 +5438,7 @@ Walking with Jesus means letting peace begin where fear has been named.
 
 **Scripture Reference:** Matthew 17:7
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses Jesus touching the fearful disciples and calling them up because His Lordship is tender authority that raises the heart from fear into obedience.
+**Context and language lens:** Jesus touching the fearful disciples and calling them up because His Lordship is tender authority that raises the heart from fear into obedience.
 
 Matthew 17:7 is tender and strong. Jesus comes near, touches His disciples, and calls them up out of fear. His authority does not crush them. His presence lifts them.
 
@@ -5466,7 +5466,7 @@ Walking with Jesus means rising because the Lord has come near.
 
 **Scripture Reference:** Matthew 17:8
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses the disciples lifting their eyes and seeing Jesus only because light gives direction by clearing the field of rival centers.
+**Context and language lens:** The disciples lifting their eyes and seeing Jesus only because light gives direction by clearing the field of rival centers.
 
 Matthew 17:8 brings the scene to a clear focus. The disciples lift their eyes and see Jesus. The glory, fear, and confusion settle around one center: Christ Himself.
 
@@ -5494,7 +5494,7 @@ Walking with Jesus means lifting the eyes until Christ is central again.
 
 **Scripture Reference:** Matthew 18:10
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses Jesus' warning not to despise little ones because following Him includes reverence for the vulnerable and refusal to treat small people as small before God.
+**Context and language lens:** Jesus' warning not to despise little ones because following Him includes reverence for the vulnerable and refusal to treat small people as small before God.
 
 Matthew 18:10 turns the disciple's attention toward little ones. Jesus warns against despising them and points to their value before the Father. The verse is a holy correction to pride, hurry, and dismissive religion.
 
@@ -5525,7 +5525,7 @@ Walking with Jesus means guarding the dignity of the little ones before the Fath
 
 **Scripture Reference:** Matthew 18:2
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses Jesus calling a child into the middle because salvation reshapes courage away from self-importance and toward trusting dependence.
+**Context and language lens:** Jesus calling a child into the middle because salvation reshapes courage away from self-importance and toward trusting dependence.
 
 Matthew 18:2 is quiet and searching. Jesus calls a child and places that child in the middle of His disciples. He does not answer ambition with a lecture only. He gives them a living picture.
 
@@ -5553,7 +5553,7 @@ Walking with Jesus means letting Him save courage from pride.
 
 **Scripture Reference:** Matthew 18:21
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses Peter's question about forgiveness because Christ's peace begins to make fractured relationships whole before the heart feels naturally ready.
+**Context and language lens:** Peter's question about forgiveness because Christ's peace begins to make fractured relationships whole before the heart feels naturally ready.
 
 Matthew 18:21 brings Peter's honest question to Jesus. Forgiveness is not abstract here. Peter is asking about limits, repeated wounds, and the place where mercy begins to feel costly.
 
@@ -5581,7 +5581,7 @@ Walking with Jesus means letting peace begin where mercy feels costly.
 
 **Scripture Reference:** Matthew 18:22
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses Jesus' answer about repeated forgiveness because His Lordship has authority over the counting heart.
+**Context and language lens:** Jesus' answer about repeated forgiveness because His Lordship has authority over the counting heart.
 
 Matthew 18:22 presses beyond Peter's number. Jesus does not simply extend a limit. He reveals the heart of His Kingdom, where mercy cannot be reduced to a ledger.
 
@@ -5609,7 +5609,7 @@ Walking with Jesus means letting the Lord rule the hidden ledger.
 
 **Scripture Reference:** Matthew 18:25
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses the servant's impossible debt because light exposes the danger of pretending we can settle what only mercy can answer.
+**Context and language lens:** The servant's impossible debt because light exposes the danger of pretending we can settle what only mercy can answer.
 
 Matthew 18:25 brings the parable into painful clarity. The servant cannot pay. The debt is beyond him. The moment exposes helplessness, and helplessness is not easy for the human heart to admit.
 
@@ -5637,7 +5637,7 @@ Walking with Jesus means letting light end the pretending.
 
 **Scripture Reference:** Matthew 18:26
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses the servant's desperate plea because following Jesus includes kneeling dependence instead of distant admiration.
+**Context and language lens:** The servant's desperate plea because following Jesus includes kneeling dependence instead of distant admiration.
 
 Matthew 18:26 shows the servant falling down and pleading. It is not polished. It is not composed. It is need spoken from the floor. Jesus lets the scene uncover how deeply mercy is needed.
 
@@ -5665,7 +5665,7 @@ Walking with Jesus means following Him into honest dependence.
 
 **Scripture Reference:** Matthew 18:27
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses the master's compassion and release because salvation is mercy that moves from pity to real freedom.
+**Context and language lens:** The master's compassion and release because salvation is mercy that moves from pity to real freedom.
 
 Matthew 18:27 turns the story with compassion. The master is moved, releases the servant, and forgives the debt. Mercy is not only felt. Mercy acts.
 
@@ -5693,7 +5693,7 @@ Walking with Jesus means becoming a person shaped by received mercy.
 
 **Scripture Reference:** Matthew 18:3
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses Jesus' call to become like children because peace is wholeness received through humble conversion, not self-protective greatness.
+**Context and language lens:** Jesus' call to become like children because peace is wholeness received through humble conversion, not self-protective greatness.
 
 Matthew 18:3 is not sentimental. Jesus calls for conversion, a turning of the heart. The disciple is invited away from self-protective greatness and toward childlike trust.
 
@@ -5724,7 +5724,7 @@ Walking with Jesus means choosing the childlike road into Kingdom peace.
 
 **Scripture Reference:** Matthew 18:30
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses the servant's refusal to show mercy because Christ's Lordship confronts the heart that wants to receive grace without becoming gracious.
+**Context and language lens:** The servant's refusal to show mercy because Christ's Lordship confronts the heart that wants to receive grace without becoming gracious.
 
 Matthew 18:30 is a hard turn in the parable. A servant who has been forgiven much refuses mercy to someone who owes far less. The story exposes how quickly a heart can receive compassion and then forget its own need.
 
@@ -5752,7 +5752,7 @@ Walking with Jesus means letting the Lord make grace visible after it has been r
 
 **Scripture Reference:** Matthew 18:31
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses the grief of the fellow servants because light exposes harm that secrecy would rather protect.
+**Context and language lens:** The grief of the fellow servants because light exposes harm that secrecy would rather protect.
 
 Matthew 18:31 shows the fellow servants deeply distressed. They see what has happened, and they bring it before their master. Mercy refused does not stay private forever. It creates grief in the community.
 
@@ -5780,7 +5780,7 @@ Walking with Jesus means letting light interrupt hidden hardness.
 
 **Scripture Reference:** Matthew 18:32
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses the master's summons because following Jesus includes accountability to the mercy we have received.
+**Context and language lens:** The master's summons because following Jesus includes accountability to the mercy we have received.
 
 Matthew 18:32 brings the servant face to face with the master again. The question is not whether mercy was available. Mercy had already been given. The question is what that mercy was allowed to form.
 
@@ -5808,7 +5808,7 @@ Walking with Jesus means letting received grace become accountable grace.
 
 **Scripture Reference:** Matthew 18:34
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses the master's severe response because salvation is not sentimental permission to keep harming others; Christ heals by telling the truth about bondage.
+**Context and language lens:** The master's severe response because salvation is not sentimental permission to keep harming others; Christ heals by telling the truth about bondage.
 
 Matthew 18:34 is sobering. The parable does not pretend that mercy refused is harmless. A heart that will not release another person can become imprisoned by the very hardness it protects.
 
@@ -5836,7 +5836,7 @@ Walking with Jesus means letting salvation tell the truth about bondage.
 
 **Scripture Reference:** Matthew 18:7
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses Jesus' warning about stumbling blocks because peace protects the vulnerable and refuses to normalize harm.
+**Context and language lens:** Jesus' warning about stumbling blocks because peace protects the vulnerable and refuses to normalize harm.
 
 Matthew 18:7 names the sorrow of stumbling blocks. Jesus is not careless about the things that trip, wound, tempt, or damage people. His compassion includes holy seriousness.
 
@@ -5864,7 +5864,7 @@ Walking with Jesus means becoming careful with the souls near you.
 
 **Scripture Reference:** Matthew 18:8
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses Jesus' severe image as a call to decisive surrender of sin and harm, not as a literal call to self-harm.
+**Context and language lens:** Jesus' severe image as a call to decisive surrender of sin and harm, not as a literal call to self-harm.
 
 Matthew 18:8 uses severe language because Jesus is serious about what destroys life. This is not a command to injure the body. It is a holy warning that the disciple must not make peace with what keeps pulling the heart toward harm.
 
@@ -5892,7 +5892,7 @@ Walking with Jesus means trusting the Lord enough to surrender what destroys pea
 
 **Scripture Reference:** Matthew 18:9
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses Jesus' second severe image as light exposing what must be removed from the life, again as spiritual urgency rather than literal self-harm.
+**Context and language lens:** Jesus' second severe image as light exposing what must be removed from the life, again as spiritual urgency rather than literal self-harm.
 
 Matthew 18:9 continues the serious warning. Jesus loves the whole person too much to treat destructive compromise lightly. His words wake the soul to the danger of keeping what keeps leading it away from life.
 
@@ -5923,7 +5923,7 @@ Walking with Jesus means letting light make room for resurrection hope.
 
 **Scripture Reference:** Matthew 19:1
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses Jesus moving from one region to another because following Him continues through transition, not only through familiar places.
+**Context and language lens:** Jesus moving from one region to another because following Him continues through transition, not only through familiar places.
 
 Matthew 19:1 begins with movement. Jesus finishes one stretch of teaching and goes on toward another place. Crowds continue to follow Him, and His ministry keeps meeting real need on the road.
 
@@ -5951,7 +5951,7 @@ Walking with Jesus means following Him through transition with trust.
 
 **Scripture Reference:** Matthew 19:10
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses the disciples' reaction to Jesus' marriage teaching because saving wholeness includes letting Christ reshape hard assumptions about covenant, commitment, and calling.
+**Context and language lens:** The disciples' reaction to Jesus' marriage teaching because saving wholeness includes letting Christ reshape hard assumptions about covenant, commitment, and calling.
 
 Matthew 19:10 shows the disciples reacting strongly to Jesus' teaching. His words have challenged easy assumptions, and they feel the weight of covenant faithfulness.
 
@@ -5979,7 +5979,7 @@ Walking with Jesus means letting saving wisdom make the heart whole.
 
 **Scripture Reference:** Matthew 19:13
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses children being brought to Jesus because peace makes room for the vulnerable instead of treating them as interruptions.
+**Context and language lens:** Children being brought to Jesus because peace makes room for the vulnerable instead of treating them as interruptions.
 
 Matthew 19:13 brings children near Jesus. Others see interruption. Jesus sees value, blessing, and welcome. The scene corrects the hurried disciple who forgets that the Kingdom is never too busy for the vulnerable.
 
@@ -6007,7 +6007,7 @@ Walking with Jesus means making room for those He receives.
 
 **Scripture Reference:** Matthew 19:17
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses Jesus redirecting the question about goodness because His Lordship centers the heart on God before obedience becomes self-display.
+**Context and language lens:** Jesus redirecting the question about goodness because His Lordship centers the heart on God before obedience becomes self-display.
 
 Matthew 19:17 brings a searching question before Jesus. Jesus redirects the heart toward God and toward the commandments. He will not let obedience become a spiritual trophy detached from the One who is good.
 
@@ -6035,7 +6035,7 @@ Walking with Jesus means letting the Lord purify the motive under obedience.
 
 **Scripture Reference:** Matthew 19:18
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses Jesus naming commandments because light gives direction in ordinary relational faithfulness.
+**Context and language lens:** Jesus naming commandments because light gives direction in ordinary relational faithfulness.
 
 Matthew 19:18 shows Jesus naming concrete commandments. The conversation does not remain vague. Life with God touches how people are treated, protected, honored, and loved.
 
@@ -6063,7 +6063,7 @@ Walking with Jesus means letting light become concrete love.
 
 **Scripture Reference:** Matthew 19:22
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses the rich young man's sorrow because following Jesus exposes attachments that promise life but cannot give it.
+**Context and language lens:** The rich young man's sorrow because following Jesus exposes attachments that promise life but cannot give it.
 
 Matthew 19:22 is tender and sad. A man comes close to Jesus, hears the call, and goes away sorrowful because he is deeply attached to what he owns.
 
@@ -6091,7 +6091,7 @@ Walking with Jesus means staying near when attachment is exposed.
 
 **Scripture Reference:** Matthew 19:25
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses the disciples' astonished question about salvation because surrender begins where human impossibility finally looks toward God.
+**Context and language lens:** The disciples' astonished question about salvation because surrender begins where human impossibility finally looks toward God.
 
 Matthew 19:25 brings astonishment into the open. The disciples feel the weight of what Jesus has said. If attachment, wealth, status, and human effort cannot secure life, the question becomes urgent: who can be saved?
 
@@ -6122,7 +6122,7 @@ Walking with Jesus means leaning into grace when salvation is beyond human reach
 
 **Scripture Reference:** Matthew 19:26
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses Jesus naming divine possibility after human impossibility because the surrendered heart receives peace from what God can do.
+**Context and language lens:** Jesus naming divine possibility after human impossibility because the surrendered heart receives peace from what God can do.
 
 Matthew 19:26 answers the astonishment of the disciples. They have reached the end of human calculation. Jesus turns their eyes away from what people can manage and toward what God can do.
 
@@ -6150,7 +6150,7 @@ Walking with Jesus means receiving peace from God's possibility.
 
 **Scripture Reference:** Matthew 19:27
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses Peter's honest question because trusted Lordship gives the surrendered heart room to speak plainly with Jesus.
+**Context and language lens:** Peter's honest question because trusted Lordship gives the surrendered heart room to speak plainly with Jesus.
 
 Matthew 19:27 lets Peter ask what many disciples feel but hesitate to say. He has left much to follow Jesus, and he wonders what that surrender means before God.
 
@@ -6178,7 +6178,7 @@ Walking with Jesus means letting the Lord meet both surrender and honest longing
 
 **Scripture Reference:** Matthew 19:29
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses Jesus' promise to those who leave much for His name because light gives courage when surrender feels costly.
+**Context and language lens:** Jesus' promise to those who leave much for His name because light gives courage when surrender feels costly.
 
 Matthew 19:29 speaks to costly following. Jesus does not pretend discipleship never asks anything of the heart. He names losses, relationships, homes, and loyalties, then sets them inside the faithfulness of God.
 
@@ -6206,7 +6206,7 @@ Walking with Jesus means trusting that nothing surrendered for Him is wasted.
 
 **Scripture Reference:** Matthew 19:3
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses a testing question brought to Jesus because following Him includes letting Him guide hard covenant questions with truth and mercy.
+**Context and language lens:** A testing question brought to Jesus because following Him includes letting Him guide hard covenant questions with truth and mercy.
 
 Matthew 19:3 begins a difficult conversation. Religious leaders bring Jesus a question meant to test Him. The setting is tense, and the subject touches real human stories, covenant wounds, and hidden motives.
 
@@ -6234,7 +6234,7 @@ Walking with Jesus means letting Him lead hard questions into holy ground.
 
 **Scripture Reference:** Matthew 19:7
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses the question about Moses and divorce because Jesus' saving wholeness meets wounded reasoning without letting hardness become the teacher.
+**Context and language lens:** The question about Moses and divorce because Jesus' saving wholeness meets wounded reasoning without letting hardness become the teacher.
 
 Matthew 19:7 continues the conversation. The question reaches for permission, precedent, and explanation. Human hearts often do this when pain, disappointment, or fear has made obedience feel complicated.
 
@@ -6262,7 +6262,7 @@ Walking with Jesus means letting saving wholeness lead wounded places.
 
 **Scripture Reference:** Matthew 19:8
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses Jesus naming hardness of heart because peace begins where Christ tells the truth about what has become hardened.
+**Context and language lens:** Jesus naming hardness of heart because peace begins where Christ tells the truth about what has become hardened.
 
 Matthew 19:8 is sobering. Jesus names hardness of heart. He does not flatter the human condition, and He does not confuse permission in a broken world with God's original desire.
 
@@ -6290,7 +6290,7 @@ Walking with Jesus means letting truth soften what pain has hardened.
 
 **Scripture Reference:** Matthew 19:9
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens handles this solemn covenant text as Lordship over truth, mercy, and surrender, not as a careless verdict over every wounded story.
+**Context and language lens:** This lens reads this solemn covenant text as Lordship over truth, mercy, and surrender, not as a careless verdict over every wounded story.
 
 Matthew 19:9 is weighty. Jesus speaks with moral seriousness about covenant faithfulness, betrayal, and the damage that flows when human desire refuses the way of God. This is not a verse for shallow handling.
 
@@ -6321,7 +6321,7 @@ Walking with Jesus means letting His Lordship make covenant places honest, tende
 
 **Scripture Reference:** Matthew 20:14
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses the vineyard master's generosity because light exposes envy and gives direction toward gratitude.
+**Context and language lens:** The vineyard master's generosity because light exposes envy and gives direction toward gratitude.
 
 Matthew 20:14 stands inside Jesus' parable of the workers in the vineyard. The master gives what he promised, yet his generosity toward others exposes resentment in those who compare.
 
@@ -6349,7 +6349,7 @@ Walking with Jesus means letting gratitude silence comparison.
 
 **Scripture Reference:** Matthew 20:18
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses Jesus' road to Jerusalem because following Him includes listening when the path leads through costly obedience.
+**Context and language lens:** Jesus' road to Jerusalem because following Him includes listening when the path leads through costly obedience.
 
 Matthew 20:18 turns the disciples toward Jerusalem. Jesus speaks plainly about what is ahead. He does not hide the cost of the road, and He does not stop walking it.
 
@@ -6377,7 +6377,7 @@ Walking with Jesus means staying near when obedience has a road.
 
 **Scripture Reference:** Matthew 20:20
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses the request brought by the mother of Zebedee's sons because saving wholeness reaches family ambition, protective love, and hidden status desires.
+**Context and language lens:** The request brought by the mother of Zebedee's sons because saving wholeness reaches family ambition, protective love, and hidden status desires.
 
 Matthew 20:20 brings a family request to Jesus. A mother comes near with her sons. The request carries love, ambition, hope, misunderstanding, and the desire for a secure place near greatness.
 
@@ -6405,7 +6405,7 @@ Walking with Jesus means letting Him make ambition whole.
 
 **Scripture Reference:** Matthew 20:21
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses Jesus' question and the request for places of honor because peace asks desire to become honest before God.
+**Context and language lens:** Jesus' question and the request for places of honor because peace asks desire to become honest before God.
 
 Matthew 20:21 lets Jesus ask what is desired. The answer reaches for places of honor. Jesus does not ignore the desire. He brings it into the open.
 
@@ -6433,7 +6433,7 @@ Walking with Jesus means letting peace reorder desire.
 
 **Scripture Reference:** Matthew 20:22
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses Jesus' answer about not knowing what is being asked because Lordship teaches sober surrender before costly calling.
+**Context and language lens:** Jesus' answer about not knowing what is being asked because Lordship teaches sober surrender before costly calling.
 
 Matthew 20:22 answers ambition with holy seriousness. Jesus exposes that the request reaches for honor without understanding the cup connected to His way.
 
@@ -6461,7 +6461,7 @@ Walking with Jesus means letting the Lord sober and sanctify desire.
 
 **Scripture Reference:** Matthew 20:25
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses Jesus contrasting worldly rule with His way because light exposes domination and gives direction toward servant leadership.
+**Context and language lens:** Jesus contrasting worldly rule with His way because light exposes domination and gives direction toward servant leadership.
 
 Matthew 20:25 gathers the disciples and names how power often works in the world. People with authority can dominate, control, and use position to press others down.
 
@@ -6489,7 +6489,7 @@ Walking with Jesus means letting light turn authority into care.
 
 **Scripture Reference:** Matthew 20:29
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses the crowd following Jesus out of Jericho because the surrendered heart keeps moving with Him while need cries out nearby.
+**Context and language lens:** The crowd following Jesus out of Jericho because the surrendered heart keeps moving with Him while need cries out nearby.
 
 Matthew 20:29 shows Jesus leaving Jericho with a great crowd following Him. Movement continues. The road is active, public, and full of need just beyond the crowd's attention.
 
@@ -6520,7 +6520,7 @@ Walking with Jesus means following Him with a rested and attentive heart.
 
 **Scripture Reference:** Matthew 20:32
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses Jesus stopping for the blind men because saving wholeness begins when need is brought honestly into His presence.
+**Context and language lens:** Jesus stopping for the blind men because saving wholeness begins when need is brought honestly into His presence.
 
 Matthew 20:32 is tender. Jesus stops. He calls the men near and asks what they want Him to do for them. The crowd may be moving, but Jesus is not too rushed to hear honest need.
 
@@ -6548,7 +6548,7 @@ Walking with Jesus means bringing need close enough for mercy to answer.
 
 **Scripture Reference:** Matthew 20:33
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses the blind men's request for opened eyes because peace becomes whole when longing is simple and direct before Jesus.
+**Context and language lens:** The blind men's request for opened eyes because peace becomes whole when longing is simple and direct before Jesus.
 
 Matthew 20:33 gives a clear answer. The men want their eyes opened. Their request is not polished or complicated. It is direct, humble, and full of hope.
 
@@ -6576,7 +6576,7 @@ Walking with Jesus means letting hope ask clearly.
 
 **Scripture Reference:** Matthew 20:4
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses the vineyard master's promise of what is right because Lordship teaches trust when obedience begins before outcomes are fully seen.
+**Context and language lens:** The vineyard master's promise of what is right because Lordship teaches trust when obedience begins before outcomes are fully seen.
 
 Matthew 20:4 belongs to the vineyard parable. The master calls workers and promises to give what is right. They step into the field before every detail is measured out.
 
@@ -6604,7 +6604,7 @@ Walking with Jesus means trusting the Lord of the vineyard with both work and re
 
 **Scripture Reference:** Matthew 21:10
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses Jerusalem's stirred question because light exposes whether the heart recognizes Jesus when He arrives differently than expected.
+**Context and language lens:** Jerusalem's stirred question because light exposes whether the heart recognizes Jesus when He arrives differently than expected.
 
 Matthew 21:10 shows the city stirred as Jesus enters Jerusalem. People ask who this is. His arrival creates movement, attention, confusion, and a question that cannot remain shallow.
 
@@ -6632,7 +6632,7 @@ Walking with Jesus means letting His presence become the question that changes t
 
 **Scripture Reference:** Matthew 21:11
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses the crowd naming Jesus because following Him means receiving His revealed identity, not merely repeating public language.
+**Context and language lens:** The crowd naming Jesus because following Him means receiving His revealed identity, not merely repeating public language.
 
 Matthew 21:11 gives the crowd's answer about Jesus. They name Him as the prophet from Nazareth. The words matter, but the journey of discipleship presses deeper than public description.
 
@@ -6660,7 +6660,7 @@ Walking with Jesus means moving from description to discipleship.
 
 **Scripture Reference:** Matthew 21:12
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses Jesus cleansing the temple because saving wholeness sometimes removes what has crowded out worship, prayer, and mercy.
+**Context and language lens:** Jesus cleansing the temple because saving wholeness sometimes removes what has crowded out worship, prayer, and mercy.
 
 Matthew 21:12 is strong. Jesus enters the temple and confronts what has corrupted a place meant for holy communion. His mercy is not passive toward what damages worship.
 
@@ -6688,7 +6688,7 @@ Walking with Jesus means letting mercy cleanse the places meant for prayer.
 
 **Scripture Reference:** Matthew 21:14
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses the healing of the blind and lame in the temple because peace becomes whole where Jesus receives need in the restored place of worship.
+**Context and language lens:** The healing of the blind and lame in the temple because peace becomes whole where Jesus receives need in the restored place of worship.
 
 Matthew 21:14 is beautiful after the cleansing. The blind and the lame come to Jesus in the temple, and He heals them. The place cleared for prayer becomes a place where wounded people can come near.
 
@@ -6719,7 +6719,7 @@ Walking with Jesus means breathing in the peace of His healing presence.
 
 **Scripture Reference:** Matthew 21:15
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the temple leaders' reaction to Jesus' wonderful works and the children's praise because Lordship reveals itself through mercy that religion cannot control.
+**Context and language lens:** The temple leaders' reaction to Jesus' wonderful works and the children's praise because Lordship reveals itself through mercy that religion cannot control.
 
 Matthew 21:15 shows a painful contrast. The chief priests and scribes see wonderful things in the temple. They also hear children crying praise to Jesus. Instead of rejoicing, they become indignant.
 
@@ -6747,7 +6747,7 @@ Walking with Jesus means honoring the Lord when His mercy becomes visible.
 
 **Scripture Reference:** Matthew 21:16
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus answering religious indignation with Scripture because light exposes fear and gives direction back to worship.
+**Context and language lens:** Jesus answering religious indignation with Scripture because light exposes fear and gives direction back to worship.
 
 Matthew 21:16 shows Jesus refusing to silence holy praise. When the leaders object to the children, Jesus points them back to what God has already revealed. Their fear is exposed by the light of the Word.
 
@@ -6775,7 +6775,7 @@ Walking with Jesus means letting His Word return the heart to peace.
 
 **Scripture Reference:** Matthew 21:19
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses the fig tree as a discipleship warning because following Jesus includes fruit, not only leaves.
+**Context and language lens:** The fig tree as a discipleship warning because following Jesus includes fruit, not only leaves.
 
 Matthew 21:19 is sobering. Jesus comes to the fig tree and finds leaves but no fruit. The moment is not random anger; it is a living lesson about appearance without life.
 
@@ -6803,7 +6803,7 @@ Walking with Jesus means following Him into a life that bears fruit.
 
 **Scripture Reference:** Matthew 21:2
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus' instruction to bring the donkey and colt because saving wholeness often begins with humble obedience that makes room for the King.
+**Context and language lens:** Jesus' instruction to bring the donkey and colt because saving wholeness often begins with humble obedience that makes room for the King.
 
 Matthew 21:2 is practical and specific. Jesus sends disciples into the village and tells them what they will find. The King enters His city through humble preparation and ordinary obedience.
 
@@ -6831,7 +6831,7 @@ Walking with Jesus means preparing the way for His humble kingdom.
 
 **Scripture Reference:** Matthew 21:21
 
-**Production lens note:** The architecture assigns eirene; the production lens uses Jesus teaching faith after the fig tree because peace grows where trust stops arguing with God.
+**Context and language lens:** Jesus teaching faith after the fig tree because peace grows where trust stops arguing with God.
 
 Matthew 21:21 turns the disciples' amazement toward faith. Jesus teaches them about trust, prayer, and the danger of a divided heart. The lesson reaches beyond the tree into the way a disciple relates to God.
 
@@ -6859,7 +6859,7 @@ Walking with Jesus means letting trust become movement.
 
 **Scripture Reference:** Matthew 21:23
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the leaders questioning Jesus' authority because Lordship steadies courage when control demands credentials on its own terms.
+**Context and language lens:** The leaders questioning Jesus' authority because Lordship steadies courage when control demands credentials on its own terms.
 
 Matthew 21:23 shows Jesus teaching in the temple when leaders challenge His authority. They want to know who gave Him the right to do these things. The question sounds official, but underneath it is resistance to surrender.
 
@@ -6887,7 +6887,7 @@ Walking with Jesus means trusting His authority more than the pressure to explai
 
 **Scripture Reference:** Matthew 21:24
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus answering with a question because light can reveal whether the heart truly wants truth or only control.
+**Context and language lens:** Jesus answering with a question because light can reveal whether the heart truly wants truth or only control.
 
 Matthew 21:24 shows Jesus answering the authority challenge with a question. He is not trapped by their demand. His response exposes the deeper issue: do they want truth, or do they want control?
 
@@ -6918,7 +6918,7 @@ Walking with Jesus means trusting the Light enough to be honest.
 
 **Scripture Reference:** Matthew 21:25
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses Jesus' question about John's baptism because discipleship begins by answering truthfully when Jesus presses beneath evasions.
+**Context and language lens:** Jesus' question about John's baptism because discipleship begins by answering truthfully when Jesus presses beneath evasions.
 
 Matthew 21:25 brings the authority conversation to a sharper place. Jesus asks the leaders to name the source of John's baptism. The question is simple, but it reveals whether they are willing to follow truth or protect position.
 
@@ -6946,7 +6946,7 @@ Walking with Jesus means letting truth become a path, not a debate.
 
 **Scripture Reference:** Matthew 21:27
 
-**Production lens note:** The architecture assigns sozo; the production lens uses the leaders' refusal to answer because saving wholeness refuses to let dishonesty pretend to be wisdom.
+**Context and language lens:** The leaders' refusal to answer because saving wholeness refuses to let dishonesty pretend to be wisdom.
 
 Matthew 21:27 is sad. The leaders say they do not know. Their words are not humble uncertainty; they are strategic avoidance. Jesus does not reward the evasion with more explanation.
 
@@ -6974,7 +6974,7 @@ Walking with Jesus means letting wholeness make your yes and no clean.
 
 **Scripture Reference:** Matthew 21:28
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the opening of the two sons parable because peace becomes visible when a son hears the father's call to work.
+**Context and language lens:** The opening of the two sons parable because peace becomes visible when a son hears the father's call to work.
 
 Matthew 21:28 opens a parable with a father's request. A son is called to work in the vineyard. The scene is ordinary, but it reaches into the way obedience becomes visible.
 
@@ -7002,7 +7002,7 @@ Walking with Jesus means letting compassion become willing service.
 
 **Scripture Reference:** Matthew 21:31
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses Jesus' question about doing the father's will because Lordship values repentant obedience more than impressive reputation.
+**Context and language lens:** Jesus' question about doing the father's will because Lordship values repentant obedience more than impressive reputation.
 
 Matthew 21:31 asks which son did the father's will. Jesus then speaks a hard mercy to religious leaders: those they despised were entering the kingdom ahead of them because repentance had become obedience.
 
@@ -7030,7 +7030,7 @@ Walking with Jesus means serving where repentance is becoming life.
 
 **Scripture Reference:** Matthew 21:32
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus naming unbelief and unrepentance because light exposes where the heart refuses grace even after seeing it work.
+**Context and language lens:** Jesus naming unbelief and unrepentance because light exposes where the heart refuses grace even after seeing it work.
 
 Matthew 21:32 keeps the wound open long enough for healing truth. Jesus says John came in the way of righteousness, and the people with stained reputations believed. The religious leaders saw it and still did not change their minds.
 
@@ -7058,7 +7058,7 @@ Walking with Jesus means letting witnessed grace change your heart.
 
 **Scripture Reference:** Matthew 21:37
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses the vineyard owner sending his son because discipleship receives the beloved Son with reverence instead of fear.
+**Context and language lens:** The vineyard owner sending his son because discipleship receives the beloved Son with reverence instead of fear.
 
 Matthew 21:37 turns the parable toward the son. After rejected servants, the owner sends his son. The verse carries tenderness and gravity. The son comes as the fullest appeal.
 
@@ -7086,7 +7086,7 @@ Walking with Jesus means receiving the Son before representing Him.
 
 **Scripture Reference:** Matthew 21:41
 
-**Production lens note:** The architecture assigns sozo; the production lens uses the judgment on wicked tenants because saving wholeness protects the vineyard so fruit can be given in season.
+**Context and language lens:** The judgment on wicked tenants because saving wholeness protects the vineyard so fruit can be given in season.
 
 Matthew 21:41 is severe. The listeners answer that wicked tenants will be removed and the vineyard given to others who will yield fruit. The verse reminds us that mercy is not indifferent to harm.
 
@@ -7117,7 +7117,7 @@ Walking with Jesus means serving the vineyard as entrusted grace.
 
 **Scripture Reference:** Matthew 21:5
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the humble King entering on the donkey because peace becomes whole when compassion travels in meekness instead of force.
+**Context and language lens:** The humble King entering on the donkey because peace becomes whole when compassion travels in meekness instead of force.
 
 Matthew 21:5 reveals the King who comes gently. Jesus does not enter with the posture of domination. He fulfills the promise with humility, and His compassion carries strength without harshness.
 
@@ -7145,7 +7145,7 @@ Walking with Jesus means serving in the strength of His gentleness.
 
 **Scripture Reference:** Matthew 21:8
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the crowd spreading garments and branches because Lordship reveals itself when people make room for the King's path.
+**Context and language lens:** The crowd spreading garments and branches because Lordship reveals itself when people make room for the King's path.
 
 Matthew 21:8 shows the crowd making a road of honor. Garments and branches are placed before Jesus. The scene is public, but it asks a private question: what will I lay down so the King has His rightful way?
 
@@ -7173,7 +7173,7 @@ Walking with Jesus means laying something down so His compassion can move.
 
 **Scripture Reference:** Matthew 22:1
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus answering with parables because light can expose fear through story before the heart knows how guarded it has become.
+**Context and language lens:** Jesus answering with parables because light can expose fear through story before the heart knows how guarded it has become.
 
 Matthew 22:1 opens another parable. Jesus answers with a story, and the story begins to shine light on invitation, refusal, readiness, and the heart's response to the kingdom.
 
@@ -7201,7 +7201,7 @@ Walking with Jesus means letting His light make courage honest.
 
 **Scripture Reference:** Matthew 22:10
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses the servants gathering all they found because discipleship serves the wide mercy of the King's invitation.
+**Context and language lens:** The servants gathering all they found because discipleship serves the wide mercy of the King's invitation.
 
 Matthew 22:10 shows servants going out and gathering people until the wedding hall is filled. The invitation reaches beyond the expected list. The hall is filled because the king's call is generous.
 
@@ -7229,7 +7229,7 @@ Walking with Jesus means carrying the invitation with hope.
 
 **Scripture Reference:** Matthew 22:13
 
-**Production lens note:** The architecture assigns sozo; the production lens uses the wedding garment warning because saving wholeness receives grace seriously rather than treating the King's invitation casually.
+**Context and language lens:** The wedding garment warning because saving wholeness receives grace seriously rather than treating the King's invitation casually.
 
 Matthew 22:13 is a severe moment in the parable. The invitation is generous, but the king's presence is not treated casually. The warning reminds us that grace is not costume jewelry; it is a covering we must truly receive.
 
@@ -7257,7 +7257,7 @@ Walking with Jesus means receiving the garment of grace, not just entering the r
 
 **Scripture Reference:** Matthew 22:18
 
-**Production lens note:** The architecture assigns eirene; the production lens uses Jesus perceiving hypocrisy because peace is not naivete and compassion can see what is false without becoming cruel.
+**Context and language lens:** Jesus perceiving hypocrisy because peace is not naivete and compassion can see what is false without becoming cruel.
 
 Matthew 22:18 shows Jesus perceiving the malice behind a question. He is not fooled by flattery or trapped by performance. His peace is clear-eyed.
 
@@ -7285,7 +7285,7 @@ Walking with Jesus means letting peace stay honest.
 
 **Scripture Reference:** Matthew 22:2
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the kingdom compared to a wedding feast because Lordship invites the heart into the joy of the Son.
+**Context and language lens:** The kingdom compared to a wedding feast because Lordship invites the heart into the joy of the Son.
 
 Matthew 22:2 frames the kingdom as a wedding feast prepared by a king for his son. The image begins with authority, joy, preparation, and invitation. The King is not offering a cold summons; He is announcing a celebration.
 
@@ -7316,7 +7316,7 @@ Walking with Jesus means serving from the feast, not from emptiness.
 
 **Scripture Reference:** Matthew 22:22
 
-**Production lens note:** The architecture assigns phos; the production lens uses the amazement and departure after Jesus' answer because light exposes a trap and gives a clean way through it.
+**Context and language lens:** The amazement and departure after Jesus' answer because light exposes a trap and gives a clean way through it.
 
 Matthew 22:22 comes after Jesus answers a question designed to catch Him. The people who tried to trap Him are left marveling. They cannot make His wisdom serve their agenda, so they leave.
 
@@ -7344,7 +7344,7 @@ Walking with Jesus means serving with wisdom that can walk away from a trap with
 
 **Scripture Reference:** Matthew 22:23
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses the Sadducees' approach because following Jesus includes bringing guarded assumptions into His presence.
+**Context and language lens:** The Sadducees' approach because following Jesus includes bringing guarded assumptions into His presence.
 
 Matthew 22:23 introduces a group that does not believe in the resurrection. They come to Jesus with a question, but the question is shaped by what they have already decided.
 
@@ -7372,7 +7372,7 @@ Walking with Jesus means staying on the road even when a question exposes how mu
 
 **Scripture Reference:** Matthew 22:24
 
-**Production lens note:** The architecture assigns sozo; the production lens uses the reference to death, family obligation, and inheritance because saving wholeness meets real human loss before it corrects confused reasoning.
+**Context and language lens:** The reference to death, family obligation, and inheritance because saving wholeness meets real human loss before it corrects confused reasoning.
 
 Matthew 22:24 reaches into a complicated law about family responsibility after death. In the hands of the questioners, the situation becomes a test case. In the presence of Jesus, it also reminds us that God is not distant from grief, family pressure, and unresolved human stories.
 
@@ -7400,7 +7400,7 @@ Walking with Jesus means letting His saving nearness enter the places we are tem
 
 **Scripture Reference:** Matthew 22:28
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the question about resurrection relationships because peace lets the heart stop forcing eternal mysteries into anxious earthly categories.
+**Context and language lens:** The question about resurrection relationships because peace lets the heart stop forcing eternal mysteries into anxious earthly categories.
 
 Matthew 22:28 asks whose wife the woman will be in the resurrection. The question tries to make the promise of resurrection look unreasonable by trapping it inside a broken earthly frame.
 
@@ -7428,7 +7428,7 @@ Walking with Jesus means trusting resurrection hope enough to serve without forc
 
 **Scripture Reference:** Matthew 22:29
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses Jesus' correction about Scripture and God's power because trusted Lordship anchors the heart in what God has said and what God can do.
+**Context and language lens:** Jesus' correction about Scripture and God's power because trusted Lordship anchors the heart in what God has said and what God can do.
 
 Matthew 22:29 is a loving but serious correction. Jesus tells His hearers that they are mistaken because they do not know the Scriptures or the power of God.
 
@@ -7456,7 +7456,7 @@ Walking with Jesus means letting His authority bring you back to Scripture and t
 
 **Scripture Reference:** Matthew 22:3
 
-**Production lens note:** The architecture assigns phos; the production lens uses the invited guests refusing to come because light exposes the heart's resistance to grace.
+**Context and language lens:** The invited guests refusing to come because light exposes the heart's resistance to grace.
 
 Matthew 22:3 shows servants being sent to call those who were invited to the wedding feast, but the invited ones would not come. The invitation is generous, but the response is resistance.
 
@@ -7484,7 +7484,7 @@ Walking with Jesus means receiving the invitation before carrying it.
 
 **Scripture Reference:** Matthew 22:30
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses Jesus' teaching about resurrection life because discipleship follows Him beyond earthly categories into the life God prepares.
+**Context and language lens:** Jesus' teaching about resurrection life because discipleship follows Him beyond earthly categories into the life God prepares.
 
 Matthew 22:30 teaches that resurrection life is not merely earthly life extended with all the same arrangements. Jesus lifts the hearers' eyes beyond the limits of their question.
 
@@ -7515,7 +7515,7 @@ Walking with Jesus means following Him with eternity in view and mercy in hand.
 
 **Scripture Reference:** Matthew 22:31
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus' turn to the resurrection because saving wholeness hears God's living word over death, confusion, and fear.
+**Context and language lens:** Jesus' turn to the resurrection because saving wholeness hears God's living word over death, confusion, and fear.
 
 Matthew 22:31 moves the conversation from a trap question into the living authority of God. Jesus asks whether they have read what God spoke concerning the resurrection.
 
@@ -7543,7 +7543,7 @@ Walking with Jesus means letting the living Word rescue courage from fear.
 
 **Scripture Reference:** Matthew 22:36
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the question about the great commandment because peace begins when the heart stops scattering and returns to what love requires.
+**Context and language lens:** The question about the great commandment because peace begins when the heart stops scattering and returns to what love requires.
 
 Matthew 22:36 asks which commandment is great. The question comes in a testing atmosphere, but it also opens the door to the center of faithful life.
 
@@ -7571,7 +7571,7 @@ Walking with Jesus means letting peace gather your heart back to love.
 
 **Scripture Reference:** Matthew 22:4
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the king sending more servants because trusted Lordship keeps inviting with generous authority.
+**Context and language lens:** The king sending more servants because trusted Lordship keeps inviting with generous authority.
 
 Matthew 22:4 shows the king sending other servants with the feast prepared. The invitation is not thin or vague. The table is ready, the call is generous, and the king's authority is expressed through invitation.
 
@@ -7599,7 +7599,7 @@ Walking with Jesus means serving under Lordship that invites instead of threaten
 
 **Scripture Reference:** Matthew 22:41
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus questioning the gathered Pharisees because light sometimes comes through the question Christ asks us.
+**Context and language lens:** Jesus questioning the gathered Pharisees because light sometimes comes through the question Christ asks us.
 
 Matthew 22:41 shows Jesus asking a question while the Pharisees are gathered. After being questioned repeatedly, He turns the moment and asks them to consider the Christ.
 
@@ -7627,7 +7627,7 @@ Walking with Jesus means letting His questions guide the path.
 
 **Scripture Reference:** Matthew 22:43
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses David calling the Messiah Lord because discipleship follows Jesus by receiving His identity more deeply.
+**Context and language lens:** David calling the Messiah Lord because discipleship follows Jesus by receiving His identity more deeply.
 
 Matthew 22:43 presses the hearers to consider why David, speaking in the Spirit, calls the Messiah Lord. Jesus is leading them beyond a shallow answer into deeper recognition.
 
@@ -7655,7 +7655,7 @@ Walking with Jesus means following the Lord we keep seeing more clearly.
 
 **Scripture Reference:** Matthew 22:44
 
-**Production lens note:** The architecture assigns sozo; the production lens uses the enthroned Lord because saving wholeness rests under Christ's victorious authority.
+**Context and language lens:** The enthroned Lord because saving wholeness rests under Christ's victorious authority.
 
 Matthew 22:44 points to the Lord seated at the right hand until His enemies are placed beneath His feet. Jesus is revealing a Messiah whose authority is higher and deeper than the crowd expects.
 
@@ -7683,7 +7683,7 @@ Walking with Jesus means serving under the Shepherd who already reigns.
 
 **Scripture Reference:** Matthew 22:5
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the invited guests making light of the feast because peace calls the heart back from distraction into holy attention.
+**Context and language lens:** The invited guests making light of the feast because peace calls the heart back from distraction into holy attention.
 
 Matthew 22:5 shows invited guests making light of the invitation and going their own ways. One goes to a field, another to business. Ordinary concerns become heavy enough to make the King's invitation seem light.
 
@@ -7714,7 +7714,7 @@ Walking with Jesus means refusing to treat holy invitation as background noise.
 
 **Scripture Reference:** Matthew 22:9
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the king sending servants to the roads because trusted Lordship sends compassion beyond familiar rooms.
+**Context and language lens:** The king sending servants to the roads because trusted Lordship sends compassion beyond familiar rooms.
 
 Matthew 22:9 sends the servants out to the roads with an open invitation. The feast is prepared, and the call moves beyond the expected circle.
 
@@ -7742,7 +7742,7 @@ Walking with Jesus means trusting His Lordship enough to carry His welcome to th
 
 **Scripture Reference:** Matthew 23:36
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus' solemn word to His generation because light exposes what unrepented patterns finally produce.
+**Context and language lens:** Jesus' solemn word to His generation because light exposes what unrepented patterns finally produce.
 
 Matthew 23:36 carries the weight of Jesus' warning. He is not speaking to entertain curiosity. He is bringing hidden patterns into the light.
 
@@ -7770,7 +7770,7 @@ Walking with Jesus means letting His light guide the way back to peace.
 
 **Scripture Reference:** Matthew 24:14
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses the gospel of the kingdom going to all nations because discipleship follows Jesus into witness, endurance, and hope.
+**Context and language lens:** The gospel of the kingdom going to all nations because discipleship follows Jesus into witness, endurance, and hope.
 
 Matthew 24:14 points to the gospel of the kingdom being proclaimed as a witness. Jesus speaks within a serious passage, but He does not leave His people without mission.
 
@@ -7798,7 +7798,7 @@ Walking with Jesus means letting grace become witness on the road.
 
 **Scripture Reference:** Matthew 24:17
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus' urgent instruction not to turn back because saving wholeness sometimes requires holy simplicity and prompt obedience.
+**Context and language lens:** Jesus' urgent instruction not to turn back because saving wholeness sometimes requires holy simplicity and prompt obedience.
 
 Matthew 24:17 carries urgency. Jesus speaks of a moment when lingering over what must be left behind would put the heart in danger.
 
@@ -7826,7 +7826,7 @@ Walking with Jesus means receiving rescue deeply enough to move forward.
 
 **Scripture Reference:** Matthew 24:2
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' word about the temple stones because the Teacher forms courage by showing what cannot carry eternal weight.
+**Context and language lens:** Jesus' word about the temple stones because the Teacher forms courage by showing what cannot carry eternal weight.
 
 Matthew 24:2 is sobering. Jesus points to impressive stones and tells His disciples that what appears immovable will not remain untouched.
 
@@ -7854,7 +7854,7 @@ Walking with Jesus means letting the Teacher form courage deeper than what can f
 
 **Scripture Reference:** Matthew 24:23
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Jesus' warning against false claims because the way of Christ is not found by chasing every urgent voice.
+**Context and language lens:** Jesus' warning against false claims because the way of Christ is not found by chasing every urgent voice.
 
 Matthew 24:23 warns the disciples not to be pulled by claims that Christ is here or there. Jesus knows that fear can make people vulnerable to confident voices.
 
@@ -7882,7 +7882,7 @@ Walking with Jesus means staying with Him when other voices try to hurry your so
 
 **Scripture Reference:** Matthew 24:24
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Jesus' warning about false signs because resurrection hope clings to Christ's life when deception tries to imitate power.
+**Context and language lens:** Jesus' warning about false signs because resurrection hope clings to Christ's life when deception tries to imitate power.
 
 Matthew 24:24 warns that false christs and false prophets will show signs that could deceive, if possible, even the elect. Jesus is preparing His people to stay awake, grounded, and faithful.
 
@@ -7913,7 +7913,7 @@ Walking with Jesus means trusting the risen Friend more than every dazzling clai
 
 **Scripture Reference:** Matthew 24:3
 
-**Production lens note:** The architecture assigns meno; the production lens uses the disciples coming to Jesus privately because abiding begins by bringing honest questions close to Him.
+**Context and language lens:** The disciples coming to Jesus privately because abiding begins by bringing honest questions close to Him.
 
 Matthew 24:3 shows the disciples coming to Jesus privately with questions about what He has said. They do not understand everything, but they bring their concern near.
 
@@ -7941,7 +7941,7 @@ Walking with Jesus means bringing the question near enough for mercy to guide it
 
 **Scripture Reference:** Matthew 24:30
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses the appearing of the Son of Man because Christ's compassion is not detached from His final authority.
+**Context and language lens:** The appearing of the Son of Man because Christ's compassion is not detached from His final authority.
 
 Matthew 24:30 points to the Son of Man appearing with power and glory. The passage carries awe, gravity, and holy clarity.
 
@@ -7969,7 +7969,7 @@ Walking with Jesus means letting His coming glory purify today's compassion.
 
 **Scripture Reference:** Matthew 24:35
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' enduring words because the Teacher forms disciples through what will not pass away.
+**Context and language lens:** Jesus' enduring words because the Teacher forms disciples through what will not pass away.
 
 Matthew 24:35 says that heaven and earth will pass away, but Jesus' words will not pass away. Everything else is measured against the endurance of His word.
 
@@ -7997,7 +7997,7 @@ Walking with Jesus means being formed by the word that will not pass away.
 
 **Scripture Reference:** Matthew 24:37
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Jesus' comparison to Noah's days because the way of Jesus stays awake while ordinary life continues.
+**Context and language lens:** Jesus' comparison to Noah's days because the way of Jesus stays awake while ordinary life continues.
 
 Matthew 24:37 compares the coming of the Son of Man to the days of Noah. Jesus is not asking His disciples to despise ordinary life; He is teaching them not to sleepwalk through it.
 
@@ -8025,7 +8025,7 @@ Walking with Jesus means staying awake to Him on the road you already walk.
 
 **Scripture Reference:** Matthew 24:4
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Jesus' warning against deception because resurrection hope keeps the heart anchored to the living Christ.
+**Context and language lens:** Jesus' warning against deception because resurrection hope keeps the heart anchored to the living Christ.
 
 Matthew 24:4 begins with a warning: see that no one leads you astray. Jesus knows that deception often speaks with confidence, urgency, and spiritual language.
 
@@ -8053,7 +8053,7 @@ Walking with Jesus means letting resurrection hope make your discernment steady.
 
 **Scripture Reference:** Matthew 24:43
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' watchfulness image because abiding produces alertness without anxiety.
+**Context and language lens:** Jesus' watchfulness image because abiding produces alertness without anxiety.
 
 Matthew 24:43 uses the image of a homeowner staying awake because he knows the need for watchfulness. Jesus is calling His people to alert faithfulness.
 
@@ -8081,7 +8081,7 @@ Walking with Jesus means abiding alert, not anxious.
 
 **Scripture Reference:** Matthew 24:48
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses the servant who says the master is delayed because compassion must stay faithful while waiting.
+**Context and language lens:** The servant who says the master is delayed because compassion must stay faithful while waiting.
 
 Matthew 24:48 reveals the danger of a servant who begins to live as though the master will not come soon. Delay becomes an excuse for carelessness.
 
@@ -8112,7 +8112,7 @@ Walking with Jesus means waiting at the table of grace without losing the Master
 
 **Scripture Reference:** Matthew 24:6
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' warning about troubled news because the Teacher forms steadiness before the heart is pulled into fear.
+**Context and language lens:** Jesus' warning about troubled news because the Teacher forms steadiness before the heart is pulled into fear.
 
 Matthew 24:6 names the kind of news that can shake a human heart. Jesus does not deny the noise of the world, but He teaches His disciples not to be ruled by alarm.
 
@@ -8140,7 +8140,7 @@ Walking with Jesus means letting His teaching touch the place where fear first r
 
 **Scripture Reference:** Matthew 25:11
 
-**Production lens note:** The architecture assigns hodos; the production lens uses the closed-door plea because the way of Jesus is followed before crisis exposes borrowed readiness.
+**Context and language lens:** The closed-door plea because the way of Jesus is followed before crisis exposes borrowed readiness.
 
 Matthew 25:11 comes from the parable of the waiting attendants. The moment is painful because the request arrives after readiness has already been neglected.
 
@@ -8168,7 +8168,7 @@ Walking with Jesus means letting grace prepare what crisis cannot borrow.
 
 **Scripture Reference:** Matthew 25:15
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses the entrusted talents because resurrection hope treats received capacity as living stewardship, not buried fear.
+**Context and language lens:** The entrusted talents because resurrection hope treats received capacity as living stewardship, not buried fear.
 
 Matthew 25:15 shows the master entrusting resources according to capacity. The gifts are not random, and they are not given for display. They are entrusted for faithful use.
 
@@ -8196,7 +8196,7 @@ Walking with Jesus means stewarding what He entrusted as a living sign of hope.
 
 **Scripture Reference:** Matthew 25:18
 
-**Production lens note:** The architecture assigns meno; the production lens uses the buried talent because abiding with Jesus keeps fear from hiding what grace meant to multiply.
+**Context and language lens:** The buried talent because abiding with Jesus keeps fear from hiding what grace meant to multiply.
 
 Matthew 25:18 shows a servant hiding what was entrusted. The buried gift becomes a picture of fear disguised as caution.
 
@@ -8224,7 +8224,7 @@ Walking with Jesus means refusing to let fear bury what grace entrusted.
 
 **Scripture Reference:** Matthew 25:20
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses the servant bringing the gained talents because compassion celebrates faithful increase without making love transactional.
+**Context and language lens:** The servant bringing the gained talents because compassion celebrates faithful increase without making love transactional.
 
 Matthew 25:20 shows the servant bringing what had been entrusted and what had been gained. Faithfulness returns with fruit.
 
@@ -8252,7 +8252,7 @@ Walking with Jesus means bringing faithful fruit back to the Friend who led you.
 
 **Scripture Reference:** Matthew 25:21
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses the master's approval because the Teacher forms faithfulness in small things before wider responsibility.
+**Context and language lens:** The master's approval because the Teacher forms faithfulness in small things before wider responsibility.
 
 Matthew 25:21 centers faithful service. The servant is received with approval, joy, and enlarged responsibility.
 
@@ -8280,7 +8280,7 @@ Walking with Jesus means learning joy through faithfulness in the little place.
 
 **Scripture Reference:** Matthew 25:22
 
-**Production lens note:** The architecture assigns hodos; the production lens uses the second servant's faithful return because the way of Jesus is walked by repeated trust, not one dramatic moment.
+**Context and language lens:** The second servant's faithful return because the way of Jesus is walked by repeated trust, not one dramatic moment.
 
 Matthew 25:22 shows another servant bringing what had been entrusted and what had been gained. Faithfulness is not isolated to one personality, one capacity, or one impressive story.
 
@@ -8311,7 +8311,7 @@ Walking with Jesus means letting Sabbath worship return the road to the Master.
 
 **Scripture Reference:** Matthew 25:23
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses the master's welcome because resurrection hope hears joy where fear expected only evaluation.
+**Context and language lens:** The master's welcome because resurrection hope hears joy where fear expected only evaluation.
 
 Matthew 25:23 continues the master's welcome to a faithful servant. The servant is received into joy, not merely measured by output.
 
@@ -8339,7 +8339,7 @@ Walking with Jesus means hearing the Master's joy as part of the call.
 
 **Scripture Reference:** Matthew 25:24
 
-**Production lens note:** The architecture assigns meno; the production lens uses the fearful servant's accusation because abiding heals distorted views of the Master's heart.
+**Context and language lens:** The fearful servant's accusation because abiding heals distorted views of the Master's heart.
 
 Matthew 25:24 reveals how the servant viewed the master. Fear had shaped his interpretation until the master seemed harsh, demanding, and unsafe.
 
@@ -8367,7 +8367,7 @@ Walking with Jesus means staying near enough for the Master's heart to become cl
 
 **Scripture Reference:** Matthew 25:26
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses the master's hard answer because compassion tells the truth when fear has become an excuse for refusal.
+**Context and language lens:** The master's hard answer because compassion tells the truth when fear has become an excuse for refusal.
 
 Matthew 25:26 is sober. The master answers the servant's excuse directly. Grace does not confuse fear with faithfulness.
 
@@ -8395,7 +8395,7 @@ Walking with Jesus means letting compassion tell the truth that sets stewardship
 
 **Scripture Reference:** Matthew 25:29
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' stewardship principle because the Teacher forms receptive faithfulness rather than passive holding.
+**Context and language lens:** Jesus' stewardship principle because the Teacher forms receptive faithfulness rather than passive holding.
 
 Matthew 25:29 is a principle of stewardship that can feel severe when read apart from the whole story. In context, it presses the difference between faithful use and fearful preservation.
 
@@ -8423,7 +8423,7 @@ Walking with Jesus means letting the Teacher turn received grace into living fai
 
 **Scripture Reference:** Matthew 25:32
 
-**Production lens note:** The architecture assigns hodos; the production lens uses the separating of the nations because the way of Jesus becomes visible in lived mercy.
+**Context and language lens:** The separating of the nations because the way of Jesus becomes visible in lived mercy.
 
 Matthew 25:32 moves into the scene of gathering and separation. Jesus is revealing that the road of discipleship has visible fruit.
 
@@ -8451,7 +8451,7 @@ Walking with Jesus means letting mercy become visible on the road.
 
 **Scripture Reference:** Matthew 25:34
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses the King's welcome because resurrection hope receives inheritance as grace, then moves toward mercy.
+**Context and language lens:** The King's welcome because resurrection hope receives inheritance as grace, then moves toward mercy.
 
 Matthew 25:34 speaks the King's welcome and points toward inheritance prepared by the Father. Mercy is held inside a larger story of grace.
 
@@ -8479,7 +8479,7 @@ Walking with Jesus means letting received inheritance become generous compassion
 
 **Scripture Reference:** Matthew 25:36
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' identification with vulnerable people because abiding with Christ makes mercy concrete.
+**Context and language lens:** Jesus' identification with vulnerable people because abiding with Christ makes mercy concrete.
 
 Matthew 25:36 places mercy in embodied places: need, exposure, sickness, imprisonment, and presence. Jesus ties discipleship to concrete care.
 
@@ -8510,7 +8510,7 @@ Walking with Jesus means letting Sabbath nearness become practical compassion.
 
 **Scripture Reference:** Matthew 25:37
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses the surprised question of the righteous because Christlike compassion often serves without self-conscious scoring.
+**Context and language lens:** The surprised question of the righteous because Christlike compassion often serves without self-conscious scoring.
 
 Matthew 25:37 shows the righteous responding with surprise. They had not been calculating mercy as a way to impress the King.
 
@@ -8538,7 +8538,7 @@ Walking with Jesus means letting compassion serve without asking to be seen.
 
 **Scripture Reference:** Matthew 25:39
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses the question about seeing Christ in need because the Teacher forms eyes that recognize Him in overlooked places.
+**Context and language lens:** The question about seeing Christ in need because the Teacher forms eyes that recognize Him in overlooked places.
 
 Matthew 25:39 continues the question: when did they see Him in weakness or confinement? The surprise reveals how easily holy presence can be hidden in ordinary need.
 
@@ -8566,7 +8566,7 @@ Walking with Jesus means letting the Teacher form eyes for mercy.
 
 **Scripture Reference:** Matthew 25:43
 
-**Production lens note:** The architecture assigns hodos; the production lens uses the neglected stranger and prisoner because the way of Jesus is walked toward people the heart is tempted to avoid.
+**Context and language lens:** The neglected stranger and prisoner because the way of Jesus is walked toward people the heart is tempted to avoid.
 
 Matthew 25:43 names neglected need with painful directness. The passage presses mercy beyond warm intention into costly attention.
 
@@ -8594,7 +8594,7 @@ Walking with Jesus means following Him toward the person avoidance would leave a
 
 **Scripture Reference:** Matthew 25:6
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses the midnight cry because resurrection hope wakes the heart to meet the Bridegroom.
+**Context and language lens:** The midnight cry because resurrection hope wakes the heart to meet the Bridegroom.
 
 Matthew 25:6 brings a cry in the night: the bridegroom is near, and the waiting ones must rise. The moment asks for readiness that has been cultivated before the shout.
 
@@ -8622,7 +8622,7 @@ Walking with Jesus means rising toward the Bridegroom with hope awake.
 
 **Scripture Reference:** Revelation 1:10
 
-**Production lens note:** The architecture assigns meno; the production lens uses John's Spirit-held attention because abiding can receive Christ's voice even in exile and limitation.
+**Context and language lens:** John's Spirit-held attention because abiding can receive Christ's voice even in exile and limitation.
 
 Revelation 1:10 places John in a posture of Spirit-held attention when the voice of Christ comes with power. Exile does not silence Jesus.
 
@@ -8650,7 +8650,7 @@ Walking with Jesus means remaining available to His voice in the place you did n
 
 **Scripture Reference:** Revelation 1:13
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Christ among the lampstands because Jesus' compassion stands near His people with priestly presence.
+**Context and language lens:** Christ among the lampstands because Jesus' compassion stands near His people with priestly presence.
 
 Revelation 1:13 reveals Christ in the midst of the lampstands. He is not far from His people. He stands among them with holy presence.
 
@@ -8678,7 +8678,7 @@ Walking with Jesus means serving under the Shepherd who stands in the midst.
 
 **Scripture Reference:** Revelation 1:7
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Christ's visible coming because the Teacher forms repentance, hope, and faithful witness before every eye sees Him.
+**Context and language lens:** Christ's visible coming because the Teacher forms repentance, hope, and faithful witness before every eye sees Him.
 
 Revelation 1:7 points toward Christ's visible appearing. The verse carries glory, grief, recognition, and the certainty that Jesus will be seen.
 
@@ -8709,7 +8709,7 @@ Walking with Jesus means letting Sabbath hope refine the road until He is seen.
 
 **Scripture Reference:** Revelation 22:1
 
-**Production lens note:** The architecture assigns hodos; the production lens uses the river of life because the way of Jesus leads toward healing abundance, not spiritual exhaustion.
+**Context and language lens:** The river of life because the way of Jesus leads toward healing abundance, not spiritual exhaustion.
 
 Revelation 22:1 opens a vision of life flowing from God. The end of the story is not dryness, scarcity, or distance. It is life clear and near.
 
@@ -8737,7 +8737,7 @@ Walking with Jesus means following the road toward the river of life.
 
 **Scripture Reference:** Revelation 22:12
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Christ's coming with reward because resurrection hope takes faithful living seriously without turning grace into earning.
+**Context and language lens:** Christ's coming with reward because resurrection hope takes faithful living seriously without turning grace into earning.
 
 Revelation 22:12 points to Christ's coming and the meaningfulness of what has been done. The future is personal, near, and accountable.
 
@@ -8765,7 +8765,7 @@ Walking with Jesus means living faithfully because the coming Christ is gracious
 
 **Scripture Reference:** Revelation 22:14
 
-**Production lens note:** The architecture assigns meno; the production lens uses the blessed ones entering toward the tree of life because abiding hope receives cleansing and access as grace.
+**Context and language lens:** The blessed ones entering toward the tree of life because abiding hope receives cleansing and access as grace.
 
 Revelation 22:14 speaks blessing, cleansing, access, and the tree of life. The image carries homecoming after long exile.
 
@@ -8793,7 +8793,7 @@ Walking with Jesus means remaining near the One who opens the way to life.
 
 **Scripture Reference:** Revelation 22:16
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Jesus' self-witness as Root, Offspring, and Morning Star because His compassion gives identity and dawn.
+**Context and language lens:** Jesus' self-witness as Root, Offspring, and Morning Star because His compassion gives identity and dawn.
 
 Revelation 22:16 centers Jesus' own witness about who He is. He is rooted in promise, royal in fulfillment, and bright with morning hope.
 
@@ -8821,7 +8821,7 @@ Walking with Jesus means following the Morning Star before the day looks bright.
 
 **Scripture Reference:** Revelation 22:5
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses the promise of no night because the Teacher forms courage by showing the end of darkness.
+**Context and language lens:** The promise of no night because the Teacher forms courage by showing the end of darkness.
 
 Revelation 22:5 points toward a future without night and with God's servants reigning in His light. Darkness does not get the final say.
 
@@ -8849,7 +8849,7 @@ Walking with Jesus means learning courage from the promised end of night.
 
 **Scripture Reference:** Revelation 22:6
 
-**Production lens note:** The architecture assigns hodos; the production lens uses the trustworthy words because the road with Jesus rests on a faithful promise, not wishful thinking.
+**Context and language lens:** The trustworthy words because the road with Jesus rests on a faithful promise, not wishful thinking.
 
 Revelation 22:6 affirms the trustworthiness of what has been revealed. Hope has a foundation.
 
@@ -8877,7 +8877,7 @@ Walking with Jesus means leaning your weight on the faithful Word while you walk
 
 **Scripture Reference:** Revelation 22:7
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Christ's nearness and blessing because resurrection hope lives ready under the promise of His coming.
+**Context and language lens:** Christ's nearness and blessing because resurrection hope lives ready under the promise of His coming.
 
 Revelation 22:7 speaks with urgency and blessing. Jesus' coming is not an abstract doctrine; it is a promise meant to shape readiness.
 
@@ -8908,7 +8908,7 @@ Walking with Jesus means resting with the Friend who is coming soon.
 
 **Scripture Reference:** Revelation 3:10
 
-**Production lens note:** The architecture assigns meno; the production lens uses Christ's call to patient endurance because remaining with Jesus is tested most clearly when pressure tries to rename obedience as weakness.
+**Context and language lens:** Christ's call to patient endurance because remaining with Jesus is tested most clearly when pressure tries to rename obedience as weakness.
 
 Revelation 3:10 speaks to endurance, protection, and the keeping power of Christ. Jesus does not pretend His people will never face strain. He speaks as the One who knows how to keep what belongs to Him.
 
@@ -8936,7 +8936,7 @@ Walking with Jesus means remaining with Him when endurance becomes the place whe
 
 **Scripture Reference:** Revelation 3:11
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Christ's nearness and the call to hold fast because His compassionate urgency protects hope from drift.
+**Context and language lens:** Christ's nearness and the call to hold fast because His compassionate urgency protects hope from drift.
 
 Revelation 3:11 carries urgency without panic. Jesus speaks of His coming and calls His people to hold fast.
 
@@ -8964,7 +8964,7 @@ Walking with Jesus means holding fast to what He has placed in your life until H
 
 **Scripture Reference:** Revelation 3:12
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses the promise of being made a pillar and bearing God's name because Jesus the Teacher forms identity strong enough to stand.
+**Context and language lens:** The promise of being made a pillar and bearing God's name because Jesus the Teacher forms identity strong enough to stand.
 
 Revelation 3:12 gives language of stability, belonging, and a name received from God. The promise is not self-invention. It is identity given by Christ.
 
@@ -8992,7 +8992,7 @@ Walking with Jesus means receiving identity from the Shepherd's voice until His 
 
 **Scripture Reference:** Revelation 3:20
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Christ at the door and the shared meal because the road with Jesus begins again wherever the heart opens to His presence.
+**Context and language lens:** Christ at the door and the shared meal because the road with Jesus begins again wherever the heart opens to His presence.
 
 Revelation 3:20 is intimate, searching, and hopeful. Jesus does not stand far off with cold assessment. He comes near enough to knock and personal enough to share the table.
 
@@ -9020,7 +9020,7 @@ Walking with Jesus means opening the hidden room and letting fellowship become t
 
 **Scripture Reference:** Revelation 3:21
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Christ's overcoming and shared throne because resurrection hope joins victory to intimacy with the risen Lord.
+**Context and language lens:** Christ's overcoming and shared throne because resurrection hope joins victory to intimacy with the risen Lord.
 
 Revelation 3:21 speaks of overcoming with Christ and sharing in His victory. The promise is breathtaking, but it is not detached from the way Jesus overcame.
 
@@ -9048,7 +9048,7 @@ Walking with Jesus means drawing near to the risen Overcomer until His victory b
 
 **Scripture Reference:** Revelation 3:3
 
-**Production lens note:** The architecture assigns meno; the production lens uses Christ's call to remember, keep, and repent because abiding peace includes holy wakefulness.
+**Context and language lens:** Christ's call to remember, keep, and repent because abiding peace includes holy wakefulness.
 
 Revelation 3:3 calls the church to remember what was received, to keep it, and to turn back. Jesus loves His people enough to wake them before sleep becomes loss.
 
@@ -9076,7 +9076,7 @@ Walking with Jesus means letting His wake-up call lead you back to received trut
 
 **Scripture Reference:** Revelation 3:9
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Christ's promise to vindicate His beloved people because His compassion is strong enough to answer contempt without making the heart bitter.
+**Context and language lens:** Christ's promise to vindicate His beloved people because His compassion is strong enough to answer contempt without making the heart bitter.
 
 Revelation 3:9 speaks to a people who have been misread, opposed, and belittled. Jesus sees the truth, and He knows how to vindicate what belongs to Him.
 
@@ -9107,7 +9107,7 @@ Walking with Jesus means resting at the table of grace while the Lord of compass
 
 **Scripture Reference:** Revelation 5:9
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses the new song of redemption because Jesus teaches healing by showing the worth, cost, and reach of His saving work.
+**Context and language lens:** The new song of redemption because Jesus teaches healing by showing the worth, cost, and reach of His saving work.
 
 Revelation 5:9 brings worship to the Lamb who redeems. Heaven does not treat redemption as a small religious idea. It becomes a song.
 
@@ -9135,7 +9135,7 @@ Walking with Jesus means letting the song of redemption become stronger than the
 
 **Scripture Reference:** Matthew 10:10
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Jesus' sending instructions because the road with Jesus trains dependence, simplicity, and trust in His provision.
+**Context and language lens:** Jesus' sending instructions because the road with Jesus trains dependence, simplicity, and trust in His provision.
 
 Matthew 10:10 sits inside Jesus' sending of His disciples. He gives practical instructions that expose how easily the heart wants to carry more than obedience requires.
 
@@ -9163,7 +9163,7 @@ Walking with Jesus means following the Sender with enough trust to travel lighte
 
 **Scripture Reference:** Matthew 10:14
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Jesus' instruction about rejection because resurrection hope gives courage to release outcomes without losing obedience.
+**Context and language lens:** Jesus' instruction about rejection because resurrection hope gives courage to release outcomes without losing obedience.
 
 Matthew 10:14 acknowledges that not every place will receive the message or the messenger. Jesus prepares His disciples for rejection without making rejection their identity.
 
@@ -9191,7 +9191,7 @@ Walking with Jesus means releasing what refused grace while staying faithful to 
 
 **Scripture Reference:** Matthew 10:15
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' sober judgment language because abiding hope trusts God with justice instead of making the disciple carry final verdicts.
+**Context and language lens:** Jesus' sober judgment language because abiding hope trusts God with justice instead of making the disciple carry final verdicts.
 
 Matthew 10:15 carries sober weight. Jesus does not flatten truth to avoid discomfort. He reminds His followers that God sees, remembers, and judges rightly.
 
@@ -9219,7 +9219,7 @@ Walking with Jesus means remaining near enough to trust His justice and keep you
 
 **Scripture Reference:** Matthew 10:16
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Jesus sending disciples into danger with wisdom and innocence because His compassion prepares rather than flatters.
+**Context and language lens:** Jesus sending disciples into danger with wisdom and innocence because His compassion prepares rather than flatters.
 
 Matthew 10:16 is tender and realistic. Jesus sends His disciples with eyes open. He does not confuse faith with naivete.
 
@@ -9247,7 +9247,7 @@ Walking with Jesus means letting the compassionate Friend train both your courag
 
 **Scripture Reference:** Matthew 10:17
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' warning about councils and opposition because the Teacher forms steadiness before pressure arrives.
+**Context and language lens:** Jesus' warning about councils and opposition because the Teacher forms steadiness before pressure arrives.
 
 Matthew 10:17 warns the disciples that faithfulness may bring them before hostile rooms. Jesus is not frightening them. He is preparing them.
 
@@ -9275,7 +9275,7 @@ Walking with Jesus means letting the Teacher's warning become steadiness, not fe
 
 **Scripture Reference:** Matthew 10:18
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Jesus' promise of witness before rulers and nations because the road with Jesus can turn pressure into testimony.
+**Context and language lens:** Jesus' promise of witness before rulers and nations because the road with Jesus can turn pressure into testimony.
 
 Matthew 10:18 tells the disciples that opposition can become witness. The setting may be intimidating, but Jesus sees more than intimidation. He sees testimony.
 
@@ -9306,7 +9306,7 @@ Walking with Jesus means resting in Him so your witness flows from belonging, no
 
 **Scripture Reference:** Matthew 10:19
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Jesus' instruction not to be anxious about forced speech because resurrection hope trusts the living Christ before the words arrive.
+**Context and language lens:** Jesus' instruction not to be anxious about forced speech because resurrection hope trusts the living Christ before the words arrive.
 
 Matthew 10:19 speaks into a pressured moment. Jesus knows His disciples may stand where they do not feel ready, and He tells them not to be consumed by anxious rehearsing.
 
@@ -9334,7 +9334,7 @@ Walking with Jesus means trusting the living Shepherd before you know every word
 
 **Scripture Reference:** Matthew 10:20
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' promise of the Father's Spirit speaking because abiding keeps the disciple available to divine help under pressure.
+**Context and language lens:** Jesus' promise of the Father's Spirit speaking because abiding keeps the disciple available to divine help under pressure.
 
 Matthew 10:20 brings comfort after warning. Jesus points His disciples to the Spirit's help when witness feels beyond their own capacity.
 
@@ -9362,7 +9362,7 @@ Walking with Jesus means staying close enough to receive help that is not manufa
 
 **Scripture Reference:** Matthew 10:21
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Jesus' warning about family betrayal because Christ's compassion tells the truth about pain without abandoning the wounded heart.
+**Context and language lens:** Jesus' warning about family betrayal because Christ's compassion tells the truth about pain without abandoning the wounded heart.
 
 Matthew 10:21 names one of the hardest kinds of pain: opposition that comes through close relationships. Jesus does not romanticize discipleship or pretend that every wound will come from strangers.
 
@@ -9390,7 +9390,7 @@ Walking with Jesus means bringing close relational pain into the nearness of the
 
 **Scripture Reference:** Matthew 10:22
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' call to endure hatred for His name because the Teacher forms perseverance without feeding a persecution identity.
+**Context and language lens:** Jesus' call to endure hatred for His name because the Teacher forms perseverance without feeding a persecution identity.
 
 Matthew 10:22 speaks of hatred and endurance. The words are sober, but Jesus does not give them so His people can build an identity around being hated. He gives them so they can endure with Him.
 
@@ -9418,7 +9418,7 @@ Walking with Jesus means enduring in His name without letting opposition become 
 
 **Scripture Reference:** Matthew 10:26
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Jesus' instruction not to fear hidden opposition because the road with Jesus trusts that God will bring truth into the light.
+**Context and language lens:** Jesus' instruction not to fear hidden opposition because the road with Jesus trusts that God will bring truth into the light.
 
 Matthew 10:26 tells the disciple not to fear people whose secrecy seems powerful. What is hidden will not stay hidden forever.
 
@@ -9446,7 +9446,7 @@ Walking with Jesus means staying on the road of faithful mercy while God holds w
 
 **Scripture Reference:** Matthew 10:27
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Jesus' command to speak in the light because resurrection hope turns private formation into public courage.
+**Context and language lens:** Jesus' command to speak in the light because resurrection hope turns private formation into public courage.
 
 Matthew 10:27 moves from hearing to speaking. What Jesus forms in the hidden place is not meant to die there.
 
@@ -9474,7 +9474,7 @@ Walking with Jesus means receiving His word privately and carrying it faithfully
 
 **Scripture Reference:** Matthew 10:28
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' teaching on fear of God over fear of people because abiding courage places ultimate reverence where it belongs.
+**Context and language lens:** Jesus' teaching on fear of God over fear of people because abiding courage places ultimate reverence where it belongs.
 
 Matthew 10:28 is direct and holy. Jesus does not deny human danger, but He refuses to let human threat become ultimate.
 
@@ -9505,7 +9505,7 @@ Walking with Jesus means resting near enough to God that fear loses its throne.
 
 **Scripture Reference:** Matthew 10:29
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Jesus' assurance about the small and noticed life because divine compassion sees what people often dismiss.
+**Context and language lens:** Jesus' assurance about the small and noticed life because divine compassion sees what people often dismiss.
 
 Matthew 10:29 brings the reader into the tender precision of God's care. Jesus is not speaking in abstraction. He is teaching His disciples that even what seems small is not overlooked by the Father.
 
@@ -9533,7 +9533,7 @@ Walking with Jesus means receiving the Father's detailed care until courage rise
 
 **Scripture Reference:** Matthew 10:30
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' assurance of God's intimate knowledge because the Teacher forms courage by teaching the reader she is fully known and not forgotten.
+**Context and language lens:** Jesus' assurance of God's intimate knowledge because the Teacher forms courage by teaching the reader she is fully known and not forgotten.
 
 Matthew 10:30 presses God's care even closer. Jesus teaches that the Father knows His children with an intimacy beyond human counting.
 
@@ -9564,7 +9564,7 @@ Walking with Jesus means yielding to the God who knows you completely and loves 
 
 **Scripture Reference:** Matthew 10:31
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus' command not to fear because God's attentive care gives the witness a steady light for the next step.
+**Context and language lens:** Jesus' command not to fear because God's attentive care gives the witness a steady light for the next step.
 
 Matthew 10:31 follows Jesus' assurance that the Father knows and values His children. The command not to fear is not scolding. It is grounded in care.
 
@@ -9592,7 +9592,7 @@ Walking with Jesus means letting the Father's care light the path before fear gi
 
 **Scripture Reference:** Matthew 10:32
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses Jesus' call to acknowledge Him openly because witness is discipleship made visible, not admiration kept private.
+**Context and language lens:** Jesus' call to acknowledge Him openly because witness is discipleship made visible, not admiration kept private.
 
 Matthew 10:32 brings witness into the open. Jesus speaks of acknowledging Him before others, not as religious display, but as faithful allegiance.
 
@@ -9620,7 +9620,7 @@ Walking with Jesus means letting private allegiance become humble, visible faith
 
 **Scripture Reference:** Matthew 10:33
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus' warning about denying Him because saving wholeness includes truthful allegiance when fear tempts the heart to hide.
+**Context and language lens:** Jesus' warning about denying Him because saving wholeness includes truthful allegiance when fear tempts the heart to hide.
 
 Matthew 10:33 is sobering. Jesus does not treat denial as a small matter because love and allegiance belong together.
 
@@ -9648,7 +9648,7 @@ Walking with Jesus means receiving saving wholeness until fear no longer gets to
 
 **Scripture Reference:** Matthew 10:36
 
-**Production lens note:** The architecture assigns eirene; the production lens uses Jesus' warning about household opposition because peace in Christ is deeper than conflict avoidance.
+**Context and language lens:** Jesus' warning about household opposition because peace in Christ is deeper than conflict avoidance.
 
 Matthew 10:36 names the ache of division close to home. Jesus is not teaching His people to love conflict. He is teaching them that faithfulness may disturb false peace.
 
@@ -9676,7 +9676,7 @@ Walking with Jesus means choosing His wholeness over counterfeit peace.
 
 **Scripture Reference:** Matthew 10:4
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the disciple list, including a future betrayer, because the Lord's authority is steady even when human loyalty is complicated.
+**Context and language lens:** The disciple list, including a future betrayer, because the Lord's authority is steady even when human loyalty is complicated.
 
 Matthew 10:4 sits inside the naming of the twelve. It includes zeal, calling, complexity, and the shadow of betrayal. Jesus is not naive about the people near Him.
 
@@ -9704,7 +9704,7 @@ Walking with Jesus means resting near the Lord whose authority is steady when hu
 
 **Scripture Reference:** Matthew 10:40
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus' teaching about receiving His sent ones because witness carries Christ's presence into ordinary hospitality and response.
+**Context and language lens:** Jesus' teaching about receiving His sent ones because witness carries Christ's presence into ordinary hospitality and response.
 
 Matthew 10:40 shows the dignity of receiving those Jesus sends. Hospitality is not small when it honors Christ.
 
@@ -9732,7 +9732,7 @@ Walking with Jesus means receiving His presence with humility when He comes thro
 
 **Scripture Reference:** Matthew 10:41
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses Jesus' promise about receiving a prophet or righteous person because discipleship honors God's work in others.
+**Context and language lens:** Jesus' promise about receiving a prophet or righteous person because discipleship honors God's work in others.
 
 Matthew 10:41 continues the theme of receiving. Jesus gives weight to the way His people honor those who carry His work.
 
@@ -9763,7 +9763,7 @@ Walking with Jesus means honoring God's work in others as part of your own faith
 
 **Scripture Reference:** Matthew 10:6
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus' focused sending to the lost sheep of Israel because saving witness begins with the people and assignment Jesus actually places before us.
+**Context and language lens:** Jesus' focused sending to the lost sheep of Israel because saving witness begins with the people and assignment Jesus actually places before us.
 
 Matthew 10:6 shows Jesus giving His disciples a focused assignment. He does not send them everywhere at once. He directs their first steps toward people He names with compassion.
 
@@ -9791,7 +9791,7 @@ Walking with Jesus means letting His saving heart focus your obedience.
 
 **Scripture Reference:** Matthew 10:7
 
-**Production lens note:** The architecture assigns eirene; the production lens uses Jesus' message of the nearness of the kingdom because peace becomes witness when the reign of God is announced and embodied.
+**Context and language lens:** Jesus' message of the nearness of the kingdom because peace becomes witness when the reign of God is announced and embodied.
 
 Matthew 10:7 gives the disciples a message of nearness. The kingdom is not presented as a distant idea. God's reign has come near in Christ.
 
@@ -9819,7 +9819,7 @@ Walking with Jesus means carrying the nearness of God's reign into ordinary spee
 
 **Scripture Reference:** Matthew 10:9
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses Jesus' instruction about not acquiring extra resources for the mission because His Lordship frees witness from anxious accumulation.
+**Context and language lens:** Jesus' instruction about not acquiring extra resources for the mission because His Lordship frees witness from anxious accumulation.
 
 Matthew 10:9 continues Jesus' sending instructions. He addresses what the disciples should not gather for themselves before they go.
 
@@ -9847,7 +9847,7 @@ Walking with Jesus means trusting His Lordship enough to obey without waiting fo
 
 **Scripture Reference:** Matthew 12:11
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus' question about rescuing a sheep because His light exposes religious reasoning that withholds mercy.
+**Context and language lens:** Jesus' question about rescuing a sheep because His light exposes religious reasoning that withholds mercy.
 
 Matthew 12:11 shows Jesus pressing mercy into a contested moment. He asks a question that reveals how easily people can protect an argument while neglecting a hurting life.
 
@@ -9875,7 +9875,7 @@ Walking with Jesus means letting His light move you toward rescue when compassio
 
 **Scripture Reference:** Matthew 12:12
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses Jesus' affirmation that doing good is fitting because discipleship follows the Lord of mercy into Sabbath wholeness.
+**Context and language lens:** Jesus' affirmation that doing good is fitting because discipleship follows the Lord of mercy into Sabbath wholeness.
 
 Matthew 12:12 lifts human worth and the goodness of mercy. Jesus does not separate holy time from holy compassion.
 
@@ -9903,7 +9903,7 @@ Walking with Jesus means resting with the Friend who leads His people into mercy
 
 **Scripture Reference:** Matthew 12:13
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus healing the withered hand because saving wholeness restores what shame and limitation tempted the person to hide.
+**Context and language lens:** Jesus healing the withered hand because saving wholeness restores what shame and limitation tempted the person to hide.
 
 Matthew 12:13 centers Jesus' restoring word. A withered place is brought into the open and made whole by His command.
 
@@ -9931,7 +9931,7 @@ Walking with Jesus means allowing His saving wholeness to become visible obedien
 
 **Scripture Reference:** Matthew 12:14
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the opposition after Jesus' mercy because peace in Christ remains whole even when goodness provokes resistance.
+**Context and language lens:** The opposition after Jesus' mercy because peace in Christ remains whole even when goodness provokes resistance.
 
 Matthew 12:14 shows opposition rising after mercy is shown. The passage is sobering: not everyone celebrates healing.
 
@@ -9962,7 +9962,7 @@ Walking with Jesus means remaining whole in Him when goodness is resisted.
 
 **Scripture Reference:** Matthew 12:16
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses Jesus' charge not to make Him known because His Lordship is not controlled by publicity, pressure, or human timing.
+**Context and language lens:** Jesus' charge not to make Him known because His Lordship is not controlled by publicity, pressure, or human timing.
 
 Matthew 12:16 shows Jesus directing the response to His works. He is not driven by exposure. He moves under the Father's purpose.
 
@@ -9990,7 +9990,7 @@ Walking with Jesus means trusting the Lord's timing more than the pressure to be
 
 **Scripture Reference:** Matthew 12:17
 
-**Production lens note:** The architecture assigns phos; the production lens uses Matthew's fulfillment marker because God's revealed purpose gives direction beneath the visible moment.
+**Context and language lens:** Matthew's fulfillment marker because God's revealed purpose gives direction beneath the visible moment.
 
 Matthew 12:17 signals that what happens in Jesus is not random. The Gospel writer points the reader back to God's revealed purpose.
 
@@ -10018,7 +10018,7 @@ Walking with Jesus means letting God's revealed purpose give direction beneath o
 
 **Scripture Reference:** Matthew 12:18
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses the chosen Servant language because following Jesus means receiving His servant-shaped way of justice and Spirit-filled obedience.
+**Context and language lens:** The chosen Servant language because following Jesus means receiving His servant-shaped way of justice and Spirit-filled obedience.
 
 Matthew 12:18 centers the beloved Servant, chosen by God, filled with the Spirit, and appointed to bring justice.
 
@@ -10046,7 +10046,7 @@ Walking with Jesus means following the beloved Servant into Spirit-filled witnes
 
 **Scripture Reference:** Matthew 12:19
 
-**Production lens note:** The architecture assigns sozo; the production lens uses the Servant's refusal to quarrel or cry out because saving wholeness can be strong without being loud.
+**Context and language lens:** The Servant's refusal to quarrel or cry out because saving wholeness can be strong without being loud.
 
 Matthew 12:19 describes a Servant who does not build His mission on public quarrel or noise. His strength is not measured by volume.
 
@@ -10074,7 +10074,7 @@ Walking with Jesus means letting saving wholeness make your witness both strong 
 
 **Scripture Reference:** Matthew 12:20
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the bruised reed and dim wick imagery because Christ's peace handles fragile people with restoring gentleness.
+**Context and language lens:** The bruised reed and dim wick imagery because Christ's peace handles fragile people with restoring gentleness.
 
 Matthew 12:20 reveals the Servant's gentleness. He does not crush what is already bruised or snuff out what is barely burning.
 
@@ -10102,7 +10102,7 @@ Walking with Jesus means resting at the table of grace where fragile places are 
 
 **Scripture Reference:** Matthew 12:21
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the promise of hope in His name because trusted Lordship becomes healing hope for more people than the disciple first imagined.
+**Context and language lens:** The promise of hope in His name because trusted Lordship becomes healing hope for more people than the disciple first imagined.
 
 Matthew 12:21 widens the promise. Hope is attached to His name, and that hope reaches beyond expected borders.
 
@@ -10130,7 +10130,7 @@ Walking with Jesus means bearing witness to a Lord whose name carries hope beyon
 
 **Scripture Reference:** Matthew 12:24
 
-**Production lens note:** The architecture assigns phos; the production lens uses the accusation against Jesus because light exposes the fear that calls God's work by the wrong name.
+**Context and language lens:** The accusation against Jesus because light exposes the fear that calls God's work by the wrong name.
 
 Matthew 12:24 shows religious leaders misnaming the work of Jesus. When a heart is threatened, it can call light darkness.
 
@@ -10161,7 +10161,7 @@ Walking with Jesus means letting His light correct suspicious interpretations an
 
 **Scripture Reference:** Matthew 12:26
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses Jesus' answer about a divided kingdom because discipleship refuses divided allegiance and returns the heart to Christ's coherence.
+**Context and language lens:** Jesus' answer about a divided kingdom because discipleship refuses divided allegiance and returns the heart to Christ's coherence.
 
 Matthew 12:26 shows Jesus answering an accusation with clear spiritual logic. A divided kingdom cannot stand.
 
@@ -10189,7 +10189,7 @@ Walking with Jesus means letting His truth gather the divided places into faithf
 
 **Scripture Reference:** Matthew 12:27
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus' question to expose inconsistent judgment because saving wholeness includes honest self-examination.
+**Context and language lens:** Jesus' question to expose inconsistent judgment because saving wholeness includes honest self-examination.
 
 Matthew 12:27 presses the accusers to face the inconsistency in their own reasoning. Jesus does not merely defend Himself; He exposes the heart's uneven scales.
 
@@ -10217,7 +10217,7 @@ Walking with Jesus means receiving His saving correction until your witness grow
 
 **Scripture Reference:** Matthew 12:29
 
-**Production lens note:** The architecture assigns eirene; the production lens uses Jesus' image of binding the strong man because Christ's peace rests on His stronger authority over what once held people captive.
+**Context and language lens:** Jesus' image of binding the strong man because Christ's peace rests on His stronger authority over what once held people captive.
 
 Matthew 12:29 reveals Jesus as stronger than the power that binds. He does not merely comfort captives; He confronts captivity.
 
@@ -10245,7 +10245,7 @@ Walking with Jesus means witnessing to the Friend who is strong enough to free c
 
 **Scripture Reference:** Matthew 12:3
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses Jesus pointing to David's hunger because trusted Lordship teaches mercy and Scripture-shaped discernment when human need is contested.
+**Context and language lens:** Jesus pointing to David's hunger because trusted Lordship teaches mercy and Scripture-shaped discernment when human need is contested.
 
 Matthew 12:3 shows Jesus answering accusation by opening Scripture with wisdom. He brings human need, holy things, and mercy into the light of God's story.
 
@@ -10273,7 +10273,7 @@ Walking with Jesus means receiving His Lordship over how you interpret need.
 
 **Scripture Reference:** Matthew 12:30
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus' with-or-against language because His light exposes passive neutrality and invites gathered allegiance.
+**Context and language lens:** Jesus' with-or-against language because His light exposes passive neutrality and invites gathered allegiance.
 
 Matthew 12:30 is direct. Jesus does not treat allegiance to Him as a casual accessory. A life either gathers with Him or scatters away from Him.
 
@@ -10301,7 +10301,7 @@ Walking with Jesus means resting in gathered allegiance instead of drifting in p
 
 **Scripture Reference:** Matthew 12:31
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses Jesus' warning about rejecting the Spirit's witness with pastoral seriousness, guarding the reader from both presumption and panic.
+**Context and language lens:** Jesus' warning about rejecting the Spirit's witness with pastoral seriousness, guarding the reader from both presumption and panic.
 
 Matthew 12:31 is a sober warning. Jesus speaks seriously about resisting the Spirit's witness to God's work.
 
@@ -10329,7 +10329,7 @@ Walking with Jesus means staying tender to the Spirit's witness and quick to ret
 
 **Scripture Reference:** Matthew 12:33
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus' tree-and-fruit teaching because saving wholeness forms visible fruit from a renewed root.
+**Context and language lens:** Jesus' tree-and-fruit teaching because saving wholeness forms visible fruit from a renewed root.
 
 Matthew 12:33 moves from appearance to fruit. Jesus teaches that the nature of the tree becomes visible in what it bears.
 
@@ -10360,7 +10360,7 @@ Walking with Jesus means letting saving wholeness become visible fruit.
 
 **Scripture Reference:** Matthew 12:34
 
-**Production lens note:** The architecture assigns eirene; the production lens uses Jesus' teaching about the mouth speaking from the heart because Christ's peace begins where witness is sourced, not only where words are heard.
+**Context and language lens:** Jesus' teaching about the mouth speaking from the heart because Christ's peace begins where witness is sourced, not only where words are heard.
 
 Matthew 12:34 moves witness beneath the surface. Jesus shows that speech is not detached from the heart. Words reveal what has been stored, protected, rehearsed, and loved within.
 
@@ -10388,7 +10388,7 @@ Walking with Jesus means letting His nearness shape the heart before the mouth s
 
 **Scripture Reference:** Matthew 12:35
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses Jesus' teaching about good treasure because trusted Lordship forms the inner storehouse from which witness draws.
+**Context and language lens:** Jesus' teaching about good treasure because trusted Lordship forms the inner storehouse from which witness draws.
 
 Matthew 12:35 speaks of treasure within. The life brings out what has been stored.
 
@@ -10416,7 +10416,7 @@ Walking with Jesus means letting His Lordship fill the inner storehouse with goo
 
 **Scripture Reference:** Matthew 12:36
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus' teaching about accountable words because light gives direction for a year-ending witness that is truthful, humble, and grace-shaped.
+**Context and language lens:** Jesus' teaching about accountable words because light gives direction for a year-ending witness that is truthful, humble, and grace-shaped.
 
 Matthew 12:36 brings sober clarity to ordinary speech. Jesus takes words seriously because words carry witness.
 

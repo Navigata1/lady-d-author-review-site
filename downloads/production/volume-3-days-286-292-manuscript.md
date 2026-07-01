@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 14:14
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Samson's riddle without quoting it. Prayer beyond words is framed as Spirit-breathed witness that chooses clarity over cleverness.
+**Context and language lens:** Samson's riddle without quoting it. Prayer beyond words is framed as Spirit-breathed witness that chooses clarity over cleverness.
 
 Judges 14:14 places Samson's words before the wedding companions as a riddle. What he says is shaped by secrecy, cleverness, and contest.
 
@@ -42,7 +42,7 @@ The Spirit teaches prayer by breathing clarity into guarded speech.
 
 **Scripture Reference:** Judges 14:16
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses emotional pressure inside Samson's marriage feast. Wind in the waiting is framed as set-apart patience when love, fear, and pressure become tangled.
+**Context and language lens:** Emotional pressure inside Samson's marriage feast. Wind in the waiting is framed as set-apart patience when love, fear, and pressure become tangled.
 
 Judges 14:16 brings relational pressure into the story. Tears, accusation, and fear press against the hidden riddle.
 
@@ -70,7 +70,7 @@ The Spirit teaches prayer by setting tenderness apart from manipulation.
 
 **Scripture Reference:** Judges 14:17
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses prolonged pressure and the revealing of the riddle. Oil for the journey is framed as God-given capacity to keep integrity under sustained pressure.
+**Context and language lens:** Prolonged pressure and the revealing of the riddle. Oil for the journey is framed as God-given capacity to keep integrity under sustained pressure.
 
 Judges 14:17 shows pressure continuing until Samson gives away what he had kept hidden. The secret does not stay contained.
 
@@ -98,7 +98,7 @@ The Spirit teaches prayer by strengthening integrity under sustained pressure.
 
 **Scripture Reference:** Judges 14:18
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the exposure of Samson's secret and his sharp response. Freedom in the Spirit is framed as cleansing reaction before humiliation becomes anger.
+**Context and language lens:** The exposure of Samson's secret and his sharp response. Freedom in the Spirit is framed as cleansing reaction before humiliation becomes anger.
 
 Judges 14:18 exposes what had been hidden. Samson realizes his secret has been used against him.
 
@@ -126,7 +126,7 @@ The Spirit teaches prayer by cleansing reaction before anger takes over.
 
 **Scripture Reference:** Judges 14:20
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses relational loss and betrayal after the feast. The breath of God is framed as prayerful nearness when grief needs a truer voice than revenge.
+**Context and language lens:** Relational loss and betrayal after the feast. The breath of God is framed as prayerful nearness when grief needs a truer voice than revenge.
 
 Judges 14:20 leaves Samson with a painful relational loss. What was pursued becomes tangled in betrayal and consequence.
 
@@ -154,7 +154,7 @@ The Spirit teaches prayer by breathing God's nearness into relational grief.
 
 **Scripture Reference:** Judges 15:1
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Samson's return and blocked expectation. The Comforter's nearness is framed as Spirit-breathed prayer when an assumed door is closed.
+**Context and language lens:** Samson's return and blocked expectation. The Comforter's nearness is framed as Spirit-breathed prayer when an assumed door is closed.
 
 Judges 15:1 shows Samson returning with expectation. The way he expects to enter is blocked.
 
@@ -182,7 +182,7 @@ The Spirit teaches prayer by breathing honesty into disappointed expectation.
 
 **Scripture Reference:** Judges 15:3
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Samson's self-justifying words before retaliation. Holy fire is framed as set-apart surrender before pain argues for revenge.
+**Context and language lens:** Samson's self-justifying words before retaliation. Holy fire is framed as set-apart surrender before pain argues for revenge.
 
 Judges 15:3 brings the first edge of retaliation into speech. Samson gives himself permission to act from injury.
 

@@ -10,11 +10,11 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 326 - November 22
 
-### Let Fire Refine the Shepherd's Voice
+### Let Grateful Remembrance Refine the Shepherd's Voice
 
 **Scripture Reference:** Matthew 10:19
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Jesus' instruction not to be anxious about forced speech because resurrection hope trusts the living Christ before the words arrive.
+**Context and language lens:** Jesus' instruction not to be anxious about forced speech because resurrection hope trusts the living Christ before the words arrive.
 
 Matthew 10:19 speaks into a pressured moment. Jesus knows His disciples may stand where they do not feel ready, and He tells them not to be consumed by anxious rehearsing.
 
@@ -32,17 +32,17 @@ Walking with Jesus means trusting the living Shepherd before you know every word
 
 **Journal prompt:** What conversation or pressure am I rehearsing in fear instead of entrusting to Jesus?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Let Grateful Remembrance Refine the Shepherd's Voice in one faithful step today.
 
 ---
 
 ## Day 327 - November 23
 
-### Come Home to the Road with Jesus
+### Come Home to Grateful Remembrance Through the Road with Jesus
 
 **Scripture Reference:** Matthew 10:20
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' promise of the Father's Spirit speaking because abiding keeps the disciple available to divine help under pressure.
+**Context and language lens:** Jesus' promise of the Father's Spirit speaking because abiding keeps the disciple available to divine help under pressure.
 
 Matthew 10:20 brings comfort after warning. Jesus points His disciples to the Spirit's help when witness feels beyond their own capacity.
 
@@ -60,17 +60,17 @@ Walking with Jesus means staying close enough to receive help that is not manufa
 
 **Journal prompt:** Where do I need to move from self-reliance into Spirit-help?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Come Home to Grateful Remembrance Through the Road with Jesus in one faithful step today.
 
 ---
 
 ## Day 328 - November 24
 
-### Practice the Nearness of Christ
+### Practice Grateful Remembrance in the Nearness of Christ
 
 **Scripture Reference:** Matthew 10:21
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Jesus' warning about family betrayal because Christ's compassion tells the truth about pain without abandoning the wounded heart.
+**Context and language lens:** Jesus' warning about family betrayal because Christ's compassion tells the truth about pain without abandoning the wounded heart.
 
 Matthew 10:21 names one of the hardest kinds of pain: opposition that comes through close relationships. Jesus does not romanticize discipleship or pretend that every wound will come from strangers.
 
@@ -88,17 +88,17 @@ Walking with Jesus means bringing close relational pain into the nearness of the
 
 **Journal prompt:** What close wound needs the honest compassion of Jesus today?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Practice Grateful Remembrance in the Nearness of Christ in one faithful step today.
 
 ---
 
 ## Day 329 - November 25
 
-### Surrender to the Way of Peace
+### Surrender to Grateful Remembrance Through the Way of Peace
 
 **Scripture Reference:** Matthew 10:22
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' call to endure hatred for His name because the Teacher forms perseverance without feeding a persecution identity.
+**Context and language lens:** Jesus' call to endure hatred for His name because the Teacher forms perseverance without feeding a persecution identity.
 
 Matthew 10:22 speaks of hatred and endurance. The words are sober, but Jesus does not give them so His people can build an identity around being hated. He gives them so they can endure with Him.
 
@@ -116,17 +116,17 @@ Walking with Jesus means enduring in His name without letting opposition become 
 
 **Journal prompt:** Where am I tempted to make opposition louder than belonging to Jesus?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Surrender to Grateful Remembrance Through the Way of Peace in one faithful step today.
 
 ---
 
 ## Day 330 - November 26
 
-### Let Mercy Speak the Table of Grace
+### Let Grateful Remembrance Speak the Table of Grace
 
 **Scripture Reference:** Matthew 10:26
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Jesus' instruction not to fear hidden opposition because the road with Jesus trusts that God will bring truth into the light.
+**Context and language lens:** Jesus' instruction not to fear hidden opposition because the road with Jesus trusts that God will bring truth into the light.
 
 Matthew 10:26 tells the disciple not to fear people whose secrecy seems powerful. What is hidden will not stay hidden forever.
 
@@ -144,17 +144,17 @@ Walking with Jesus means staying on the road of faithful mercy while God holds w
 
 **Journal prompt:** What hidden concern do I need to entrust to the God who sees clearly?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Let Grateful Remembrance Speak the Table of Grace in one faithful step today.
 
 ---
 
 ## Day 331 - November 27
 
-### Breathe the Healing Touch
+### Breathe Grateful Remembrance in the Healing Touch
 
 **Scripture Reference:** Matthew 10:27
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Jesus' command to speak in the light because resurrection hope turns private formation into public courage.
+**Context and language lens:** Jesus' command to speak in the light because resurrection hope turns private formation into public courage.
 
 Matthew 10:27 moves from hearing to speaking. What Jesus forms in the hidden place is not meant to die there.
 
@@ -172,17 +172,17 @@ Walking with Jesus means receiving His word privately and carrying it faithfully
 
 **Journal prompt:** What truth has Jesus been forming privately that needs humble public obedience?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Breathe Grateful Remembrance in the Healing Touch in one faithful step today.
 
 ---
 
 ## Day 332 - November 28
 
-### Hold Fast to the Call to Follow
+### Hold Fast to Grateful Remembrance Through the Call to Follow
 
 **Scripture Reference:** Matthew 10:28
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' teaching on fear of God over fear of people because abiding courage places ultimate reverence where it belongs.
+**Context and language lens:** Jesus' teaching on fear of God over fear of people because abiding courage places ultimate reverence where it belongs.
 
 Matthew 10:28 is direct and holy. Jesus does not deny human danger, but He refuses to let human threat become ultimate.
 
@@ -200,4 +200,4 @@ Walking with Jesus means resting near enough to God that fear loses its throne.
 
 **Journal prompt:** What fear of people needs to be reordered before God in Sabbath worship?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Hold Fast to Grateful Remembrance Through the Call to Follow in one faithful step today.

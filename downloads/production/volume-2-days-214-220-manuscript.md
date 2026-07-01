@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 19:26
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses Jesus naming divine possibility after human impossibility because the surrendered heart receives peace from what God can do.
+**Context and language lens:** Jesus naming divine possibility after human impossibility because the surrendered heart receives peace from what God can do.
 
 Matthew 19:26 answers the astonishment of the disciples. They have reached the end of human calculation. Jesus turns their eyes away from what people can manage and toward what God can do.
 
@@ -42,7 +42,7 @@ Walking with Jesus means receiving peace from God's possibility.
 
 **Scripture Reference:** Matthew 19:27
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses Peter's honest question because trusted Lordship gives the surrendered heart room to speak plainly with Jesus.
+**Context and language lens:** Peter's honest question because trusted Lordship gives the surrendered heart room to speak plainly with Jesus.
 
 Matthew 19:27 lets Peter ask what many disciples feel but hesitate to say. He has left much to follow Jesus, and he wonders what that surrender means before God.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting the Lord meet both surrender and honest longing
 
 **Scripture Reference:** Matthew 19:29
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses Jesus' promise to those who leave much for His name because light gives courage when surrender feels costly.
+**Context and language lens:** Jesus' promise to those who leave much for His name because light gives courage when surrender feels costly.
 
 Matthew 19:29 speaks to costly following. Jesus does not pretend discipleship never asks anything of the heart. He names losses, relationships, homes, and loyalties, then sets them inside the faithfulness of God.
 
@@ -98,7 +98,7 @@ Walking with Jesus means trusting that nothing surrendered for Him is wasted.
 
 **Scripture Reference:** Matthew 19:3
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses a testing question brought to Jesus because following Him includes letting Him guide hard covenant questions with truth and mercy.
+**Context and language lens:** A testing question brought to Jesus because following Him includes letting Him guide hard covenant questions with truth and mercy.
 
 Matthew 19:3 begins a difficult conversation. Religious leaders bring Jesus a question meant to test Him. The setting is tense, and the subject touches real human stories, covenant wounds, and hidden motives.
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting Him lead hard questions into holy ground.
 
 **Scripture Reference:** Matthew 19:7
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses the question about Moses and divorce because Jesus' saving wholeness meets wounded reasoning without letting hardness become the teacher.
+**Context and language lens:** The question about Moses and divorce because Jesus' saving wholeness meets wounded reasoning without letting hardness become the teacher.
 
 Matthew 19:7 continues the conversation. The question reaches for permission, precedent, and explanation. Human hearts often do this when pain, disappointment, or fear has made obedience feel complicated.
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting saving wholeness lead wounded places.
 
 **Scripture Reference:** Matthew 19:8
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses Jesus naming hardness of heart because peace begins where Christ tells the truth about what has become hardened.
+**Context and language lens:** Jesus naming hardness of heart because peace begins where Christ tells the truth about what has become hardened.
 
 Matthew 19:8 is sobering. Jesus names hardness of heart. He does not flatter the human condition, and He does not confuse permission in a broken world with God's original desire.
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting truth soften what pain has hardened.
 
 **Scripture Reference:** Matthew 19:9
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens handles this solemn covenant text as Lordship over truth, mercy, and surrender, not as a careless verdict over every wounded story.
+**Context and language lens:** This lens reads this solemn covenant text as Lordship over truth, mercy, and surrender, not as a careless verdict over every wounded story.
 
 Matthew 19:9 is weighty. Jesus speaks with moral seriousness about covenant faithfulness, betrayal, and the damage that flows when human desire refuses the way of God. This is not a verse for shallow handling.
 

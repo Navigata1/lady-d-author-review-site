@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 31:2
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God naming Bezalel for Spirit-enabled work. Rain for dry places is framed as renewed identity and capacity that begin with God's call rather than human self-promotion.
+**Context and language lens:** God naming Bezalel for Spirit-enabled work. Rain for dry places is framed as renewed identity and capacity that begin with God's call rather than human self-promotion.
 
 Exodus 31:2 turns from the garden story into named calling. God is not speaking about vague usefulness. He names a person for a work He intends to fill with His Spirit.
 
@@ -32,7 +32,7 @@ The Spirit refreshes dry identity by anchoring calling in God's name and supply.
 
 **Journal prompt:** What gift or responsibility needs to be named and surrendered back to God?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Anchor Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit refreshes dry identity by anchoring calling in God's name and supply.
 
 **Scripture Reference:** Exodus 31:4
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Spirit-enabled design and craftsmanship. The anointing for today is framed as holy wisdom that turns skill, beauty, and planning into obedient service.
+**Context and language lens:** Spirit-enabled design and craftsmanship. The anointing for today is framed as holy wisdom that turns skill, beauty, and planning into obedient service.
 
 Exodus 31:4 shows that Spirit-filled life can touch design, skill, planning, beauty, and material work. God cares about what is made and how it is made.
 
@@ -60,4 +60,4 @@ The Spirit anoints practical skill by turning it into obedient service.
 
 **Journal prompt:** What practical skill or task needs to be offered to God today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Discover the Anointing for Today into one faithful step today.

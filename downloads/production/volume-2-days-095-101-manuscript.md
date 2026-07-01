@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 25:19
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the master's return and accounting because peace becomes whole when stewardship is brought honestly before the Lord.
+**Context and language lens:** The master's return and accounting because peace becomes whole when stewardship is brought honestly before the Lord.
 
 The nearness of Christ changes how we think about accountability. Matthew 25:19 shows the master returning after a long time and settling accounts. Jesus is not teaching a cold spreadsheet faith. He is teaching that entrusted life matters.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting peace become honest stewardship before Him.
 
 **Scripture Reference:** Matthew 25:31
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the Son of Man in glory because Jesus' Lordship is not decoration; it is the authority that gathers, judges, and heals what is disordered.
+**Context and language lens:** The Son of Man in glory because Jesus' Lordship is not decoration; it is the authority that gathers, judges, and heals what is disordered.
 
 The way of peace is held by the Lord who reigns. Matthew 25:31 gives a majestic picture of the Son of Man coming in glory. The Jesus who walks near the wounded is also the King who will set things right. Tenderness and authority are not enemies in Him.
 
@@ -70,7 +70,7 @@ Walking with Jesus means receiving the healing authority of the King who is near
 
 **Scripture Reference:** Matthew 25:44
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses the question of missed mercy because Christ's light exposes blind spots where need was present but unnoticed.
+**Context and language lens:** The question of missed mercy because Christ's light exposes blind spots where need was present but unnoticed.
 
 The table of grace opens our eyes to people. Matthew 25:44 holds a painful question: when was Christ present in need and not recognized? Jesus brings mercy down from theory into hunger, welcome, sickness, loneliness, and overlooked suffering.
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting His light turn unseen need into neighborly love
 
 **Scripture Reference:** Matthew 25:46
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses the sober contrast of final outcomes because discipleship takes mercy, life, and judgment seriously without using fear as manipulation.
+**Context and language lens:** The sober contrast of final outcomes because discipleship takes mercy, life, and judgment seriously without using fear as manipulation.
 
 The healing touch of Jesus does not make serious things light. Matthew 25:46 closes a sobering teaching. Jesus speaks with weight because mercy matters, life matters, and the direction of the heart matters.
 
@@ -126,7 +126,7 @@ Walking with Jesus means taking His words seriously enough to let mercy become a
 
 **Scripture Reference:** Revelation 1:2
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses John's witness to God's word and the testimony of Jesus because saving wholeness is strengthened by faithful testimony, not private spirituality alone.
+**Context and language lens:** John's witness to God's word and the testimony of Jesus because saving wholeness is strengthened by faithful testimony, not private spirituality alone.
 
 The call to follow is also a call to bear witness. Revelation 1:2 introduces testimony: God's word and the testimony of Jesus are received and faithfully held. John does not treat revelation as private decoration. He bears witness.
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting His saving work become humble testimony.
 
 **Scripture Reference:** Revelation 1:4
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the greeting of grace and peace from the eternal God because peace is anchored in the One who is, was, and is coming.
+**Context and language lens:** The greeting of grace and peace from the eternal God because peace is anchored in the One who is, was, and is coming.
 
 Cross-shaped courage begins with grace and peace. Revelation 1:4 opens with a greeting that steadies the church under the eternal presence of God. The world may feel unstable, but God is not becoming Himself. He is faithful across every tense of time.
 
@@ -182,7 +182,7 @@ Walking with Jesus means receiving peace from the eternal God before pressure ge
 
 **Scripture Reference:** Revelation 1:5
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus as faithful witness, risen Lord, ruler, loving deliverer because trusted Lordship is grounded in resurrection, love, and redemption.
+**Context and language lens:** Jesus as faithful witness, risen Lord, ruler, loving deliverer because trusted Lordship is grounded in resurrection, love, and redemption.
 
 Resurrection hope has a name. Revelation 1:5 gathers the heart around Jesus: faithful witness, risen One, ruler, loving Deliverer. This is not thin encouragement. It is a throne-level hope with scars of love in it.
 

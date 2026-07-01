@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 19:9
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses God's decision to draw near in the cloud and let the people hear His voice because the verse centers on faithful love steadying trust before deeper obedience.
+**Context and language lens:** God's decision to draw near in the cloud and let the people hear His voice because the verse centers on faithful love steadying trust before deeper obedience.
 
 Grace before performance is not weakness. It is the order of God's heart. Exodus 19:9 shows the Lord preparing His people to hear Him in a way that would establish trust. The people have already answered with a yes, but God does not leave their faith resting only on a human messenger or on the emotion of one moment. He draws near and gives witness.
 
@@ -44,7 +44,7 @@ The faithful Father steadies trust before He asks for deeper surrender.
 
 **Scripture Reference:** Exodus 19:10
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses God's command to consecrate the people because the verse centers on the heart being prepared for holy nearness by mercy, not self-cleansing performance.
+**Context and language lens:** God's command to consecrate the people because the verse centers on the heart being prepared for holy nearness by mercy, not self-cleansing performance.
 
 Mercy in the morning teaches the heart how to prepare for God's presence. Exodus 19:10 moves from hearing toward consecration. The Lord calls His people to be set apart and made ready. This is not a cold religious requirement. It is the mercy of a holy God preparing beloved people to draw near rightly.
 

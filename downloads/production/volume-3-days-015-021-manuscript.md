@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 35:28
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the rulers bringing spices and oil because the passage centers on provision for consecrated worship, not abstract breath imagery.
+**Context and language lens:** The rulers bringing spices and oil because the passage centers on provision for consecrated worship, not abstract breath imagery.
 
 Dry places often need more than a feeling. They need a prepared offering. Exodus 35:28 shows leaders bringing spices and oil for the holy work of worship. What they carried was practical, fragrant, useful, and set apart for God.
 
@@ -42,7 +42,7 @@ The Spirit can turn a practical offering into rain for a thirsty place.
 
 **Scripture Reference:** Exodus 35:3
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the command's holy boundary around fire and work without labeling this production date as the weekly rest day. The emphasis is consecrated restraint that trusts God's order.
+**Context and language lens:** The command's holy boundary around fire and work without labeling this production date as the weekly rest day. The emphasis is consecrated restraint that trusts God's order.
 
 Anointing is not only seen in what a person does. Sometimes it is seen in what a person refuses to force. Exodus 35:3 gives a clear boundary around fire and work within God's ordered life for His people. The heart had to learn that holy obedience includes restraint.
 
@@ -70,7 +70,7 @@ The Spirit anoints not only action, but also the holy no that keeps the heart fr
 
 **Scripture Reference:** Exodus 35:35
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God-given skill, teaching capacity, and craftsmanship because the verse centers on Spirit-enabled excellence that can bless others.
+**Context and language lens:** God-given skill, teaching capacity, and craftsmanship because the verse centers on Spirit-enabled excellence that can bless others.
 
 The fruit of the Spirit is not vague sweetness. It becomes visible in a life that can be taught, skilled, patient, and useful. Exodus 35:35 describes people filled with ability for craftsmanship and even the capacity to teach. God gave more than talent. He gave wisdom that could serve the whole community.
 
@@ -98,7 +98,7 @@ The Spirit makes gifted people gentle enough to bless.
 
 **Scripture Reference:** Exodus 35:8
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the oil for light, anointing oil, and fragrant incense because the passage points to witness through consecrated light and worship.
+**Context and language lens:** The oil for light, anointing oil, and fragrant incense because the passage points to witness through consecrated light and worship.
 
 Power to witness begins with what gives light. Exodus 35:8 names oil for the light, along with oil and incense for holy worship. Before the people could be impressed by the beauty of the sanctuary, the light had to be supplied.
 
@@ -126,7 +126,7 @@ The Spirit gives oil for light so witness can become mercy people can actually s
 
 **Scripture Reference:** Genesis 1:11
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's command for the earth to bring forth vegetation because the passage centers on life-bearing order and seed-bearing fruitfulness.
+**Context and language lens:** God's command for the earth to bring forth vegetation because the passage centers on life-bearing order and seed-bearing fruitfulness.
 
 Belonging to God bears fruit after its kind. Genesis 1:11 shows creation responding to God's word with ordered life: vegetation, plants, trees, and seed-bearing fruit. Life was not random. It carried design, purpose, and the capacity to multiply.
 
@@ -154,7 +154,7 @@ The Spirit marks belonging by forming fruit that carries the character of God.
 
 **Scripture Reference:** Genesis 1:12
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the earth bringing forth vegetation according to God's command because the passage confirms that God's spoken order becomes visible life.
+**Context and language lens:** The earth bringing forth vegetation according to God's command because the passage confirms that God's spoken order becomes visible life.
 
 Prayer beyond words sometimes looks like waiting for God's word to become visible. Genesis 1:12 shows the earth bringing forth what God commanded. The life that appeared was not self-invented. It answered the Creator's word.
 
@@ -182,7 +182,7 @@ The Spirit sustains faith until God's ordered life becomes visible.
 
 **Scripture Reference:** Genesis 1:2
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the Spirit of God hovering over the waters because the passage centers on God's presence near unformed places before visible order appears.
+**Context and language lens:** The Spirit of God hovering over the waters because the passage centers on God's presence near unformed places before visible order appears.
 
 The Spirit is present before the shape is clear. Genesis 1:2 holds a holy mystery: the earth is unformed, the deep is present, and the Spirit of God is moving over the waters. God is not absent from what has not yet come together.
 

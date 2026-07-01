@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 15:3
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses the Lord's revealed strength in the victory song because the verse centers on covenant mercy that protects His people when deliverance has been costly.
+**Context and language lens:** The Lord's revealed strength in the victory song because the verse centers on covenant mercy that protects His people when deliverance has been costly.
 
 Covenant mercy is not weak love. Exodus 15:3 sings of the Lord as the One who fights for His people. The song rises after the sea has opened, after fear has been answered, and after the oppressed have seen that Pharaoh's power is not the final word.
 
@@ -44,7 +44,7 @@ The Father is faithful enough to defend what His love has claimed.
 
 **Scripture Reference:** Exodus 15:4
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses the defeat of Pharaoh's chariots because the verse shows chosen love moving toward God's people and breaking the machinery that tried to keep them enslaved.
+**Context and language lens:** The defeat of Pharaoh's chariots because the verse shows chosen love moving toward God's people and breaking the machinery that tried to keep them enslaved.
 
 The Father's welcome is not fragile. Exodus 15:4 remembers the chariots and captains that were thrown into the sea. The instruments of oppression looked organized, armed, and certain. Yet the Lord's love moved toward His people with power greater than Pharaoh's confidence.
 
@@ -74,7 +74,7 @@ The love of the Father is stronger than the systems that tried to claim you.
 
 **Scripture Reference:** Exodus 15:5
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses the image of the depths covering the pursuers because the verse points to redemption as the Lord removing what threatened the identity and freedom of His people.
+**Context and language lens:** The image of the depths covering the pursuers because the verse points to redemption as the Lord removing what threatened the identity and freedom of His people.
 
 Beloved identity is not built by denying what pursued you. Exodus 15:5 remembers the depths covering the force that chased Israel. The song does not pretend danger was imagined. It testifies that God dealt with what His people could not outrun in their own strength.
 
@@ -104,7 +104,7 @@ The Redeemer's nearness gives the beloved heart a place to stand.
 
 **Scripture Reference:** Exodus 15:6
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses the Lord's right hand displayed in power because the verse centers on God's faithful strength steadying His people after deliverance.
+**Context and language lens:** The Lord's right hand displayed in power because the verse centers on God's faithful strength steadying His people after deliverance.
 
 Peace leads differently when it has seen God's faithfulness. Exodus 15:6 praises the Lord's right hand as glorious in power. This is not human strength dressed in spiritual language. It is the song of people learning that God's faithful arm can do what their anxious hands could not.
 
@@ -136,7 +136,7 @@ The faithful God can lead your rest before He sends your work.
 
 **Scripture Reference:** Exodus 15:7
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the Lord overthrowing rising opposition because the verse centers on the heart learning grace before it tries to prove strength against what resists God.
+**Context and language lens:** The Lord overthrowing rising opposition because the verse centers on the heart learning grace before it tries to prove strength against what resists God.
 
 Grace before performance is not passivity. Exodus 15:7 remembers opposition rising and the Lord overthrowing it. The song does not honor self-made strength. It honors the God whose greatness is not threatened by what stands against Him.
 
@@ -166,7 +166,7 @@ The Father forms surrendered hearts by grace before He sends them into action.
 
 **Scripture Reference:** Exodus 15:9
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses the enemy's boastful pursuit because the verse contrasts the loud claims of oppression with covenant mercy that gives God's people a steadier morning word.
+**Context and language lens:** The enemy's boastful pursuit because the verse contrasts the loud claims of oppression with covenant mercy that gives God's people a steadier morning word.
 
 Mercy has to become louder than the voice that chases you. Exodus 15:9 remembers the enemy saying, "I will pursue." The boast is full of appetite, control, and confidence. It is the sound of power imagining that desire is the same thing as authority.
 
@@ -196,7 +196,7 @@ Let mercy become the morning sound your obedience follows.
 
 **Scripture Reference:** Exodus 15:10
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses the Lord's breath and the sea covering the enemy because the verse centers on chosen love that acts in holy timing and teaches the beloved to stand without forcing the outcome.
+**Context and language lens:** The Lord's breath and the sea covering the enemy because the verse centers on chosen love that acts in holy timing and teaches the beloved to stand without forcing the outcome.
 
 The Father's patience is not weakness. Exodus 15:10 remembers the Lord's breath moving and the sea covering the enemy. Deliverance had timing. Israel stood where they could not save themselves, and God acted with power no human hand could force.
 

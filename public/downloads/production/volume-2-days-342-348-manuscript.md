@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 10:6
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus' focused sending to the lost sheep of Israel because saving witness begins with the people and assignment Jesus actually places before us.
+**Context and language lens:** Jesus' focused sending to the lost sheep of Israel because saving witness begins with the people and assignment Jesus actually places before us.
 
 Matthew 10:6 shows Jesus giving His disciples a focused assignment. He does not send them everywhere at once. He directs their first steps toward people He names with compassion.
 
@@ -32,7 +32,7 @@ Walking with Jesus means letting His saving heart focus your obedience.
 
 **Journal prompt:** Where is Jesus focusing my witness instead of asking me to carry everything?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Stand in the Healing Touch in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting His saving heart focus your obedience.
 
 **Scripture Reference:** Matthew 10:7
 
-**Production lens note:** The architecture assigns eirene; the production lens uses Jesus' message of the nearness of the kingdom because peace becomes witness when the reign of God is announced and embodied.
+**Context and language lens:** Jesus' message of the nearness of the kingdom because peace becomes witness when the reign of God is announced and embodied.
 
 Matthew 10:7 gives the disciples a message of nearness. The kingdom is not presented as a distant idea. God's reign has come near in Christ.
 
@@ -60,7 +60,7 @@ Walking with Jesus means carrying the nearness of God's reign into ordinary spee
 
 **Journal prompt:** Where does my day need the nearness of God's kingdom more than the pressure of my worry?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Let Grace Form the Call to Follow in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means carrying the nearness of God's reign into ordinary spee
 
 **Scripture Reference:** Matthew 10:9
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses Jesus' instruction about not acquiring extra resources for the mission because His Lordship frees witness from anxious accumulation.
+**Context and language lens:** Jesus' instruction about not acquiring extra resources for the mission because His Lordship frees witness from anxious accumulation.
 
 Matthew 10:9 continues Jesus' sending instructions. He addresses what the disciples should not gather for themselves before they go.
 
@@ -88,7 +88,7 @@ Walking with Jesus means trusting His Lordship enough to obey without waiting fo
 
 **Journal prompt:** What am I trying to gather before I obey what Jesus has already shown me?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Behold Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means trusting His Lordship enough to obey without waiting fo
 
 **Scripture Reference:** Matthew 12:11
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus' question about rescuing a sheep because His light exposes religious reasoning that withholds mercy.
+**Context and language lens:** Jesus' question about rescuing a sheep because His light exposes religious reasoning that withholds mercy.
 
 Matthew 12:11 shows Jesus pressing mercy into a contested moment. He asks a question that reveals how easily people can protect an argument while neglecting a hurting life.
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting His light move you toward rescue when compassio
 
 **Journal prompt:** Where have I been defending a position while missing a person who needs mercy?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Follow Resurrection Hope in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting His light move you toward rescue when compassio
 
 **Scripture Reference:** Matthew 12:12
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses Jesus' affirmation that doing good is fitting because discipleship follows the Lord of mercy into Sabbath wholeness.
+**Context and language lens:** Jesus' affirmation that doing good is fitting because discipleship follows the Lord of mercy into Sabbath wholeness.
 
 Matthew 12:12 lifts human worth and the goodness of mercy. Jesus does not separate holy time from holy compassion.
 
@@ -144,7 +144,7 @@ Walking with Jesus means resting with the Friend who leads His people into mercy
 
 **Journal prompt:** What act of restful goodness would honor God and care for a real need this Sabbath?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Rest in the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means resting with the Friend who leads His people into mercy
 
 **Scripture Reference:** Matthew 12:13
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus healing the withered hand because saving wholeness restores what shame and limitation tempted the person to hide.
+**Context and language lens:** Jesus healing the withered hand because saving wholeness restores what shame and limitation tempted the person to hide.
 
 Matthew 12:13 centers Jesus' restoring word. A withered place is brought into the open and made whole by His command.
 
@@ -172,7 +172,7 @@ Walking with Jesus means allowing His saving wholeness to become visible obedien
 
 **Journal prompt:** What withered place have I been hiding from Jesus' restoring word?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Wake Up to the Light on the Path in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means allowing His saving wholeness to become visible obedien
 
 **Scripture Reference:** Matthew 12:14
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the opposition after Jesus' mercy because peace in Christ remains whole even when goodness provokes resistance.
+**Context and language lens:** The opposition after Jesus' mercy because peace in Christ remains whole even when goodness provokes resistance.
 
 Matthew 12:14 shows opposition rising after mercy is shown. The passage is sobering: not everyone celebrates healing.
 
@@ -200,4 +200,4 @@ Walking with Jesus means remaining whole in Him when goodness is resisted.
 
 **Journal prompt:** Where do I need to stop regretting a faithful act of mercy just because it was misunderstood?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Let Fire Refine the Invitation in one faithful step today.

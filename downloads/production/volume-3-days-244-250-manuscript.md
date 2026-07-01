@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 6:6
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Israel's deep impoverishment and cry to the Lord. The Comforter's nearness is framed as holy mercy that draws a depleted people into honest prayer.
+**Context and language lens:** Israel's deep impoverishment and cry to the Lord. The Comforter's nearness is framed as holy mercy that draws a depleted people into honest prayer.
 
 Judges 6:6 names deep need. The people are brought low, and the cry finally turns toward the Lord.
 
@@ -42,7 +42,7 @@ The Spirit gives power to witness by drawing depleted hearts into honest prayer.
 
 **Scripture Reference:** Judges 6:7
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Israel crying to the Lord because of Midian. Holy fire is framed as consecrated prayer that rises from oppression without becoming bitterness.
+**Context and language lens:** Israel crying to the Lord because of Midian. Holy fire is framed as consecrated prayer that rises from oppression without becoming bitterness.
 
 Judges 6:7 shows the cry continuing. The pressure has a name, and the people bring it before the Lord.
 
@@ -70,7 +70,7 @@ The Spirit gives power to witness by anointing honest cries with surrender.
 
 **Scripture Reference:** Judges 6:8
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the Lord sending a prophet. Rain for dry places is framed as settled mercy that answers prayer with truth before visible rescue.
+**Context and language lens:** The Lord sending a prophet. Rain for dry places is framed as settled mercy that answers prayer with truth before visible rescue.
 
 Judges 6:8 shows God's first answer: a prophet comes with a word. Before the visible rescue, truth arrives.
 
@@ -98,7 +98,7 @@ The Spirit gives power to witness by settling the heart under truthful mercy.
 
 **Scripture Reference:** Judges 6:9
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God's reminder of deliverance from Egypt and oppressors. The anointing for today is framed as Spirit-breathed memory that confronts fear with God's history.
+**Context and language lens:** God's reminder of deliverance from Egypt and oppressors. The anointing for today is framed as Spirit-breathed memory that confronts fear with God's history.
 
 Judges 6:9 remembers deliverance. God reminds His people that oppression has not been the only story.
 
@@ -126,7 +126,7 @@ The Spirit gives power to witness by breathing courage through remembered delive
 
 **Scripture Reference:** Judges 6:11
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Gideon threshing wheat in hiding. The Spirit's fruit is framed as inward faithfulness when obedience is happening in a hidden, pressured place.
+**Context and language lens:** Gideon threshing wheat in hiding. The Spirit's fruit is framed as inward faithfulness when obedience is happening in a hidden, pressured place.
 
 Judges 6:11 brings us to Gideon in a hidden place, trying to preserve what remains under pressure.
 
@@ -154,7 +154,7 @@ The Spirit gives power to witness by growing fruit in hidden faithfulness.
 
 **Scripture Reference:** Judges 6:12
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the angel's greeting to Gideon. Power to witness is framed as holy identity spoken over a person who does not yet feel brave.
+**Context and language lens:** The angel's greeting to Gideon. Power to witness is framed as holy identity spoken over a person who does not yet feel brave.
 
 Judges 6:12 speaks courage over Gideon before Gideon feels like the greeting is true.
 
@@ -182,7 +182,7 @@ The Spirit gives power to witness by speaking courage under the Lord's presence.
 
 **Scripture Reference:** Judges 6:13
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Gideon's honest question about God's presence and past wonders. The seal of belonging is framed as consecrated honesty that brings hard questions into relationship instead of walking away.
+**Context and language lens:** Gideon's honest question about God's presence and past wonders. The seal of belonging is framed as consecrated honesty that brings hard questions into relationship instead of walking away.
 
 Judges 6:13 gives room to a hard question. Gideon hears the greeting, but his heart carries history, loss, and confusion.
 

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 12:43
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' warning about restless uncleanness to frame freedom as more than removal. The heart needs filling, not emptiness.
+**Context and language lens:** Jesus' warning about restless uncleanness to frame freedom as more than removal. The heart needs filling, not emptiness.
 
 Freedom in the Spirit is not an empty room. Matthew 12:43 describes restless movement through dry places, seeking rest and not finding it. The warning belongs to a larger teaching about what happens when a life is only cleared out but not truly filled.
 
@@ -42,7 +42,7 @@ The Spirit gives freedom that becomes a dwelling place for God's life.
 
 **Scripture Reference:** Numbers 11:1
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the people's complaint and the fire at the camp's edge as a warning about complaint becoming spiritual atmosphere.
+**Context and language lens:** The people's complaint and the fire at the camp's edge as a warning about complaint becoming spiritual atmosphere.
 
 Complaint can become the air a camp breathes. Numbers 11:1 shows the people grumbling in a way that displeases the Lord, and judgment reaches the edges of the camp. The verse is sobering because complaint is not treated as harmless background noise.
 
@@ -70,7 +70,7 @@ The Spirit fills daily life by changing the air your words create.
 
 **Scripture Reference:** Numbers 11:15
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Moses' overwhelmed cry as a pastoral window into burden, exhaustion, and honest prayer before God.
+**Context and language lens:** Moses' overwhelmed cry as a pastoral window into burden, exhaustion, and honest prayer before God.
 
 The Comforter is near when leadership feels too heavy to carry. Numbers 11:15 is one of the Bible's painfully honest cries. Moses is overwhelmed enough to speak words that show deep distress. The verse should make readers gentle with burdened people, not quick to judge them.
 
@@ -98,7 +98,7 @@ The Spirit comforts burdened people by leading them out of isolated carrying.
 
 **Scripture Reference:** Numbers 11:17
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's promise to share the Spirit given to Moses with elders so the burden can be carried together.
+**Context and language lens:** God's promise to share the Spirit given to Moses with elders so the burden can be carried together.
 
 Holy fire can look like shared burden. Numbers 11:17 answers Moses' overwhelm with God's provision: the burden will not remain on one person alone. God will take from the Spirit upon Moses and place that upon elders who can help carry.
 
@@ -126,7 +126,7 @@ The Spirit's holy fire can spread as shared strength for a burden too heavy for 
 
 **Scripture Reference:** Numbers 11:25
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the Spirit resting on the elders and their prophetic response because the passage centers directly on God's Spirit shared for communal burden-bearing.
+**Context and language lens:** The Spirit resting on the elders and their prophetic response because the passage centers directly on God's Spirit shared for communal burden-bearing.
 
 Rain for dry places can fall through shared participation. Numbers 11:25 shows the Spirit resting on the elders, and they respond prophetically. The burden that had been crushing Moses is met by God's Spirit distributed among others.
 
@@ -154,7 +154,7 @@ The Spirit rests on God's people so burdens can become shared and dry places ref
 
 **Scripture Reference:** Numbers 11:26
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Eldad and Medad prophesying in the camp because the passage centers on the Spirit working beyond expected location and control.
+**Context and language lens:** Eldad and Medad prophesying in the camp because the passage centers on the Spirit working beyond expected location and control.
 
 The anointing for today may not appear where everyone expected it. Numbers 11:26 names Eldad and Medad, who remained in the camp and still prophesied. The Spirit was not trapped by human staging.
 
@@ -182,7 +182,7 @@ The Spirit can make the ordinary camp a place of holy participation.
 
 **Scripture Reference:** Numbers 11:29
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Moses' generous desire that all the Lord's people would receive the Spirit because the verse centers on non-possessive leadership and Spirit-shaped abundance.
+**Context and language lens:** Moses' generous desire that all the Lord's people would receive the Spirit because the verse centers on non-possessive leadership and Spirit-shaped abundance.
 
 The fruit of the Spirit is generous, not possessive. Numbers 11:29 shows Moses refusing jealousy and expressing a holy desire that all the Lord's people would receive the Spirit. That is leadership with open hands.
 

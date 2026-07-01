@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 1:21
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `wayyivra Elohim et-hattanninim haggedolim/kol-nefesh hachayyah/wayyar Elohim ki-tov` - God created the great sea creatures, every living creature, and saw that it was good - because the verse centers on God calling life into being and naming its goodness.
+**Context and language lens:** `wayyivra Elohim et-hattanninim haggedolim/kol-nefesh hachayyah/wayyar Elohim ki-tov` - God created the great sea creatures, every living creature, and saw that it was good - because the verse centers on God calling life into being and naming its goodness.
 
 Restoring compassion begins with the Father seeing life where we may only see depth, movement, and mystery. Genesis 1:21 shows God creating the great creatures of the waters, every living creature that moves, and every winged bird according to its kind. Then God sees that it is good.
 
@@ -42,7 +42,7 @@ Carry this like bread for the road, not decoration for the shelf. The Father who
 
 **Scripture Reference:** Genesis 1:22
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `vayevarekh otam Elohim/peru urevu/umil'u et-hammayim/veyirev ha'of ba'aretz` - God blessed them, saying be fruitful, multiply, fill the waters, and let birds multiply on the earth - because the verse centers on blessing that sends life outward.
+**Context and language lens:** `vayevarekh otam Elohim/peru urevu/umil'u et-hammayim/veyirev ha'of ba'aretz` - God blessed them, saying be fruitful, multiply, fill the waters, and let birds multiply on the earth - because the verse centers on blessing that sends life outward.
 
 The promise that holds you is not merely a thought to repeat. It is a blessing to breathe under. Genesis 1:22 shows God blessing the living creatures and commanding fruitfulness, multiplication, filling, and increase. Life does not move forward by accident. It moves under the Father's blessing.
 
@@ -70,7 +70,7 @@ Let this word give your morning a spine and your heart a place to rest. What God
 
 **Scripture Reference:** Genesis 1:23
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `vayehi erev/vayehi boqer/yom chamishi` - there was evening, there was morning, the fifth day - because the verse centers on God's completed rhythm and the naming of another day.
+**Context and language lens:** `vayehi erev/vayehi boqer/yom chamishi` - there was evening, there was morning, the fifth day - because the verse centers on God's completed rhythm and the naming of another day.
 
 The heart that calls you is patient enough to finish a day. Genesis 1:23 closes the fifth day with the steady rhythm of evening and morning. God is not frantic. He is faithful. He names the day complete in its appointed time.
 
@@ -98,7 +98,7 @@ The day does not get to name you before God does. Evening and morning are held b
 
 **Scripture Reference:** Genesis 1:24
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `totse ha'aretz nefesh chayyah leminah/behemah varemes vechayto-eretz leminah` - let the earth bring forth living creatures according to their kinds, cattle, creeping things, and beasts of the earth - because the verse centers on God calling the earth to bring forth ordered life.
+**Context and language lens:** `totse ha'aretz nefesh chayyah leminah/behemah varemes vechayto-eretz leminah` - let the earth bring forth living creatures according to their kinds, cattle, creeping things, and beasts of the earth - because the verse centers on God calling the earth to bring forth ordered life.
 
 Love that restores you also sends you back into embodied obedience. Genesis 1:24 shows God speaking to the earth, and the earth bringing forth living creatures according to their kinds. The Father's word does not float above real ground. It brings life out of the place He addresses.
 
@@ -126,7 +126,7 @@ Walk out of this page with courage, tenderness, and clarity. The Father can brin
 
 **Scripture Reference:** Genesis 1:25
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `vaya'as Elohim et-chayyat ha'aretz leminah/et-habehemah leminah/wayyar Elohim ki-tov` - God made the beasts of the earth according to their kinds, and God saw that it was good - because the verse centers on God making ordered life and recognizing its goodness.
+**Context and language lens:** `vaya'as Elohim et-chayyat ha'aretz leminah/et-habehemah leminah/wayyar Elohim ki-tov` - God made the beasts of the earth according to their kinds, and God saw that it was good - because the verse centers on God making ordered life and recognizing its goodness.
 
 Covenant mercy teaches the heart to yield to the Maker's hands. Genesis 1:25 shows God making the living creatures of the earth according to their kinds. Again, He sees that it is good. The Father is not random in what He forms.
 
@@ -154,7 +154,7 @@ Receive the truth deeply enough that it changes your next decision. The Father i
 
 **Scripture Reference:** Genesis 1:26
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `na'aseh adam betzalmenu kidmutenu/veyirdu` - let Us make humankind in Our image, according to Our likeness, and let them have responsible dominion - because the verse centers on image, likeness, and delegated stewardship.
+**Context and language lens:** `na'aseh adam betzalmenu kidmutenu/veyirdu` - let Us make humankind in Our image, according to Our likeness, and let them have responsible dominion - because the verse centers on image, likeness, and delegated stewardship.
 
 The Father's welcome is deeper than your usefulness, but it does not leave your life without purpose. Genesis 1:26 moves toward humankind made in God's image and likeness, entrusted with stewardship in creation. Identity comes before assignment, and assignment flows from identity.
 
@@ -182,7 +182,7 @@ Carry this like bread for the road, not decoration for the shelf. The Father's w
 
 **Scripture Reference:** Genesis 1:27
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `vayivra Elohim et-ha'adam betzalmo/betzelem Elohim bara oto/zakhar uneqevah bara otam` - God created humankind in His image; male and female He created them - because the verse centers on image-bearing identity received from the Creator.
+**Context and language lens:** `vayivra Elohim et-ha'adam betzalmo/betzelem Elohim bara oto/zakhar uneqevah bara otam` - God created humankind in His image; male and female He created them - because the verse centers on image-bearing identity received from the Creator.
 
 Beloved identity is not something you invent. It is something you receive from the Creator. Genesis 1:27 repeats the truth with holy weight: God created humankind in His image. Male and female are created by Him. Human worth begins in God's creative act, not in human comparison.
 

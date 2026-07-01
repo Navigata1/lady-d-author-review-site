@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 1:24
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God's command for living creatures to come forth on the earth. The seal of belonging is framed as God calling life into its proper place and kind.
+**Context and language lens:** God's command for living creatures to come forth on the earth. The seal of belonging is framed as God calling life into its proper place and kind.
 
 Belonging is not vague. Genesis 1:24 shows God calling living creatures forth on the earth according to His order. Life is not floating without place; it is called forward by the Creator.
 
@@ -32,7 +32,7 @@ The Spirit refines belonging by calling the heart back to God's placed care.
 
 **Journal prompt:** Where has fear made me question my place in God's care?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Let Fire Refine the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit refines belonging by calling the heart back to God's placed care.
 
 **Scripture Reference:** Genesis 1:25
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's making of living creatures and His declaration of goodness. Prayer beyond words becomes coming home to the God who sees His work clearly.
+**Context and language lens:** God's making of living creatures and His declaration of goodness. Prayer beyond words becomes coming home to the God who sees His work clearly.
 
 There are days when the heart cannot explain itself, but it can still come home. Genesis 1:25 shows God making life and seeing goodness in what He has made.
 
@@ -60,7 +60,7 @@ The Spirit brings wordless prayer home to the God who sees with mercy.
 
 **Journal prompt:** What part of my life have I judged harshly that needs to be brought home to God?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Come Home to Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit brings wordless prayer home to the God who sees with mercy.
 
 **Scripture Reference:** Genesis 1:26
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's counsel before creating humanity in His image. Wind in the waiting is framed as patient reverence before identity and calling are spoken.
+**Context and language lens:** God's counsel before creating humanity in His image. Wind in the waiting is framed as patient reverence before identity and calling are spoken.
 
 Some of the holiest moments begin before anything visible happens. Genesis 1:26 brings the reader to the threshold of humanity's creation in God's image. Before the formed life is seen, God's purpose is being spoken.
 
@@ -88,4 +88,4 @@ The Spirit gives breath while God prepares identity and purpose.
 
 **Journal prompt:** Where am I trying to hurry what God is still forming?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Practice Wind in the Waiting into one faithful step today.

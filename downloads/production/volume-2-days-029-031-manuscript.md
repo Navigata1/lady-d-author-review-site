@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 10:23
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Jesus' instruction about persecution, wise movement, and the Son of Man's coming because light gives direction when fear wants either panic or stubbornness.
+**Context and language lens:** Jesus' instruction about persecution, wise movement, and the Son of Man's coming because light gives direction when fear wants either panic or stubbornness.
 
 The table of grace is not only for quiet rooms. Matthew 10:23 places disciples in a world where rejection and persecution can become real. Jesus does not romanticize danger. He gives instruction. He teaches His followers how to move wisely, keep going, and hold hope under pressure.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting His light guide courage with wisdom.
 
 **Scripture Reference:** Matthew 10:34
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' hard word about division because following Him heals false peace by making allegiance truthful.
+**Context and language lens:** Jesus' hard word about division because following Him heals false peace by making allegiance truthful.
 
 The healing touch of Jesus sometimes begins by telling the truth about false peace. Matthew 10:34 is not a call to cruelty or needless conflict. It is Jesus preparing disciples to understand that allegiance to Him can expose divisions that polite silence has been hiding.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting His truth heal false peace.
 
 **Scripture Reference:** Matthew 10:38
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' call to take up the cross and follow because saving wholeness includes surrendering self-protection to His way of love.
+**Context and language lens:** Jesus' call to take up the cross and follow because saving wholeness includes surrendering self-protection to His way of love.
 
 Love teaches the call to follow by bringing the cross into ordinary life. Matthew 10:38 is direct. Jesus does not invite disciples to admire Him from a comfortable distance. He calls them to take up the cross and follow Him.
 

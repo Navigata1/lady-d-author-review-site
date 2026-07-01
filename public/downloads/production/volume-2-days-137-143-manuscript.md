@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 13:34
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus teaching in parables because resurrection-shaped hope can awaken the heart through truth that invites listening instead of shallow consumption.
+**Context and language lens:** Jesus teaching in parables because resurrection-shaped hope can awaken the heart through truth that invites listening instead of shallow consumption.
 
 Jesus knew how to teach in a way that made people listen beneath the surface. Matthew 13:34 shows Him speaking to the crowds in parables. He was not hiding truth from hungry hearts. He was inviting listeners to come awake.
 
@@ -32,7 +32,7 @@ Walking with Jesus means letting His voice awaken life beneath the surface.
 
 **Journal prompt:** What truth from Jesus needs to become breath in me today?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Breathe the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting His voice awaken life beneath the surface.
 
 **Scripture Reference:** Matthew 13:37
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus identifying the sower of good seed because abiding begins with knowing whose field, seed, and work we belong to.
+**Context and language lens:** Jesus identifying the sower of good seed because abiding begins with knowing whose field, seed, and work we belong to.
 
 Jesus names the source of the good seed. Matthew 13:37 points back to Him as the One who sows what is good. The field is not abandoned, and the seed is not accidental.
 
@@ -60,7 +60,7 @@ Walking with Jesus means remaining with the Sower instead of trying to become Hi
 
 **Journal prompt:** Where am I confusing faithful participation with anxious ownership?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Hold Fast to the Light on the Path in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means remaining with the Sower instead of trying to become Hi
 
 **Scripture Reference:** Matthew 13:4
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the seed falling beside the path because Jesus' compassion names hardened places before the word is stolen away.
+**Context and language lens:** The seed falling beside the path because Jesus' compassion names hardened places before the word is stolen away.
 
 The invitation of Jesus is tender enough to tell the truth. Matthew 13:4 describes seed falling beside the path and being taken away. The image is simple, but it reaches into a serious place: the word can land near a heart without entering it.
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting compassion make room for the word to enter.
 
 **Journal prompt:** What has hardened my listening, and how is Jesus inviting me back?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Return to the Invitation in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting compassion make room for the word to enter.
 
 **Scripture Reference:** Matthew 13:41
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus' teaching about removing what causes sin because the Teacher forms holiness as hope, not terror.
+**Context and language lens:** Jesus' teaching about removing what causes sin because the Teacher forms holiness as hope, not terror.
 
 Jesus does not teach holiness casually. Matthew 13:41 speaks of the Son of Man gathering out what causes sin and lawlessness. The language is sober because evil is not harmless.
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting the Teacher form holiness without fear.
 
 **Journal prompt:** What have I been excusing that Jesus is asking me to surrender?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Yield to the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting the Teacher form holiness without fear.
 
 **Scripture Reference:** Matthew 13:48
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the sorting of the full net because the road with Jesus includes discernment, endurance, and a sober trust that final judgment belongs to God.
+**Context and language lens:** The sorting of the full net because the road with Jesus includes discernment, endurance, and a sober trust that final judgment belongs to God.
 
 The road with Jesus is merciful, but it is not careless. Matthew 13:48 pictures a full net and a sorting. The image reminds us that not everything gathered belongs to the same end.
 
@@ -144,7 +144,7 @@ Walking with Jesus means practicing discernment without taking God's seat.
 
 **Journal prompt:** Where do I need clarity without harshness?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Anchor the Road with Jesus in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means practicing discernment without taking God's seat.
 
 **Scripture Reference:** Matthew 13:49
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus' teaching about the end of the age because resurrection hope gives holy seriousness without panic.
+**Context and language lens:** Jesus' teaching about the end of the age because resurrection hope gives holy seriousness without panic.
 
 The nearness of Christ gives courage to face serious truth. Matthew 13:49 speaks about the end of the age and the separation of what is wicked from what is righteous. Jesus is not vague about final reality.
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting resurrection hope make obedience sober and free
 
 **Journal prompt:** What choice becomes clearer when I remember that Jesus is Lord of the end and the beginning?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Discover the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting resurrection hope make obedience sober and free
 
 **Scripture Reference:** Matthew 13:53
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus finishing the parables and moving on because abiding includes carrying the word after the lesson ends.
+**Context and language lens:** Jesus finishing the parables and moving on because abiding includes carrying the word after the lesson ends.
 
 Jesus finished these parables and departed from there. Matthew 13:53 gives a simple transition, but transitions matter. The lesson does not end when the teaching moment ends. The word now has to be carried.
 
@@ -200,4 +200,4 @@ Walking with Jesus means remaining with the word after the lesson ends.
 
 **Journal prompt:** What word from Jesus do I need to carry into Sabbath rest and beyond?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Receive the Way of Peace in one faithful step today.

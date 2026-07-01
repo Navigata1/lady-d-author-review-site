@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 45:16
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses the news of Joseph's brothers reaching Pharaoh's house and being received with favor because the verse centers on comfort that lets a once-hidden family story come into the open.
+**Context and language lens:** The news of Joseph's brothers reaching Pharaoh's house and being received with favor because the verse centers on comfort that lets a once-hidden family story come into the open.
 
 Love that sends you can bring a hidden story into a wider room. Genesis 45:16 shows the news reaching Pharaoh's house: Joseph's brothers have come. The response is not contempt. Pharaoh and his servants are pleased.
 
@@ -44,7 +44,7 @@ God can make room for a story you thought had to stay hidden.
 
 **Scripture Reference:** Genesis 45:17
 
-**Production lens correction:** The architecture assigned `raḥamim`; the production lens uses Pharaoh's instruction to load the animals and return to Canaan because the verse centers on protective compassion that becomes practical movement toward provision.
+**Context and language lens:** Pharaoh's instruction to load the animals and return to Canaan because the verse centers on protective compassion that becomes practical movement toward provision.
 
 Covenant mercy often becomes a command to move toward provision. Genesis 45:17 shows Pharaoh telling Joseph to instruct his brothers to load their animals and go back to the land of Canaan. Mercy is no longer only spoken in the palace. It is being organized for the road.
 
@@ -74,7 +74,7 @@ Mercy may arrive as the strength to move toward what God is sending.
 
 **Scripture Reference:** Genesis 45:20
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses the instruction not to be concerned about goods because the best of Egypt will be available because the verse centers on peace that releases clutching when provision is promised.
+**Context and language lens:** The instruction not to be concerned about goods because the best of Egypt will be available because the verse centers on peace that releases clutching when provision is promised.
 
 The Father's welcome can loosen the hand that is afraid to leave anything behind. Genesis 45:20 carries an instruction not to be concerned about household goods, because the best of the land will be available. This is not carelessness. It is peace rooted in provision.
 
@@ -104,7 +104,7 @@ Peace begins to rise when promise becomes safer than possession.
 
 **Scripture Reference:** Genesis 45:21
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses Joseph giving wagons and provisions according to Pharaoh's command because the verse centers on being personally known through the practical care needed for the journey.
+**Context and language lens:** Joseph giving wagons and provisions according to Pharaoh's command because the verse centers on being personally known through the practical care needed for the journey.
 
 Beloved identity is refined when care becomes concrete. Genesis 45:21 shows the sons of Israel doing what was commanded, and Joseph giving them wagons and provisions for the way. The love in the story is not vague. It has wheels, food, and a route home.
 
@@ -134,7 +134,7 @@ On this Sabbath, beloved identity can rest enough to receive care for the way.
 
 **Scripture Reference:** Genesis 45:22
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Joseph giving garments to each brother and a larger gift to Benjamin because the verse centers on hope that can receive restoration without turning blessing into comparison.
+**Context and language lens:** Joseph giving garments to each brother and a larger gift to Benjamin because the verse centers on hope that can receive restoration without turning blessing into comparison.
 
 Eternal hope begins where grace covers what performance cannot repair. Genesis 45:22 shows Joseph giving garments to each brother, and giving Benjamin an additional gift of silver and garments. After the history this family carries, clothing becomes more than an object. It is a sign that shame will not be the final covering.
 
@@ -164,7 +164,7 @@ Grace is not fragile because another person is also blessed.
 
 **Scripture Reference:** Genesis 45:24
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses Joseph sending his brothers away with a warning not to quarrel on the road because the verse centers on comfort that protects the journey from old accusation.
+**Context and language lens:** Joseph sending his brothers away with a warning not to quarrel on the road because the verse centers on comfort that protects the journey from old accusation.
 
 Mercy in the morning may sound like a warning for the road. Genesis 45:24 shows Joseph sending his brothers away and telling them not to quarrel along the way. The family has received provision, but the journey home still carries old pressure.
 
@@ -194,7 +194,7 @@ Do not let old accusation steal the road mercy has opened.
 
 **Scripture Reference:** Genesis 45:28
 
-**Production lens correction:** The architecture assigned `raḥamim`; the production lens uses Israel receiving enough hope to go see Joseph before he dies because the verse centers on tender compassion that revives desire after long grief.
+**Context and language lens:** Israel receiving enough hope to go see Joseph before he dies because the verse centers on tender compassion that revives desire after long grief.
 
 The Father's patience can revive desire after grief has lived a long time. Genesis 45:28 gives Israel's response when the truth finally reaches him: Joseph is still alive, and he will go see him before he dies.
 

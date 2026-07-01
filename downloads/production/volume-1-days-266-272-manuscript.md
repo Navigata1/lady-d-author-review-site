@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 32:6
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the messengers' report that Esau is coming with four hundred men because the verse centers on the heart receiving frightening news while still standing under God's earlier promise.
+**Context and language lens:** The messengers' report that Esau is coming with four hundred men because the verse centers on the heart receiving frightening news while still standing under God's earlier promise.
 
 Love that sends you does not stop being love when the report sounds frightening. Genesis 32:6 brings Jacob the kind of news that can make the body tighten before the mind has finished listening. Esau is coming, and he is not coming alone. Four hundred men are with him.
 
@@ -44,7 +44,7 @@ The report is not bigger than the God who sent you.
 
 **Scripture Reference:** Genesis 32:7
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Jacob's fear, distress, and division of the camp because the verse shows a threatened heart trying to protect what has been entrusted to it.
+**Context and language lens:** Jacob's fear, distress, and division of the camp because the verse shows a threatened heart trying to protect what has been entrusted to it.
 
 Covenant mercy sees the heart that is afraid and distressed. Genesis 32:7 does not hide Jacob's reaction. He is afraid. He is distressed. He divides the people and possessions into groups. The verse lets us watch a promised man respond with very human caution.
 
@@ -74,7 +74,7 @@ The heart can prepare without letting fear become its shepherd.
 
 **Scripture Reference:** Genesis 32:8
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Jacob's contingency plan because the verse centers on a heart trying to preserve life while still needing the Father's welcome to transform defensive strategy.
+**Context and language lens:** Jacob's contingency plan because the verse centers on a heart trying to preserve life while still needing the Father's welcome to transform defensive strategy.
 
 The Father's welcome is patient with the heart that is still planning for survival. Genesis 32:8 shows Jacob thinking through what might happen if Esau attacks one group. He wants the remaining group to escape. This is not polished courage. It is a contingency plan born in the tension between promise and fear.
 
@@ -104,7 +104,7 @@ You are welcome before your strategy is fully healed.
 
 **Scripture Reference:** Genesis 32:10
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses Jacob's confession of unworthiness and remembrance of God's kindness because the verse centers on humility before covenant mercy, not self-condemnation.
+**Context and language lens:** Jacob's confession of unworthiness and remembrance of God's kindness because the verse centers on humility before covenant mercy, not self-condemnation.
 
 Beloved identity awakens when humility receives mercy without pretending to deserve it. Genesis 32:10 shows Jacob praying from a lowered place. He remembers that he crossed the Jordan with only his staff and now has become two camps. He does not present his growth as proof that God owes him more. He receives the story as mercy.
 
@@ -134,7 +134,7 @@ On this Sabbath, let gratitude awaken who you are in the Father's care.
 
 **Scripture Reference:** Genesis 32:11
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Jacob's direct plea for deliverance from Esau because the verse centers on faithful prayer that tells God the specific fear instead of hiding behind vague spirituality.
+**Context and language lens:** Jacob's direct plea for deliverance from Esau because the verse centers on faithful prayer that tells God the specific fear instead of hiding behind vague spirituality.
 
 Love that finds you can meet the prayer that is specific. Genesis 32:11 shows Jacob asking God to deliver him from his brother. He names Esau. He names fear. He names the danger to the mothers and children. The prayer is not vague because the fear is not vague.
 
@@ -164,7 +164,7 @@ Love finds the place you are finally willing to name.
 
 **Scripture Reference:** Genesis 32:12
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Jacob remembering God's promise to do him good and multiply his future because the verse centers on letting God's word frame the heart before action resumes.
+**Context and language lens:** Jacob remembering God's promise to do him good and multiply his future because the verse centers on letting God's word frame the heart before action resumes.
 
 Grace before performance sounds like remembering what God said before you try to prove what you can do. Genesis 32:12 shows Jacob placing God's promise back into the prayer. He remembers that God spoke good over him and a future larger than his present fear could hold.
 
@@ -194,7 +194,7 @@ Let the promise speak before performance starts again.
 
 **Scripture Reference:** Genesis 32:13
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Jacob spending the night there and selecting a gift for Esau because the verse centers on mercy becoming prepared action after prayer.
+**Context and language lens:** Jacob spending the night there and selecting a gift for Esau because the verse centers on mercy becoming prepared action after prayer.
 
 Mercy in the morning is often prepared in the night of prayer. Genesis 32:13 shows Jacob staying there that night and taking from what he has a gift for Esau. The movement matters. He has heard the report, felt fear, prayed honestly, remembered the promise, and now prepares a concrete gesture.
 

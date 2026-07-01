@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 20:32
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses Jesus stopping for the blind men because saving wholeness begins when need is brought honestly into His presence.
+**Context and language lens:** Jesus stopping for the blind men because saving wholeness begins when need is brought honestly into His presence.
 
 Matthew 20:32 is tender. Jesus stops. He calls the men near and asks what they want Him to do for them. The crowd may be moving, but Jesus is not too rushed to hear honest need.
 
@@ -32,7 +32,7 @@ Walking with Jesus means bringing need close enough for mercy to answer.
 
 **Journal prompt:** What need is Jesus asking me to name plainly?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Wake Up to Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means bringing need close enough for mercy to answer.
 
 **Scripture Reference:** Matthew 20:33
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses the blind men's request for opened eyes because peace becomes whole when longing is simple and direct before Jesus.
+**Context and language lens:** The blind men's request for opened eyes because peace becomes whole when longing is simple and direct before Jesus.
 
 Matthew 20:33 gives a clear answer. The men want their eyes opened. Their request is not polished or complicated. It is direct, humble, and full of hope.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting hope ask clearly.
 
 **Journal prompt:** What do I need to ask Jesus for without hiding behind complicated words?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Let Fire Refine Resurrection Hope in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting hope ask clearly.
 
 **Scripture Reference:** Matthew 20:4
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses the vineyard master's promise of what is right because Lordship teaches trust when obedience begins before outcomes are fully seen.
+**Context and language lens:** The vineyard master's promise of what is right because Lordship teaches trust when obedience begins before outcomes are fully seen.
 
 Matthew 20:4 belongs to the vineyard parable. The master calls workers and promises to give what is right. They step into the field before every detail is measured out.
 
@@ -88,7 +88,7 @@ Walking with Jesus means trusting the Lord of the vineyard with both work and re
 
 **Journal prompt:** Where is Jesus asking me to trust Him with both work and reward?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Come Home to the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means trusting the Lord of the vineyard with both work and re
 
 **Scripture Reference:** Matthew 21:10
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses Jerusalem's stirred question because light exposes whether the heart recognizes Jesus when He arrives differently than expected.
+**Context and language lens:** Jerusalem's stirred question because light exposes whether the heart recognizes Jesus when He arrives differently than expected.
 
 Matthew 21:10 shows the city stirred as Jesus enters Jerusalem. People ask who this is. His arrival creates movement, attention, confusion, and a question that cannot remain shallow.
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting His presence become the question that changes t
 
 **Journal prompt:** Where have I become familiar with Jesus without freshly recognizing Him?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Practice the Light on the Path in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting His presence become the question that changes t
 
 **Scripture Reference:** Matthew 21:11
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses the crowd naming Jesus because following Him means receiving His revealed identity, not merely repeating public language.
+**Context and language lens:** The crowd naming Jesus because following Him means receiving His revealed identity, not merely repeating public language.
 
 Matthew 21:11 gives the crowd's answer about Jesus. They name Him as the prophet from Nazareth. The words matter, but the journey of discipleship presses deeper than public description.
 
@@ -144,7 +144,7 @@ Walking with Jesus means moving from description to discipleship.
 
 **Journal prompt:** Where do I need to move from knowing about Jesus to following Him?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Surrender to the Invitation in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means moving from description to discipleship.
 
 **Scripture Reference:** Matthew 21:12
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses Jesus cleansing the temple because saving wholeness sometimes removes what has crowded out worship, prayer, and mercy.
+**Context and language lens:** Jesus cleansing the temple because saving wholeness sometimes removes what has crowded out worship, prayer, and mercy.
 
 Matthew 21:12 is strong. Jesus enters the temple and confronts what has corrupted a place meant for holy communion. His mercy is not passive toward what damages worship.
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting mercy cleanse the places meant for prayer.
 
 **Journal prompt:** What has been crowding the place in me that belongs to prayer?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Let Mercy Speak the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting mercy cleanse the places meant for prayer.
 
 **Scripture Reference:** Matthew 21:14
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses the healing of the blind and lame in the temple because peace becomes whole where Jesus receives need in the restored place of worship.
+**Context and language lens:** The healing of the blind and lame in the temple because peace becomes whole where Jesus receives need in the restored place of worship.
 
 Matthew 21:14 is beautiful after the cleansing. The blind and the lame come to Jesus in the temple, and He heals them. The place cleared for prayer becomes a place where wounded people can come near.
 
@@ -200,4 +200,4 @@ Walking with Jesus means breathing in the peace of His healing presence.
 
 **Journal prompt:** Where does Jesus want to turn a cleansed place into a healing place?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Breathe the Road with Jesus in one faithful step today.

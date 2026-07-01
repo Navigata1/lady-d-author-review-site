@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** 1 Samuel 10:13
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses Saul returning from the prophetic moment to the high place. The Comforter's nearness is framed as cleansing after spiritual experience so the heart returns steady.
+**Context and language lens:** Saul returning from the prophetic moment to the high place. The Comforter's nearness is framed as cleansing after spiritual experience so the heart returns steady.
 
 1 Samuel 10:13 shows a transition after a remarkable moment. The public sign is not the end of the walk.
 
@@ -42,7 +42,7 @@ The Spirit forms freedom, fire, and holiness by cleansing the heart after spirit
 
 **Scripture Reference:** 1 Samuel 10:14
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses a family question after Saul's encounter with Samuel. Holy fire is framed as discerning God's nearness inside ordinary questions.
+**Context and language lens:** A family question after Saul's encounter with Samuel. Holy fire is framed as discerning God's nearness inside ordinary questions.
 
 1 Samuel 10:14 brings Saul into a normal conversation. Someone close to him asks where he has been.
 
@@ -70,7 +70,7 @@ The Spirit forms freedom, fire, and holiness by making God's nearness discernibl
 
 **Scripture Reference:** 1 Samuel 10:16
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Saul's restrained disclosure. Rain for dry places is framed as Spirit-breathed witness that knows when not to reveal everything.
+**Context and language lens:** Saul's restrained disclosure. Rain for dry places is framed as Spirit-breathed witness that knows when not to reveal everything.
 
 1 Samuel 10:16 shows Saul answering truthfully while withholding part of what had been spoken over him. Not every holy thing is ready for public handling.
 
@@ -98,7 +98,7 @@ The Spirit forms freedom, fire, and holiness by breathing restraint into truthfu
 
 **Scripture Reference:** 1 Samuel 10:17
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Samuel gathering the people before the Lord. The anointing for today is framed as set-apart public attention under God's presence.
+**Context and language lens:** Samuel gathering the people before the Lord. The anointing for today is framed as set-apart public attention under God's presence.
 
 1 Samuel 10:17 moves the story into a gathered public moment. The people are assembled before God.
 
@@ -126,7 +126,7 @@ The Spirit forms freedom, fire, and holiness by setting public attention under G
 
 **Scripture Reference:** 1 Samuel 10:18
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Samuel's reminder of God's deliverance. The Spirit's fruit is framed as strength to remember rescue before choosing a visible substitute for trust.
+**Context and language lens:** Samuel's reminder of God's deliverance. The Spirit's fruit is framed as strength to remember rescue before choosing a visible substitute for trust.
 
 1 Samuel 10:18 calls the people to remember deliverance. The story begins with what God has already done.
 
@@ -154,7 +154,7 @@ The Spirit forms freedom, fire, and holiness by strengthening memory into faithf
 
 **Scripture Reference:** 1 Samuel 10:19
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the people's desire for visible security. Power to witness is framed as cleansing desire when the heart is tempted to replace trust with control.
+**Context and language lens:** The people's desire for visible security. Power to witness is framed as cleansing desire when the heart is tempted to replace trust with control.
 
 1 Samuel 10:19 exposes a painful exchange. The people want visible security, even after God's saving faithfulness has been named.
 
@@ -182,7 +182,7 @@ The Spirit forms freedom, fire, and holiness by cleansing desire before it repla
 
 **Scripture Reference:** 1 Samuel 10:20
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses the tribe of Benjamin being selected. The seal of belonging is framed as hearing God's nearness when selection narrows and identity feels exposed.
+**Context and language lens:** The tribe of Benjamin being selected. The seal of belonging is framed as hearing God's nearness when selection narrows and identity feels exposed.
 
 1 Samuel 10:20 begins narrowing the public selection. A tribe is brought forward, and attention becomes more focused.
 

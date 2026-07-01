@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** 1 Peter 5:13
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the closing greeting from fellow believers because saving wholeness includes being remembered, connected, and strengthened in spiritual family.
+**Context and language lens:** The closing greeting from fellow believers because saving wholeness includes being remembered, connected, and strengthened in spiritual family.
 
 The table of grace has names around it. 1 Peter 5:13 carries greeting, companionship, and spiritual affection from believers who share the road. It is a small line, but small lines can heal lonely places.
 
@@ -32,7 +32,7 @@ Walking with Jesus means letting grace reconnect the heart to faithful spiritual
 
 **Journal prompt:** Where has loneliness been telling me I am forgotten, and who can I encourage today?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Wake Up to the Table of Grace in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting grace reconnect the heart to faithful spiritual
 
 **Scripture Reference:** 1 Peter 5:3
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Peter's warning against domineering leadership because peace is formed when influence becomes example instead of control.
+**Context and language lens:** Peter's warning against domineering leadership because peace is formed when influence becomes example instead of control.
 
 The healing touch of Jesus refines how we use influence. 1 Peter 5:3 warns against domineering over those entrusted to our care and calls leaders to become examples. That word reaches far beyond formal titles.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting peace reshape the way we lead, correct, help, a
 
 **Journal prompt:** Where am I tempted to control instead of becoming a faithful example?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Let Fire Refine the Healing Touch in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting peace reshape the way we lead, correct, help, a
 
 **Scripture Reference:** Matthew 10:11
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' instruction about finding a worthy household because His Lordship gives discernment for where to stay, serve, and keep peace.
+**Context and language lens:** Jesus' instruction about finding a worthy household because His Lordship gives discernment for where to stay, serve, and keep peace.
 
 The call to follow includes discernment. Matthew 10:11 shows Jesus sending His disciples with practical instruction: look carefully, enter wisely, and stay faithfully where welcome and worthiness are found. Mission is not frantic wandering.
 
@@ -88,7 +88,7 @@ Walking with Jesus means trusting His Lordship to guide both movement and stayin
 
 **Journal prompt:** Where is Jesus asking me to stay faithful instead of scattering my attention?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Come Home to the Call to Follow in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means trusting His Lordship to guide both movement and stayin
 
 **Scripture Reference:** Matthew 10:12
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Jesus' instruction to greet the household because light gives direction for entering spaces with peace before control.
+**Context and language lens:** Jesus' instruction to greet the household because light gives direction for entering spaces with peace before control.
 
 Cross-shaped courage can begin with a greeting. Matthew 10:12 is simple and practical: when the disciples enter a house, they are to greet it. Jesus sends His people with peace on their lips before proof in their hands.
 
@@ -116,7 +116,7 @@ Walking with Jesus means entering ordinary places with courage shaped by His pea
 
 **Journal prompt:** How do I usually enter tense spaces, and what would peace change first?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Practice Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means entering ordinary places with courage shaped by His pea
 
 **Scripture Reference:** Matthew 10:2
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses the naming of the twelve apostles because discipleship becomes concrete when Jesus calls real people into His mission.
+**Context and language lens:** The naming of the twelve apostles because discipleship becomes concrete when Jesus calls real people into His mission.
 
 Resurrection hope often begins with being named. Matthew 10:2 begins listing the apostles. These are not abstract symbols. They are people with stories, temperaments, limits, and futures Jesus will shape through following Him.
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting His call turn an ordinary name into surrendered
 
 **Journal prompt:** What fear rises when I imagine Jesus calling my ordinary life into His mission?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Surrender to Resurrection Hope in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting His call turn an ordinary name into surrendered
 
 **Scripture Reference:** Matthew 10:3
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the continued naming of the apostles because Jesus' saving work gathers different people into one mission of mercy.
+**Context and language lens:** The continued naming of the apostles because Jesus' saving work gathers different people into one mission of mercy.
 
 The Friend who leads gathers people we might not have gathered. Matthew 10:3 continues naming disciples with different stories and callings. Jesus does not build His mission from one personality type.
 
@@ -172,7 +172,7 @@ Walking with Jesus means trusting the Friend who leads different people into one
 
 **Journal prompt:** Who has Jesus called near me that I need to receive with more mercy and less comparison?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Let Mercy Speak the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means trusting the Friend who leads different people into one
 
 **Scripture Reference:** Matthew 10:35
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus' hard word about divided households because peace as wholeness is not false calm; it is allegiance to Christ ordered by love and truth.
+**Context and language lens:** Jesus' hard word about divided households because peace as wholeness is not false calm; it is allegiance to Christ ordered by love and truth.
 
 The light on the path sometimes exposes false peace. Matthew 10:35 is a hard saying. Jesus does not pretend that allegiance to Him will always be understood, welcomed, or easy inside the closest relationships.
 
@@ -200,4 +200,4 @@ Walking with Jesus means breathing truthful peace when allegiance to Him is cost
 
 **Journal prompt:** Where do I need Christ's peace to help me love faithfully without making approval my lord?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Breathe the Light on the Path in one faithful step today.

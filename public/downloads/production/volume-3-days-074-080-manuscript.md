@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 1:7
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's making of ordered space and separation in creation. The new-heart emphasis becomes love that lets God form inner order where fear has blurred boundaries.
+**Context and language lens:** God's making of ordered space and separation in creation. The new-heart emphasis becomes love that lets God form inner order where fear has blurred boundaries.
 
 The Spirit's fruit grows best where God is allowed to bring order. Genesis 1:7 continues the creation movement of making space and setting boundaries. Life is being prepared before it is fully visible.
 
@@ -32,7 +32,7 @@ The Spirit grows fruit by bringing loving order to the inner life.
 
 **Journal prompt:** Where does love need to become holy order in me?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Love Teach the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit grows fruit by bringing loving order to the inner life.
 
 **Scripture Reference:** Genesis 1:8
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's naming of the expanse and the completion of the second day. Power to witness is framed as living under God's named order rather than needing to prove oneself.
+**Context and language lens:** God's naming of the expanse and the completion of the second day. Power to witness is framed as living under God's named order rather than needing to prove oneself.
 
 Witness becomes stronger when the heart stops trying to name itself. Genesis 1:8 shows God naming what He has made. Creation receives identity from the Creator.
 
@@ -60,7 +60,7 @@ The Spirit awakens witness by grounding identity in God's naming.
 
 **Journal prompt:** Where am I trying to name myself instead of receiving my place from God?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Awaken Power to Witness into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit awakens witness by grounding identity in God's naming.
 
 **Scripture Reference:** Genesis 1:9
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's gathering of the waters and the appearing of dry land. Belonging is framed as God's ability to gather what feels scattered and reveal a place to stand.
+**Context and language lens:** God's gathering of the waters and the appearing of dry land. Belonging is framed as God's ability to gather what feels scattered and reveal a place to stand.
 
 Belonging often begins when God gathers what has been scattered. Genesis 1:9 shows ordered gathering and dry land appearing. A place to stand comes into view.
 
@@ -88,7 +88,7 @@ The Spirit gathers scattered places into belonging and steady ground.
 
 **Journal prompt:** Where do I need God to gather me and give me a place to stand?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Embrace the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit gathers scattered places into belonging and steady ground.
 
 **Scripture Reference:** Genesis 1:10
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's naming of land and seas and His declaration of goodness. Prayer beyond words becomes resting in God's ability to name and hold what we cannot explain.
+**Context and language lens:** God's naming of land and seas and His declaration of goodness. Prayer beyond words becomes resting in God's ability to name and hold what we cannot explain.
 
 Some prayers begin when we stop trying to explain everything perfectly. Genesis 1:10 shows God naming land and seas, and seeing goodness in His ordered work.
 
@@ -116,7 +116,7 @@ The Spirit helps wordless prayer rest in God's naming care.
 
 **Journal prompt:** What am I trying too hard to explain that God is simply asking me to bring?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Remember Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit helps wordless prayer rest in God's naming care.
 
 **Scripture Reference:** Genesis 1:13
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the evening-and-morning rhythm of the third day. Wind in the waiting is framed as Spirit-nearness inside God's timing.
+**Context and language lens:** The evening-and-morning rhythm of the third day. Wind in the waiting is framed as Spirit-nearness inside God's timing.
 
 Waiting becomes harder when the heart forgets rhythm. Genesis 1:13 closes the third day with evening and morning. God's creative work is moving, but it is not frantic.
 
@@ -144,7 +144,7 @@ The Spirit gives breath inside God's unfolding rhythm.
 
 **Journal prompt:** What unfinished matter do I need to release into God's timing today?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Walk in Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit gives breath inside God's unfolding rhythm.
 
 **Scripture Reference:** Genesis 1:14
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's appointment of lights for seasons, days, and years. Oil for the journey is framed as Spirit-given peace with God's markers and timing.
+**Context and language lens:** God's appointment of lights for seasons, days, and years. Oil for the journey is framed as Spirit-given peace with God's markers and timing.
 
 Peace comes when the journey is no longer measured only by anxiety. Genesis 1:14 shows God appointing lights for seasons, days, and years. Time is not outside His care.
 
@@ -172,7 +172,7 @@ The Spirit gives peaceful oil for the journey through God's ordered timing.
 
 **Journal prompt:** What season am I in, and what faithful action belongs to this day?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Peace Lead Oil for the Journey into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit gives peaceful oil for the journey through God's ordered timing.
 
 **Scripture Reference:** Genesis 1:15
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the lights giving light upon the earth. Freedom in the Spirit is framed as walking in God's given light rather than being ruled by darkness or drivenness.
+**Context and language lens:** The lights giving light upon the earth. Freedom in the Spirit is framed as walking in God's given light rather than being ruled by darkness or drivenness.
 
 Freedom needs light. Genesis 1:15 shows the lights serving their purpose by giving light upon the earth. What God appoints, God also uses to bless the place where life is forming.
 
@@ -200,4 +200,4 @@ The Spirit gives freedom by teaching the heart to walk in God's light.
 
 **Journal prompt:** What light has God already given me, and what peaceful response belongs to it?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Choose Freedom in the Spirit into one faithful step today.

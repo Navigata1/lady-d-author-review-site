@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 12:23
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses the crowd's question about Jesus because abiding begins when wonder is allowed to become surrendered attention instead of passing curiosity.
+**Context and language lens:** The crowd's question about Jesus because abiding begins when wonder is allowed to become surrendered attention instead of passing curiosity.
 
 Peace can begin with a question. Matthew 12:23 shows people amazed by what Jesus has done and asking whether He could be the promised Son of David. Their wonder is not yet full surrender, but it has opened a door.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting holy wonder become abiding faith.
 
 **Scripture Reference:** Matthew 12:25
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses Jesus' knowledge of divided thoughts and divided kingdoms because His compassion moves toward wholeness, not denial.
+**Context and language lens:** Jesus' knowledge of divided thoughts and divided kingdoms because His compassion moves toward wholeness, not denial.
 
 Jesus is not confused by division. Matthew 12:25 says He knew their thoughts and answered the danger beneath them. He sees what is said aloud and what is being protected underneath.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting His compassionate truth make the heart whole.
 
 **Scripture Reference:** Matthew 12:28
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus' words about the Spirit of God and the nearness of the kingdom because the Teacher forms us to recognize God's rule when it arrives.
+**Context and language lens:** Jesus' words about the Spirit of God and the nearness of the kingdom because the Teacher forms us to recognize God's rule when it arrives.
 
 The Friend who leads does not always arrive with noise. Matthew 12:28 points to the Spirit of God and the kingdom of God breaking into the present moment through Jesus' authority. Heaven is not theoretical when Christ is at work.
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting the Teacher form your ear for the kingdom.
 
 **Scripture Reference:** Matthew 12:38
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the request for a sign because Jesus' way exposes the heart that wants proof without surrender.
+**Context and language lens:** The request for a sign because Jesus' way exposes the heart that wants proof without surrender.
 
 Sometimes the heart asks for another sign when obedience is already clear. Matthew 12:38 shows religious leaders asking Jesus for a sign, not from tender trust, but from a posture that wanted to evaluate Him without yielding to Him.
 
@@ -126,7 +126,7 @@ Walking with Jesus means following the light you have already been given.
 
 **Scripture Reference:** Matthew 12:40
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus' sign of Jonah because resurrection hope is the deep answer beneath every demand for proof.
+**Context and language lens:** Jesus' sign of Jonah because resurrection hope is the deep answer beneath every demand for proof.
 
 Grace forms the invitation around the cross and the resurrection. Matthew 12:40 points toward Jesus' death, burial, and rising through the sign of Jonah. He does not answer shallow testing with a performance. He points to the saving center.
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting resurrection hope train the ear away from final
 
 **Scripture Reference:** Matthew 12:44
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus' warning about an empty house because abiding in Christ is more than being swept clean; the heart must be filled and kept by Him.
+**Context and language lens:** Jesus' warning about an empty house because abiding in Christ is more than being swept clean; the heart must be filled and kept by Him.
 
 The Shepherd's voice does more than empty a room. Matthew 12:44 warns of a house swept, ordered, and still empty. The image is sober because a life can look improved and still remain uninhabited by surrender.
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting Christ inhabit what He has cleaned.
 
 **Scripture Reference:** Matthew 12:49
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses Jesus' gesture toward His disciples because His compassion gathers a new family around obedience to the Father's will.
+**Context and language lens:** Jesus' gesture toward His disciples because His compassion gathers a new family around obedience to the Father's will.
 
 The road with Jesus becomes a family road. Matthew 12:49 shows Jesus stretching His hand toward His disciples. He is not shrinking love; He is revealing the grace that gathers people into belonging through the Father's will.
 

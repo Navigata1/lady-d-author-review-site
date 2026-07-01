@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 12:16
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses Jesus' charge not to make Him known because His Lordship is not controlled by publicity, pressure, or human timing.
+**Context and language lens:** Jesus' charge not to make Him known because His Lordship is not controlled by publicity, pressure, or human timing.
 
 Matthew 12:16 shows Jesus directing the response to His works. He is not driven by exposure. He moves under the Father's purpose.
 
@@ -32,7 +32,7 @@ Walking with Jesus means trusting the Lord's timing more than the pressure to be
 
 **Journal prompt:** Where am I confusing faithful witness with the need to be noticed?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Come Home to the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means trusting the Lord's timing more than the pressure to be
 
 **Scripture Reference:** Matthew 12:17
 
-**Production lens note:** The architecture assigns phos; the production lens uses Matthew's fulfillment marker because God's revealed purpose gives direction beneath the visible moment.
+**Context and language lens:** Matthew's fulfillment marker because God's revealed purpose gives direction beneath the visible moment.
 
 Matthew 12:17 signals that what happens in Jesus is not random. The Gospel writer points the reader back to God's revealed purpose.
 
@@ -60,17 +60,17 @@ Walking with Jesus means letting God's revealed purpose give direction beneath o
 
 **Journal prompt:** What ordinary or understated place needs to be interpreted through God's revealed purpose?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Practice the Road with Jesus in one faithful step today.
 
 ---
 
 ## Day 351 - December 17
 
-### Surrender to the Nearness of Christ
+### Surrender to Finishing Hope Through the Nearness of Christ
 
 **Scripture Reference:** Matthew 12:18
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses the chosen Servant language because following Jesus means receiving His servant-shaped way of justice and Spirit-filled obedience.
+**Context and language lens:** The chosen Servant language because following Jesus means receiving His servant-shaped way of justice and Spirit-filled obedience.
 
 Matthew 12:18 centers the beloved Servant, chosen by God, filled with the Spirit, and appointed to bring justice.
 
@@ -88,17 +88,17 @@ Walking with Jesus means following the beloved Servant into Spirit-filled witnes
 
 **Journal prompt:** Where do I need to serve from beloved identity instead of proving myself?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Surrender to Finishing Hope Through the Nearness of Christ in one faithful step today.
 
 ---
 
 ## Day 352 - December 18
 
-### Let Mercy Speak the Way of Peace
+### Let Finishing Hope Speak the Way of Peace
 
 **Scripture Reference:** Matthew 12:19
 
-**Production lens note:** The architecture assigns sozo; the production lens uses the Servant's refusal to quarrel or cry out because saving wholeness can be strong without being loud.
+**Context and language lens:** The Servant's refusal to quarrel or cry out because saving wholeness can be strong without being loud.
 
 Matthew 12:19 describes a Servant who does not build His mission on public quarrel or noise. His strength is not measured by volume.
 
@@ -116,17 +116,17 @@ Walking with Jesus means letting saving wholeness make your witness both strong 
 
 **Journal prompt:** Where do I mistake loudness for faithfulness?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Let Finishing Hope Speak the Way of Peace in one faithful step today.
 
 ---
 
 ## Day 353 - December 19
 
-### Breathe the Table of Grace
+### Breathe Finishing Hope in the Table of Grace
 
 **Scripture Reference:** Matthew 12:20
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the bruised reed and dim wick imagery because Christ's peace handles fragile people with restoring gentleness.
+**Context and language lens:** The bruised reed and dim wick imagery because Christ's peace handles fragile people with restoring gentleness.
 
 Matthew 12:20 reveals the Servant's gentleness. He does not crush what is already bruised or snuff out what is barely burning.
 
@@ -144,17 +144,17 @@ Walking with Jesus means resting at the table of grace where fragile places are 
 
 **Journal prompt:** What bruised place needs Christlike gentleness this Sabbath?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Breathe Finishing Hope in the Table of Grace in one faithful step today.
 
 ---
 
 ## Day 354 - December 20
 
-### Hold Fast to the Healing Touch
+### Hold Fast to Finishing Hope Through the Healing Touch
 
 **Scripture Reference:** Matthew 12:21
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the promise of hope in His name because trusted Lordship becomes healing hope for more people than the disciple first imagined.
+**Context and language lens:** The promise of hope in His name because trusted Lordship becomes healing hope for more people than the disciple first imagined.
 
 Matthew 12:21 widens the promise. Hope is attached to His name, and that hope reaches beyond expected borders.
 
@@ -172,17 +172,17 @@ Walking with Jesus means bearing witness to a Lord whose name carries hope beyon
 
 **Journal prompt:** Who have I quietly excluded from the reach of hope in Jesus' name?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Hold Fast to Finishing Hope Through the Healing Touch in one faithful step today.
 
 ---
 
 ## Day 355 - December 21
 
-### Return to the Call to Follow
+### Return to Finishing Hope Through the Call to Follow
 
 **Scripture Reference:** Matthew 12:24
 
-**Production lens note:** The architecture assigns phos; the production lens uses the accusation against Jesus because light exposes the fear that calls God's work by the wrong name.
+**Context and language lens:** The accusation against Jesus because light exposes the fear that calls God's work by the wrong name.
 
 Matthew 12:24 shows religious leaders misnaming the work of Jesus. When a heart is threatened, it can call light darkness.
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting His light correct suspicious interpretations an
 
 **Journal prompt:** Where might fear be causing me to misname something God is doing?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Return to Finishing Hope Through the Call to Follow in one faithful step today.

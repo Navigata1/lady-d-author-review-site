@@ -187,7 +187,7 @@ This is deeply practical. When impatience rises, the heart often reaches for con
 
 **Scripture Reference:** Deuteronomy 30:6
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens is corrected to `mul/levav` - circumcision of the heart, an inward work of covenant renewal. This better matches the passage and prevents decorative language use.
+**Context and language lens:** `mul/levav` - circumcision of the heart, an inward work of covenant renewal. The passage points to inward covenant renewal rather than decorative language.
 
 Fear can obey on the outside and still hide on the inside. It can learn religious movements, proper words, and respectable behavior while the heart remains guarded from love. Deuteronomy 30:6 points to something deeper than surface adjustment. God promises an inward work, a heart made able to love Him.
 
@@ -218,7 +218,7 @@ Today, listen for the Father's love where fear has been loud. He is not asking f
 
 **Scripture Reference:** Deuteronomy 31:7
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `chazaq/amats` - be strong and courageous - because the passage speaks directly to courage in a called transition.
+**Context and language lens:** `chazaq/amats` - be strong and courageous - because the passage speaks directly to courage in a called transition.
 
 There are moments when love does not feel like softness. Sometimes love sounds like the Father telling His child, "Stand up. Take courage. I am not finished leading you." Deuteronomy 31:7 comes in a transition moment. Moses speaks to Joshua in front of the people, and the call is not to pretend the future is easy. The call is to move forward because God is faithful.
 
@@ -244,7 +244,7 @@ Today, receive courage as part of surrender. Surrender is not always lying down.
 
 **Scripture Reference:** Deuteronomy 4:37
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `ahav/bachar` - loved and chose - because the verse emphasizes God's love for the fathers and His choice of their descendants.
+**Context and language lens:** `ahav/bachar` - loved and chose - because the verse emphasizes God's love for the fathers and His choice of their descendants.
 
 Grace is not only what forgives you after failure. Grace is also what holds the story together before you understand the story. Deuteronomy 4:37 points backward to God's love and forward to His faithful action. The people did not invent the promise. They were carried by the promise.
 
@@ -270,7 +270,7 @@ Today, let grace form trust. Do not treat the promise of God as something fragil
 
 **Scripture Reference:** Deuteronomy 6:5
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `levav/ahav` - heart and love - because the passage calls for whole-person love toward God.
+**Context and language lens:** `levav/ahav` - heart and love - because the passage calls for whole-person love toward God.
 
 The Father does not ask for a divided love because He does not give a divided love. Deuteronomy 6:5 calls the whole person toward God: heart, soul, and strength. This is not a narrow religious feeling. It is the whole life turned toward the One who loved first.
 
@@ -296,7 +296,7 @@ This kind of surrender is not legalism. It is love becoming whole. The Father is
 
 **Scripture Reference:** Deuteronomy 7:12
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `shamar/hesed` - keeping and steadfast covenant love - because the verse holds listening, keeping, and covenant mercy together.
+**Context and language lens:** `shamar/hesed` - keeping and steadfast covenant love - because the verse holds listening, keeping, and covenant mercy together.
 
 The Father's love does not only gather you close. It also sends you into faithful living. Deuteronomy 7:12 connects listening, keeping, and covenant mercy. The order matters. Obedience is not a bribe to make God loving. It is the path of a people learning to live inside the love that has already claimed them.
 
@@ -322,7 +322,7 @@ Do not confuse being loved with being left unchanged. The Father loves too deepl
 
 **Scripture Reference:** Deuteronomy 7:13
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `barak/hesed` - blessing held inside covenant love - because the verse emphasizes love, blessing, and multiplication.
+**Context and language lens:** `barak/hesed` - blessing held inside covenant love - because the verse emphasizes love, blessing, and multiplication.
 
 There is a kind of rest that comes from knowing the Father is not stingy with mercy. Deuteronomy 7:13 speaks of love and blessing in covenant language. The heart of the passage is not that God's people can control outcomes by religious precision. The heart is that life under the Father's covenant care is not barren.
 
@@ -348,7 +348,7 @@ The Father is not only interested in what He can put in your hands. He is formin
 
 **Scripture Reference:** Exodus 15:13
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `hesed/gaal` - steadfast love and redemption - because the verse celebrates redeemed people being led by covenant love.
+**Context and language lens:** `hesed/gaal` - steadfast love and redemption - because the verse celebrates redeemed people being led by covenant love.
 
 The Father's welcome is not sentimental. It is strong enough to lead redeemed people out of bondage and toward His holy purpose. Exodus 15:13 carries the sound of deliverance. The people are not congratulating themselves for escaping. They are singing because steadfast love led them.
 
@@ -374,7 +374,7 @@ If yesterday felt like a battle, begin again here: the Father still leads the re
 
 **Scripture Reference:** Exodus 20:6
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `hesed/shamar` - steadfast love and keeping - because the verse joins love for God with faithful keeping of His commandments.
+**Context and language lens:** `hesed/shamar` - steadfast love and keeping - because the verse joins love for God with faithful keeping of His commandments.
 
 Beloved identity is not allergic to holiness. The Father's love does not call you beloved so you can remain untouched by His character. Exodus 20:6 holds love and commandment-keeping together inside covenant mercy. This is not cold religion. It is love with a holy shape.
 
@@ -403,7 +403,7 @@ Let the Father's love refine your identity today. You are not less beloved when 
 
 **Scripture Reference:** Exodus 33:19
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `chanan/racham` - grace and compassion - because the passage emphasizes God's free mercy and compassionate self-revelation.
+**Context and language lens:** `chanan/racham` - grace and compassion - because the passage emphasizes God's free mercy and compassionate self-revelation.
 
 There are seasons when the soul needs more than an answer. It needs God Himself to pass near. Exodus 33:19 comes in the tender ache of Moses asking to know God's ways and see His glory. The Father's response is not to hand Moses a formula. He reveals His goodness, grace, and compassion.
 
@@ -429,7 +429,7 @@ Come home today from the exhausting place where you keep trying to make God unde
 
 **Scripture Reference:** Exodus 34:7
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `hesed/emet/nasa` - steadfast love, faithfulness, and forgiving lifting-away - because the passage describes God's covenant character.
+**Context and language lens:** `hesed/emet/nasa` - steadfast love, faithfulness, and forgiving lifting-away - because the passage describes God's covenant character.
 
 God's mercy is not shallow. Exodus 34:7 belongs to one of Scripture's great revelations of God's character. The Father is not introduced as impatient, unstable, or easily finished with His people. He is shown as overflowing in steadfast love and faithfulness, forgiving, and still morally serious.
 
@@ -455,7 +455,7 @@ Practicing grace before performance today may look like confession instead of im
 
 **Scripture Reference:** Genesis 15:15
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `shalom/seybah tovah` - peace and good old age - because the verse speaks of God's assurance over the span and ending of Abraham's life.
+**Context and language lens:** `shalom/seybah tovah` - peace and good old age - because the verse speaks of God's assurance over the span and ending of Abraham's life.
 
 Mercy does not only meet the emergency. Sometimes mercy speaks over the whole length of a life. Genesis 15:15 sits inside a covenant conversation where God gives Abram a future larger than his present sight. In the middle of promises too big to hold, God also gives a personal assurance: Abram's life is seen by God.
 
@@ -481,7 +481,7 @@ You may not know how everything will unfold. But you can entrust the span of you
 
 **Scripture Reference:** Genesis 17:5
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `shem/av hamon` - name and father of a multitude - because the verse centers on God's renaming and calling of Abraham.
+**Context and language lens:** `shem/av hamon` - name and father of a multitude - because the verse centers on God's renaming and calling of Abraham.
 
 The Father sometimes speaks identity before circumstances know how to agree. Genesis 17:5 is the renaming of Abram into Abraham. God speaks a calling that stretches beyond what Abraham can prove in the moment. The name becomes a witness to promise.
 
@@ -507,7 +507,7 @@ Let mercy speak today. Not the voice that excuses unbelief, but the voice that s
 
 **Scripture Reference:** Genesis 28:21
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `shuv/shalom` - return and peace - because Jacob's vow looks toward God bringing him back in peace.
+**Context and language lens:** `shuv/shalom` - return and peace - because Jacob's vow looks toward God bringing him back in peace.
 
 Jacob's journey reminds us that fear can travel with a person who has still been met by God. Genesis 28:21 is part of Jacob's response after a holy encounter on the road. He is not yet a finished man. He is a man in motion, learning that God can be present even in an uncertain place.
 
@@ -533,7 +533,7 @@ Today, breathe before fear finishes its sentence. You do not have to solve the w
 
 **Scripture Reference:** Genesis 50:17
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `nasa/pesha` - to lift or bear away transgression - because the passage centers on forgiveness after family harm.
+**Context and language lens:** `nasa/pesha` - to lift or bear away transgression - because the passage centers on forgiveness after family harm.
 
 Some wounds are complicated because they come through people who were supposed to love us. Genesis 50:17 stands in the painful aftermath of Joseph's family story. His brothers ask forgiveness for harm that cannot be made small. The text does not pretend betrayal was harmless. It brings the wound into the place where mercy must become real.
 
@@ -559,7 +559,7 @@ Today, hold fast to the God who understands family grief, betrayal, repentance, 
 
 **Scripture Reference:** Psalm 13:5
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `hesed/batach` - steadfast love and trust - because the psalm turns from lament toward trust in God's covenant love.
+**Context and language lens:** `hesed/batach` - steadfast love and trust - because the psalm turns from lament toward trust in God's covenant love.
 
 Psalm 13 is honest enough to make room for sorrow and faithful enough to turn toward trust. That is a gift for any believer who has ever prayed with questions still in the room. The verse does not require pretending. It shows a heart choosing to trust God's steadfast love while still walking out of anguish.
 
@@ -588,7 +588,7 @@ This is one of the deep mercies of God: His love is sturdy enough for your hones
 
 **Scripture Reference:** Psalm 16:9
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `kavod/batach` - glory or inner honor rejoicing, and secure trust - because the verse speaks of gladness, rejoicing, and the body resting securely.
+**Context and language lens:** `kavod/batach` - glory or inner honor rejoicing, and secure trust - because the verse speaks of gladness, rejoicing, and the body resting securely.
 
 There is a kind of joy that does not come from pretending everything is easy. Psalm 16:9 points to a heart made glad and a life able to rest secure. That kind of gladness is not shallow cheerfulness. It is the inward steadiness that comes when the soul knows it has been held by God.
 
@@ -614,7 +614,7 @@ Today, let His love reach the place where fear has lived physically. Let prayer 
 
 **Scripture Reference:** Ruth 4:17
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `goel/shem` - redeemer and name - because the passage names a child inside a family restoration story that moves toward David's line.
+**Context and language lens:** `goel/shem` - redeemer and name - because the passage names a child inside a family restoration story that moves toward David's line.
 
 Ruth 4:17 is easy to pass quickly because it sounds like family record. But inside the naming of Obed is a testimony of restoration. Naomi's grief was not erased, but God was still weaving mercy into the family line. The story that felt emptied became part of a larger redemptive movement.
 
@@ -640,7 +640,7 @@ Do not despise ordinary obedience. The Father can place eternal weight inside qu
 
 **Scripture Reference:** Deuteronomy 10:11
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `qum/nasa` - arise and journey - because the passage calls Moses and the people forward toward the land God promised.
+**Context and language lens:** `qum/nasa` - arise and journey - because the passage calls Moses and the people forward toward the land God promised.
 
 Covenant mercy does not always let us stay where we are. In Deuteronomy 10:11, the movement is forward. God tells Moses to arise and lead the people onward. Mercy had not finished with them, but mercy also did not freeze them in yesterday's failure.
 
@@ -666,7 +666,7 @@ Today, discover mercy that moves. Not frantic movement. Not performance. Surrend
 
 **Scripture Reference:** Deuteronomy 10:16
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `mul/orlat levav` - circumcise the foreskin of the heart - because the verse calls for inward surrender and the removal of stubborn resistance.
+**Context and language lens:** `mul/orlat levav` - circumcise the foreskin of the heart - because the verse calls for inward surrender and the removal of stubborn resistance.
 
 The Father's welcome is not the same as leaving every part of us untouched. Deuteronomy 10:16 moves straight to the heart. God calls His people away from stiff-necked resistance and toward inward surrender. This is not surface religion. It is heart-level yielding.
 
@@ -692,7 +692,7 @@ Today, welcome may feel like conviction. Do not run from that. Conviction in the
 
 **Scripture Reference:** Deuteronomy 10:19
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `ger/ahav` - stranger and love - because the verse calls God's people to love the stranger from the memory of their own former vulnerability.
+**Context and language lens:** `ger/ahav` - stranger and love - because the verse calls God's people to love the stranger from the memory of their own former vulnerability.
 
 Beloved identity should make us more tender, not more exclusive. Deuteronomy 10:19 calls God's people to love the stranger because they remember what it was to be strangers. The Father does not let redeemed people forget vulnerability in a way that hardens them toward others.
 
@@ -718,7 +718,7 @@ Today, trust your belovedness enough to make room. The Father has welcomed you w
 
 **Scripture Reference:** Deuteronomy 10:22
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `me'at/kokhavim` - few and stars - because the verse contrasts small beginnings with God's multiplying faithfulness.
+**Context and language lens:** `me'at/kokhavim` - few and stars - because the verse contrasts small beginnings with God's multiplying faithfulness.
 
 Hope rises when the Father reminds us that small beginnings are not small to Him. Deuteronomy 10:22 looks back at a family that went down into Egypt few in number and then became as numerous as the stars. The point is not human greatness. The point is God's faithful increase.
 
@@ -744,7 +744,7 @@ Today, do not despise the small place where God is working. Surrender the need f
 
 **Scripture Reference:** Deuteronomy 30:10
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `shuv/shama/levav` - return, listen, and heart - because the verse joins obedience with whole-heart return to the Lord.
+**Context and language lens:** `shuv/shama/levav` - return, listen, and heart - because the verse joins obedience with whole-heart return to the Lord.
 
 Grace before performance does not mean a life without obedience. It means obedience begins from return. Deuteronomy 30:10 holds listening, keeping, and turning to the Lord with heart and soul together. The Father is not asking for mechanical religion. He is calling for a returned life.
 
@@ -773,7 +773,7 @@ As Sabbath approaches in any given week, this matters deeply. Holy rest and comm
 
 **Scripture Reference:** Deuteronomy 30:14
 
-**Production lens:** `lev/peh` - heart and mouth - because the passage brings God's word near enough to be received inwardly and spoken faithfully.
+**Context and language lens:** `lev/peh` - heart and mouth - because the passage brings God's word near enough to be received inwardly and spoken faithfully.
 
 Mercy is not always far away. Sometimes the Father has already brought the word near, but fear convinces us it is still out of reach. Deuteronomy 30:14 brings the matter close to the mouth and heart. God is not playing a spiritual game of distance. He calls His people to respond to what He has already placed near enough to obey.
 
@@ -799,7 +799,7 @@ Lean into mercy by receiving what God has made plain. You do not have to solve t
 
 **Scripture Reference:** Deuteronomy 30:16
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `ahav/derek/mitzvah/chayah` - love, way, command, and life - because the verse joins loving the Lord, walking in His ways, keeping His commandments, and living under His blessing.
+**Context and language lens:** `ahav/derek/mitzvah/chayah` - love, way, command, and life - because the verse joins loving the Lord, walking in His ways, keeping His commandments, and living under His blessing.
 
 The Father's patience does not lower the beauty of obedience. It teaches us why obedience matters. Deuteronomy 30:16 joins love, walking, commandments, life, and blessing. This is not cold religion. It is a picture of a life ordered around the God who loves His people and calls them into the way of life.
 
@@ -825,7 +825,7 @@ The Father is patient enough to keep teaching the same truth without contempt. H
 
 **Scripture Reference:** Deuteronomy 30:17
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `panah/shama/levav` - turning, hearing, and heart - because the verse warns against the heart turning away and refusing to listen.
+**Context and language lens:** `panah/shama/levav` - turning, hearing, and heart - because the verse warns against the heart turning away and refusing to listen.
 
 Love stronger than fear does not pretend the heart cannot turn. Deuteronomy 30:17 is sober. It names the danger of a heart that turns away, refuses to hear, and is drawn after other loves. The Father is not trying to frighten His people into closeness. He is telling the truth because love tells the truth.
 
@@ -854,7 +854,7 @@ As January closes, let the depth of God's love become more than comfort. Let it 
 
 **Scripture Reference:** Deuteronomy 30:2
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `shuv/shama/levav` - return, listen, and heart - because the passage calls God's people to return to Him and obey with heart and soul.
+**Context and language lens:** `shuv/shama/levav` - return, listen, and heart - because the passage calls God's people to return to Him and obey with heart and soul.
 
 Beloved identity begins with the mercy of return. Deuteronomy 30:2 does not treat God's people as disposable because they have wandered. It calls them back with the whole heart and soul. That means identity is not built on never needing mercy. It is built on belonging to the Father who still calls His children home.
 
@@ -880,7 +880,7 @@ Today, behold the promise that holds: you can return. Not as a stranger begging 
 
 **Scripture Reference:** Deuteronomy 30:3
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `shuv/racham/qabats` - restore, have compassion, and gather - because the verse speaks of God restoring, showing compassion, and gathering His people.
+**Context and language lens:** `shuv/racham/qabats` - restore, have compassion, and gather - because the verse speaks of God restoring, showing compassion, and gathering His people.
 
 The Father's heart does not only call from a distance. It gathers. Deuteronomy 30:3 carries the tenderness of restoration: God turns captivity, has compassion, and gathers His scattered people. Beloved identity is not a self-made confidence. It is the knowledge that the Father knows how to gather what has been scattered.
 
@@ -906,7 +906,7 @@ This is a gentle correction to fear. Fear says, "Too much has been lost." The Fa
 
 **Scripture Reference:** Deuteronomy 30:5
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `bo/yarash/tov/rabah` - bring in, possess, do good, and multiply - because the verse speaks of God bringing His people into promise and doing them good.
+**Context and language lens:** `bo/yarash/tov/rabah` - bring in, possess, do good, and multiply - because the verse speaks of God bringing His people into promise and doing them good.
 
 Beloved identity is not passive. It rests in love and then moves where love sends. Deuteronomy 30:5 speaks of the Lord bringing His people into the land and doing them good. The movement begins with God. He brings, restores, and gives a future. The people are not inventing identity from emptiness; they are receiving life from covenant love.
 
@@ -932,7 +932,7 @@ There is also humility here. Promise is not possession for pride. If God brings 
 
 **Scripture Reference:** Deuteronomy 30:9
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `sus/maaseh/tov` - rejoice, work, and good - because the passage shows the Lord delighting again in doing good and blessing the work of His people's lives.
+**Context and language lens:** `sus/maaseh/tov` - rejoice, work, and good - because the passage shows the Lord delighting again in doing good and blessing the work of His people's lives.
 
 Covenant mercy can be hard to receive when the heart has learned to expect disappointment. Deuteronomy 30:9 gives a picture of the Lord delighting again in doing good to His people. This does not turn God into a vending machine for easy outcomes. It reveals something about His heart: He is not reluctant to bless what He is restoring.
 
@@ -958,7 +958,7 @@ Wake up to mercy by letting God be kinder than your fear has allowed Him to be. 
 
 **Scripture Reference:** Deuteronomy 31:16
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `zanah/azav/berit` - unfaithfulness, forsaking, and covenant - because the verse warns of covenant betrayal after Moses' death.
+**Context and language lens:** `zanah/azav/berit` - unfaithfulness, forsaking, and covenant - because the verse warns of covenant betrayal after Moses' death.
 
 The Father's welcome is not fragile, but it is holy. Deuteronomy 31:16 is a serious warning. God names the danger of a people who will turn after other gods, forsake Him, and break covenant. This is not comfortable language, but beloved identity must be strong enough to hear truth.
 
@@ -984,7 +984,7 @@ This is why warning and love belong together. A welcomed child still needs corre
 
 **Scripture Reference:** Deuteronomy 31:20
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `saba/panah/naats/parar berit` - fullness, turning, spurning, and breaking covenant - because the passage warns that fullness can become forgetfulness if the heart turns away.
+**Context and language lens:** `saba/panah/naats/parar berit` - fullness, turning, spurning, and breaking covenant - because the passage warns that fullness can become forgetfulness if the heart turns away.
 
 Sometimes the greatest test of beloved identity is not lack, but fullness. Deuteronomy 31:20 warns that when the people enter a good land and are satisfied, their hearts may turn after other gods and treat the covenant lightly. This is a mercy to hear before blessing becomes a distraction.
 
@@ -1010,7 +1010,7 @@ This is a beautiful discipline: to receive good without drifting, to enjoy bless
 
 **Scripture Reference:** Deuteronomy 4:1
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `shama/chayah/bo` - listen, live, and enter - because the verse calls Israel to hear God's statutes so they may live and enter what He is giving.
+**Context and language lens:** `shama/chayah/bo` - listen, live, and enter - because the verse calls Israel to hear God's statutes so they may live and enter what He is giving.
 
 Love that finds you also teaches you how to live. Deuteronomy 4:1 begins with listening. The people are called to hear the Lord's statutes and judgments so they may live and enter the promise. Beloved identity does not separate being loved from being taught. The Father who finds us also forms us.
 
@@ -1039,7 +1039,7 @@ If obedience has felt heavy, ask the Father to restore the connection between li
 
 **Scripture Reference:** Deuteronomy 4:29
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `baqash/matsa/levav/nephesh` - seek, find, heart, and soul - because the passage promises that God is found when the whole person seeks Him.
+**Context and language lens:** `baqash/matsa/levav/nephesh` - seek, find, heart, and soul - because the passage promises that God is found when the whole person seeks Him.
 
 Grace before performance does not mean a careless search for God. It means the Father invites the whole heart to seek Him without pretending first. Deuteronomy 4:29 speaks to people who may find themselves far away, yet it still holds out the mercy of seeking and finding. That is beloved identity: even when distance has happened, the Father does not turn the search into a performance stage.
 
@@ -1065,7 +1065,7 @@ Today, surrender the performance that waits to be impressive. Seek the Father ho
 
 **Scripture Reference:** Deuteronomy 4:31
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `rachum/azav/shachat/shakach/berit` - merciful, forsake, destroy, forget, and covenant - because the verse emphasizes God's mercy, His refusal to abandon, and His memory of covenant.
+**Context and language lens:** `rachum/azav/shachat/shakach/berit` - merciful, forsake, destroy, forget, and covenant - because the verse emphasizes God's mercy, His refusal to abandon, and His memory of covenant.
 
 There are mornings when the heart needs mercy to speak before memory does. Memory may rehearse failure, regret, delay, or fear. Deuteronomy 4:31 answers with the character of God: He is merciful. He does not forsake lightly. He does not forget covenant. He is not unstable in His love.
 
@@ -1091,7 +1091,7 @@ If you have been expecting God to destroy what He intends to restore, pause. His
 
 **Scripture Reference:** Deuteronomy 4:39
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `yada/levav` - know and lay to heart - because the verse calls the people to know and take to heart that the Lord alone is God.
+**Context and language lens:** `yada/levav` - know and lay to heart - because the verse calls the people to know and take to heart that the Lord alone is God.
 
 The Father's patience gives the heart time to know what is true. Deuteronomy 4:39 does not ask for a shallow nod. It calls the truth of God into the heart: the Lord is God, and there is no other. Beloved identity rests on that reality. You are not held by a mood, an idol, a trend, or a temporary support. You are held by the living God.
 
@@ -1117,7 +1117,7 @@ Beloved identity becomes steady when the heart remembers who rules. You do not h
 
 **Scripture Reference:** Deuteronomy 4:9
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `shamar/nephesh/shakach/lamad` - guard, soul, forget, and teach - because the passage calls for guarding the soul, resisting forgetfulness, and teaching the next generation.
+**Context and language lens:** `shamar/nephesh/shakach/lamad` - guard, soul, forget, and teach - because the passage calls for guarding the soul, resisting forgetfulness, and teaching the next generation.
 
 Love stronger than fear learns to guard the soul. Deuteronomy 4:9 speaks with practical urgency: pay attention, guard yourself, do not forget, and make the truth known to your children and grandchildren. Beloved identity is not passive self-esteem. It is a guarded memory of God's works and words.
 
@@ -1143,7 +1143,7 @@ Hold fast today. Do not let the day's pressure steal the story of God's care. Be
 
 **Scripture Reference:** Deuteronomy 6:10
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `bo/shaba/natan` - bring in, swear, and give - because the verse points to God bringing His people into what He promised to give.
+**Context and language lens:** `bo/shaba/natan` - bring in, swear, and give - because the verse points to God bringing His people into what He promised to give.
 
 Restoring compassion remembers that God brings His children into places they did not create by themselves. Deuteronomy 6:10 looks toward promised inheritance: cities, houses, and provision connected to God's oath. The point is not pride in possession. The point is humble remembrance of the Giver.
 
@@ -1169,7 +1169,7 @@ Return today by naming what God has given. Not to boast. Not to compare. To reme
 
 **Scripture Reference:** Deuteronomy 6:18
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `yashar/tov/yatab/yarash` - right, good, go well, and possess - because the verse calls God's people to do what is right and good so they may live in the promised inheritance.
+**Context and language lens:** `yashar/tov/yatab/yarash` - right, good, go well, and possess - because the verse calls God's people to do what is right and good so they may live in the promised inheritance.
 
 The promise that holds you also teaches you how to walk. Deuteronomy 6:18 connects doing what is right and good with the life God intends for His people. This is not performance for approval. It is beloved identity becoming visible in choices.
 
@@ -1195,7 +1195,7 @@ Today, let the promise hold you steady enough to do what is right and good.
 
 **Scripture Reference:** Deuteronomy 6:23
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `yatsa/bo/natan/shaba` - bring out, bring in, give, and swear - because the verse summarizes deliverance as movement out of bondage and into promised gift.
+**Context and language lens:** `yatsa/bo/natan/shaba` - bring out, bring in, give, and swear - because the verse summarizes deliverance as movement out of bondage and into promised gift.
 
 The Father's heart does not only bring His children out. He brings them in. Deuteronomy 6:23 remembers deliverance with destination: God brought His people out so He could bring them in and give what He had promised. Beloved identity needs both halves of that mercy.
 
@@ -1224,7 +1224,7 @@ This does not make the journey instant. Israel still had to walk. You may still 
 
 **Scripture Reference:** Deuteronomy 6:3
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `shama/shamar/yatab/rabah` - hear, keep, go well, and multiply - because the verse calls God's people to hear and keep His way so life may flourish.
+**Context and language lens:** `shama/shamar/yatab/rabah` - hear, keep, go well, and multiply - because the verse calls God's people to hear and keep His way so life may flourish.
 
 Love that sends you begins with listening. Deuteronomy 6:3 is not merely about movement into a better place. It is about hearing the Lord, keeping His instruction, and trusting that His way is tied to life. Beloved identity does not make us careless with God's voice. It makes us responsive.
 
@@ -1250,7 +1250,7 @@ Discover love that sends you by refusing to separate calling from listening. The
 
 **Scripture Reference:** Deuteronomy 6:6
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `dabar/levav` - words and heart - because the verse places God's words upon the heart.
+**Context and language lens:** `dabar/levav` - words and heart - because the verse places God's words upon the heart.
 
 Covenant mercy is not only something God shows around us. It is something He writes within us. Deuteronomy 6:6 places God's words upon the heart. Beloved identity is not built by vague spiritual feeling alone. It is formed as the Father's instruction settles deep enough to shape desire, thought, memory, and practice.
 
@@ -1276,7 +1276,7 @@ This is also where Sabbath and obedience become tender. Holy practice is not an 
 
 **Scripture Reference:** Deuteronomy 7:17
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `levav/yare/yakol` - heart, fear, and ability - because the verse names fear that rises when the heart sees an obstacle as too large.
+**Context and language lens:** `levav/yare/yakol` - heart, fear, and ability - because the verse names fear that rises when the heart sees an obstacle as too large.
 
 The Father's welcome does not require you to pretend the obstacle is small. Deuteronomy 7:17 names the fear that can rise in the heart when the challenge ahead looks greater than your strength. Beloved identity does not deny fear. It brings fear into the presence of the Father.
 
@@ -1302,7 +1302,7 @@ The welcome of God steadies the heart before the battle of the day. You are not 
 
 **Scripture Reference:** Deuteronomy 7:2
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `natan/charam/berit/chanan` - give, devote to judgment, covenant, and mercy - because the verse belongs to Israel's ancient covenant-boundary context and must not be flattened into ordinary interpersonal application.
+**Context and language lens:** `natan/charam/berit/chanan` - give, devote to judgment, covenant, and mercy - because the verse belongs to Israel's ancient covenant-boundary context and must not be flattened into ordinary interpersonal application.
 
 Some passages require holy caution. Deuteronomy 7:2 speaks from an ancient covenant moment involving judgment, allegiance, and the danger of being drawn into idolatry. It is not a license for contempt toward people. It is not permission to treat human beings as disposable. In devotional use, this text must be handled with reverence and care.
 
@@ -1328,7 +1328,7 @@ Hope rises when identity becomes clear. You belong to the Father. You do not nee
 
 **Scripture Reference:** Deuteronomy 7:7
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `chashaq/ahav/meat` - set affection, love, and few - because the verse emphasizes God's chosen affection not based on numerical greatness.
+**Context and language lens:** `chashaq/ahav/meat` - set affection, love, and few - because the verse emphasizes God's chosen affection not based on numerical greatness.
 
 Love that finds you is not impressed by the measurements people use. Deuteronomy 7:7 reminds Israel that God's affection was not placed on them because they were the largest or most impressive. They were few. The Father's love was not a reward for visible greatness.
 
@@ -1354,7 +1354,7 @@ Carry that love today. Let it move with you into the room where you feel small. 
 
 **Scripture Reference:** Exodus 15:2
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `oz/zimrat/yeshuah` - strength, song, and salvation - because the verse praises the Lord as strength, song, and salvation after deliverance.
+**Context and language lens:** `oz/zimrat/yeshuah` - strength, song, and salvation - because the verse praises the Lord as strength, song, and salvation after deliverance.
 
 Grace before performance sings because salvation came first. Exodus 15:2 rises from deliverance. The Lord is strength, song, and salvation before the people have a chance to prove themselves in a settled land. Beloved identity learns to worship from rescue, not from self-display.
 
@@ -1380,7 +1380,7 @@ Today, do not wait until you feel impressive to worship. Let the Father receive 
 
 **Scripture Reference:** Exodus 15:23
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `mar/marah` - bitter and Marah - because the verse names bitter waters at Marah, before God's provision in the wilderness story.
+**Context and language lens:** `mar/marah` - bitter and Marah - because the verse names bitter waters at Marah, before God's provision in the wilderness story.
 
 Mercy in the morning sometimes begins by admitting the water is bitter. Exodus 15:23 does not rush past disappointment. The people came to water, but they could not drink it because it was bitter. The place even carried that name. Beloved identity does not require us to rename bitterness as sweetness before bringing it to God.
 
@@ -1409,7 +1409,7 @@ See again mercy in the morning by refusing to let bitterness have the final word
 
 **Scripture Reference:** Exodus 15:8
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `ruach/appayim/natsab/qapha/tehom` - breath, nostrils, standing up, congealing, and the deep - because the verse belongs to the Red Sea song and describes the Lord's power over the waters.
+**Context and language lens:** `ruach/appayim/natsab/qapha/tehom` - breath, nostrils, standing up, congealing, and the deep - because the verse belongs to the Red Sea song and describes the Lord's power over the waters.
 
 The Father's patience is not weakness. Exodus 15:8 remembers the God who ruled over the waters when His people could not make a way for themselves. The sea that looked impossible to Israel was not impossible to Him. Creation itself answered to His command.
 
@@ -1437,7 +1437,7 @@ Beloved identity does not mean every pressure disappears. It means you stand bef
 
 **Scripture Reference:** Exodus 19:20
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `yarad/qara/alah` - descend, call, and go up - because the verse describes the Lord descending on Sinai and calling Moses upward.
+**Context and language lens:** `yarad/qara/alah` - descend, call, and go up - because the verse describes the Lord descending on Sinai and calling Moses upward.
 
 Love stronger than fear does not make God small. Exodus 19:20 brings us to Sinai, where the Lord descends and calls. This is not casual language. The mountain scene carries weight, holiness, and awe. Beloved identity is not built by making the Father tame enough to manage. It is built by learning that the holy God is also the God who calls.
 
@@ -1465,7 +1465,7 @@ Today, listen for the call inside reverence. Let the Father's holiness steady yo
 
 **Scripture Reference:** Exodus 19:3
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `alah/qara/bayit/yaaqob/yisrael` - go up, call, house of Jacob, and children of Israel - because the verse introduces God's message to His rescued covenant people.
+**Context and language lens:** `alah/qara/bayit/yaaqob/yisrael` - go up, call, house of Jacob, and children of Israel - because the verse introduces God's message to His rescued covenant people.
 
 Restoring compassion speaks to a people with a story. Exodus 19:3 does not begin with a nameless crowd. The Lord's message is addressed to the house of Jacob and the children of Israel. God knows the family line, the wrestling, the weakness, the rescue, and the promise. He speaks to people with history.
 
@@ -1493,7 +1493,7 @@ Embrace restoring compassion by allowing God to name you more deeply than your h
 
 **Scripture Reference:** Exodus 19:7
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `qara/zaqen/siym/dabar/tsavah` - call, elders, set before, words, and command - because the verse shows Moses placing the Lord's words before the elders.
+**Context and language lens:** `qara/zaqen/siym/dabar/tsavah` - call, elders, set before, words, and command - because the verse shows Moses placing the Lord's words before the elders.
 
 The promise that holds is not vague. Exodus 19:7 shows Moses calling the elders and setting before them the words the Lord commanded. God's people were not asked to build identity from guesses. The Father's covenant word was placed before them.
 
@@ -1521,7 +1521,7 @@ Remember the promise that holds by placing God's word before the loudest word in
 
 **Scripture Reference:** Exodus 20:12
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `kabad/av/em/arak/yamim/adamah` - honor, father, mother, lengthened days, and land - because the verse gives the command to honor father and mother within covenant life.
+**Context and language lens:** `kabad/av/em/arak/yamim/adamah` - honor, father, mother, lengthened days, and land - because the verse gives the command to honor father and mother within covenant life.
 
 The heart that calls you is not careless with home. Exodus 20:12 brings beloved identity into family life through the command to honor father and mother. God cares about how love moves through generations. He cares about the way honor, memory, responsibility, and healing shape a household.
 
@@ -1549,7 +1549,7 @@ Walk in the heart that calls you today. Let God form a generational witness thro
 
 **Scripture Reference:** Exodus 20:24
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `mizbeach/adamah/shem/bo/barak` - altar, earth, name, come, and bless - because the verse connects worship, God's named presence, and blessing.
+**Context and language lens:** `mizbeach/adamah/shem/bo/barak` - altar, earth, name, come, and bless - because the verse connects worship, God's named presence, and blessing.
 
 Love that sends you begins again at worship. Exodus 20:24 speaks of an altar, offerings, the Lord's name, His coming near, and His blessing. The details belong to Israel's sanctuary-shaped worship life, but the devotional heart can still hear the invitation: do not build life apart from God's presence.
 
@@ -1577,7 +1577,7 @@ Let peace lead love that sends you today. Do not rush from task to task without 
 
 **Scripture Reference:** Exodus 20:5
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `shachah/abad/qanna/paqad/avon` - bow down, serve, jealous, attend to, and iniquity - because the verse warns against idolatrous worship and names the generational weight of sin.
+**Context and language lens:** `shachah/abad/qanna/paqad/avon` - bow down, serve, jealous, attend to, and iniquity - because the verse warns against idolatrous worship and names the generational weight of sin.
 
 Covenant mercy tells the truth about rival worship. Exodus 20:5 is a weighty commandment text. It warns against bowing down to idols and serving them, and it speaks of God's holy jealousy and the generational consequences of iniquity. This is not a verse to flatten into fear. It is a verse to handle with reverence.
 
@@ -1608,7 +1608,7 @@ The Father is not inviting you into despair. He is inviting you into clean alleg
 
 **Scripture Reference:** Exodus 33:12
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `yada/shem/chen/am` - know, name, favor, and people - because the verse centers Moses' appeal that God knows him by name, has shown favor, and has entrusted him with a people.
+**Context and language lens:** `yada/shem/chen/am` - know, name, favor, and people - because the verse centers Moses' appeal that God knows him by name, has shown favor, and has entrusted him with a people.
 
 Grace for the extra day begins with being known. Exodus 33:12 stands in the middle of a tender conversation between Moses and the Lord. Moses carries responsibility he did not invent. He is leading people who are not easy to lead. He is aware that calling without God's presence would be too heavy.
 
@@ -1639,7 +1639,7 @@ Grace for the extra day means you can pause before you push. You can ask for the
 
 **Scripture Reference:** Exodus 33:13
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `derek/yada/chen/am` - way, know, favor, and people - because Moses asks to know God's ways and appeals to God's favor and covenant people.
+**Context and language lens:** `derek/yada/chen/am` - way, know, favor, and people - because Moses asks to know God's ways and appeals to God's favor and covenant people.
 
 Love that finds you does not leave you without a way. Exodus 33:13 continues Moses' prayer for God's guidance. He does not merely ask for a better outcome. He asks to know the Lord's ways. In the timing of struggle, beloved people need more than relief. We need the Father to teach us how to walk.
 
@@ -1665,7 +1665,7 @@ Surrender to love that finds you by letting God lead more than your circumstance
 
 **Scripture Reference:** Exodus 33:16
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `paneh/halak/palah/am/adamah` - presence, go, distinction, people, and earth - because Moses says God's presence is what distinguishes His people.
+**Context and language lens:** `paneh/halak/palah/am/adamah` - presence, go, distinction, people, and earth - because Moses says God's presence is what distinguishes His people.
 
 Grace before performance is carried by presence. Exodus 33:16 asks a question that reaches the heart of covenant identity: if God's presence does not go with His people, what makes them distinct? Moses understands that achievement without presence would not be enough.
 
@@ -1693,7 +1693,7 @@ Let mercy speak today. Ask for the presence of God to shape the way you walk thr
 
 **Scripture Reference:** Exodus 33:17
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `dabar/asah/chen/yada/shem` - word, do, favor, know, and name - because the Lord answers Moses with favor and personal knowing.
+**Context and language lens:** `dabar/asah/chen/yada/shem` - word, do, favor, know, and name - because the Lord answers Moses with favor and personal knowing.
 
 Mercy in the morning sounds like God's answer before the day becomes loud. Exodus 33:17 shows the Lord responding to Moses' intercession with favor and personal knowing. The struggle is not over, but the relationship is not uncertain. God answers from covenant nearness.
 
@@ -1721,7 +1721,7 @@ The struggle may still be real after prayer. But you do not have to carry it as 
 
 **Scripture Reference:** Exodus 33:7
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `ohel/moed/rachowq/darash` - tent, appointed meeting, far off, and seek - because the verse describes the tent of meeting and those who sought the Lord.
+**Context and language lens:** `ohel/moed/rachowq/darash` - tent, appointed meeting, far off, and seek - because the verse describes the tent of meeting and those who sought the Lord.
 
 The Father's patience makes room to seek Him. Exodus 33:7 describes the tent of meeting outside the camp, where those who sought the Lord would go. The setting carries the ache of a complicated season, but it also carries mercy. There is still a place to seek.
 
@@ -1749,7 +1749,7 @@ Hold fast today. The Father is patient enough to meet you again, and again, and 
 
 **Scripture Reference:** Exodus 34:20
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `peter/rechem/padah/paneh/reyqam` - firstborn, womb, redeem, presence, and empty-handed - because the verse belongs to Israel's firstborn redemption and worship instructions.
+**Context and language lens:** `peter/rechem/padah/paneh/reyqam` - firstborn, womb, redeem, presence, and empty-handed - because the verse belongs to Israel's firstborn redemption and worship instructions.
 
 Love stronger than fear learns the language of redemption carefully. Exodus 34:20 belongs to Israel's covenant worship instructions about firstborn redemption and coming before the Lord. It is not a verse for casual application or religious bargaining. It asks us to slow down and remember that life belongs to God.
 
@@ -1775,7 +1775,7 @@ Return to love stronger than fear by refusing to treat your life as ownerless or
 
 **Scripture Reference:** Exodus 34:31
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `qara/shuv/dabar` - call, return, and speak - because Moses calls the leaders back and speaks to them after the glory encounter.
+**Context and language lens:** `qara/shuv/dabar` - call, return, and speak - because Moses calls the leaders back and speaks to them after the glory encounter.
 
 Restoring compassion calls people back close enough to hear. Exodus 34:31 comes after Moses has been with the Lord. The leaders return to him, and he speaks to them. The scene is simple, but it carries a tender pattern: God meets, then His servant calls, and the people draw near to receive what must be spoken.
 
@@ -1803,7 +1803,7 @@ The Father's compassion is not only comfort after damage. It is the call that br
 
 **Scripture Reference:** Exodus 34:6
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `rachum/channun/erek-appayim/hesed/emet` - compassionate, gracious, slow to anger, steadfast love, and truth - because the verse is the Lord's self-proclamation of His character.
+**Context and language lens:** `rachum/channun/erek-appayim/hesed/emet` - compassionate, gracious, slow to anger, steadfast love, and truth - because the verse is the Lord's self-proclamation of His character.
 
 The promise that holds is anchored in who God says He is. Exodus 34:6 is one of Scripture's deep wells. The Lord proclaims His character: compassion, grace, patience, steadfast love, and truth. In the timing of struggle, the heart needs more than a slogan. It needs the revealed character of God.
 
@@ -1834,7 +1834,7 @@ On this Saturday Sabbath, let rest become agreement with His character. You do n
 
 **Scripture Reference:** Exodus 34:9
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `chen/Adonay/qereb/qasheh-oreph/salach/avon/chattah/nachal` - favor, Lord, midst, stiff-necked, pardon, iniquity, sin, and inheritance - because Moses asks the Lord to go among a stubborn people, forgive them, and take them as His inheritance.
+**Context and language lens:** `chen/Adonay/qereb/qasheh-oreph/salach/avon/chattah/nachal` - favor, Lord, midst, stiff-necked, pardon, iniquity, sin, and inheritance - because Moses asks the Lord to go among a stubborn people, forgive them, and take them as His inheritance.
 
 The heart that calls you is not surprised by the places where you still resist Him. Exodus 34:9 is a brave prayer. Moses does not pretend the people are easy to lead, easy to love, or easy to correct. He names the stiffness, and then he asks the Lord to come close anyway.
 
@@ -1862,7 +1862,7 @@ You are not loved because you have never resisted. You are loved by the Father w
 
 **Scripture Reference:** Exodus 3:1
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `roeh/tson/achar/midbar/har-haElohim/Choreb` - shepherding, flock, far side of the wilderness, mountain of God, and Horeb - because Moses is found in ordinary work before the burning bush call unfolds.
+**Context and language lens:** `roeh/tson/achar/midbar/har-haElohim/Choreb` - shepherding, flock, far side of the wilderness, mountain of God, and Horeb - because Moses is found in ordinary work before the burning bush call unfolds.
 
 Love that sends you may first meet you in ordinary faithfulness. Exodus 3:1 does not open with thunder. It opens with Moses keeping a flock, leading sheep through wilderness space, and coming near the mountain of God. Before the famous call, there is a quiet day of work.
 
@@ -1890,7 +1890,7 @@ Do not assume the season is empty because it is quiet. The Father knows how to p
 
 **Scripture Reference:** Exodus 3:13
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `shem/shalach/avot/bene-Yisrael/amar` - name, sent, fathers, children of Israel, and say - because Moses asks how to speak God's identity to the people who are waiting in bondage.
+**Context and language lens:** `shem/shalach/avot/bene-Yisrael/amar` - name, sent, fathers, children of Israel, and say - because Moses asks how to speak God's identity to the people who are waiting in bondage.
 
 Covenant mercy gives the heart something true to say. In Exodus 3:13, Moses is not only asking about information. He is carrying the weight of representation. If he goes to the children of Israel and says the God of their fathers has sent him, they may ask for the name. Moses wants to know what he should say.
 
@@ -1918,7 +1918,7 @@ When you do not know what to say next, begin where Moses begins. Ask the Father 
 
 **Scripture Reference:** Exodus 3:15
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `YHWH/Elohei-avotekhem/shem/olam/zeker/dor-dor` - the covenant name, God of your fathers, name forever, memorial, and generation to generation - because God gives Moses the enduring name by which His people are to remember Him.
+**Context and language lens:** `YHWH/Elohei-avotekhem/shem/olam/zeker/dor-dor` - the covenant name, God of your fathers, name forever, memorial, and generation to generation - because God gives Moses the enduring name by which His people are to remember Him.
 
 Hope rises when the Father welcomes you into a story older and stronger than your present struggle. Exodus 3:15 anchors Moses' message in the Lord's covenant name and in His relationship with Abraham, Isaac, and Jacob. God is not improvising care at the last minute. He is remembering across generations.
 
@@ -1946,7 +1946,7 @@ You can face today's demand from a longer memory. Let the name of the Lord answe
 
 **Scripture Reference:** Exodus 3:16
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `lekh/asaph/ziqne-Yisrael/pakad/raah/Mitzrayim` - go, gather, elders of Israel, surely attend to, see, and Egypt - because God tells Moses to gather the elders and announce that the Lord has visited His people and seen what has been done to them.
+**Context and language lens:** `lekh/asaph/ziqne-Yisrael/pakad/raah/Mitzrayim` - go, gather, elders of Israel, surely attend to, see, and Egypt - because God tells Moses to gather the elders and announce that the Lord has visited His people and seen what has been done to them.
 
 Beloved identity carries the truth that God has seen. Exodus 3:16 moves Moses from receiving God's name to carrying God's message. The Lord tells him to gather the elders and say that He has surely attended to His people and seen what has been done to them in Egypt.
 
@@ -1974,7 +1974,7 @@ You are not abandoned because the season has been hard. The God who sees can als
 
 **Scripture Reference:** Exodus 3:4
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `raah/sur/qara/tokh/seneh/hinneni` - saw, turned aside, called, midst, bush, and here I am - because the Lord sees Moses turn aside and calls him by name from the bush.
+**Context and language lens:** `raah/sur/qara/tokh/seneh/hinneni` - saw, turned aside, called, midst, bush, and here I am - because the Lord sees Moses turn aside and calls him by name from the bush.
 
 Love that finds you knows when you turn aside. Exodus 3:4 is a holy moment of attention. The Lord sees Moses turn aside to look, and God calls to him from the midst of the bush. The call is personal. The response is simple: here I am.
 
@@ -2002,7 +2002,7 @@ Do not despise the pause. A surrendered pause can become the doorway to obedienc
 
 **Scripture Reference:** Exodus 3:6
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `anokhi/Elohei-avikha/panim/yare/nabat` - I am, God of your father, face, fear, and look - because God identifies Himself by covenant relationship and Moses hides his face in reverent fear.
+**Context and language lens:** `anokhi/Elohei-avikha/panim/yare/nabat` - I am, God of your father, face, fear, and look - because God identifies Himself by covenant relationship and Moses hides his face in reverent fear.
 
 Grace before performance begins with God saying who He is. Exodus 3:6 does not first ask Moses to prove himself. The Lord identifies Himself as the God of Moses' father and the God of Abraham, Isaac, and Jacob. Moses' response is reverent fear. He hides his face.
 
@@ -2033,7 +2033,7 @@ The Father who calls you is holy, faithful, and near. Let awe quiet the need to 
 
 **Scripture Reference:** Genesis 12:1
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `lekh-lekha/erets/moledet/bet-av/ha-aretz/ar'eka` - go, from your land, kindred, father's house, the land, and I will show - because the Lord calls Abram away from familiar securities toward a land not yet fully seen.
+**Context and language lens:** `lekh-lekha/erets/moledet/bet-av/ha-aretz/ar'eka` - go, from your land, kindred, father's house, the land, and I will show - because the Lord calls Abram away from familiar securities toward a land not yet fully seen.
 
 Mercy in the morning sometimes begins with a call you cannot completely explain yet. Genesis 12:1 is not a comfortable invitation to stay where everything is known. The Lord calls Abram to leave land, kindred, and father's house, and to go toward the land God will show him.
 
@@ -2061,7 +2061,7 @@ The Father's mercy does not abandon you when He calls you forward. He goes befor
 
 **Scripture Reference:** Genesis 12:18
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `qara/mah/asah/lammah/nagad/ishshah` - called, what, done, why, tell, and wife - because Pharaoh confronts Abram about the harm caused by Abram's fearful withholding of the truth.
+**Context and language lens:** `qara/mah/asah/lammah/nagad/ishshah` - called, what, done, why, tell, and wife - because Pharaoh confronts Abram about the harm caused by Abram's fearful withholding of the truth.
 
 The Father's patience is not the same as pretending nothing happened. Genesis 12:18 is uncomfortable because Abram is confronted by Pharaoh. The question is direct. What has been done? Why was the truth withheld? The passage does not ask us to admire fear-driven half-truths. It asks us to notice that God's people still need correction.
 
@@ -2089,7 +2089,7 @@ The Father is patient enough to correct His children without crushing them. Let 
 
 **Scripture Reference:** Genesis 12:8
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `natah/ohel/mizbeach/qara/shem/YHWH` - pitched, tent, altar, called, name, and YHWH - because Abram moves through the land, pitches his tent, builds an altar, and calls on the name of the Lord.
+**Context and language lens:** `natah/ohel/mizbeach/qara/shem/YHWH` - pitched, tent, altar, called, name, and YHWH - because Abram moves through the land, pitches his tent, builds an altar, and calls on the name of the Lord.
 
 Love stronger than fear makes worship possible in a temporary place. Genesis 12:8 shows Abram moving, pitching his tent, building an altar, and calling on the name of the Lord. The tent tells us he has not settled everything. The altar tells us he can still worship.
 
@@ -2117,7 +2117,7 @@ You may still be moving. You may still be waiting. But the name of the Lord is w
 
 **Scripture Reference:** Genesis 17:17
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `naphal/panim/tsachaq/amar/lev/ben/yalad/Sarah` - fell, face, laughed, said, heart, son, born, and Sarah - because Abraham falls facedown, laughs inwardly, and wrestles with the impossibility of the promised birth.
+**Context and language lens:** `naphal/panim/tsachaq/amar/lev/ben/yalad/Sarah` - fell, face, laughed, said, heart, son, born, and Sarah - because Abraham falls facedown, laughs inwardly, and wrestles with the impossibility of the promised birth.
 
 Restoring compassion knows how to meet the heart that laughs because the promise feels impossible. Genesis 17:17 is tender and honest. Abraham falls facedown and laughs. In his heart, the promise collides with age, limitation, and the visible facts of Sarah's body.
 
@@ -2145,7 +2145,7 @@ The Father does not need you to pretend the impossible looks easy. He invites yo
 
 **Scripture Reference:** Genesis 17:4
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `ani/hinneh/beriti/ittakh/av/hamon/goyim` - I, behold, My covenant, with you, father, multitude, and nations - because God grounds Abram's future in His own covenant initiative.
+**Context and language lens:** `ani/hinneh/beriti/ittakh/av/hamon/goyim` - I, behold, My covenant, with you, father, multitude, and nations - because God grounds Abram's future in His own covenant initiative.
 
 The promise that holds begins with God saying, "As for Me." Genesis 17:4 anchors Abram's future in God's covenant initiative. Before Abram can produce the promised outcome, God declares what He is doing and who Abram will become.
 
@@ -2173,7 +2173,7 @@ The Father who speaks covenant also sustains the child who must walk it out.
 
 **Scripture Reference:** Genesis 1:10
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `qara/yabbashah/erets/miqveh/mayim/yammim/raah/tov` - called, dry land, earth, gathering, waters, seas, saw, and good - because God names the ordered places of creation and sees that they are good.
+**Context and language lens:** `qara/yabbashah/erets/miqveh/mayim/yammim/raah/tov` - called, dry land, earth, gathering, waters, seas, saw, and good - because God names the ordered places of creation and sees that they are good.
 
 Peace can lead the heart when God is allowed to name what belongs where. Genesis 1:10 shows the Creator naming dry land and seas, gathering what needed gathering, and seeing goodness in ordered creation. The verse is quiet, but it is strong.
 
@@ -2201,7 +2201,7 @@ Let the heart that calls you receive peace today. Ask the Father to bring wise o
 
 **Scripture Reference:** Genesis 1:5
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `qara/or/yom/choshekh/laylah/erev/boqer/yom-echad` - called, light, day, darkness, night, evening, morning, and first day - because God names light and darkness and establishes the first evening-morning rhythm.
+**Context and language lens:** `qara/or/yom/choshekh/laylah/erev/boqer/yom-echad` - called, light, day, darkness, night, evening, morning, and first day - because God names light and darkness and establishes the first evening-morning rhythm.
 
 Love that sends you also teaches you holy rhythm. Genesis 1:5 names light and darkness, day and night, evening and morning. Before human striving enters the story, God is already ordering time. The day is not a frantic accident. It is received within the Creator's rhythm.
 
@@ -2232,7 +2232,7 @@ Choose love today by letting God's rhythm send you forward from rest, not exhaus
 
 **Scripture Reference:** Genesis 1:8
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `wayyiqra/Elohim/raqia/shamayim/erev/boqer/yom sheni` - called, God, expanse, heavens, evening, morning, and second day - because the verse centers on God naming the expanse and ordering the second evening-morning rhythm.
+**Context and language lens:** `wayyiqra/Elohim/raqia/shamayim/erev/boqer/yom sheni` - called, God, expanse, heavens, evening, morning, and second day - because the verse centers on God naming the expanse and ordering the second evening-morning rhythm.
 
 Covenant mercy can be heard in the way God names what is above you before you know how to stand beneath it. Genesis 1:8 is quiet creation language. God calls the expanse heavens, and evening and morning mark the second day.
 
@@ -2260,7 +2260,7 @@ Let Him speak before anxiety explains everything to you. Listen slowly. Mercy ma
 
 **Scripture Reference:** Genesis 22:11
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `malakh YHWH/qara/min-hashamayim/Abraham/Abraham/hinneni` - angel of the Lord, called, from the heavens, Abraham, Abraham, and here I am - because mercy interrupts Abraham by name at the decisive moment.
+**Context and language lens:** `malakh YHWH/qara/min-hashamayim/Abraham/Abraham/hinneni` - angel of the Lord, called, from the heavens, Abraham, Abraham, and here I am - because mercy interrupts Abraham by name at the decisive moment.
 
 The Father's welcome sometimes arrives as an interruption. Genesis 22:11 is not a soft scene. Abraham is deep inside obedience he cannot fully understand, and the angel of the Lord calls from heaven with his name repeated: Abraham, Abraham. Abraham answers, "Here I am."
 
@@ -2288,7 +2288,7 @@ Before worry gets the first word today, answer the God who calls with nearness. 
 
 **Scripture Reference:** Genesis 22:14
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `wayyiqra/shem/maqom/YHWH yireh/har/YHWH/yeraeh` - called, name, place, the Lord will provide or see, mountain of the Lord, and it will be seen - because Abraham names the place after God's provision is revealed.
+**Context and language lens:** `wayyiqra/shem/maqom/YHWH yireh/har/YHWH/yeraeh` - called, name, place, the Lord will provide or see, mountain of the Lord, and it will be seen - because Abraham names the place after God's provision is revealed.
 
 Beloved identity is formed when provision teaches you who God is, not only what He gives. Genesis 22:14 says Abraham named that place in relation to the Lord's seeing and providing. The mountain became a memory marker. God had met him there.
 
@@ -2316,7 +2316,7 @@ Let grace form beloved identity today. You are not only the person who struggled
 
 **Scripture Reference:** Genesis 22:15
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `malakh YHWH/qara/Abraham/shenit/min-hashamayim` - angel of the Lord, called, Abraham, second time, and from the heavens - because the verse emphasizes God's repeated heavenly call after provision has been revealed.
+**Context and language lens:** `malakh YHWH/qara/Abraham/shenit/min-hashamayim` - angel of the Lord, called, Abraham, second time, and from the heavens - because the verse emphasizes God's repeated heavenly call after provision has been revealed.
 
 Love that finds you is patient enough to speak again. Genesis 22:15 says the angel of the Lord called to Abraham a second time from heaven. The first call stopped the moment of danger. The second call continued the word of God over Abraham's life.
 
@@ -2344,7 +2344,7 @@ Do not only behold the escape. Behold the Father who stayed near enough to keep 
 
 **Scripture Reference:** Genesis 22:2
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `qach-na/bincha/yehidekha/asher ahavta/Yitzchaq/lekh-lekha/erets Moriyah/olah/har/omar` - take now, your son, your only one, whom you love, Isaac, go, land of Moriah, offering, mountain, and I will tell - because the verse names the beloved son and the costly journey before God's provision is revealed later in the chapter.
+**Context and language lens:** `qach-na/bincha/yehidekha/asher ahavta/Yitzchaq/lekh-lekha/erets Moriyah/olah/har/omar` - take now, your son, your only one, whom you love, Isaac, go, land of Moriah, offering, mountain, and I will tell - because the verse names the beloved son and the costly journey before God's provision is revealed later in the chapter.
 
 Grace before performance is not cheap language when the test touches what is beloved. Genesis 22:2 is one of Scripture's heaviest verses. God names Isaac as Abraham's son, his only one, the one he loves, and calls Abraham toward Moriah.
 
@@ -2372,7 +2372,7 @@ The Father does not need fear to manufacture faith. He forms trust by revealing 
 
 **Scripture Reference:** Genesis 22:21
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `Uz/bekoro/Buz/achiw/Kemuel/avi/Aram` - Uz, his firstborn, Buz, his brother, Kemuel, father, and Aram - because the verse is part of a family-line notice after the mountain narrative.
+**Context and language lens:** `Uz/bekoro/Buz/achiw/Kemuel/avi/Aram` - Uz, his firstborn, Buz, his brother, Kemuel, father, and Aram - because the verse is part of a family-line notice after the mountain narrative.
 
 Mercy in the morning is sometimes hidden in names that do not feel dramatic. Genesis 22:21 belongs to a genealogy notice. Uz, Buz, Kemuel, and Aram appear in the line of Abraham's extended family. After the intensity of the mountain, Scripture gives us family continuity.
 
@@ -2400,7 +2400,7 @@ Rest in mercy this morning by trusting God with the unseen continuities. He is f
 
 **Scripture Reference:** Genesis 22:7
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `amar/Yitzchaq/Abraham/av/hinneni/beni/esh/etsim/ayyeh/seh/olah` - spoke, Isaac, Abraham, father, here I am, my son, fire, wood, where, lamb, and offering - because Isaac's honest question is met by Abraham's attentive presence.
+**Context and language lens:** `amar/Yitzchaq/Abraham/av/hinneni/beni/esh/etsim/ayyeh/seh/olah` - spoke, Isaac, Abraham, father, here I am, my son, fire, wood, where, lamb, and offering - because Isaac's honest question is met by Abraham's attentive presence.
 
 The Father's patience makes room for honest questions. Genesis 22:7 lets us hear Isaac speak to Abraham: "My father." Abraham answers with presence before explanation. Isaac then names what he can see - fire and wood - and asks about what he cannot see.
 
@@ -2431,7 +2431,7 @@ The question is not a failure if it is brought to God. It can become a doorway t
 
 **Scripture Reference:** Genesis 28:1
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `wayyiqra/Yitzchaq/el-Yaakov/vayevarekh/vayetzav/lo tiqqach/ishshah/mibnot Kena'an` - Isaac called Jacob, blessed him, charged him, do not take, wife, and daughters of Canaan - because the verse centers on a fatherly charge and a boundary for Jacob's next step.
+**Context and language lens:** `wayyiqra/Yitzchaq/el-Yaakov/vayevarekh/vayetzav/lo tiqqach/ishshah/mibnot Kena'an` - Isaac called Jacob, blessed him, charged him, do not take, wife, and daughters of Canaan - because the verse centers on a fatherly charge and a boundary for Jacob's next step.
 
 Fire refines love when the next step needs a boundary. Genesis 28:1 shows Isaac calling Jacob, blessing him, and charging him not to take a wife from the daughters of Canaan. It is a family moment, but it is also a direction-setting moment.
 
@@ -2459,7 +2459,7 @@ Ask what boundary is protecting the promise rather than punishing your desire. T
 
 **Scripture Reference:** Genesis 28:13
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `YHWH/nitzav alav/ani YHWH/Elohei Avraham/Elohei Yitzchaq/ha-aretz/atah shokhev/lekha etennenah/lezareka` - the Lord stood, I am the Lord, God of Abraham, God of Isaac, the land on which you lie, I will give to you and your seed - because God meets Jacob with covenant identity and promise while Jacob is away from home.
+**Context and language lens:** `YHWH/nitzav alav/ani YHWH/Elohei Avraham/Elohei Yitzchaq/ha-aretz/atah shokhev/lekha etennenah/lezareka` - the Lord stood, I am the Lord, God of Abraham, God of Isaac, the land on which you lie, I will give to you and your seed - because God meets Jacob with covenant identity and promise while Jacob is away from home.
 
 Restoring compassion can find you on the road before you know how to come home. Genesis 28:13 places Jacob in a vulnerable in-between place, and the Lord stands near with covenant language: the God of Abraham, the God of Isaac, and a promise tied to the land beneath Jacob's head.
 
@@ -2487,7 +2487,7 @@ The Father knows how to turn a hard resting place into a place of encounter.
 
 **Scripture Reference:** Genesis 28:19
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `wayyiqra/shem/ha-maqom/Bet-El/Luz/shem-ha-ir/larishonah` - he called, name of the place, Bethel, and Luz was the former name of the city - because Jacob marks the place by God's presence after the night of encounter.
+**Context and language lens:** `wayyiqra/shem/ha-maqom/Bet-El/Luz/shem-ha-ir/larishonah` - he called, name of the place, Bethel, and Luz was the former name of the city - because Jacob marks the place by God's presence after the night of encounter.
 
 The promise that holds teaches you to rename a place by God's presence. Genesis 28:19 says Jacob called the place Bethel, though its former name was Luz. The ground did not change shape, but Jacob's understanding changed. He had met God there.
 
@@ -2515,7 +2515,7 @@ Do not rush past the verse. Ask where the Father is inviting you to remember, "G
 
 **Scripture Reference:** Genesis 28:2
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `qum/lekh/Paddan-aram/beit Betuel/avi immekha/qach-ishshah/mibnot Lavan/achi immekha` - arise, go, Paddan-aram, house of Bethuel, your mother's father, take a wife, daughters of Laban, and your mother's brother - because the verse gives Jacob a concrete destination and family direction.
+**Context and language lens:** `qum/lekh/Paddan-aram/beit Betuel/avi immekha/qach-ishshah/mibnot Lavan/achi immekha` - arise, go, Paddan-aram, house of Bethuel, your mother's father, take a wife, daughters of Laban, and your mother's brother - because the verse gives Jacob a concrete destination and family direction.
 
 Mercy and forgiveness often begin with a concrete next step. Genesis 28:2 opens April by sending Jacob toward Paddan-aram, to the house connected with his mother's family. The instruction is not vague. Arise. Go. Take the next step in a direction that protects covenant identity.
 
@@ -2543,7 +2543,7 @@ Love that sends you does not abandon you on the road. It gives direction because
 
 **Scripture Reference:** Genesis 28:7
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `vayishma Yaakov/el-aviv/ve'el-immo/vayelekh/Paddan-aram` - Jacob listened to his father and his mother and went to Paddan-aram - because the verse shows Jacob responding to instruction with movement.
+**Context and language lens:** `vayishma Yaakov/el-aviv/ve'el-immo/vayelekh/Paddan-aram` - Jacob listened to his father and his mother and went to Paddan-aram - because the verse shows Jacob responding to instruction with movement.
 
 Hope rises when listening becomes movement. Genesis 28:7 is simple: Jacob listened to his father and mother and went to Paddan-aram. The verse does not decorate obedience. It shows instruction received and a step taken.
 
@@ -2571,7 +2571,7 @@ Take one surrendered step before worry gets the first word. Hope will not always
 
 **Scripture Reference:** Genesis 28:8
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `vayyar Esav/benot Kena'an/ra'ot/be'einei Yitzchaq aviv` - Esau saw, daughters of Canaan, displeasing or evil, in the eyes of Isaac his father - because the verse shows Esau recognizing what grieved his father after Jacob's departure.
+**Context and language lens:** `vayyar Esav/benot Kena'an/ra'ot/be'einei Yitzchaq aviv` - Esau saw, daughters of Canaan, displeasing or evil, in the eyes of Isaac his father - because the verse shows Esau recognizing what grieved his father after Jacob's departure.
 
 The Father's welcome does not hide what certain choices have done. Genesis 28:8 shows Esau seeing that the daughters of Canaan were displeasing in Isaac's eyes. This is a painful family verse because awareness comes after a pattern has already formed.
 
@@ -2599,7 +2599,7 @@ Let prayer turn insight into obedience before noon. Mercy that sees clearly can 
 
 **Scripture Reference:** Genesis 32:2
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `machaneh Elohim/zeh/wayyiqra/shem/ha-maqom/Machanayim` - camp of God, this, called, name of the place, and Mahanaim - because Jacob recognizes God's company on the road and names the place accordingly.
+**Context and language lens:** `machaneh Elohim/zeh/wayyiqra/shem/ha-maqom/Machanayim` - camp of God, this, called, name of the place, and Mahanaim - because Jacob recognizes God's company on the road and names the place accordingly.
 
 Beloved identity is strengthened when you realize you are not traveling alone. Genesis 32:2 shows Jacob recognizing the camp of God and naming the place Mahanaim. He is on the road again, with family tension and uncertain meetings ahead, but God's presence is not absent.
 
@@ -2630,7 +2630,7 @@ Let God's company quiet the fear that mercy must be carried by your strength alo
 
 **Scripture Reference:** Genesis 32:28
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `lo Yaakov/yemare od shimkha/ki im Yisrael/sarita/im Elohim/anasim/tukhal` - no longer Jacob, but Israel, because you have struggled with God and with men and have prevailed - because the verse centers on Jacob's renamed identity after the night of wrestling.
+**Context and language lens:** `lo Yaakov/yemare od shimkha/ki im Yisrael/sarita/im Elohim/anasim/tukhal` - no longer Jacob, but Israel, because you have struggled with God and with men and have prevailed - because the verse centers on Jacob's renamed identity after the night of wrestling.
 
 Mercy can rename what struggle has not been able to destroy. Genesis 32:28 comes after Jacob's long night, and the word spoken over him is not a denial of his story. He is no longer only Jacob. He is given the name Israel after wrestling with God and with people.
 
@@ -2658,7 +2658,7 @@ Do not rush past the verse. Let the Father steady you with a name that is larger
 
 **Scripture Reference:** Genesis 32:30
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `Peniel/raiti Elohim/panim el panim/vattinnatsel nafshi` - Peniel, I have seen God face to face, and my life was delivered - because the verse centers on Jacob naming the place after a mercy-filled encounter with God.
+**Context and language lens:** `Peniel/raiti Elohim/panim el panim/vattinnatsel nafshi` - Peniel, I have seen God face to face, and my life was delivered - because the verse centers on Jacob naming the place after a mercy-filled encounter with God.
 
 Grace before performance is the wonder of surviving holy encounter. Genesis 32:30 says Jacob called the place Peniel because he had seen God face to face, and his life was delivered. Before Jacob could manage the meeting with Esau, before he could prove he had changed, mercy had already met him.
 
@@ -2686,7 +2686,7 @@ The Father does not need you frantic in order to form you. He lets grace come fi
 
 **Scripture Reference:** Genesis 32:5
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `shor/chamor/tson/eved/shifchah/shalach lehaggid/limtso chen` - oxen, donkeys, flocks, servants, sent to tell, and to find favor - because the verse shows Jacob sending a humble report ahead as he seeks favor before meeting Esau.
+**Context and language lens:** `shor/chamor/tson/eved/shifchah/shalach lehaggid/limtso chen` - oxen, donkeys, flocks, servants, sent to tell, and to find favor - because the verse shows Jacob sending a humble report ahead as he seeks favor before meeting Esau.
 
 Mercy in the morning can look like humility sent ahead of fear. Genesis 32:5 shows Jacob sending word to Esau. He names what he has, explains where he has been, and seeks favor in his brother's sight.
 
@@ -2714,7 +2714,7 @@ Take one surrendered step before worry gets the first word. Let mercy be awake b
 
 **Scripture Reference:** Genesis 32:9
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `Elohei avi Avraham/Elohei avi Yitzchaq/YHWH/omer shuv/artsekha/moledtekha/eitivah immakh` - God of my father Abraham, God of my father Isaac, the Lord who told me to return, and I will deal well with you - because the verse centers on Jacob praying from God's promise while facing fear.
+**Context and language lens:** `Elohei avi Avraham/Elohei avi Yitzchaq/YHWH/omer shuv/artsekha/moledtekha/eitivah immakh` - God of my father Abraham, God of my father Isaac, the Lord who told me to return, and I will deal well with you - because the verse centers on Jacob praying from God's promise while facing fear.
 
 The Father's patience teaches fearful people how to pray from promise. Genesis 32:9 opens Jacob's prayer with memory: God of Abraham, God of Isaac, the Lord who told him to return and promised to deal well with him.
 
@@ -2742,7 +2742,7 @@ Let prayer turn insight into obedience before noon. Promise remembered in prayer
 
 **Scripture Reference:** Genesis 45:13
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `higgadtem leavi/kol kevodi beMitzrayim/kol asher reitem/mihratem/horadetem et avi hennah` - tell my father of all my honor in Egypt, all that you have seen, hurry, and bring my father here - because the verse shows Joseph turning restored sight into urgent family restoration.
+**Context and language lens:** `higgadtem leavi/kol kevodi beMitzrayim/kol asher reitem/mihratem/horadetem et avi hennah` - tell my father of all my honor in Egypt, all that you have seen, hurry, and bring my father here - because the verse shows Joseph turning restored sight into urgent family restoration.
 
 Love stronger than fear knows when to send good news home. Genesis 45:13 belongs to Joseph's family restoration. After years of hidden grief, loss, and distance, Joseph tells his brothers to report what they have seen and hurry to bring his father down to him.
 
@@ -2770,7 +2770,7 @@ Start from what God has revealed, not from what the day is demanding.
 
 **Scripture Reference:** Genesis 45:18
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `qechu et avikhem/et batteikhem/bo'u elai/ettenah lakhem et tuv erets Mitzrayim/achlu et chelev haaretz` - take your father and households, come to me, I will give you the good of the land of Egypt, and you shall eat the fat of the land - because the verse centers on provision being opened for a restored family.
+**Context and language lens:** `qechu et avikhem/et batteikhem/bo'u elai/ettenah lakhem et tuv erets Mitzrayim/achlu et chelev haaretz` - take your father and households, come to me, I will give you the good of the land of Egypt, and you shall eat the fat of the land - because the verse centers on provision being opened for a restored family.
 
 Restoring compassion becomes practical. Genesis 45:18 does not leave Joseph's family with only emotion. They are told to bring their father and households, to come, and to receive the good of the land. Compassion makes room.
 
@@ -2798,7 +2798,7 @@ Do not rush past the verse. Let it steady you before you move. The good of the l
 
 **Scripture Reference:** Genesis 45:19
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `tsuvvetah/zot asu/qechu agalot/tapekhem/nesheikhem/nesatem et avikhem/ba'tem` - you are commanded, do this, take wagons for your little ones and wives, carry your father, and come - because the verse gives concrete provision for the family's return.
+**Context and language lens:** `tsuvvetah/zot asu/qechu agalot/tapekhem/nesheikhem/nesatem et avikhem/ba'tem` - you are commanded, do this, take wagons for your little ones and wives, carry your father, and come - because the verse gives concrete provision for the family's return.
 
 The promise that holds often arrives with a wagon for the weak. Genesis 45:19 gives Joseph's family practical instruction: take wagons for the little ones and wives, carry the father, and come. The restored path includes those who cannot make the journey by strength alone.
 
@@ -2829,7 +2829,7 @@ The Father knows how to bring a family forward without abandoning the fragile.
 
 **Scripture Reference:** Genesis 45:23
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `ule'aviv shalach/kazot/asarah chamorim/nosim/mituv Mitzrayim/aser atonot/nosot/bar/lechem/mazon/ladarekh` - to his father he sent, ten donkeys carrying the good of Egypt, ten female donkeys carrying grain, bread, and food for the journey - because the verse centers on provision being sent ahead for Jacob's road to restoration.
+**Context and language lens:** `ule'aviv shalach/kazot/asarah chamorim/nosim/mituv Mitzrayim/aser atonot/nosot/bar/lechem/mazon/ladarekh` - to his father he sent, ten donkeys carrying the good of Egypt, ten female donkeys carrying grain, bread, and food for the journey - because the verse centers on provision being sent ahead for Jacob's road to restoration.
 
 The heart that calls you may also send provision for the road. Genesis 45:23 shows Joseph sending goods to his father: donkeys carrying the good of Egypt, grain, bread, and food for the journey. This is mercy with weight on its back.
 
@@ -2857,7 +2857,7 @@ Take one surrendered step before worry gets the first word. Let mercy become tho
 
 **Scripture Reference:** Genesis 45:25
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `wayya'alu/mim-Mitzrayim/wayyavou/erets Kena'an/el Yaakov avihem` - they went up from Egypt and came to the land of Canaan, to Jacob their father - because the verse shows the brothers carrying the restoration message home.
+**Context and language lens:** `wayya'alu/mim-Mitzrayim/wayyavou/erets Kena'an/el Yaakov avihem` - they went up from Egypt and came to the land of Canaan, to Jacob their father - because the verse shows the brothers carrying the restoration message home.
 
 Love that sends you may send you back with a story you did not expect to carry. Genesis 45:25 is a movement verse. The brothers go up out of Egypt and come to Canaan, to Jacob their father. They are not only travelers now. They are bearers of news that could revive a grieving heart.
 
@@ -2885,7 +2885,7 @@ Let prayer turn insight into obedience before noon. If love is sending you, ask 
 
 **Scripture Reference:** Genesis 45:26
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `od Yosef chay/hu moshel/bekhol erets Mitzrayim/vayafag libbo/lo he'emin lahem` - Joseph is still alive, he rules in Egypt, Jacob's heart went numb, and he did not believe them - because the verse centers on the stunned heart struggling to receive restoration news.
+**Context and language lens:** `od Yosef chay/hu moshel/bekhol erets Mitzrayim/vayafag libbo/lo he'emin lahem` - Joseph is still alive, he rules in Egypt, Jacob's heart went numb, and he did not believe them - because the verse centers on the stunned heart struggling to receive restoration news.
 
 Covenant mercy is patient with a heart that cannot believe good news all at once. Genesis 45:26 says Jacob hears that Joseph is alive and ruling in Egypt, but his heart goes numb and he does not believe them.
 
@@ -2913,7 +2913,7 @@ Start from what God has revealed, not from what the day is demanding. Mercy can 
 
 **Scripture Reference:** Genesis 45:27
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `kol divrei Yosef/wayyar et ha'agalot/shalach Yosef/laset oto/vattechi ruach Yaakov avihem` - all the words of Joseph, he saw the wagons Joseph sent to carry him, and the spirit of Jacob their father revived - because the verse shows words and visible provision awakening Jacob's spirit.
+**Context and language lens:** `kol divrei Yosef/wayyar et ha'agalot/shalach Yosef/laset oto/vattechi ruach Yaakov avihem` - all the words of Joseph, he saw the wagons Joseph sent to carry him, and the spirit of Jacob their father revived - because the verse shows words and visible provision awakening Jacob's spirit.
 
 Grace knows that welcome sometimes needs both words and wagons. Genesis 45:27 says Jacob hears all Joseph's words and sees the wagons sent to carry him. Then his spirit revives.
 
@@ -2941,7 +2941,7 @@ Do not rush past the verse. Let it steady you before you move. Grace may be form
 
 **Scripture Reference:** Genesis 45:3
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `ani Yosef/ha'od avi chay/lo yakhelu echav la'anot/nivhalu mipanav` - I am Joseph, is my father still alive, the brothers could not answer, and they were terrified in his presence - because the verse centers on revealed identity and the fear it awakens in the guilty.
+**Context and language lens:** `ani Yosef/ha'od avi chay/lo yakhelu echav la'anot/nivhalu mipanav` - I am Joseph, is my father still alive, the brothers could not answer, and they were terrified in his presence - because the verse centers on revealed identity and the fear it awakens in the guilty.
 
 Beloved identity can stand in the room without hiding its name. Genesis 45:3 is one of those verses where truth breaks open the air: Joseph says, "I am Joseph," and asks about his father. His brothers cannot answer because they are terrified before him.
 
@@ -2969,7 +2969,7 @@ Let the Spirit press this from information into formation. Ask where God is teac
 
 **Scripture Reference:** Genesis 45:8
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `lo attem shelachtem oti hennah/ki haElohim/wayesimeni le'av lePharaoh/ladon/moshel/bekhol erets Mitzrayim` - it was not you who sent me here, but God, and He made me a father to Pharaoh, lord of his house, and ruler in Egypt - because the verse centers on God's providence reframing Joseph's painful history.
+**Context and language lens:** `lo attem shelachtem oti hennah/ki haElohim/wayesimeni le'av lePharaoh/ladon/moshel/bekhol erets Mitzrayim` - it was not you who sent me here, but God, and He made me a father to Pharaoh, lord of his house, and ruler in Egypt - because the verse centers on God's providence reframing Joseph's painful history.
 
 Love that finds you can also help you see your story under God's providence. Genesis 45:8 does not deny the brothers' sin. Joseph has already named their selling him. But here he says it was God who sent him ahead and made him a steward in Egypt.
 
@@ -2997,7 +2997,7 @@ Take one surrendered step before worry gets the first word. Let God, not harm, h
 
 **Scripture Reference:** Genesis 45:9
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `maharu/wa'alu/el avi/ko amar bincha Yosef/samani Elohim/ladon/lekhol Mitzrayim/redah elai/al ta'amod` - hurry, go up to my father, say your son Joseph says God has made me lord of Egypt, come down to me, do not delay - because the verse gives an urgent restoration message rooted in what God has done.
+**Context and language lens:** `maharu/wa'alu/el avi/ko amar bincha Yosef/samani Elohim/ladon/lekhol Mitzrayim/redah elai/al ta'amod` - hurry, go up to my father, say your son Joseph says God has made me lord of Egypt, come down to me, do not delay - because the verse gives an urgent restoration message rooted in what God has done.
 
 Grace before performance can move with holy urgency and still rest in what God has done. Genesis 45:9 sends the brothers quickly to Jacob with Joseph's message: God has made him lord of Egypt; come down and do not delay.
 
@@ -3028,7 +3028,7 @@ Let prayer turn insight into obedience before noon. Then let Sabbath keep your o
 
 **Scripture Reference:** Genesis 50:1
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `wayyippol Yosef al-penei aviv/wayyevk alav/wayyishaq-lo` - Joseph fell upon his father's face, wept over him, and kissed him - because the verse centers on embodied grief after restoration.
+**Context and language lens:** `wayyippol Yosef al-penei aviv/wayyevk alav/wayyishaq-lo` - Joseph fell upon his father's face, wept over him, and kissed him - because the verse centers on embodied grief after restoration.
 
 Mercy in the morning does not mean grief disappears by morning. Genesis 50:1 shows Joseph falling upon his father's face, weeping over him, and kissing him. After all the restoration, after the journey, after the reunion, love still has to grieve.
 
@@ -3056,7 +3056,7 @@ Start from what God has revealed, not from what the day is demanding. If love ha
 
 **Scripture Reference:** Genesis 50:10
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `wayyavo'u ad-goren ha'atad/wayyispedu sham misped gadol vekhaved me'od/wayya'as le'aviv evel shivat yamim` - they came to the threshing floor of Atad, mourned there with a great and very heavy lamentation, and Joseph made mourning for his father seven days - because the verse centers on patient, public, time-bound lament.
+**Context and language lens:** `wayyavo'u ad-goren ha'atad/wayyispedu sham misped gadol vekhaved me'od/wayya'as le'aviv evel shivat yamim` - they came to the threshing floor of Atad, mourned there with a great and very heavy lamentation, and Joseph made mourning for his father seven days - because the verse centers on patient, public, time-bound lament.
 
 The Father's patience gives grief time to breathe. Genesis 50:10 does not hurry past mourning. The family comes to the threshing floor of Atad. There is a great and heavy lamentation. Joseph observes seven days of mourning for his father.
 
@@ -3084,7 +3084,7 @@ Do not rush past the verse; let it steady you before you move. Ask where God is 
 
 **Scripture Reference:** Genesis 50:11
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `wayyar yoshev ha'arets/hakena'ani/et ha'evel begoren ha'atad/avel kaved zeh leMitzrayim/qara shemah Avel-Mitzrayim` - the inhabitants of the land saw the mourning at Atad and named it a solemn mourning for Egypt - because the verse centers on grief becoming visible enough for others to name.
+**Context and language lens:** `wayyar yoshev ha'arets/hakena'ani/et ha'evel begoren ha'atad/avel kaved zeh leMitzrayim/qara shemah Avel-Mitzrayim` - the inhabitants of the land saw the mourning at Atad and named it a solemn mourning for Egypt - because the verse centers on grief becoming visible enough for others to name.
 
 Love stronger than fear can let grief be visible. Genesis 50:11 says the Canaanites saw the mourning at the threshing floor of Atad. The grief was not hidden, minimized, or managed into silence. It was visible enough that others named the place by what they witnessed.
 
@@ -3112,7 +3112,7 @@ Let the Spirit press this from information into formation. Fear may tell you to 
 
 **Scripture Reference:** Genesis 50:14
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `wayyashav Yosef Mitzraymah/hu ve'echav/vekhol ha'olim itto/liqbor et-aviv/acharei qavro et-aviv` - Joseph returned to Egypt, he and his brothers and all who went up with him to bury his father, after he had buried his father - because the verse centers on returning to ordinary life after a sacred grief journey.
+**Context and language lens:** `wayyashav Yosef Mitzraymah/hu ve'echav/vekhol ha'olim itto/liqbor et-aviv/acharei qavro et-aviv` - Joseph returned to Egypt, he and his brothers and all who went up with him to bury his father, after he had buried his father - because the verse centers on returning to ordinary life after a sacred grief journey.
 
 Restoring compassion has to return home after the funeral. Genesis 50:14 says Joseph returned to Egypt with his brothers and all who had gone with him after burying his father. The sacred journey did not remove them from ordinary responsibilities forever.
 
@@ -3140,7 +3140,7 @@ Take one surrendered step before worry gets the first word. Let restoration incl
 
 **Scripture Reference:** Genesis 50:15
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `wayyir'u achei Yosef/ki-met avihem/lu yistmenu Yosef/vehashev yashiv lanu et kol-hara'ah asher gamalnu oto` - Joseph's brothers saw their father was dead and feared Joseph might hate them and repay all the evil they had done - because the verse centers on old guilt reawakening fear after the covering presence of Jacob is gone.
+**Context and language lens:** `wayyir'u achei Yosef/ki-met avihem/lu yistmenu Yosef/vehashev yashiv lanu et kol-hara'ah asher gamalnu oto` - Joseph's brothers saw their father was dead and feared Joseph might hate them and repay all the evil they had done - because the verse centers on old guilt reawakening fear after the covering presence of Jacob is gone.
 
 The promise that holds must be stronger than the fear that mercy will expire. Genesis 50:15 shows Joseph's brothers afraid after their father dies. They wonder whether Joseph will hate them now and repay the evil they did to him.
 
@@ -3168,7 +3168,7 @@ Let prayer turn insight into obedience before noon. If old guilt has started spe
 
 **Scripture Reference:** Genesis 50:16
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `wayetsavvu el-Yosef lemor/avikha tsivvah lifnei moto lemor` - they sent word to Joseph, saying, your father commanded before his death - because the verse centers on mediated speech from fearful brothers who cannot yet stand directly in mercy.
+**Context and language lens:** `wayetsavvu el-Yosef lemor/avikha tsivvah lifnei moto lemor` - they sent word to Joseph, saying, your father commanded before his death - because the verse centers on mediated speech from fearful brothers who cannot yet stand directly in mercy.
 
 Mercy sometimes has to speak to a heart that is still afraid to come close. Genesis 50:16 says Joseph's brothers send word to him. They appeal to their father's command before his death. Their message may be complicated, but their fear is plain.
 
@@ -3196,7 +3196,7 @@ Start from what God has revealed, not from what the day is demanding. Mercy can 
 
 **Scripture Reference:** Genesis 50:2
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `waytsav Yosef et-avadav et-harofe'im/lachanot et-aviv/wayyachantu harofe'im et-Yisrael` - Joseph commanded his servants, the physicians, to embalm his father, and the physicians embalmed Israel - because the verse centers on careful delegated care for Jacob's body after death.
+**Context and language lens:** `waytsav Yosef et-avadav et-harofe'im/lachanot et-aviv/wayyachantu harofe'im et-Yisrael` - Joseph commanded his servants, the physicians, to embalm his father, and the physicians embalmed Israel - because the verse centers on careful delegated care for Jacob's body after death.
 
 Love that sends you may send you into careful service no one applauds. Genesis 50:2 shows Joseph commanding the physicians in his service to embalm his father. It is a tender verse because grief becomes stewardship. Love honors the body. Love tends what remains. Love asks capable hands to serve with care.
 
@@ -3227,7 +3227,7 @@ Do not rush past the verse; let it steady you before you move. Care done from Sa
 
 **Scripture Reference:** Genesis 50:21
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `al-tira'u/anokhi akhalkel etchem ve'et tapp'chem/waynachem otam/waydabber al-libam` - do not fear, I will provide for you and your little ones, he comforted them, and spoke to their heart - because the verse centers on mercy that answers fear with provision and heart-level comfort.
+**Context and language lens:** `al-tira'u/anokhi akhalkel etchem ve'et tapp'chem/waynachem otam/waydabber al-libam` - do not fear, I will provide for you and your little ones, he comforted them, and spoke to their heart - because the verse centers on mercy that answers fear with provision and heart-level comfort.
 
 Covenant mercy speaks where fear is still listening. Genesis 50:21 shows Joseph answering his brothers' fear with more than a sentence. He tells them not to be afraid, promises provision for them and their little ones, comforts them, and speaks to their heart.
 
@@ -3255,7 +3255,7 @@ Let the Spirit press this from information into formation. Where fear expects ab
 
 **Scripture Reference:** Genesis 50:22
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `wayyeshev Yosef beMitzrayim/hu uveit aviv/waychi Yosef me'ah va'eser shanim` - Joseph dwelt in Egypt, he and his father's house, and Joseph lived one hundred ten years - because the verse centers on settled life after the crisis and the restored household remaining together.
+**Context and language lens:** `wayyeshev Yosef beMitzrayim/hu uveit aviv/waychi Yosef me'ah va'eser shanim` - Joseph dwelt in Egypt, he and his father's house, and Joseph lived one hundred ten years - because the verse centers on settled life after the crisis and the restored household remaining together.
 
 The Father's welcome is not only for dramatic reunion moments. Genesis 50:22 is quiet. Joseph remains in Egypt with his father's household, and his life continues to one hundred ten years. After weeping, burial, fear, and reassurance, there is settled life.
 
@@ -3283,7 +3283,7 @@ Take one surrendered step before worry gets the first word. Let today's obedienc
 
 **Scripture Reference:** Genesis 50:4
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `wayya'avru yeme vekhito/wayedabber Yosef el-beit Par'oh/im-na matzati chen be'eneikhem/dabberu-na be'oznei Par'oh` - the days of weeping passed, Joseph spoke to Pharaoh's house, if I have found favor in your eyes, please speak in Pharaoh's ears - because the verse centers on humble advocacy after mourning.
+**Context and language lens:** `wayya'avru yeme vekhito/wayedabber Yosef el-beit Par'oh/im-na matzati chen be'eneikhem/dabberu-na be'oznei Par'oh` - the days of weeping passed, Joseph spoke to Pharaoh's house, if I have found favor in your eyes, please speak in Pharaoh's ears - because the verse centers on humble advocacy after mourning.
 
 Beloved identity knows when to speak after the days of weeping have passed. Genesis 50:4 shows Joseph moving from mourning into advocacy. He approaches Pharaoh's household with humility and asks them to speak on his behalf.
 
@@ -3311,7 +3311,7 @@ Let prayer turn insight into obedience before noon. If a request needs to be mad
 
 **Scripture Reference:** Genesis 50:5
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `avi hishbi'ani/lo anokhi met/beqivri asher kariti li/be'erets Kena'an shammah tiqbereni/ve'atah e'eleh-na ve'eqberah et-avi ve'ashuvah` - my father made me swear, I am dying, in my grave in Canaan you shall bury me, now let me go up and bury my father, and I will return - because the verse centers on honoring a promise while remaining faithful to present responsibilities.
+**Context and language lens:** `avi hishbi'ani/lo anokhi met/beqivri asher kariti li/be'erets Kena'an shammah tiqbereni/ve'atah e'eleh-na ve'eqberah et-avi ve'ashuvah` - my father made me swear, I am dying, in my grave in Canaan you shall bury me, now let me go up and bury my father, and I will return - because the verse centers on honoring a promise while remaining faithful to present responsibilities.
 
 Love that finds you also anchors you to promises that matter. Genesis 50:5 shows Joseph explaining the oath he made to his father. Jacob had asked to be buried in Canaan, and Joseph asks to go bury him while also promising to return.
 
@@ -3339,7 +3339,7 @@ Start from what God has revealed, not from what the day is demanding. Let love a
 
 **Scripture Reference:** Genesis 50:6
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `wayyomer Par'oh/aleh uqbor et-avikha/ka'asher hishbi'ekha` - Pharaoh said, go up and bury your father as he made you swear - because the verse centers on permission to fulfill an oath without striving or manipulation.
+**Context and language lens:** `wayyomer Par'oh/aleh uqbor et-avikha/ka'asher hishbi'ekha` - Pharaoh said, go up and bury your father as he made you swear - because the verse centers on permission to fulfill an oath without striving or manipulation.
 
 Grace before performance can sound like permission. Genesis 50:6 is simple: Pharaoh tells Joseph to go and bury his father as he had sworn. The way opens. Joseph does not have to force it, scheme for it, or prove his grief is worthy.
 
@@ -3367,7 +3367,7 @@ Do not rush past the verse; let it steady you before you move. Grace may be givi
 
 **Scripture Reference:** Genesis 50:7
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `wayya'al Yosef liqbor et-aviv/wayya'alu itto kol avdei Par'oh/ziqnei veito/vekol ziqnei erets Mitzrayim` - Joseph went up to bury his father, and with him went Pharaoh's servants, the elders of his house, and all the elders of Egypt - because the verse centers on love moving into public, communal action.
+**Context and language lens:** `wayya'al Yosef liqbor et-aviv/wayya'alu itto kol avdei Par'oh/ziqnei veito/vekol ziqnei erets Mitzrayim` - Joseph went up to bury his father, and with him went Pharaoh's servants, the elders of his house, and all the elders of Egypt - because the verse centers on love moving into public, communal action.
 
 Love that moves into action does not always move alone. Genesis 50:7 shows Joseph going to bury his father, and a whole company goes with him: Pharaoh's servants, the elders of his house, and the elders of Egypt.
 
@@ -3395,7 +3395,7 @@ Walk out of this page with courage, tenderness, and clarity. Love may be asking 
 
 **Scripture Reference:** Genesis 50:8
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `vekol beit Yosef/ve'echav/uveit aviv/raq tappam vetzonam uveqaram azvu be'erets Goshen` - all the house of Joseph, his brothers, and his father's house went, but their little ones, flocks, and herds were left in Goshen - because the verse centers on courageous movement with wise limits and entrusted dependents.
+**Context and language lens:** `vekol beit Yosef/ve'echav/uveit aviv/raq tappam vetzonam uveqaram azvu be'erets Goshen` - all the house of Joseph, his brothers, and his father's house went, but their little ones, flocks, and herds were left in Goshen - because the verse centers on courageous movement with wise limits and entrusted dependents.
 
 Love stronger than fear can move forward without dragging everything into the road. Genesis 50:8 shows Joseph's household, brothers, and father's house going for the burial journey, while the little ones, flocks, and herds remain in Goshen.
 
@@ -3426,7 +3426,7 @@ Receive the truth deeply enough that it changes your next decision. Love can mov
 
 **Scripture Reference:** Psalms 13:2
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `ad-anah/ashit etzot benafshi/yagon bilvavi yomam/yarum oyvi alay` - how long, shall I set counsel in my soul, sorrow in my heart daily, and my enemy raised over me - because the verse centers on inner wrestling, repeated sorrow, and pressure that feels lifted over the heart.
+**Context and language lens:** `ad-anah/ashit etzot benafshi/yagon bilvavi yomam/yarum oyvi alay` - how long, shall I set counsel in my soul, sorrow in my heart daily, and my enemy raised over me - because the verse centers on inner wrestling, repeated sorrow, and pressure that feels lifted over the heart.
 
 Restoring compassion does not ask sorrow to pretend it is already settled. Psalms 13:2 gives language to the heart that has been carrying counsel inside itself too long. David is not faithless because he asks, "How long?" He is bringing the hidden conversation into the presence of God.
 
@@ -3454,7 +3454,7 @@ Carry this like bread for the road, not decoration for the shelf. Peace becomes 
 
 **Scripture Reference:** Psalms 16:2
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `amart laYHWH Adonai attah/tovati bal alekha` - I said to the LORD, You are my Lord; my good is not apart from You - because the verse centers on confessed allegiance and goodness that cannot be separated from God.
+**Context and language lens:** `amart laYHWH Adonai attah/tovati bal alekha` - I said to the LORD, You are my Lord; my good is not apart from You - because the verse centers on confessed allegiance and goodness that cannot be separated from God.
 
 The promise that holds is not first a sentence on a page; it is a Person the heart returns to. Psalms 16:2 is a confession of belonging: You are my Lord. My good is not apart from You.
 
@@ -3482,7 +3482,7 @@ Let this word give your morning a spine and your heart a place to rest. The prom
 
 **Scripture Reference:** Psalms 18:1
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `erchamka YHWH hizqi` - I love You, LORD, my strength - in the setting of David's song after deliverance, because the verse centers on love answering the God who has been strength in battle and rescue.
+**Context and language lens:** `erchamka YHWH hizqi` - I love You, LORD, my strength - in the setting of David's song after deliverance, because the verse centers on love answering the God who has been strength in battle and rescue.
 
 The heart that calls you is not trying to make you smaller. Psalms 18 opens with a song after deliverance, and David begins with love: I love You, LORD, my strength. Before he rehearses the whole story, he names the One who carried him through it.
 
@@ -3510,7 +3510,7 @@ The day does not get to name you before God does. Let His strength speak your na
 
 **Scripture Reference:** Psalms 18:50
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `magdil yeshuot malko/oseh hesed limshicho/leDavid ulezaro ad-olam` - He makes great the salvation of His king and shows covenant loving devotion to His anointed, to David and his seed forever - because the verse centers on enduring covenant mercy that outlives the immediate battle.
+**Context and language lens:** `magdil yeshuot malko/oseh hesed limshicho/leDavid ulezaro ad-olam` - He makes great the salvation of His king and shows covenant loving devotion to His anointed, to David and his seed forever - because the verse centers on enduring covenant mercy that outlives the immediate battle.
 
 Love that sends you is not a short burst of courage. Psalms 18:50 ends the song by looking beyond the immediate rescue. God makes salvation great, shows steadfast love to His anointed, and keeps covenant mercy moving toward David and his seed forever.
 
@@ -3538,7 +3538,7 @@ Walk out of this page with courage, tenderness, and clarity. The God who makes s
 
 **Scripture Reference:** Psalms 18:6
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `batzar-li eqra YHWH/ve'el-Elohai ashavea/yishma meheikhalo qoli/veshavati lefanav tavo ve'oznav` - in my distress I called to the LORD, to my God I cried for help, He heard my voice from His temple, and my cry came before Him into His ears - because the verse centers on distress becoming heard prayer.
+**Context and language lens:** `batzar-li eqra YHWH/ve'el-Elohai ashavea/yishma meheikhalo qoli/veshavati lefanav tavo ve'oznav` - in my distress I called to the LORD, to my God I cried for help, He heard my voice from His temple, and my cry came before Him into His ears - because the verse centers on distress becoming heard prayer.
 
 Covenant mercy is not theoretical when distress is real. Psalms 18:6 gives the movement of a desperate heart: distress, call, cry, hearing, and the cry reaching God's ears. David does not polish the emergency before he prays it.
 
@@ -3566,7 +3566,7 @@ Receive the truth deeply enough that it changes your next decision. If God hears
 
 **Scripture Reference:** Psalms 5:11
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `chosei vak/yirannenu/vetasekh alemo/ohavei shemekha` - those taking refuge in You, let them sing for joy, may You cover them, those who love Your name - because the verse centers on refuge, covering, joy, and love for God's name.
+**Context and language lens:** `chosei vak/yirannenu/vetasekh alemo/ohavei shemekha` - those taking refuge in You, let them sing for joy, may You cover them, those who love Your name - because the verse centers on refuge, covering, joy, and love for God's name.
 
 The Father's welcome is not thin optimism. Psalms 5:11 welcomes the trusting ones into refuge and joy because God covers them. This is not a denial of danger; refuge only matters because there is something from which the heart needs shelter.
 
@@ -3594,7 +3594,7 @@ Carry this like bread for the road, not decoration for the shelf. Refuge is mean
 
 **Scripture Reference:** Psalms 5:7
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `berov chasdecha avo veitekha/eshtachaveh el-heikal-kodshekha beyiratekha` - in the abundance of Your loving devotion I will enter Your house; in reverence I will bow toward Your holy temple - because the verse centers on entering by abundant mercy and worshiping with reverent awe.
+**Context and language lens:** `berov chasdecha avo veitekha/eshtachaveh el-heikal-kodshekha beyiratekha` - in the abundance of Your loving devotion I will enter Your house; in reverence I will bow toward Your holy temple - because the verse centers on entering by abundant mercy and worshiping with reverent awe.
 
 Beloved identity knows how it enters the Father's house. Psalms 5:7 does not say, "As for me, I will come because I performed well enough." It says entrance comes in the abundance of God's loving devotion. Mercy opens the way, and reverence shapes the response.
 
@@ -3625,7 +3625,7 @@ Let this word give your morning a spine and your heart a place to rest. You are 
 
 **Scripture Reference:** Psalms 5:9
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `ein bepihu nekhonah/qirbam hawwoth/qever patuach geronam/leshonam yachaliqun` - no firmness in their mouth, destruction within them, their throat an open grave, and their tongue made smooth - because the verse centers on untrustworthy speech and the danger of letting false voices define the soul.
+**Context and language lens:** `ein bepihu nekhonah/qirbam hawwoth/qever patuach geronam/leshonam yachaliqun` - no firmness in their mouth, destruction within them, their throat an open grave, and their tongue made smooth - because the verse centers on untrustworthy speech and the danger of letting false voices define the soul.
 
 Rest is not gullibility. Psalms 5:9 is a sober verse. David names speech that cannot be trusted, a mouth without firmness, an inward life full of destruction, a throat like an open grave, and a tongue made smooth. The danger is not only that enemies speak loudly. It is that false words can sound polished enough to be believed.
 
@@ -3653,7 +3653,7 @@ The day does not get to name you before God does. Let His faithful love find you
 
 **Scripture Reference:** Ruth 1:12
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `shovnah benotay/ki zaqanti/ki amarti yesh-li tiqwah` - turn back, my daughters; I am too old; if I should say there is hope for me - because the verse centers on Naomi naming the limits she can see and the hope she cannot manufacture.
+**Context and language lens:** `shovnah benotay/ki zaqanti/ki amarti yesh-li tiqwah` - turn back, my daughters; I am too old; if I should say there is hope for me - because the verse centers on Naomi naming the limits she can see and the hope she cannot manufacture.
 
 Naomi speaks from a place where every practical answer looks closed. She tells her daughters-in-law to turn back because she is too old to provide the future they need. Even if she could say, "There is hope for me," the path would still not make sense by ordinary calculation.
 
@@ -3683,7 +3683,7 @@ Walk out of this page with courage, tenderness, and clarity. Grace is already pr
 
 **Scripture Reference:** Ruth 2:10
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `matsati chen be'eyneykha/lehakkireni/anokhi nokriyah` - I have found favor in your eyes, that you should take notice of me, though I am a foreigner - because the verse centers on favor, being noticed, and the humility of someone who knows she has been received beyond social expectation.
+**Context and language lens:** `matsati chen be'eyneykha/lehakkireni/anokhi nokriyah` - I have found favor in your eyes, that you should take notice of me, though I am a foreigner - because the verse centers on favor, being noticed, and the humility of someone who knows she has been received beyond social expectation.
 
 Ruth falls on her face because mercy has reached her in a place where she expected to remain an outsider. She asks why she has found favor, why Boaz has taken notice of her, though she is a foreigner. The moment is tender, but it is not thin. Mercy is doing something strong.
 
@@ -3711,7 +3711,7 @@ Receive the truth deeply enough that it changes your next decision. If mercy has
 
 **Scripture Reference:** Ruth 2:11
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `huggad huggad li kol asher asit/wattaazvi avikh we'immekh/wattelki el-am asher lo-yadaat` - it has been fully reported what you have done, how you left father, mother, and birthplace, and came to a people you did not know - because the verse centers on costly faithfulness being seen.
+**Context and language lens:** `huggad huggad li kol asher asit/wattaazvi avikh we'immekh/wattelki el-am asher lo-yadaat` - it has been fully reported what you have done, how you left father, mother, and birthplace, and came to a people you did not know - because the verse centers on costly faithfulness being seen.
 
 Boaz tells Ruth that her story has not been invisible. Her care for Naomi, her loss, her leaving of familiar ground, and her coming to a people she did not know have all been fully reported. She may have felt like a stranger in the field, but her faithfulness had already been seen.
 
@@ -3739,7 +3739,7 @@ Carry this like bread for the road, not decoration for the shelf. The God who se
 
 **Scripture Reference:** Ruth 2:13
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `emtza chen be'eyneykha/nihamtani/dibbarta al-lev shifhateka` - let me find favor in your sight, for you have comforted me and spoken to the heart of your servant - because the verse centers on favor that comforts and words that reach the heart.
+**Context and language lens:** `emtza chen be'eyneykha/nihamtani/dibbarta al-lev shifhateka` - let me find favor in your sight, for you have comforted me and spoken to the heart of your servant - because the verse centers on favor that comforts and words that reach the heart.
 
 Ruth answers kindness with a sentence full of gratitude. She says that Boaz has comforted her and spoken to the heart of his servant. His mercy did not remain a distant policy in the field. It became words that reached the place where fear had been living.
 
@@ -3767,7 +3767,7 @@ Let this word give your morning a spine and your heart a place to rest. Today, s
 
 **Scripture Reference:** Ruth 2:2
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `elkha-na hassadeh/wa'alaqotah bashibbolim/emtsa chen be'eynav` - please let me go to the field and glean among the grain after one in whose eyes I may find favor - because the verse centers on humble initiative, provision, and favor sought in a vulnerable place.
+**Context and language lens:** `elkha-na hassadeh/wa'alaqotah bashibbolim/emtsa chen be'eynav` - please let me go to the field and glean among the grain after one in whose eyes I may find favor - because the verse centers on humble initiative, provision, and favor sought in a vulnerable place.
 
 Restoring compassion does not always arrive while you are sitting still. Ruth asks Naomi to let her go into the field and glean. She is not trying to save herself apart from God, but she is willing to take the humble step available to her. Need has become honest action.
 
@@ -3795,7 +3795,7 @@ The day does not get to name you before God does. Need does not get to name you 
 
 **Scripture Reference:** Ruth 2:20
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `lo-azav chasdo et-hachayyim we'et-hammetim/qarov lanu ha'ish/miggo'alenu hu` - He has not forsaken His kindness to the living and the dead; the man is near to us, one of our kinsman-redeemers - because the verse centers on covenant kindness that has not stopped and redemption beginning to appear.
+**Context and language lens:** `lo-azav chasdo et-hachayyim we'et-hammetim/qarov lanu ha'ish/miggo'alenu hu` - He has not forsaken His kindness to the living and the dead; the man is near to us, one of our kinsman-redeemers - because the verse centers on covenant kindness that has not stopped and redemption beginning to appear.
 
 Naomi hears Ruth's report and sees mercy with new eyes. The kindness of the LORD has not been forsaken. The living and the dead are still held in the reach of covenant love. The man in the field is not random; he is near kin, one who belongs to the redemption story.
 
@@ -3826,7 +3826,7 @@ Walk out of this page with courage, tenderness, and clarity. On this Saturday Sa
 
 **Scripture Reference:** Ruth 4:15
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `meshiv nefesh/ulekhalkel et-seivatekh/ahavatekh/tovah lakh mishivah banim` - a restorer of life, a nourisher of old age, your daughter-in-law who loves you, better to you than seven sons - because the verse centers on life restored through covenant love that has become embodied care.
+**Context and language lens:** `meshiv nefesh/ulekhalkel et-seivatekh/ahavatekh/tovah lakh mishivah banim` - a restorer of life, a nourisher of old age, your daughter-in-law who loves you, better to you than seven sons - because the verse centers on life restored through covenant love that has become embodied care.
 
 The heart that calls you is not always loud. In Ruth 4:15, restoration sounds like women blessing Naomi over a child who will renew her life and sustain her old age. The story that began with famine, graves, and emptiness now carries a living testimony of love.
 
@@ -3854,7 +3854,7 @@ Receive the truth deeply enough that it changes your next decision. If the Fathe
 
 **Scripture Reference:** Ruth 4:4
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `egleh aznekha/qeneh neged hayyoshvim/ti'gal ge'al/haggidah li we'ede'ah` - I will uncover your ear, buy before those sitting here, if you will redeem, redeem, tell me so I may know - because the verse centers on public clarity, responsibility, and redemption handled in the open.
+**Context and language lens:** `egleh aznekha/qeneh neged hayyoshvim/ti'gal ge'al/haggidah li we'ede'ah` - I will uncover your ear, buy before those sitting here, if you will redeem, redeem, tell me so I may know - because the verse centers on public clarity, responsibility, and redemption handled in the open.
 
 Boaz does not hide the matter in a corner. He brings the question of redemption before witnesses and speaks plainly. If the nearer relative will redeem, let him redeem. If not, let it be said clearly. Love that sends you does not have to be vague when responsibility is at stake.
 
@@ -3882,7 +3882,7 @@ Carry this like bread for the road, not decoration for the shelf. Let clarity be
 
 **Scripture Reference:** Ruth 4:6
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `lo ukhal lig'ol li/pen-ashchit et-nachalati/ge'al lekha et-ge'ullati` - I am not able to redeem for myself, lest I damage my inheritance; redeem my right for yourself - because the verse centers on relinquished right, inability, inheritance, and the opening of the way for Boaz to redeem.
+**Context and language lens:** `lo ukhal lig'ol li/pen-ashchit et-nachalati/ge'al lekha et-ge'ullati` - I am not able to redeem for myself, lest I damage my inheritance; redeem my right for yourself - because the verse centers on relinquished right, inability, inheritance, and the opening of the way for Boaz to redeem.
 
 The nearer redeemer has a right, but he does not have the willingness to carry the cost. He steps back. His refusal could sound like another closed door, but in God's mercy it becomes the opening through which Boaz can act.
 
@@ -3910,7 +3910,7 @@ Let this word give your morning a spine and your heart a place to rest. A refusa
 
 **Scripture Reference:** Ruth 4:7
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `ge'ullah/temurah/leqayyem kol-davar/shalaf na'alo/te'udah` - redemption, exchange, confirming every matter, removing the sandal, and testimony in Israel - because the verse centers on a public sign that confirms redemption and makes the matter witnessed.
+**Context and language lens:** `ge'ullah/temurah/leqayyem kol-davar/shalaf na'alo/te'udah` - redemption, exchange, confirming every matter, removing the sandal, and testimony in Israel - because the verse centers on a public sign that confirms redemption and makes the matter witnessed.
 
 Ruth 4:7 explains the old custom: in matters of redemption and exchange, a man removed his sandal and gave it to another as testimony. The detail may feel far from modern life, but the spiritual principle is close. Redemption was not left as a private intention. It was confirmed.
 
@@ -3938,7 +3938,7 @@ The day does not get to name you before God does. Let the Father's welcome make 
 
 **Scripture Reference:** Genesis 1:1
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `bereshit bara Elohim et hashamayim we'et ha'aretz` - in the beginning God created the heavens and the earth - because the verse centers on God as Creator before any created thing can claim final authority.
+**Context and language lens:** `bereshit bara Elohim et hashamayim we'et ha'aretz` - in the beginning God created the heavens and the earth - because the verse centers on God as Creator before any created thing can claim final authority.
 
 Beloved identity begins under the God who was already God in the beginning. Genesis 1:1 does not open with human achievement, hurry, fear, or explanation. It opens with God creating the heavens and the earth.
 
@@ -3966,7 +3966,7 @@ Walk out of this page with courage, tenderness, and clarity. The beginning belon
 
 **Scripture Reference:** Genesis 1:2
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `tohu wabohu/choshekh al-penei tehom/ruach Elohim merachefet al-penei hammayim` - formless and void, darkness over the face of the deep, and the Spirit of God hovering over the waters - because the verse centers on God's Spirit present over unformed darkness before visible order appears.
+**Context and language lens:** `tohu wabohu/choshekh al-penei tehom/ruach Elohim merachefet al-penei hammayim` - formless and void, darkness over the face of the deep, and the Spirit of God hovering over the waters - because the verse centers on God's Spirit present over unformed darkness before visible order appears.
 
 Love that finds you is not frightened by what is still unformed. Genesis 1:2 shows the earth formless and void, darkness over the deep, and the Spirit of God hovering over the waters. Before beauty is visible, God is present.
 
@@ -3994,7 +3994,7 @@ Receive the truth deeply enough that it changes your next decision. You do not h
 
 **Scripture Reference:** Genesis 1:3
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `wayyomer Elohim yehi or/wayhi or` - God said, Let there be light, and there was light - because the verse centers on God's effective word bringing light before human effort exists.
+**Context and language lens:** `wayyomer Elohim yehi or/wayhi or` - God said, Let there be light, and there was light - because the verse centers on God's effective word bringing light before human effort exists.
 
 Grace speaks before performance can begin. Genesis 1:3 gives the first recorded divine command in creation: God speaks light, and light is. No human hand helps it arrive. No creature earns it. The word of God brings what the darkness could not produce.
 
@@ -4025,7 +4025,7 @@ Carry this like bread for the road, not decoration for the shelf. On this Saturd
 
 **Scripture Reference:** Genesis 1:4
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `wayyar Elohim et-ha'or ki-tov/wayyavdel Elohim bein ha'or uvein hachoshekh` - God saw the light, recognized it as good, and separated the light from the darkness - because the verse centers on divine discernment, goodness, and holy separation.
+**Context and language lens:** `wayyar Elohim et-ha'or ki-tov/wayyavdel Elohim bein ha'or uvein hachoshekh` - God saw the light, recognized it as good, and separated the light from the darkness - because the verse centers on divine discernment, goodness, and holy separation.
 
 Mercy in the morning does not pretend darkness and light are the same. Genesis 1:4 shows God seeing the light, naming its goodness, and separating it from the darkness. Before human eyes can evaluate anything, the Father already knows what is good.
 
@@ -4053,7 +4053,7 @@ Let this word give your morning a spine and your heart a place to rest. Ask the 
 
 **Scripture Reference:** Genesis 1:6
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `yehi raqia betokh hammayim/vihi mavdil bein mayim lamayim` - let there be an expanse in the midst of the waters, and let it be separating waters from waters - because the verse centers on God creating space, structure, and separation inside what had been undivided.
+**Context and language lens:** `yehi raqia betokh hammayim/vihi mavdil bein mayim lamayim` - let there be an expanse in the midst of the waters, and let it be separating waters from waters - because the verse centers on God creating space, structure, and separation inside what had been undivided.
 
 The Father's patience knows how to make room inside what feels overwhelming. Genesis 1:6 does not show creation rushing past the waters. God speaks an expanse into the midst of them. He forms a space where separation can happen.
 
@@ -4081,7 +4081,7 @@ The day does not get to name you before God does. If the Father can speak struct
 
 **Scripture Reference:** Genesis 1:7
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `wayyaas Elohim et-haraqia/wayyavdel bein hammayim/asher mittachat/asher me'al` - God made the expanse and divided the waters below from the waters above - because the verse centers on God's spoken order becoming formed reality.
+**Context and language lens:** `wayyaas Elohim et-haraqia/wayyavdel bein hammayim/asher mittachat/asher me'al` - God made the expanse and divided the waters below from the waters above - because the verse centers on God's spoken order becoming formed reality.
 
 Love becomes stronger than fear when God's word is not left as an idea. Genesis 1:7 moves from command to formation. God makes the expanse and separates the waters. What He spoke becomes arranged reality.
 
@@ -4109,7 +4109,7 @@ Walk out of this page with courage, tenderness, and clarity. Let love become mor
 
 **Scripture Reference:** Genesis 1:9
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `yiqqavu hammayim mitachat hashamayim el-maqom echad/veteraeh hayyabbashah` - let the waters under the heavens be gathered to one place, and let dry land appear - because the verse centers on God gathering what is scattered and revealing firm ground.
+**Context and language lens:** `yiqqavu hammayim mitachat hashamayim el-maqom echad/veteraeh hayyabbashah` - let the waters under the heavens be gathered to one place, and let dry land appear - because the verse centers on God gathering what is scattered and revealing firm ground.
 
 Restoring compassion gathers what has been scattered. Genesis 1:9 shows God commanding the waters under the heavens to be gathered into one place so dry land can appear. The firm place was not created by anxious striving. It appeared as God gathered what had covered it.
 
@@ -4137,7 +4137,7 @@ Receive the truth deeply enough that it changes your next decision. The dry grou
 
 **Scripture Reference:** Genesis 1:11
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `tadshe ha'aretz deshe/eseb mazria zera/ets peri oseh peri` - let the earth sprout vegetation, plants bearing seed, and fruit trees producing fruit - because the verse centers on God's command releasing life with seed-bearing continuity.
+**Context and language lens:** `tadshe ha'aretz deshe/eseb mazria zera/ets peri oseh peri` - let the earth sprout vegetation, plants bearing seed, and fruit trees producing fruit - because the verse centers on God's command releasing life with seed-bearing continuity.
 
 The promise that holds may begin like a seed before it looks like a harvest. Genesis 1:11 shows God commanding the earth to sprout vegetation, plants bearing seed, and trees producing fruit. God does not merely create a moment of beauty. He creates life with continuation inside it.
 
@@ -4165,7 +4165,7 @@ Carry this like bread for the road, not decoration for the shelf. The Father kno
 
 **Scripture Reference:** Genesis 1:12
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `watotse ha'aretz deshe/eseb mazria zera/ets oseh-peri/wayyar Elohim ki-tov` - the earth brought forth vegetation, seed-bearing plants, fruit-bearing trees, and God saw that it was good - because the verse centers on fruitfulness answering God's word and being recognized as good.
+**Context and language lens:** `watotse ha'aretz deshe/eseb mazria zera/ets oseh-peri/wayyar Elohim ki-tov` - the earth brought forth vegetation, seed-bearing plants, fruit-bearing trees, and God saw that it was good - because the verse centers on fruitfulness answering God's word and being recognized as good.
 
 Love teaches the heart that calls you by making the Father's word fruitful in ordinary soil. Genesis 1:12 shows the earth bringing forth what God commanded in the previous verse. Vegetation, seed-bearing plants, and fruit-bearing trees appear according to their kind, and God sees that it is good.
 
@@ -4193,7 +4193,7 @@ Let this word give your morning a spine and your heart a place to rest. Fruitful
 
 **Scripture Reference:** Genesis 1:13
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `vayehi erev/vayehi boqer/yom shelishi` - there was evening, there was morning, the third day - because the verse centers on God's completed day rhythm and the movement of creation through evening into morning.
+**Context and language lens:** `vayehi erev/vayehi boqer/yom shelishi` - there was evening, there was morning, the third day - because the verse centers on God's completed day rhythm and the movement of creation through evening into morning.
 
 Love that sends you also teaches you rhythm. Genesis 1:13 closes the third day with evening and morning. God is not frantic in His creating. His work has order. His day has boundary. His movement has completion.
 
@@ -4224,7 +4224,7 @@ The day does not get to name you before God does. On this Saturday Sabbath, let 
 
 **Scripture Reference:** Genesis 1:14
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `yehi me'orot birqia hashamayim/lehavdil bein hayyom uvein hallaylah/vehayu le'otot ulmo'adim uleyamim veshenim` - let there be lights in the expanse of the heavens to separate day from night, and let them be for signs, appointed times, days, and years - because the verse centers on God ordering time with faithful markers.
+**Context and language lens:** `yehi me'orot birqia hashamayim/lehavdil bein hayyom uvein hallaylah/vehayu le'otot ulmo'adim uleyamim veshenim` - let there be lights in the expanse of the heavens to separate day from night, and let them be for signs, appointed times, days, and years - because the verse centers on God ordering time with faithful markers.
 
 Covenant mercy is not only felt in rescue. It is also seen in the way God orders time. Genesis 1:14 shows the Father setting lights in the heavens to separate day from night and to mark signs, appointed times, days, and years. He is not careless with seasons.
 
@@ -4252,7 +4252,7 @@ Walk out of this page with courage, tenderness, and clarity. Covenant mercy can 
 
 **Scripture Reference:** Genesis 1:15
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `vehayu lime'orot birqia hashamayim leha'ir al-ha'aretz/vayehi-khen` - let them be lights in the expanse of the heavens to give light upon the earth, and it was so - because the verse centers on appointed light serving the earth by God's command.
+**Context and language lens:** `vehayu lime'orot birqia hashamayim leha'ir al-ha'aretz/vayehi-khen` - let them be lights in the expanse of the heavens to give light upon the earth, and it was so - because the verse centers on appointed light serving the earth by God's command.
 
 Beloved identity rests when it receives light as a gift, not a demand. Genesis 1:15 continues God's word about the lights in the heavens: they are to give light upon the earth. The verse closes with quiet certainty: it was so.
 
@@ -4280,7 +4280,7 @@ Receive the truth deeply enough that it changes your next decision. You are not 
 
 **Scripture Reference:** Genesis 1:16
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `shenei hame'orot haggedolim/et-hamma'or haggadol lememshelet hayyom/et-hamma'or haqqaton lememshelet hallaylah/ve'et hakkokhavim` - the two great lights, the greater light to govern the day, the lesser light to govern the night, and the stars - because the verse centers on ordered lights with distinct measures and assignments.
+**Context and language lens:** `shenei hame'orot haggedolim/et-hamma'or haggadol lememshelet hayyom/et-hamma'or haqqaton lememshelet hallaylah/ve'et hakkokhavim` - the two great lights, the greater light to govern the day, the lesser light to govern the night, and the stars - because the verse centers on ordered lights with distinct measures and assignments.
 
 Love that finds you does not need every light to carry the same measure. Genesis 1:16 names the greater light for the day, the lesser light for the night, and the stars. There is order, distinction, and beauty without rivalry.
 
@@ -4308,7 +4308,7 @@ Carry this like bread for the road, not decoration for the shelf. The Father kno
 
 **Scripture Reference:** Genesis 1:17
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `vayitten otam Elohim birqia hashamayim leha'ir al-ha'aretz` - God set them in the expanse of the heavens to give light upon the earth - because the verse centers on God placing the lights where their service can reach the earth.
+**Context and language lens:** `vayitten otam Elohim birqia hashamayim leha'ir al-ha'aretz` - God set them in the expanse of the heavens to give light upon the earth - because the verse centers on God placing the lights where their service can reach the earth.
 
 Grace before performance remembers who does the placing. Genesis 1:17 says God set the lights in the expanse of the heavens to give light upon the earth. Their usefulness begins with His placement, not their self-promotion.
 
@@ -4336,7 +4336,7 @@ Let this word give your morning a spine and your heart a place to rest. The Fath
 
 **Scripture Reference:** Genesis 1:18
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `velimshol bayyom uvalaylah/ulehavdil bein ha'or uvein hachoshekh/wayyar Elohim ki-tov` - to govern the day and the night, to separate light from darkness, and God saw that it was good - because the verse centers on ordered rule, separation, and God's recognition of goodness.
+**Context and language lens:** `velimshol bayyom uvalaylah/ulehavdil bein ha'or uvein hachoshekh/wayyar Elohim ki-tov` - to govern the day and the night, to separate light from darkness, and God saw that it was good - because the verse centers on ordered rule, separation, and God's recognition of goodness.
 
 Mercy in the morning is not a loose feeling. It has order. Genesis 1:18 says the lights govern day and night, separate light from darkness, and God sees that it is good. The Father knows the difference between mercy and mixture.
 
@@ -4364,7 +4364,7 @@ The day does not get to name you before God does. Let mercy govern what fear has
 
 **Scripture Reference:** Genesis 1:19
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `vayehi erev/vayehi boqer/yom revi'i` - there was evening, there was morning, the fourth day - because the verse centers on God's completed rhythm and the faithful close of another creation day.
+**Context and language lens:** `vayehi erev/vayehi boqer/yom revi'i` - there was evening, there was morning, the fourth day - because the verse centers on God's completed rhythm and the faithful close of another creation day.
 
 The Father's patience has rhythm. Genesis 1:19 closes the fourth day with the familiar movement: evening, morning, the fourth day. God is not rushing creation to prove He is God. He works with order, boundary, and completion.
 
@@ -4392,7 +4392,7 @@ Walk out of this page with courage, tenderness, and clarity. Evening and morning
 
 **Scripture Reference:** Genesis 1:20
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `yishretzu hammayim sherets nefesh chayyah/ve'of ye'ofef al-ha'aretz al-penei reqia hashamayim` - let the waters swarm with living beings, and let birds fly above the earth across the expanse of the heavens - because the verse centers on God's command filling waters and sky with living movement.
+**Context and language lens:** `yishretzu hammayim sherets nefesh chayyah/ve'of ye'ofef al-ha'aretz al-penei reqia hashamayim` - let the waters swarm with living beings, and let birds fly above the earth across the expanse of the heavens - because the verse centers on God's command filling waters and sky with living movement.
 
 Love stronger than fear is not lifeless. Genesis 1:20 shows God commanding the waters to teem with living beings and birds to fly above the earth. After light, space, ground, seeds, and ordered days, creation receives movement.
 
@@ -4423,7 +4423,7 @@ Receive the truth deeply enough that it changes your next decision. On this Satu
 
 **Scripture Reference:** Genesis 1:21
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `wayyivra Elohim et-hattanninim haggedolim/kol-nefesh hachayyah/wayyar Elohim ki-tov` - God created the great sea creatures, every living creature, and saw that it was good - because the verse centers on God calling life into being and naming its goodness.
+**Context and language lens:** `wayyivra Elohim et-hattanninim haggedolim/kol-nefesh hachayyah/wayyar Elohim ki-tov` - God created the great sea creatures, every living creature, and saw that it was good - because the verse centers on God calling life into being and naming its goodness.
 
 Restoring compassion begins with the Father seeing life where we may only see depth, movement, and mystery. Genesis 1:21 shows God creating the great creatures of the waters, every living creature that moves, and every winged bird according to its kind. Then God sees that it is good.
 
@@ -4451,7 +4451,7 @@ Carry this like bread for the road, not decoration for the shelf. The Father who
 
 **Scripture Reference:** Genesis 1:22
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `vayevarekh otam Elohim/peru urevu/umil'u et-hammayim/veyirev ha'of ba'aretz` - God blessed them, saying be fruitful, multiply, fill the waters, and let birds multiply on the earth - because the verse centers on blessing that sends life outward.
+**Context and language lens:** `vayevarekh otam Elohim/peru urevu/umil'u et-hammayim/veyirev ha'of ba'aretz` - God blessed them, saying be fruitful, multiply, fill the waters, and let birds multiply on the earth - because the verse centers on blessing that sends life outward.
 
 The promise that holds you is not merely a thought to repeat. It is a blessing to breathe under. Genesis 1:22 shows God blessing the living creatures and commanding fruitfulness, multiplication, filling, and increase. Life does not move forward by accident. It moves under the Father's blessing.
 
@@ -4479,7 +4479,7 @@ Let this word give your morning a spine and your heart a place to rest. What God
 
 **Scripture Reference:** Genesis 1:23
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `vayehi erev/vayehi boqer/yom chamishi` - there was evening, there was morning, the fifth day - because the verse centers on God's completed rhythm and the naming of another day.
+**Context and language lens:** `vayehi erev/vayehi boqer/yom chamishi` - there was evening, there was morning, the fifth day - because the verse centers on God's completed rhythm and the naming of another day.
 
 The heart that calls you is patient enough to finish a day. Genesis 1:23 closes the fifth day with the steady rhythm of evening and morning. God is not frantic. He is faithful. He names the day complete in its appointed time.
 
@@ -4507,7 +4507,7 @@ The day does not get to name you before God does. Evening and morning are held b
 
 **Scripture Reference:** Genesis 1:24
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `totse ha'aretz nefesh chayyah leminah/behemah varemes vechayto-eretz leminah` - let the earth bring forth living creatures according to their kinds, cattle, creeping things, and beasts of the earth - because the verse centers on God calling the earth to bring forth ordered life.
+**Context and language lens:** `totse ha'aretz nefesh chayyah leminah/behemah varemes vechayto-eretz leminah` - let the earth bring forth living creatures according to their kinds, cattle, creeping things, and beasts of the earth - because the verse centers on God calling the earth to bring forth ordered life.
 
 Love that restores you also sends you back into embodied obedience. Genesis 1:24 shows God speaking to the earth, and the earth bringing forth living creatures according to their kinds. The Father's word does not float above real ground. It brings life out of the place He addresses.
 
@@ -4535,7 +4535,7 @@ Walk out of this page with courage, tenderness, and clarity. The Father can brin
 
 **Scripture Reference:** Genesis 1:25
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `vaya'as Elohim et-chayyat ha'aretz leminah/et-habehemah leminah/wayyar Elohim ki-tov` - God made the beasts of the earth according to their kinds, and God saw that it was good - because the verse centers on God making ordered life and recognizing its goodness.
+**Context and language lens:** `vaya'as Elohim et-chayyat ha'aretz leminah/et-habehemah leminah/wayyar Elohim ki-tov` - God made the beasts of the earth according to their kinds, and God saw that it was good - because the verse centers on God making ordered life and recognizing its goodness.
 
 Covenant mercy teaches the heart to yield to the Maker's hands. Genesis 1:25 shows God making the living creatures of the earth according to their kinds. Again, He sees that it is good. The Father is not random in what He forms.
 
@@ -4563,7 +4563,7 @@ Receive the truth deeply enough that it changes your next decision. The Father i
 
 **Scripture Reference:** Genesis 1:26
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `na'aseh adam betzalmenu kidmutenu/veyirdu` - let Us make humankind in Our image, according to Our likeness, and let them have responsible dominion - because the verse centers on image, likeness, and delegated stewardship.
+**Context and language lens:** `na'aseh adam betzalmenu kidmutenu/veyirdu` - let Us make humankind in Our image, according to Our likeness, and let them have responsible dominion - because the verse centers on image, likeness, and delegated stewardship.
 
 The Father's welcome is deeper than your usefulness, but it does not leave your life without purpose. Genesis 1:26 moves toward humankind made in God's image and likeness, entrusted with stewardship in creation. Identity comes before assignment, and assignment flows from identity.
 
@@ -4591,7 +4591,7 @@ Carry this like bread for the road, not decoration for the shelf. The Father's w
 
 **Scripture Reference:** Genesis 1:27
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `vayivra Elohim et-ha'adam betzalmo/betzelem Elohim bara oto/zakhar uneqevah bara otam` - God created humankind in His image; male and female He created them - because the verse centers on image-bearing identity received from the Creator.
+**Context and language lens:** `vayivra Elohim et-ha'adam betzalmo/betzelem Elohim bara oto/zakhar uneqevah bara otam` - God created humankind in His image; male and female He created them - because the verse centers on image-bearing identity received from the Creator.
 
 Beloved identity is not something you invent. It is something you receive from the Creator. Genesis 1:27 repeats the truth with holy weight: God created humankind in His image. Male and female are created by Him. Human worth begins in God's creative act, not in human comparison.
 
@@ -4622,7 +4622,7 @@ Let this word give your morning a spine and your heart a place to rest. On this 
 
 **Scripture Reference:** Genesis 1:28
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `vayevarekh otam Elohim/peru urevu/mil'u et-ha'aretz/vekhivshuha` - God blessed them, called them to be fruitful and multiply, fill the earth, and steward it - because the verse centers on blessing, vocation, and responsibility flowing from God's word.
+**Context and language lens:** `vayevarekh otam Elohim/peru urevu/mil'u et-ha'aretz/vekhivshuha` - God blessed them, called them to be fruitful and multiply, fill the earth, and steward it - because the verse centers on blessing, vocation, and responsibility flowing from God's word.
 
 Love that finds you does not leave you without a calling. Genesis 1:28 shows God blessing humankind and speaking fruitfulness, multiplication, filling, and stewardship. Before responsibility becomes a burden, it is first held inside blessing.
 
@@ -4650,7 +4650,7 @@ The day does not get to name you before God does. Let the Father's blessing spea
 
 **Scripture Reference:** Genesis 1:29
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `hinneh natatti lakhem et-kol-esev zorea zera/et-kol-ha'etz asher-bo peri-etz` - behold, I have given you every seed-bearing plant and every tree with fruit - because the verse centers on God's provision given before human striving.
+**Context and language lens:** `hinneh natatti lakhem et-kol-esev zorea zera/et-kol-ha'etz asher-bo peri-etz` - behold, I have given you every seed-bearing plant and every tree with fruit - because the verse centers on God's provision given before human striving.
 
 Grace before performance is written into the first provision. Genesis 1:29 shows God giving seed-bearing plants and fruit-bearing trees for food. The human family receives provision before they have harvested a field, built a storehouse, or earned a table.
 
@@ -4678,7 +4678,7 @@ Walk out of this page with courage, tenderness, and clarity. The Father is not o
 
 **Scripture Reference:** Genesis 1:30
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `ulekhol-chayyat ha'aretz/ulekhol-of hashamayim/kol-yereq esev le'okhlah/vayehi-khen` - to every living creature God gives green plants for food, and it was so - because the verse centers on God's care extending through creation.
+**Context and language lens:** `ulekhol-chayyat ha'aretz/ulekhol-of hashamayim/kol-yereq esev le'okhlah/vayehi-khen` - to every living creature God gives green plants for food, and it was so - because the verse centers on God's care extending through creation.
 
 Mercy in the morning becomes hope when you remember how wide the Father's care is. Genesis 1:30 extends provision to the living creatures of the earth, the birds of the heavens, and every creature with the breath of life. God is attentive to life beyond the small circle we can manage.
 
@@ -4706,7 +4706,7 @@ Receive the truth deeply enough that it changes your next decision. Mercy can me
 
 **Scripture Reference:** Genesis 1:31
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `wayyar Elohim et-kol-asher asah vehinneh tov me'od/vayehi erev vayehi boqer yom hashishi` - God saw everything He had made, and behold, it was very good; evening and morning, the sixth day - because the verse centers on God's complete assessment and patient completion.
+**Context and language lens:** `wayyar Elohim et-kol-asher asah vehinneh tov me'od/vayehi erev vayehi boqer yom hashishi` - God saw everything He had made, and behold, it was very good; evening and morning, the sixth day - because the verse centers on God's complete assessment and patient completion.
 
 The Father's patience can look at the whole work without anxious alarm. Genesis 1:31 says God saw everything He had made, and it was very good. The sixth day closes with evening and morning. Nothing in the text feels frantic, ashamed, or unfinished in God's hands.
 
@@ -4734,7 +4734,7 @@ Carry this like bread for the road, not decoration for the shelf. The God who se
 
 **Scripture Reference:** Genesis 12:2
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `ve'e'esekha legoy gadol/va'avarekhekha/va'agaddelah shemekha/vehyeh berakhah` - I will make you a great nation, bless you, make your name great, and you shall be a blessing - because the verse centers on God's promise initiating Abram's future.
+**Context and language lens:** `ve'e'esekha legoy gadol/va'avarekhekha/va'agaddelah shemekha/vehyeh berakhah` - I will make you a great nation, bless you, make your name great, and you shall be a blessing - because the verse centers on God's promise initiating Abram's future.
 
 Love stronger than fear often begins with a promise you cannot yet see. Genesis 12:2 moves from creation's completed goodness into Abram's called future. God speaks blessing, enlargement, name, and purpose before Abram can hold the outcome in his hands.
 
@@ -4762,7 +4762,7 @@ Let this word give your morning a spine and your heart a place to rest. The Fath
 
 **Scripture Reference:** Genesis 12:3
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `va'avarekha mevarakhekha/venivreku vekha kol mishpechot ha'adamah` - I will bless those who bless you, and in you all families of the earth shall be blessed - because the verse centers on blessing extending outward through Abram's calling.
+**Context and language lens:** `va'avarekha mevarakhekha/venivreku vekha kol mishpechot ha'adamah` - I will bless those who bless you, and in you all families of the earth shall be blessed - because the verse centers on blessing extending outward through Abram's calling.
 
 Restoring compassion helps you see that God's blessing is never meant to stop with you. Genesis 12:3 widens Abram's promise until all the families of the earth are in view. The Father's heart is personal, but never selfish.
 
@@ -4790,7 +4790,7 @@ The day does not get to name you before God does. Let the Father's compassion re
 
 **Scripture Reference:** Genesis 12:4
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `vayelekh Avram ka'asher dibber elav YHWH` - Abram went as the Lord had spoken to him - because the verse centers on promise becoming obedient movement.
+**Context and language lens:** `vayelekh Avram ka'asher dibber elav YHWH` - Abram went as the Lord had spoken to him - because the verse centers on promise becoming obedient movement.
 
 The promise that holds you is meant to teach your feet. Genesis 12:4 says Abram went as the Lord had spoken to him. Promise did not remain a beautiful idea. It became movement, obedience, departure, and trust.
 
@@ -4821,7 +4821,7 @@ Walk out of this page with courage, tenderness, and clarity. On this Saturday Sa
 
 **Scripture Reference:** Genesis 12:5
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `vayikach Avram et-Sarai ishto/ve'et-Lot ben-achiv/ve'et-kol-rekhusham/ve'et-hanefesh asher-asu becharan/vayetze'u lalekhet artzah kena'an/vayavo'u artzah kena'an` - Abram took Sarai, Lot, their gathered possessions, and the people attached to their household; they set out toward Canaan and came there - because the verse centers on obedience carrying real people, real history, and real responsibility into the promise.
+**Context and language lens:** `vayikach Avram et-Sarai ishto/ve'et-Lot ben-achiv/ve'et-kol-rekhusham/ve'et-hanefesh asher-asu becharan/vayetze'u lalekhet artzah kena'an/vayavo'u artzah kena'an` - Abram took Sarai, Lot, their gathered possessions, and the people attached to their household; they set out toward Canaan and came there - because the verse centers on obedience carrying real people, real history, and real responsibility into the promise.
 
 The heart that calls you does not always call you alone. Genesis 12:5 shows Abram moving with Sarai, Lot, possessions, and the people gathered with them in Haran. The promise begins to take shape through an actual household, not an imaginary life without attachments.
 
@@ -4851,7 +4851,7 @@ Receive the truth deeply enough that it changes your next decision. The call of 
 
 **Scripture Reference:** Genesis 12:6
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `vaya'avor Avram ba'aretz ad mekom Shekhem ad elon Moreh/vehakena'ani az ba'aretz` - Abram passed through the land to Shechem, to the oak of Moreh, while the Canaanite was then in the land - because the verse centers on being sent into a real place not yet free of tension.
+**Context and language lens:** `vaya'avor Avram ba'aretz ad mekom Shekhem ad elon Moreh/vehakena'ani az ba'aretz` - Abram passed through the land to Shechem, to the oak of Moreh, while the Canaanite was then in the land - because the verse centers on being sent into a real place not yet free of tension.
 
 Love that sends you does not always send you into easy ground. Genesis 12:6 places Abram in the land, but also tells us the Canaanite was there. The promise has a location, but the location is not empty. The journey has meaning, but it is not free from tension.
 
@@ -4881,7 +4881,7 @@ Carry this like bread for the road, not decoration for the shelf. If the Father 
 
 **Scripture Reference:** Genesis 12:7
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `vayera YHWH el-Avram/lezar'akha eten et-ha'aretz hazot/vayiven sham mizbeach` - the Lord appeared to Abram, renewed the promise concerning his offspring and the land, and Abram built an altar - because the verse centers on God's appearing, covenant promise, and worshipful response.
+**Context and language lens:** `vayera YHWH el-Avram/lezar'akha eten et-ha'aretz hazot/vayiven sham mizbeach` - the Lord appeared to Abram, renewed the promise concerning his offspring and the land, and Abram built an altar - because the verse centers on God's appearing, covenant promise, and worshipful response.
 
 Covenant mercy gives the heart a place to worship before the promise is fully visible. Genesis 12:7 shows the Lord appearing to Abram and speaking promise again. Abram responds by building an altar there.
 
@@ -4911,7 +4911,7 @@ Let this word give your morning a spine and your heart a place to rest. The Fath
 
 **Scripture Reference:** Genesis 12:9
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `vayisa Avram halokh venasoa hanegbah` - Abram journeyed on, going steadily toward the Negev - because the verse centers on continued movement, step-by-step obedience, and the unglamorous faithfulness between major encounters.
+**Context and language lens:** `vayisa Avram halokh venasoa hanegbah` - Abram journeyed on, going steadily toward the Negev - because the verse centers on continued movement, step-by-step obedience, and the unglamorous faithfulness between major encounters.
 
 The Father's welcome is not only for dramatic moments. Genesis 12:9 is simple: Abram kept journeying. After the call, the arrival, and the altar, there is continued movement toward the Negev. The road goes on.
 
@@ -4941,7 +4941,7 @@ The day does not get to name you before God does. Keep walking under the welcome
 
 **Scripture Reference:** Genesis 12:10
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `vayehi ra'av ba'aretz/vayered Avram mitzraymah lagur sham/ki-kaved hara'av ba'aretz` - there was famine in the land, Abram went down to Egypt to sojourn, because the famine was severe - because the verse centers on scarcity pressure and the vulnerable decisions that follow.
+**Context and language lens:** `vayehi ra'av ba'aretz/vayered Avram mitzraymah lagur sham/ki-kaved hara'av ba'aretz` - there was famine in the land, Abram went down to Egypt to sojourn, because the famine was severe - because the verse centers on scarcity pressure and the vulnerable decisions that follow.
 
 Beloved identity is tested when scarcity enters the story. Genesis 12:10 tells us there was famine in the land, and Abram went down to Egypt to sojourn because the famine was severe. The promised journey suddenly includes need.
 
@@ -4971,7 +4971,7 @@ Walk out of this page with courage, tenderness, and clarity. Let peace lead befo
 
 **Scripture Reference:** Genesis 12:11
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `hinei-na yadati ki ishah yefat-mar'eh at` - Abram acknowledges Sarai's beauty as they near Egypt - because the verse begins exposing fear's interpretation of vulnerability before the later failure unfolds.
+**Context and language lens:** `hinei-na yadati ki ishah yefat-mar'eh at` - Abram acknowledges Sarai's beauty as they near Egypt - because the verse begins exposing fear's interpretation of vulnerability before the later failure unfolds.
 
 Love that finds you is honest enough to meet fear before fear becomes a plan. Genesis 12:11 shows Abram speaking to Sarai as they near Egypt. He sees her beauty, but the pressure around that truth begins to bend his thinking toward fear.
 
@@ -5001,7 +5001,7 @@ Receive the truth deeply enough that it changes your next decision. Let love fin
 
 **Scripture Reference:** Genesis 12:12
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `vehayah ki-yir'u otakh hamitzrim/ve'amru ishto zot/vehargu oti/ve'otakh yechayu` - Abram imagines the Egyptians seeing Sarai, identifying her as his wife, killing him, and letting her live - because the verse centers on fear constructing a future and preparing self-protective performance before trust speaks.
+**Context and language lens:** `vehayah ki-yir'u otakh hamitzrim/ve'amru ishto zot/vehargu oti/ve'otakh yechayu` - Abram imagines the Egyptians seeing Sarai, identifying her as his wife, killing him, and letting her live - because the verse centers on fear constructing a future and preparing self-protective performance before trust speaks.
 
 Grace before performance must reach the place where fear rehearses the future. Genesis 12:12 lets us hear Abram's imagined outcome. He sees danger ahead and begins building a story around what others will do, what will happen to him, and how survival might need to be managed.
 
@@ -5034,7 +5034,7 @@ Carry this like bread for the road, not decoration for the shelf. On this Saturd
 
 **Scripture Reference:** Genesis 12:13
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `imri-na achoti at/lema'an yitav-li va'avurekh/vechayetah nafshi biglalekh` - Abram asks Sarai to say she is his sister so that it may go well with him and his life may be preserved because of her - because the verse centers on fear shaping speech, self-protection, and a request that places another person in danger.
+**Context and language lens:** `imri-na achoti at/lema'an yitav-li va'avurekh/vechayetah nafshi biglalekh` - Abram asks Sarai to say she is his sister so that it may go well with him and his life may be preserved because of her - because the verse centers on fear shaping speech, self-protection, and a request that places another person in danger.
 
 Mercy in the morning must be honest enough to interrupt fear before fear asks someone else to carry its cost. Genesis 12:13 is not a verse to romanticize. Abram's fear has moved from imagination into instruction. He asks Sarai to present the situation in a way that protects him, while the danger to her becomes part of the plan.
 
@@ -5064,7 +5064,7 @@ Let this word give your morning a spine and your heart a place to rest. Mercy is
 
 **Scripture Reference:** Genesis 12:14
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `vayehi kevo Avram mitzraymah/vayir'u hamitzrim et-ha'ishah ki-yafah hi me'od` - when Abram entered Egypt, the Egyptians saw Sarai and recognized that she was very beautiful - because the verse centers on arrival, visibility, and how vulnerable people can become exposed inside systems of power.
+**Context and language lens:** `vayehi kevo Avram mitzraymah/vayir'u hamitzrim et-ha'ishah ki-yafah hi me'od` - when Abram entered Egypt, the Egyptians saw Sarai and recognized that she was very beautiful - because the verse centers on arrival, visibility, and how vulnerable people can become exposed inside systems of power.
 
 The Father's patience is not passive when power is watching. Genesis 12:14 shows Abram arriving in Egypt and Sarai being seen. Her beauty is noticed, but the larger story makes that visibility dangerous. She is not merely admired; she is being drawn into a world where powerful people can take what they want.
 
@@ -5094,7 +5094,7 @@ The day does not get to name you before God does. Let grace slow your seeing unt
 
 **Scripture Reference:** Genesis 12:15
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `vayir'u otah sarei Pharaoh/vayehalelu otah el-Par'oh/vatukach ha'ishah beit Pharaoh` - Pharaoh's officials saw Sarai, praised her to Pharaoh, and she was taken into Pharaoh's house - because the verse centers on fear's consequences meeting a power structure that takes, names, and possesses.
+**Context and language lens:** `vayir'u otah sarei Pharaoh/vayehalelu otah el-Par'oh/vatukach ha'ishah beit Pharaoh` - Pharaoh's officials saw Sarai, praised her to Pharaoh, and she was taken into Pharaoh's house - because the verse centers on fear's consequences meeting a power structure that takes, names, and possesses.
 
 Love stronger than fear must be strong enough to grieve what fear and power have done. Genesis 12:15 is painful. Sarai is seen by Pharaoh's officials, praised to Pharaoh, and taken into his house. The story does not ask the reader to pretend this is harmless. It shows where fear, beauty, speech, and power can collide.
 
@@ -5127,7 +5127,7 @@ Walk out of this page with courage, tenderness, and clarity. Love stronger than 
 
 **Scripture Reference:** Genesis 12:16
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `vayeitiv le-Avram ba'avurah` - Pharaoh treated Abram well for Sarai's sake - because the verse centers on benefit received through a compromised situation, not on covenant love as an abstract idea.
+**Context and language lens:** `vayeitiv le-Avram ba'avurah` - Pharaoh treated Abram well for Sarai's sake - because the verse centers on benefit received through a compromised situation, not on covenant love as an abstract idea.
 
 Trusting love in hard seasons begins with honesty about the kind of help we are receiving. Genesis 12:16 is uncomfortable because Abram is treated well while Sarai is unsafe. The provision is real, but the path around it is troubled. The text will not let us pretend that gain always means approval.
 
@@ -5157,7 +5157,7 @@ Do not rush past the verse; let it steady you before you move. The promise that 
 
 **Scripture Reference:** Genesis 12:17
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `vayenagga YHWH et-Par'oh nega'im gedolim` - the Lord struck Pharaoh and his household with great afflictions because of Sarai - because the verse centers on divine intervention, exposure, and protection when human choices have created danger.
+**Context and language lens:** `vayenagga YHWH et-Par'oh nega'im gedolim` - the Lord struck Pharaoh and his household with great afflictions because of Sarai - because the verse centers on divine intervention, exposure, and protection when human choices have created danger.
 
 The heart that calls you is also the heart that intervenes. Genesis 12:17 turns the story toward God's action. Abram's fear has created danger. Pharaoh's house has become a place of harm. Sarai's vulnerability is not invisible to heaven. The Lord steps into the story.
 
@@ -5187,7 +5187,7 @@ The God who calls you is not absent from tangled places. He can enter the house,
 
 **Scripture Reference:** Genesis 12:19
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses Pharaoh's confrontation and release - "why did you say, 'She is my sister'? ... take her and go" - because the verse centers on exposed deception, restored relationship truth, and being sent away from a compromised place.
+**Context and language lens:** Pharaoh's confrontation and release - "why did you say, 'She is my sister'? ... take her and go" - because the verse centers on exposed deception, restored relationship truth, and being sent away from a compromised place.
 
 Love that sends you sometimes sends you out through correction. Genesis 12:19 is not soft on Abram. Pharaoh names the deception and returns Sarai to her rightful place as Abram's wife. The situation that fear tried to manage is now exposed. Abram must leave with the truth no longer hidden.
 
@@ -5217,7 +5217,7 @@ The Father's love does not send you away empty of grace. It sends you out of hid
 
 **Scripture Reference:** Genesis 12:20
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `vayetzav alav Pharaoh anashim` - Pharaoh commanded men concerning Abram and sent him away with his wife and all that he had - because the verse centers on removal from Egypt, protection in departure, and the sober mercy of being escorted out.
+**Context and language lens:** `vayetzav alav Pharaoh anashim` - Pharaoh commanded men concerning Abram and sent him away with his wife and all that he had - because the verse centers on removal from Egypt, protection in departure, and the sober mercy of being escorted out.
 
 Covenant mercy can feel like being carried out of what you could not repair by yourself. Genesis 12:20 shows Abram, Sarai, and everything with them being sent away. The scene is not triumphant in a simple way. It is mercy mixed with sobriety. God has intervened, truth has been exposed, and now the family is moved out of danger.
 
@@ -5247,7 +5247,7 @@ Today, anchor yourself in covenant mercy. The Lord can send you out of Egypt and
 
 **Scripture Reference:** Genesis 15:1
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `al-tira Avram, anokhi magen lakh, sekharkha harbeh me'od` - do not fear, Abram; I am your shield and your very great reward - because the verse centers on God's direct comfort after these things, fear, protection, and reward.
+**Context and language lens:** `al-tira Avram, anokhi magen lakh, sekharkha harbeh me'od` - do not fear, Abram; I am your shield and your very great reward - because the verse centers on God's direct comfort after these things, fear, protection, and reward.
 
 The Father's welcome often begins with the words we most need but cannot give ourselves. Genesis 15:1 comes after hard things. Abram has walked through danger, correction, conflict, and uncertainty. Then the word of the Lord comes to him: do not fear.
 
@@ -5277,7 +5277,7 @@ You are not welcomed because you have handled every hard season well. You are we
 
 **Scripture Reference:** Genesis 15:2
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Abram's honest question - `mah-titen-li` / "what will You give me?" - because the verse centers on beloved identity learning to speak disappointment, childlessness, and unresolved promise before God.
+**Context and language lens:** Abram's honest question - `mah-titen-li` / "what will You give me?" - because the verse centers on beloved identity learning to speak disappointment, childlessness, and unresolved promise before God.
 
 Beloved identity is not too fragile to tell God the truth. Genesis 15:2 gives us Abram's honest question. God has just spoken comfort and reward, and Abram still carries an ache. He is still childless. The promise still has not taken the shape he expected. The future still feels uncertain.
 
@@ -5307,7 +5307,7 @@ Beloved identity does not silence grief. It gives grief a safe place to speak. Y
 
 **Scripture Reference:** Genesis 15:3
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Abram's second honest statement - `hen li lo natatah zara` / "You have given me no offspring" - because the verse centers on naming lack before God and letting divine love meet the exact place of disappointment.
+**Context and language lens:** Abram's second honest statement - `hen li lo natatah zara` / "You have given me no offspring" - because the verse centers on naming lack before God and letting divine love meet the exact place of disappointment.
 
 Love that finds you does not need you to speak in vague religious language. Genesis 15:3 shows Abram becoming specific. He names what is missing. He tells God that no offspring has been given to him, and he describes the inheritance question that now troubles his future.
 
@@ -5340,7 +5340,7 @@ Love finds you in the exact place you thought you had to hide. The promise is no
 
 **Scripture Reference:** Genesis 15:4
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses `lo yirashkha zeh ki-im asher yetze mime'ekha hu yirashkha` - the servant will not be Abram's heir, but one from Abram's own body will inherit - because the verse centers on God's direct answer to a named fear, not redemption language in the abstract.
+**Context and language lens:** `lo yirashkha zeh ki-im asher yetze mime'ekha hu yirashkha` - the servant will not be Abram's heir, but one from Abram's own body will inherit - because the verse centers on God's direct answer to a named fear, not redemption language in the abstract.
 
 Hope rises when grace answers the fear you were brave enough to name. Genesis 15:4 comes after Abram has spoken honestly about the gap between promise and present reality. He has named the ache. He has named the practical concern. God does not turn away from that honesty.
 
@@ -5370,7 +5370,7 @@ Grace before performance means you are allowed to hope because God has spoken, n
 
 **Scripture Reference:** Genesis 15:5
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `habet-na hashamaymah usefor hakokhavim ... ko yihyeh zarekha` - God brings Abram outside, tells him to look toward heaven and count the stars if he can, and then ties the vision to Abram's future offspring - because the verse centers on God widening Abram's vision beyond what he can count.
+**Context and language lens:** `habet-na hashamaymah usefor hakokhavim ... ko yihyeh zarekha` - God brings Abram outside, tells him to look toward heaven and count the stars if he can, and then ties the vision to Abram's future offspring - because the verse centers on God widening Abram's vision beyond what he can count.
 
 Mercy sometimes walks you outside so you can see farther than the walls of your question. Genesis 15:5 is tender. God does not only answer Abram with information. He gives Abram a picture. The night sky becomes a mercy, a classroom, and a promise.
 
@@ -5400,7 +5400,7 @@ The Father can still lead you outside your own small frame. Carry mercy into the
 
 **Scripture Reference:** Genesis 15:6
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `vehe'emin baYHWH vayachsheveha lo tsedaqah` - Abram believed the Lord, and it was counted to him as righteousness - because the verse centers on trusting God's promise and receiving righteousness by faith.
+**Context and language lens:** `vehe'emin baYHWH vayachsheveha lo tsedaqah` - Abram believed the Lord, and it was counted to him as righteousness - because the verse centers on trusting God's promise and receiving righteousness by faith.
 
 The Father's patience teaches the heart to trust before it can see. Genesis 15:6 is one of the great quiet turns in Scripture. Abram hears God's promise, believes the Lord, and righteousness is counted to him. The verse is not about Abram performing his way into worthiness. It is about faith receiving what God speaks.
 
@@ -5430,7 +5430,7 @@ Let patience become worship. You do not have to manufacture a perfect heart. You
 
 **Scripture Reference:** Genesis 15:7
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `ani YHWH asher hotzeitikha me'ur kasdim latet lekha et-ha'aretz hazot lerishtah` - the Lord identifies Himself as the One who brought Abram out of Ur to give him the land - because the verse centers on God's covenant identity, past leading, and promised inheritance.
+**Context and language lens:** `ani YHWH asher hotzeitikha me'ur kasdim latet lekha et-ha'aretz hazot lerishtah` - the Lord identifies Himself as the One who brought Abram out of Ur to give him the land - because the verse centers on God's covenant identity, past leading, and promised inheritance.
 
 Love stronger than fear reminds you who brought you this far. Genesis 15:7 is not merely a statement about land. It is God naming Himself through His past faithfulness. He is the Lord who brought Abram out. He is the One who began the journey. He is the One who still holds the inheritance promise.
 
@@ -5460,7 +5460,7 @@ The God who brought you out has not forgotten where He is taking you. His love i
 
 **Scripture Reference:** Genesis 15:8
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Abram's question `bamah eda ki irashennah` - how shall I know that I will inherit it? - because the verse centers on honest desire for assurance after God has reaffirmed the promise.
+**Context and language lens:** Abram's question `bamah eda ki irashennah` - how shall I know that I will inherit it? - because the verse centers on honest desire for assurance after God has reaffirmed the promise.
 
 Restoring compassion makes room for the question that still needs assurance. Genesis 15:8 comes after a strong word from God. Abram has believed. God has identified Himself. The promise has been spoken again. And still Abram asks how he will know.
 
@@ -5490,7 +5490,7 @@ Restoring compassion does not mock the need for reassurance. It brings that need
 
 **Scripture Reference:** Genesis 15:9
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses God's covenant instruction to bring the specified animals - heifer, goat, ram, turtledove, and young pigeon - because the verse centers on God initiating covenant preparation in response to Abram's need for assurance.
+**Context and language lens:** God's covenant instruction to bring the specified animals - heifer, goat, ram, turtledove, and young pigeon - because the verse centers on God initiating covenant preparation in response to Abram's need for assurance.
 
 The promise that holds us often awakens obedience one step at a time. Genesis 15:9 moves from Abram's question into God's instruction. God does not give a vague reassurance. He invites Abram into covenant preparation. Bring these. Prepare for what I am about to show you.
 
@@ -5520,7 +5520,7 @@ The Father's promise is holding more than your present can see. Let today's inst
 
 **Scripture Reference:** Genesis 15:10
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Abram's response - he brings the animals, divides the larger ones, and arranges the pieces while leaving the birds undivided - because the verse centers on careful covenant preparation and patient obedience before the revelation is complete.
+**Context and language lens:** Abram's response - he brings the animals, divides the larger ones, and arranges the pieces while leaving the birds undivided - because the verse centers on careful covenant preparation and patient obedience before the revelation is complete.
 
 The heart that calls you may also call you into careful preparation. Genesis 15:10 is quiet, physical, and patient. Abram does what God instructed. He brings what was named. He prepares the pieces. He waits inside an unfinished covenant scene.
 
@@ -5553,7 +5553,7 @@ The Father who calls you is faithful in the details. Embrace His heart by prepar
 
 **Scripture Reference:** Genesis 15:11
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the scene of `ha'ayit` coming down on the prepared pieces and Abram driving the birds away because the verse centers on a heart that guards the place of covenant preparation when interference arrives.
+**Context and language lens:** The scene of `ha'ayit` coming down on the prepared pieces and Abram driving the birds away because the verse centers on a heart that guards the place of covenant preparation when interference arrives.
 
 Love that sends you also steadies your heart to guard what God has placed before you. Genesis 15:11 is not a loud verse, but it is full of ordinary faithfulness. Abram has prepared what God instructed. Then birds of prey come down on the pieces, and Abram drives them away.
 
@@ -5583,7 +5583,7 @@ Drive away what is feeding on your surrender. Let the Father's love strengthen t
 
 **Scripture Reference:** Genesis 15:12
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `tardemah` and `emah hashekhah gedolah` - deep sleep, dread, and great darkness falling on Abram - because the verse centers on covenant mercy meeting a vulnerable, fearful human frame.
+**Context and language lens:** `tardemah` and `emah hashekhah gedolah` - deep sleep, dread, and great darkness falling on Abram - because the verse centers on covenant mercy meeting a vulnerable, fearful human frame.
 
 Covenant mercy does not disappear when darkness falls. Genesis 15:12 brings Abram into a heavy moment. The sun is going down. A deep sleep comes. A great darkness and dread fall over him. The covenant scene is holy, but it is not sentimental.
 
@@ -5613,7 +5613,7 @@ The love of God is not fragile. It can hold the trembling heart. It can remain c
 
 **Scripture Reference:** Genesis 15:13
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses God's sober word that Abram's descendants will be strangers, serve another people, and be afflicted for four hundred years because the verse centers on love that tells the truth without releasing the promise.
+**Context and language lens:** God's sober word that Abram's descendants will be strangers, serve another people, and be afflicted for four hundred years because the verse centers on love that tells the truth without releasing the promise.
 
 The Father's welcome is peaceful, but it is not shallow. Genesis 15:13 is a hard word. God tells Abram that the promised family will walk through generations of strangerhood, service, and affliction before the promise unfolds in fullness. This is not the kind of sentence we would choose for a devotional page, but it is the kind of truth Scripture gives us.
 
@@ -5643,7 +5643,7 @@ You can be at peace because God knows the whole road. Not because the road is pa
 
 **Scripture Reference:** Genesis 15:14
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses God's promise to judge the oppressing nation and bring Abram's descendants out with provision because the verse centers on redemption as family-keeping justice, not distant rescue.
+**Context and language lens:** God's promise to judge the oppressing nation and bring Abram's descendants out with provision because the verse centers on redemption as family-keeping justice, not distant rescue.
 
 Beloved identity rests in the God who sees oppression and names an after. Genesis 15:14 does not leave the hard word of the previous verse alone. God says He will judge the nation that enslaves Abram's descendants, and afterward they will come out with provision. The pain is real, but it is not endless. The injustice is seen, but it is not ultimate.
 
@@ -5673,7 +5673,7 @@ Rest in that beloved identity today. Sabbath is a witness that the story belongs
 
 **Scripture Reference:** Genesis 15:16
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses the fourth-generation return and God's statement that the Amorites' iniquity is not yet complete because the verse centers on faithful timing, patient justice, and a promise that waits without wandering.
+**Context and language lens:** The fourth-generation return and God's statement that the Amorites' iniquity is not yet complete because the verse centers on faithful timing, patient justice, and a promise that waits without wandering.
 
 Love that finds you is faithful even when the timing is longer than you wanted. Genesis 15:16 gives Abram a future marked by generations. The return will come, but not immediately. God names timing with a patience that includes both mercy and justice.
 
@@ -5703,7 +5703,7 @@ The Father's love can find you in the long middle. Listen there. He may not expl
 
 **Scripture Reference:** Genesis 15:17
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the `tanur ashan` and `lapid esh` - the smoking fire pot and flaming torch passing between the pieces - because the verse centers on God taking covenant initiative while Abram receives rather than performs the covenant.
+**Context and language lens:** The `tanur ashan` and `lapid esh` - the smoking fire pot and flaming torch passing between the pieces - because the verse centers on God taking covenant initiative while Abram receives rather than performs the covenant.
 
 Grace before performance shines brightest when God moves where we cannot. Genesis 15:17 is holy and mysterious. Darkness has fallen. The prepared pieces are there. Then the smoking fire pot and flaming torch pass between them. God Himself takes the covenant initiative.
 
@@ -5733,7 +5733,7 @@ Let your heart stand where grace has placed it. God is not asking you to be the 
 
 **Scripture Reference:** Genesis 15:18
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `karat YHWH et-Avram berit` and the promise given to Abram's offspring because the verse centers on covenant being cut by God and mercy receiving a future that God names.
+**Context and language lens:** `karat YHWH et-Avram berit` and the promise given to Abram's offspring because the verse centers on covenant being cut by God and mercy receiving a future that God names.
 
 Grace forms mercy in the morning by reminding us that God makes covenant before we can see the whole inheritance. Genesis 15:18 gathers the scene into a clear covenant promise. The Lord makes covenant with Abram and names what He is giving to Abram's offspring.
 
@@ -5766,7 +5766,7 @@ Let mercy be formed in you today by covenant assurance. Walk softly, but walk st
 
 **Scripture Reference:** Genesis 15:19
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses the first named peoples in the promised land list - the Kenites, Kenizzites, and Kadmonites - because the verse centers on God's specific covenant promise, not love as a general idea.
+**Context and language lens:** The first named peoples in the promised land list - the Kenites, Kenizzites, and Kadmonites - because the verse centers on God's specific covenant promise, not love as a general idea.
 
 The Father's patience is never vague. Genesis 15:19 begins a list of peoples connected to the land God names in His covenant promise. It can be easy to rush past a list, but lists in Scripture often carry holy weight. God is not giving Abram a misty promise. He is naming a real inheritance in a real world.
 
@@ -5796,7 +5796,7 @@ The Father is patient, but He is not uncertain. Behold Him there. The One who na
 
 **Scripture Reference:** Genesis 15:20
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses the next named peoples in the land list - the Hittites, Perizzites, and Rephaim - because the verse centers on God naming the occupied and contested places within the promise.
+**Context and language lens:** The next named peoples in the land list - the Hittites, Perizzites, and Rephaim - because the verse centers on God naming the occupied and contested places within the promise.
 
 Love stronger than fear does not need the difficult places to be unnamed. Genesis 15:20 continues the land list. More peoples are named. More reality is brought into the covenant promise. God does not speak as though Abram's future is free of complexity. He names the contested places and still calls them within the scope of promise.
 
@@ -5826,7 +5826,7 @@ Follow that love today. Let the named place become a place of surrender, not a t
 
 **Scripture Reference:** Genesis 15:21
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses the closing peoples in the land list - the Amorites, Canaanites, Girgashites, and Jebusites - because the verse completes the covenant inheritance boundary and shows the reliability of God's named promise.
+**Context and language lens:** The closing peoples in the land list - the Amorites, Canaanites, Girgashites, and Jebusites - because the verse completes the covenant inheritance boundary and shows the reliability of God's named promise.
 
 Restoring compassion lets the heart breathe when the promise still feels crowded by obstacles. Genesis 15:21 completes the list. The covenant word has not avoided the complexity. God names the land with all its present occupants and still speaks promise over Abram's future.
 
@@ -5856,7 +5856,7 @@ The Father's compassion restores the heart by reminding it that His promise has 
 
 **Scripture Reference:** Genesis 17:1
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Abram's age, the Lord's appearance, `ani El Shaddai`, and the call to walk before God and be blameless because the verse centers on God's sustaining identity and Abram's whole-hearted covenant walk after long waiting.
+**Context and language lens:** Abram's age, the Lord's appearance, `ani El Shaddai`, and the call to walk before God and be blameless because the verse centers on God's sustaining identity and Abram's whole-hearted covenant walk after long waiting.
 
 The promise that holds you can wake you up again after years of waiting. Genesis 17:1 opens with Abram ninety-nine years old. Time has passed. The promise has not been forgotten. The Lord appears and names Himself as God Almighty, then calls Abram to walk before Him and be whole.
 
@@ -5886,7 +5886,7 @@ The promise still holds because the Almighty God holds it. Rest in Him, then ris
 
 **Scripture Reference:** Genesis 17:2
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses God's promise to give or establish covenant between Himself and Abram and to multiply Abram greatly because the verse centers on covenant initiative and fruitful promise.
+**Context and language lens:** God's promise to give or establish covenant between Himself and Abram and to multiply Abram greatly because the verse centers on covenant initiative and fruitful promise.
 
 The heart that calls you is not calling you into barrenness. Genesis 17:2 follows God's self-revelation with covenant promise. God says He will establish covenant between Himself and Abram and multiply him greatly. The promise is personal, relational, and fruitful.
 
@@ -5916,7 +5916,7 @@ The heart that calls you knows what He can make fruitful. Trust Him enough to le
 
 **Scripture Reference:** Genesis 17:3
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Abram falling on his face while God speaks with him because the verse centers on reverent surrender before the God who comes near and speaks.
+**Context and language lens:** Abram falling on his face while God speaks with him because the verse centers on reverent surrender before the God who comes near and speaks.
 
 Love that sends you first brings you low in the best way. Genesis 17:3 shows Abram falling on his face as God speaks with him. This is not humiliation without tenderness. It is reverence. It is the body telling the truth before the holy God who has come near.
 
@@ -5946,7 +5946,7 @@ The love that sends you into obedience also calls you home to worship. Fall out 
 
 **Scripture Reference:** Genesis 17:6
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses God's promise to make Abram exceedingly fruitful, bring nations from him, and bring kings from him because the verse centers on fruitful covenant multiplication rather than redemption language in the narrow sense.
+**Context and language lens:** God's promise to make Abram exceedingly fruitful, bring nations from him, and bring kings from him because the verse centers on fruitful covenant multiplication rather than redemption language in the narrow sense.
 
 Covenant mercy becomes practice when you stop measuring fruitfulness only by what today can see. Genesis 17:6 lifts Abram's eyes beyond one household and one moment. God speaks of fruitfulness, nations, and kings. The promise is larger than Abram's present evidence.
 
@@ -5979,7 +5979,7 @@ Do not despise the small faithful practice. Abram hears of nations while still s
 
 **Scripture Reference:** Genesis 17:7
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses God's everlasting covenant promise to Abraham and his descendants, especially the relational promise that He will be God to them, because the verse centers on covenant faithfulness received as divine belonging.
+**Context and language lens:** God's everlasting covenant promise to Abraham and his descendants, especially the relational promise that He will be God to them, because the verse centers on covenant faithfulness received as divine belonging.
 
 The Father's welcome is stronger than the fear that says you have to hold the promise together by yourself. Genesis 17:7 speaks covenant over Abraham and the generations after him. God does not only promise an outcome. He promises Himself. The covenant is everlasting because the One who speaks it is faithful.
 
@@ -6007,7 +6007,7 @@ The Father does not welcome you because you can see every generation the promise
 
 **Scripture Reference:** Genesis 17:8
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the promise of land, everlasting possession, and God's repeated covenant statement that He will be their God because the verse centers on identity secured by divine belonging and inheritance.
+**Context and language lens:** The promise of land, everlasting possession, and God's repeated covenant statement that He will be their God because the verse centers on identity secured by divine belonging and inheritance.
 
 Mercy speaks beloved identity before the heart knows how to settle in it. Genesis 17:8 names the land of Abraham's sojournings and speaks of an everlasting possession. Abraham is still a pilgrim, still walking through places not yet held in fullness, but God names inheritance over the place of sojourning.
 
@@ -6037,7 +6037,7 @@ Let that mercy speak louder than the unsettled place today.
 
 **Scripture Reference:** Genesis 17:9
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses God's call for Abraham and his descendants to keep the covenant throughout generations because the verse centers on covenant response after divine initiative, not generic steadfast love language.
+**Context and language lens:** God's call for Abraham and his descendants to keep the covenant throughout generations because the verse centers on covenant response after divine initiative, not generic steadfast love language.
 
 Love that finds you also teaches you how to respond. Genesis 17:9 turns from God's "I will" to Abraham's covenant keeping. The order matters. God has spoken His promise, named His faithfulness, and claimed relationship. Then Abraham is called to keep the covenant, he and his descendants after him.
 
@@ -6067,7 +6067,7 @@ The Father's covenant love is not fragile. You do not obey to make Him love you.
 
 **Scripture Reference:** Genesis 17:10
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses the covenant sign given to Abraham's household because the verse centers on visible belonging within covenant community. The devotional handles the sign reverently and discreetly without graphic detail.
+**Context and language lens:** The covenant sign given to Abraham's household because the verse centers on visible belonging within covenant community. The devotional handles the sign reverently and discreetly without graphic detail.
 
 Mercy in the morning reaches into the life of the household. Genesis 17:10 introduces the covenant sign for Abraham and the males of his household. This is a deeply embodied sign in an ancient covenant context, and it should be handled with reverence rather than casualness.
 
@@ -6097,7 +6097,7 @@ On this Sabbath morning, rest in the God who marks His people by mercy, then let
 
 **Scripture Reference:** Genesis 17:11
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses the sign of the covenant between God and Abraham's household because the verse centers on covenant marking and patient formation, not redemption as a kinsman in the narrow sense.
+**Context and language lens:** The sign of the covenant between God and Abraham's household because the verse centers on covenant marking and patient formation, not redemption as a kinsman in the narrow sense.
 
 The Father's patience gives His people ways to remember what the heart forgets. Genesis 17:11 continues the covenant sign language. The sign is not treated as decoration. It is a witness between God and Abraham's household, a reminder that covenant belonging is meant to be carried in real life.
 
@@ -6127,7 +6127,7 @@ Today, receive the reminder as mercy.
 
 **Scripture Reference:** Genesis 17:12
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses the generational and household scope of the covenant sign, including the ancient household categories named in the verse, while refusing to romanticize or normalize the broken human systems of the ancient world.
+**Context and language lens:** The generational and household scope of the covenant sign, including the ancient household categories named in the verse, while refusing to romanticize or normalize the broken human systems of the ancient world.
 
 Love stronger than fear teaches faithfulness across generations, not only in private moments. Genesis 17:12 moves the covenant sign into household and generational life. The verse names an ancient world with family lines, households, and social structures that require careful handling. We do not have to romanticize every structure in the text to receive the covenant truth God is revealing.
 
@@ -6157,7 +6157,7 @@ The covenant God is patient with generations. Let His love teach you to be faith
 
 **Scripture Reference:** Genesis 17:13
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the repeated household scope of the covenant sign and the phrase about an everlasting covenant because the verse centers on embodied covenant belonging, not heart language in the abstract.
+**Context and language lens:** The repeated household scope of the covenant sign and the phrase about an everlasting covenant because the verse centers on embodied covenant belonging, not heart language in the abstract.
 
 Restoring compassion awakens when covenant belonging reaches the people we might be tempted to overlook. Genesis 17:13 repeats the household scope of the sign and emphasizes the everlasting covenant. The repetition matters. God is pressing the covenant beyond a private idea and into the visible life of a people.
 
@@ -6190,7 +6190,7 @@ The everlasting covenant is not an abstract sentence for religious language. It 
 
 **Scripture Reference:** Genesis 17:14
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Genesis 17:14's sober covenant boundary because the verse centers on the seriousness of belonging, not sentimental love detached from response.
+**Context and language lens:** Genesis 17:14's sober covenant boundary because the verse centers on the seriousness of belonging, not sentimental love detached from response.
 
 The promise that holds is not casual. Genesis 17:14 gives weight to the covenant sign and names the grief of refusing the covenant relationship God has established. The verse may feel severe to a tender heart, but it reveals something important: belonging to God is mercy, and mercy is not meant to be treated lightly.
 
@@ -6220,7 +6220,7 @@ The Father loves you enough to give covenant weight to covenant love.
 
 **Scripture Reference:** Genesis 17:15
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses God's renaming of Sarai as Sarah because the verse centers on bestowed identity and relational calling.
+**Context and language lens:** God's renaming of Sarai as Sarah because the verse centers on bestowed identity and relational calling.
 
 The heart that calls you knows your name before you know how to live into it. Genesis 17:15 brings Sarah forward with holy attention. God does not speak only about Abraham's future. He names Sarah. He gives her a new name and draws her identity into the covenant story with intention.
 
@@ -6250,7 +6250,7 @@ The Father does not call you by accident. He knows the story that has been spoke
 
 **Scripture Reference:** Genesis 17:16
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses God's promised blessing over Sarah, including sonship, nations, and kings, because the verse centers on divine fruitfulness through a named relationship rather than kinsman-redemption language.
+**Context and language lens:** God's promised blessing over Sarah, including sonship, nations, and kings, because the verse centers on divine fruitfulness through a named relationship rather than kinsman-redemption language.
 
 Love that sends you begins as blessing before it becomes assignment. Genesis 17:16 speaks blessing over Sarah and names fruitfulness that reaches beyond what anyone standing there could naturally imagine. A son will come through her. Peoples and kings will be connected to her life. God is not merely solving a private ache. He is unfolding covenant purpose through a relationship He has chosen to bless.
 
@@ -6280,7 +6280,7 @@ You do not have to force fruit. Walk with the God who blesses. Let Him decide ho
 
 **Scripture Reference:** Genesis 17:18
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Abraham's plea for Ishmael because the verse centers on a father's concern, an already-loved child, and the need to trust God's covenant answer.
+**Context and language lens:** Abraham's plea for Ishmael because the verse centers on a father's concern, an already-loved child, and the need to trust God's covenant answer.
 
 Peace has to lead when love is tangled with fear. Genesis 17:18 shows Abraham speaking to God about Ishmael. The promised son through Sarah has just been announced, but Abraham's heart turns toward the child he already loves. His plea is not cold theology. It is fatherly concern brought into the presence of God.
 
@@ -6310,7 +6310,7 @@ On this Sabbath, receive peace as obedience. The Father can hold the promise and
 
 **Scripture Reference:** Genesis 17:19
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses God's answer naming Sarah's son Isaac and establishing covenant through him because the verse centers on divine welcome, correction, and purpose rather than generic heart language.
+**Context and language lens:** God's answer naming Sarah's son Isaac and establishing covenant through him because the verse centers on divine welcome, correction, and purpose rather than generic heart language.
 
 The Father's welcome can correct us without rejecting us. Genesis 17:19 answers Abraham's plea with clarity. God does not ignore Ishmael, but He also does not let Abraham rewrite the covenant path. Sarah will bear Isaac, and the covenant will be established through him.
 
@@ -6340,7 +6340,7 @@ The Father's welcome is steady enough to receive your concern and strong enough 
 
 **Scripture Reference:** Genesis 17:20
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses God's blessing over Ishmael because the verse reveals mercy, fruitfulness, and dignity for the child outside the covenant line.
+**Context and language lens:** God's blessing over Ishmael because the verse reveals mercy, fruitfulness, and dignity for the child outside the covenant line.
 
 Beloved identity is not erased because a person's path is different from the one you imagined. Genesis 17:20 answers Abraham's concern for Ishmael with mercy. God hears. God blesses. God speaks fruitfulness and future. Ishmael is not the covenant son through whom the specific promise will be established, but he is not unseen by the Father.
 
@@ -6370,7 +6370,7 @@ Ask for eyes that can do the same: honor God's purpose without despising the per
 
 **Scripture Reference:** Genesis 17:21
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses God's appointed covenant with Isaac and the named timing of Sarah's son because the verse centers on faithful appointment, not love as emotion only.
+**Context and language lens:** God's appointed covenant with Isaac and the named timing of Sarah's son because the verse centers on faithful appointment, not love as emotion only.
 
 Love that finds you is able to appoint a time. Genesis 17:21 returns to the covenant God will establish with Isaac and names the coming season through Sarah. God is not vague, hurried, or confused. The promise has a person, a mother, a future, and an appointed time.
 
@@ -6403,7 +6403,7 @@ The Father knows the person, the promise, and the time. Stand there today. Let H
 
 **Scripture Reference:** Genesis 17:22
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses Genesis 17:22's closing of the divine conversation because the verse centers on God's initiative, presence, and timing after covenant instruction, not kinsman-redemption language.
+**Context and language lens:** Genesis 17:22's closing of the divine conversation because the verse centers on God's initiative, presence, and timing after covenant instruction, not kinsman-redemption language.
 
 Grace does not rush the holy conversation. Genesis 17:22 closes the encounter by saying that when God finished speaking with Abraham, He went up from him. The verse is simple, but it is not empty. God speaks. God gives covenant promise and covenant instruction. Then the moment closes in God's timing.
 
@@ -6433,7 +6433,7 @@ Grace has already come near. Let it form the way you answer.
 
 **Scripture Reference:** Genesis 17:23
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Abraham's same-day obedience and the household scope of the covenant sign, handled reverently and discreetly, because the verse centers on faithful response under God's word.
+**Context and language lens:** Abraham's same-day obedience and the household scope of the covenant sign, handled reverently and discreetly, because the verse centers on faithful response under God's word.
 
 Mercy in the morning sometimes looks like obedience before the day has time to argue. Genesis 17:23 shows Abraham responding to God's covenant instruction that very day. The verse names household members and the covenant sign in an embodied ancient context, and it deserves reverent, discreet handling. The main point for this devotional moment is not graphic detail. It is faithful response.
 
@@ -6465,7 +6465,7 @@ Do not despise the morning obedience. It may be the doorway where mercy enters t
 
 **Scripture Reference:** Genesis 17:24
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Abraham's age at the covenant sign because the verse centers on late-season obedience and patient covenant formation, not heart language in the abstract.
+**Context and language lens:** Abraham's age at the covenant sign because the verse centers on late-season obedience and patient covenant formation, not heart language in the abstract.
 
 The Father's patience reaches into seasons we may think are too late. Genesis 17:24 names Abraham's age when he received the covenant sign. Ninety-nine years of life stood behind him. Yet God's covenant call still touched his present obedience.
 
@@ -6495,7 +6495,7 @@ The Father is patient enough to form obedience in late places. Follow Him there.
 
 **Scripture Reference:** Genesis 17:25
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Ishmael's named age at the covenant sign because the verse centers on a beloved son's inclusion in the household response, not broad covenant-love vocabulary alone.
+**Context and language lens:** Ishmael's named age at the covenant sign because the verse centers on a beloved son's inclusion in the household response, not broad covenant-love vocabulary alone.
 
 Love stronger than fear makes room for the child whose story is still unfolding. Genesis 17:25 names Ishmael's age when he received the covenant sign. The verse is brief, but it keeps Ishmael visible. He is not erased from the household moment. His story remains tender, complicated, and held before God.
 
@@ -6525,7 +6525,7 @@ On this Sabbath, rest in the Father's care for the person you cannot carry by co
 
 **Scripture Reference:** Genesis 17:26
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses the same-day covenant response of Abraham and Ishmael together because the verse centers on shared household obedience and restored attention, not affection alone.
+**Context and language lens:** The same-day covenant response of Abraham and Ishmael together because the verse centers on shared household obedience and restored attention, not affection alone.
 
 Restoring compassion wakes up when we notice who is standing with us in obedience. Genesis 17:26 names Abraham and Ishmael together in the same-day covenant response. The verse gathers father and son in one moment of household faithfulness.
 
@@ -6555,7 +6555,7 @@ The Father can use a same-day response to awaken more than one heart.
 
 **Scripture Reference:** Genesis 17:27
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses the full household scope of Abraham's covenant response because the verse centers on comprehensive belonging and costly communal faithfulness, not narrow kinsman redemption.
+**Context and language lens:** The full household scope of Abraham's covenant response because the verse centers on comprehensive belonging and costly communal faithfulness, not narrow kinsman redemption.
 
 The promise that holds also refines what the household carries together. Genesis 17:27 widens the scene again to the men of Abraham's house, those born there and those brought into the household. The ancient context must be handled carefully and never romanticized. Still, the verse shows that covenant response was not treated as a private decoration for one man's spirituality.
 
@@ -6585,7 +6585,7 @@ The refining fire of covenant love is not there to destroy. It is there to make 
 
 **Scripture Reference:** Genesis 22:1
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Genesis 22:1's testing of Abraham because the verse opens a severe narrative about tested trust, requiring careful pastoral framing before any application to relationships.
+**Context and language lens:** Genesis 22:1's testing of Abraham because the verse opens a severe narrative about tested trust, requiring careful pastoral framing before any application to relationships.
 
 The heart that calls you is still the Father's heart when trust is tested. Genesis 22:1 opens one of Scripture's most difficult narratives. God tests Abraham. We must approach this text slowly, reverently, and without using it to pressure people into unsafe, unquestioning human relationships.
 
@@ -6618,7 +6618,7 @@ When trust is tested, come home first to the One who knows your name.
 
 **Scripture Reference:** Genesis 22:3
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Abraham's early obedience, preparation, and journey toward the place God named because the verse centers on responsive trust under God's word, not heart language in the abstract.
+**Context and language lens:** Abraham's early obedience, preparation, and journey toward the place God named because the verse centers on responsive trust under God's word, not heart language in the abstract.
 
 Love that sends you does not always begin with a loud feeling. Genesis 22:3 shows Abraham rising early, preparing what was needed, and moving toward the place God had named. The narrative is severe, and we must continue to handle it with reverence. Abraham is not following a human demand. He is responding within a unique covenant story where God Himself has spoken.
 
@@ -6648,7 +6648,7 @@ The Father may not give you the whole path today. But He can give you the next f
 
 **Scripture Reference:** Genesis 22:4
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Abraham seeing the place from a distance after three days because the verse centers on patient trust while the destination is visible but not yet reached.
+**Context and language lens:** Abraham seeing the place from a distance after three days because the verse centers on patient trust while the destination is visible but not yet reached.
 
 Covenant mercy can steady the heart when the place ahead is visible but not yet reached. Genesis 22:4 brings Abraham to the third day of the journey. He lifts his eyes and sees the place from a distance. The long walk has not ended. The hardest part still lies ahead.
 
@@ -6678,7 +6678,7 @@ Covenant mercy does not despise the distance. It walks with you through it.
 
 **Scripture Reference:** Genesis 22:5
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Abraham's worship language and his stated return with Isaac because the verse centers on worshipful trust under pressure, not affection alone.
+**Context and language lens:** Abraham's worship language and his stated return with Isaac because the verse centers on worshipful trust under pressure, not affection alone.
 
 Mercy speaks welcome even when worship happens under pressure. Genesis 22:5 shows Abraham telling the young men to remain while he and Isaac go farther to worship. He speaks of returning. The verse holds tension: obedience, worship, uncertainty, and trust all standing together.
 
@@ -6710,7 +6710,7 @@ Mercy can teach the heart to worship before everything is simple.
 
 **Scripture Reference:** Genesis 22:6
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses Abraham and Isaac walking together with the wood, fire, and knife because the verse centers on shared movement in a difficult covenant test, requiring careful pastoral framing rather than kinsman-redemption language.
+**Context and language lens:** Abraham and Isaac walking together with the wood, fire, and knife because the verse centers on shared movement in a difficult covenant test, requiring careful pastoral framing rather than kinsman-redemption language.
 
 Beloved identity must be held carefully when the road is hard. Genesis 22:6 is a heavy verse. Abraham places the wood on Isaac, carries what is needed for the offering, and the two continue together. The scene is tender and troubling. We must not flatten it into a simple lesson or use it carelessly.
 
@@ -6740,7 +6740,7 @@ On this Sabbath, let beloved identity breathe in every difficult relationship.
 
 **Scripture Reference:** Genesis 22:8
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Abraham's trust in God's provision and the continued togetherness of Abraham and Isaac because the verse centers on provision-shaped faithfulness under pressure.
+**Context and language lens:** Abraham's trust in God's provision and the continued togetherness of Abraham and Isaac because the verse centers on provision-shaped faithfulness under pressure.
 
 Love that finds you can hold you when the answer is not yet visible. Genesis 22:8 records Abraham's trust that God will provide what is needed, and the father and son continue together. The verse does not remove the tension, but it places provision in God's hands.
 
@@ -6770,7 +6770,7 @@ The Father sees what is needed before you can see how it will come.
 
 **Scripture Reference:** Genesis 22:9
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Abraham's arrival, altar building, and binding of Isaac with explicit pastoral caution because the verse is dangerous if applied to human control rather than God's unique covenant test.
+**Context and language lens:** Abraham's arrival, altar building, and binding of Isaac with explicit pastoral caution because the verse is dangerous if applied to human control rather than God's unique covenant test.
 
 Grace before performance is especially necessary when Scripture brings us to a difficult place. Genesis 22:9 describes Abraham arriving, building the altar, arranging the wood, and binding Isaac. This verse must be handled with holy caution. It is not a model for human domination. It is not permission to harm. It is not a tool for leaders, parents, spouses, or anyone else to demand unquestioned submission.
 
@@ -6800,7 +6800,7 @@ Grace does not make obedience shallow. It keeps obedience from becoming cruel.
 
 **Scripture Reference:** Genesis 22:10
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Abraham's raised hand at the crisis point with explicit attention to the next verse's divine interruption, because the devotional must not isolate the moment from God's mercy.
+**Context and language lens:** Abraham's raised hand at the crisis point with explicit attention to the next verse's divine interruption, because the devotional must not isolate the moment from God's mercy.
 
 Mercy in the morning meets the heart at the crisis point. Genesis 22:10 brings the story to the edge. Abraham reaches the moment that makes the reader hold their breath. This verse cannot be isolated from what comes next. The mercy of God interrupts. The God who tests also stops the hand.
 
@@ -6833,7 +6833,7 @@ The Father is not honored by harm. Yield to the mercy that interrupts before the
 
 **Scripture Reference:** Genesis 22:12
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses God's interrupting command, Abraham's reverence, and the spared son because the verse centers on divine patience stopping the crisis before harm defines the story.
+**Context and language lens:** God's interrupting command, Abraham's reverence, and the spared son because the verse centers on divine patience stopping the crisis before harm defines the story.
 
 The Father's patience knows when to interrupt. Genesis 22:12 brings the story from the edge into God's merciful halt. Abraham has reached the place of testing, but God does not let the raised hand have the last word. The voice of heaven stops what should not continue.
 
@@ -6863,7 +6863,7 @@ The Father can anchor you before fear finishes the sentence.
 
 **Scripture Reference:** Genesis 22:13
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses the ram God provides after Abraham lifts his eyes because the verse centers on God-given provision replacing fear's imagined ending.
+**Context and language lens:** The ram God provides after Abraham lifts his eyes because the verse centers on God-given provision replacing fear's imagined ending.
 
 Love stronger than fear often begins when God helps the heart look again. Genesis 22:13 shows Abraham lifting his eyes and seeing provision he did not manufacture. The answer is not produced by force. It is received from the God who sees the whole mountain.
 
@@ -6893,7 +6893,7 @@ Love in relationships becomes braver when provision belongs to God.
 
 **Scripture Reference:** Genesis 22:16
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses God's oath-bound word after the test because the verse centers on divine faithfulness restoring the narrative after the crisis.
+**Context and language lens:** God's oath-bound word after the test because the verse centers on divine faithfulness restoring the narrative after the crisis.
 
 Restoring compassion speaks after the crisis, not only before it. Genesis 22:16 brings God's solemn word into the aftermath of the test. The story does not end with Abraham trying to explain himself. God speaks. The Father steadies the future by His own faithfulness.
 
@@ -6925,7 +6925,7 @@ The Father can restore the room after the test has passed.
 
 **Scripture Reference:** Genesis 22:17
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses God's promised blessing and multiplication because the verse centers on the heart learning to rest under a promise larger than the visible moment.
+**Context and language lens:** God's promised blessing and multiplication because the verse centers on the heart learning to rest under a promise larger than the visible moment.
 
 The promise that holds is larger than the day that tested you. Genesis 22:17 turns the reader toward God's blessing and future fruitfulness. The same story that held trembling obedience now hears a promise that stretches beyond Abraham's immediate sight.
 
@@ -6955,7 +6955,7 @@ On this Sabbath, let the promise hold you before you try to hold everything else
 
 **Scripture Reference:** Genesis 22:18
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses God's promise that blessing will reach beyond Abraham's household because the verse centers on covenant hope becoming outward-facing.
+**Context and language lens:** God's promise that blessing will reach beyond Abraham's household because the verse centers on covenant hope becoming outward-facing.
 
 Hope rises when the Father's promise becomes bigger than the private room. Genesis 22:18 points beyond Abraham's household toward blessing that reaches nations. The test was deeply personal, but the promise is not small. God's faithfulness is never trapped inside one family's fear.
 
@@ -6985,7 +6985,7 @@ When hope rises, love stops asking only, "Will I be okay?" It begins asking, "Ho
 
 **Scripture Reference:** Genesis 22:19
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Abraham's return to the waiting servants and the movement back to settled life because the verse centers on carrying tested love into ordinary responsibility.
+**Context and language lens:** Abraham's return to the waiting servants and the movement back to settled life because the verse centers on carrying tested love into ordinary responsibility.
 
 Love that sends you also teaches you how to return. Genesis 22:19 moves from the mountain back toward the young men and then to Beersheba. After the intensity of the test, the story returns to travel, community, and settled life.
 
@@ -7015,7 +7015,7 @@ Love in relationships is proven not only in crisis, but in how we come back afte
 
 **Scripture Reference:** Genesis 22:20
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses the family news that arrives after the test because the verse opens a wider promise horizon and begins the movement into Promises That Do Not Fail.
+**Context and language lens:** The family news that arrives after the test because the verse opens a wider promise horizon and begins the movement into Promises That Do Not Fail.
 
 Promises that do not fail often arrive through quiet news, ordinary names, and family lines God has been tending beyond our sight. Genesis 22:20 comes after the mountain and after the return. Abraham receives word about his extended family. The verse may seem quiet after the drama before it, but it opens a door into the next movements of promise.
 
@@ -7048,7 +7048,7 @@ The God who met Abraham on the mountain is also faithful in the family news that
 
 **Scripture Reference:** Genesis 22:22
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses the named family line in Genesis 22:22 because the verse shows promise being carried through ordinary names before the next visible movement of the story.
+**Context and language lens:** The named family line in Genesis 22:22 because the verse shows promise being carried through ordinary names before the next visible movement of the story.
 
 Beloved identity can be hidden inside a list of names. Genesis 22:22 does not sound dramatic after the mountain, the ram, the oath, and the return. It gives names. It records family. It lets the reader see that God has been carrying the promise through lives that may look like background details.
 
@@ -7078,7 +7078,7 @@ Your identity is not measured by how loudly the moment announces you.
 
 **Scripture Reference:** Genesis 22:23
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Rebekah being named before her later role is visible because the verse shows God preparing future mercy before the family can recognize it.
+**Context and language lens:** Rebekah being named before her later role is visible because the verse shows God preparing future mercy before the family can recognize it.
 
 Grace often forms love before the heart knows what it will need. Genesis 22:23 names Rebekah in a family report that arrives after Abraham's testing. At this point, her later connection to Isaac has not unfolded in the narrative. She is not introduced by a grand announcement. She is simply named inside a family line God has been tending.
 
@@ -7108,7 +7108,7 @@ Promises that do not fail are not only preserved by strength. They are also carr
 
 **Scripture Reference:** Genesis 22:24
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Reumah and her children being named because the verse records people who could easily be overlooked and invites careful dignity instead of performance-based worth.
+**Context and language lens:** Reumah and her children being named because the verse records people who could easily be overlooked and invites careful dignity instead of performance-based worth.
 
 Grace before performance means the Father sees people before usefulness is proven. Genesis 22:24 names Reumah and her children. The verse sits at the edge of the family report, and it would be easy to pass over it quickly. Yet the names remain in the story.
 
@@ -7138,7 +7138,7 @@ Grace stands before performance and says, "You are seen before you are useful."
 
 **Scripture Reference:** Genesis 28:3
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Isaac's blessing over Jacob because the verse centers on God-given fruitfulness, multiplication, and a people formed under divine promise.
+**Context and language lens:** Isaac's blessing over Jacob because the verse centers on God-given fruitfulness, multiplication, and a people formed under divine promise.
 
 Mercy in the morning can come as blessing spoken over a future the receiver cannot yet hold. Genesis 28:3 brings Isaac's blessing over Jacob as the story turns toward departure. The blessing reaches beyond one anxious moment. It asks the God of covenant promise to make a family fruitful and to gather a people.
 
@@ -7168,7 +7168,7 @@ On this Sabbath, let mercy order the morning. Rest before the Father as someone 
 
 **Scripture Reference:** Genesis 28:4
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses the blessing of Abraham and the promised inheritance because the verse centers on covenant belonging, sojourners held by promise, and the Father patiently carrying inheritance across generations.
+**Context and language lens:** The blessing of Abraham and the promised inheritance because the verse centers on covenant belonging, sojourners held by promise, and the Father patiently carrying inheritance across generations.
 
 The Father's patience can hold an inheritance before it looks settled. Genesis 28:4 continues the blessing by reaching back to Abraham and forward to Jacob's descendants. The promise includes land where the family has lived as sojourners. It is a word spoken over people who do not yet possess everything God has promised.
 
@@ -7198,7 +7198,7 @@ The temporary place is not proof that the promise failed.
 
 **Scripture Reference:** Genesis 28:5
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Isaac sending Jacob to Paddan-aram and the family connection to Bethuel, Rebekah, and Laban because the verse shows faithfulness guiding the next step through prepared relationships.
+**Context and language lens:** Isaac sending Jacob to Paddan-aram and the family connection to Bethuel, Rebekah, and Laban because the verse shows faithfulness guiding the next step through prepared relationships.
 
 Love stronger than fear may still send you on a road you did not plan. Genesis 28:5 shows Jacob being sent toward Paddan-aram, toward Laban, and toward the family line already named earlier. The promise does not remain abstract. It begins to take shape through movement, kinship, and obedience.
 
@@ -7228,7 +7228,7 @@ The Father's love is stronger than fear because He sees the road ahead and the r
 
 **Scripture Reference:** Genesis 28:6
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Esau observing Isaac's blessing, Jacob's sending, and the command about covenant marriage because the verse centers on what the heart does with what it sees.
+**Context and language lens:** Esau observing Isaac's blessing, Jacob's sending, and the command about covenant marriage because the verse centers on what the heart does with what it sees.
 
 Restoring compassion sometimes begins when the heart lets what it sees become honest conviction. Genesis 28:6 shows Esau observing Isaac's blessing over Jacob, Jacob's sending, and the instruction attached to that blessing. The verse is full of noticing. He sees what happened. He sees the direction. He sees the family concern.
 
@@ -7261,7 +7261,7 @@ Ask for a heart that can notice truth without turning bitter.
 
 **Scripture Reference:** Genesis 28:9
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Esau's attempt to respond to family displeasure by adding another marriage connection because the verse centers on human repair attempts that still need covenant wisdom.
+**Context and language lens:** Esau's attempt to respond to family displeasure by adding another marriage connection because the verse centers on human repair attempts that still need covenant wisdom.
 
 The promise that holds us cannot be repaired by appearances. Genesis 28:9 shows Esau responding to what he has seen and heard in his family. He goes and takes another wife from Ishmael's line. The movement is not random, but it is also not simple surrender. It is a human attempt to answer a family problem by choosing a visible connection.
 
@@ -7291,7 +7291,7 @@ The promise holds better than the performance of repair.
 
 **Scripture Reference:** Genesis 28:10
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Jacob leaving Beersheba and going toward Haran because the verse begins a vulnerable journey where promise must be practiced on the road, not only received at home.
+**Context and language lens:** Jacob leaving Beersheba and going toward Haran because the verse begins a vulnerable journey where promise must be practiced on the road, not only received at home.
 
 The heart that calls you often begins moving before it feels ready. Genesis 28:10 is simple and weighty: Jacob leaves Beersheba and goes toward Haran. Behind that movement is family fracture, blessing, danger, and uncertainty. Ahead of it is a road he cannot fully understand.
 
@@ -7321,7 +7321,7 @@ The Father can turn the road into a classroom of love.
 
 **Scripture Reference:** Genesis 28:11
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses Jacob reaching a place, taking a stone, and lying down for the night because the verse centers on God preparing to meet him in a hard, ordinary resting place.
+**Context and language lens:** Jacob reaching a place, taking a stone, and lying down for the night because the verse centers on God preparing to meet him in a hard, ordinary resting place.
 
 Love that sends you also knows where you will need to rest. Genesis 28:11 shows Jacob coming to a certain place as the sun has set. He takes one of the stones of that place, puts it near his head, and lies down. This is not a polished room. It is a road-side night, a vulnerable pause, and an ordinary place that does not yet look holy to him.
 
@@ -7351,7 +7351,7 @@ Love sends, and love also watches over the place where you lay your head.
 
 **Scripture Reference:** Genesis 28:12
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Jacob's dream of the ladder and the angels of God because the verse centers on heaven's initiative reaching toward a vulnerable traveler.
+**Context and language lens:** Jacob's dream of the ladder and the angels of God because the verse centers on heaven's initiative reaching toward a vulnerable traveler.
 
 Covenant mercy speaks when heaven opens over a place the traveler thought was only a stop for the night. Genesis 28:12 shows Jacob dreaming of a ladder set on the earth, reaching to heaven, with the angels of God ascending and descending. The scene is full of divine movement before Jacob has done anything to control it.
 
@@ -7381,7 +7381,7 @@ On this Sabbath, let covenant mercy speak louder than your need to climb.
 
 **Scripture Reference:** Genesis 28:14
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses God's promise of descendants, land, and blessing to all families of the earth because the verse centers on covenant welcome becoming wider than Jacob's private survival.
+**Context and language lens:** God's promise of descendants, land, and blessing to all families of the earth because the verse centers on covenant welcome becoming wider than Jacob's private survival.
 
 The Father's welcome is never meant to end with private survival. Genesis 28:14 widens the promise over Jacob. The blessing reaches descendants, land, directions of the earth, and all families. God speaks a future larger than one lonely traveler could invent for himself.
 
@@ -7411,7 +7411,7 @@ His welcome gives you room to breathe and room to bless.
 
 **Scripture Reference:** Genesis 28:15
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses God's promise of presence, keeping, return, and refusal to abandon Jacob because the verse directly centers steadfast covenant love.
+**Context and language lens:** God's promise of presence, keeping, return, and refusal to abandon Jacob because the verse directly centers steadfast covenant love.
 
 Beloved identity is held by the God who says, "I am with you." Genesis 28:15 is one of the strongest mercy words in Jacob's road story. God promises presence, keeping, return, and faithfulness until what He has spoken is done. The promise does not rest on Jacob's ability to hold all the pieces together.
 
@@ -7441,7 +7441,7 @@ The Father who sends you also stays with you.
 
 **Scripture Reference:** Genesis 28:16
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Jacob waking to realize the Lord was in that place though he did not know it because the verse centers on love finding him before his awareness caught up.
+**Context and language lens:** Jacob waking to realize the Lord was in that place though he did not know it because the verse centers on love finding him before his awareness caught up.
 
 Love that finds you may already be present before you know how to recognize it. Genesis 28:16 shows Jacob waking from sleep with a new awareness: the Lord was in that place, and he did not know it. The place had not changed as much as his perception had.
 
@@ -7474,7 +7474,7 @@ The Father's love found you before you knew how to name it.
 
 **Scripture Reference:** Genesis 28:17
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses Jacob's reverent fear at Bethel because the verse centers on holy awe, the house of God, and the gate of heaven before Jacob can perform anything worthy of that mercy.
+**Context and language lens:** Jacob's reverent fear at Bethel because the verse centers on holy awe, the house of God, and the gate of heaven before Jacob can perform anything worthy of that mercy.
 
 Grace sometimes reaches the heart before the heart knows what to do with it. Genesis 28:17 shows Jacob waking into reverent fear. The place where he had slept is no longer ordinary to him. He recognizes that God has been present, and the awareness is weighty enough to stop him.
 
@@ -7504,7 +7504,7 @@ The first faithful movement may be to bow before you build.
 
 **Scripture Reference:** Genesis 28:18
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Jacob rising early, setting the stone as a pillar, and pouring oil because the verse centers on marking mercy in the morning with a concrete act of remembrance.
+**Context and language lens:** Jacob rising early, setting the stone as a pillar, and pouring oil because the verse centers on marking mercy in the morning with a concrete act of remembrance.
 
 Mercy becomes an anchor when the morning receives what the night revealed. Genesis 28:18 shows Jacob rising early, taking the stone from his place of rest, setting it up as a pillar, and pouring oil on it. He does not leave the encounter unnamed inside himself. He marks it.
 
@@ -7534,7 +7534,7 @@ Let the first hours of the day become a witness.
 
 **Scripture Reference:** Genesis 28:20
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the opening of Jacob's vow because the verse reveals a heart learning to speak honestly about God's presence, keeping, provision, and the road home.
+**Context and language lens:** The opening of Jacob's vow because the verse reveals a heart learning to speak honestly about God's presence, keeping, provision, and the road home.
 
 The Father's patience is gentle enough to meet a heart that is still learning how to trust. Genesis 28:20 begins Jacob's vow. His words are full of need: God's presence, protection on the way, bread, clothing, and a path home. The vow is not the speech of a fully settled man. It is the speech of a traveler being formed.
 
@@ -7564,7 +7564,7 @@ He can receive your honest need and teach it to trust.
 
 **Scripture Reference:** Genesis 28:22
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Jacob dedicating the stone and naming the place in relation to God's house because the verse centers on worshipful response, not a transaction to force blessing.
+**Context and language lens:** Jacob dedicating the stone and naming the place in relation to God's house because the verse centers on worshipful response, not a transaction to force blessing.
 
 Love stronger than fear turns dedication into response instead of bargaining. Genesis 28:22 shows Jacob looking at the stone he has set up and speaking of it in relation to God's house. His vow also includes giving back to God. This moment must be handled carefully. The heart is still being formed, yet God is drawing Jacob toward worship, remembrance, and surrender.
 
@@ -7594,7 +7594,7 @@ Grace came first. Let worship answer it.
 
 **Scripture Reference:** Genesis 32:1
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Jacob continuing on his way and being met by the angels of God because the verse begins the return journey with divine reassurance before the difficult reconciliation ahead.
+**Context and language lens:** Jacob continuing on his way and being met by the angels of God because the verse begins the return journey with divine reassurance before the difficult reconciliation ahead.
 
 Restoring compassion often meets us before the hard conversation begins. Genesis 32:1 shows Jacob going on his way, and the angels of God meet him. The road has changed since Bethel, but the God of the road has not changed. Jacob is moving toward unresolved family history, and mercy reaches him before he faces Esau.
 
@@ -7624,7 +7624,7 @@ Restoration begins with God meeting you on the way.
 
 **Scripture Reference:** Genesis 32:3
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses Jacob sending messengers ahead to Esau because the verse centers on hope taking a wise, humble step toward unresolved family history.
+**Context and language lens:** Jacob sending messengers ahead to Esau because the verse centers on hope taking a wise, humble step toward unresolved family history.
 
 Hope does not always rise as a feeling. Sometimes it rises as a wise step sent ahead of fear. Genesis 32:3 shows Jacob sending messengers before him to Esau in the land connected with Seir and Edom. The old story is not avoided. Jacob begins to face it with movement, humility, and preparation.
 
@@ -7654,7 +7654,7 @@ Hope rises when obedience takes a humble first step.
 
 **Scripture Reference:** Genesis 32:4
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Jacob's message of humility toward Esau because the verse centers on faithfulness expressed through careful speech, lowered pride, and a repaired posture.
+**Context and language lens:** Jacob's message of humility toward Esau because the verse centers on faithfulness expressed through careful speech, lowered pride, and a repaired posture.
 
 The heart that calls you into promise must also learn how to speak when pride has been lowered. Genesis 32:4 records the message Jacob commands for Esau. The language is humble and careful. Jacob does not return with swagger. He approaches the brother he wronged with words that show a changed posture.
 
@@ -7687,7 +7687,7 @@ The promise calls the heart forward, and grace teaches the heart how to speak.
 
 **Scripture Reference:** Genesis 32:6
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the messengers' report that Esau is coming with four hundred men because the verse centers on the heart receiving frightening news while still standing under God's earlier promise.
+**Context and language lens:** The messengers' report that Esau is coming with four hundred men because the verse centers on the heart receiving frightening news while still standing under God's earlier promise.
 
 Love that sends you does not stop being love when the report sounds frightening. Genesis 32:6 brings Jacob the kind of news that can make the body tighten before the mind has finished listening. Esau is coming, and he is not coming alone. Four hundred men are with him.
 
@@ -7717,7 +7717,7 @@ The report is not bigger than the God who sent you.
 
 **Scripture Reference:** Genesis 32:7
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Jacob's fear, distress, and division of the camp because the verse shows a threatened heart trying to protect what has been entrusted to it.
+**Context and language lens:** Jacob's fear, distress, and division of the camp because the verse shows a threatened heart trying to protect what has been entrusted to it.
 
 Covenant mercy sees the heart that is afraid and distressed. Genesis 32:7 does not hide Jacob's reaction. He is afraid. He is distressed. He divides the people and possessions into groups. The verse lets us watch a promised man respond with very human caution.
 
@@ -7747,7 +7747,7 @@ The heart can prepare without letting fear become its shepherd.
 
 **Scripture Reference:** Genesis 32:8
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Jacob's contingency plan because the verse centers on a heart trying to preserve life while still needing the Father's welcome to transform defensive strategy.
+**Context and language lens:** Jacob's contingency plan because the verse centers on a heart trying to preserve life while still needing the Father's welcome to transform defensive strategy.
 
 The Father's welcome is patient with the heart that is still planning for survival. Genesis 32:8 shows Jacob thinking through what might happen if Esau attacks one group. He wants the remaining group to escape. This is not polished courage. It is a contingency plan born in the tension between promise and fear.
 
@@ -7777,7 +7777,7 @@ You are welcome before your strategy is fully healed.
 
 **Scripture Reference:** Genesis 32:10
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses Jacob's confession of unworthiness and remembrance of God's kindness because the verse centers on humility before covenant mercy, not self-condemnation.
+**Context and language lens:** Jacob's confession of unworthiness and remembrance of God's kindness because the verse centers on humility before covenant mercy, not self-condemnation.
 
 Beloved identity awakens when humility receives mercy without pretending to deserve it. Genesis 32:10 shows Jacob praying from a lowered place. He remembers that he crossed the Jordan with only his staff and now has become two camps. He does not present his growth as proof that God owes him more. He receives the story as mercy.
 
@@ -7807,7 +7807,7 @@ On this Sabbath, let gratitude awaken who you are in the Father's care.
 
 **Scripture Reference:** Genesis 32:11
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Jacob's direct plea for deliverance from Esau because the verse centers on faithful prayer that tells God the specific fear instead of hiding behind vague spirituality.
+**Context and language lens:** Jacob's direct plea for deliverance from Esau because the verse centers on faithful prayer that tells God the specific fear instead of hiding behind vague spirituality.
 
 Love that finds you can meet the prayer that is specific. Genesis 32:11 shows Jacob asking God to deliver him from his brother. He names Esau. He names fear. He names the danger to the mothers and children. The prayer is not vague because the fear is not vague.
 
@@ -7837,7 +7837,7 @@ Love finds the place you are finally willing to name.
 
 **Scripture Reference:** Genesis 32:12
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Jacob remembering God's promise to do him good and multiply his future because the verse centers on letting God's word frame the heart before action resumes.
+**Context and language lens:** Jacob remembering God's promise to do him good and multiply his future because the verse centers on letting God's word frame the heart before action resumes.
 
 Grace before performance sounds like remembering what God said before you try to prove what you can do. Genesis 32:12 shows Jacob placing God's promise back into the prayer. He remembers that God spoke good over him and a future larger than his present fear could hold.
 
@@ -7867,7 +7867,7 @@ Let the promise speak before performance starts again.
 
 **Scripture Reference:** Genesis 32:13
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Jacob spending the night there and selecting a gift for Esau because the verse centers on mercy becoming prepared action after prayer.
+**Context and language lens:** Jacob spending the night there and selecting a gift for Esau because the verse centers on mercy becoming prepared action after prayer.
 
 Mercy in the morning is often prepared in the night of prayer. Genesis 32:13 shows Jacob staying there that night and taking from what he has a gift for Esau. The movement matters. He has heard the report, felt fear, prayed honestly, remembered the promise, and now prepares a concrete gesture.
 
@@ -7900,7 +7900,7 @@ Let prayer prepare the mercy your hands will carry.
 
 **Scripture Reference:** Genesis 32:14
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Jacob's first counted gift from the flock because the verse centers on chosen love becoming specific, patient, and costly without trying to purchase peace.
+**Context and language lens:** Jacob's first counted gift from the flock because the verse centers on chosen love becoming specific, patient, and costly without trying to purchase peace.
 
 Peace led by the Father's patience often becomes specific. Genesis 32:14 begins listing what Jacob sends ahead from what he owns. The verse may look like inventory, but in the story it is more than numbers. Jacob is moving toward a wounded relationship with deliberate offerings instead of empty words.
 
@@ -7930,7 +7930,7 @@ Peace grows stronger when love becomes honest enough to count the cost.
 
 **Scripture Reference:** Genesis 32:15
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses the continued list of animals sent ahead because the verse shows restoration becoming patiently arranged across what Jacob has been entrusted to steward.
+**Context and language lens:** The continued list of animals sent ahead because the verse shows restoration becoming patiently arranged across what Jacob has been entrusted to steward.
 
 Called by love begins with the kind of compassion that pays attention. Genesis 32:15 continues the list of what Jacob sends ahead. Camels, cattle, and donkeys are not decorative details. They show a careful arrangement, a measured offering, and a willingness to approach restoration with more than a quick apology.
 
@@ -7960,7 +7960,7 @@ Restoring compassion begins when love pays attention long enough to change.
 
 **Scripture Reference:** Genesis 32:16
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Jacob separating the droves and placing space between them because the verse centers on hope that can wait, sequence, and move with restraint.
+**Context and language lens:** Jacob separating the droves and placing space between them because the verse centers on hope that can wait, sequence, and move with restraint.
 
 The promise that holds can teach the heart how to wait with structure. Genesis 32:16 shows Jacob placing the gifts into the hands of his servants, drove by drove, with space between them. He does not throw everything forward at once. He orders the approach.
 
@@ -7990,7 +7990,7 @@ You do not have to rush what God is teaching you to carry faithfully.
 
 **Scripture Reference:** Genesis 32:17
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses Jacob's instruction to the first servant because the verse centers on preparing truthful speech before the feared encounter.
+**Context and language lens:** Jacob's instruction to the first servant because the verse centers on preparing truthful speech before the feared encounter.
 
 The heart that calls you can prepare your words before pressure asks for them. Genesis 32:17 shows Jacob instructing the first servant about what to say when Esau meets him. He imagines the questions before they come. He prepares an answer before the encounter.
 
@@ -8020,7 +8020,7 @@ On this Sabbath, let surrendered rest prepare truthful words.
 
 **Scripture Reference:** Genesis 32:18
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses the servant's instructed answer that names Jacob, Esau, the gift, and Jacob's following presence because the verse centers on humble speech that carries mercy ahead.
+**Context and language lens:** The servant's instructed answer that names Jacob, Esau, the gift, and Jacob's following presence because the verse centers on humble speech that carries mercy ahead.
 
 Mercy can speak before the whole person arrives. Genesis 32:18 gives the answer Jacob wants his servant to carry: the gift belongs to Jacob, it is sent to Esau, and Jacob is coming behind it. The words are humble. They do not erase the past, but they lower the posture of the approach.
 
@@ -8050,7 +8050,7 @@ Let the first words carry the mercy you want the meeting to receive.
 
 **Scripture Reference:** Genesis 32:19
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses Jacob repeating the same instruction to the second, third, and following groups because the verse centers on steady mercy that stays consistent across repeated moments.
+**Context and language lens:** Jacob repeating the same instruction to the second, third, and following groups because the verse centers on steady mercy that stays consistent across repeated moments.
 
 Covenant mercy has to breathe more than once. Genesis 32:19 shows Jacob giving the same instruction to the second group, the third group, and all who followed the droves. One merciful message is not left alone. It is repeated along the way.
 
@@ -8080,7 +8080,7 @@ Mercy becomes credible when it remains steady.
 
 **Scripture Reference:** Genesis 32:20
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses Jacob's hope that the gift may prepare Esau's face to receive him because the verse centers on the longing to be accepted while learning not to make acceptance an idol.
+**Context and language lens:** Jacob's hope that the gift may prepare Esau's face to receive him because the verse centers on the longing to be accepted while learning not to make acceptance an idol.
 
 The Father's welcome steadies the heart that longs to be received. Genesis 32:20 lets us hear Jacob's inner reasoning. He hopes the gift sent ahead may prepare the meeting and that afterward Esau may accept him. The desire is deeply human: to see the face of the one you fear and not be rejected.
 
@@ -8113,7 +8113,7 @@ You can desire peace without letting acceptance become your god.
 
 **Scripture Reference:** Genesis 32:21
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Jacob sending the gift ahead while remaining in the camp that night because the verse centers on identity learning to wait after obedience has been set in motion.
+**Context and language lens:** Jacob sending the gift ahead while remaining in the camp that night because the verse centers on identity learning to wait after obedience has been set in motion.
 
 Beloved identity can return when the heart has done the next faithful thing and still has to wait. Genesis 32:21 shows the gift passing ahead of Jacob while he remains in the camp that night. The action has moved forward, but the outcome has not arrived.
 
@@ -8143,7 +8143,7 @@ You are still beloved when the gift has gone ahead and the answer has not return
 
 **Scripture Reference:** Genesis 32:22
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses Jacob rising in the night, gathering his household, and crossing the ford of Jabbok because the verse centers on courage that moves vulnerable people under pressure.
+**Context and language lens:** Jacob rising in the night, gathering his household, and crossing the ford of Jabbok because the verse centers on courage that moves vulnerable people under pressure.
 
 Love that finds you can meet you in the middle of the night. Genesis 32:22 shows Jacob rising, gathering his wives, servants, and sons, and crossing the ford of Jabbok. This is not a bright, easy movement. It happens under pressure, with vulnerable people near him.
 
@@ -8173,7 +8173,7 @@ The night crossing is not outside His care.
 
 **Scripture Reference:** Genesis 32:23
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses Jacob sending his household and possessions over the stream because the verse centers on protective compassion that releases what cannot be clutched forever.
+**Context and language lens:** Jacob sending his household and possessions over the stream because the verse centers on protective compassion that releases what cannot be clutched forever.
 
 Grace before performance can anchor the heart when it must release what it has carried. Genesis 32:23 shows Jacob taking his household and possessions and sending them over the stream. What has been gathered, protected, and managed is now moving beyond his immediate grasp.
 
@@ -8203,7 +8203,7 @@ Grace anchors the hand that has to open.
 
 **Scripture Reference:** Genesis 32:24
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses Jacob being left alone and wrestling until daybreak because the verse centers on mercy meeting the heart in the very place pressure scattered it.
+**Context and language lens:** Jacob being left alone and wrestling until daybreak because the verse centers on mercy meeting the heart in the very place pressure scattered it.
 
 Mercy in the morning may begin with an honest night. Genesis 32:24 says Jacob is left alone, and there a man wrestles with him until daybreak. The verse is spare, but it is not small. The noise has quieted. The household has crossed. The gifts have gone ahead. Jacob is alone, and the struggle becomes direct.
 
@@ -8233,7 +8233,7 @@ On this Sabbath, let God meet you in the honest night and carry mercy toward mor
 
 **Scripture Reference:** Genesis 32:25
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses the touch on Jacob's hip when the man sees he does not prevail against him because the verse centers on being personally known through weakness, not merely through endurance.
+**Context and language lens:** The touch on Jacob's hip when the man sees he does not prevail against him because the verse centers on being personally known through weakness, not merely through endurance.
 
 The Father's patience can touch what endurance alone will not heal. Genesis 32:25 shows that the wrestling does not end with Jacob simply proving he can hold on. The touch reaches his hip, and the place of strength is altered.
 
@@ -8263,7 +8263,7 @@ Weakness may be the doorway where self-reliance stops pretending to be peace.
 
 **Scripture Reference:** Genesis 32:26
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Jacob holding on as day breaks and asking for blessing because the verse centers on hope that refuses to release God for anything less than transformed dependence.
+**Context and language lens:** Jacob holding on as day breaks and asking for blessing because the verse centers on hope that refuses to release God for anything less than transformed dependence.
 
 Love stronger than fear teaches the heart how to hold on differently. Genesis 32:26 carries the tension of daybreak. The man says to let him go, and Jacob answers that he will not let go unless he is blessed.
 
@@ -8293,7 +8293,7 @@ Do not leave the encounter with God asking for less than blessing.
 
 **Scripture Reference:** Genesis 32:27
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses the question, "What is your name?" and Jacob's answer because the verse centers on comfort that leads the heart into truthful identity before restoration.
+**Context and language lens:** The question, "What is your name?" and Jacob's answer because the verse centers on comfort that leads the heart into truthful identity before restoration.
 
 Restoring compassion often begins with a truthful name. Genesis 32:27 brings the question to Jacob: what is your name? He answers, "Jacob." Before the new name is spoken, the old name has to be brought into the light.
 
@@ -8326,7 +8326,7 @@ Hope rises when truth is safe enough to tell in God's presence.
 
 **Scripture Reference:** Genesis 32:29
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses Jacob asking for the divine name and receiving blessing there because the verse centers on mercy that blesses without explaining everything.
+**Context and language lens:** Jacob asking for the divine name and receiving blessing there because the verse centers on mercy that blesses without explaining everything.
 
 The promise that holds you may not answer every question first. Genesis 32:29 shows Jacob asking the name of the One who has wrestled with him. Instead of receiving the kind of explanation he asks for, Jacob receives blessing there.
 
@@ -8356,7 +8356,7 @@ The promise can hold you even when the mystery remains.
 
 **Scripture Reference:** Genesis 32:31
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses the sun rising on Jacob as he passes Penuel while limping because the verse centers on peace that can include evidence of transformation.
+**Context and language lens:** The sun rising on Jacob as he passes Penuel while limping because the verse centers on peace that can include evidence of transformation.
 
 The heart that calls you does not require you to pretend the limp is not there. Genesis 32:31 gives a quiet picture: the sun rises on Jacob as he passes Penuel, and he is limping because of his hip. Morning comes, but the encounter has left a mark.
 
@@ -8386,7 +8386,7 @@ The sun can rise on a life that walks differently.
 
 **Scripture Reference:** Genesis 32:32
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses Israel's lasting practice of remembering the touched hip because the verse centers on communal memory shaped by encounter.
+**Context and language lens:** Israel's lasting practice of remembering the touched hip because the verse centers on communal memory shaped by encounter.
 
 Love that sends you also teaches you how to remember. Genesis 32:32 explains a lasting practice among the children of Israel connected to the place where Jacob's hip was touched. The encounter did not stay private. It became a memory carried into ordinary life.
 
@@ -8416,7 +8416,7 @@ Let remembered mercy become wisdom for the road.
 
 **Scripture Reference:** Genesis 45:1
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Joseph no longer being able to restrain himself and clearing the room before revealing himself because the verse centers on long-held tension giving way to truthful mercy.
+**Context and language lens:** Joseph no longer being able to restrain himself and clearing the room before revealing himself because the verse centers on long-held tension giving way to truthful mercy.
 
 Covenant mercy sometimes begins when restraint finally gives way to truth. Genesis 45:1 moves from Jacob's transformation into Joseph's revelation. Joseph can no longer control himself before those standing near him, and he sends everyone out before making himself known to his brothers.
 
@@ -8446,7 +8446,7 @@ On this Sabbath, let love teach mercy without spectacle.
 
 **Scripture Reference:** Genesis 45:2
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses Joseph weeping loudly enough for Egypt and Pharaoh's house to hear because the verse centers on comfort that allows grief to breathe.
+**Context and language lens:** Joseph weeping loudly enough for Egypt and Pharaoh's house to hear because the verse centers on comfort that allows grief to breathe.
 
 The Father's welcome is not frightened by tears. Genesis 45:2 shows Joseph weeping aloud. The grief is not quiet enough to be managed neatly. Egypt hears it. Pharaoh's household hears it. The long story presses through his body in sound.
 
@@ -8476,7 +8476,7 @@ Tears can become the doorway where comfort finally breathes.
 
 **Scripture Reference:** Genesis 45:4
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses Joseph asking his brothers to come near and naming himself as the brother they sold because the verse centers on compassion that can draw near without denying harm.
+**Context and language lens:** Joseph asking his brothers to come near and naming himself as the brother they sold because the verse centers on compassion that can draw near without denying harm.
 
 Beloved identity can stand close to truth. Genesis 45:4 shows Joseph asking his brothers to come near. Then he names himself plainly: he is Joseph, their brother, the one they sold. Nearness and truth stand together in the same verse.
 
@@ -8506,7 +8506,7 @@ Come near to truth without surrendering beloved identity.
 
 **Scripture Reference:** Genesis 45:5
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses Joseph telling his brothers not to be distressed or angry with themselves because God sent him ahead to preserve life because the verse centers on peace that reframes harm without denying it.
+**Context and language lens:** Joseph telling his brothers not to be distressed or angry with themselves because God sent him ahead to preserve life because the verse centers on peace that reframes harm without denying it.
 
 Love that finds you can meet the place where regret has become a prison. Genesis 45:5 does not erase what Joseph's brothers did. The selling is named. But Joseph also tells them not to be distressed or angry with themselves, because God has been at work to preserve life.
 
@@ -8539,7 +8539,7 @@ God's purpose is not fragile in the presence of human failure.
 
 **Scripture Reference:** Genesis 45:6
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses Joseph naming the famine's timing because the verse centers on being known by God inside a season that is real, measured, and not yet over.
+**Context and language lens:** Joseph naming the famine's timing because the verse centers on being known by God inside a season that is real, measured, and not yet over.
 
 Grace before performance can walk with you when the season has an honest timeline. Genesis 45:6 names the famine plainly. Two years have already passed, and more years remain. Joseph is not offering shallow comfort. He is telling the truth about the pressure in the room.
 
@@ -8569,7 +8569,7 @@ Grace can walk with you without pretending the famine is already finished.
 
 **Scripture Reference:** Genesis 45:7
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Joseph's understanding that God sent him ahead to preserve a remnant and keep life going because the verse centers on hope strengthened by God's preserving purpose.
+**Context and language lens:** Joseph's understanding that God sent him ahead to preserve a remnant and keep life going because the verse centers on hope strengthened by God's preserving purpose.
 
 Peace can lead mercy when the heart begins to see preservation where it once saw only pain. Genesis 45:7 shows Joseph interpreting his story through God's larger work. He has been sent ahead so life can be preserved.
 
@@ -8599,7 +8599,7 @@ Peace becomes sturdy when it trusts God's preserving purpose.
 
 **Scripture Reference:** Genesis 45:10
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses Joseph's invitation for his family to dwell in Goshen, near him, because the verse centers on comfort that prepares a protected place for continued restoration.
+**Context and language lens:** Joseph's invitation for his family to dwell in Goshen, near him, because the verse centers on comfort that prepares a protected place for continued restoration.
 
 The Father's patience often sounds like an invitation to come near and dwell. Genesis 45:10 shows Joseph offering his family a place in Goshen, a place near him where children, grandchildren, flocks, herds, and all they have can be brought under care.
 
@@ -8629,7 +8629,7 @@ Patience becomes holy when it makes room for restoration to live.
 
 **Scripture Reference:** Genesis 45:11
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses Joseph's promise to provide so his family will not fall into poverty during the remaining famine because the verse centers on protective compassion that plans ahead.
+**Context and language lens:** Joseph's promise to provide so his family will not fall into poverty during the remaining famine because the verse centers on protective compassion that plans ahead.
 
 Love stronger than fear does not merely feel compassion. It prepares provision. Genesis 45:11 shows Joseph promising to care for his family in the remaining years of famine so they will not be reduced to poverty. Mercy is becoming practical protection.
 
@@ -8659,7 +8659,7 @@ On this Sabbath, listen for provision before fear names the future.
 
 **Scripture Reference:** Genesis 45:12
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses Joseph pointing to what his brothers can see and hear from his own mouth because the verse centers on peace that restores trust through embodied truth.
+**Context and language lens:** Joseph pointing to what his brothers can see and hear from his own mouth because the verse centers on peace that restores trust through embodied truth.
 
 Restoring compassion can stand where truth is visible and peace is spoken plainly. Genesis 45:12 shows Joseph telling his brothers that their eyes can see it is truly him speaking. The moment is not abstract. They see his face. They hear his voice. Restoration is moving through embodied witness.
 
@@ -8689,7 +8689,7 @@ Restoring compassion gives peace a face and a voice.
 
 **Scripture Reference:** Genesis 45:14
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses Joseph embracing Benjamin and weeping because the verse centers on being personally known in restored affection, not merely recognized by information.
+**Context and language lens:** Joseph embracing Benjamin and weeping because the verse centers on being personally known in restored affection, not merely recognized by information.
 
 The promise that holds can become flesh-and-blood tenderness. Genesis 45:14 gives a deeply human picture: Joseph and Benjamin embrace, and tears flow between brothers. The story is no longer only strategy, famine, power, or explanation. It is affection restored in the body.
 
@@ -8719,7 +8719,7 @@ The promise holds more than your thoughts. It can hold your tears too.
 
 **Scripture Reference:** Genesis 45:15
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Joseph kissing all his brothers, weeping over them, and the brothers finally speaking with him because the verse centers on hope that waits for speech after mercy has opened the room.
+**Context and language lens:** Joseph kissing all his brothers, weeping over them, and the brothers finally speaking with him because the verse centers on hope that waits for speech after mercy has opened the room.
 
 The heart that calls you is patient enough to wait for restored speech. Genesis 45:15 shows Joseph's affection widening beyond Benjamin to all his brothers. There are tears, signs of peace, and then something simple but enormous: his brothers talk with him.
 
@@ -8752,7 +8752,7 @@ Sometimes the miracle is that the room becomes safe enough to speak.
 
 **Scripture Reference:** Genesis 45:16
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses the news of Joseph's brothers reaching Pharaoh's house and being received with favor because the verse centers on comfort that lets a once-hidden family story come into the open.
+**Context and language lens:** The news of Joseph's brothers reaching Pharaoh's house and being received with favor because the verse centers on comfort that lets a once-hidden family story come into the open.
 
 Love that sends you can bring a hidden story into a wider room. Genesis 45:16 shows the news reaching Pharaoh's house: Joseph's brothers have come. The response is not contempt. Pharaoh and his servants are pleased.
 
@@ -8782,7 +8782,7 @@ God can make room for a story you thought had to stay hidden.
 
 **Scripture Reference:** Genesis 45:17
 
-**Production lens correction:** The architecture assigned `raḥamim`; the production lens uses Pharaoh's instruction to load the animals and return to Canaan because the verse centers on protective compassion that becomes practical movement toward provision.
+**Context and language lens:** Pharaoh's instruction to load the animals and return to Canaan because the verse centers on protective compassion that becomes practical movement toward provision.
 
 Covenant mercy often becomes a command to move toward provision. Genesis 45:17 shows Pharaoh telling Joseph to instruct his brothers to load their animals and go back to the land of Canaan. Mercy is no longer only spoken in the palace. It is being organized for the road.
 
@@ -8812,7 +8812,7 @@ Mercy may arrive as the strength to move toward what God is sending.
 
 **Scripture Reference:** Genesis 45:20
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses the instruction not to be concerned about goods because the best of Egypt will be available because the verse centers on peace that releases clutching when provision is promised.
+**Context and language lens:** The instruction not to be concerned about goods because the best of Egypt will be available because the verse centers on peace that releases clutching when provision is promised.
 
 The Father's welcome can loosen the hand that is afraid to leave anything behind. Genesis 45:20 carries an instruction not to be concerned about household goods, because the best of the land will be available. This is not carelessness. It is peace rooted in provision.
 
@@ -8842,7 +8842,7 @@ Peace begins to rise when promise becomes safer than possession.
 
 **Scripture Reference:** Genesis 45:21
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses Joseph giving wagons and provisions according to Pharaoh's command because the verse centers on being personally known through the practical care needed for the journey.
+**Context and language lens:** Joseph giving wagons and provisions according to Pharaoh's command because the verse centers on being personally known through the practical care needed for the journey.
 
 Beloved identity is refined when care becomes concrete. Genesis 45:21 shows the sons of Israel doing what was commanded, and Joseph giving them wagons and provisions for the way. The love in the story is not vague. It has wheels, food, and a route home.
 
@@ -8872,7 +8872,7 @@ On this Sabbath, beloved identity can rest enough to receive care for the way.
 
 **Scripture Reference:** Genesis 45:22
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Joseph giving garments to each brother and a larger gift to Benjamin because the verse centers on hope that can receive restoration without turning blessing into comparison.
+**Context and language lens:** Joseph giving garments to each brother and a larger gift to Benjamin because the verse centers on hope that can receive restoration without turning blessing into comparison.
 
 Eternal hope begins where grace covers what performance cannot repair. Genesis 45:22 shows Joseph giving garments to each brother, and giving Benjamin an additional gift of silver and garments. After the history this family carries, clothing becomes more than an object. It is a sign that shame will not be the final covering.
 
@@ -8902,7 +8902,7 @@ Grace is not fragile because another person is also blessed.
 
 **Scripture Reference:** Genesis 45:24
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses Joseph sending his brothers away with a warning not to quarrel on the road because the verse centers on comfort that protects the journey from old accusation.
+**Context and language lens:** Joseph sending his brothers away with a warning not to quarrel on the road because the verse centers on comfort that protects the journey from old accusation.
 
 Mercy in the morning may sound like a warning for the road. Genesis 45:24 shows Joseph sending his brothers away and telling them not to quarrel along the way. The family has received provision, but the journey home still carries old pressure.
 
@@ -8932,7 +8932,7 @@ Do not let old accusation steal the road mercy has opened.
 
 **Scripture Reference:** Genesis 45:28
 
-**Production lens correction:** The architecture assigned `raḥamim`; the production lens uses Israel receiving enough hope to go see Joseph before he dies because the verse centers on tender compassion that revives desire after long grief.
+**Context and language lens:** Israel receiving enough hope to go see Joseph before he dies because the verse centers on tender compassion that revives desire after long grief.
 
 The Father's patience can revive desire after grief has lived a long time. Genesis 45:28 gives Israel's response when the truth finally reaches him: Joseph is still alive, and he will go see him before he dies.
 
@@ -8965,7 +8965,7 @@ Hope can rise slowly and still be real.
 
 **Scripture Reference:** Genesis 50:3
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses the extended mourning for Jacob because the verse centers on peace that makes room for grief instead of demanding that the heart hurry past it.
+**Context and language lens:** The extended mourning for Jacob because the verse centers on peace that makes room for grief instead of demanding that the heart hurry past it.
 
 Eternal hope does not rush grief out of the room. Genesis 50:3 shows Jacob's death being treated with time, care, and public mourning. The sorrow is not dismissed as weakness. It is given space.
 
@@ -8995,7 +8995,7 @@ Hope can rise gently and still be strong.
 
 **Scripture Reference:** Genesis 50:9
 
-**Production lens correction:** The architecture assigned `yadaʿ`; the production lens uses the large company traveling with Joseph because the verse centers on grief being relationally known and carried with visible honor.
+**Context and language lens:** The large company traveling with Joseph because the verse centers on grief being relationally known and carried with visible honor.
 
 Restoring compassion knows when sorrow should not travel alone. Genesis 50:9 shows Joseph accompanied by a great company on the way to bury his father. This grief is not hidden in a corner. It is surrounded, witnessed, and carried with dignity.
 
@@ -9025,7 +9025,7 @@ Compassion becomes restoring when it carries without controlling.
 
 **Scripture Reference:** Genesis 50:12
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Jacob's sons doing what he commanded because the verse centers on hope strengthened through faithful follow-through after a promise has been entrusted.
+**Context and language lens:** Jacob's sons doing what he commanded because the verse centers on hope strengthened through faithful follow-through after a promise has been entrusted.
 
 Some promises are honored one obedient step at a time. Genesis 50:12 shows Jacob's sons doing what their father had commanded. The emotion of the moment does not replace faithfulness. Love follows through.
 
@@ -9055,7 +9055,7 @@ The promise that holds you can also teach you how to hold your word.
 
 **Scripture Reference:** Genesis 50:13
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses Jacob's burial in the promised burial place because the verse centers on comfort that carries grief into covenant memory instead of leaving sorrow rootless.
+**Context and language lens:** Jacob's burial in the promised burial place because the verse centers on comfort that carries grief into covenant memory instead of leaving sorrow rootless.
 
 The heart that calls you knows how to bring grief home. Genesis 50:13 shows Jacob's sons carrying him to the land of Canaan and burying him in the family burial place. This is not a random ending. It is sorrow being placed inside covenant memory.
 
@@ -9085,7 +9085,7 @@ On this Sabbath, let grief rest where God's faithfulness can hold it.
 
 **Scripture Reference:** Genesis 50:18
 
-**Production lens correction:** The architecture assigned `raḥamim`; the production lens uses Joseph's brothers approaching in fear and submission because the verse centers on protective compassion meeting old guilt without letting fear become the only language left.
+**Context and language lens:** Joseph's brothers approaching in fear and submission because the verse centers on protective compassion meeting old guilt without letting fear become the only language left.
 
 Love may have to teach you how to stand where fear has trained you to bow. Genesis 50:18 shows Joseph's brothers coming before him in a posture shaped by guilt and fear. The old wound is not gone simply because the family has moved through a funeral.
 
@@ -9115,7 +9115,7 @@ Compassion can teach the bowed heart how to stand again.
 
 **Scripture Reference:** Genesis 50:19
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses Joseph refusing to take God's place because the verse centers on peace that restores order by refusing revenge, fear, and false authority.
+**Context and language lens:** Joseph refusing to take God's place because the verse centers on peace that restores order by refusing revenge, fear, and false authority.
 
 Covenant mercy awakens when the heart refuses to sit in God's chair. Genesis 50:19 shows Joseph answering fear without claiming the right to become judge over what belongs to God. His response creates peace because it restores the right order.
 
@@ -9145,7 +9145,7 @@ Peace begins when God is allowed to be God again.
 
 **Scripture Reference:** Genesis 50:20
 
-**Production lens correction:** The architecture assigned `yadaʿ`; the production lens uses Joseph naming both human harm and God's preserving purpose because the verse centers on relational knowing that tells the truth without letting evil own the final meaning.
+**Context and language lens:** Joseph naming both human harm and God's preserving purpose because the verse centers on relational knowing that tells the truth without letting evil own the final meaning.
 
 The Father's welcome does not require you to call evil good. Genesis 50:20 is one of the strongest places in Joseph's story because it holds two truths together: real harm was intended, and God worked with preserving purpose beyond the harm.
 
@@ -9178,7 +9178,7 @@ The Father can redeem meaning without denying pain.
 
 **Scripture Reference:** Genesis 50:23
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Joseph seeing later generations because the verse centers on hope strengthened across time, family, and promise.
+**Context and language lens:** Joseph seeing later generations because the verse centers on hope strengthened across time, family, and promise.
 
 Beloved identity can become strong enough to bless what you may not fully finish. Genesis 50:23 shows Joseph living to see later generations. His story has carried betrayal, exile, promotion, famine, reunion, grief, and mercy. Now hope reaches forward through children and grandchildren.
 
@@ -9208,7 +9208,7 @@ Some blessings are not finished in your hands, but they may still pass through t
 
 **Scripture Reference:** Genesis 50:24
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses Joseph's confidence that God will surely visit His people because the verse centers on comfort that breathes courage into a future Joseph will not personally manage.
+**Context and language lens:** Joseph's confidence that God will surely visit His people because the verse centers on comfort that breathes courage into a future Joseph will not personally manage.
 
 Love that finds you can speak hope even at the edge of goodbye. Genesis 50:24 shows Joseph facing death while pointing his family toward God's future visit and deliverance. His body is weakening, but his hope is not empty.
 
@@ -9238,7 +9238,7 @@ Love finds what human control cannot hold.
 
 **Scripture Reference:** Genesis 50:25
 
-**Production lens correction:** The architecture assigned `rachamim`; the production lens uses Joseph's request concerning his bones because the verse centers on protective mercy that entrusts a future witness to the community without turning hope into performance.
+**Context and language lens:** Joseph's request concerning his bones because the verse centers on protective mercy that entrusts a future witness to the community without turning hope into performance.
 
 Grace before performance can still ask for faithful remembrance. Genesis 50:25 shows Joseph binding Israel's future hope to a concrete request: when God visits, his bones are not to be left behind. Hope receives a witness.
 
@@ -9268,7 +9268,7 @@ God's promise can be carried without being forced.
 
 **Scripture Reference:** Genesis 50:26
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses Joseph's death and temporary resting place in Egypt because the verse centers on peace that can hold an unfinished story without surrendering the promise.
+**Context and language lens:** Joseph's death and temporary resting place in Egypt because the verse centers on peace that can hold an unfinished story without surrendering the promise.
 
 Mercy in the morning can meet a story that is not finished yet. Genesis 50:26 closes Joseph's earthly life with his body placed in Egypt. The promise has not yet reached its visible destination. The people are still waiting.
 
@@ -9298,7 +9298,7 @@ On this Sabbath, let mercy teach you to rest with an unfinished promise.
 
 **Scripture Reference:** Exodus 3:2
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses the burning bush that is not consumed because the verse centers on God personally drawing near in a way that reveals presence without destroying the place He touches.
+**Context and language lens:** The burning bush that is not consumed because the verse centers on God personally drawing near in a way that reveals presence without destroying the place He touches.
 
 The Father's patience can appear as fire that does not consume. Exodus 3:2 moves the story from Joseph's waiting into Moses' encounter. The bush burns, yet it is not burned up. God is drawing near with holy attention.
 
@@ -9328,7 +9328,7 @@ Holy fire can reveal mercy as well as power.
 
 **Scripture Reference:** Exodus 3:3
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Moses turning aside to see the bush because the verse centers on hope that pauses, turns, and waits long enough to behold what God is revealing.
+**Context and language lens:** Moses turning aside to see the bush because the verse centers on hope that pauses, turns, and waits long enough to behold what God is revealing.
 
 Love stronger than fear may begin with turning aside. Exodus 3:3 shows Moses choosing to stop and see why the bush is not burned. He could have kept moving. Instead, he gives attention to the wonder in front of him.
 
@@ -9358,7 +9358,7 @@ The holy thing you notice may become the place where God speaks.
 
 **Scripture Reference:** Exodus 3:5
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses God's command to remove sandals on holy ground because the verse centers on comfort that restores reverence before calling moves forward.
+**Context and language lens:** God's command to remove sandals on holy ground because the verse centers on comfort that restores reverence before calling moves forward.
 
 Restoring compassion begins by honoring holy ground. Exodus 3:5 shows God setting a boundary before the conversation continues. Moses is told not to come closer casually, and to remove his sandals because the place is holy.
 
@@ -9391,7 +9391,7 @@ Grace does not make holy things casual. It makes holy ground a place where the c
 
 **Scripture Reference:** Exodus 3:7
 
-**Production lens correction:** The architecture assigned `rachamim`; the production lens uses God's seeing, hearing, and knowing Israel's affliction because the verse centers on tender compassion that does not look away from suffering.
+**Context and language lens:** God's seeing, hearing, and knowing Israel's affliction because the verse centers on tender compassion that does not look away from suffering.
 
 The promise that holds begins with a God who sees. Exodus 3:7 brings Israel's suffering into the open before Moses is given an assignment. God names the affliction, hears the cry, and knows the sorrow of His people.
 
@@ -9421,7 +9421,7 @@ God's mercy sees what suffering tries to hide.
 
 **Scripture Reference:** Exodus 3:8
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses God's promise to come down, deliver, and bring His people into a spacious future because the verse centers on peace that restores what bondage scattered.
+**Context and language lens:** God's promise to come down, deliver, and bring His people into a spacious future because the verse centers on peace that restores what bondage scattered.
 
 The heart that calls you is also the heart that comes down. Exodus 3:8 moves from God's compassion to God's intention: He will deliver His people and bring them forward. The promise is not only rescue from oppression; it is movement toward life.
 
@@ -9451,7 +9451,7 @@ The Father can make room where pressure taught you to expect walls.
 
 **Scripture Reference:** Exodus 3:9
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses the cry of Israel coming before God and His awareness of oppression because the verse centers on personal knowledge that precedes faithful action.
+**Context and language lens:** The cry of Israel coming before God and His awareness of oppression because the verse centers on personal knowledge that precedes faithful action.
 
 Love that sends you first teaches you to rest in being known. Exodus 3:9 repeats that Israel's cry has come before God. The oppression is not abstract to Him. The suffering of His people has reached His attention with personal weight.
 
@@ -9481,7 +9481,7 @@ You can rest because God knows what He is asking and who He is sending.
 
 **Scripture Reference:** Exodus 3:10
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses God's command to send Moses because the verse centers on hope that has waited under tension and now receives a holy push toward deliverance.
+**Context and language lens:** God's command to send Moses because the verse centers on hope that has waited under tension and now receives a holy push toward deliverance.
 
 Covenant mercy can wake a waiting heart into movement. Exodus 3:10 turns the encounter toward assignment. God has seen, heard, known, and promised. Now Moses is being sent into the deliverance story.
 
@@ -9511,7 +9511,7 @@ On this Sabbath, let covenant mercy wake you without making you frantic.
 
 **Scripture Reference:** Exodus 3:11
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses Moses' question about his own inadequacy because the verse centers on comfort that breathes courage into a called heart that feels too small.
+**Context and language lens:** Moses' question about his own inadequacy because the verse centers on comfort that breathes courage into a called heart that feels too small.
 
 The Father's welcome can meet the question beneath your courage. Exodus 3:11 shows Moses looking at the assignment and feeling the gap between the call and himself. The fire has not erased his humanity.
 
@@ -9541,7 +9541,7 @@ Your weakness can speak, but it does not get the final word.
 
 **Scripture Reference:** Exodus 3:12
 
-**Production lens correction:** The architecture assigned `rachamim`; the production lens uses God's promised presence with Moses because the verse centers on protective compassion that answers identity anxiety with nearness.
+**Context and language lens:** God's promised presence with Moses because the verse centers on protective compassion that answers identity anxiety with nearness.
 
 Beloved identity comes home when God's presence becomes the answer. Exodus 3:12 does not answer Moses by giving him a resume. God answers by promising to be with him.
 
@@ -9571,7 +9571,7 @@ The promise of presence is not a small answer. It is the foundation.
 
 **Scripture Reference:** Exodus 3:14
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses God's self-revelation to Moses because the verse centers on wholeness and peace grounded in who God is, not in shifting circumstances.
+**Context and language lens:** God's self-revelation to Moses because the verse centers on wholeness and peace grounded in who God is, not in shifting circumstances.
 
 Love that finds you is anchored in the God who is. Exodus 3:14 brings Moses into the mystery of God's self-revelation. The name is not a slogan for control. It is holy ground for trust.
 
@@ -9604,7 +9604,7 @@ The love that finds you is rooted in the God who remains.
 
 **Scripture Reference:** Exodus 3:17
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses God's promised movement from affliction into a land of provision because the verse centers on personal knowledge that leads to faithful deliverance, not religious self-measuring.
+**Context and language lens:** God's promised movement from affliction into a land of provision because the verse centers on personal knowledge that leads to faithful deliverance, not religious self-measuring.
 
 Grace speaks before performance can start bargaining. Exodus 3:17 carries the Father's promise forward: He has seen affliction, and He intends to bring His people up from it. This is not Moses inventing a rescue plan to prove his usefulness. This is God naming what He will do.
 
@@ -9634,7 +9634,7 @@ The Father's promise is stronger than the pressure to perform.
 
 **Scripture Reference:** Exodus 3:18
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses God's instruction that His people speak truthfully before Pharaoh because the verse centers on hope strengthened enough to ask, wait, and obey under pressure.
+**Context and language lens:** God's instruction that His people speak truthfully before Pharaoh because the verse centers on hope strengthened enough to ask, wait, and obey under pressure.
 
 Mercy gives the heart language for the morning. Exodus 3:18 moves from promise into witness. Moses and the elders are told what to say. Their speech is not meant to manipulate Pharaoh. It is meant to carry the truth of God's call with reverence.
 
@@ -9664,7 +9664,7 @@ Let your morning words be fed by the mercy that found you.
 
 **Scripture Reference:** Exodus 3:19
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses God's honest warning that Pharaoh will not release Israel easily because the verse centers on comfort that gives courage without pretending resistance is small.
+**Context and language lens:** God's honest warning that Pharaoh will not release Israel easily because the verse centers on comfort that gives courage without pretending resistance is small.
 
 The Father's patience does not require denial. Exodus 3:19 tells Moses that Pharaoh will not let the people go except by a mighty hand. God does not hide the hardness ahead. He names it before Moses faces it.
 
@@ -9694,7 +9694,7 @@ God can name the resistance and still keep the promise.
 
 **Scripture Reference:** Exodus 3:20
 
-**Production lens correction:** The architecture assigned `rachamim`; the production lens uses God's promise to stretch out His hand and strike Egypt with wonders because the verse centers on protective compassion that acts for the oppressed without losing holiness.
+**Context and language lens:** God's promise to stretch out His hand and strike Egypt with wonders because the verse centers on protective compassion that acts for the oppressed without losing holiness.
 
 Love stronger than fear is not sentimental. Exodus 3:20 reveals the Father's protective action. God will stretch out His hand. He will act with wonders. The oppression of His people will not be treated as a small thing.
 
@@ -9724,7 +9724,7 @@ On this Sabbath, let God's protective compassion become larger in your imaginati
 
 **Scripture Reference:** Exodus 3:21
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses God's promise of favor before the Egyptians because the verse centers on restored wholeness after a long season of being diminished.
+**Context and language lens:** God's promise of favor before the Egyptians because the verse centers on restored wholeness after a long season of being diminished.
 
 Restoring compassion can return dignity to places that were treated as expendable. Exodus 3:21 says God will give His people favor before the Egyptians. The exit from bondage will not be empty. The people who were diminished will not be dismissed as worthless.
 
@@ -9754,7 +9754,7 @@ God's peace can return weight to a life that pressure made thin.
 
 **Scripture Reference:** Exodus 3:22
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses God's detailed provision through Israelite households because the verse centers on known needs, communal obedience, and a promise that holds the future practically.
+**Context and language lens:** God's detailed provision through Israelite households because the verse centers on known needs, communal obedience, and a promise that holds the future practically.
 
 The promise that holds reaches into ordinary households. Exodus 3:22 speaks of women asking neighbors for articles of silver, gold, and clothing. Deliverance is not kept vague. God attends to what His people will need as they leave.
 
@@ -9784,7 +9784,7 @@ The promise that holds is detailed enough for the journey.
 
 **Scripture Reference:** Exodus 15:1
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the song after deliverance because the verse opens December's Daily Surrender arc with the heart learning to respond to salvation through worship and formed courage.
+**Context and language lens:** The song after deliverance because the verse opens December's Daily Surrender arc with the heart learning to respond to salvation through worship and formed courage.
 
 Love that sends you also teaches you to sing. Exodus 15:1 begins the song after deliverance. The people who were trapped between Pharaoh and the sea now have a testimony rising from the other side.
 
@@ -9817,7 +9817,7 @@ The heart that remembers deliverance can move into the day with worship in its b
 
 **Scripture Reference:** Exodus 15:3
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses the Lord's revealed strength in the victory song because the verse centers on covenant mercy that protects His people when deliverance has been costly.
+**Context and language lens:** The Lord's revealed strength in the victory song because the verse centers on covenant mercy that protects His people when deliverance has been costly.
 
 Covenant mercy is not weak love. Exodus 15:3 sings of the Lord as the One who fights for His people. The song rises after the sea has opened, after fear has been answered, and after the oppressed have seen that Pharaoh's power is not the final word.
 
@@ -9847,7 +9847,7 @@ The Father is faithful enough to defend what His love has claimed.
 
 **Scripture Reference:** Exodus 15:4
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses the defeat of Pharaoh's chariots because the verse shows chosen love moving toward God's people and breaking the machinery that tried to keep them enslaved.
+**Context and language lens:** The defeat of Pharaoh's chariots because the verse shows chosen love moving toward God's people and breaking the machinery that tried to keep them enslaved.
 
 The Father's welcome is not fragile. Exodus 15:4 remembers the chariots and captains that were thrown into the sea. The instruments of oppression looked organized, armed, and certain. Yet the Lord's love moved toward His people with power greater than Pharaoh's confidence.
 
@@ -9877,7 +9877,7 @@ The love of the Father is stronger than the systems that tried to claim you.
 
 **Scripture Reference:** Exodus 15:5
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses the image of the depths covering the pursuers because the verse points to redemption as the Lord removing what threatened the identity and freedom of His people.
+**Context and language lens:** The image of the depths covering the pursuers because the verse points to redemption as the Lord removing what threatened the identity and freedom of His people.
 
 Beloved identity is not built by denying what pursued you. Exodus 15:5 remembers the depths covering the force that chased Israel. The song does not pretend danger was imagined. It testifies that God dealt with what His people could not outrun in their own strength.
 
@@ -9907,7 +9907,7 @@ The Redeemer's nearness gives the beloved heart a place to stand.
 
 **Scripture Reference:** Exodus 15:6
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses the Lord's right hand displayed in power because the verse centers on God's faithful strength steadying His people after deliverance.
+**Context and language lens:** The Lord's right hand displayed in power because the verse centers on God's faithful strength steadying His people after deliverance.
 
 Peace leads differently when it has seen God's faithfulness. Exodus 15:6 praises the Lord's right hand as glorious in power. This is not human strength dressed in spiritual language. It is the song of people learning that God's faithful arm can do what their anxious hands could not.
 
@@ -9939,7 +9939,7 @@ The faithful God can lead your rest before He sends your work.
 
 **Scripture Reference:** Exodus 15:7
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the Lord overthrowing rising opposition because the verse centers on the heart learning grace before it tries to prove strength against what resists God.
+**Context and language lens:** The Lord overthrowing rising opposition because the verse centers on the heart learning grace before it tries to prove strength against what resists God.
 
 Grace before performance is not passivity. Exodus 15:7 remembers opposition rising and the Lord overthrowing it. The song does not honor self-made strength. It honors the God whose greatness is not threatened by what stands against Him.
 
@@ -9969,7 +9969,7 @@ The Father forms surrendered hearts by grace before He sends them into action.
 
 **Scripture Reference:** Exodus 15:9
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses the enemy's boastful pursuit because the verse contrasts the loud claims of oppression with covenant mercy that gives God's people a steadier morning word.
+**Context and language lens:** The enemy's boastful pursuit because the verse contrasts the loud claims of oppression with covenant mercy that gives God's people a steadier morning word.
 
 Mercy has to become louder than the voice that chases you. Exodus 15:9 remembers the enemy saying, "I will pursue." The boast is full of appetite, control, and confidence. It is the sound of power imagining that desire is the same thing as authority.
 
@@ -9999,7 +9999,7 @@ Let mercy become the morning sound your obedience follows.
 
 **Scripture Reference:** Exodus 15:10
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses the Lord's breath and the sea covering the enemy because the verse centers on chosen love that acts in holy timing and teaches the beloved to stand without forcing the outcome.
+**Context and language lens:** The Lord's breath and the sea covering the enemy because the verse centers on chosen love that acts in holy timing and teaches the beloved to stand without forcing the outcome.
 
 The Father's patience is not weakness. Exodus 15:10 remembers the Lord's breath moving and the sea covering the enemy. Deliverance had timing. Israel stood where they could not save themselves, and God acted with power no human hand could force.
 
@@ -10032,7 +10032,7 @@ The Father's chosen love knows how to act without being rushed by fear.
 
 **Scripture Reference:** Exodus 15:11
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses the song's vision of God's unmatched holiness because the verse centers on redemption that begins with who God is before it asks the heart to face fear.
+**Context and language lens:** The song's vision of God's unmatched holiness because the verse centers on redemption that begins with who God is before it asks the heart to face fear.
 
 Fear loses authority when the heart beholds the Lord clearly. Exodus 15:11 lifts the eyes above Pharaoh, above the sea, above every trembling memory, and above every lesser power. The song does not begin this moment by measuring Israel's courage. It begins by magnifying God's holiness.
 
@@ -10062,7 +10062,7 @@ The Redeemer's nearness makes fear answer to a higher glory.
 
 **Scripture Reference:** Exodus 15:12
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses the Lord's outstretched hand because the verse centers on faithful power that restores safety after oppression has tried to swallow peace.
+**Context and language lens:** The Lord's outstretched hand because the verse centers on faithful power that restores safety after oppression has tried to swallow peace.
 
 Restoring compassion is not fragile. Exodus 15:12 remembers the Lord's hand stretched out and the threat removed. The image is strong, but the pastoral center is not revenge. It is the faithfulness of God making space for His people to breathe.
 
@@ -10092,7 +10092,7 @@ The faithful hand of God can restore peace where pressure made the heart feel cr
 
 **Scripture Reference:** Exodus 15:14
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the nations hearing of God's deliverance because the verse centers on the heart learning to follow the promise while surrounding powers react.
+**Context and language lens:** The nations hearing of God's deliverance because the verse centers on the heart learning to follow the promise while surrounding powers react.
 
 The promise that holds does not need the world to feel calm before it can be trusted. Exodus 15:14 shows the report of God's deliverance moving outward. Other peoples hear and tremble. The song is honest: when God delivers, the surrounding powers are not always peaceful observers.
 
@@ -10122,7 +10122,7 @@ The Father's promise can hold your heart even when the atmosphere trembles.
 
 **Scripture Reference:** Exodus 15:15
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses the fear of surrounding leaders because the verse centers on covenant love calling God's people to rest under His authority instead of absorbing the fear around them.
+**Context and language lens:** The fear of surrounding leaders because the verse centers on covenant love calling God's people to rest under His authority instead of absorbing the fear around them.
 
 The heart that calls you is steadier than the fear around you. Exodus 15:15 names leaders and peoples who are dismayed by what God has done. The atmosphere surrounding deliverance is not neutral. Fear moves through the region, but fear does not get to shepherd God's people.
 
@@ -10154,7 +10154,7 @@ The Father's steadfast love can quiet what the surrounding world stirred up.
 
 **Scripture Reference:** Exodus 15:16
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses God's people passing through because the verse centers on chosen love sending the beloved forward while fear loses its right to control the crossing.
+**Context and language lens:** God's people passing through because the verse centers on chosen love sending the beloved forward while fear loses its right to control the crossing.
 
 Love that sends you does not wait for fear to become polite. Exodus 15:16 remembers dread falling on the surrounding powers while God's people pass through. The movement belongs to the Lord. His people are not sent because the path feels emotionally easy. They are sent because chosen love is leading them.
 
@@ -10184,7 +10184,7 @@ The love that claims you also gives courage for the next faithful crossing.
 
 **Scripture Reference:** Exodus 15:17
 
-**Production lens correction:** The architecture title uses a refining image; the production lens uses God's promise to bring, plant, and establish His people because the verse centers on redemption that makes a home with God.
+**Context and language lens:** The architecture title uses a refining image; this lens uses God's promise to bring, plant, and establish His people because the verse centers on redemption that makes a home with God.
 
 Covenant mercy is not only rescue from what was behind. Exodus 15:17 looks forward to being brought in, planted, and established in the place God prepares. Deliverance has a destination. The Redeemer does not free His people only to leave them wandering without belonging.
 
@@ -10214,7 +10214,7 @@ The God who rescues also knows where love is meant to take root.
 
 **Scripture Reference:** Exodus 15:18
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses the Lord's eternal reign because the verse centers on faithfulness that outlasts every temporary power and gives the beloved heart a home.
+**Context and language lens:** The Lord's eternal reign because the verse centers on faithfulness that outlasts every temporary power and gives the beloved heart a home.
 
 The Father's welcome rests under a kingdom that does not expire. Exodus 15:18 closes this movement of the song by confessing the Lord's reign forever. Pharaoh's power had an ending. The sea had an ending. The chase had an ending. The Lord's reign does not.
 
@@ -10247,7 +10247,7 @@ The Father's welcome is secure because His reign is faithful forever.
 
 **Scripture Reference:** Exodus 15:19
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Israel walking on dry ground while Pharaoh's forces are covered because the verse centers on the heart learning identity from God's deliverance rather than from the threat that pursued it.
+**Context and language lens:** Israel walking on dry ground while Pharaoh's forces are covered because the verse centers on the heart learning identity from God's deliverance rather than from the threat that pursued it.
 
 Beloved identity is practiced after deliverance, not only before it. Exodus 15:19 remembers the same sea holding two different stories. What tried to destroy God's people was judged, and the children of Israel walked through on dry ground. The verse does not ask Israel to prove who they are. It shows what the Lord has done for them.
 
@@ -10277,7 +10277,7 @@ The heart learns identity by remembering where God has already made a way.
 
 **Scripture Reference:** Exodus 15:20
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Miriam leading embodied worship because the verse centers on covenant love finding the community after deliverance and giving fear a faithful response.
+**Context and language lens:** Miriam leading embodied worship because the verse centers on covenant love finding the community after deliverance and giving fear a faithful response.
 
 Love that finds you may put a song back in your hands. Exodus 15:20 shows Miriam, the prophetess, leading the women with timbrels and movement after the sea. The deliverance has not become private information. It becomes shared worship.
 
@@ -10307,7 +10307,7 @@ The Father can find you after fear and teach your whole life to answer with prai
 
 **Scripture Reference:** Exodus 15:21
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Miriam's answered song because the verse centers on chosen love giving the people a response rooted in God's victory before their next performance.
+**Context and language lens:** Miriam's answered song because the verse centers on chosen love giving the people a response rooted in God's victory before their next performance.
 
 Grace before performance sounds like worship before striving. Exodus 15:21 shows Miriam answering the people with a call to sing to the Lord because He has acted with power. The response begins with what God has done, not with what Israel must now prove.
 
@@ -10337,7 +10337,7 @@ The Father's love gives the heart a song before it gives the heart an assignment
 
 **Scripture Reference:** Exodus 15:22
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses the three days in the wilderness without water because the verse centers on redemption staying near when the delivered heart faces thirst, delay, and need.
+**Context and language lens:** The three days in the wilderness without water because the verse centers on redemption staying near when the delivered heart faces thirst, delay, and need.
 
 Mercy in the morning is needed even after a miracle. Exodus 15:22 moves quickly from the Red Sea into the wilderness. The people travel three days and find no water. Deliverance has been real, but the next need is also real.
 
@@ -10367,7 +10367,7 @@ Sabbath mercy gives the heart room to breathe before need turns into accusation.
 
 **Scripture Reference:** Exodus 15:24
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses the people's question about water because the verse centers on God's faithfulness meeting impatient need without letting complaint become the heart's master.
+**Context and language lens:** The people's question about water because the verse centers on God's faithfulness meeting impatient need without letting complaint become the heart's master.
 
 The Father's patience meets us where need becomes complaint. Exodus 15:24 shows the people asking what they will drink. Their need is real. Their tone is forming. The heart is standing at the place where honest dependence can become murmuring if fear is allowed to lead.
 
@@ -10397,7 +10397,7 @@ The Father's patience steadies need before complaint takes over the conversation
 
 **Scripture Reference:** Exodus 15:25
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Moses crying to the Lord and the bitter water becoming sweet because the verse centers on the heart returning to God with fear, bitterness, and need.
+**Context and language lens:** Moses crying to the Lord and the bitter water becoming sweet because the verse centers on the heart returning to God with fear, bitterness, and need.
 
 Love stronger than fear teaches the heart where to cry first. Exodus 15:25 shows Moses crying to the Lord, and the Lord showing what was needed for the bitter water to become sweet. The text does not make the bitterness imaginary. It shows God meeting it.
 
@@ -10427,7 +10427,7 @@ The Father's love can show a way forward that fear could not see.
 
 **Scripture Reference:** Exodus 15:26
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses the Lord revealing Himself as healer because the verse centers on covenant compassion forming listening, obedience, and restoration without turning love into earned approval.
+**Context and language lens:** The Lord revealing Himself as healer because the verse centers on covenant compassion forming listening, obedience, and restoration without turning love into earned approval.
 
 Restoring compassion does not separate healing from love. Exodus 15:26 reveals the Lord as the One who heals. The verse also calls for listening, right response, and obedience. This is not a bargain where people earn the Father's care. It is covenant compassion teaching the beloved how to live near the Healer.
 
@@ -10460,7 +10460,7 @@ The Lord who heals also teaches the life where healing can take root.
 
 **Scripture Reference:** Exodus 15:27
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses the arrival at Elim because the verse centers on chosen love giving the delivered people a place of provision after wilderness thirst.
+**Context and language lens:** The arrival at Elim because the verse centers on chosen love giving the delivered people a place of provision after wilderness thirst.
 
 The promise that holds may look like a place to sit down and breathe. Exodus 15:27 brings Israel to Elim, where water and shade meet the people after the dry road. The verse is not loud, but it is tender. After thirst, there is provision. After movement, there is a place to camp.
 
@@ -10490,7 +10490,7 @@ The Father's promise holds the heart by providing what the heart could not manuf
 
 **Scripture Reference:** Exodus 19:1
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses the timing of Israel's arrival in the wilderness of Sinai because the verse centers on the Redeemer calling His people forward with purpose after deliverance.
+**Context and language lens:** The timing of Israel's arrival in the wilderness of Sinai because the verse centers on the Redeemer calling His people forward with purpose after deliverance.
 
 The heart that calls you is patient enough to keep leading after the first rescue. Exodus 19:1 marks a new moment in Israel's journey. The people who left Egypt have now come into the wilderness of Sinai. God has not delivered them into aimlessness. He is bringing them toward covenant belonging.
 
@@ -10520,7 +10520,7 @@ The Redeemer who brought you out is faithful to call you near.
 
 **Scripture Reference:** Exodus 19:2
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Israel camping before the mountain because the verse centers on faithful love sending the people into a prepared place of encounter.
+**Context and language lens:** Israel camping before the mountain because the verse centers on faithful love sending the people into a prepared place of encounter.
 
 Love that sends you also knows where to stop you. Exodus 19:2 shows Israel moving from Rephidim into the wilderness of Sinai and camping before the mountain. The people are not merely passing through scenery. They are being positioned for encounter.
 
@@ -10550,7 +10550,7 @@ The Father's faithful love can position you for encounter before it sends you in
 
 **Scripture Reference:** Exodus 19:4
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses God's reminder that He carried His people to Himself because the verse centers on the heart learning covenant mercy before covenant obedience.
+**Context and language lens:** God's reminder that He carried His people to Himself because the verse centers on the heart learning covenant mercy before covenant obedience.
 
 Covenant mercy begins with what God has done. Exodus 19:4 reminds Israel that the Lord acted against Egypt, carried His people, and brought them to Himself. Before any command is given, the Father rehearses grace.
 
@@ -10580,7 +10580,7 @@ Daily surrender on Sabbath is covenant trust before covenant action.
 
 **Scripture Reference:** Exodus 19:5
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses the treasured-possession promise because the verse centers on covenant love inviting obedience from a people already welcomed by God.
+**Context and language lens:** The treasured-possession promise because the verse centers on covenant love inviting obedience from a people already welcomed by God.
 
 The Father's welcome gives obedience a home. Exodus 19:5 calls Israel to listen and keep covenant, but the invitation is held inside belonging. The earth is the Lord's, and yet He names His people as treasured in a particular way. Hope rises when obedience is heard inside welcome instead of fear.
 
@@ -10610,7 +10610,7 @@ The treasured heart can obey with hope because welcome came first.
 
 **Scripture Reference:** Exodus 19:6
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses God's naming of His people as priestly and holy because the verse centers on chosen love giving identity before public vocation.
+**Context and language lens:** God's naming of His people as priestly and holy because the verse centers on chosen love giving identity before public vocation.
 
 Beloved identity is not small. Exodus 19:6 names a people with holy calling. The Lord speaks identity before the people fully understand how to carry it. He is forming a community that belongs to Him and bears witness to Him.
 
@@ -10640,7 +10640,7 @@ The Father names His people so their obedience can carry His presence, not their
 
 **Scripture Reference:** Exodus 19:8
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses the people's response to God's covenant words because the verse centers on redeemed people answering the God who found, carried, and called them.
+**Context and language lens:** The people's response to God's covenant words because the verse centers on redeemed people answering the God who found, carried, and called them.
 
 Love that finds you invites a real response. Exodus 19:8 shows the people answering together. Their words come after God's reminder of deliverance, nearness, treasured belonging, and calling. Response is not the beginning of grace. It is the answer to grace.
 
@@ -10673,7 +10673,7 @@ The Redeemer who finds the heart also teaches the heart how to answer.
 
 **Scripture Reference:** Exodus 19:9
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses God's decision to draw near in the cloud and let the people hear His voice because the verse centers on faithful love steadying trust before deeper obedience.
+**Context and language lens:** God's decision to draw near in the cloud and let the people hear His voice because the verse centers on faithful love steadying trust before deeper obedience.
 
 Grace before performance is not weakness. It is the order of God's heart. Exodus 19:9 shows the Lord preparing His people to hear Him in a way that would establish trust. The people have already answered with a yes, but God does not leave their faith resting only on a human messenger or on the emotion of one moment. He draws near and gives witness.
 
@@ -10703,7 +10703,7 @@ The faithful Father steadies trust before He asks for deeper surrender.
 
 **Scripture Reference:** Exodus 19:10
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses God's command to consecrate the people because the verse centers on the heart being prepared for holy nearness by mercy, not self-cleansing performance.
+**Context and language lens:** God's command to consecrate the people because the verse centers on the heart being prepared for holy nearness by mercy, not self-cleansing performance.
 
 Mercy in the morning teaches the heart how to prepare for God's presence. Exodus 19:10 moves from hearing toward consecration. The Lord calls His people to be set apart and made ready. This is not a cold religious requirement. It is the mercy of a holy God preparing beloved people to draw near rightly.
 

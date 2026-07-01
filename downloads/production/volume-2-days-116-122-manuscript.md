@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 10:37
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' call to supreme allegiance because His Lordship heals loves that have become disordered, fearful, or ultimate.
+**Context and language lens:** Jesus' call to supreme allegiance because His Lordship heals loves that have become disordered, fearful, or ultimate.
 
 The invitation of Jesus is beautiful, but it is not casual. Matthew 10:37 presses into the deepest loves of home and family. Jesus is not teaching coldness. He is revealing that every love becomes safer when He is Lord over it.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting His Lordship make every other love more truthfu
 
 **Scripture Reference:** Matthew 10:39
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Jesus' paradox of losing and finding life because His light exposes self-preservation that keeps the soul from freedom.
+**Context and language lens:** Jesus' paradox of losing and finding life because His light exposes self-preservation that keeps the soul from freedom.
 
 The Shepherd's voice can sound like loss before it feels like life. Matthew 10:39 brings a holy paradox: the life we clutch can slip away, while the life surrendered to Jesus is found.
 
@@ -70,7 +70,7 @@ Walking with Jesus means losing fear's version of life to find the life Christ g
 
 **Scripture Reference:** Matthew 10:42
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' promise about giving a cup of cold water because discipleship becomes visible in small acts of mercy done for His sake.
+**Context and language lens:** Jesus' promise about giving a cup of cold water because discipleship becomes visible in small acts of mercy done for His sake.
 
 The road with Jesus honors small mercy. Matthew 10:42 lifts a cup of cold water into kingdom significance. Jesus sees love that may look ordinary to everyone else.
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting small mercy become part of the road.
 
 **Scripture Reference:** Matthew 10:8
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' command to heal and give freely because saving wholeness received from Christ is meant to move outward as generous mercy.
+**Context and language lens:** Jesus' command to heal and give freely because saving wholeness received from Christ is meant to move outward as generous mercy.
 
 The nearness of Christ is generous. Matthew 10:8 sends disciples into healing work and reminds them that what they have received freely must be given freely. Grace is not meant to stop with the receiver.
 
@@ -126,7 +126,7 @@ Walking with Jesus means freely offering mercy because mercy has freely found us
 
 **Scripture Reference:** Matthew 12:10
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the biblical Sabbath healing question because peace is made whole when mercy is allowed to stand in the middle of scrutiny.
+**Context and language lens:** The biblical Sabbath healing question because peace is made whole when mercy is allowed to stand in the middle of scrutiny.
 
 The way of peace is not intimidated by watchful criticism. Matthew 12:10 places a suffering person in a tense religious setting. A question about healing becomes a test, but Jesus sees the person, not only the pressure.
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting His peace make mercy brave.
 
 **Scripture Reference:** Matthew 12:2
 
-**Production lens correction:** The architecture assigned `hodos`; the production lens uses the biblical Sabbath controversy over hunger and accusation because learning Jesus' voice means discerning mercy from religious suspicion.
+**Context and language lens:** The biblical Sabbath controversy over hunger and accusation because learning Jesus' voice means discerning mercy from religious suspicion.
 
 The healing touch of Jesus begins to teach His voice. Matthew 12:2 shows accusation rising around hungry disciples in a biblical Sabbath context. The issue is not only grain. It is how quickly religious suspicion can speak before mercy listens.
 
@@ -182,7 +182,7 @@ Walking with Jesus means learning His voice until mercy becomes easier to hear.
 
 **Scripture Reference:** Matthew 12:22
 
-**Production lens correction:** The architecture assigned `anastasis`; the production lens uses Jesus' healing of a bound, blind, and mute man because resurrection hope is life rising where finality seemed to speak.
+**Context and language lens:** Jesus' healing of a bound, blind, and mute man because resurrection hope is life rising where finality seemed to speak.
 
 The call to follow listens for life where finality has been loud. Matthew 12:22 shows Jesus healing a man whose suffering had closed sight and speech. The crowd sees what only Christ could make whole.
 

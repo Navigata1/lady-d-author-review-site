@@ -10,11 +10,11 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 333 - November 29
 
-### Return to Cross-Shaped Courage
+### Return to Grateful Remembrance Through Cross-Shaped Courage
 
 **Scripture Reference:** Matthew 10:29
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Jesus' assurance about the small and noticed life because divine compassion sees what people often dismiss.
+**Context and language lens:** Jesus' assurance about the small and noticed life because divine compassion sees what people often dismiss.
 
 Matthew 10:29 brings the reader into the tender precision of God's care. Jesus is not speaking in abstraction. He is teaching His disciples that even what seems small is not overlooked by the Father.
 
@@ -32,17 +32,17 @@ Walking with Jesus means receiving the Father's detailed care until courage rise
 
 **Journal prompt:** What small concern have I dismissed that the Father still sees with care?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Return to Grateful Remembrance Through Cross-Shaped Courage in one faithful step today.
 
 ---
 
 ## Day 334 - November 30
 
-### Yield to Resurrection Hope
+### Yield to Grateful Remembrance Through Resurrection Hope
 
 **Scripture Reference:** Matthew 10:30
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' assurance of God's intimate knowledge because the Teacher forms courage by teaching the reader she is fully known and not forgotten.
+**Context and language lens:** Jesus' assurance of God's intimate knowledge because the Teacher forms courage by teaching the reader she is fully known and not forgotten.
 
 Matthew 10:30 presses God's care even closer. Jesus teaches that the Father knows His children with an intimacy beyond human counting.
 
@@ -60,4 +60,4 @@ Walking with Jesus means yielding to the God who knows you completely and loves 
 
 **Journal prompt:** Where do I need God's intimate knowledge to quiet my need to prove I am not forgotten?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Yield to Grateful Remembrance Through Resurrection Hope in one faithful step today.

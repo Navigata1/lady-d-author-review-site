@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Deuteronomy 31:7
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `chazaq/amats` - be strong and courageous - because the passage speaks directly to courage in a called transition.
+**Context and language lens:** `chazaq/amats` - be strong and courageous - because the passage speaks directly to courage in a called transition.
 
 There are moments when love does not feel like softness. Sometimes love sounds like the Father telling His child, "Stand up. Take courage. I am not finished leading you." Deuteronomy 31:7 comes in a transition moment. Moses speaks to Joshua in front of the people, and the call is not to pretend the future is easy. The call is to move forward because God is faithful.
 
@@ -30,7 +30,7 @@ Today, receive courage as part of surrender. Surrender is not always lying down.
 
 **Journal prompt:** Where have I mistaken fear for humility when God is actually asking me to stand?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Stand in Restoring Compassion into one faithful step today.
 
 ---
 
@@ -40,7 +40,7 @@ Today, receive courage as part of surrender. Surrender is not always lying down.
 
 **Scripture Reference:** Deuteronomy 4:37
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `ahav/bachar` - loved and chose - because the verse emphasizes God's love for the fathers and His choice of their descendants.
+**Context and language lens:** `ahav/bachar` - loved and chose - because the verse emphasizes God's love for the fathers and His choice of their descendants.
 
 Grace is not only what forgives you after failure. Grace is also what holds the story together before you understand the story. Deuteronomy 4:37 points backward to God's love and forward to His faithful action. The people did not invent the promise. They were carried by the promise.
 
@@ -56,7 +56,7 @@ Today, let grace form trust. Do not treat the promise of God as something fragil
 
 **Journal prompt:** What past mercy do I need to remember so I can trust God in the present?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Let Grace Form the Promise That Holds into one faithful step today.
 
 ---
 
@@ -66,7 +66,7 @@ Today, let grace form trust. Do not treat the promise of God as something fragil
 
 **Scripture Reference:** Deuteronomy 6:5
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `levav/ahav` - heart and love - because the passage calls for whole-person love toward God.
+**Context and language lens:** `levav/ahav` - heart and love - because the passage calls for whole-person love toward God.
 
 The Father does not ask for a divided love because He does not give a divided love. Deuteronomy 6:5 calls the whole person toward God: heart, soul, and strength. This is not a narrow religious feeling. It is the whole life turned toward the One who loved first.
 
@@ -82,7 +82,7 @@ This kind of surrender is not legalism. It is love becoming whole. The Father is
 
 **Journal prompt:** What part of my life is easiest to keep religiously separate from God?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Behold the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -92,7 +92,7 @@ This kind of surrender is not legalism. It is love becoming whole. The Father is
 
 **Scripture Reference:** Deuteronomy 7:12
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `shamar/hesed` - keeping and steadfast covenant love - because the verse holds listening, keeping, and covenant mercy together.
+**Context and language lens:** `shamar/hesed` - keeping and steadfast covenant love - because the verse holds listening, keeping, and covenant mercy together.
 
 The Father's love does not only gather you close. It also sends you into faithful living. Deuteronomy 7:12 connects listening, keeping, and covenant mercy. The order matters. Obedience is not a bribe to make God loving. It is the path of a people learning to live inside the love that has already claimed them.
 
@@ -108,7 +108,7 @@ Do not confuse being loved with being left unchanged. The Father loves too deepl
 
 **Journal prompt:** What act of obedience have I resisted because I misunderstood it as pressure instead of love?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Follow Love That Sends You into one faithful step today.
 
 ---
 
@@ -118,7 +118,7 @@ Do not confuse being loved with being left unchanged. The Father loves too deepl
 
 **Scripture Reference:** Deuteronomy 7:13
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `barak/hesed` - blessing held inside covenant love - because the verse emphasizes love, blessing, and multiplication.
+**Context and language lens:** `barak/hesed` - blessing held inside covenant love - because the verse emphasizes love, blessing, and multiplication.
 
 There is a kind of rest that comes from knowing the Father is not stingy with mercy. Deuteronomy 7:13 speaks of love and blessing in covenant language. The heart of the passage is not that God's people can control outcomes by religious precision. The heart is that life under the Father's covenant care is not barren.
 
@@ -134,7 +134,7 @@ The Father is not only interested in what He can put in your hands. He is formin
 
 **Journal prompt:** What blessing have I minimized because it did not look like the answer I expected?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Rest in Covenant Mercy into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ The Father is not only interested in what He can put in your hands. He is formin
 
 **Scripture Reference:** Exodus 15:13
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `hesed/gaal` - steadfast love and redemption - because the verse celebrates redeemed people being led by covenant love.
+**Context and language lens:** `hesed/gaal` - steadfast love and redemption - because the verse celebrates redeemed people being led by covenant love.
 
 The Father's welcome is not sentimental. It is strong enough to lead redeemed people out of bondage and toward His holy purpose. Exodus 15:13 carries the sound of deliverance. The people are not congratulating themselves for escaping. They are singing because steadfast love led them.
 
@@ -160,7 +160,7 @@ If yesterday felt like a battle, begin again here: the Father still leads the re
 
 **Journal prompt:** Where do I need to live more like someone God is actively leading, not merely someone who survived?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Wake Up to the Father's Welcome into one faithful step today.
 
 ---
 
@@ -170,7 +170,7 @@ If yesterday felt like a battle, begin again here: the Father still leads the re
 
 **Scripture Reference:** Exodus 20:6
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `hesed/shamar` - steadfast love and keeping - because the verse joins love for God with faithful keeping of His commandments.
+**Context and language lens:** `hesed/shamar` - steadfast love and keeping - because the verse joins love for God with faithful keeping of His commandments.
 
 Beloved identity is not allergic to holiness. The Father's love does not call you beloved so you can remain untouched by His character. Exodus 20:6 holds love and commandment-keeping together inside covenant mercy. This is not cold religion. It is love with a holy shape.
 
@@ -186,5 +186,4 @@ Let the Father's love refine your identity today. You are not less beloved when 
 
 **Journal prompt:** Where have I confused correction with rejection?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
-
+**Morning impact:** Let the Father's love carry Let Fire Refine Beloved Identity into one faithful step today.

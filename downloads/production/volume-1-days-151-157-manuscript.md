@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 1:14
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `yehi me'orot birqia hashamayim/lehavdil bein hayyom uvein hallaylah/vehayu le'otot ulmo'adim uleyamim veshenim` - let there be lights in the expanse of the heavens to separate day from night, and let them be for signs, appointed times, days, and years - because the verse centers on God ordering time with faithful markers.
+**Context and language lens:** `yehi me'orot birqia hashamayim/lehavdil bein hayyom uvein hallaylah/vehayu le'otot ulmo'adim uleyamim veshenim` - let there be lights in the expanse of the heavens to separate day from night, and let them be for signs, appointed times, days, and years - because the verse centers on God ordering time with faithful markers.
 
 Covenant mercy is not only felt in rescue. It is also seen in the way God orders time. Genesis 1:14 shows the Father setting lights in the heavens to separate day from night and to mark signs, appointed times, days, and years. He is not careless with seasons.
 
@@ -42,7 +42,7 @@ Walk out of this page with courage, tenderness, and clarity. Covenant mercy can 
 
 **Scripture Reference:** Genesis 1:15
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `vehayu lime'orot birqia hashamayim leha'ir al-ha'aretz/vayehi-khen` - let them be lights in the expanse of the heavens to give light upon the earth, and it was so - because the verse centers on appointed light serving the earth by God's command.
+**Context and language lens:** `vehayu lime'orot birqia hashamayim leha'ir al-ha'aretz/vayehi-khen` - let them be lights in the expanse of the heavens to give light upon the earth, and it was so - because the verse centers on appointed light serving the earth by God's command.
 
 Beloved identity rests when it receives light as a gift, not a demand. Genesis 1:15 continues God's word about the lights in the heavens: they are to give light upon the earth. The verse closes with quiet certainty: it was so.
 
@@ -70,7 +70,7 @@ Receive the truth deeply enough that it changes your next decision. You are not 
 
 **Scripture Reference:** Genesis 1:16
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `shenei hame'orot haggedolim/et-hamma'or haggadol lememshelet hayyom/et-hamma'or haqqaton lememshelet hallaylah/ve'et hakkokhavim` - the two great lights, the greater light to govern the day, the lesser light to govern the night, and the stars - because the verse centers on ordered lights with distinct measures and assignments.
+**Context and language lens:** `shenei hame'orot haggedolim/et-hamma'or haggadol lememshelet hayyom/et-hamma'or haqqaton lememshelet hallaylah/ve'et hakkokhavim` - the two great lights, the greater light to govern the day, the lesser light to govern the night, and the stars - because the verse centers on ordered lights with distinct measures and assignments.
 
 Love that finds you does not need every light to carry the same measure. Genesis 1:16 names the greater light for the day, the lesser light for the night, and the stars. There is order, distinction, and beauty without rivalry.
 
@@ -98,7 +98,7 @@ Carry this like bread for the road, not decoration for the shelf. The Father kno
 
 **Scripture Reference:** Genesis 1:17
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `vayitten otam Elohim birqia hashamayim leha'ir al-ha'aretz` - God set them in the expanse of the heavens to give light upon the earth - because the verse centers on God placing the lights where their service can reach the earth.
+**Context and language lens:** `vayitten otam Elohim birqia hashamayim leha'ir al-ha'aretz` - God set them in the expanse of the heavens to give light upon the earth - because the verse centers on God placing the lights where their service can reach the earth.
 
 Grace before performance remembers who does the placing. Genesis 1:17 says God set the lights in the expanse of the heavens to give light upon the earth. Their usefulness begins with His placement, not their self-promotion.
 
@@ -126,7 +126,7 @@ Let this word give your morning a spine and your heart a place to rest. The Fath
 
 **Scripture Reference:** Genesis 1:18
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `velimshol bayyom uvalaylah/ulehavdil bein ha'or uvein hachoshekh/wayyar Elohim ki-tov` - to govern the day and the night, to separate light from darkness, and God saw that it was good - because the verse centers on ordered rule, separation, and God's recognition of goodness.
+**Context and language lens:** `velimshol bayyom uvalaylah/ulehavdil bein ha'or uvein hachoshekh/wayyar Elohim ki-tov` - to govern the day and the night, to separate light from darkness, and God saw that it was good - because the verse centers on ordered rule, separation, and God's recognition of goodness.
 
 Mercy in the morning is not a loose feeling. It has order. Genesis 1:18 says the lights govern day and night, separate light from darkness, and God sees that it is good. The Father knows the difference between mercy and mixture.
 
@@ -154,7 +154,7 @@ The day does not get to name you before God does. Let mercy govern what fear has
 
 **Scripture Reference:** Genesis 1:19
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `vayehi erev/vayehi boqer/yom revi'i` - there was evening, there was morning, the fourth day - because the verse centers on God's completed rhythm and the faithful close of another creation day.
+**Context and language lens:** `vayehi erev/vayehi boqer/yom revi'i` - there was evening, there was morning, the fourth day - because the verse centers on God's completed rhythm and the faithful close of another creation day.
 
 The Father's patience has rhythm. Genesis 1:19 closes the fourth day with the familiar movement: evening, morning, the fourth day. God is not rushing creation to prove He is God. He works with order, boundary, and completion.
 
@@ -182,7 +182,7 @@ Walk out of this page with courage, tenderness, and clarity. Evening and morning
 
 **Scripture Reference:** Genesis 1:20
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `yishretzu hammayim sherets nefesh chayyah/ve'of ye'ofef al-ha'aretz al-penei reqia hashamayim` - let the waters swarm with living beings, and let birds fly above the earth across the expanse of the heavens - because the verse centers on God's command filling waters and sky with living movement.
+**Context and language lens:** `yishretzu hammayim sherets nefesh chayyah/ve'of ye'ofef al-ha'aretz al-penei reqia hashamayim` - let the waters swarm with living beings, and let birds fly above the earth across the expanse of the heavens - because the verse centers on God's command filling waters and sky with living movement.
 
 Love stronger than fear is not lifeless. Genesis 1:20 shows God commanding the waters to teem with living beings and birds to fly above the earth. After light, space, ground, seeds, and ordered days, creation receives movement.
 

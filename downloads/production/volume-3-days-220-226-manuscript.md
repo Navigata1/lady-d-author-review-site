@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 3:13
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the gathering of enemies and the taking of the city of palms. The breath of God is framed as consecrated steadiness when pressure gathers.
+**Context and language lens:** The gathering of enemies and the taking of the city of palms. The breath of God is framed as consecrated steadiness when pressure gathers.
 
 Judges 3:13 shows pressure gathering. Trouble does not always arrive alone; sometimes it comes with alliances, momentum, and visible loss.
 
@@ -42,7 +42,7 @@ The Spirit gives oil for the waiting season by consecrating steadiness under gat
 
 **Scripture Reference:** Judges 3:14
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses Israel's long servitude under Eglon. The Comforter's nearness is framed as settled mercy for long waiting seasons that have not ended quickly.
+**Context and language lens:** Israel's long servitude under Eglon. The Comforter's nearness is framed as settled mercy for long waiting seasons that have not ended quickly.
 
 Judges 3:14 names a long season. The oppression did not lift overnight.
 
@@ -70,7 +70,7 @@ The Spirit gives oil for the waiting season by settling mercy into long enduranc
 
 **Scripture Reference:** Judges 3:15
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Israel crying out and the Lord raising Ehud as deliverer. Holy fire is framed as Spirit-breathed hope through an unexpected instrument.
+**Context and language lens:** Israel crying out and the Lord raising Ehud as deliverer. Holy fire is framed as Spirit-breathed hope through an unexpected instrument.
 
 Judges 3:15 brings the cry for help and God's answer. The Lord raises a deliverer in a way the people may not have scripted.
 
@@ -98,7 +98,7 @@ The Spirit gives oil for the waiting season by breathing hope through unexpected
 
 **Scripture Reference:** Judges 3:16
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Ehud's hidden preparation. Rain for dry places is framed as inward renewal that prepares faithfully before the visible moment arrives.
+**Context and language lens:** Ehud's hidden preparation. Rain for dry places is framed as inward renewal that prepares faithfully before the visible moment arrives.
 
 Judges 3:16 shows preparation before public action. The visible moment is not the whole story.
 
@@ -126,7 +126,7 @@ The Spirit gives oil for the waiting season by renewing hidden preparation.
 
 **Scripture Reference:** Judges 3:17
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Ehud presenting tribute to Eglon. The anointing for today is framed as holy courage for a difficult assignment without performative bravado.
+**Context and language lens:** Ehud presenting tribute to Eglon. The anointing for today is framed as holy courage for a difficult assignment without performative bravado.
 
 Judges 3:17 places Ehud in a difficult assignment. The text is tense, but it does not need embellishment to be serious.
 
@@ -154,7 +154,7 @@ The Spirit gives oil for the waiting season by forming quiet courage for difficu
 
 **Scripture Reference:** Judges 3:18
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Ehud finishing the presentation of tribute and sending the carriers away. The Spirit's fruit is framed as consecrated timing and wise restraint.
+**Context and language lens:** Ehud finishing the presentation of tribute and sending the carriers away. The Spirit's fruit is framed as consecrated timing and wise restraint.
 
 Judges 3:18 shows movement, timing, and restraint. Ehud finishes one part of the assignment before the next part unfolds.
 
@@ -182,7 +182,7 @@ The Spirit gives oil for the waiting season by consecrating timing and restraint
 
 **Scripture Reference:** Judges 3:19
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses Ehud turning back with a message. Power to witness is framed as settled courage to return to an assignment when God gives a word.
+**Context and language lens:** Ehud turning back with a message. Power to witness is framed as settled courage to return to an assignment when God gives a word.
 
 Judges 3:19 shows Ehud turning back. There is a message to deliver, and he returns to the moment.
 

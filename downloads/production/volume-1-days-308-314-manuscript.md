@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 50:3
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses the extended mourning for Jacob because the verse centers on peace that makes room for grief instead of demanding that the heart hurry past it.
+**Context and language lens:** The extended mourning for Jacob because the verse centers on peace that makes room for grief instead of demanding that the heart hurry past it.
 
 Eternal hope does not rush grief out of the room. Genesis 50:3 shows Jacob's death being treated with time, care, and public mourning. The sorrow is not dismissed as weakness. It is given space.
 
@@ -44,7 +44,7 @@ Hope can rise gently and still be strong.
 
 **Scripture Reference:** Genesis 50:9
 
-**Production lens correction:** The architecture assigned `yadaʿ`; the production lens uses the large company traveling with Joseph because the verse centers on grief being relationally known and carried with visible honor.
+**Context and language lens:** The large company traveling with Joseph because the verse centers on grief being relationally known and carried with visible honor.
 
 Restoring compassion knows when sorrow should not travel alone. Genesis 50:9 shows Joseph accompanied by a great company on the way to bury his father. This grief is not hidden in a corner. It is surrounded, witnessed, and carried with dignity.
 
@@ -74,7 +74,7 @@ Compassion becomes restoring when it carries without controlling.
 
 **Scripture Reference:** Genesis 50:12
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Jacob's sons doing what he commanded because the verse centers on hope strengthened through faithful follow-through after a promise has been entrusted.
+**Context and language lens:** Jacob's sons doing what he commanded because the verse centers on hope strengthened through faithful follow-through after a promise has been entrusted.
 
 Some promises are honored one obedient step at a time. Genesis 50:12 shows Jacob's sons doing what their father had commanded. The emotion of the moment does not replace faithfulness. Love follows through.
 
@@ -104,7 +104,7 @@ The promise that holds you can also teach you how to hold your word.
 
 **Scripture Reference:** Genesis 50:13
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses Jacob's burial in the promised burial place because the verse centers on comfort that carries grief into covenant memory instead of leaving sorrow rootless.
+**Context and language lens:** Jacob's burial in the promised burial place because the verse centers on comfort that carries grief into covenant memory instead of leaving sorrow rootless.
 
 The heart that calls you knows how to bring grief home. Genesis 50:13 shows Jacob's sons carrying him to the land of Canaan and burying him in the family burial place. This is not a random ending. It is sorrow being placed inside covenant memory.
 
@@ -134,7 +134,7 @@ On this Sabbath, let grief rest where God's faithfulness can hold it.
 
 **Scripture Reference:** Genesis 50:18
 
-**Production lens correction:** The architecture assigned `raḥamim`; the production lens uses Joseph's brothers approaching in fear and submission because the verse centers on protective compassion meeting old guilt without letting fear become the only language left.
+**Context and language lens:** Joseph's brothers approaching in fear and submission because the verse centers on protective compassion meeting old guilt without letting fear become the only language left.
 
 Love may have to teach you how to stand where fear has trained you to bow. Genesis 50:18 shows Joseph's brothers coming before him in a posture shaped by guilt and fear. The old wound is not gone simply because the family has moved through a funeral.
 
@@ -164,7 +164,7 @@ Compassion can teach the bowed heart how to stand again.
 
 **Scripture Reference:** Genesis 50:19
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses Joseph refusing to take God's place because the verse centers on peace that restores order by refusing revenge, fear, and false authority.
+**Context and language lens:** Joseph refusing to take God's place because the verse centers on peace that restores order by refusing revenge, fear, and false authority.
 
 Covenant mercy awakens when the heart refuses to sit in God's chair. Genesis 50:19 shows Joseph answering fear without claiming the right to become judge over what belongs to God. His response creates peace because it restores the right order.
 
@@ -194,7 +194,7 @@ Peace begins when God is allowed to be God again.
 
 **Scripture Reference:** Genesis 50:20
 
-**Production lens correction:** The architecture assigned `yadaʿ`; the production lens uses Joseph naming both human harm and God's preserving purpose because the verse centers on relational knowing that tells the truth without letting evil own the final meaning.
+**Context and language lens:** Joseph naming both human harm and God's preserving purpose because the verse centers on relational knowing that tells the truth without letting evil own the final meaning.
 
 The Father's welcome does not require you to call evil good. Genesis 50:20 is one of the strongest places in Joseph's story because it holds two truths together: real harm was intended, and God worked with preserving purpose beyond the harm.
 

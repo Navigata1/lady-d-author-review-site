@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 21:38
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the tenants' grasping response to the son because saving wholeness exposes the fear, entitlement, and control that resist rightful ownership.
+**Context and language lens:** The tenants' grasping response to the son because saving wholeness exposes the fear, entitlement, and control that resist rightful ownership.
 
 The table of grace is hard to receive when the heart is grasping for ownership. Matthew 21:38 sits inside a sobering parable. The tenants see the son and begin reasoning from entitlement instead of reverence. Their desire to seize what is not theirs reveals how distorted fear and control can become.
 
@@ -32,7 +32,7 @@ Walking with Jesus means letting His saving grace heal the need to seize what be
 
 **Journal prompt:** Where has control replaced gratitude in the way I hold what God has entrusted to me?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Let Love Teach the Table of Grace in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting His saving grace heal the need to seize what be
 
 **Scripture Reference:** Matthew 21:40
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the vineyard owner's coming because peace includes honest accountability under God's rightful authority.
+**Context and language lens:** The vineyard owner's coming because peace includes honest accountability under God's rightful authority.
 
 The healing touch of Jesus does not remove accountability. Matthew 21:40 asks what will happen when the owner comes. The question is direct. It pulls hidden motives into the light and reminds the hearer that stewardship will be answered for.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting peace become honest before God.
 
 **Journal prompt:** What area of stewardship needs honest review with Jesus today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Awaken the Healing Touch in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting peace become honest before God.
 
 **Scripture Reference:** Matthew 21:6
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the disciples doing what Jesus directed because trusted Lordship becomes visible in simple, ordinary obedience.
+**Context and language lens:** The disciples doing what Jesus directed because trusted Lordship becomes visible in simple, ordinary obedience.
 
 The call to follow is sometimes very plain. Matthew 21:6 shows the disciples doing what Jesus directed. No stage lights. No long explanation. No dramatic speech. Just responsive obedience in an ordinary task that belongs to a larger holy story.
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting His Lordship become visible in simple obedience
 
 **Journal prompt:** What clear step has Jesus already shown me that I need to stop delaying?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Embrace the Call to Follow in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting His Lordship become visible in simple obedience
 
 **Scripture Reference:** Matthew 22:37
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses the greatest-commandment answer because light reveals love for God as the center that orders every ordinary affection and decision.
+**Context and language lens:** The greatest-commandment answer because light reveals love for God as the center that orders every ordinary affection and decision.
 
 Cross-shaped courage begins with ordered love. Matthew 22:37 brings the heart back to the center: love for God with the whole self. Jesus does not reduce faith to fragments. He calls the heart, soul, and mind into surrendered love.
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting love for God become the center that orders ordi
 
 **Journal prompt:** Where is my love divided, and how is Jesus calling it back to God?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Remember Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting love for God become the center that orders ordi
 
 **Scripture Reference:** Matthew 22:42
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' question about the Christ because discipleship must be formed by who Jesus truly is, not by borrowed opinion.
+**Context and language lens:** Jesus' question about the Christ because discipleship must be formed by who Jesus truly is, not by borrowed opinion.
 
 Resurrection hope asks the most important question again: who is the Christ? Matthew 22:42 brings identity to the center. Jesus is not gathering opinions for curiosity. He is pressing the hearers beyond inherited answers into recognition.
 
@@ -144,7 +144,7 @@ Walking with Jesus means following the Christ, not merely repeating an answer ab
 
 **Journal prompt:** Where does my life need to agree more deeply with who Jesus truly is?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Walk in Resurrection Hope in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means following the Christ, not merely repeating an answer ab
 
 **Scripture Reference:** Matthew 22:45
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' question about David calling the Messiah Lord because saving wholeness enlarges a too-small view of Christ.
+**Context and language lens:** Jesus' question about David calling the Messiah Lord because saving wholeness enlarges a too-small view of Christ.
 
 The Friend who leads is greater than our categories. Matthew 22:45 presses the hearers to consider the Messiah as more than they expected. Jesus is not a manageable figure inside human assumptions. He is Lord.
 
@@ -172,7 +172,7 @@ Walking with Jesus means being saved from a too-small Jesus.
 
 **Journal prompt:** Where have I been living with too small a view of Jesus?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Let Peace Lead the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means being saved from a too-small Jesus.
 
 **Scripture Reference:** Matthew 23:1
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus addressing the crowds and disciples before hard teaching because peace receives truth before hypocrisy has time to defend itself.
+**Context and language lens:** Jesus addressing the crowds and disciples before hard teaching because peace receives truth before hypocrisy has time to defend itself.
 
 The light on the path sometimes begins with hard teaching. Matthew 23:1 introduces Jesus speaking to the crowds and His disciples before a searching warning unfolds. He does not reserve truth only for opponents. Those who follow Him must also listen.
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting Sabbath rest make the heart teachable under His
 
 **Journal prompt:** Where is Jesus inviting my public words and private life into deeper agreement?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Choose the Light on the Path in one faithful step today.

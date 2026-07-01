@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 15:11
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses the song's vision of God's unmatched holiness because the verse centers on redemption that begins with who God is before it asks the heart to face fear.
+**Context and language lens:** The song's vision of God's unmatched holiness because the verse centers on redemption that begins with who God is before it asks the heart to face fear.
 
 Fear loses authority when the heart beholds the Lord clearly. Exodus 15:11 lifts the eyes above Pharaoh, above the sea, above every trembling memory, and above every lesser power. The song does not begin this moment by measuring Israel's courage. It begins by magnifying God's holiness.
 
@@ -44,7 +44,7 @@ The Redeemer's nearness makes fear answer to a higher glory.
 
 **Scripture Reference:** Exodus 15:12
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses the Lord's outstretched hand because the verse centers on faithful power that restores safety after oppression has tried to swallow peace.
+**Context and language lens:** The Lord's outstretched hand because the verse centers on faithful power that restores safety after oppression has tried to swallow peace.
 
 Restoring compassion is not fragile. Exodus 15:12 remembers the Lord's hand stretched out and the threat removed. The image is strong, but the pastoral center is not revenge. It is the faithfulness of God making space for His people to breathe.
 
@@ -74,7 +74,7 @@ The faithful hand of God can restore peace where pressure made the heart feel cr
 
 **Scripture Reference:** Exodus 15:14
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the nations hearing of God's deliverance because the verse centers on the heart learning to follow the promise while surrounding powers react.
+**Context and language lens:** The nations hearing of God's deliverance because the verse centers on the heart learning to follow the promise while surrounding powers react.
 
 The promise that holds does not need the world to feel calm before it can be trusted. Exodus 15:14 shows the report of God's deliverance moving outward. Other peoples hear and tremble. The song is honest: when God delivers, the surrounding powers are not always peaceful observers.
 
@@ -104,7 +104,7 @@ The Father's promise can hold your heart even when the atmosphere trembles.
 
 **Scripture Reference:** Exodus 15:15
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses the fear of surrounding leaders because the verse centers on covenant love calling God's people to rest under His authority instead of absorbing the fear around them.
+**Context and language lens:** The fear of surrounding leaders because the verse centers on covenant love calling God's people to rest under His authority instead of absorbing the fear around them.
 
 The heart that calls you is steadier than the fear around you. Exodus 15:15 names leaders and peoples who are dismayed by what God has done. The atmosphere surrounding deliverance is not neutral. Fear moves through the region, but fear does not get to shepherd God's people.
 
@@ -136,7 +136,7 @@ The Father's steadfast love can quiet what the surrounding world stirred up.
 
 **Scripture Reference:** Exodus 15:16
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses God's people passing through because the verse centers on chosen love sending the beloved forward while fear loses its right to control the crossing.
+**Context and language lens:** God's people passing through because the verse centers on chosen love sending the beloved forward while fear loses its right to control the crossing.
 
 Love that sends you does not wait for fear to become polite. Exodus 15:16 remembers dread falling on the surrounding powers while God's people pass through. The movement belongs to the Lord. His people are not sent because the path feels emotionally easy. They are sent because chosen love is leading them.
 
@@ -166,7 +166,7 @@ The love that claims you also gives courage for the next faithful crossing.
 
 **Scripture Reference:** Exodus 15:17
 
-**Production lens correction:** The architecture title uses a refining image; the production lens uses God's promise to bring, plant, and establish His people because the verse centers on redemption that makes a home with God.
+**Context and language lens:** The architecture title uses a refining image; this lens uses God's promise to bring, plant, and establish His people because the verse centers on redemption that makes a home with God.
 
 Covenant mercy is not only rescue from what was behind. Exodus 15:17 looks forward to being brought in, planted, and established in the place God prepares. Deliverance has a destination. The Redeemer does not free His people only to leave them wandering without belonging.
 
@@ -196,7 +196,7 @@ The God who rescues also knows where love is meant to take root.
 
 **Scripture Reference:** Exodus 15:18
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses the Lord's eternal reign because the verse centers on faithfulness that outlasts every temporary power and gives the beloved heart a home.
+**Context and language lens:** The Lord's eternal reign because the verse centers on faithfulness that outlasts every temporary power and gives the beloved heart a home.
 
 The Father's welcome rests under a kingdom that does not expire. Exodus 15:18 closes this movement of the song by confessing the Lord's reign forever. Pharaoh's power had an ending. The sea had an ending. The chase had an ending. The Lord's reign does not.
 

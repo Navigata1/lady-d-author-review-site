@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 6:23
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's word of peace after Gideon's fear. Rain for dry places is framed as inward renewal that receives God's nearness before trying to witness for Him.
+**Context and language lens:** God's word of peace after Gideon's fear. Rain for dry places is framed as inward renewal that receives God's nearness before trying to witness for Him.
 
 Judges 6:23 answers fear with peace. Gideon is not first pushed into public action. He is steadied by God's reassurance.
 
@@ -42,7 +42,7 @@ The Spirit gives power to witness by renewing the heart through God's peace.
 
 **Scripture Reference:** Judges 6:24
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Gideon's altar of peace. The anointing for today is framed as holy presence that turns fear into worship before it turns into witness.
+**Context and language lens:** Gideon's altar of peace. The anointing for today is framed as holy presence that turns fear into worship before it turns into witness.
 
 Judges 6:24 shows Gideon marking the place of encounter with worship. Fear is not allowed to have the final word.
 
@@ -70,7 +70,7 @@ The Spirit gives power to witness by purifying fear into worshipful remembrance.
 
 **Scripture Reference:** Judges 6:25
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's command to remove false worship from Gideon's own household setting. The Spirit's fruit is framed as consecrated service that begins close to home.
+**Context and language lens:** God's command to remove false worship from Gideon's own household setting. The Spirit's fruit is framed as consecrated service that begins close to home.
 
 Judges 6:25 moves from altar to obedience. Gideon is called to address what has been standing in the place of God.
 
@@ -98,7 +98,7 @@ The Spirit gives power to witness by consecrating obedience in the places neares
 
 **Scripture Reference:** Judges 6:26
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the building of a true altar in place of false dependence. Power to witness is framed as settled worship that replaces what could not save.
+**Context and language lens:** The building of a true altar in place of false dependence. Power to witness is framed as settled worship that replaces what could not save.
 
 Judges 6:26 gives Gideon a constructive obedience. He is not only told what must come down; he is told what must be built in its place.
 
@@ -126,7 +126,7 @@ The Spirit gives power to witness by settling surrendered ground into true worsh
 
 **Scripture Reference:** Judges 6:27
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Gideon's trembling obedience carried out with help. The seal of belonging is framed as God's breath moving obedience forward even when courage is still growing.
+**Context and language lens:** Gideon's trembling obedience carried out with help. The seal of belonging is framed as God's breath moving obedience forward even when courage is still growing.
 
 Judges 6:27 does not pretend Gideon feels fearless. He obeys, but he is still afraid.
 
@@ -154,7 +154,7 @@ The Spirit gives power to witness by breathing obedience into a heart that belon
 
 **Scripture Reference:** Judges 6:28
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the morning discovery after Gideon's obedience. Prayer beyond words is framed as a renewed heart remaining faithful when hidden obedience becomes visible.
+**Context and language lens:** The morning discovery after Gideon's obedience. Prayer beyond words is framed as a renewed heart remaining faithful when hidden obedience becomes visible.
 
 Judges 6:28 shows the results of obedience becoming public. What Gideon did in the night is discovered in the morning.
 
@@ -182,7 +182,7 @@ The Spirit gives power to witness by renewing faithfulness when obedience is exp
 
 **Scripture Reference:** Judges 6:29
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the community's search for who had torn down the false altar. Wind in the waiting is framed as holy courage while questions, accusation, and uncertainty rise.
+**Context and language lens:** The community's search for who had torn down the false altar. Wind in the waiting is framed as holy courage while questions, accusation, and uncertainty rise.
 
 Judges 6:29 shows questions spreading through the community. Gideon's obedience has disturbed what people had accepted.
 

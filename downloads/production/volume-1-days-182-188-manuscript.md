@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 12:16
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `vayeitiv le-Avram ba'avurah` - Pharaoh treated Abram well for Sarai's sake - because the verse centers on benefit received through a compromised situation, not on covenant love as an abstract idea.
+**Context and language lens:** `vayeitiv le-Avram ba'avurah` - Pharaoh treated Abram well for Sarai's sake - because the verse centers on benefit received through a compromised situation, not on covenant love as an abstract idea.
 
 Trusting love in hard seasons begins with honesty about the kind of help we are receiving. Genesis 12:16 is uncomfortable because Abram is treated well while Sarai is unsafe. The provision is real, but the path around it is troubled. The text will not let us pretend that gain always means approval.
 
@@ -44,7 +44,7 @@ Do not rush past the verse; let it steady you before you move. The promise that 
 
 **Scripture Reference:** Genesis 12:17
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `vayenagga YHWH et-Par'oh nega'im gedolim` - the Lord struck Pharaoh and his household with great afflictions because of Sarai - because the verse centers on divine intervention, exposure, and protection when human choices have created danger.
+**Context and language lens:** `vayenagga YHWH et-Par'oh nega'im gedolim` - the Lord struck Pharaoh and his household with great afflictions because of Sarai - because the verse centers on divine intervention, exposure, and protection when human choices have created danger.
 
 The heart that calls you is also the heart that intervenes. Genesis 12:17 turns the story toward God's action. Abram's fear has created danger. Pharaoh's house has become a place of harm. Sarai's vulnerability is not invisible to heaven. The Lord steps into the story.
 
@@ -74,7 +74,7 @@ The God who calls you is not absent from tangled places. He can enter the house,
 
 **Scripture Reference:** Genesis 12:19
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses Pharaoh's confrontation and release - "why did you say, 'She is my sister'? ... take her and go" - because the verse centers on exposed deception, restored relationship truth, and being sent away from a compromised place.
+**Context and language lens:** Pharaoh's confrontation and release - "why did you say, 'She is my sister'? ... take her and go" - because the verse centers on exposed deception, restored relationship truth, and being sent away from a compromised place.
 
 Love that sends you sometimes sends you out through correction. Genesis 12:19 is not soft on Abram. Pharaoh names the deception and returns Sarai to her rightful place as Abram's wife. The situation that fear tried to manage is now exposed. Abram must leave with the truth no longer hidden.
 
@@ -104,7 +104,7 @@ The Father's love does not send you away empty of grace. It sends you out of hid
 
 **Scripture Reference:** Genesis 12:20
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `vayetzav alav Pharaoh anashim` - Pharaoh commanded men concerning Abram and sent him away with his wife and all that he had - because the verse centers on removal from Egypt, protection in departure, and the sober mercy of being escorted out.
+**Context and language lens:** `vayetzav alav Pharaoh anashim` - Pharaoh commanded men concerning Abram and sent him away with his wife and all that he had - because the verse centers on removal from Egypt, protection in departure, and the sober mercy of being escorted out.
 
 Covenant mercy can feel like being carried out of what you could not repair by yourself. Genesis 12:20 shows Abram, Sarai, and everything with them being sent away. The scene is not triumphant in a simple way. It is mercy mixed with sobriety. God has intervened, truth has been exposed, and now the family is moved out of danger.
 
@@ -134,7 +134,7 @@ Today, anchor yourself in covenant mercy. The Lord can send you out of Egypt and
 
 **Scripture Reference:** Genesis 15:1
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `al-tira Avram, anokhi magen lakh, sekharkha harbeh me'od` - do not fear, Abram; I am your shield and your very great reward - because the verse centers on God's direct comfort after these things, fear, protection, and reward.
+**Context and language lens:** `al-tira Avram, anokhi magen lakh, sekharkha harbeh me'od` - do not fear, Abram; I am your shield and your very great reward - because the verse centers on God's direct comfort after these things, fear, protection, and reward.
 
 The Father's welcome often begins with the words we most need but cannot give ourselves. Genesis 15:1 comes after hard things. Abram has walked through danger, correction, conflict, and uncertainty. Then the word of the Lord comes to him: do not fear.
 
@@ -164,7 +164,7 @@ You are not welcomed because you have handled every hard season well. You are we
 
 **Scripture Reference:** Genesis 15:2
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Abram's honest question - `mah-titen-li` / "what will You give me?" - because the verse centers on beloved identity learning to speak disappointment, childlessness, and unresolved promise before God.
+**Context and language lens:** Abram's honest question - `mah-titen-li` / "what will You give me?" - because the verse centers on beloved identity learning to speak disappointment, childlessness, and unresolved promise before God.
 
 Beloved identity is not too fragile to tell God the truth. Genesis 15:2 gives us Abram's honest question. God has just spoken comfort and reward, and Abram still carries an ache. He is still childless. The promise still has not taken the shape he expected. The future still feels uncertain.
 
@@ -194,7 +194,7 @@ Beloved identity does not silence grief. It gives grief a safe place to speak. Y
 
 **Scripture Reference:** Genesis 15:3
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Abram's second honest statement - `hen li lo natatah zara` / "You have given me no offspring" - because the verse centers on naming lack before God and letting divine love meet the exact place of disappointment.
+**Context and language lens:** Abram's second honest statement - `hen li lo natatah zara` / "You have given me no offspring" - because the verse centers on naming lack before God and letting divine love meet the exact place of disappointment.
 
 Love that finds you does not need you to speak in vague religious language. Genesis 15:3 shows Abram becoming specific. He names what is missing. He tells God that no offspring has been given to him, and he describes the inheritance question that now troubles his future.
 

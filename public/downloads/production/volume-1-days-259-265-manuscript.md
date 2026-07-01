@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 28:17
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses Jacob's reverent fear at Bethel because the verse centers on holy awe, the house of God, and the gate of heaven before Jacob can perform anything worthy of that mercy.
+**Context and language lens:** Jacob's reverent fear at Bethel because the verse centers on holy awe, the house of God, and the gate of heaven before Jacob can perform anything worthy of that mercy.
 
 Grace sometimes reaches the heart before the heart knows what to do with it. Genesis 28:17 shows Jacob waking into reverent fear. The place where he had slept is no longer ordinary to him. He recognizes that God has been present, and the awareness is weighty enough to stop him.
 
@@ -34,7 +34,7 @@ The first faithful movement may be to bow before you build.
 
 **Journal prompt:** Where am I tempted to rush into performance instead of reverently receiving God's nearness?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Yield to Grace Before Striving into one faithful step today.
 
 ---
 
@@ -44,7 +44,7 @@ The first faithful movement may be to bow before you build.
 
 **Scripture Reference:** Genesis 28:18
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Jacob rising early, setting the stone as a pillar, and pouring oil because the verse centers on marking mercy in the morning with a concrete act of remembrance.
+**Context and language lens:** Jacob rising early, setting the stone as a pillar, and pouring oil because the verse centers on marking mercy in the morning with a concrete act of remembrance.
 
 Mercy becomes an anchor when the morning receives what the night revealed. Genesis 28:18 shows Jacob rising early, taking the stone from his place of rest, setting it up as a pillar, and pouring oil on it. He does not leave the encounter unnamed inside himself. He marks it.
 
@@ -64,7 +64,7 @@ Let the first hours of the day become a witness.
 
 **Journal prompt:** What mercy from God needs to be marked before the day pulls my attention away?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Anchor Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -74,7 +74,7 @@ Let the first hours of the day become a witness.
 
 **Scripture Reference:** Genesis 28:20
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the opening of Jacob's vow because the verse reveals a heart learning to speak honestly about God's presence, keeping, provision, and the road home.
+**Context and language lens:** The opening of Jacob's vow because the verse reveals a heart learning to speak honestly about God's presence, keeping, provision, and the road home.
 
 The Father's patience is gentle enough to meet a heart that is still learning how to trust. Genesis 28:20 begins Jacob's vow. His words are full of need: God's presence, protection on the way, bread, clothing, and a path home. The vow is not the speech of a fully settled man. It is the speech of a traveler being formed.
 
@@ -94,7 +94,7 @@ He can receive your honest need and teach it to trust.
 
 **Journal prompt:** What need do I need to bring honestly to the Father instead of hiding behind religious language?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Discover the Father's Patience into one faithful step today.
 
 ---
 
@@ -104,7 +104,7 @@ He can receive your honest need and teach it to trust.
 
 **Scripture Reference:** Genesis 28:22
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Jacob dedicating the stone and naming the place in relation to God's house because the verse centers on worshipful response, not a transaction to force blessing.
+**Context and language lens:** Jacob dedicating the stone and naming the place in relation to God's house because the verse centers on worshipful response, not a transaction to force blessing.
 
 Love stronger than fear turns dedication into response instead of bargaining. Genesis 28:22 shows Jacob looking at the stone he has set up and speaking of it in relation to God's house. His vow also includes giving back to God. This moment must be handled carefully. The heart is still being formed, yet God is drawing Jacob toward worship, remembrance, and surrender.
 
@@ -114,7 +114,7 @@ Receive love stronger than fear by letting Sabbath rest loosen the anxiety behin
 
 Do not rush past the verse; let it steady you before you move. Ask where fear has made your devotion tense. Ask where you have treated obedience as a way to secure love instead of a way to answer love. Ask where the ordinary stone in your life can become a witness that God met you first.
 
-Promises that do not fail create worshipful response. They do not crush the heart with spiritual performance. On this Sabbath, let the Father's steadfast love become stronger than the fear that tries to bargain for safety.
+Promises that do not fail create worshipful response. They do not crush the heart with spiritual self-display. On this Sabbath, let the Father's steadfast love become stronger than the fear that tries to bargain for safety.
 
 Grace came first. Let worship answer it.
 
@@ -124,7 +124,7 @@ Grace came first. Let worship answer it.
 
 **Journal prompt:** Where has fear made my devotion tense, and how can Sabbath rest return me to grace?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Receive Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -134,7 +134,7 @@ Grace came first. Let worship answer it.
 
 **Scripture Reference:** Genesis 32:1
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Jacob continuing on his way and being met by the angels of God because the verse begins the return journey with divine reassurance before the difficult reconciliation ahead.
+**Context and language lens:** Jacob continuing on his way and being met by the angels of God because the verse begins the return journey with divine reassurance before the difficult reconciliation ahead.
 
 Restoring compassion often meets us before the hard conversation begins. Genesis 32:1 shows Jacob going on his way, and the angels of God meet him. The road has changed since Bethel, but the God of the road has not changed. Jacob is moving toward unresolved family history, and mercy reaches him before he faces Esau.
 
@@ -154,7 +154,7 @@ Restoration begins with God meeting you on the way.
 
 **Journal prompt:** What difficult relational road needs God's compassion before I try to manage the outcome?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Trust Restoring Compassion into one faithful step today.
 
 ---
 
@@ -164,7 +164,7 @@ Restoration begins with God meeting you on the way.
 
 **Scripture Reference:** Genesis 32:3
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses Jacob sending messengers ahead to Esau because the verse centers on hope taking a wise, humble step toward unresolved family history.
+**Context and language lens:** Jacob sending messengers ahead to Esau because the verse centers on hope taking a wise, humble step toward unresolved family history.
 
 Hope does not always rise as a feeling. Sometimes it rises as a wise step sent ahead of fear. Genesis 32:3 shows Jacob sending messengers before him to Esau in the land connected with Seir and Edom. The old story is not avoided. Jacob begins to face it with movement, humility, and preparation.
 
@@ -184,7 +184,7 @@ Hope rises when obedience takes a humble first step.
 
 **Journal prompt:** What unresolved matter is asking for one wise step rather than another day of worry?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Let Hope Rise the Promise That Holds into one faithful step today.
 
 ---
 
@@ -194,7 +194,7 @@ Hope rises when obedience takes a humble first step.
 
 **Scripture Reference:** Genesis 32:4
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Jacob's message of humility toward Esau because the verse centers on faithfulness expressed through careful speech, lowered pride, and a repaired posture.
+**Context and language lens:** Jacob's message of humility toward Esau because the verse centers on faithfulness expressed through careful speech, lowered pride, and a repaired posture.
 
 The heart that calls you into promise must also learn how to speak when pride has been lowered. Genesis 32:4 records the message Jacob commands for Esau. The language is humble and careful. Jacob does not return with swagger. He approaches the brother he wronged with words that show a changed posture.
 
@@ -214,4 +214,4 @@ The promise calls the heart forward, and grace teaches the heart how to speak.
 
 **Journal prompt:** Where does my tone need to become more surrendered before I try to explain myself?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Carry the Heart That Calls You into one faithful step today.

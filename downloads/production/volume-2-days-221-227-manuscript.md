@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 20:14
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses the vineyard master's generosity because light exposes envy and gives direction toward gratitude.
+**Context and language lens:** The vineyard master's generosity because light exposes envy and gives direction toward gratitude.
 
 Matthew 20:14 stands inside Jesus' parable of the workers in the vineyard. The master gives what he promised, yet his generosity toward others exposes resentment in those who compare.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting gratitude silence comparison.
 
 **Scripture Reference:** Matthew 20:18
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses Jesus' road to Jerusalem because following Him includes listening when the path leads through costly obedience.
+**Context and language lens:** Jesus' road to Jerusalem because following Him includes listening when the path leads through costly obedience.
 
 Matthew 20:18 turns the disciples toward Jerusalem. Jesus speaks plainly about what is ahead. He does not hide the cost of the road, and He does not stop walking it.
 
@@ -70,7 +70,7 @@ Walking with Jesus means staying near when obedience has a road.
 
 **Scripture Reference:** Matthew 20:20
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses the request brought by the mother of Zebedee's sons because saving wholeness reaches family ambition, protective love, and hidden status desires.
+**Context and language lens:** The request brought by the mother of Zebedee's sons because saving wholeness reaches family ambition, protective love, and hidden status desires.
 
 Matthew 20:20 brings a family request to Jesus. A mother comes near with her sons. The request carries love, ambition, hope, misunderstanding, and the desire for a secure place near greatness.
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting Him make ambition whole.
 
 **Scripture Reference:** Matthew 20:21
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses Jesus' question and the request for places of honor because peace asks desire to become honest before God.
+**Context and language lens:** Jesus' question and the request for places of honor because peace asks desire to become honest before God.
 
 Matthew 20:21 lets Jesus ask what is desired. The answer reaches for places of honor. Jesus does not ignore the desire. He brings it into the open.
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting peace reorder desire.
 
 **Scripture Reference:** Matthew 20:22
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses Jesus' answer about not knowing what is being asked because Lordship teaches sober surrender before costly calling.
+**Context and language lens:** Jesus' answer about not knowing what is being asked because Lordship teaches sober surrender before costly calling.
 
 Matthew 20:22 answers ambition with holy seriousness. Jesus exposes that the request reaches for honor without understanding the cup connected to His way.
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting the Lord sober and sanctify desire.
 
 **Scripture Reference:** Matthew 20:25
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses Jesus contrasting worldly rule with His way because light exposes domination and gives direction toward servant leadership.
+**Context and language lens:** Jesus contrasting worldly rule with His way because light exposes domination and gives direction toward servant leadership.
 
 Matthew 20:25 gathers the disciples and names how power often works in the world. People with authority can dominate, control, and use position to press others down.
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting light turn authority into care.
 
 **Scripture Reference:** Matthew 20:29
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses the crowd following Jesus out of Jericho because the surrendered heart keeps moving with Him while need cries out nearby.
+**Context and language lens:** The crowd following Jesus out of Jericho because the surrendered heart keeps moving with Him while need cries out nearby.
 
 Matthew 20:29 shows Jesus leaving Jericho with a great crowd following Him. Movement continues. The road is active, public, and full of need just beyond the crowd's attention.
 

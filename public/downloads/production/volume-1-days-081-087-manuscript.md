@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 1:8
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `wayyiqra/Elohim/raqia/shamayim/erev/boqer/yom sheni` - called, God, expanse, heavens, evening, morning, and second day - because the verse centers on God naming the expanse and ordering the second evening-morning rhythm.
+**Context and language lens:** `wayyiqra/Elohim/raqia/shamayim/erev/boqer/yom sheni` - called, God, expanse, heavens, evening, morning, and second day - because the verse centers on God naming the expanse and ordering the second evening-morning rhythm.
 
 Covenant mercy can be heard in the way God names what is above you before you know how to stand beneath it. Genesis 1:8 is quiet creation language. God calls the expanse heavens, and evening and morning mark the second day.
 
@@ -32,7 +32,7 @@ Let Him speak before anxiety explains everything to you. Listen slowly. Mercy ma
 
 **Journal prompt:** What pressure needs God's naming before I let worry define it?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Listen for Covenant Mercy into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Let Him speak before anxiety explains everything to you. Listen slowly. Mercy ma
 
 **Scripture Reference:** Genesis 22:11
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `malakh YHWH/qara/min-hashamayim/Abraham/Abraham/hinneni` - angel of the Lord, called, from the heavens, Abraham, Abraham, and here I am - because mercy interrupts Abraham by name at the decisive moment.
+**Context and language lens:** `malakh YHWH/qara/min-hashamayim/Abraham/Abraham/hinneni` - angel of the Lord, called, from the heavens, Abraham, Abraham, and here I am - because mercy interrupts Abraham by name at the decisive moment.
 
 The Father's welcome sometimes arrives as an interruption. Genesis 22:11 is not a soft scene. Abraham is deep inside obedience he cannot fully understand, and the angel of the Lord calls from heaven with his name repeated: Abraham, Abraham. Abraham answers, "Here I am."
 
@@ -60,7 +60,7 @@ Before worry gets the first word today, answer the God who calls with nearness. 
 
 **Journal prompt:** Where do I need to let God call me by name before I keep moving?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Stand in the Father's Welcome into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Before worry gets the first word today, answer the God who calls with nearness. 
 
 **Scripture Reference:** Genesis 22:14
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `wayyiqra/shem/maqom/YHWH yireh/har/YHWH/yeraeh` - called, name, place, the Lord will provide or see, mountain of the Lord, and it will be seen - because Abraham names the place after God's provision is revealed.
+**Context and language lens:** `wayyiqra/shem/maqom/YHWH yireh/har/YHWH/yeraeh` - called, name, place, the Lord will provide or see, mountain of the Lord, and it will be seen - because Abraham names the place after God's provision is revealed.
 
 Beloved identity is formed when provision teaches you who God is, not only what He gives. Genesis 22:14 says Abraham named that place in relation to the Lord's seeing and providing. The mountain became a memory marker. God had met him there.
 
@@ -88,7 +88,7 @@ Let grace form beloved identity today. You are not only the person who struggled
 
 **Journal prompt:** What hard place might God be inviting me to rename by His provision?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Let Grace Form Beloved Identity into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Let grace form beloved identity today. You are not only the person who struggled
 
 **Scripture Reference:** Genesis 22:15
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `malakh YHWH/qara/Abraham/shenit/min-hashamayim` - angel of the Lord, called, Abraham, second time, and from the heavens - because the verse emphasizes God's repeated heavenly call after provision has been revealed.
+**Context and language lens:** `malakh YHWH/qara/Abraham/shenit/min-hashamayim` - angel of the Lord, called, Abraham, second time, and from the heavens - because the verse emphasizes God's repeated heavenly call after provision has been revealed.
 
 Love that finds you is patient enough to speak again. Genesis 22:15 says the angel of the Lord called to Abraham a second time from heaven. The first call stopped the moment of danger. The second call continued the word of God over Abraham's life.
 
@@ -116,7 +116,7 @@ Do not only behold the escape. Behold the Father who stayed near enough to keep 
 
 **Journal prompt:** Where has God brought relief, and what might He still be saying there?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Behold Love That Finds You into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Do not only behold the escape. Behold the Father who stayed near enough to keep 
 
 **Scripture Reference:** Genesis 22:2
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `qach-na/bincha/yehidekha/asher ahavta/Yitzchaq/lekh-lekha/erets Moriyah/olah/har/omar` - take now, your son, your only one, whom you love, Isaac, go, land of Moriah, offering, mountain, and I will tell - because the verse names the beloved son and the costly journey before God's provision is revealed later in the chapter.
+**Context and language lens:** `qach-na/bincha/yehidekha/asher ahavta/Yitzchaq/lekh-lekha/erets Moriyah/olah/har/omar` - take now, your son, your only one, whom you love, Isaac, go, land of Moriah, offering, mountain, and I will tell - because the verse names the beloved son and the costly journey before God's provision is revealed later in the chapter.
 
 Grace before performance is not cheap language when the test touches what is beloved. Genesis 22:2 is one of Scripture's heaviest verses. God names Isaac as Abraham's son, his only one, the one he loves, and calls Abraham toward Moriah.
 
@@ -144,7 +144,7 @@ The Father does not need fear to manufacture faith. He forms trust by revealing 
 
 **Journal prompt:** What beloved concern do I need to entrust to God without letting fear define obedience?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Follow Grace Before Striving into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Father does not need fear to manufacture faith. He forms trust by revealing 
 
 **Scripture Reference:** Genesis 22:21
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `Uz/bekoro/Buz/achiw/Kemuel/avi/Aram` - Uz, his firstborn, Buz, his brother, Kemuel, father, and Aram - because the verse is part of a family-line notice after the mountain narrative.
+**Context and language lens:** `Uz/bekoro/Buz/achiw/Kemuel/avi/Aram` - Uz, his firstborn, Buz, his brother, Kemuel, father, and Aram - because the verse is part of a family-line notice after the mountain narrative.
 
 Mercy in the morning is sometimes hidden in names that do not feel dramatic. Genesis 22:21 belongs to a genealogy notice. Uz, Buz, Kemuel, and Aram appear in the line of Abraham's extended family. After the intensity of the mountain, Scripture gives us family continuity.
 
@@ -172,7 +172,7 @@ Rest in mercy this morning by trusting God with the unseen continuities. He is f
 
 **Journal prompt:** What quiet continuity might be carrying more mercy than I have noticed?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Rest in Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Rest in mercy this morning by trusting God with the unseen continuities. He is f
 
 **Scripture Reference:** Genesis 22:7
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `amar/Yitzchaq/Abraham/av/hinneni/beni/esh/etsim/ayyeh/seh/olah` - spoke, Isaac, Abraham, father, here I am, my son, fire, wood, where, lamb, and offering - because Isaac's honest question is met by Abraham's attentive presence.
+**Context and language lens:** `amar/Yitzchaq/Abraham/av/hinneni/beni/esh/etsim/ayyeh/seh/olah` - spoke, Isaac, Abraham, father, here I am, my son, fire, wood, where, lamb, and offering - because Isaac's honest question is met by Abraham's attentive presence.
 
 The Father's patience makes room for honest questions. Genesis 22:7 lets us hear Isaac speak to Abraham: "My father." Abraham answers with presence before explanation. Isaac then names what he can see - fire and wood - and asks about what he cannot see.
 
@@ -200,4 +200,4 @@ The question is not a failure if it is brought to God. It can become a doorway t
 
 **Journal prompt:** What visible facts and missing provision do I need to bring into the Father's presence?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Wake Up to the Father's Patience into one faithful step today.

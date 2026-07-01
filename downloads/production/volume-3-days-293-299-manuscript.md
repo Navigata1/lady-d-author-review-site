@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 15:7
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Samson's vow of revenge without quoting it. Rain for dry places is framed as Spirit-given capacity to let prayer reach the place where injury wants to become retaliation.
+**Context and language lens:** Samson's vow of revenge without quoting it. Rain for dry places is framed as Spirit-given capacity to let prayer reach the place where injury wants to become retaliation.
 
 Judges 15:7 brings Samson's wounded resolve into the open. The injury has become a plan.
 
@@ -42,7 +42,7 @@ The Spirit teaches prayer by sending strength into the dry place where revenge h
 
 **Scripture Reference:** Judges 15:8
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the violent aftermath and Samson's withdrawal to frame anointing for today as cleansing after a reaction has crossed a line.
+**Context and language lens:** The violent aftermath and Samson's withdrawal to frame anointing for today as cleansing after a reaction has crossed a line.
 
 Judges 15:8 shows retaliation moving from words into action. Afterward, Samson withdraws into the cleft of the rock.
 
@@ -70,7 +70,7 @@ The Spirit teaches prayer by renewing the heart after reaction exposes it.
 
 **Scripture Reference:** Judges 15:9
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses the Philistine camp in Judah as a pressure scene. Peace leading the Spirit's fruit is framed as discerning God's nearness when fear gathers around the people.
+**Context and language lens:** The Philistine camp in Judah as a pressure scene. Peace leading the Spirit's fruit is framed as discerning God's nearness when fear gathers around the people.
 
 Judges 15:9 shows the conflict spreading. The pressure is no longer private; fear settles over a whole place.
 
@@ -98,7 +98,7 @@ The Spirit teaches prayer by making God's nearness discernible when fear gathers
 
 **Scripture Reference:** Judges 15:10
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses the question of why conflict has come. Power to witness is framed as Spirit-breathed truth when people demand explanations under pressure.
+**Context and language lens:** The question of why conflict has come. Power to witness is framed as Spirit-breathed truth when people demand explanations under pressure.
 
 Judges 15:10 brings a question into the tension. The people want to know why the enemy has come against them.
 
@@ -126,7 +126,7 @@ The Spirit teaches prayer by breathing truthful witness into pressured explanati
 
 **Scripture Reference:** Judges 15:11
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Judah's fearful submission and Samson's self-justifying answer. The seal of belonging is framed as set-apart identity when people have learned to live under fear.
+**Context and language lens:** Judah's fearful submission and Samson's self-justifying answer. The seal of belonging is framed as set-apart identity when people have learned to live under fear.
 
 Judges 15:11 shows a crowd coming to Samson in the cleft of the rock. Their words reveal how deeply fear has shaped their sense of what is normal.
 
@@ -154,7 +154,7 @@ The Spirit teaches prayer by sealing identity in God before fear defines normal.
 
 **Scripture Reference:** Judges 15:12
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Samson being bound by his own people. Prayer beyond words is framed as Spirit-given capacity when restraint feels humiliating and trust feels costly.
+**Context and language lens:** Samson being bound by his own people. Prayer beyond words is framed as Spirit-given capacity when restraint feels humiliating and trust feels costly.
 
 Judges 15:12 shows Samson facing restraint from people who should have stood with him. The scene is tense, humiliating, and full of danger.
 
@@ -182,7 +182,7 @@ The Spirit teaches prayer by strengthening the heart when restraint feels humili
 
 **Scripture Reference:** Judges 15:13
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the new cords and the movement out from the rock. Wind in the waiting is framed as cleansing grace when the next step includes limitation.
+**Context and language lens:** The new cords and the movement out from the rock. Wind in the waiting is framed as cleansing grace when the next step includes limitation.
 
 Judges 15:13 shows Samson bound and brought up from the rock. Movement comes, but it comes with cords.
 

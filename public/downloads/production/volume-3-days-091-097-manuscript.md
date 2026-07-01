@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 1:27
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses humanity made in God's image. Oil and anointing are framed as consecrated identity and service that begin with what God gives, not what the heart performs.
+**Context and language lens:** Humanity made in God's image. Oil and anointing are framed as consecrated identity and service that begin with what God gives, not what the heart performs.
 
 Conviction without condemnation begins with identity. Genesis 1:27 brings the heart close to the truth that humanity is not an accident, a mistake, or a project without meaning. Life begins under the Creator's intentional care.
 
@@ -32,7 +32,7 @@ The Spirit restores freedom by calling the heart back to God-given identity.
 
 **Journal prompt:** Where do I need to receive conviction as a call back to identity rather than as condemnation?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Trust Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit restores freedom by calling the heart back to God-given identity.
 
 **Scripture Reference:** Genesis 1:30
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's provision for living creatures. Resting and settling are framed as hope that breathes because God provides before fear demands.
+**Context and language lens:** God's provision for living creatures. Resting and settling are framed as hope that breathes because God provides before fear demands.
 
 Hope rises differently when the heart remembers provision. Genesis 1:30 shows God caring for living creatures with what they need. The world is not presented as a place where every life must scramble before God notices.
 
@@ -60,7 +60,7 @@ The Spirit gives hopeful breath by settling the heart in God's faithful provisio
 
 **Journal prompt:** What provision from God can help me breathe before I respond today?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Let Hope Rise the Breath of God into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit gives hopeful breath by settling the heart in God's faithful provisio
 
 **Scripture Reference:** Genesis 1:31
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God's declaration of goodness over His completed creation. The Spirit's nearness is framed as restoring the heart to God's good intent instead of letting failure have the final word.
+**Context and language lens:** God's declaration of goodness over His completed creation. The Spirit's nearness is framed as restoring the heart to God's good intent instead of letting failure have the final word.
 
 God knows how to call His work good. Genesis 1:31 gathers the work of creation under the Creator's approving sight. Goodness is not shallow optimism; it is God's true judgment over what He has made.
 
@@ -88,7 +88,7 @@ The Spirit comforts by restoring the heart to God's true and good purpose.
 
 **Journal prompt:** What condemning thought needs to be answered with God's true purpose for my life?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Carry the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit comforts by restoring the heart to God's true and good purpose.
 
 **Scripture Reference:** Genesis 2:1
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the completed heavens and earth. Holy fire is framed as the Spirit's refining work that lets the heart stop striving and receive God's completed care.
+**Context and language lens:** The completed heavens and earth. Holy fire is framed as the Spirit's refining work that lets the heart stop striving and receive God's completed care.
 
 Genesis 2:1 stands at the hush of completion. The heavens and the earth are not hanging loose in confusion. God has brought His ordered work to fullness.
 
@@ -116,7 +116,7 @@ The Spirit refines striving hearts by returning them to God's completed care.
 
 **Journal prompt:** Where has anxious striving made correction feel like rejection?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Lean Into Holy Fire into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit refines striving hearts by returning them to God's completed care.
 
 **Scripture Reference:** Genesis 2:2
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God resting after completing His work. Rain for dry places is framed as mercy that falls on exhausted striving because God's work is not frantic.
+**Context and language lens:** God resting after completing His work. Rain for dry places is framed as mercy that falls on exhausted striving because God's work is not frantic.
 
 Dry places often come from trying to live as if everything depends on your strain. Genesis 2:2 shows God resting after completing His work. The verse carries a holy steadiness: God is not frantic.
 
@@ -144,7 +144,7 @@ The Spirit refreshes dry places by grounding correction in God's steady faithful
 
 **Journal prompt:** Where has exhaustion begun to sound like faithfulness in my life?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry See Again Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit refreshes dry places by grounding correction in God's steady faithful
 
 **Scripture Reference:** Genesis 2:3
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God blessing and making holy the seventh day in the text. Anointing is framed as consecrated time and consecrated life that receive holiness from God before serving Him.
+**Context and language lens:** God blessing and making holy the seventh day in the text. Anointing is framed as consecrated time and consecrated life that receive holiness from God before serving Him.
 
 Holy things are made holy by God. Genesis 2:3 shows blessing and consecration flowing from the Creator's own action. Holiness is not the heart decorating itself to look acceptable; holiness begins with God's setting apart.
 
@@ -172,7 +172,7 @@ The Spirit anoints ordinary obedience by bringing it under God's consecrating lo
 
 **Journal prompt:** What ordinary part of my life needs to be set apart by God's love?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Let Love Teach the Anointing for Today into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit anoints ordinary obedience by bringing it under God's consecrating lo
 
 **Scripture Reference:** Genesis 2:4
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the generations of the heavens and the earth. The Spirit's fruit is framed as settled growth inside God's larger story of what He is bringing forth.
+**Context and language lens:** The generations of the heavens and the earth. The Spirit's fruit is framed as settled growth inside God's larger story of what He is bringing forth.
 
 Genesis 2:4 turns the heart toward generations, beginnings, and what God brings forth in His own order. The story of creation is not a random pile of moments. It is held together by the Lord who forms, names, blesses, and continues His work.
 
@@ -200,4 +200,4 @@ The Spirit awakens fruit by settling the heart inside God's patient formation.
 
 **Journal prompt:** What small fruit is God beginning to form that I need to notice and protect?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Awaken the Spirit's Fruit into one faithful step today.

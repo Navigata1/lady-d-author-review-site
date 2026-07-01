@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Numbers 27:2
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the daughters of Zelophehad standing before Moses, Eleazar, the leaders, and the congregation. The anointing for today is framed as holy courage to bring a need into the right place with reverence.
+**Context and language lens:** The daughters of Zelophehad standing before Moses, Eleazar, the leaders, and the congregation. The anointing for today is framed as holy courage to bring a need into the right place with reverence.
 
 Numbers 27:2 shows the daughters coming forward publicly and respectfully. They do not hide their need, and they do not treat reverence as silence.
 
@@ -42,7 +42,7 @@ The Spirit rains on dry places by anointing reverent courage for the right momen
 
 **Scripture Reference:** Numbers 27:3
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the daughters naming their father's story truthfully. The Spirit's fruit is framed as consecrated honesty that tells the truth without bitterness.
+**Context and language lens:** The daughters naming their father's story truthfully. The Spirit's fruit is framed as consecrated honesty that tells the truth without bitterness.
 
 Numbers 27:3 shows the daughters speaking with careful truth. They name their father's death, clarify what he was not part of, and make the family story plain.
 
@@ -70,7 +70,7 @@ The Spirit rains on dry places by making honesty fruitful instead of bitter.
 
 **Scripture Reference:** Numbers 27:4
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the daughters asking why their father's name should disappear and requesting an inheritance. Power to witness is framed as settled courage to ask for belonging without panic.
+**Context and language lens:** The daughters asking why their father's name should disappear and requesting an inheritance. Power to witness is framed as settled courage to ask for belonging without panic.
 
 Numbers 27:4 gives their petition. They ask a clear question and make a concrete request.
 
@@ -98,7 +98,7 @@ The Spirit rains on dry places by giving settled courage to ask for belonging.
 
 **Scripture Reference:** Numbers 27:5
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Moses bringing the daughters' case before the Lord. The seal of belonging is framed as Spirit-taught humility that waits for God's judgment rather than forcing human control.
+**Context and language lens:** Moses bringing the daughters' case before the Lord. The seal of belonging is framed as Spirit-taught humility that waits for God's judgment rather than forcing human control.
 
 Numbers 27:5 shows Moses doing something beautiful with authority. He brings the case before the Lord.
 
@@ -126,7 +126,7 @@ The Spirit rains on dry places by sealing belonging in the presence of the Lord.
 
 **Scripture Reference:** Numbers 27:6
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the Lord speaking to Moses. Prayer beyond words is framed as inward renewal that remains open to God's answer after the petition is placed before Him.
+**Context and language lens:** The Lord speaking to Moses. Prayer beyond words is framed as inward renewal that remains open to God's answer after the petition is placed before Him.
 
 Numbers 27:6 begins the answer. The Lord speaks after the case is brought before Him.
 
@@ -154,7 +154,7 @@ The Spirit rains on dry places by renewing the heart to receive God's answer.
 
 **Scripture Reference:** Numbers 27:7
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's affirmation that the daughters speak rightly and His command to give them an inheritance. Wind in the waiting is framed as holy fire that vindicates truth and makes room for justice.
+**Context and language lens:** God's affirmation that the daughters speak rightly and His command to give them an inheritance. Wind in the waiting is framed as holy fire that vindicates truth and makes room for justice.
 
 Numbers 27:7 is a moment of holy affirmation. The Lord says the daughters have spoken rightly, and He commands that inheritance be given.
 
@@ -182,7 +182,7 @@ The Spirit rains on dry places by affirming truth and making room for justice.
 
 **Scripture Reference:** Numbers 27:8
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's instruction that inheritance pass to a daughter when there is no son. Oil for the journey is framed as consecrated guidance that turns one faithful case into a path for others.
+**Context and language lens:** God's instruction that inheritance pass to a daughter when there is no son. Oil for the journey is framed as consecrated guidance that turns one faithful case into a path for others.
 
 Numbers 27:8 shows the answer becoming instruction. What began as one family's need becomes guidance for the community.
 

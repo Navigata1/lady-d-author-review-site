@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 22:31
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus' turn to the resurrection because saving wholeness hears God's living word over death, confusion, and fear.
+**Context and language lens:** Jesus' turn to the resurrection because saving wholeness hears God's living word over death, confusion, and fear.
 
 Matthew 22:31 moves the conversation from a trap question into the living authority of God. Jesus asks whether they have read what God spoke concerning the resurrection.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting the living Word rescue courage from fear.
 
 **Scripture Reference:** Matthew 22:36
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the question about the great commandment because peace begins when the heart stops scattering and returns to what love requires.
+**Context and language lens:** The question about the great commandment because peace begins when the heart stops scattering and returns to what love requires.
 
 Matthew 22:36 asks which commandment is great. The question comes in a testing atmosphere, but it also opens the door to the center of faithful life.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting peace gather your heart back to love.
 
 **Scripture Reference:** Matthew 22:4
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the king sending more servants because trusted Lordship keeps inviting with generous authority.
+**Context and language lens:** The king sending more servants because trusted Lordship keeps inviting with generous authority.
 
 Matthew 22:4 shows the king sending other servants with the feast prepared. The invitation is not thin or vague. The table is ready, the call is generous, and the king's authority is expressed through invitation.
 
@@ -98,7 +98,7 @@ Walking with Jesus means serving under Lordship that invites instead of threaten
 
 **Scripture Reference:** Matthew 22:41
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus questioning the gathered Pharisees because light sometimes comes through the question Christ asks us.
+**Context and language lens:** Jesus questioning the gathered Pharisees because light sometimes comes through the question Christ asks us.
 
 Matthew 22:41 shows Jesus asking a question while the Pharisees are gathered. After being questioned repeatedly, He turns the moment and asks them to consider the Christ.
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting His questions guide the path.
 
 **Scripture Reference:** Matthew 22:43
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses David calling the Messiah Lord because discipleship follows Jesus by receiving His identity more deeply.
+**Context and language lens:** David calling the Messiah Lord because discipleship follows Jesus by receiving His identity more deeply.
 
 Matthew 22:43 presses the hearers to consider why David, speaking in the Spirit, calls the Messiah Lord. Jesus is leading them beyond a shallow answer into deeper recognition.
 
@@ -154,7 +154,7 @@ Walking with Jesus means following the Lord we keep seeing more clearly.
 
 **Scripture Reference:** Matthew 22:44
 
-**Production lens note:** The architecture assigns sozo; the production lens uses the enthroned Lord because saving wholeness rests under Christ's victorious authority.
+**Context and language lens:** The enthroned Lord because saving wholeness rests under Christ's victorious authority.
 
 Matthew 22:44 points to the Lord seated at the right hand until His enemies are placed beneath His feet. Jesus is revealing a Messiah whose authority is higher and deeper than the crowd expects.
 
@@ -182,7 +182,7 @@ Walking with Jesus means serving under the Shepherd who already reigns.
 
 **Scripture Reference:** Matthew 22:5
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the invited guests making light of the feast because peace calls the heart back from distraction into holy attention.
+**Context and language lens:** The invited guests making light of the feast because peace calls the heart back from distraction into holy attention.
 
 Matthew 22:5 shows invited guests making light of the invitation and going their own ways. One goes to a field, another to business. Ordinary concerns become heavy enough to make the King's invitation seem light.
 

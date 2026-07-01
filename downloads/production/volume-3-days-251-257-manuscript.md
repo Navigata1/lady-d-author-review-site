@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 6:14
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the Lord turning to Gideon and sending him. Prayer beyond words is framed as settled obedience when God turns a fearful heart toward assignment.
+**Context and language lens:** The Lord turning to Gideon and sending him. Prayer beyond words is framed as settled obedience when God turns a fearful heart toward assignment.
 
 Judges 6:14 moves Gideon from questions toward calling. The Lord turns to him and sends him.
 
@@ -42,7 +42,7 @@ The Spirit gives power to witness by settling obedience under God's sending word
 
 **Scripture Reference:** Judges 6:15
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Gideon's honest weakness and smallness. Wind in the waiting is framed as God's breath meeting confessed inadequacy.
+**Context and language lens:** Gideon's honest weakness and smallness. Wind in the waiting is framed as God's breath meeting confessed inadequacy.
 
 Judges 6:15 lets Gideon speak from weakness. He names his family position and his own smallness.
 
@@ -70,7 +70,7 @@ The Spirit gives power to witness by breathing courage into confessed weakness.
 
 **Scripture Reference:** Judges 6:16
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's promise to be with Gideon. Oil for the journey is framed as inward renewal rooted in divine presence rather than self-reliance.
+**Context and language lens:** God's promise to be with Gideon. Oil for the journey is framed as inward renewal rooted in divine presence rather than self-reliance.
 
 Judges 6:16 answers weakness with presence. God does not give Gideon a speech about being impressive; He promises to be with him.
 
@@ -98,7 +98,7 @@ The Spirit gives power to witness by renewing courage through God's promised pre
 
 **Scripture Reference:** Judges 6:17
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Gideon's request for confirmation. Freedom in the Spirit is framed as holy honesty that seeks assurance without refusing obedience.
+**Context and language lens:** Gideon's request for confirmation. Freedom in the Spirit is framed as holy honesty that seeks assurance without refusing obedience.
 
 Judges 6:17 shows Gideon asking for a sign. The request comes from a heart still trying to understand the encounter.
 
@@ -126,7 +126,7 @@ The Spirit gives power to witness by purifying the search for assurance.
 
 **Scripture Reference:** Judges 6:19
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Gideon preparing an offering. The breath of God is framed as consecrated preparation that turns fear toward worship.
+**Context and language lens:** Gideon preparing an offering. The breath of God is framed as consecrated preparation that turns fear toward worship.
 
 Judges 6:19 shows Gideon preparing what he will bring. Before the next revelation, there is an offering.
 
@@ -154,7 +154,7 @@ The Spirit gives power to witness by consecrating preparation into worship.
 
 **Scripture Reference:** Judges 6:20
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the angel's specific instruction about the offering. The Comforter's nearness is framed as settled obedience to God's ordered instruction.
+**Context and language lens:** The angel's specific instruction about the offering. The Comforter's nearness is framed as settled obedience to God's ordered instruction.
 
 Judges 6:20 gives instruction. Gideon is told how to place what he has brought.
 
@@ -182,7 +182,7 @@ The Spirit gives power to witness by settling obedience into ordered faithfulnes
 
 **Scripture Reference:** Judges 6:22
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Gideon's recognition and fear after the encounter. Holy fire is framed as reverent awe that humbles power and keeps witness submitted to God.
+**Context and language lens:** Gideon's recognition and fear after the encounter. Holy fire is framed as reverent awe that humbles power and keeps witness submitted to God.
 
 Judges 6:22 brings realization. Gideon recognizes the holiness of the encounter and responds with fear.
 

@@ -10,11 +10,11 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 291 - October 18
 
-### Awaken the Shepherd's Voice
+### Awaken Holy Steadiness in the Shepherd's Voice
 
 **Scripture Reference:** Matthew 25:23
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses the master's welcome because resurrection hope hears joy where fear expected only evaluation.
+**Context and language lens:** The master's welcome because resurrection hope hears joy where fear expected only evaluation.
 
 Matthew 25:23 continues the master's welcome to a faithful servant. The servant is received into joy, not merely measured by output.
 
@@ -32,17 +32,17 @@ Walking with Jesus means hearing the Master's joy as part of the call.
 
 **Journal prompt:** Where has faithfulness begun to feel joyless, and what would it mean to serve with Jesus there?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Awaken Holy Steadiness in the Shepherd's Voice in one faithful step today.
 
 ---
 
 ## Day 292 - October 19
 
-### Embrace the Road with Jesus
+### Embrace Holy Steadiness in the Road with Jesus
 
 **Scripture Reference:** Matthew 25:24
 
-**Production lens note:** The architecture assigns meno; the production lens uses the fearful servant's accusation because abiding heals distorted views of the Master's heart.
+**Context and language lens:** The fearful servant's accusation because abiding heals distorted views of the Master's heart.
 
 Matthew 25:24 reveals how the servant viewed the master. Fear had shaped his interpretation until the master seemed harsh, demanding, and unsafe.
 
@@ -60,17 +60,17 @@ Walking with Jesus means staying near enough for the Master's heart to become cl
 
 **Journal prompt:** Where has fear quietly taught me to see God as harsh instead of good?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Embrace Holy Steadiness in the Road with Jesus in one faithful step today.
 
 ---
 
 ## Day 293 - October 20
 
-### Remember the Nearness of Christ
+### Remember Holy Steadiness in the Nearness of Christ
 
 **Scripture Reference:** Matthew 25:26
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses the master's hard answer because compassion tells the truth when fear has become an excuse for refusal.
+**Context and language lens:** The master's hard answer because compassion tells the truth when fear has become an excuse for refusal.
 
 Matthew 25:26 is sober. The master answers the servant's excuse directly. Grace does not confuse fear with faithfulness.
 
@@ -88,17 +88,17 @@ Walking with Jesus means letting compassion tell the truth that sets stewardship
 
 **Journal prompt:** What excuse has started to sound reasonable because I have repeated it too long?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Remember Holy Steadiness in the Nearness of Christ in one faithful step today.
 
 ---
 
 ## Day 294 - October 21
 
-### Walk in the Way of Peace
+### Walk Holy Steadiness in in the Way of Peace
 
 **Scripture Reference:** Matthew 25:29
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' stewardship principle because the Teacher forms receptive faithfulness rather than passive holding.
+**Context and language lens:** Jesus' stewardship principle because the Teacher forms receptive faithfulness rather than passive holding.
 
 Matthew 25:29 is a principle of stewardship that can feel severe when read apart from the whole story. In context, it presses the difference between faithful use and fearful preservation.
 
@@ -116,17 +116,17 @@ Walking with Jesus means letting the Teacher turn received grace into living fai
 
 **Journal prompt:** What received grace needs to move instead of remain unused?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Walk Holy Steadiness in in the Way of Peace in one faithful step today.
 
 ---
 
 ## Day 295 - October 22
 
-### Let Peace Lead the Table of Grace
+### Let Holy Steadiness Lead the Table of Grace
 
 **Scripture Reference:** Matthew 25:32
 
-**Production lens note:** The architecture assigns hodos; the production lens uses the separating of the nations because the way of Jesus becomes visible in lived mercy.
+**Context and language lens:** The separating of the nations because the way of Jesus becomes visible in lived mercy.
 
 Matthew 25:32 moves into the scene of gathering and separation. Jesus is revealing that the road of discipleship has visible fruit.
 
@@ -144,17 +144,17 @@ Walking with Jesus means letting mercy become visible on the road.
 
 **Journal prompt:** Where is grace asking to become visible instead of remaining only a feeling?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Let Holy Steadiness Lead the Table of Grace in one faithful step today.
 
 ---
 
 ## Day 296 - October 23
 
-### Choose the Healing Touch
+### Choose Holy Steadiness in the Healing Touch
 
 **Scripture Reference:** Matthew 25:34
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses the King's welcome because resurrection hope receives inheritance as grace, then moves toward mercy.
+**Context and language lens:** The King's welcome because resurrection hope receives inheritance as grace, then moves toward mercy.
 
 Matthew 25:34 speaks the King's welcome and points toward inheritance prepared by the Father. Mercy is held inside a larger story of grace.
 
@@ -172,17 +172,17 @@ Walking with Jesus means letting received inheritance become generous compassion
 
 **Journal prompt:** Where do I need to receive God's welcome before I try to serve well?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Choose Holy Steadiness in the Healing Touch in one faithful step today.
 
 ---
 
 ## Day 297 - October 24
 
-### Listen for the Call to Follow
+### Listen Holy Steadiness in for the Call to Follow
 
 **Scripture Reference:** Matthew 25:36
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' identification with vulnerable people because abiding with Christ makes mercy concrete.
+**Context and language lens:** Jesus' identification with vulnerable people because abiding with Christ makes mercy concrete.
 
 Matthew 25:36 places mercy in embodied places: need, exposure, sickness, imprisonment, and presence. Jesus ties discipleship to concrete care.
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting Sabbath nearness become practical compassion.
 
 **Journal prompt:** Who needs my presence, prayer, or practical care without performance or pride?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Listen Holy Steadiness in for the Call to Follow in one faithful step today.

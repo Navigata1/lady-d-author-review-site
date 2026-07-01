@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 2:13
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the named river and region. The Comforter's nearness is framed as grace that meets the believer in real places, not only in private feelings.
+**Context and language lens:** The named river and region. The Comforter's nearness is framed as grace that meets the believer in real places, not only in private feelings.
 
 God's care is not vague. Genesis 2:13 names a river and a land. The garden story has movement, location, and particularity. God is present in a real creation, not only in an idea.
 
@@ -42,7 +42,7 @@ The Spirit brings the Comforter's nearness into real and named places.
 
 **Scripture Reference:** Genesis 2:14
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the named rivers and directions. Holy fire is framed as Spirit-given clarity that gives movement direction without turning correction into fear.
+**Context and language lens:** The named rivers and directions. Holy fire is framed as Spirit-given clarity that gives movement direction without turning correction into fear.
 
 Genesis 2:14 continues naming rivers and directions. The movement of water is not shapeless. It is located, directed, and known.
 
@@ -70,7 +70,7 @@ The Spirit refines the heart by giving correction a faithful direction.
 
 **Scripture Reference:** Genesis 2:15
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God placing the man in the garden to work and keep it. Rain for dry places is framed as restored stewardship that receives assignment without condemnation.
+**Context and language lens:** God placing the man in the garden to work and keep it. Rain for dry places is framed as restored stewardship that receives assignment without condemnation.
 
 Genesis 2:15 shows placement and purpose together. The man is not thrown into the garden as punishment. He is placed there with meaningful work and keeping.
 
@@ -98,7 +98,7 @@ The Spirit refreshes dry places by restoring responsibility to grace.
 
 **Scripture Reference:** Genesis 2:16
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God's generous permission before the boundary that follows. The anointing for today is framed as Spirit-led rest in God's generous yes.
+**Context and language lens:** God's generous permission before the boundary that follows. The anointing for today is framed as Spirit-led rest in God's generous yes.
 
 Genesis 2:16 begins with generosity. Before the heart hears boundary, it hears permission. God is not stingy with life.
 
@@ -126,7 +126,7 @@ The Spirit anoints today's obedience by rooting it in God's generous yes.
 
 **Scripture Reference:** Genesis 2:17
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's protective boundary concerning the tree of knowledge. The Spirit's fruit is framed as life protected by boundaries that love refuses to ignore.
+**Context and language lens:** God's protective boundary concerning the tree of knowledge. The Spirit's fruit is framed as life protected by boundaries that love refuses to ignore.
 
 Love tells the truth about danger. Genesis 2:17 brings a boundary with consequence. It is not cruelty. It is protection spoken by the God who gives life.
 
@@ -154,7 +154,7 @@ The Spirit grows fruit by teaching the heart to receive protective truth.
 
 **Scripture Reference:** Genesis 2:18
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's statement that isolation is not good and His provision of suitable help. Power to witness is framed as humility that receives relationship rather than performing strength alone.
+**Context and language lens:** God's statement that isolation is not good and His provision of suitable help. Power to witness is framed as humility that receives relationship rather than performing strength alone.
 
 Genesis 2:18 names what is not good and answers it with provision. God sees isolation clearly, and He does not shame the human need for help.
 
@@ -182,7 +182,7 @@ The Spirit refines witness by freeing the heart from isolated strength.
 
 **Scripture Reference:** Genesis 2:19
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God bringing living creatures to the man and allowing him to name them. The seal of belonging is framed as participatory responsibility under God's presence.
+**Context and language lens:** God bringing living creatures to the man and allowing him to name them. The seal of belonging is framed as participatory responsibility under God's presence.
 
 Genesis 2:19 shows God bringing living creatures to the man and making room for naming. Belonging does not erase responsibility. It invites participation under God's presence.
 

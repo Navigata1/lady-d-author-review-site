@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 22:9
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the king sending servants to the roads because trusted Lordship sends compassion beyond familiar rooms.
+**Context and language lens:** The king sending servants to the roads because trusted Lordship sends compassion beyond familiar rooms.
 
 Matthew 22:9 sends the servants out to the roads with an open invitation. The feast is prepared, and the call moves beyond the expected circle.
 
@@ -42,7 +42,7 @@ Walking with Jesus means trusting His Lordship enough to carry His welcome to th
 
 **Scripture Reference:** Matthew 23:36
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus' solemn word to His generation because light exposes what unrepented patterns finally produce.
+**Context and language lens:** Jesus' solemn word to His generation because light exposes what unrepented patterns finally produce.
 
 Matthew 23:36 carries the weight of Jesus' warning. He is not speaking to entertain curiosity. He is bringing hidden patterns into the light.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting His light guide the way back to peace.
 
 **Scripture Reference:** Matthew 24:14
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses the gospel of the kingdom going to all nations because discipleship follows Jesus into witness, endurance, and hope.
+**Context and language lens:** The gospel of the kingdom going to all nations because discipleship follows Jesus into witness, endurance, and hope.
 
 Matthew 24:14 points to the gospel of the kingdom being proclaimed as a witness. Jesus speaks within a serious passage, but He does not leave His people without mission.
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting grace become witness on the road.
 
 **Scripture Reference:** Matthew 24:17
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus' urgent instruction not to turn back because saving wholeness sometimes requires holy simplicity and prompt obedience.
+**Context and language lens:** Jesus' urgent instruction not to turn back because saving wholeness sometimes requires holy simplicity and prompt obedience.
 
 Matthew 24:17 carries urgency. Jesus speaks of a moment when lingering over what must be left behind would put the heart in danger.
 
@@ -126,7 +126,7 @@ Walking with Jesus means receiving rescue deeply enough to move forward.
 
 **Scripture Reference:** Matthew 24:2
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' word about the temple stones because the Teacher forms courage by showing what cannot carry eternal weight.
+**Context and language lens:** Jesus' word about the temple stones because the Teacher forms courage by showing what cannot carry eternal weight.
 
 Matthew 24:2 is sobering. Jesus points to impressive stones and tells His disciples that what appears immovable will not remain untouched.
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting the Teacher form courage deeper than what can f
 
 **Scripture Reference:** Matthew 24:23
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Jesus' warning against false claims because the way of Christ is not found by chasing every urgent voice.
+**Context and language lens:** Jesus' warning against false claims because the way of Christ is not found by chasing every urgent voice.
 
 Matthew 24:23 warns the disciples not to be pulled by claims that Christ is here or there. Jesus knows that fear can make people vulnerable to confident voices.
 
@@ -182,7 +182,7 @@ Walking with Jesus means staying with Him when other voices try to hurry your so
 
 **Scripture Reference:** Matthew 24:24
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Jesus' warning about false signs because resurrection hope clings to Christ's life when deception tries to imitate power.
+**Context and language lens:** Jesus' warning about false signs because resurrection hope clings to Christ's life when deception tries to imitate power.
 
 Matthew 24:24 warns that false christs and false prophets will show signs that could deceive, if possible, even the elect. Jesus is preparing His people to stay awake, grounded, and faithful.
 

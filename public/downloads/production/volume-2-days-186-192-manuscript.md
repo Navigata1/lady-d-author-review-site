@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 17:26
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses Jesus' teaching about sons being free because His light exposes the difference between obligation that proves worth and belonging that receives the Father's care.
+**Context and language lens:** Jesus' teaching about sons being free because His light exposes the difference between obligation that proves worth and belonging that receives the Father's care.
 
 Matthew 17:26 lands inside an ordinary question about temple tax, duty, and belonging. Jesus leads Peter beneath the surface. Before the practical answer comes, He reveals something about sonship.
 
@@ -32,7 +32,7 @@ Walking with Jesus means hearing freedom before handling obligation.
 
 **Journal prompt:** Where am I treating responsibility as proof of worth instead of response to belonging?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Discover the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means hearing freedom before handling obligation.
 
 **Scripture Reference:** Matthew 17:27
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses Jesus' instruction to Peter about the fish and the coin because following Him includes humble, practical obedience that does not need to win every public argument.
+**Context and language lens:** Jesus' instruction to Peter about the fish and the coin because following Him includes humble, practical obedience that does not need to win every public argument.
 
 Matthew 17:27 is wonderfully practical. Jesus has already revealed freedom, yet He still gives Peter a concrete instruction that meets the public need without unnecessary offense. Grace does not make the disciple careless. It makes obedience peaceful.
 
@@ -60,7 +60,7 @@ Walking with Jesus means obeying with freedom, wisdom, and peace.
 
 **Journal prompt:** What practical responsibility needs humble obedience instead of defensiveness?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Receive the Road with Jesus in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means obeying with freedom, wisdom, and peace.
 
 **Scripture Reference:** Matthew 17:5
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses the Father's voice at the transfiguration because saving nearness centers the disciple on Jesus, the beloved Son, before fear or confusion can scatter attention.
+**Context and language lens:** The Father's voice at the transfiguration because saving nearness centers the disciple on Jesus, the beloved Son, before fear or confusion can scatter attention.
 
 Matthew 17:5 brings the Father's witness over the mountain. The disciples are surrounded by glory, cloud, and holy awe. In the middle of it, the Father directs their attention to Jesus.
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting the Father's witness center the whole life on C
 
 **Journal prompt:** What competing voice needs to become quiet so I can listen to Jesus?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Trust the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting the Father's witness center the whole life on C
 
 **Scripture Reference:** Matthew 17:6
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses the disciples falling in fear because peace as wholeness does not deny holy awe, but receives Christ's mercy inside it.
+**Context and language lens:** The disciples falling in fear because peace as wholeness does not deny holy awe, but receives Christ's mercy inside it.
 
 Matthew 17:6 shows the disciples overwhelmed. They fall on their faces and are deeply afraid. Holy moments can expose how small we are, how little we control, and how much mercy we need.
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting peace begin where fear has been named.
 
 **Journal prompt:** What fear needs to be named before Jesus instead of hidden behind strength?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Let Hope Rise the Way of Peace in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting peace begin where fear has been named.
 
 **Scripture Reference:** Matthew 17:7
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses Jesus touching the fearful disciples and calling them up because His Lordship is tender authority that raises the heart from fear into obedience.
+**Context and language lens:** Jesus touching the fearful disciples and calling them up because His Lordship is tender authority that raises the heart from fear into obedience.
 
 Matthew 17:7 is tender and strong. Jesus comes near, touches His disciples, and calls them up out of fear. His authority does not crush them. His presence lifts them.
 
@@ -144,7 +144,7 @@ Walking with Jesus means rising because the Lord has come near.
 
 **Journal prompt:** Where is Jesus calling me to rise from fear into obedient trust?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Carry the Table of Grace in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means rising because the Lord has come near.
 
 **Scripture Reference:** Matthew 17:8
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses the disciples lifting their eyes and seeing Jesus only because light gives direction by clearing the field of rival centers.
+**Context and language lens:** The disciples lifting their eyes and seeing Jesus only because light gives direction by clearing the field of rival centers.
 
 Matthew 17:8 brings the scene to a clear focus. The disciples lift their eyes and see Jesus. The glory, fear, and confusion settle around one center: Christ Himself.
 
@@ -172,7 +172,7 @@ Walking with Jesus means lifting the eyes until Christ is central again.
 
 **Journal prompt:** What has been competing with Jesus for the center of my attention?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Lean Into the Healing Touch in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means lifting the eyes until Christ is central again.
 
 **Scripture Reference:** Matthew 18:10
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses Jesus' warning not to despise little ones because following Him includes reverence for the vulnerable and refusal to treat small people as small before God.
+**Context and language lens:** Jesus' warning not to despise little ones because following Him includes reverence for the vulnerable and refusal to treat small people as small before God.
 
 Matthew 18:10 turns the disciple's attention toward little ones. Jesus warns against despising them and points to their value before the Father. The verse is a holy correction to pride, hurry, and dismissive religion.
 
@@ -200,4 +200,4 @@ Walking with Jesus means guarding the dignity of the little ones before the Fath
 
 **Journal prompt:** Who might I be overlooking that Jesus calls precious before the Father?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through See Again the Call to Follow in one faithful step today.

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 25:23
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses the master's welcome because resurrection hope hears joy where fear expected only evaluation.
+**Context and language lens:** The master's welcome because resurrection hope hears joy where fear expected only evaluation.
 
 Matthew 25:23 continues the master's welcome to a faithful servant. The servant is received into joy, not merely measured by output.
 
@@ -42,7 +42,7 @@ Walking with Jesus means hearing the Master's joy as part of the call.
 
 **Scripture Reference:** Matthew 25:24
 
-**Production lens note:** The architecture assigns meno; the production lens uses the fearful servant's accusation because abiding heals distorted views of the Master's heart.
+**Context and language lens:** The fearful servant's accusation because abiding heals distorted views of the Master's heart.
 
 Matthew 25:24 reveals how the servant viewed the master. Fear had shaped his interpretation until the master seemed harsh, demanding, and unsafe.
 
@@ -70,7 +70,7 @@ Walking with Jesus means staying near enough for the Master's heart to become cl
 
 **Scripture Reference:** Matthew 25:26
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses the master's hard answer because compassion tells the truth when fear has become an excuse for refusal.
+**Context and language lens:** The master's hard answer because compassion tells the truth when fear has become an excuse for refusal.
 
 Matthew 25:26 is sober. The master answers the servant's excuse directly. Grace does not confuse fear with faithfulness.
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting compassion tell the truth that sets stewardship
 
 **Scripture Reference:** Matthew 25:29
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' stewardship principle because the Teacher forms receptive faithfulness rather than passive holding.
+**Context and language lens:** Jesus' stewardship principle because the Teacher forms receptive faithfulness rather than passive holding.
 
 Matthew 25:29 is a principle of stewardship that can feel severe when read apart from the whole story. In context, it presses the difference between faithful use and fearful preservation.
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting the Teacher turn received grace into living fai
 
 **Scripture Reference:** Matthew 25:32
 
-**Production lens note:** The architecture assigns hodos; the production lens uses the separating of the nations because the way of Jesus becomes visible in lived mercy.
+**Context and language lens:** The separating of the nations because the way of Jesus becomes visible in lived mercy.
 
 Matthew 25:32 moves into the scene of gathering and separation. Jesus is revealing that the road of discipleship has visible fruit.
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting mercy become visible on the road.
 
 **Scripture Reference:** Matthew 25:34
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses the King's welcome because resurrection hope receives inheritance as grace, then moves toward mercy.
+**Context and language lens:** The King's welcome because resurrection hope receives inheritance as grace, then moves toward mercy.
 
 Matthew 25:34 speaks the King's welcome and points toward inheritance prepared by the Father. Mercy is held inside a larger story of grace.
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting received inheritance become generous compassion
 
 **Scripture Reference:** Matthew 25:36
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' identification with vulnerable people because abiding with Christ makes mercy concrete.
+**Context and language lens:** Jesus' identification with vulnerable people because abiding with Christ makes mercy concrete.
 
 Matthew 25:36 places mercy in embodied places: need, exposure, sickness, imprisonment, and presence. Jesus ties discipleship to concrete care.
 

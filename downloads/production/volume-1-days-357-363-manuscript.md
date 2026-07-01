@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 15:27
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses the arrival at Elim because the verse centers on chosen love giving the delivered people a place of provision after wilderness thirst.
+**Context and language lens:** The arrival at Elim because the verse centers on chosen love giving the delivered people a place of provision after wilderness thirst.
 
 The promise that holds may look like a place to sit down and breathe. Exodus 15:27 brings Israel to Elim, where water and shade meet the people after the dry road. The verse is not loud, but it is tender. After thirst, there is provision. After movement, there is a place to camp.
 
@@ -44,7 +44,7 @@ The Father's promise holds the heart by providing what the heart could not manuf
 
 **Scripture Reference:** Exodus 19:1
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses the timing of Israel's arrival in the wilderness of Sinai because the verse centers on the Redeemer calling His people forward with purpose after deliverance.
+**Context and language lens:** The timing of Israel's arrival in the wilderness of Sinai because the verse centers on the Redeemer calling His people forward with purpose after deliverance.
 
 The heart that calls you is patient enough to keep leading after the first rescue. Exodus 19:1 marks a new moment in Israel's journey. The people who left Egypt have now come into the wilderness of Sinai. God has not delivered them into aimlessness. He is bringing them toward covenant belonging.
 
@@ -74,7 +74,7 @@ The Redeemer who brought you out is faithful to call you near.
 
 **Scripture Reference:** Exodus 19:2
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Israel camping before the mountain because the verse centers on faithful love sending the people into a prepared place of encounter.
+**Context and language lens:** Israel camping before the mountain because the verse centers on faithful love sending the people into a prepared place of encounter.
 
 Love that sends you also knows where to stop you. Exodus 19:2 shows Israel moving from Rephidim into the wilderness of Sinai and camping before the mountain. The people are not merely passing through scenery. They are being positioned for encounter.
 
@@ -104,7 +104,7 @@ The Father's faithful love can position you for encounter before it sends you in
 
 **Scripture Reference:** Exodus 19:4
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses God's reminder that He carried His people to Himself because the verse centers on the heart learning covenant mercy before covenant obedience.
+**Context and language lens:** God's reminder that He carried His people to Himself because the verse centers on the heart learning covenant mercy before covenant obedience.
 
 Covenant mercy begins with what God has done. Exodus 19:4 reminds Israel that the Lord acted against Egypt, carried His people, and brought them to Himself. Before any command is given, the Father rehearses grace.
 
@@ -134,7 +134,7 @@ Daily surrender on Sabbath is covenant trust before covenant action.
 
 **Scripture Reference:** Exodus 19:5
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses the treasured-possession promise because the verse centers on covenant love inviting obedience from a people already welcomed by God.
+**Context and language lens:** The treasured-possession promise because the verse centers on covenant love inviting obedience from a people already welcomed by God.
 
 The Father's welcome gives obedience a home. Exodus 19:5 calls Israel to listen and keep covenant, but the invitation is held inside belonging. The earth is the Lord's, and yet He names His people as treasured in a particular way. Hope rises when obedience is heard inside welcome instead of fear.
 
@@ -164,7 +164,7 @@ The treasured heart can obey with hope because welcome came first.
 
 **Scripture Reference:** Exodus 19:6
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses God's naming of His people as priestly and holy because the verse centers on chosen love giving identity before public vocation.
+**Context and language lens:** God's naming of His people as priestly and holy because the verse centers on chosen love giving identity before public vocation.
 
 Beloved identity is not small. Exodus 19:6 names a people with holy calling. The Lord speaks identity before the people fully understand how to carry it. He is forming a community that belongs to Him and bears witness to Him.
 
@@ -194,7 +194,7 @@ The Father names His people so their obedience can carry His presence, not their
 
 **Scripture Reference:** Exodus 19:8
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses the people's response to God's covenant words because the verse centers on redeemed people answering the God who found, carried, and called them.
+**Context and language lens:** The people's response to God's covenant words because the verse centers on redeemed people answering the God who found, carried, and called them.
 
 Love that finds you invites a real response. Exodus 19:8 shows the people answering together. Their words come after God's reminder of deliverance, nearness, treasured belonging, and calling. Response is not the beginning of grace. It is the answer to grace.
 

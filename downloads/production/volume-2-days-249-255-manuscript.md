@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 21:5
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the humble King entering on the donkey because peace becomes whole when compassion travels in meekness instead of force.
+**Context and language lens:** The humble King entering on the donkey because peace becomes whole when compassion travels in meekness instead of force.
 
 Matthew 21:5 reveals the King who comes gently. Jesus does not enter with the posture of domination. He fulfills the promise with humility, and His compassion carries strength without harshness.
 
@@ -42,7 +42,7 @@ Walking with Jesus means serving in the strength of His gentleness.
 
 **Scripture Reference:** Matthew 21:8
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the crowd spreading garments and branches because Lordship reveals itself when people make room for the King's path.
+**Context and language lens:** The crowd spreading garments and branches because Lordship reveals itself when people make room for the King's path.
 
 Matthew 21:8 shows the crowd making a road of honor. Garments and branches are placed before Jesus. The scene is public, but it asks a private question: what will I lay down so the King has His rightful way?
 
@@ -70,7 +70,7 @@ Walking with Jesus means laying something down so His compassion can move.
 
 **Scripture Reference:** Matthew 22:1
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus answering with parables because light can expose fear through story before the heart knows how guarded it has become.
+**Context and language lens:** Jesus answering with parables because light can expose fear through story before the heart knows how guarded it has become.
 
 Matthew 22:1 opens another parable. Jesus answers with a story, and the story begins to shine light on invitation, refusal, readiness, and the heart's response to the kingdom.
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting His light make courage honest.
 
 **Scripture Reference:** Matthew 22:10
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses the servants gathering all they found because discipleship serves the wide mercy of the King's invitation.
+**Context and language lens:** The servants gathering all they found because discipleship serves the wide mercy of the King's invitation.
 
 Matthew 22:10 shows servants going out and gathering people until the wedding hall is filled. The invitation reaches beyond the expected list. The hall is filled because the king's call is generous.
 
@@ -126,7 +126,7 @@ Walking with Jesus means carrying the invitation with hope.
 
 **Scripture Reference:** Matthew 22:13
 
-**Production lens note:** The architecture assigns sozo; the production lens uses the wedding garment warning because saving wholeness receives grace seriously rather than treating the King's invitation casually.
+**Context and language lens:** The wedding garment warning because saving wholeness receives grace seriously rather than treating the King's invitation casually.
 
 Matthew 22:13 is a severe moment in the parable. The invitation is generous, but the king's presence is not treated casually. The warning reminds us that grace is not costume jewelry; it is a covering we must truly receive.
 
@@ -154,7 +154,7 @@ Walking with Jesus means receiving the garment of grace, not just entering the r
 
 **Scripture Reference:** Matthew 22:18
 
-**Production lens note:** The architecture assigns eirene; the production lens uses Jesus perceiving hypocrisy because peace is not naivete and compassion can see what is false without becoming cruel.
+**Context and language lens:** Jesus perceiving hypocrisy because peace is not naivete and compassion can see what is false without becoming cruel.
 
 Matthew 22:18 shows Jesus perceiving the malice behind a question. He is not fooled by flattery or trapped by performance. His peace is clear-eyed.
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting peace stay honest.
 
 **Scripture Reference:** Matthew 22:2
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the kingdom compared to a wedding feast because Lordship invites the heart into the joy of the Son.
+**Context and language lens:** The kingdom compared to a wedding feast because Lordship invites the heart into the joy of the Son.
 
 Matthew 22:2 frames the kingdom as a wedding feast prepared by a king for his son. The image begins with authority, joy, preparation, and invitation. The King is not offering a cold summons; He is announcing a celebration.
 

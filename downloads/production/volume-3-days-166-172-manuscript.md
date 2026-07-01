@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Numbers 11:8
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses the people's daily handling and preparing of manna. The anointing for today is framed as God's nearness becoming discernible in ordinary receiving, preparing, and sharing.
+**Context and language lens:** The people's daily handling and preparing of manna. The anointing for today is framed as God's nearness becoming discernible in ordinary receiving, preparing, and sharing.
 
 Numbers 11:8 shows provision being gathered, prepared, and made usable. Daily grace still asks to be received and handled faithfully.
 
@@ -42,7 +42,7 @@ The Spirit gives gifts for the body by making ordinary provision usable through 
 
 **Scripture Reference:** Numbers 11:9
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses manna arriving with the dew. The Spirit's fruit is framed as Spirit-breathed witness that hope can rise quietly with daily mercy.
+**Context and language lens:** Manna arriving with the dew. The Spirit's fruit is framed as Spirit-breathed witness that hope can rise quietly with daily mercy.
 
 Numbers 11:9 returns to quiet provision. Manna arrives with the morning dew, steady and undeserved.
 
@@ -70,7 +70,7 @@ The Spirit gives gifts for the body by letting hope rise through daily mercy.
 
 **Scripture Reference:** Numbers 11:10
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Moses hearing the people weep and feeling the burden before the Lord. Power to witness is framed as being set apart to carry grief honestly into God's presence.
+**Context and language lens:** Moses hearing the people weep and feeling the burden before the Lord. Power to witness is framed as being set apart to carry grief honestly into God's presence.
 
 Numbers 11:10 is not a peaceful leadership moment. Moses hears widespread weeping, and the burden becomes heavy.
 
@@ -98,7 +98,7 @@ The Spirit gives gifts for the body by setting burdens apart for honest interces
 
 **Scripture Reference:** Numbers 11:11
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Moses' honest question to God under leadership strain. The seal of belonging is framed as strength to bring hard questions to God instead of abandoning the body.
+**Context and language lens:** Moses' honest question to God under leadership strain. The seal of belonging is framed as strength to bring hard questions to God instead of abandoning the body.
 
 Numbers 11:11 gives space for a strained servant to speak honestly to God. The pressure is not hidden under polished religious language.
 
@@ -126,7 +126,7 @@ The Spirit gives gifts for the body by strengthening honest belonging under pres
 
 **Scripture Reference:** Numbers 11:12
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses Moses' image of carrying the people like a nursing caregiver. Prayer beyond words is framed as renewal for caregiving burdens that exceed human capacity.
+**Context and language lens:** Moses' image of carrying the people like a nursing caregiver. Prayer beyond words is framed as renewal for caregiving burdens that exceed human capacity.
 
 Numbers 11:12 exposes the weight Moses feels. The burden is described with caregiving imagery, intimate and exhausting.
 
@@ -154,7 +154,7 @@ The Spirit gives gifts for the body by renewing caregivers who know they need Go
 
 **Scripture Reference:** Numbers 11:13
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Moses' question about where provision will come from. Wind in the waiting is framed as God's voice becoming discernible when love does not know how to meet the need.
+**Context and language lens:** Moses' question about where provision will come from. Wind in the waiting is framed as God's voice becoming discernible when love does not know how to meet the need.
 
 Numbers 11:13 holds the ache of a leader facing needs he cannot satisfy. The question is practical and desperate.
 
@@ -182,7 +182,7 @@ The Spirit gives gifts for the body by teaching love to listen when it cannot su
 
 **Scripture Reference:** Numbers 11:14
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Moses admitting he cannot carry the people alone. Oil for the journey is framed as Spirit-breathed witness that shared burden is part of God's mercy.
+**Context and language lens:** Moses admitting he cannot carry the people alone. Oil for the journey is framed as Spirit-breathed witness that shared burden is part of God's mercy.
 
 Numbers 11:14 is holy honesty. Moses says the burden is too heavy for him to carry alone.
 

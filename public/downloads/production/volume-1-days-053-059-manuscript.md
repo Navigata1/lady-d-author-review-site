@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 15:8
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `ruach/appayim/natsab/qapha/tehom` - breath, nostrils, standing up, congealing, and the deep - because the verse belongs to the Red Sea song and describes the Lord's power over the waters.
+**Context and language lens:** `ruach/appayim/natsab/qapha/tehom` - breath, nostrils, standing up, congealing, and the deep - because the verse belongs to the Red Sea song and describes the Lord's power over the waters.
 
 The Father's patience is not weakness. Exodus 15:8 remembers the God who ruled over the waters when His people could not make a way for themselves. The sea that looked impossible to Israel was not impossible to Him. Creation itself answered to His command.
 
@@ -32,7 +32,7 @@ Beloved identity does not mean every pressure disappears. It means you stand bef
 
 **Journal prompt:** Where do I need the Father's patience to replace fear-driven urgency?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Let Love Teach the Father's Patience into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Beloved identity does not mean every pressure disappears. It means you stand bef
 
 **Scripture Reference:** Exodus 19:20
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `yarad/qara/alah` - descend, call, and go up - because the verse describes the Lord descending on Sinai and calling Moses upward.
+**Context and language lens:** `yarad/qara/alah` - descend, call, and go up - because the verse describes the Lord descending on Sinai and calling Moses upward.
 
 Love stronger than fear does not make God small. Exodus 19:20 brings us to Sinai, where the Lord descends and calls. This is not casual language. The mountain scene carries weight, holiness, and awe. Beloved identity is not built by making the Father tame enough to manage. It is built by learning that the holy God is also the God who calls.
 
@@ -60,7 +60,7 @@ Today, listen for the call inside reverence. Let the Father's holiness steady yo
 
 **Journal prompt:** Where is fear making God's call feel unsafe, and what would reverent trust look like there?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Awaken Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Today, listen for the call inside reverence. Let the Father's holiness steady yo
 
 **Scripture Reference:** Exodus 19:3
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `alah/qara/bayit/yaaqob/yisrael` - go up, call, house of Jacob, and children of Israel - because the verse introduces God's message to His rescued covenant people.
+**Context and language lens:** `alah/qara/bayit/yaaqob/yisrael` - go up, call, house of Jacob, and children of Israel - because the verse introduces God's message to His rescued covenant people.
 
 Restoring compassion speaks to a people with a story. Exodus 19:3 does not begin with a nameless crowd. The Lord's message is addressed to the house of Jacob and the children of Israel. God knows the family line, the wrestling, the weakness, the rescue, and the promise. He speaks to people with history.
 
@@ -88,7 +88,7 @@ Embrace restoring compassion by allowing God to name you more deeply than your h
 
 **Journal prompt:** What part of my story needs the Father's restoring compassion instead of my silence?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Embrace Restoring Compassion into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Embrace restoring compassion by allowing God to name you more deeply than your h
 
 **Scripture Reference:** Exodus 19:7
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `qara/zaqen/siym/dabar/tsavah` - call, elders, set before, words, and command - because the verse shows Moses placing the Lord's words before the elders.
+**Context and language lens:** `qara/zaqen/siym/dabar/tsavah` - call, elders, set before, words, and command - because the verse shows Moses placing the Lord's words before the elders.
 
 The promise that holds is not vague. Exodus 19:7 shows Moses calling the elders and setting before them the words the Lord commanded. God's people were not asked to build identity from guesses. The Father's covenant word was placed before them.
 
@@ -116,7 +116,7 @@ Remember the promise that holds by placing God's word before the loudest word in
 
 **Journal prompt:** What word from God needs to stand before the loudest voice in my life right now?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Remember the Promise That Holds into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Remember the promise that holds by placing God's word before the loudest word in
 
 **Scripture Reference:** Exodus 20:12
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `kabad/av/em/arak/yamim/adamah` - honor, father, mother, lengthened days, and land - because the verse gives the command to honor father and mother within covenant life.
+**Context and language lens:** `kabad/av/em/arak/yamim/adamah` - honor, father, mother, lengthened days, and land - because the verse gives the command to honor father and mother within covenant life.
 
 The heart that calls you is not careless with home. Exodus 20:12 brings beloved identity into family life through the command to honor father and mother. God cares about how love moves through generations. He cares about the way honor, memory, responsibility, and healing shape a household.
 
@@ -144,7 +144,7 @@ Walk in the heart that calls you today. Let God form a generational witness thro
 
 **Journal prompt:** What would faithful honor look like in my family story without denying truth or safety?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Walk in the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -154,11 +154,11 @@ Walk in the heart that calls you today. Let God form a generational witness thro
 
 **Scripture Reference:** Exodus 20:24
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `mizbeach/adamah/shem/bo/barak` - altar, earth, name, come, and bless - because the verse connects worship, God's named presence, and blessing.
+**Context and language lens:** `mizbeach/adamah/shem/bo/barak` - altar, earth, name, come, and bless - because the verse connects worship, God's named presence, and blessing.
 
 Love that sends you begins again at worship. Exodus 20:24 speaks of an altar, offerings, the Lord's name, His coming near, and His blessing. The details belong to Israel's sanctuary-shaped worship life, but the devotional heart can still hear the invitation: do not build life apart from God's presence.
 
-Peace leads when worship is simple and surrendered. The altar of earth reminds us that God is not impressed by spiritual performance. He meets His people by His own mercy, in the place where His name is honored. Blessing flows from His presence, not from our ability to decorate devotion.
+Peace leads when worship is simple and surrendered. The altar of earth reminds us that God is not impressed by spiritual self-display. He meets His people by His own mercy, in the place where His name is honored. Blessing flows from His presence, not from our ability to decorate devotion.
 
 This matters when you are trying to serve, lead, give, write, work, parent, minister, or carry responsibility. Love may send you into many places, but it should not send you away from worship. If peace is going to lead, the heart must return to the presence of God.
 
@@ -172,7 +172,7 @@ Let peace lead love that sends you today. Do not rush from task to task without 
 
 **Journal prompt:** Where do I need to return to worship before trying to carry responsibility?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Let Peace Lead Love That Sends You into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Let peace lead love that sends you today. Do not rush from task to task without 
 
 **Scripture Reference:** Exodus 20:5
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `shachah/abad/qanna/paqad/avon` - bow down, serve, jealous, attend to, and iniquity - because the verse warns against idolatrous worship and names the generational weight of sin.
+**Context and language lens:** `shachah/abad/qanna/paqad/avon` - bow down, serve, jealous, attend to, and iniquity - because the verse warns against idolatrous worship and names the generational weight of sin.
 
 Covenant mercy tells the truth about rival worship. Exodus 20:5 is a weighty commandment text. It warns against bowing down to idols and serving them, and it speaks of God's holy jealousy and the generational consequences of iniquity. This is not a verse to flatten into fear. It is a verse to handle with reverence.
 
@@ -200,4 +200,4 @@ The Father is not inviting you into despair. He is inviting you into clean alleg
 
 **Journal prompt:** What rival allegiance needs to lose authority in my heart today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Choose Covenant Mercy into one faithful step today.

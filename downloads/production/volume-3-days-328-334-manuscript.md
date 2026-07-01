@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 10:2
 
-**Production lens correction:** The architecture assigned `chrisma`; the production lens uses the naming of the first apostles. Rain for dry places is framed as anointing that teaches, marks, and empowers ordinary named people for Jesus' mission.
+**Context and language lens:** The naming of the first apostles. Rain for dry places is framed as anointing that teaches, marks, and empowers ordinary named people for Jesus' mission.
 
 Matthew 10:2 begins naming the twelve apostles. Mission becomes personal before it becomes public.
 
@@ -42,7 +42,7 @@ The Spirit forms freedom, fire, and holiness by anointing ordinary named lives f
 
 **Scripture Reference:** Matthew 10:3
 
-**Production lens correction:** The architecture assigned `sphragizo`; the production lens uses the varied list of disciples. The anointing for today is framed as sealed belonging among different stories and backgrounds.
+**Context and language lens:** The varied list of disciples. The anointing for today is framed as sealed belonging among different stories and backgrounds.
 
 Matthew 10:3 continues the list with disciples whose stories and temperaments were not identical. Jesus gathers real people, not interchangeable images.
 
@@ -70,7 +70,7 @@ The Spirit forms freedom, fire, and holiness by sealing belonging among differen
 
 **Scripture Reference:** Matthew 10:4
 
-**Production lens correction:** The architecture assigned `charisma`; the production lens uses the completion of the disciple list, including difficult and sobering names. The Spirit's fruit is framed as gift of grace for service, not self-display.
+**Context and language lens:** The completion of the disciple list, including difficult and sobering names. The Spirit's fruit is framed as gift of grace for service, not self-display.
 
 Matthew 10:4 completes the list with names that remind the reader how sobering human calling can be. A place near holy work does not automatically make the heart surrendered.
 
@@ -98,7 +98,7 @@ The Spirit forms freedom, fire, and holiness by keeping gift submitted to mercy.
 
 **Scripture Reference:** Matthew 10:5
 
-**Production lens correction:** The architecture assigned `eleutheria`; the production lens uses Jesus sending the twelve with specific boundaries. Power to witness is framed as Spirit-given freedom that obeys direction instead of wandering into self-directed mission.
+**Context and language lens:** Jesus sending the twelve with specific boundaries. Power to witness is framed as Spirit-given freedom that obeys direction instead of wandering into self-directed mission.
 
 Matthew 10:5 shows Jesus sending the twelve with boundaries. The mission is empowered, but it is not self-invented.
 
@@ -126,7 +126,7 @@ The Spirit forms freedom, fire, and holiness by making witness free enough to ob
 
 **Scripture Reference:** Matthew 10:6
 
-**Production lens correction:** The architecture assigned `parakletos`; the production lens uses Jesus directing the disciples toward lost sheep of Israel. The seal of belonging is framed as the Comforter's help when mission turns toward those who are near, vulnerable, and wandering.
+**Context and language lens:** Jesus directing the disciples toward lost sheep of Israel. The seal of belonging is framed as the Comforter's help when mission turns toward those who are near, vulnerable, and wandering.
 
 Matthew 10:6 narrows the disciples' attention toward a people described as lost. The instruction is particular, compassionate, and near.
 
@@ -154,7 +154,7 @@ The Spirit forms freedom, fire, and holiness by sending comforted people toward 
 
 **Scripture Reference:** Matthew 10:7
 
-**Production lens correction:** The architecture assigned `chrisma`; the production lens uses Jesus' proclamation instruction. Prayer beyond words is framed as anointing that teaches speech to announce God's nearness with humility.
+**Context and language lens:** Jesus' proclamation instruction. Prayer beyond words is framed as anointing that teaches speech to announce God's nearness with humility.
 
 Matthew 10:7 gives the disciples a message to carry. Their words are not self-generated; they are entrusted.
 
@@ -182,7 +182,7 @@ The Spirit forms freedom, fire, and holiness by anointing speech to announce God
 
 **Scripture Reference:** Matthew 10:8
 
-**Production lens correction:** The architecture assigned `sphragizo`; the production lens uses Jesus connecting ministry to received grace and generous giving. Wind in the waiting is framed as sealed belonging that serves without grasping.
+**Context and language lens:** Jesus connecting ministry to received grace and generous giving. Wind in the waiting is framed as sealed belonging that serves without grasping.
 
 Matthew 10:8 ties ministry to received grace. The disciples are not owners of power; they are stewards of mercy.
 

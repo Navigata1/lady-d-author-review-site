@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 24:3
 
-**Production lens note:** The architecture assigns meno; the production lens uses the disciples coming to Jesus privately because abiding begins by bringing honest questions close to Him.
+**Context and language lens:** The disciples coming to Jesus privately because abiding begins by bringing honest questions close to Him.
 
 Matthew 24:3 shows the disciples coming to Jesus privately with questions about what He has said. They do not understand everything, but they bring their concern near.
 
@@ -32,7 +32,7 @@ Walking with Jesus means bringing the question near enough for mercy to guide it
 
 **Journal prompt:** What question do I need to bring close to Jesus instead of carrying alone?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Let Mercy Speak the Light on the Path in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means bringing the question near enough for mercy to guide it
 
 **Scripture Reference:** Matthew 24:30
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses the appearing of the Son of Man because Christ's compassion is not detached from His final authority.
+**Context and language lens:** The appearing of the Son of Man because Christ's compassion is not detached from His final authority.
 
 Matthew 24:30 points to the Son of Man appearing with power and glory. The passage carries awe, gravity, and holy clarity.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting His coming glory purify today's compassion.
 
 **Journal prompt:** Where do I need Christ to hold tenderness and clarity together in me?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Breathe the Invitation in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting His coming glory purify today's compassion.
 
 **Scripture Reference:** Matthew 24:35
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' enduring words because the Teacher forms disciples through what will not pass away.
+**Context and language lens:** Jesus' enduring words because the Teacher forms disciples through what will not pass away.
 
 Matthew 24:35 says that heaven and earth will pass away, but Jesus' words will not pass away. Everything else is measured against the endurance of His word.
 
@@ -88,7 +88,7 @@ Walking with Jesus means being formed by the word that will not pass away.
 
 **Journal prompt:** Which word of Jesus needs to become more permanent in my life?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Hold Fast to the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means being formed by the word that will not pass away.
 
 **Scripture Reference:** Matthew 24:37
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Jesus' comparison to Noah's days because the way of Jesus stays awake while ordinary life continues.
+**Context and language lens:** Jesus' comparison to Noah's days because the way of Jesus stays awake while ordinary life continues.
 
 Matthew 24:37 compares the coming of the Son of Man to the days of Noah. Jesus is not asking His disciples to despise ordinary life; He is teaching them not to sleepwalk through it.
 
@@ -116,7 +116,7 @@ Walking with Jesus means staying awake to Him on the road you already walk.
 
 **Journal prompt:** Where have I been going through the motions instead of walking awake with Jesus?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Return to the Road with Jesus in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means staying awake to Him on the road you already walk.
 
 **Scripture Reference:** Matthew 24:4
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Jesus' warning against deception because resurrection hope keeps the heart anchored to the living Christ.
+**Context and language lens:** Jesus' warning against deception because resurrection hope keeps the heart anchored to the living Christ.
 
 Matthew 24:4 begins with a warning: see that no one leads you astray. Jesus knows that deception often speaks with confidence, urgency, and spiritual language.
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting resurrection hope make your discernment steady.
 
 **Journal prompt:** What voice has been asking for trust that belongs only to Jesus?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Yield to the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting resurrection hope make your discernment steady.
 
 **Scripture Reference:** Matthew 24:43
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' watchfulness image because abiding produces alertness without anxiety.
+**Context and language lens:** Jesus' watchfulness image because abiding produces alertness without anxiety.
 
 Matthew 24:43 uses the image of a homeowner staying awake because he knows the need for watchfulness. Jesus is calling His people to alert faithfulness.
 
@@ -172,7 +172,7 @@ Walking with Jesus means abiding alert, not anxious.
 
 **Journal prompt:** Where is Jesus calling me to readiness rather than anxiety?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Anchor the Way of Peace in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means abiding alert, not anxious.
 
 **Scripture Reference:** Matthew 24:48
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses the servant who says the master is delayed because compassion must stay faithful while waiting.
+**Context and language lens:** The servant who says the master is delayed because compassion must stay faithful while waiting.
 
 Matthew 24:48 reveals the danger of a servant who begins to live as though the master will not come soon. Delay becomes an excuse for carelessness.
 
@@ -200,4 +200,4 @@ Walking with Jesus means waiting at the table of grace without losing the Master
 
 **Journal prompt:** Where has waiting made my compassion thinner, and how can Sabbath grace restore it?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Discover the Table of Grace in one faithful step today.

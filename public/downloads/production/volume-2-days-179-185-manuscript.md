@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 17:1
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses Jesus taking Peter, James, and John up the mountain because His compassion prepares disciples for costly truth by giving them a glimpse of glory.
+**Context and language lens:** Jesus taking Peter, James, and John up the mountain because His compassion prepares disciples for costly truth by giving them a glimpse of glory.
 
 Matthew 17:1 begins a holy ascent. Jesus takes three disciples with Him up the mountain. They do not yet understand everything that is ahead, but He brings them near.
 
@@ -32,7 +32,7 @@ Walking with Jesus means receiving grace before the next hard road.
 
 **Journal prompt:** Where do I need to recognize preparation as mercy?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Stand in the Table of Grace in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means receiving grace before the next hard road.
 
 **Scripture Reference:** Matthew 17:13
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses the disciples understanding Jesus' words about John the Baptist because the Teacher forms hindsight, discernment, and sober trust after confusion.
+**Context and language lens:** The disciples understanding Jesus' words about John the Baptist because the Teacher forms hindsight, discernment, and sober trust after confusion.
 
 Matthew 17:13 shows understanding arriving. The disciples recognize what Jesus has been teaching them. Some clarity comes after walking with Him through questions.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting grace turn delayed understanding into faithful 
 
 **Journal prompt:** What do I understand now that I could not understand then?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Let Grace Form the Healing Touch in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting grace turn delayed understanding into faithful 
 
 **Scripture Reference:** Matthew 17:14
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the man approaching Jesus and kneeling before Him because the road with Jesus receives desperate need at His feet.
+**Context and language lens:** The man approaching Jesus and kneeling before Him because the road with Jesus receives desperate need at His feet.
 
 Matthew 17:14 brings the story down from the mountain into human need. A man approaches Jesus and kneels. Glory is not detached from pain.
 
@@ -88,7 +88,7 @@ Walking with Jesus means following Him from glory into mercy.
 
 **Journal prompt:** What need do I need to bring to Jesus without pretense?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Behold the Call to Follow in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means following Him from glory into mercy.
 
 **Scripture Reference:** Matthew 17:16
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses the disciples' inability to help because following Jesus includes bringing ministry failure, family pain, and unanswered need back to Him.
+**Context and language lens:** The disciples' inability to help because following Jesus includes bringing ministry failure, family pain, and unanswered need back to Him.
 
 Matthew 17:16 is honest about inability. The need had been brought to the disciples, and they could not heal it. The verse does not hide the disappointment.
 
@@ -116,7 +116,7 @@ Walking with Jesus means following Him with honest weakness instead of hidden fa
 
 **Journal prompt:** Where do I need to bring inability back to Jesus?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Hold Fast to Resurrection Hope in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means following Him with honest weakness instead of hidden fa
 
 **Scripture Reference:** Matthew 17:17
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses Jesus calling the need back to Himself because His saving work gathers weakness, unbelief, and pain into His presence.
+**Context and language lens:** Jesus calling the need back to Himself because His saving work gathers weakness, unbelief, and pain into His presence.
 
 Matthew 17:17 carries both grief and invitation. Jesus names the unbelief around Him, yet He still calls the suffering child to be brought near. His correction does not cancel His mercy.
 
@@ -144,7 +144,7 @@ Walking with Jesus means returning to His saving presence with the whole need.
 
 **Journal prompt:** Where do I need both correction and mercy from Jesus?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Return to the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means returning to His saving presence with the whole need.
 
 **Scripture Reference:** Matthew 17:18
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses Jesus' rebuke and the child's healing because peace as wholeness is found under Christ's authority.
+**Context and language lens:** Jesus' rebuke and the child's healing because peace as wholeness is found under Christ's authority.
 
 Matthew 17:18 shows Jesus acting with authority. The tormenting power is rebuked, and the child is healed. The passage reveals Jesus before it asks anything of us.
 
@@ -172,7 +172,7 @@ Walking with Jesus means trusting His authority to bring wholeness where chaos h
 
 **Journal prompt:** What truth about Jesus must get the first word over my worry?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Yield to the Light on the Path in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means trusting His authority to bring wholeness where chaos h
 
 **Scripture Reference:** Matthew 17:20
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses Jesus' teaching about little faith and moving mountains because the Lord invites concrete trust, not religious display.
+**Context and language lens:** Jesus' teaching about little faith and moving mountains because the Lord invites concrete trust, not religious display.
 
 Matthew 17:20 brings the disciples into the heart of faith. Jesus speaks about little faith, mustard-seed trust, and impossible-looking obstacles. He does not invite performance. He invites trust in Him.
 
@@ -200,4 +200,4 @@ Walking with Jesus means anchoring faith in His Lordship before facing the mount
 
 **Journal prompt:** What mountain needs one small act of obedience under Christ's Lordship?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Anchor the Invitation in one faithful step today.

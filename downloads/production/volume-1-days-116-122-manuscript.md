@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 50:21
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `al-tira'u/anokhi akhalkel etchem ve'et tapp'chem/waynachem otam/waydabber al-libam` - do not fear, I will provide for you and your little ones, he comforted them, and spoke to their heart - because the verse centers on mercy that answers fear with provision and heart-level comfort.
+**Context and language lens:** `al-tira'u/anokhi akhalkel etchem ve'et tapp'chem/waynachem otam/waydabber al-libam` - do not fear, I will provide for you and your little ones, he comforted them, and spoke to their heart - because the verse centers on mercy that answers fear with provision and heart-level comfort.
 
 Covenant mercy speaks where fear is still listening. Genesis 50:21 shows Joseph answering his brothers' fear with more than a sentence. He tells them not to be afraid, promises provision for them and their little ones, comforts them, and speaks to their heart.
 
@@ -42,7 +42,7 @@ Let the Spirit press this from information into formation. Where fear expects ab
 
 **Scripture Reference:** Genesis 50:22
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `wayyeshev Yosef beMitzrayim/hu uveit aviv/waychi Yosef me'ah va'eser shanim` - Joseph dwelt in Egypt, he and his father's house, and Joseph lived one hundred ten years - because the verse centers on settled life after the crisis and the restored household remaining together.
+**Context and language lens:** `wayyeshev Yosef beMitzrayim/hu uveit aviv/waychi Yosef me'ah va'eser shanim` - Joseph dwelt in Egypt, he and his father's house, and Joseph lived one hundred ten years - because the verse centers on settled life after the crisis and the restored household remaining together.
 
 The Father's welcome is not only for dramatic reunion moments. Genesis 50:22 is quiet. Joseph remains in Egypt with his father's household, and his life continues to one hundred ten years. After weeping, burial, fear, and reassurance, there is settled life.
 
@@ -70,7 +70,7 @@ Take one surrendered step before worry gets the first word. Let today's obedienc
 
 **Scripture Reference:** Genesis 50:4
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `wayya'avru yeme vekhito/wayedabber Yosef el-beit Par'oh/im-na matzati chen be'eneikhem/dabberu-na be'oznei Par'oh` - the days of weeping passed, Joseph spoke to Pharaoh's house, if I have found favor in your eyes, please speak in Pharaoh's ears - because the verse centers on humble advocacy after mourning.
+**Context and language lens:** `wayya'avru yeme vekhito/wayedabber Yosef el-beit Par'oh/im-na matzati chen be'eneikhem/dabberu-na be'oznei Par'oh` - the days of weeping passed, Joseph spoke to Pharaoh's house, if I have found favor in your eyes, please speak in Pharaoh's ears - because the verse centers on humble advocacy after mourning.
 
 Beloved identity knows when to speak after the days of weeping have passed. Genesis 50:4 shows Joseph moving from mourning into advocacy. He approaches Pharaoh's household with humility and asks them to speak on his behalf.
 
@@ -98,7 +98,7 @@ Let prayer turn insight into obedience before noon. If a request needs to be mad
 
 **Scripture Reference:** Genesis 50:5
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `avi hishbi'ani/lo anokhi met/beqivri asher kariti li/be'erets Kena'an shammah tiqbereni/ve'atah e'eleh-na ve'eqberah et-avi ve'ashuvah` - my father made me swear, I am dying, in my grave in Canaan you shall bury me, now let me go up and bury my father, and I will return - because the verse centers on honoring a promise while remaining faithful to present responsibilities.
+**Context and language lens:** `avi hishbi'ani/lo anokhi met/beqivri asher kariti li/be'erets Kena'an shammah tiqbereni/ve'atah e'eleh-na ve'eqberah et-avi ve'ashuvah` - my father made me swear, I am dying, in my grave in Canaan you shall bury me, now let me go up and bury my father, and I will return - because the verse centers on honoring a promise while remaining faithful to present responsibilities.
 
 Love that finds you also anchors you to promises that matter. Genesis 50:5 shows Joseph explaining the oath he made to his father. Jacob had asked to be buried in Canaan, and Joseph asks to go bury him while also promising to return.
 
@@ -126,7 +126,7 @@ Start from what God has revealed, not from what the day is demanding. Let love a
 
 **Scripture Reference:** Genesis 50:6
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `wayyomer Par'oh/aleh uqbor et-avikha/ka'asher hishbi'ekha` - Pharaoh said, go up and bury your father as he made you swear - because the verse centers on permission to fulfill an oath without striving or manipulation.
+**Context and language lens:** `wayyomer Par'oh/aleh uqbor et-avikha/ka'asher hishbi'ekha` - Pharaoh said, go up and bury your father as he made you swear - because the verse centers on permission to fulfill an oath without striving or manipulation.
 
 Grace before performance can sound like permission. Genesis 50:6 is simple: Pharaoh tells Joseph to go and bury his father as he had sworn. The way opens. Joseph does not have to force it, scheme for it, or prove his grief is worthy.
 
@@ -154,7 +154,7 @@ Do not rush past the verse; let it steady you before you move. Grace may be givi
 
 **Scripture Reference:** Genesis 50:7
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `wayya'al Yosef liqbor et-aviv/wayya'alu itto kol avdei Par'oh/ziqnei veito/vekol ziqnei erets Mitzrayim` - Joseph went up to bury his father, and with him went Pharaoh's servants, the elders of his house, and all the elders of Egypt - because the verse centers on love moving into public, communal action.
+**Context and language lens:** `wayya'al Yosef liqbor et-aviv/wayya'alu itto kol avdei Par'oh/ziqnei veito/vekol ziqnei erets Mitzrayim` - Joseph went up to bury his father, and with him went Pharaoh's servants, the elders of his house, and all the elders of Egypt - because the verse centers on love moving into public, communal action.
 
 Love that moves into action does not always move alone. Genesis 50:7 shows Joseph going to bury his father, and a whole company goes with him: Pharaoh's servants, the elders of his house, and the elders of Egypt.
 
@@ -182,7 +182,7 @@ Walk out of this page with courage, tenderness, and clarity. Love may be asking 
 
 **Scripture Reference:** Genesis 50:8
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `vekol beit Yosef/ve'echav/uveit aviv/raq tappam vetzonam uveqaram azvu be'erets Goshen` - all the house of Joseph, his brothers, and his father's house went, but their little ones, flocks, and herds were left in Goshen - because the verse centers on courageous movement with wise limits and entrusted dependents.
+**Context and language lens:** `vekol beit Yosef/ve'echav/uveit aviv/raq tappam vetzonam uveqaram azvu be'erets Goshen` - all the house of Joseph, his brothers, and his father's house went, but their little ones, flocks, and herds were left in Goshen - because the verse centers on courageous movement with wise limits and entrusted dependents.
 
 Love stronger than fear can move forward without dragging everything into the road. Genesis 50:8 shows Joseph's household, brothers, and father's house going for the burial journey, while the little ones, flocks, and herds remain in Goshen.
 

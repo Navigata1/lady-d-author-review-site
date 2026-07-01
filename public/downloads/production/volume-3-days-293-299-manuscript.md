@@ -10,11 +10,11 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 293 - October 20
 
-### Remember Rain for Dry Places
+### Remember Holy Steadiness in Rain for Dry Places
 
 **Scripture Reference:** Judges 15:7
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Samson's vow of revenge without quoting it. Rain for dry places is framed as Spirit-given capacity to let prayer reach the place where injury wants to become retaliation.
+**Context and language lens:** Samson's vow of revenge without quoting it. Rain for dry places is framed as Spirit-given capacity to let prayer reach the place where injury wants to become retaliation.
 
 Judges 15:7 brings Samson's wounded resolve into the open. The injury has become a plan.
 
@@ -32,17 +32,17 @@ The Spirit teaches prayer by sending strength into the dry place where revenge h
 
 **Journal prompt:** Where has anger become the weather I expect to live under?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Remember Holy Steadiness in Rain for Dry Places into one faithful step today.
 
 ---
 
 ## Day 294 - October 21
 
-### Walk in the Anointing for Today
+### Walk Holy Steadiness in in the Anointing for Today
 
 **Scripture Reference:** Judges 15:8
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the violent aftermath and Samson's withdrawal to frame anointing for today as cleansing after a reaction has crossed a line.
+**Context and language lens:** The violent aftermath and Samson's withdrawal to frame anointing for today as cleansing after a reaction has crossed a line.
 
 Judges 15:8 shows retaliation moving from words into action. Afterward, Samson withdraws into the cleft of the rock.
 
@@ -60,17 +60,17 @@ The Spirit teaches prayer by renewing the heart after reaction exposes it.
 
 **Journal prompt:** What reaction still needs cleansing instead of hiding?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Walk Holy Steadiness in in the Anointing for Today into one faithful step today.
 
 ---
 
 ## Day 295 - October 22
 
-### Let Peace Lead the Spirit's Fruit
+### Let Holy Steadiness Lead the Spirit's Fruit
 
 **Scripture Reference:** Judges 15:9
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses the Philistine camp in Judah as a pressure scene. Peace leading the Spirit's fruit is framed as discerning God's nearness when fear gathers around the people.
+**Context and language lens:** The Philistine camp in Judah as a pressure scene. Peace leading the Spirit's fruit is framed as discerning God's nearness when fear gathers around the people.
 
 Judges 15:9 shows the conflict spreading. The pressure is no longer private; fear settles over a whole place.
 
@@ -88,17 +88,17 @@ The Spirit teaches prayer by making God's nearness discernible when fear gathers
 
 **Journal prompt:** What voice is directing my next response: fear, pressure, or God?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Let Holy Steadiness Lead the Spirit's Fruit into one faithful step today.
 
 ---
 
 ## Day 296 - October 23
 
-### Choose Power to Witness
+### Choose Holy Steadiness in Power to Witness
 
 **Scripture Reference:** Judges 15:10
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses the question of why conflict has come. Power to witness is framed as Spirit-breathed truth when people demand explanations under pressure.
+**Context and language lens:** The question of why conflict has come. Power to witness is framed as Spirit-breathed truth when people demand explanations under pressure.
 
 Judges 15:10 brings a question into the tension. The people want to know why the enemy has come against them.
 
@@ -116,17 +116,17 @@ The Spirit teaches prayer by breathing truthful witness into pressured explanati
 
 **Journal prompt:** Where am I explaining myself from defensiveness instead of prayer?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Choose Holy Steadiness in Power to Witness into one faithful step today.
 
 ---
 
 ## Day 297 - October 24
 
-### Listen for the Seal of Belonging
+### Listen Holy Steadiness in for the Seal of Belonging
 
 **Scripture Reference:** Judges 15:11
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Judah's fearful submission and Samson's self-justifying answer. The seal of belonging is framed as set-apart identity when people have learned to live under fear.
+**Context and language lens:** Judah's fearful submission and Samson's self-justifying answer. The seal of belonging is framed as set-apart identity when people have learned to live under fear.
 
 Judges 15:11 shows a crowd coming to Samson in the cleft of the rock. Their words reveal how deeply fear has shaped their sense of what is normal.
 
@@ -144,17 +144,17 @@ The Spirit teaches prayer by sealing identity in God before fear defines normal.
 
 **Journal prompt:** Where has fear trained me to call captivity wisdom?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Listen Holy Steadiness in for the Seal of Belonging into one faithful step today.
 
 ---
 
 ## Day 298 - October 25
 
-### Stand in Prayer Beyond Words
+### Stand Holy Steadiness in in Prayer Beyond Words
 
 **Scripture Reference:** Judges 15:12
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Samson being bound by his own people. Prayer beyond words is framed as Spirit-given capacity when restraint feels humiliating and trust feels costly.
+**Context and language lens:** Samson being bound by his own people. Prayer beyond words is framed as Spirit-given capacity when restraint feels humiliating and trust feels costly.
 
 Judges 15:12 shows Samson facing restraint from people who should have stood with him. The scene is tense, humiliating, and full of danger.
 
@@ -172,17 +172,17 @@ The Spirit teaches prayer by strengthening the heart when restraint feels humili
 
 **Journal prompt:** Where does restraint feel like rejection to me?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Stand Holy Steadiness in in Prayer Beyond Words into one faithful step today.
 
 ---
 
 ## Day 299 - October 26
 
-### Let Grace Form Wind in the Waiting
+### Let Holy Steadiness Form Wind in the Waiting
 
 **Scripture Reference:** Judges 15:13
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the new cords and the movement out from the rock. Wind in the waiting is framed as cleansing grace when the next step includes limitation.
+**Context and language lens:** The new cords and the movement out from the rock. Wind in the waiting is framed as cleansing grace when the next step includes limitation.
 
 Judges 15:13 shows Samson bound and brought up from the rock. Movement comes, but it comes with cords.
 
@@ -200,4 +200,4 @@ The Spirit teaches prayer by cleansing waiting before limitation becomes bittern
 
 **Journal prompt:** Where am I moving forward but still feeling constrained?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Let Holy Steadiness Form Wind in the Waiting into one faithful step today.

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 10:5
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus' focused sending of the Twelve because peace grows when the disciple receives the assignment Jesus gives instead of carrying every possible burden at once.
+**Context and language lens:** Jesus' focused sending of the Twelve because peace grows when the disciple receives the assignment Jesus gives instead of carrying every possible burden at once.
 
 Resurrection hope can look like a clear next assignment. Matthew 10:5 shows Jesus sending the Twelve with specific direction. He does not hand them a vague burden for the whole world in one breath. He gives them a focused path for that moment.
 
@@ -32,7 +32,7 @@ Walking with Jesus means receiving His assignment with peace.
 
 **Journal prompt:** What burden have I been carrying that Jesus has not assigned to me today?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Behold Resurrection Hope in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means receiving His assignment with peace.
 
 **Scripture Reference:** Matthew 12:1
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the Sabbath-field setting and Jesus' presence with hungry disciples because His Lordship protects mercy from religious scrutiny.
+**Context and language lens:** The Sabbath-field setting and Jesus' presence with hungry disciples because His Lordship protects mercy from religious scrutiny.
 
 The Friend who leads stays near when need is misunderstood. Matthew 12:1 places Jesus with His disciples as hunger, Sabbath setting, and religious scrutiny meet in one scene. The disciples are close to Jesus, yet they are still watched and criticized.
 
@@ -60,7 +60,7 @@ Walking with Jesus means staying close to Him when obedience is misunderstood.
 
 **Journal prompt:** Where has fear of being misunderstood made me anxious in my walk with Jesus?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Follow the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means staying close to Him when obedience is misunderstood.
 
 **Scripture Reference:** Matthew 12:32
 
-**Production lens correction:** The architecture assigned `phos`; the production lens handles this warning pastorally as light exposing hardened resistance to the Spirit, not as a trap for tender consciences.
+**Context and language lens:** This lens reads this warning pastorally as light exposing hardened resistance to the Spirit, not as a trap for tender consciences.
 
 The light on the path tells the truth because Jesus loves the soul. Matthew 12:32 is a serious warning, and serious warnings should make the heart sober, not hopeless. Jesus is addressing resistance to the Spirit's witness, not tormenting tender people who long to belong to God.
 
@@ -88,7 +88,7 @@ Walking with Jesus means staying tender toward the light He gives.
 
 **Journal prompt:** Where is the Spirit inviting me to stay soft, honest, and responsive?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Rest in the Light on the Path in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means staying tender toward the light He gives.
 
 **Scripture Reference:** Matthew 12:8
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus as Lord of the Sabbath because abiding close to Him means receiving Sabbath as His mercy-shaped gift rather than a weapon of control.
+**Context and language lens:** Jesus as Lord of the Sabbath because abiding close to Him means receiving Sabbath as His mercy-shaped gift rather than a weapon of control.
 
 The invitation to abide close to Jesus includes learning His heart for Sabbath. Matthew 12:8 names the Son of Man as Lord of the Sabbath. This is not Jesus dismissing Sabbath. It is Jesus revealing His authority over it and His mercy within it.
 
@@ -116,7 +116,7 @@ Walking with Jesus means receiving Sabbath truth from the Lord of the Sabbath.
 
 **Journal prompt:** Where does Jesus want to join mercy and obedience more deeply in me?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Wake Up to the Invitation in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means receiving Sabbath truth from the Lord of the Sabbath.
 
 **Scripture Reference:** Matthew 13:19
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the seed snatched from the path because saving wholeness includes receiving the word deeply enough that it is not stolen by hardness or hurry.
+**Context and language lens:** The seed snatched from the path because saving wholeness includes receiving the word deeply enough that it is not stolen by hardness or hurry.
 
 The Shepherd's voice is meant to go deeper than the surface. Matthew 13:19 describes the word heard but not understood, and then snatched away. Jesus is not trying to embarrass the listener. He is teaching us how vulnerable an unreceived word can be.
 
@@ -144,7 +144,7 @@ Walking with Jesus means receiving His word deeply enough to keep it.
 
 **Journal prompt:** What tends to snatch God's word from my attention before it can take root?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Let Fire Refine the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means receiving His word deeply enough to keep it.
 
 **Scripture Reference:** Matthew 13:51
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus asking whether His disciples understand because peace grows through teachability, not pretending to understand more than we do.
+**Context and language lens:** Jesus asking whether His disciples understand because peace grows through teachability, not pretending to understand more than we do.
 
 The road with Jesus includes honest learning. Matthew 13:51 shows Jesus asking His disciples whether they understand. He is not afraid to question them. He is forming people who can receive, respond, and keep growing.
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting His questions form peace in a teachable heart.
 
 **Journal prompt:** What lesson has Jesus been repeating because He loves me enough to form me?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Come Home to the Road with Jesus in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting His questions form peace in a teachable heart.
 
 **Scripture Reference:** Matthew 14:12
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the disciples burying John and telling Jesus because His Lordship gives a place to carry grief, honor, and honest report.
+**Context and language lens:** The disciples burying John and telling Jesus because His Lordship gives a place to carry grief, honor, and honest report.
 
 The nearness of Christ gives grief somewhere holy to go. Matthew 14:12 follows the death of John the Baptist. John's disciples do what love requires, and then they go and tell Jesus. Their grief is not left floating in silence.
 
@@ -200,4 +200,4 @@ Walking with Jesus means practicing His nearness even in grief.
 
 **Journal prompt:** What grief, loss, or unfinished sorrow do I need to tell Jesus about honestly?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Practice the Nearness of Christ in one faithful step today.

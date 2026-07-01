@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Revelation 22:1
 
-**Production lens note:** The architecture assigns hodos; the production lens uses the river of life because the way of Jesus leads toward healing abundance, not spiritual exhaustion.
+**Context and language lens:** The river of life because the way of Jesus leads toward healing abundance, not spiritual exhaustion.
 
 Revelation 22:1 opens a vision of life flowing from God. The end of the story is not dryness, scarcity, or distance. It is life clear and near.
 
@@ -42,7 +42,7 @@ Walking with Jesus means following the road toward the river of life.
 
 **Scripture Reference:** Revelation 22:12
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Christ's coming with reward because resurrection hope takes faithful living seriously without turning grace into earning.
+**Context and language lens:** Christ's coming with reward because resurrection hope takes faithful living seriously without turning grace into earning.
 
 Revelation 22:12 points to Christ's coming and the meaningfulness of what has been done. The future is personal, near, and accountable.
 
@@ -70,7 +70,7 @@ Walking with Jesus means living faithfully because the coming Christ is gracious
 
 **Scripture Reference:** Revelation 22:14
 
-**Production lens note:** The architecture assigns meno; the production lens uses the blessed ones entering toward the tree of life because abiding hope receives cleansing and access as grace.
+**Context and language lens:** The blessed ones entering toward the tree of life because abiding hope receives cleansing and access as grace.
 
 Revelation 22:14 speaks blessing, cleansing, access, and the tree of life. The image carries homecoming after long exile.
 
@@ -98,7 +98,7 @@ Walking with Jesus means remaining near the One who opens the way to life.
 
 **Scripture Reference:** Revelation 22:16
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Jesus' self-witness as Root, Offspring, and Morning Star because His compassion gives identity and dawn.
+**Context and language lens:** Jesus' self-witness as Root, Offspring, and Morning Star because His compassion gives identity and dawn.
 
 Revelation 22:16 centers Jesus' own witness about who He is. He is rooted in promise, royal in fulfillment, and bright with morning hope.
 
@@ -126,7 +126,7 @@ Walking with Jesus means following the Morning Star before the day looks bright.
 
 **Scripture Reference:** Revelation 22:5
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses the promise of no night because the Teacher forms courage by showing the end of darkness.
+**Context and language lens:** The promise of no night because the Teacher forms courage by showing the end of darkness.
 
 Revelation 22:5 points toward a future without night and with God's servants reigning in His light. Darkness does not get the final say.
 
@@ -154,7 +154,7 @@ Walking with Jesus means learning courage from the promised end of night.
 
 **Scripture Reference:** Revelation 22:6
 
-**Production lens note:** The architecture assigns hodos; the production lens uses the trustworthy words because the road with Jesus rests on a faithful promise, not wishful thinking.
+**Context and language lens:** The trustworthy words because the road with Jesus rests on a faithful promise, not wishful thinking.
 
 Revelation 22:6 affirms the trustworthiness of what has been revealed. Hope has a foundation.
 
@@ -182,7 +182,7 @@ Walking with Jesus means leaning your weight on the faithful Word while you walk
 
 **Scripture Reference:** Revelation 22:7
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Christ's nearness and blessing because resurrection hope lives ready under the promise of His coming.
+**Context and language lens:** Christ's nearness and blessing because resurrection hope lives ready under the promise of His coming.
 
 Revelation 22:7 speaks with urgency and blessing. Jesus' coming is not an abstract doctrine; it is a promise meant to shape readiness.
 

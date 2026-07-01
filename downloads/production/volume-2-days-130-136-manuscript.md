@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 13:1
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus sitting beside the sea because the Teacher forms hearts in ordinary places, not only formal religious settings.
+**Context and language lens:** Jesus sitting beside the sea because the Teacher forms hearts in ordinary places, not only formal religious settings.
 
 The nearness of Christ can meet you beside the water, at the table, in the car, or in the quiet space before the day becomes loud. Matthew 13:1 places Jesus outside the house and by the sea, ready to teach in a setting that feels both ordinary and holy.
 
@@ -42,7 +42,7 @@ Walking with Jesus means being formed by His voice in ordinary places.
 
 **Scripture Reference:** Matthew 13:10
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the disciples' question about parables because the way of Jesus welcomes honest questions that stay close to Him.
+**Context and language lens:** The disciples' question about parables because the way of Jesus welcomes honest questions that stay close to Him.
 
 Peace does not require pretending every mystery is simple. Matthew 13:10 shows the disciples bringing their question to Jesus. They do not understand everything, but they come near enough to ask.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting honest questions keep you near enough to hear.
 
 **Scripture Reference:** Matthew 13:12
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus' teaching about receiving more light because resurrection-shaped hope grows where the heart stays responsive to what has already been given.
+**Context and language lens:** Jesus' teaching about receiving more light because resurrection-shaped hope grows where the heart stays responsive to what has already been given.
 
 Grace is generous, but it also trains response. Matthew 13:12 is sober because Jesus speaks about receiving, having, and losing. He is not playing games with the heart. He is teaching that receptivity matters.
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting received light become living response.
 
 **Scripture Reference:** Matthew 13:15
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus' warning about dull hearts, ears, and eyes because abiding keeps the heart soft enough to receive healing.
+**Context and language lens:** Jesus' warning about dull hearts, ears, and eyes because abiding keeps the heart soft enough to receive healing.
 
 Jesus tells the truth about spiritual dullness because He wants healing, not distance. Matthew 13:15 names a heart grown heavy, ears slow to hear, and eyes closed. The warning is serious, but the desire underneath it is restoration.
 
@@ -126,7 +126,7 @@ Walking with Jesus means abiding until the heart can hear again.
 
 **Scripture Reference:** Matthew 13:22
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the thorn-choked soil because Jesus' compassion sees how worry, pressure, and false security can choke the word before it bears fruit.
+**Context and language lens:** The thorn-choked soil because Jesus' compassion sees how worry, pressure, and false security can choke the word before it bears fruit.
 
 Jesus knows how a heart gets choked. Matthew 13:22 speaks of the word being crowded by the cares of the world and the deceitfulness of riches. This is not only about wealth. It is about whatever promises safety while stealing fruitfulness.
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting compassion pull thorns from the heart.
 
 **Scripture Reference:** Matthew 13:25
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses the enemy sowing weeds because the Teacher forms watchfulness without fear and patience without passivity.
+**Context and language lens:** The enemy sowing weeds because the Teacher forms watchfulness without fear and patience without passivity.
 
 Jesus teaches with clear eyes. Matthew 13:25 names the reality of an enemy sowing weeds while people slept. He does not pretend opposition is imaginary, but He also does not train His disciples to live frantic and suspicious.
 
@@ -182,7 +182,7 @@ Walking with Jesus means learning watchfulness that remains rooted in trust.
 
 **Scripture Reference:** Matthew 13:32
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the mustard seed because the road of Jesus honors small beginnings that become sheltering grace.
+**Context and language lens:** The mustard seed because the road of Jesus honors small beginnings that become sheltering grace.
 
 Mercy often begins smaller than we expected. Matthew 13:32 points to a tiny seed that grows into something large enough to give shelter. The kingdom does not need to impress the impatient in order to be real.
 

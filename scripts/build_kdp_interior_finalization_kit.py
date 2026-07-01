@@ -248,6 +248,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - Trilogy proof and copyedit audit pack with repetition ledgers, theological watchlist contexts, and volume proof checklists.
 - Proof decision resolution pack regenerated with zero current decision items.
 - Proof decision application pack generated; the prior 192-item title, morning-impact, and theology queue is preserved as evidence and now audits clear.
+- Reader-facing lens application and author-voice copyedit gate generated; the source and public manuscript mirrors now audit at 1,098 context/language lenses and zero internal production labels.
 - Public Vercel review page for author-facing review.
 
 ## Interior Finalization Deliverables In This Kit
@@ -320,14 +321,14 @@ Run three to seven passes depending on risk:
 - Final approved 6 x 9 upload interiors with locked page counts.
 - Regenerated full-wrap covers from final page counts.
 - Final KDP metadata approval for all three devotionals and all three companion journals.
-- Full author-voice copyedit after the proof decision queue clear.
+- Full author-voice line edit using the author-voice copyedit gate.
 - Author approval of companion journal rhythm and front/back matter.
 - KDP Previewer pass for each upload file.
 - Physical proof review before public release.
 
 ## Recommended Next Production Step
 
-Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack, trilogy proof audit pack, proof decision resolution pack, and proof decision application pack as the next trilogy-wide copyedit and theological proof surface. The proof decision queue is clear; the next gate is full author-voice copyedit, metadata approval, and final cover regeneration from locked page counts and paper type.
+Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack, trilogy proof audit pack, proof decision resolution pack, proof decision application pack, and author-voice copyedit gate as the next trilogy-wide copyedit and theological proof surface. The proof decision queue is clear; the next gate is full author-voice line edit, metadata approval, and final cover regeneration from locked page counts and paper type.
 """
 
 
@@ -366,12 +367,13 @@ def dashboard_html(commit: str) -> str:
         "Trilogy proof and copyedit audit pack generated with repetition ledgers, theological watchlist contexts, and volume proof checklists.",
         "Proof decision resolution pack regenerated with zero current title, morning-impact, or theology decisions.",
         "Proof decision application pack generated; the prior 192-item proof queue is preserved and now audits clear.",
+        "Author-voice copyedit gate generated with 1,098 source context/language lenses and zero internal production labels in the master manuscripts.",
     ]
     remaining = [
         "Final paper type and ISBN/barcode data.",
         "Author-approved dedication, acknowledgments, and bio.",
         "Final Bible translation permissions statement.",
-        "Final copyedit and theological proof pass.",
+        "Final author-voice line edit and theological proof pass.",
         "Author approval of companion journal rhythm and front/back matter.",
         "Final approved 6 x 9 devotional and journal upload interiors with locked page counts.",
         "Regenerated full-wrap covers from locked page counts.",
@@ -455,7 +457,7 @@ def dashboard_html(commit: str) -> str:
   <header>
     <div class="kicker">IDC Publishing release dashboard</div>
     <h1>Lady D Devotional Library release readiness</h1>
-    <p class="lead">The three devotional manuscripts are complete at the dated-entry level and now have master assemblies, companion journals, cover candidates, KDP trim math, devotional and companion journal full-wrap drafts, interior finalization templates, the first Volume 1 6 x 9 interior prototype, full 6 x 9 devotional drafts, full 6 x 9 companion journal drafts, a release-upload readiness pack, a trilogy proof/copyedit audit pack, a proof decision resolution pack, and proof decision application evidence showing the prior 192-item queue now cleared. This dashboard separates what is complete from what still gates true KDP upload readiness.</p>
+    <p class="lead">The three devotional manuscripts are complete at the dated-entry level and now have master assemblies, companion journals, cover candidates, KDP trim math, devotional and companion journal full-wrap drafts, interior finalization templates, the first Volume 1 6 x 9 interior prototype, full 6 x 9 devotional drafts, full 6 x 9 companion journal drafts, a release-upload readiness pack, a trilogy proof/copyedit audit pack, a proof decision resolution pack, proof decision application evidence showing the prior 192-item queue now cleared, and an author-voice copyedit gate for the next line-edit pass. This dashboard separates what is complete from what still gates true KDP upload readiness.</p>
     <p><span class="status">Generated 2026-07-01</span> <span class="status">Base commit: {html.escape(commit)}</span></p>
     <div class="actions">
       <a href="production.html">Production Review</a>
@@ -481,6 +483,9 @@ def dashboard_html(commit: str) -> str:
       <a href="proof-decision-application.html">Proof Applied Page</a>
       <a href="downloads/production/kdp/proof-decision-application/Lady-D-Proof-Decision-Application-Pack.zip">Proof Applied ZIP</a>
       <a href="downloads/production/kdp/proof-decision-application/lady-d-proof-decision-application-pack.pdf">Proof Applied PDF</a>
+      <a href="author-voice-copyedit.html">Author Voice Gate</a>
+      <a href="downloads/production/kdp/author-voice-copyedit/Lady-D-Author-Voice-Copyedit-Pack.zip">Author Voice ZIP</a>
+      <a href="downloads/production/kdp/author-voice-copyedit/lady-d-author-voice-copyedit-pack.pdf">Author Voice PDF</a>
     </div>
   </header>
   <main>
@@ -616,8 +621,37 @@ def dashboard_html(commit: str) -> str:
       </div>
     </section>
     <section>
+      <h2>Author Voice Copyedit Gate</h2>
+      <p class="lead">The author-voice gate proves the internal production-lens language has been removed from the source and public manuscript surfaces, then names the remaining voice-rhythm work honestly before any final upload claim.</p>
+      <div class="grid">
+        <article class="card">
+          <span>Reader-facing lens cleanup</span>
+          <h3>1,098 context lenses</h3>
+          <p>Every devotional entry across the three volumes now has a reader-facing context/language lens in the source manuscript set and public mirror.</p>
+        </article>
+        <article class="card">
+          <span>Internal label audit</span>
+          <h3>0 remaining</h3>
+          <p>The regenerated master manuscripts report zero internal production-lens labels and zero Sunday mentions.</p>
+        </article>
+        <article class="card">
+          <span>Next editorial surface</span>
+          <h3>22 queue items</h3>
+          <p>The pack identifies repeated sentences, morning-impact patterns, and voice-rhythm issues for the next Lady D line edit.</p>
+        </article>
+      </div>
+      <div class="actions">
+        <a href="author-voice-copyedit.html">Open Author Voice Gate</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/Lady-D-Author-Voice-Copyedit-Pack.zip">Download Author Voice ZIP</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/lady-d-author-voice-copyedit-pack.pdf">Author Voice PDF</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/lady-d-author-voice-copyedit-pack.docx">Author Voice DOCX</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/author-voice-copyedit-pack.json">Author Voice JSON</a>
+        <a href="downloads/production/kdp/author-voice-copyedit/reader-facing-lens-application.md">Lens Application Report</a>
+      </div>
+    </section>
+    <section>
       <h2>Active Recommendation</h2>
-      <p class="lead">Use the three devotional drafts, three companion journal drafts, release-upload readiness pack, trilogy proof audit pack, proof decision resolution pack, and proof decision application pack as the next copyedit and theological proof surface. Do not mark any file as final upload-ready until author-voice copyedit, ISBN/barcode, paper type, Bible permissions, KDP Previewer, and physical proof review pass.</p>
+      <p class="lead">Use the three devotional drafts, three companion journal drafts, release-upload readiness pack, trilogy proof audit pack, proof decision resolution pack, proof decision application pack, and author-voice copyedit gate as the next copyedit and theological proof surface. Do not mark any file as final upload-ready until author-voice line edit, ISBN/barcode, paper type, Bible permissions, KDP Previewer, and physical proof review pass.</p>
       <p><a href="production.html">Return to production review page</a></p>
     </section>
   </main>

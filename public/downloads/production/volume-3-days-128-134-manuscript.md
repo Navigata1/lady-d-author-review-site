@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 31:13
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses God's sign of sanctifying His people. The Comforter's nearness is framed as being set apart by God before fruit is displayed.
+**Context and language lens:** God's sign of sanctifying His people. The Comforter's nearness is framed as being set apart by God before fruit is displayed.
 
 Exodus 31:13 makes belonging deeply practical. God does not merely ask His people to do holy things. He reminds them that He is the One who sanctifies them.
 
@@ -32,7 +32,7 @@ The Spirit grows fruit by keeping surrendered hearts near the God who sanctifies
 
 **Journal prompt:** Where am I trying to prove what only God can sanctify?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Behold the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit grows fruit by keeping surrendered hearts near the God who sanctifies
 
 **Scripture Reference:** Exodus 31:14
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses God's command to treat holy rest as holy. Holy fire is framed as reverent strength that protects surrender from casual disobedience.
+**Context and language lens:** God's command to treat holy rest as holy. Holy fire is framed as reverent strength that protects surrender from casual disobedience.
 
 Exodus 31:14 is not casual language. Holiness is treated as holy because God is holy. The heart is not asked to handle sacred things as if they are ordinary preferences.
 
@@ -60,7 +60,7 @@ The Spirit gives reverent strength to honor what God calls holy.
 
 **Journal prompt:** Where has my obedience become casual around something God calls holy?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Follow Holy Fire into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit gives reverent strength to honor what God calls holy.
 
 **Scripture Reference:** Exodus 31:15
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the rhythm of work and holy rest in the text. Rain for dry places is framed as renewal that protects surrender from being swallowed by productivity.
+**Context and language lens:** The rhythm of work and holy rest in the text. Rain for dry places is framed as renewal that protects surrender from being swallowed by productivity.
 
 Exodus 31:15 places work and holy rest inside God's authority. Productivity is not allowed to become the master of the soul.
 
@@ -88,7 +88,7 @@ The Spirit renews dry places by freeing the heart from productivity as identity.
 
 **Journal prompt:** Where has productivity been naming me before God does?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Rest in Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit renews dry places by freeing the heart from productivity as identity.
 
 **Scripture Reference:** Exodus 31:16
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses a covenant rhythm that God's people are called to keep. The anointing for today is framed as Spirit-enabled consistency over time.
+**Context and language lens:** A covenant rhythm that God's people are called to keep. The anointing for today is framed as Spirit-enabled consistency over time.
 
 Exodus 31:16 points to a rhythm that is kept, not merely admired. Covenant faithfulness has memory, repetition, and embodied practice.
 
@@ -116,7 +116,7 @@ The Spirit anoints surrendered fruit through faithful rhythm over time.
 
 **Journal prompt:** What faithful rhythm needs my next surrendered yes?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Wake Up to the Anointing for Today into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit anoints surrendered fruit through faithful rhythm over time.
 
 **Scripture Reference:** Exodus 31:17
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses the sign, creation pattern, and divine refreshment in the text. The Spirit's fruit is framed as witness that is refined by rest, creation memory, and surrendered limits.
+**Context and language lens:** The sign, creation pattern, and divine refreshment in the text. The Spirit's fruit is framed as witness that is refined by rest, creation memory, and surrendered limits.
 
 Exodus 31:17 ties God's people back to creation and to a sign of belonging. The rhythm speaks. It witnesses to the God who made, finished, and was refreshed.
 
@@ -144,7 +144,7 @@ The Spirit refines fruit into witness by teaching the heart surrendered limits.
 
 **Journal prompt:** Where has exhaustion become part of my witness?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Let Fire Refine the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit refines fruit into witness by teaching the heart surrendered limits.
 
 **Scripture Reference:** Exodus 31:18
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses God giving the tablets of testimony. Power to witness is framed as God's word being received, carried, and set apart in the life.
+**Context and language lens:** God giving the tablets of testimony. Power to witness is framed as God's word being received, carried, and set apart in the life.
 
 Exodus 31:18 closes the mountain conversation with testimony given by God. Witness begins with what God gives, not what the heart invents.
 
@@ -172,7 +172,7 @@ The Spirit empowers witness by setting apart the word carried in the life.
 
 **Journal prompt:** Where do my words need to carry God's truth instead of my reaction?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Come Home to Power to Witness into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit empowers witness by setting apart the word carried in the life.
 
 **Scripture Reference:** Exodus 35:1
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Moses gathering the congregation to hear God's commands. The seal of belonging is framed as gathered listening that strengthens surrender.
+**Context and language lens:** Moses gathering the congregation to hear God's commands. The seal of belonging is framed as gathered listening that strengthens surrender.
 
 Exodus 35:1 gathers the community before instruction. Belonging is not only private comfort; it is shared listening under God's word.
 
@@ -200,4 +200,4 @@ The Spirit strengthens belonging through gathered, surrendered listening.
 
 **Journal prompt:** Where have I withdrawn from gathered listening under God's word?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Practice the Seal of Belonging into one faithful step today.

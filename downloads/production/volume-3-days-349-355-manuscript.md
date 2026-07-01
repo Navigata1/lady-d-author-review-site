@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 10:24
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' teaching that a disciple is not above the teacher. The Comforter's nearness is framed as Spirit-grown fruit that keeps the learner close to Jesus.
+**Context and language lens:** Jesus' teaching that a disciple is not above the teacher. The Comforter's nearness is framed as Spirit-grown fruit that keeps the learner close to Jesus.
 
 Matthew 10:24 brings the heart back to humility. The disciple is not called to outrun the Teacher, outshine the Teacher, or build a safer path than the Teacher walked.
 
@@ -42,7 +42,7 @@ The Spirit forms a sealed and filled life by keeping discipleship close to Jesus
 
 **Scripture Reference:** Matthew 10:25
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' teaching about being treated as the Teacher was treated. Holy fire is framed as being filled enough to let misnaming be refined under Jesus.
+**Context and language lens:** Jesus' teaching about being treated as the Teacher was treated. Holy fire is framed as being filled enough to let misnaming be refined under Jesus.
 
 Matthew 10:25 tells the truth about misnaming. If Jesus was falsely accused, His followers should not be shocked when obedience is misunderstood.
 
@@ -70,7 +70,7 @@ The Spirit forms a sealed and filled life by filling the heart with Jesus' ident
 
 **Scripture Reference:** Matthew 10:26
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' command not to fear because hidden things will be revealed. Rain for dry places is framed as the Spirit's breath bringing courage where fear has dried the heart.
+**Context and language lens:** Jesus' command not to fear because hidden things will be revealed. Rain for dry places is framed as the Spirit's breath bringing courage where fear has dried the heart.
 
 Matthew 10:26 speaks directly to fear. Jesus does not deny that there are hidden pressures, covered motives, and unseen tensions. He tells His disciples not to be ruled by them.
 
@@ -98,7 +98,7 @@ The Spirit forms a sealed and filled life by refreshing courage when hidden fear
 
 **Scripture Reference:** Matthew 10:27
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' movement from private instruction to public witness. The anointing for today is framed as power to speak mercy with courage when God brings truth into the open.
+**Context and language lens:** Jesus' movement from private instruction to public witness. The anointing for today is framed as power to speak mercy with courage when God brings truth into the open.
 
 Matthew 10:27 turns hidden instruction into open witness. What is received with Jesus in the quiet is not meant to stay buried in fear.
 
@@ -126,7 +126,7 @@ The Spirit forms a sealed and filled life by turning private instruction into co
 
 **Scripture Reference:** Matthew 10:28
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' teaching about rightly ordered fear. The Spirit's fruit is framed as the pledge of coming life that frees the heart from lesser fears.
+**Context and language lens:** Jesus' teaching about rightly ordered fear. The Spirit's fruit is framed as the pledge of coming life that frees the heart from lesser fears.
 
 Matthew 10:28 is holy and weighty. Jesus does not invite careless courage; He calls the heart into rightly ordered reverence.
 
@@ -154,7 +154,7 @@ The Spirit forms a sealed and filled life by growing fruit from reverence that f
 
 **Scripture Reference:** Matthew 10:29
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' reminder that small lives are not unnoticed by the Father. Power to witness is framed as Spirit-grown fruit rooted in God's attentive care.
+**Context and language lens:** Jesus' reminder that small lives are not unnoticed by the Father. Power to witness is framed as Spirit-grown fruit rooted in God's attentive care.
 
 Matthew 10:29 draws the anxious heart toward the Father's attention. Nothing small is invisible to Him.
 
@@ -182,7 +182,7 @@ The Spirit forms a sealed and filled life by rooting witness in the Father's car
 
 **Scripture Reference:** Matthew 10:30
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' assurance of the Father's intimate knowledge. The seal of belonging is framed as being filled enough to rest under God's detailed care.
+**Context and language lens:** Jesus' assurance of the Father's intimate knowledge. The seal of belonging is framed as being filled enough to rest under God's detailed care.
 
 Matthew 10:30 brings comfort down to the smallest detail. Jesus wants the fearful heart to know that God's care is not vague.
 

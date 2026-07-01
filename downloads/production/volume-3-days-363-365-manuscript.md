@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 10:38
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' call to take up the cross and follow Him. Rain for dry places is framed as the Spirit's pledge that costly obedience is held by what God has promised.
+**Context and language lens:** Jesus' call to take up the cross and follow Him. Rain for dry places is framed as the Spirit's pledge that costly obedience is held by what God has promised.
 
 Matthew 10:38 brings discipleship to a clear and costly place. Jesus does not call the heart to decorate faith; He calls the whole life to follow Him.
 
@@ -42,7 +42,7 @@ The Spirit forms a sealed and filled life by refreshing costly obedience with th
 
 **Scripture Reference:** Matthew 10:39
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' teaching about losing and finding life. The anointing for today is framed as Spirit-grown fruit that releases self-preservation and receives life from Jesus.
+**Context and language lens:** Jesus' teaching about losing and finding life. The anointing for today is framed as Spirit-grown fruit that releases self-preservation and receives life from Jesus.
 
 Matthew 10:39 turns the world's logic inside out. The life clutched for self-preservation becomes smaller, while the life surrendered to Jesus is found more truly.
 
@@ -70,7 +70,7 @@ The Spirit forms a sealed and filled life by growing fruit where surrendered lif
 
 **Scripture Reference:** Matthew 10:40
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' teaching that receiving His messengers is connected to receiving Him and the One who sent Him. The Spirit's fruit is framed as being filled enough to carry welcome that points beyond self.
+**Context and language lens:** Jesus' teaching that receiving His messengers is connected to receiving Him and the One who sent Him. The Spirit's fruit is framed as being filled enough to carry welcome that points beyond self.
 
 Matthew 10:40 closes the year with holy welcome. Jesus ties reception of His sent ones to reception of Himself and the Father who sent Him.
 

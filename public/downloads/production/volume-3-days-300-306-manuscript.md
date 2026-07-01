@@ -10,11 +10,11 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 300 - October 27
 
-### Behold Oil for the Journey
+### Behold Holy Steadiness in Oil for the Journey
 
 **Scripture Reference:** Judges 15:15
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses the jawbone scene without quoting it. Oil for the journey is framed as discerning God's nearness when an ordinary thing becomes part of a difficult deliverance.
+**Context and language lens:** The jawbone scene without quoting it. Oil for the journey is framed as discerning God's nearness when an ordinary thing becomes part of a difficult deliverance.
 
 Judges 15:15 shows Samson taking up what is near him in a moment of crisis. The story is forceful, but the devotional lesson must stay submitted to prayer instead of celebrating violence.
 
@@ -32,17 +32,17 @@ The Spirit teaches prayer by making God's nearness louder than the instrument in
 
 **Journal prompt:** What tool, gift, or survival response am I tempted to make my name?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Behold Holy Steadiness in Oil for the Journey into one faithful step today.
 
 ---
 
 ## Day 301 - October 28
 
-### Follow Freedom in the Spirit
+### Follow Holy Steadiness in Freedom in the Spirit
 
 **Scripture Reference:** Judges 15:16
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Samson's victory speech without quoting it. Freedom in the Spirit is framed as Spirit-breathed witness cleansed from self-glory.
+**Context and language lens:** Samson's victory speech without quoting it. Freedom in the Spirit is framed as Spirit-breathed witness cleansed from self-glory.
 
 Judges 15:16 brings speech after victory. The mouth tries to interpret what has happened.
 
@@ -60,17 +60,17 @@ The Spirit teaches prayer by cleansing witness after success.
 
 **Journal prompt:** Where do my words after success become louder than gratitude?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Follow Holy Steadiness in Freedom in the Spirit into one faithful step today.
 
 ---
 
 ## Day 302 - October 29
 
-### Rest in the Breath of God
+### Rest Holy Steadiness in in the Breath of God
 
 **Scripture Reference:** Judges 15:17
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Samson laying aside the instrument after the conflict. The breath of God is framed as set-apart release when the season requires letting go.
+**Context and language lens:** Samson laying aside the instrument after the conflict. The breath of God is framed as set-apart release when the season requires letting go.
 
 Judges 15:17 shows an ending gesture after the conflict. What was used is no longer held.
 
@@ -88,17 +88,17 @@ The Spirit teaches prayer by setting apart the courage to lay an old instrument 
 
 **Journal prompt:** What am I still holding because it helped me survive?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Rest Holy Steadiness in in the Breath of God into one faithful step today.
 
 ---
 
 ## Day 303 - October 30
 
-### Wake Up to the Comforter's Nearness
+### Wake Up to Holy Steadiness Through the Comforter's Nearness
 
 **Scripture Reference:** Judges 15:18
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Samson's thirst after deliverance. The Comforter's nearness is framed as strength to admit need after exertion.
+**Context and language lens:** Samson's thirst after deliverance. The Comforter's nearness is framed as strength to admit need after exertion.
 
 Judges 15:18 shows Samson depleted after the conflict. Strength has been spent, and thirst becomes honest prayer.
 
@@ -116,17 +116,17 @@ The Spirit teaches prayer by strengthening honest need after exertion.
 
 **Journal prompt:** Where am I tired but still performing strength?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Wake Up to Holy Steadiness Through the Comforter's Nearness into one faithful step today.
 
 ---
 
 ## Day 304 - October 31
 
-### Let Fire Refine Holy Fire
+### Let Holy Steadiness Refine Holy Fire
 
 **Scripture Reference:** Judges 15:20
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the summary of Samson's years of judging Israel. Holy fire is framed as cleansing legacy so long service remains surrendered.
+**Context and language lens:** The summary of Samson's years of judging Israel. Holy fire is framed as cleansing legacy so long service remains surrendered.
 
 Judges 15:20 steps back and names a longer season of leadership. A life is not only one crisis; it is also the pattern that follows.
 
@@ -144,17 +144,17 @@ The Spirit teaches prayer by cleansing long service into surrendered legacy.
 
 **Journal prompt:** What pattern is my life becoming through repeated choices?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Let Holy Steadiness Refine Holy Fire into one faithful step today.
 
 ---
 
 ## Day 305 - November 1
 
-### Discover the Anointing for Today
+### Discover Grateful Remembrance in the Anointing for Today
 
 **Scripture Reference:** 1 Samuel 10:2
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Samuel's directional word to Saul after anointing. The anointing for today is framed as discerning God's nearness when news changes what the heart has been chasing.
+**Context and language lens:** Samuel's directional word to Saul after anointing. The anointing for today is framed as discerning God's nearness when news changes what the heart has been chasing.
 
 1 Samuel 10:2 moves Saul from the moment of anointing into a word of direction and news. What had been lost is no longer the center of concern.
 
@@ -172,7 +172,7 @@ The Spirit forms freedom, fire, and holiness by reordering attention under God's
 
 **Journal prompt:** What lost thing or unresolved concern has been occupying too much of my attention?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Discover Grateful Remembrance in the Anointing for Today into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit forms freedom, fire, and holiness by reordering attention under God's
 
 **Scripture Reference:** 1 Samuel 10:3
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Saul's next appointed meeting on the road. The Spirit's fruit is framed as Spirit-breathed witness that receives provision without grasping.
+**Context and language lens:** Saul's next appointed meeting on the road. The Spirit's fruit is framed as Spirit-breathed witness that receives provision without grasping.
 
 1 Samuel 10:3 places Saul on a road where he will meet others carrying offerings and provision. The next step is not empty.
 
@@ -200,4 +200,4 @@ The Spirit forms freedom, fire, and holiness by teaching the heart to receive pr
 
 **Journal prompt:** Where am I bracing for lack instead of watching for provision?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Receive the Spirit's Fruit into one faithful step today.

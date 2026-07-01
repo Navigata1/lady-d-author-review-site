@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 19:1
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses Jesus moving from one region to another because following Him continues through transition, not only through familiar places.
+**Context and language lens:** Jesus moving from one region to another because following Him continues through transition, not only through familiar places.
 
 Matthew 19:1 begins with movement. Jesus finishes one stretch of teaching and goes on toward another place. Crowds continue to follow Him, and His ministry keeps meeting real need on the road.
 
@@ -42,7 +42,7 @@ Walking with Jesus means following Him through transition with trust.
 
 **Scripture Reference:** Matthew 19:10
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses the disciples' reaction to Jesus' marriage teaching because saving wholeness includes letting Christ reshape hard assumptions about covenant, commitment, and calling.
+**Context and language lens:** The disciples' reaction to Jesus' marriage teaching because saving wholeness includes letting Christ reshape hard assumptions about covenant, commitment, and calling.
 
 Matthew 19:10 shows the disciples reacting strongly to Jesus' teaching. His words have challenged easy assumptions, and they feel the weight of covenant faithfulness.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting saving wisdom make the heart whole.
 
 **Scripture Reference:** Matthew 19:13
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses children being brought to Jesus because peace makes room for the vulnerable instead of treating them as interruptions.
+**Context and language lens:** Children being brought to Jesus because peace makes room for the vulnerable instead of treating them as interruptions.
 
 Matthew 19:13 brings children near Jesus. Others see interruption. Jesus sees value, blessing, and welcome. The scene corrects the hurried disciple who forgets that the Kingdom is never too busy for the vulnerable.
 
@@ -98,7 +98,7 @@ Walking with Jesus means making room for those He receives.
 
 **Scripture Reference:** Matthew 19:17
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses Jesus redirecting the question about goodness because His Lordship centers the heart on God before obedience becomes self-display.
+**Context and language lens:** Jesus redirecting the question about goodness because His Lordship centers the heart on God before obedience becomes self-display.
 
 Matthew 19:17 brings a searching question before Jesus. Jesus redirects the heart toward God and toward the commandments. He will not let obedience become a spiritual trophy detached from the One who is good.
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting the Lord purify the motive under obedience.
 
 **Scripture Reference:** Matthew 19:18
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses Jesus naming commandments because light gives direction in ordinary relational faithfulness.
+**Context and language lens:** Jesus naming commandments because light gives direction in ordinary relational faithfulness.
 
 Matthew 19:18 shows Jesus naming concrete commandments. The conversation does not remain vague. Life with God touches how people are treated, protected, honored, and loved.
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting light become concrete love.
 
 **Scripture Reference:** Matthew 19:22
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses the rich young man's sorrow because following Jesus exposes attachments that promise life but cannot give it.
+**Context and language lens:** The rich young man's sorrow because following Jesus exposes attachments that promise life but cannot give it.
 
 Matthew 19:22 is tender and sad. A man comes close to Jesus, hears the call, and goes away sorrowful because he is deeply attached to what he owns.
 
@@ -182,7 +182,7 @@ Walking with Jesus means staying near when attachment is exposed.
 
 **Scripture Reference:** Matthew 19:25
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses the disciples' astonished question about salvation because surrender begins where human impossibility finally looks toward God.
+**Context and language lens:** The disciples' astonished question about salvation because surrender begins where human impossibility finally looks toward God.
 
 Matthew 19:25 brings astonishment into the open. The disciples feel the weight of what Jesus has said. If attachment, wealth, status, and human effort cannot secure life, the question becomes urgent: who can be saved?
 

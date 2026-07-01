@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 12:5
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `vayikach Avram et-Sarai ishto/ve'et-Lot ben-achiv/ve'et-kol-rekhusham/ve'et-hanefesh asher-asu becharan/vayetze'u lalekhet artzah kena'an/vayavo'u artzah kena'an` - Abram took Sarai, Lot, their gathered possessions, and the people attached to their household; they set out toward Canaan and came there - because the verse centers on obedience carrying real people, real history, and real responsibility into the promise.
+**Context and language lens:** `vayikach Avram et-Sarai ishto/ve'et-Lot ben-achiv/ve'et-kol-rekhusham/ve'et-hanefesh asher-asu becharan/vayetze'u lalekhet artzah kena'an/vayavo'u artzah kena'an` - Abram took Sarai, Lot, their gathered possessions, and the people attached to their household; they set out toward Canaan and came there - because the verse centers on obedience carrying real people, real history, and real responsibility into the promise.
 
 The heart that calls you does not always call you alone. Genesis 12:5 shows Abram moving with Sarai, Lot, possessions, and the people gathered with them in Haran. The promise begins to take shape through an actual household, not an imaginary life without attachments.
 
@@ -44,7 +44,7 @@ Receive the truth deeply enough that it changes your next decision. The call of 
 
 **Scripture Reference:** Genesis 12:6
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `vaya'avor Avram ba'aretz ad mekom Shekhem ad elon Moreh/vehakena'ani az ba'aretz` - Abram passed through the land to Shechem, to the oak of Moreh, while the Canaanite was then in the land - because the verse centers on being sent into a real place not yet free of tension.
+**Context and language lens:** `vaya'avor Avram ba'aretz ad mekom Shekhem ad elon Moreh/vehakena'ani az ba'aretz` - Abram passed through the land to Shechem, to the oak of Moreh, while the Canaanite was then in the land - because the verse centers on being sent into a real place not yet free of tension.
 
 Love that sends you does not always send you into easy ground. Genesis 12:6 places Abram in the land, but also tells us the Canaanite was there. The promise has a location, but the location is not empty. The journey has meaning, but it is not free from tension.
 
@@ -74,7 +74,7 @@ Carry this like bread for the road, not decoration for the shelf. If the Father 
 
 **Scripture Reference:** Genesis 12:7
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `vayera YHWH el-Avram/lezar'akha eten et-ha'aretz hazot/vayiven sham mizbeach` - the Lord appeared to Abram, renewed the promise concerning his offspring and the land, and Abram built an altar - because the verse centers on God's appearing, covenant promise, and worshipful response.
+**Context and language lens:** `vayera YHWH el-Avram/lezar'akha eten et-ha'aretz hazot/vayiven sham mizbeach` - the Lord appeared to Abram, renewed the promise concerning his offspring and the land, and Abram built an altar - because the verse centers on God's appearing, covenant promise, and worshipful response.
 
 Covenant mercy gives the heart a place to worship before the promise is fully visible. Genesis 12:7 shows the Lord appearing to Abram and speaking promise again. Abram responds by building an altar there.
 
@@ -104,7 +104,7 @@ Let this word give your morning a spine and your heart a place to rest. The Fath
 
 **Scripture Reference:** Genesis 12:9
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `vayisa Avram halokh venasoa hanegbah` - Abram journeyed on, going steadily toward the Negev - because the verse centers on continued movement, step-by-step obedience, and the unglamorous faithfulness between major encounters.
+**Context and language lens:** `vayisa Avram halokh venasoa hanegbah` - Abram journeyed on, going steadily toward the Negev - because the verse centers on continued movement, step-by-step obedience, and the unglamorous faithfulness between major encounters.
 
 The Father's welcome is not only for dramatic moments. Genesis 12:9 is simple: Abram kept journeying. After the call, the arrival, and the altar, there is continued movement toward the Negev. The road goes on.
 
@@ -134,7 +134,7 @@ The day does not get to name you before God does. Keep walking under the welcome
 
 **Scripture Reference:** Genesis 12:10
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `vayehi ra'av ba'aretz/vayered Avram mitzraymah lagur sham/ki-kaved hara'av ba'aretz` - there was famine in the land, Abram went down to Egypt to sojourn, because the famine was severe - because the verse centers on scarcity pressure and the vulnerable decisions that follow.
+**Context and language lens:** `vayehi ra'av ba'aretz/vayered Avram mitzraymah lagur sham/ki-kaved hara'av ba'aretz` - there was famine in the land, Abram went down to Egypt to sojourn, because the famine was severe - because the verse centers on scarcity pressure and the vulnerable decisions that follow.
 
 Beloved identity is tested when scarcity enters the story. Genesis 12:10 tells us there was famine in the land, and Abram went down to Egypt to sojourn because the famine was severe. The promised journey suddenly includes need.
 
@@ -164,7 +164,7 @@ Walk out of this page with courage, tenderness, and clarity. Let peace lead befo
 
 **Scripture Reference:** Genesis 12:11
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `hinei-na yadati ki ishah yefat-mar'eh at` - Abram acknowledges Sarai's beauty as they near Egypt - because the verse begins exposing fear's interpretation of vulnerability before the later failure unfolds.
+**Context and language lens:** `hinei-na yadati ki ishah yefat-mar'eh at` - Abram acknowledges Sarai's beauty as they near Egypt - because the verse begins exposing fear's interpretation of vulnerability before the later failure unfolds.
 
 Love that finds you is honest enough to meet fear before fear becomes a plan. Genesis 12:11 shows Abram speaking to Sarai as they near Egypt. He sees her beauty, but the pressure around that truth begins to bend his thinking toward fear.
 
@@ -194,7 +194,7 @@ Receive the truth deeply enough that it changes your next decision. Let love fin
 
 **Scripture Reference:** Genesis 12:12
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `vehayah ki-yir'u otakh hamitzrim/ve'amru ishto zot/vehargu oti/ve'otakh yechayu` - Abram imagines the Egyptians seeing Sarai, identifying her as his wife, killing him, and letting her live - because the verse centers on fear constructing a future and preparing self-protective performance before trust speaks.
+**Context and language lens:** `vehayah ki-yir'u otakh hamitzrim/ve'amru ishto zot/vehargu oti/ve'otakh yechayu` - Abram imagines the Egyptians seeing Sarai, identifying her as his wife, killing him, and letting her live - because the verse centers on fear constructing a future and preparing self-protective performance before trust speaks.
 
 Grace before performance must reach the place where fear rehearses the future. Genesis 12:12 lets us hear Abram's imagined outcome. He sees danger ahead and begins building a story around what others will do, what will happen to him, and how survival might need to be managed.
 

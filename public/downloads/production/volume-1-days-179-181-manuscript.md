@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 12:13
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `imri-na achoti at/lema'an yitav-li va'avurekh/vechayetah nafshi biglalekh` - Abram asks Sarai to say she is his sister so that it may go well with him and his life may be preserved because of her - because the verse centers on fear shaping speech, self-protection, and a request that places another person in danger.
+**Context and language lens:** `imri-na achoti at/lema'an yitav-li va'avurekh/vechayetah nafshi biglalekh` - Abram asks Sarai to say she is his sister so that it may go well with him and his life may be preserved because of her - because the verse centers on fear shaping speech, self-protection, and a request that places another person in danger.
 
 Mercy in the morning must be honest enough to interrupt fear before fear asks someone else to carry its cost. Genesis 12:13 is not a verse to romanticize. Abram's fear has moved from imagination into instruction. He asks Sarai to present the situation in a way that protects him, while the danger to her becomes part of the plan.
 
@@ -34,7 +34,7 @@ Let this word give your morning a spine and your heart a place to rest. Mercy is
 
 **Journal prompt:** Where is fear tempting me to protect myself in a way that places pressure or risk on someone else?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Stand in Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -44,7 +44,7 @@ Let this word give your morning a spine and your heart a place to rest. Mercy is
 
 **Scripture Reference:** Genesis 12:14
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `vayehi kevo Avram mitzraymah/vayir'u hamitzrim et-ha'ishah ki-yafah hi me'od` - when Abram entered Egypt, the Egyptians saw Sarai and recognized that she was very beautiful - because the verse centers on arrival, visibility, and how vulnerable people can become exposed inside systems of power.
+**Context and language lens:** `vayehi kevo Avram mitzraymah/vayir'u hamitzrim et-ha'ishah ki-yafah hi me'od` - when Abram entered Egypt, the Egyptians saw Sarai and recognized that she was very beautiful - because the verse centers on arrival, visibility, and how vulnerable people can become exposed inside systems of power.
 
 The Father's patience is not passive when power is watching. Genesis 12:14 shows Abram arriving in Egypt and Sarai being seen. Her beauty is noticed, but the larger story makes that visibility dangerous. She is not merely admired; she is being drawn into a world where powerful people can take what they want.
 
@@ -64,7 +64,7 @@ The day does not get to name you before God does. Let grace slow your seeing unt
 
 **Journal prompt:** Where do I need the Father's patient sight so I can notice vulnerability instead of rushing past it?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Let Grace Form the Father's Patience into one faithful step today.
 
 ---
 
@@ -74,7 +74,7 @@ The day does not get to name you before God does. Let grace slow your seeing unt
 
 **Scripture Reference:** Genesis 12:15
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `vayir'u otah sarei Pharaoh/vayehalelu otah el-Par'oh/vatukach ha'ishah beit Pharaoh` - Pharaoh's officials saw Sarai, praised her to Pharaoh, and she was taken into Pharaoh's house - because the verse centers on fear's consequences meeting a power structure that takes, names, and possesses.
+**Context and language lens:** `vayir'u otah sarei Pharaoh/vayehalelu otah el-Par'oh/vatukach ha'ishah beit Pharaoh` - Pharaoh's officials saw Sarai, praised her to Pharaoh, and she was taken into Pharaoh's house - because the verse centers on fear's consequences meeting a power structure that takes, names, and possesses.
 
 Love stronger than fear must be strong enough to grieve what fear and power have done. Genesis 12:15 is painful. Sarai is seen by Pharaoh's officials, praised to Pharaoh, and taken into his house. The story does not ask the reader to pretend this is harmless. It shows where fear, beauty, speech, and power can collide.
 
@@ -94,4 +94,4 @@ Walk out of this page with courage, tenderness, and clarity. Love stronger than 
 
 **Journal prompt:** What painful truth do I need to hold honestly before the Father instead of rushing past it?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Behold Love Stronger Than Fear into one faithful step today.

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 12:34
 
-**Production lens note:** The architecture assigns eirene; the production lens uses Jesus' teaching about the mouth speaking from the heart because Christ's peace begins where witness is sourced, not only where words are heard.
+**Context and language lens:** Jesus' teaching about the mouth speaking from the heart because Christ's peace begins where witness is sourced, not only where words are heard.
 
 Matthew 12:34 moves witness beneath the surface. Jesus shows that speech is not detached from the heart. Words reveal what has been stored, protected, rehearsed, and loved within.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting His nearness shape the heart before the mouth s
 
 **Scripture Reference:** Matthew 12:35
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses Jesus' teaching about good treasure because trusted Lordship forms the inner storehouse from which witness draws.
+**Context and language lens:** Jesus' teaching about good treasure because trusted Lordship forms the inner storehouse from which witness draws.
 
 Matthew 12:35 speaks of treasure within. The life brings out what has been stored.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting His Lordship fill the inner storehouse with goo
 
 **Scripture Reference:** Matthew 12:36
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus' teaching about accountable words because light gives direction for a year-ending witness that is truthful, humble, and grace-shaped.
+**Context and language lens:** Jesus' teaching about accountable words because light gives direction for a year-ending witness that is truthful, humble, and grace-shaped.
 
 Matthew 12:36 brings sober clarity to ordinary speech. Jesus takes words seriously because words carry witness.
 

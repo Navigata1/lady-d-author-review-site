@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Numbers 11:24
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses Moses gathering the elders and speaking the Lord's words. Grace is framed as renewal that turns private burden into shared witness through obedient leadership.
+**Context and language lens:** Moses gathering the elders and speaking the Lord's words. Grace is framed as renewal that turns private burden into shared witness through obedient leadership.
 
 Numbers 11:24 shows Moses moving from his complaint into obedience. He gathers the elders and speaks what the Lord has said. The burden is still real, but it is no longer carried in isolation.
 
@@ -32,7 +32,7 @@ The Spirit gives gifts for the body by turning renewed obedience into shared wit
 
 **Journal prompt:** Where does obedience need to replace repeated explanation?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Let Grace Form Power to Witness into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit gives gifts for the body by turning renewed obedience into shared wit
 
 **Scripture Reference:** Numbers 11:27
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses the report that Eldad and Medad were prophesying in the camp. The seal of belonging is framed as God's voice confirming that His Spirit is not controlled by human expectations.
+**Context and language lens:** The report that Eldad and Medad were prophesying in the camp. The seal of belonging is framed as God's voice confirming that His Spirit is not controlled by human expectations.
 
 Numbers 11:27 brings unexpected news. Two men are prophesying in the camp, outside the neat place where others expected the sign to happen.
 
@@ -60,4 +60,4 @@ The Spirit gives gifts for the body by confirming belonging beyond human control
 
 **Journal prompt:** Where have I assumed God can only work through the expected person, place, or method?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Behold the Seal of Belonging into one faithful step today.

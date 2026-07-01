@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 35:2
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the six-day work and holy-rest rhythm in the text. Prayer beyond words is framed as cleansing surrender that lets God interrupt drivenness before it hardens.
+**Context and language lens:** The six-day work and holy-rest rhythm in the text. Prayer beyond words is framed as cleansing surrender that lets God interrupt drivenness before it hardens.
 
 Exodus 35:2 places work under God's rhythm. The command does not treat labor as worthless. It treats God as Lord over the labor.
 
@@ -42,7 +42,7 @@ The Spirit grows fruit in surrender by watering places that words cannot fully r
 
 **Scripture Reference:** Exodus 35:4
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Moses speaking what the Lord commanded. Mercy speaking wind is framed as the Spirit making God's command discernible, merciful, and timely in the waiting.
+**Context and language lens:** Moses speaking what the Lord commanded. Mercy speaking wind is framed as the Spirit making God's command discernible, merciful, and timely in the waiting.
 
 Exodus 35:4 moves from rhythm into command. Moses does not speak from impulse. He gives the people what the Lord has commanded.
 
@@ -70,7 +70,7 @@ The Spirit grows fruit by making God's voice mercifully clear in surrendered wai
 
 **Scripture Reference:** Exodus 35:5
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses the willing-hearted offering in the text. Oil for the journey is framed as Spirit-breathed witness that gives freely because surrender has loosened the grip.
+**Context and language lens:** The willing-hearted offering in the text. Oil for the journey is framed as Spirit-breathed witness that gives freely because surrender has loosened the grip.
 
 Exodus 35:5 calls for an offering from willing hearts. The gift is not dragged out of the people. It rises from surrendered willingness.
 
@@ -98,7 +98,7 @@ The Spirit forms surrendered fruit by making willingness a living witness.
 
 **Scripture Reference:** Exodus 35:6
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses the prepared materials named for sacred work. Freedom in the Spirit is framed as being set apart for God's purpose, not scattered into self-direction.
+**Context and language lens:** The prepared materials named for sacred work. Freedom in the Spirit is framed as being set apart for God's purpose, not scattered into self-direction.
 
 Exodus 35:6 names materials that will be brought for the work. Ordinary possessions become part of sacred construction when surrendered to God's purpose.
 
@@ -126,7 +126,7 @@ The Spirit grows fruit by turning freedom into set-apart surrender.
 
 **Scripture Reference:** Exodus 35:7
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses costly coverings prepared for sacred work. The breath of God is framed as strength that covers, protects, and steadies surrender.
+**Context and language lens:** Costly coverings prepared for sacred work. The breath of God is framed as strength that covers, protects, and steadies surrender.
 
 Exodus 35:7 continues the list of materials for the sanctuary work. Coverings matter because what God builds is not left exposed to every element.
 
@@ -154,7 +154,7 @@ The Spirit grows fruit by strengthening surrendered hearts without hardening the
 
 **Scripture Reference:** Exodus 35:9
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses precious stones prepared for priestly service. The Comforter's nearness is framed as cleansing and renewal that makes hidden beauty available for God's service.
+**Context and language lens:** Precious stones prepared for priestly service. The Comforter's nearness is framed as cleansing and renewal that makes hidden beauty available for God's service.
 
 Exodus 35:9 names stones that will be used in sacred garments and service. What is precious is not hidden for vanity. It is prepared for holy use.
 
@@ -182,7 +182,7 @@ The Spirit grows fruit by bringing hidden beauty into surrendered service.
 
 **Scripture Reference:** Exodus 35:10
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses skilled hearts invited to come and make what the Lord commanded. Holy fire is framed as Spirit-guided skill anchored to God's instruction.
+**Context and language lens:** Skilled hearts invited to come and make what the Lord commanded. Holy fire is framed as Spirit-guided skill anchored to God's instruction.
 
 Exodus 35:10 calls skilled hearts to come and make what the Lord commanded. Ability is honored, but it is not made sovereign. Skill is brought under God's word.
 

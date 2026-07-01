@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 15:19
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's provision of water after Samson's exhaustion because the passage centers on mercy, refreshment, and life returning after depletion.
+**Context and language lens:** God's provision of water after Samson's exhaustion because the passage centers on mercy, refreshment, and life returning after depletion.
 
 Fruitfulness cannot survive on strength alone. Judges 15:19 shows Samson exhausted and in need of water. After all the force and conflict around him, the moment that matters is simple: God provides refreshment, and life returns.
 
@@ -32,7 +32,7 @@ The Spirit forms fruit in the life that lets God restore it.
 
 **Journal prompt:** Where do I need to receive refreshment instead of pretending I am not tired?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Lean Into the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit forms fruit in the life that lets God restore it.
 
 **Scripture Reference:** Judges 15:2
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses this painful relational fallout as a warning about human attempts to repair harm with substitution instead of truth.
+**Context and language lens:** This painful relational fallout as a warning about human attempts to repair harm with substitution instead of truth.
 
 Power to witness includes the courage to tell the truth about damage. Judges 15:2 sits inside a messy story of broken trust, assumptions, and an attempted substitute. A wrong cannot be healed merely by offering something adjacent to what was lost.
 
@@ -60,7 +60,7 @@ The Spirit gives power to witness by making the heart honest enough to repair wh
 
 **Journal prompt:** Where am I offering a substitute when truth, apology, or wise repair is needed?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry See Again Power to Witness into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit gives power to witness by making the heart honest enough to repair wh
 
 **Scripture Reference:** Judges 15:4
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens handles this retaliatory Samson scene as a warning. The devotional focus is not revenge, but the Spirit's call to let belonging govern anger before fire spreads.
+**Context and language lens:** This lens reads this retaliatory Samson scene as a warning. The devotional focus is not revenge, but the Spirit's call to let belonging govern anger before fire spreads.
 
 Belonging to God must teach the heart what to do with fire. Judges 15:4 is part of a retaliatory story. The image is vivid, but it is not a devotional pattern to imitate. It shows what can happen when anger becomes creative in the wrong direction.
 
@@ -88,4 +88,4 @@ The Spirit seals belonging by teaching love to govern fire.
 
 **Journal prompt:** What fire in me needs to be governed by belonging before it spreads?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Let Love Teach the Seal of Belonging into one faithful step today.

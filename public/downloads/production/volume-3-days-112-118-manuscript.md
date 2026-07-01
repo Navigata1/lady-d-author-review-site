@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 2:20
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the naming of living creatures and the unfulfilled search for suitable help. Prayer beyond words is framed as honest naming that can rest before God even when something is still missing.
+**Context and language lens:** The naming of living creatures and the unfulfilled search for suitable help. Prayer beyond words is framed as honest naming that can rest before God even when something is still missing.
 
 Genesis 2:20 holds both responsibility and ache. The man names the living creatures, yet the story also reveals that something fitting is not yet found. Faith can be active and still be waiting.
 
@@ -32,7 +32,7 @@ The Spirit settles wordless prayer where faithful work and unmet longing meet.
 
 **Journal prompt:** Where do faithful work and unmet longing meet in my life?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Practice Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit settles wordless prayer where faithful work and unmet longing meet.
 
 **Scripture Reference:** Genesis 2:21
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the deep sleep and hidden work of God. Wind in the waiting is framed as Spirit-given trust when God is working beyond human control.
+**Context and language lens:** The deep sleep and hidden work of God. Wind in the waiting is framed as Spirit-given trust when God is working beyond human control.
 
 Genesis 2:21 shows God working while the man is not managing the process. The deep sleep is a mercy. The hidden work belongs to God.
 
@@ -60,7 +60,7 @@ The Spirit gives breath for waiting while God works beyond control.
 
 **Journal prompt:** What am I trying to manage that belongs to God's hidden work?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Surrender to Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit gives breath for waiting while God works beyond control.
 
 **Scripture Reference:** Genesis 2:22
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God building and bringing the woman to the man. Oil for the journey is framed as mercy that forms help, relationship, and provision with care.
+**Context and language lens:** God building and bringing the woman to the man. Oil for the journey is framed as mercy that forms help, relationship, and provision with care.
 
 Genesis 2:22 shows God building and bringing. Provision is not slapped together. It is formed with intention and brought in love.
 
@@ -88,7 +88,7 @@ The Spirit gives oil for the journey through mercy God forms and brings.
 
 **Journal prompt:** What help might God be forming and bringing that I need to receive?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Mercy Speak Oil for the Journey into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit gives oil for the journey through mercy God forms and brings.
 
 **Scripture Reference:** Genesis 2:23
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses recognition and joyful kinship. Freedom in the Spirit is framed as holy recognition that receives relationship without possession, fear, or shame.
+**Context and language lens:** Recognition and joyful kinship. Freedom in the Spirit is framed as holy recognition that receives relationship without possession, fear, or shame.
 
 Genesis 2:23 carries recognition. The man receives the one God has formed and brought, and the response is not suspicion but glad acknowledgement.
 
@@ -116,7 +116,7 @@ The Spirit frees recognition from fear, possession, and shame.
 
 **Journal prompt:** Where does fear turn recognition into control?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Breathe Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit frees recognition from fear, possession, and shame.
 
 **Scripture Reference:** Genesis 2:24
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses covenant union and new household formation. The Breath of God is framed as consecrated love that forms faithful attachment without erasing holy identity.
+**Context and language lens:** Covenant union and new household formation. The Breath of God is framed as consecrated love that forms faithful attachment without erasing holy identity.
 
 Genesis 2:24 moves from recognition into covenant attachment. Love is not meant to remain shallow, rootless, or endlessly self-protective. God forms bonds that carry responsibility.
 
@@ -144,7 +144,7 @@ The Spirit gives breath to faithful love and consecrated attachment.
 
 **Journal prompt:** What commitment needs the Breath of God today?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Hold Fast to the Breath of God into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit gives breath to faithful love and consecrated attachment.
 
 **Scripture Reference:** Genesis 2:25
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses unashamed openness before sin enters the story. The Comforter's nearness is framed as restored honesty that brings shame into God's healing light.
+**Context and language lens:** Unashamed openness before sin enters the story. The Comforter's nearness is framed as restored honesty that brings shame into God's healing light.
 
 Genesis 2:25 shows openness without shame. Before hiding enters the story, there is a picture of life without the covering strategies fear later invents.
 
@@ -172,7 +172,7 @@ The Spirit restores honest nearness where shame taught the heart to hide.
 
 **Journal prompt:** What hiding strategy is the Comforter gently asking me to surrender?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Return to the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit restores honest nearness where shame taught the heart to hide.
 
 **Scripture Reference:** Exodus 31:1
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God speaking to Moses as the opening of a Spirit-enabled craftsmanship passage. Holy fire is framed as yielded attention to God's initiating word before skill becomes action.
+**Context and language lens:** God speaking to Moses as the opening of a Spirit-enabled craftsmanship passage. Holy fire is framed as yielded attention to God's initiating word before skill becomes action.
 
 Exodus 31:1 begins with God speaking. Before names, skills, materials, and assignments unfold, the first movement is divine initiative.
 
@@ -200,4 +200,4 @@ The Spirit kindles holy work by returning the heart to God's initiating word.
 
 **Journal prompt:** Where am I acting before I have listened?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Yield to Holy Fire into one faithful step today.

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 6:30
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the public anger after Gideon's obedience. Oil for the journey is framed as consecrated courage when surrender is misunderstood and opposed.
+**Context and language lens:** The public anger after Gideon's obedience. Oil for the journey is framed as consecrated courage when surrender is misunderstood and opposed.
 
 Judges 6:30 shows the cost of visible obedience. The men of the city demand an answer for what has been torn down.
 
@@ -32,7 +32,7 @@ The Spirit gives power to witness by anointing courage when obedience is opposed
 
 **Journal prompt:** Where has criticism made me question obedience God already clarified?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Carry Oil for the Journey into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit gives power to witness by anointing courage when obedience is opposed
 
 **Scripture Reference:** Judges 6:31
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses Joash's defense and the exposure of false dependence. Freedom in the Spirit is framed as settled truth that stops defending what cannot save.
+**Context and language lens:** Joash's defense and the exposure of false dependence. Freedom in the Spirit is framed as settled truth that stops defending what cannot save.
 
 Judges 6:31 places false worship on trial. Joash's response exposes the weakness of what people were trying to protect.
 
@@ -60,7 +60,7 @@ The Spirit gives power to witness by settling the heart in truth that frees.
 
 **Journal prompt:** What have I been defending out of habit, fear, or pressure?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Lean Into Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit gives power to witness by settling the heart in truth that frees.
 
 **Scripture Reference:** Judges 6:32
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Gideon's new public name after the confrontation. The breath of God is framed as life moving through a renamed witness.
+**Context and language lens:** Gideon's new public name after the confrontation. The breath of God is framed as life moving through a renamed witness.
 
 Judges 6:32 shows a new name attached to Gideon's obedience. The accusation becomes part of the public story.
 
@@ -88,7 +88,7 @@ The Spirit gives power to witness by breathing identity into contested obedience
 
 **Journal prompt:** What label needs to be answered by God's truer word?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry See Again the Breath of God into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit gives power to witness by breathing identity into contested obedience
 
 **Scripture Reference:** Judges 6:33
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the gathering of enemy forces. The Comforter's nearness is framed as inward renewal when pressure increases instead of decreases.
+**Context and language lens:** The gathering of enemy forces. The Comforter's nearness is framed as inward renewal when pressure increases instead of decreases.
 
 Judges 6:33 brings a wider threat into view. The pressure around God's people gathers again.
 
@@ -116,7 +116,7 @@ The Spirit gives power to witness by renewing love under gathered pressure.
 
 **Journal prompt:** Where has pressure made me assume God is far away?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Let Love Teach the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit gives power to witness by renewing love under gathered pressure.
 
 **Scripture Reference:** Judges 6:35
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Gideon's messengers calling the tribes together. Holy fire is framed as purified readiness that calls others without panic or self-display.
+**Context and language lens:** Gideon's messengers calling the tribes together. Holy fire is framed as purified readiness that calls others without panic or self-display.
 
 Judges 6:35 shows witness moving outward. Gideon's call reaches beyond his own immediate circle.
 
@@ -144,7 +144,7 @@ The Spirit gives power to witness by purifying the call that gathers others.
 
 **Journal prompt:** Where has readiness become restless pressure?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Awaken Holy Fire into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit gives power to witness by purifying the call that gathers others.
 
 **Scripture Reference:** Judges 6:36
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Gideon's honest request for assurance. Rain for dry places is framed as God meeting a consecrated but trembling heart with patient mercy.
+**Context and language lens:** Gideon's honest request for assurance. Rain for dry places is framed as God meeting a consecrated but trembling heart with patient mercy.
 
 Judges 6:36 shows Gideon bringing his need for assurance before God. He remembers what God has said, but his heart still trembles.
 
@@ -172,7 +172,7 @@ The Spirit gives power to witness by refreshing trembling obedience with mercy.
 
 **Journal prompt:** What anxious question needs to be brought into God's presence?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Embrace Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit gives power to witness by refreshing trembling obedience with mercy.
 
 **Scripture Reference:** Judges 6:37
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses Gideon's fleece request. The anointing for today is framed as settled trust that asks honestly without turning signs into a substitute for obedience.
+**Context and language lens:** Gideon's fleece request. The anointing for today is framed as settled trust that asks honestly without turning signs into a substitute for obedience.
 
 Judges 6:37 shows Gideon asking for confirmation in a very specific way. His request reveals both faith and fear.
 
@@ -200,4 +200,4 @@ The Spirit gives power to witness by settling assurance into faithful action.
 
 **Journal prompt:** Where am I seeking another sign because the next step feels costly?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Remember the Anointing for Today into one faithful step today.

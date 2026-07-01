@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 50:1
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `wayyippol Yosef al-penei aviv/wayyevk alav/wayyishaq-lo` - Joseph fell upon his father's face, wept over him, and kissed him - because the verse centers on embodied grief after restoration.
+**Context and language lens:** `wayyippol Yosef al-penei aviv/wayyevk alav/wayyishaq-lo` - Joseph fell upon his father's face, wept over him, and kissed him - because the verse centers on embodied grief after restoration.
 
 Mercy in the morning does not mean grief disappears by morning. Genesis 50:1 shows Joseph falling upon his father's face, weeping over him, and kissing him. After all the restoration, after the journey, after the reunion, love still has to grieve.
 
@@ -42,7 +42,7 @@ Start from what God has revealed, not from what the day is demanding. If love ha
 
 **Scripture Reference:** Genesis 50:10
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `wayyavo'u ad-goren ha'atad/wayyispedu sham misped gadol vekhaved me'od/wayya'as le'aviv evel shivat yamim` - they came to the threshing floor of Atad, mourned there with a great and very heavy lamentation, and Joseph made mourning for his father seven days - because the verse centers on patient, public, time-bound lament.
+**Context and language lens:** `wayyavo'u ad-goren ha'atad/wayyispedu sham misped gadol vekhaved me'od/wayya'as le'aviv evel shivat yamim` - they came to the threshing floor of Atad, mourned there with a great and very heavy lamentation, and Joseph made mourning for his father seven days - because the verse centers on patient, public, time-bound lament.
 
 The Father's patience gives grief time to breathe. Genesis 50:10 does not hurry past mourning. The family comes to the threshing floor of Atad. There is a great and heavy lamentation. Joseph observes seven days of mourning for his father.
 
@@ -70,7 +70,7 @@ Do not rush past the verse; let it steady you before you move. Ask where God is 
 
 **Scripture Reference:** Genesis 50:11
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `wayyar yoshev ha'arets/hakena'ani/et ha'evel begoren ha'atad/avel kaved zeh leMitzrayim/qara shemah Avel-Mitzrayim` - the inhabitants of the land saw the mourning at Atad and named it a solemn mourning for Egypt - because the verse centers on grief becoming visible enough for others to name.
+**Context and language lens:** `wayyar yoshev ha'arets/hakena'ani/et ha'evel begoren ha'atad/avel kaved zeh leMitzrayim/qara shemah Avel-Mitzrayim` - the inhabitants of the land saw the mourning at Atad and named it a solemn mourning for Egypt - because the verse centers on grief becoming visible enough for others to name.
 
 Love stronger than fear can let grief be visible. Genesis 50:11 says the Canaanites saw the mourning at the threshing floor of Atad. The grief was not hidden, minimized, or managed into silence. It was visible enough that others named the place by what they witnessed.
 
@@ -98,7 +98,7 @@ Let the Spirit press this from information into formation. Fear may tell you to 
 
 **Scripture Reference:** Genesis 50:14
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `wayyashav Yosef Mitzraymah/hu ve'echav/vekhol ha'olim itto/liqbor et-aviv/acharei qavro et-aviv` - Joseph returned to Egypt, he and his brothers and all who went up with him to bury his father, after he had buried his father - because the verse centers on returning to ordinary life after a sacred grief journey.
+**Context and language lens:** `wayyashav Yosef Mitzraymah/hu ve'echav/vekhol ha'olim itto/liqbor et-aviv/acharei qavro et-aviv` - Joseph returned to Egypt, he and his brothers and all who went up with him to bury his father, after he had buried his father - because the verse centers on returning to ordinary life after a sacred grief journey.
 
 Restoring compassion has to return home after the funeral. Genesis 50:14 says Joseph returned to Egypt with his brothers and all who had gone with him after burying his father. The sacred journey did not remove them from ordinary responsibilities forever.
 
@@ -126,7 +126,7 @@ Take one surrendered step before worry gets the first word. Let restoration incl
 
 **Scripture Reference:** Genesis 50:15
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `wayyir'u achei Yosef/ki-met avihem/lu yistmenu Yosef/vehashev yashiv lanu et kol-hara'ah asher gamalnu oto` - Joseph's brothers saw their father was dead and feared Joseph might hate them and repay all the evil they had done - because the verse centers on old guilt reawakening fear after the covering presence of Jacob is gone.
+**Context and language lens:** `wayyir'u achei Yosef/ki-met avihem/lu yistmenu Yosef/vehashev yashiv lanu et kol-hara'ah asher gamalnu oto` - Joseph's brothers saw their father was dead and feared Joseph might hate them and repay all the evil they had done - because the verse centers on old guilt reawakening fear after the covering presence of Jacob is gone.
 
 The promise that holds must be stronger than the fear that mercy will expire. Genesis 50:15 shows Joseph's brothers afraid after their father dies. They wonder whether Joseph will hate them now and repay the evil they did to him.
 
@@ -154,7 +154,7 @@ Let prayer turn insight into obedience before noon. If old guilt has started spe
 
 **Scripture Reference:** Genesis 50:16
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `wayetsavvu el-Yosef lemor/avikha tsivvah lifnei moto lemor` - they sent word to Joseph, saying, your father commanded before his death - because the verse centers on mediated speech from fearful brothers who cannot yet stand directly in mercy.
+**Context and language lens:** `wayetsavvu el-Yosef lemor/avikha tsivvah lifnei moto lemor` - they sent word to Joseph, saying, your father commanded before his death - because the verse centers on mediated speech from fearful brothers who cannot yet stand directly in mercy.
 
 Mercy sometimes has to speak to a heart that is still afraid to come close. Genesis 50:16 says Joseph's brothers send word to him. They appeal to their father's command before his death. Their message may be complicated, but their fear is plain.
 
@@ -182,7 +182,7 @@ Start from what God has revealed, not from what the day is demanding. Mercy can 
 
 **Scripture Reference:** Genesis 50:2
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `waytsav Yosef et-avadav et-harofe'im/lachanot et-aviv/wayyachantu harofe'im et-Yisrael` - Joseph commanded his servants, the physicians, to embalm his father, and the physicians embalmed Israel - because the verse centers on careful delegated care for Jacob's body after death.
+**Context and language lens:** `waytsav Yosef et-avadav et-harofe'im/lachanot et-aviv/wayyachantu harofe'im et-Yisrael` - Joseph commanded his servants, the physicians, to embalm his father, and the physicians embalmed Israel - because the verse centers on careful delegated care for Jacob's body after death.
 
 Love that sends you may send you into careful service no one applauds. Genesis 50:2 shows Joseph commanding the physicians in his service to embalm his father. It is a tender verse because grief becomes stewardship. Love honors the body. Love tends what remains. Love asks capable hands to serve with care.
 

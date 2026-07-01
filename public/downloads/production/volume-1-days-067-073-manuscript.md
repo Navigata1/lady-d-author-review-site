@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 34:9
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `chen/Adonay/qereb/qasheh-oreph/salach/avon/chattah/nachal` - favor, Lord, midst, stiff-necked, pardon, iniquity, sin, and inheritance - because Moses asks the Lord to go among a stubborn people, forgive them, and take them as His inheritance.
+**Context and language lens:** `chen/Adonay/qereb/qasheh-oreph/salach/avon/chattah/nachal` - favor, Lord, midst, stiff-necked, pardon, iniquity, sin, and inheritance - because Moses asks the Lord to go among a stubborn people, forgive them, and take them as His inheritance.
 
 The heart that calls you is not surprised by the places where you still resist Him. Exodus 34:9 is a brave prayer. Moses does not pretend the people are easy to lead, easy to love, or easy to correct. He names the stiffness, and then he asks the Lord to come close anyway.
 
@@ -32,7 +32,7 @@ You are not loved because you have never resisted. You are loved by the Father w
 
 **Journal prompt:** Where has pressure made me stiff, and how can I invite the Father into that place honestly?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Discover the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ You are not loved because you have never resisted. You are loved by the Father w
 
 **Scripture Reference:** Exodus 3:1
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `roeh/tson/achar/midbar/har-haElohim/Choreb` - shepherding, flock, far side of the wilderness, mountain of God, and Horeb - because Moses is found in ordinary work before the burning bush call unfolds.
+**Context and language lens:** `roeh/tson/achar/midbar/har-haElohim/Choreb` - shepherding, flock, far side of the wilderness, mountain of God, and Horeb - because Moses is found in ordinary work before the burning bush call unfolds.
 
 Love that sends you may first meet you in ordinary faithfulness. Exodus 3:1 does not open with thunder. It opens with Moses keeping a flock, leading sheep through wilderness space, and coming near the mountain of God. Before the famous call, there is a quiet day of work.
 
@@ -60,7 +60,7 @@ Do not assume the season is empty because it is quiet. The Father knows how to p
 
 **Journal prompt:** What ordinary responsibility might be a place of preparation rather than a place of delay?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Receive Love That Sends You into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Do not assume the season is empty because it is quiet. The Father knows how to p
 
 **Scripture Reference:** Exodus 3:13
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `shem/shalach/avot/bene-Yisrael/amar` - name, sent, fathers, children of Israel, and say - because Moses asks how to speak God's identity to the people who are waiting in bondage.
+**Context and language lens:** `shem/shalach/avot/bene-Yisrael/amar` - name, sent, fathers, children of Israel, and say - because Moses asks how to speak God's identity to the people who are waiting in bondage.
 
 Covenant mercy gives the heart something true to say. In Exodus 3:13, Moses is not only asking about information. He is carrying the weight of representation. If he goes to the children of Israel and says the God of their fathers has sent him, they may ask for the name. Moses wants to know what he should say.
 
@@ -88,7 +88,7 @@ When you do not know what to say next, begin where Moses begins. Ask the Father 
 
 **Journal prompt:** Where am I trying to carry responsibility before receiving what God has revealed?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Trust Covenant Mercy into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ When you do not know what to say next, begin where Moses begins. Ask the Father 
 
 **Scripture Reference:** Exodus 3:15
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `YHWH/Elohei-avotekhem/shem/olam/zeker/dor-dor` - the covenant name, God of your fathers, name forever, memorial, and generation to generation - because God gives Moses the enduring name by which His people are to remember Him.
+**Context and language lens:** `YHWH/Elohei-avotekhem/shem/olam/zeker/dor-dor` - the covenant name, God of your fathers, name forever, memorial, and generation to generation - because God gives Moses the enduring name by which His people are to remember Him.
 
 Hope rises when the Father welcomes you into a story older and stronger than your present struggle. Exodus 3:15 anchors Moses' message in the Lord's covenant name and in His relationship with Abraham, Isaac, and Jacob. God is not improvising care at the last minute. He is remembering across generations.
 
@@ -116,7 +116,7 @@ You can face today's demand from a longer memory. Let the name of the Lord answe
 
 **Journal prompt:** What part of God's past faithfulness needs to speak into my present struggle?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Let Hope Rise the Father's Welcome into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ You can face today's demand from a longer memory. Let the name of the Lord answe
 
 **Scripture Reference:** Exodus 3:16
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `lekh/asaph/ziqne-Yisrael/pakad/raah/Mitzrayim` - go, gather, elders of Israel, surely attend to, see, and Egypt - because God tells Moses to gather the elders and announce that the Lord has visited His people and seen what has been done to them.
+**Context and language lens:** `lekh/asaph/ziqne-Yisrael/pakad/raah/Mitzrayim` - go, gather, elders of Israel, surely attend to, see, and Egypt - because God tells Moses to gather the elders and announce that the Lord has visited His people and seen what has been done to them.
 
 Beloved identity carries the truth that God has seen. Exodus 3:16 moves Moses from receiving God's name to carrying God's message. The Lord tells him to gather the elders and say that He has surely attended to His people and seen what has been done to them in Egypt.
 
@@ -144,7 +144,7 @@ You are not abandoned because the season has been hard. The God who sees can als
 
 **Journal prompt:** What part of my story needs to be brought under the Father's seeing instead of carried alone?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Carry Beloved Identity into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ You are not abandoned because the season has been hard. The God who sees can als
 
 **Scripture Reference:** Exodus 3:4
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `raah/sur/qara/tokh/seneh/hinneni` - saw, turned aside, called, midst, bush, and here I am - because the Lord sees Moses turn aside and calls him by name from the bush.
+**Context and language lens:** `raah/sur/qara/tokh/seneh/hinneni` - saw, turned aside, called, midst, bush, and here I am - because the Lord sees Moses turn aside and calls him by name from the bush.
 
 Love that finds you knows when you turn aside. Exodus 3:4 is a holy moment of attention. The Lord sees Moses turn aside to look, and God calls to him from the midst of the bush. The call is personal. The response is simple: here I am.
 
@@ -172,7 +172,7 @@ Do not despise the pause. A surrendered pause can become the doorway to obedienc
 
 **Journal prompt:** What holy interruption might I miss if I keep moving at the pace of worry?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Lean Into Love That Finds You into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Do not despise the pause. A surrendered pause can become the doorway to obedienc
 
 **Scripture Reference:** Exodus 3:6
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `anokhi/Elohei-avikha/panim/yare/nabat` - I am, God of your father, face, fear, and look - because God identifies Himself by covenant relationship and Moses hides his face in reverent fear.
+**Context and language lens:** `anokhi/Elohei-avikha/panim/yare/nabat` - I am, God of your father, face, fear, and look - because God identifies Himself by covenant relationship and Moses hides his face in reverent fear.
 
 Grace before performance begins with God saying who He is. Exodus 3:6 does not first ask Moses to prove himself. The Lord identifies Himself as the God of Moses' father and the God of Abraham, Isaac, and Jacob. Moses' response is reverent fear. He hides his face.
 
@@ -200,4 +200,4 @@ The Father who calls you is holy, faithful, and near. Let awe quiet the need to 
 
 **Journal prompt:** Where do I need reverent awe to free me from performing for acceptance?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry See Again Grace Before Striving into one faithful step today.

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 33:13
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `derek/yada/chen/am` - way, know, favor, and people - because Moses asks to know God's ways and appeals to God's favor and covenant people.
+**Context and language lens:** `derek/yada/chen/am` - way, know, favor, and people - because Moses asks to know God's ways and appeals to God's favor and covenant people.
 
 Love that finds you does not leave you without a way. Exodus 33:13 continues Moses' prayer for God's guidance. He does not merely ask for a better outcome. He asks to know the Lord's ways. In the timing of struggle, beloved people need more than relief. We need the Father to teach us how to walk.
 
@@ -30,7 +30,7 @@ Surrender to love that finds you by letting God lead more than your circumstance
 
 **Journal prompt:** What struggle needs the Father's way, not only my preferred timing?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Surrender to Love That Finds You into one faithful step today.
 
 ---
 
@@ -40,7 +40,7 @@ Surrender to love that finds you by letting God lead more than your circumstance
 
 **Scripture Reference:** Exodus 33:16
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `paneh/halak/palah/am/adamah` - presence, go, distinction, people, and earth - because Moses says God's presence is what distinguishes His people.
+**Context and language lens:** `paneh/halak/palah/am/adamah` - presence, go, distinction, people, and earth - because Moses says God's presence is what distinguishes His people.
 
 Grace before performance is carried by presence. Exodus 33:16 asks a question that reaches the heart of covenant identity: if God's presence does not go with His people, what makes them distinct? Moses understands that achievement without presence would not be enough.
 
@@ -58,7 +58,7 @@ Let mercy speak today. Ask for the presence of God to shape the way you walk thr
 
 **Journal prompt:** Where am I trying to appear strong instead of asking for God's presence?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Mercy Speak Grace Before Striving into one faithful step today.
 
 ---
 
@@ -68,7 +68,7 @@ Let mercy speak today. Ask for the presence of God to shape the way you walk thr
 
 **Scripture Reference:** Exodus 33:17
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `dabar/asah/chen/yada/shem` - word, do, favor, know, and name - because the Lord answers Moses with favor and personal knowing.
+**Context and language lens:** `dabar/asah/chen/yada/shem` - word, do, favor, know, and name - because the Lord answers Moses with favor and personal knowing.
 
 Mercy in the morning sounds like God's answer before the day becomes loud. Exodus 33:17 shows the Lord responding to Moses' intercession with favor and personal knowing. The struggle is not over, but the relationship is not uncertain. God answers from covenant nearness.
 
@@ -86,7 +86,7 @@ The struggle may still be real after prayer. But you do not have to carry it as 
 
 **Journal prompt:** What would change if I began this struggle from being known by the Father?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Breathe Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -96,7 +96,7 @@ The struggle may still be real after prayer. But you do not have to carry it as 
 
 **Scripture Reference:** Exodus 33:7
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `ohel/moed/rachowq/darash` - tent, appointed meeting, far off, and seek - because the verse describes the tent of meeting and those who sought the Lord.
+**Context and language lens:** `ohel/moed/rachowq/darash` - tent, appointed meeting, far off, and seek - because the verse describes the tent of meeting and those who sought the Lord.
 
 The Father's patience makes room to seek Him. Exodus 33:7 describes the tent of meeting outside the camp, where those who sought the Lord would go. The setting carries the ache of a complicated season, but it also carries mercy. There is still a place to seek.
 
@@ -114,7 +114,7 @@ Hold fast today. The Father is patient enough to meet you again, and again, and 
 
 **Journal prompt:** What ordinary place can become a place of seeking God in this season?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Hold Fast to the Father's Patience into one faithful step today.
 
 ---
 
@@ -124,7 +124,7 @@ Hold fast today. The Father is patient enough to meet you again, and again, and 
 
 **Scripture Reference:** Exodus 34:20
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `peter/rechem/padah/paneh/reyqam` - firstborn, womb, redeem, presence, and empty-handed - because the verse belongs to Israel's firstborn redemption and worship instructions.
+**Context and language lens:** `peter/rechem/padah/paneh/reyqam` - firstborn, womb, redeem, presence, and empty-handed - because the verse belongs to Israel's firstborn redemption and worship instructions.
 
 Love stronger than fear learns the language of redemption carefully. Exodus 34:20 belongs to Israel's covenant worship instructions about firstborn redemption and coming before the Lord. It is not a verse for casual application or religious bargaining. It asks us to slow down and remember that life belongs to God.
 
@@ -140,7 +140,7 @@ Return to love stronger than fear by refusing to treat your life as ownerless or
 
 **Journal prompt:** What part of my life am I treating as self-owned when the Father is calling it redeemed?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Return to Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -150,7 +150,7 @@ Return to love stronger than fear by refusing to treat your life as ownerless or
 
 **Scripture Reference:** Exodus 34:31
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `qara/shuv/dabar` - call, return, and speak - because Moses calls the leaders back and speaks to them after the glory encounter.
+**Context and language lens:** `qara/shuv/dabar` - call, return, and speak - because Moses calls the leaders back and speaks to them after the glory encounter.
 
 Restoring compassion calls people back close enough to hear. Exodus 34:31 comes after Moses has been with the Lord. The leaders return to him, and he speaks to them. The scene is simple, but it carries a tender pattern: God meets, then His servant calls, and the people draw near to receive what must be spoken.
 
@@ -168,7 +168,7 @@ The Father's compassion is not only comfort after damage. It is the call that br
 
 **Journal prompt:** Where is God calling me to return before distance becomes normal?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Yield to Restoring Compassion into one faithful step today.
 
 ---
 
@@ -178,7 +178,7 @@ The Father's compassion is not only comfort after damage. It is the call that br
 
 **Scripture Reference:** Exodus 34:6
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `rachum/channun/erek-appayim/hesed/emet` - compassionate, gracious, slow to anger, steadfast love, and truth - because the verse is the Lord's self-proclamation of His character.
+**Context and language lens:** `rachum/channun/erek-appayim/hesed/emet` - compassionate, gracious, slow to anger, steadfast love, and truth - because the verse is the Lord's self-proclamation of His character.
 
 The promise that holds is anchored in who God says He is. Exodus 34:6 is one of Scripture's deep wells. The Lord proclaims His character: compassion, grace, patience, steadfast love, and truth. In the timing of struggle, the heart needs more than a slogan. It needs the revealed character of God.
 
@@ -196,4 +196,4 @@ On this Saturday Sabbath, let rest become agreement with His character. You do n
 
 **Journal prompt:** Which part of God's revealed character needs to answer my fear today?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Anchor the Promise That Holds into one faithful step today.

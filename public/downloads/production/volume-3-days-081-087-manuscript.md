@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 1:16
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's making of the great lights and the stars. The breath of God is framed as His ordered generosity in giving light beyond what the eye can measure.
+**Context and language lens:** God's making of the great lights and the stars. The breath of God is framed as His ordered generosity in giving light beyond what the eye can measure.
 
 The breath of God can be heard in order, not only in intensity. Genesis 1:16 gives a wide picture of created lights, including the stars. God is not careless with light. He gives it with purpose and abundance.
 
@@ -32,7 +32,7 @@ The Spirit steadies anxious hearts under the ordered generosity of God.
 
 **Journal prompt:** What large concern do I need to place under God's ordered care?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Listen for the Breath of God into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit steadies anxious hearts under the ordered generosity of God.
 
 **Scripture Reference:** Genesis 1:17
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's placement of the lights in the expanse to give light on the earth. Resting and settling are framed as trusting God's placed provision.
+**Context and language lens:** God's placement of the lights in the expanse to give light on the earth. Resting and settling are framed as trusting God's placed provision.
 
 God knows where to place light. Genesis 1:17 shows the lights set where they can serve the earth. Provision is not random; it is placed.
 
@@ -60,7 +60,7 @@ The Spirit helps the heart stand in God's placed light.
 
 **Journal prompt:** What provision has God placed near me that I have overlooked?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Stand in the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit helps the heart stand in God's placed light.
 
 **Scripture Reference:** Genesis 1:18
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the governing function of the lights and the separation of light from darkness. Holy fire is framed as grace that teaches wise distinction.
+**Context and language lens:** The governing function of the lights and the separation of light from darkness. Holy fire is framed as grace that teaches wise distinction.
 
 Grace does not leave the heart without discernment. Genesis 1:18 shows light governing and separating. God's order is merciful because it keeps darkness from being mistaken for light.
 
@@ -88,7 +88,7 @@ The Spirit forms holy discernment through grace and truth.
 
 **Journal prompt:** Where do I need grace to help me distinguish light from darkness?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Let Grace Form Holy Fire into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit forms holy discernment through grace and truth.
 
 **Scripture Reference:** Genesis 1:19
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the evening-and-morning rhythm of the fourth day. Rain for dry places is framed as renewal that comes through God's repeated mercy in time.
+**Context and language lens:** The evening-and-morning rhythm of the fourth day. Rain for dry places is framed as renewal that comes through God's repeated mercy in time.
 
 Dry places need repeated mercy. Genesis 1:19 closes another day with evening and morning. God's work continues with rhythm, not panic.
 
@@ -116,7 +116,7 @@ The Spirit brings renewal through God's faithful rhythm of mercy.
 
 **Journal prompt:** What repeated mercy have I been overlooking?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Behold Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit brings renewal through God's faithful rhythm of mercy.
 
 **Scripture Reference:** Genesis 1:20
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's command for waters to teem with life and birds to fly. The anointing for today is framed as Spirit-given movement where God calls life forward.
+**Context and language lens:** God's command for waters to teem with life and birds to fly. The anointing for today is framed as Spirit-given movement where God calls life forward.
 
 When God calls life forward, movement begins. Genesis 1:20 pictures waters filled with living creatures and birds moving through open space. Creation is no longer only ordered; it is stirring with life.
 
@@ -144,7 +144,7 @@ The Spirit stirs obedient life where God calls movement forward.
 
 **Journal prompt:** What living step is God calling forward today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Follow the Anointing for Today into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit stirs obedient life where God calls movement forward.
 
 **Scripture Reference:** Genesis 1:21
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's creation of living creatures and His declaration of goodness. The Spirit's fruit is framed as received life that God can call good.
+**Context and language lens:** God's creation of living creatures and His declaration of goodness. The Spirit's fruit is framed as received life that God can call good.
 
 Fruitful life is not something the heart has to force into being. Genesis 1:21 shows God creating living creatures and seeing goodness in what He has made.
 
@@ -172,7 +172,7 @@ The Spirit grows good fruit from received life with God.
 
 **Journal prompt:** Where am I trying to force fruit instead of receiving life with God?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Rest in the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit grows good fruit from received life with God.
 
 **Scripture Reference:** Genesis 1:23
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the evening-and-morning close of the fifth day. Power to witness is framed as awakening to God's rhythm after a day of living movement and blessing.
+**Context and language lens:** The evening-and-morning close of the fifth day. Power to witness is framed as awakening to God's rhythm after a day of living movement and blessing.
 
 Power to witness needs rhythm as much as urgency. Genesis 1:23 closes the fifth day with evening and morning. Life has been called forward, but the day still rests inside God's order.
 
@@ -200,4 +200,4 @@ The Spirit strengthens witness by returning the heart to God's rhythm.
 
 **Journal prompt:** Where does my witness need God's rhythm more than my urgency?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Wake Up to Power to Witness into one faithful step today.

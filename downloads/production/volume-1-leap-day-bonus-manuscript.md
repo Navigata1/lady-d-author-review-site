@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 33:12
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `yada/shem/chen/am` - know, name, favor, and people - because the verse centers Moses' appeal that God knows him by name, has shown favor, and has entrusted him with a people.
+**Context and language lens:** `yada/shem/chen/am` - know, name, favor, and people - because the verse centers Moses' appeal that God knows him by name, has shown favor, and has entrusted him with a people.
 
 Grace for the extra day begins with being known. Exodus 33:12 stands in the middle of a tender conversation between Moses and the Lord. Moses carries responsibility he did not invent. He is leading people who are not easy to lead. He is aware that calling without God's presence would be too heavy.
 

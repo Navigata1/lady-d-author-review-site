@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Numbers 11:3
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the naming of Taberah because the verse turns a painful place into a remembered warning about complaint and consuming fire.
+**Context and language lens:** The naming of Taberah because the verse turns a painful place into a remembered warning about complaint and consuming fire.
 
 Some places receive names because the heart needs to remember what happened there. Numbers 11:3 names the place where fire burned among the people. It is a sobering memory, not a scene to decorate.
 
@@ -32,7 +32,7 @@ The Spirit turns burned places into humble wisdom for future witness.
 
 **Journal prompt:** What burned place in my story needs to become wisdom instead of shame?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Love Teach Power to Witness into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit turns burned places into humble wisdom for future witness.
 
 **Scripture Reference:** Numbers 11:31
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the wind that brought quail while keeping the wider story's warning about craving and discontent.
+**Context and language lens:** The wind that brought quail while keeping the wider story's warning about craving and discontent.
 
 Provision can reveal the heart as much as lack does. Numbers 11:31 shows a wind bringing quail near the camp. The wider story is complicated because the people's craving was not the same as contented trust.
 
@@ -60,7 +60,7 @@ The Spirit teaches belonging to receive provision without being ruled by appetit
 
 **Journal prompt:** What desire is asking to lead me, and what would surrendered receiving look like?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Awaken the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit teaches belonging to receive provision without being ruled by appetit
 
 **Scripture Reference:** Numbers 27:16
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Moses' appeal to the Lord, the God of the spirits of all flesh, to appoint a shepherding leader for the people.
+**Context and language lens:** Moses' appeal to the Lord, the God of the spirits of all flesh, to appoint a shepherding leader for the people.
 
 Prayer beyond words often begins with concern for the people who will remain after us. Numbers 27:16 shows Moses praying to the Lord as the God of the spirits of all flesh and asking for leadership for the congregation.
 
@@ -88,7 +88,7 @@ The Spirit enlarges prayer until love asks God to shepherd beyond our reach.
 
 **Journal prompt:** Who needs to be entrusted to God's shepherding care beyond my control?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Embrace Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit enlarges prayer until love asks God to shepherd beyond our reach.
 
 **Scripture Reference:** Numbers 27:18
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Joshua as one in whom is the Spirit and the laying on of hands because the passage centers on Spirit-recognized leadership and succession.
+**Context and language lens:** Joshua as one in whom is the Spirit and the laying on of hands because the passage centers on Spirit-recognized leadership and succession.
 
 The wind in the waiting may already be resting on someone God has prepared. Numbers 27:18 names Joshua as a man in whom is the Spirit and calls Moses to lay his hand on him. The next step in the story was not panic. It was recognition.
 
@@ -116,7 +116,7 @@ The Spirit prepares faithful continuation before fear knows how to let go.
 
 **Journal prompt:** Where is God asking me to recognize His preparation instead of clinging to control?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Remember Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit prepares faithful continuation before fear knows how to let go.
 
 **Scripture Reference:** Revelation 1:10
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses John's Spirit-received vision without making a calendar claim. The emphasis is belonging to the Lord and being receptive to the Spirit in exile and limitation.
+**Context and language lens:** John's Spirit-received vision without making a calendar claim. The emphasis is belonging to the Lord and being receptive to the Spirit in exile and limitation.
 
 The journey can still be anointed in a lonely place. Revelation 1:10 places John in the Spirit as the vision opens. He is not in a comfortable setting, but he is not beyond the reach of God.
 
@@ -144,7 +144,7 @@ The Spirit can make a constrained place holy with the presence and word of Chris
 
 **Journal prompt:** Where have I assumed my current limitations make me unavailable to hear from God?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Walk in Oil for the Journey into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit can make a constrained place holy with the presence and word of Chris
 
 **Scripture Reference:** Revelation 1:14
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses John's vision of the risen Christ because the passage centers on holy purity, searching sight, and reverent peace before Jesus.
+**Context and language lens:** John's vision of the risen Christ because the passage centers on holy purity, searching sight, and reverent peace before Jesus.
 
 Freedom in the Spirit grows as the heart sees Jesus more truly. Revelation 1:14 gives a glimpse of the risen Christ in purity and holy fire. This is not a casual picture. It steadies the soul with reverence.
 
@@ -172,7 +172,7 @@ The Spirit frees the heart by restoring reverent sight of Jesus.
 
 **Journal prompt:** What false or incomplete picture of Jesus needs correction in me?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Peace Lead Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit frees the heart by restoring reverent sight of Jesus.
 
 **Scripture Reference:** Revelation 1:4
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses John's greeting of grace and peace before God's throne, including the sevenfold Spirit imagery, without flattening the mystery.
+**Context and language lens:** John's greeting of grace and peace before God's throne, including the sevenfold Spirit imagery, without flattening the mystery.
 
 Grace and peace are not decorations at the beginning of a spiritual letter. Revelation 1:4 places the reader before God, with grace and peace flowing from the eternal One and with rich Spirit imagery before the throne.
 
@@ -200,7 +200,7 @@ The Spirit brings grace and peace from before the throne into the believer's act
 
 **Journal prompt:** Where do I need to receive grace and peace before trying to understand or control everything?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Choose the Breath of God into one faithful step today.
 
 ---
 
@@ -210,7 +210,7 @@ The Spirit brings grace and peace from before the throne into the believer's act
 
 **Scripture Reference:** Revelation 1:5
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses the praise of Jesus as faithful witness, firstborn from the dead, ruler of kings, the One who loves and frees His people.
+**Context and language lens:** The praise of Jesus as faithful witness, firstborn from the dead, ruler of kings, the One who loves and frees His people.
 
 Extra grace always brings the heart back to Jesus. Revelation 1:5 gathers witness, resurrection, authority, love, and freedom into one bright testimony. Before the reader does anything, Christ is named as faithful, risen, ruling, loving, and freeing.
 
@@ -228,4 +228,4 @@ The Spirit fills the extra space with the love and freedom of Jesus.
 
 **Journal prompt:** Where do I need to receive the love of Jesus as freedom rather than mere comfort?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Grace for the Extra Day into one faithful step today.

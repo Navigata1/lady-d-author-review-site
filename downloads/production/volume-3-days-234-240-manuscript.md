@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 3:27
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Ehud sounding the trumpet and gathering Israel after escape. Holy fire is framed as purified readiness to respond when God calls a people forward.
+**Context and language lens:** Ehud sounding the trumpet and gathering Israel after escape. Holy fire is framed as purified readiness to respond when God calls a people forward.
 
 Judges 3:27 moves from hidden deliverance to public summons. A trumpet sounds, and the people are called to move.
 
@@ -42,7 +42,7 @@ The Spirit gives oil for the waiting season by purifying readiness when God call
 
 **Scripture Reference:** Judges 3:28
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Ehud's call to follow and the guarded crossing. Rain for dry places is framed as consecrated leadership, trust, and wise boundaries in a deliverance moment.
+**Context and language lens:** Ehud's call to follow and the guarded crossing. Rain for dry places is framed as consecrated leadership, trust, and wise boundaries in a deliverance moment.
 
 Judges 3:28 shows leadership under pressure. The people are called to follow, and the passageway is guarded.
 
@@ -70,7 +70,7 @@ The Spirit gives oil for the waiting season by consecrating leadership and wise 
 
 **Scripture Reference:** Judges 3:29
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens handles the battle summary without dwelling on numbers for spectacle. The anointing for today is framed as settled courage when God deals decisively with what once seemed too strong.
+**Context and language lens:** This lens reads the battle summary without dwelling on numbers for spectacle. The anointing for today is framed as settled courage when God deals decisively with what once seemed too strong.
 
 Judges 3:29 records decisive deliverance. The text marks a turning point, not entertainment.
 
@@ -98,7 +98,7 @@ The Spirit gives oil for the waiting season by settling courage before what once
 
 **Scripture Reference:** Judges 3:30
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Moab's subduing and the land's long rest. The Spirit's fruit is framed as peace that outlasts the immediate crisis.
+**Context and language lens:** Moab's subduing and the land's long rest. The Spirit's fruit is framed as peace that outlasts the immediate crisis.
 
 Judges 3:30 brings the arc into rest. The pressure is subdued, and the land receives a long season of quiet.
 
@@ -126,7 +126,7 @@ The Spirit gives oil for the waiting season by forming peace that outlasts crisi
 
 **Scripture Reference:** Judges 3:31
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Shamgar's ordinary tool and Israel's rescue without sensationalizing the conflict. Power to witness is framed as faithful courage with what is already in the hand.
+**Context and language lens:** Shamgar's ordinary tool and Israel's rescue without sensationalizing the conflict. Power to witness is framed as faithful courage with what is already in the hand.
 
 Judges 3:31 introduces Shamgar with an ordinary tool in a serious moment. The verse is brief, but the witness is clear: God can save through what looks unimpressive.
 
@@ -154,7 +154,7 @@ The Spirit gives oil for the waiting season by anchoring witness in surrendered 
 
 **Scripture Reference:** Judges 6:1
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Israel's return to evil and the beginning of Midianite oppression. The seal of belonging is framed as holy warning that calls the heart back before distance becomes bondage.
+**Context and language lens:** Israel's return to evil and the beginning of Midianite oppression. The seal of belonging is framed as holy warning that calls the heart back before distance becomes bondage.
 
 Judges 6:1 opens a new cycle with painful honesty. The people return to evil, and oppression follows.
 
@@ -182,7 +182,7 @@ The Spirit gives oil for the waiting season by sealing correction as mercy that 
 
 **Scripture Reference:** Judges 6:2
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Israel's hidden places under Midian pressure. Prayer beyond words is framed as consecrated honesty when fear has driven the heart into hiding.
+**Context and language lens:** Israel's hidden places under Midian pressure. Prayer beyond words is framed as consecrated honesty when fear has driven the heart into hiding.
 
 Judges 6:2 shows people hiding because pressure has become severe. Fear has shaped where they live.
 

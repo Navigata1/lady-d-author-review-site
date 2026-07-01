@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 24:6
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' warning about troubled news because the Teacher forms steadiness before the heart is pulled into fear.
+**Context and language lens:** Jesus' warning about troubled news because the Teacher forms steadiness before the heart is pulled into fear.
 
 Matthew 24:6 names the kind of news that can shake a human heart. Jesus does not deny the noise of the world, but He teaches His disciples not to be ruled by alarm.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting His teaching touch the place where fear first r
 
 **Scripture Reference:** Matthew 25:11
 
-**Production lens note:** The architecture assigns hodos; the production lens uses the closed-door plea because the way of Jesus is followed before crisis exposes borrowed readiness.
+**Context and language lens:** The closed-door plea because the way of Jesus is followed before crisis exposes borrowed readiness.
 
 Matthew 25:11 comes from the parable of the waiting attendants. The moment is painful because the request arrives after readiness has already been neglected.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting grace prepare what crisis cannot borrow.
 
 **Scripture Reference:** Matthew 25:15
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses the entrusted talents because resurrection hope treats received capacity as living stewardship, not buried fear.
+**Context and language lens:** The entrusted talents because resurrection hope treats received capacity as living stewardship, not buried fear.
 
 Matthew 25:15 shows the master entrusting resources according to capacity. The gifts are not random, and they are not given for display. They are entrusted for faithful use.
 
@@ -98,7 +98,7 @@ Walking with Jesus means stewarding what He entrusted as a living sign of hope.
 
 **Scripture Reference:** Matthew 25:18
 
-**Production lens note:** The architecture assigns meno; the production lens uses the buried talent because abiding with Jesus keeps fear from hiding what grace meant to multiply.
+**Context and language lens:** The buried talent because abiding with Jesus keeps fear from hiding what grace meant to multiply.
 
 Matthew 25:18 shows a servant hiding what was entrusted. The buried gift becomes a picture of fear disguised as caution.
 
@@ -126,7 +126,7 @@ Walking with Jesus means refusing to let fear bury what grace entrusted.
 
 **Scripture Reference:** Matthew 25:20
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses the servant bringing the gained talents because compassion celebrates faithful increase without making love transactional.
+**Context and language lens:** The servant bringing the gained talents because compassion celebrates faithful increase without making love transactional.
 
 Matthew 25:20 shows the servant bringing what had been entrusted and what had been gained. Faithfulness returns with fruit.
 
@@ -154,7 +154,7 @@ Walking with Jesus means bringing faithful fruit back to the Friend who led you.
 
 **Scripture Reference:** Matthew 25:21
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses the master's approval because the Teacher forms faithfulness in small things before wider responsibility.
+**Context and language lens:** The master's approval because the Teacher forms faithfulness in small things before wider responsibility.
 
 Matthew 25:21 centers faithful service. The servant is received with approval, joy, and enlarged responsibility.
 
@@ -182,7 +182,7 @@ Walking with Jesus means learning joy through faithfulness in the little place.
 
 **Scripture Reference:** Matthew 25:22
 
-**Production lens note:** The architecture assigns hodos; the production lens uses the second servant's faithful return because the way of Jesus is walked by repeated trust, not one dramatic moment.
+**Context and language lens:** The second servant's faithful return because the way of Jesus is walked by repeated trust, not one dramatic moment.
 
 Matthew 25:22 shows another servant bringing what had been entrusted and what had been gained. Faithfulness is not isolated to one personality, one capacity, or one impressive story.
 

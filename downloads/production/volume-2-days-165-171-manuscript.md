@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 15:21
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus withdrawing toward Tyre and Sidon because the Teacher forms trust even when His path moves into unfamiliar borderland.
+**Context and language lens:** Jesus withdrawing toward Tyre and Sidon because the Teacher forms trust even when His path moves into unfamiliar borderland.
 
 Matthew 15:21 moves Jesus into the region of Tyre and Sidon. The scene shifts away from the expected center. The road is not random; the Teacher is still leading.
 
@@ -42,7 +42,7 @@ Walking with Jesus means trusting the Teacher beyond familiar ground.
 
 **Scripture Reference:** Matthew 15:25
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the woman's kneeling plea for help because the way of Jesus makes prayer honest, direct, and humble under pressure.
+**Context and language lens:** The woman's kneeling plea for help because the way of Jesus makes prayer honest, direct, and humble under pressure.
 
 Matthew 15:25 shows a woman coming close, kneeling, and asking Jesus for help. Her need is not polished into religious distance. It becomes a direct approach to Christ.
 
@@ -70,7 +70,7 @@ Walking with Jesus means bringing pressure to Him before it hardens into distanc
 
 **Scripture Reference:** Matthew 15:28
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus' response to the woman's faith and the healing of her daughter because resurrection hope rises where persistence meets mercy.
+**Context and language lens:** Jesus' response to the woman's faith and the healing of her daughter because resurrection hope rises where persistence meets mercy.
 
 Matthew 15:28 turns persistence into testimony. Jesus sees the woman's faith, and mercy reaches the need she has carried to Him. The storm around her household does not get the final word.
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting grace have the final voice over what felt final
 
 **Scripture Reference:** Matthew 15:29
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus going by the Sea of Galilee, going up the mountain, and sitting there because healing presence begins with remaining near the One who receives the needy.
+**Context and language lens:** Jesus going by the Sea of Galilee, going up the mountain, and sitting there because healing presence begins with remaining near the One who receives the needy.
 
 Matthew 15:29 places Jesus by the sea, then on the mountain, seated and present. He is not frantic. He is available.
 
@@ -126,7 +126,7 @@ Walking with Jesus means remaining near Him until your help is shaped by His pea
 
 **Scripture Reference:** Matthew 15:33
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the disciples' question about feeding a crowd in a desolate place because Christ's compassion meets honest lack without despising the question.
+**Context and language lens:** The disciples' question about feeding a crowd in a desolate place because Christ's compassion meets honest lack without despising the question.
 
 Matthew 15:33 lets the disciples speak the visible problem. The place seems empty. The crowd is large. Their resources feel insufficient.
 
@@ -154,7 +154,7 @@ Walking with Jesus means naming lack without surrendering trust.
 
 **Scripture Reference:** Matthew 15:34
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus asking about the available loaves because the Teacher begins with surrendered reality, not imagined abundance.
+**Context and language lens:** Jesus asking about the available loaves because the Teacher begins with surrendered reality, not imagined abundance.
 
 Jesus asks what is available. Matthew 15:34 brings the disciples from overwhelm to inventory. The Teacher does not ask them to pretend they have more than they have.
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting the Teacher begin with what is truly in your ha
 
 **Scripture Reference:** Matthew 15:36
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses Jesus giving thanks, breaking, and giving because the road with Him turns surrendered provision into shared mercy.
+**Context and language lens:** Jesus giving thanks, breaking, and giving because the road with Him turns surrendered provision into shared mercy.
 
 Matthew 15:36 shows Jesus receiving what is present, giving thanks, breaking, and giving. The movement is quiet and holy: received, blessed, broken, shared.
 

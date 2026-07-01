@@ -10,11 +10,11 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 363 - December 29
 
-### Lean Into Rain for Dry Places
+### Lean Into Finishing Hope Through Rain for Dry Places
 
 **Scripture Reference:** Matthew 10:38
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' call to take up the cross and follow Him. Rain for dry places is framed as the Spirit's pledge that costly obedience is held by what God has promised.
+**Context and language lens:** Jesus' call to take up the cross and follow Him. Rain for dry places is framed as the Spirit's pledge that costly obedience is held by what God has promised.
 
 Matthew 10:38 brings discipleship to a clear and costly place. Jesus does not call the heart to decorate faith; He calls the whole life to follow Him.
 
@@ -32,17 +32,17 @@ The Spirit forms a sealed and filled life by refreshing costly obedience with th
 
 **Journal prompt:** Where has comfort been negotiating with obedience?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Lean Into Finishing Hope Through Rain for Dry Places into one faithful step today.
 
 ---
 
 ## Day 364 - December 30
 
-### See Again the Anointing for Today
+### See Finishing Hope in Again the Anointing for Today
 
 **Scripture Reference:** Matthew 10:39
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' teaching about losing and finding life. The anointing for today is framed as Spirit-grown fruit that releases self-preservation and receives life from Jesus.
+**Context and language lens:** Jesus' teaching about losing and finding life. The anointing for today is framed as Spirit-grown fruit that releases self-preservation and receives life from Jesus.
 
 Matthew 10:39 turns the world's logic inside out. The life clutched for self-preservation becomes smaller, while the life surrendered to Jesus is found more truly.
 
@@ -60,21 +60,21 @@ The Spirit forms a sealed and filled life by growing fruit where surrendered lif
 
 **Journal prompt:** Where has self-protection been shrinking my obedience?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry See Finishing Hope in Again the Anointing for Today into one faithful step today.
 
 ---
 
 ## Day 365 - December 31
 
-### Let Love Teach the Spirit's Fruit
+### Let Finishing Hope Teach the Spirit's Fruit
 
 **Scripture Reference:** Matthew 10:40
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' teaching that receiving His messengers is connected to receiving Him and the One who sent Him. The Spirit's fruit is framed as being filled enough to carry welcome that points beyond self.
+**Context and language lens:** Jesus' teaching that receiving His messengers is connected to receiving Him and the One who sent Him. The Spirit's fruit is framed as being filled enough to carry welcome that points beyond self.
 
 Matthew 10:40 closes the year with holy welcome. Jesus ties reception of His sent ones to reception of Himself and the Father who sent Him.
 
-The Spirit's fruit opens the text carefully and presses it into ordinary morning obedience. A sealed and filled life is brought under the Spirit's influence so welcome becomes more than politeness. The filled life carries the presence of Jesus in a way that points beyond personality, platform, or performance.
+The Spirit's fruit opens the text carefully and presses it into ordinary morning obedience. A sealed and filled life is brought under the Spirit's influence so welcome becomes more than politeness. The filled life carries the presence of Jesus in a way that points beyond personality, platform, or self-display.
 
 Let love teach the Spirit's fruit by asking whether your welcome points people toward Jesus or back toward yourself. Let the Spirit press this from information into formation.
 
@@ -88,4 +88,4 @@ The Spirit forms a sealed and filled life by making welcome fruitful and surrend
 
 **Journal prompt:** Does my welcome point people toward Jesus or back toward myself?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Let Finishing Hope Teach the Spirit's Fruit into one faithful step today.

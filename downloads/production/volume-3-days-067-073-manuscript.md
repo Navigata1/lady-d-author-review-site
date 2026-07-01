@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Revelation 3:22
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses the closing call to hear what the Spirit says to the churches. The filling emphasis becomes a listening life that keeps receiving correction, promise, and direction from Christ.
+**Context and language lens:** The closing call to hear what the Spirit says to the churches. The filling emphasis becomes a listening life that keeps receiving correction, promise, and direction from Christ.
 
 The journey needs oil that does not run out when the heart is corrected. Revelation 3:22 comes after a message that has not been easy. Yet the Spirit still speaks, and the faithful response is to hear.
 
@@ -42,7 +42,7 @@ The Spirit gives oil for the journey by keeping the heart listening to Jesus.
 
 **Scripture Reference:** Revelation 3:6
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses the repeated call to hear what the Spirit says to the churches, with freedom framed as responsive listening rather than self-directed impulse.
+**Context and language lens:** The repeated call to hear what the Spirit says to the churches, with freedom framed as responsive listening rather than self-directed impulse.
 
 Freedom in the Spirit begins with the humility to hear. Revelation 3:6 is simple and searching: the one with ears is called to listen to what the Spirit says.
 
@@ -70,7 +70,7 @@ The Spirit frees the heart by teaching it to hear and respond.
 
 **Scripture Reference:** Genesis 1:1
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses creation's beginning to frame God as Creator before human effort begins. The new-heart emphasis becomes trust in the God who starts what we cannot start.
+**Context and language lens:** Creation's beginning to frame God as Creator before human effort begins. The new-heart emphasis becomes trust in the God who starts what we cannot start.
 
 Before the day has demands, God is Creator. Genesis 1:1 does not begin with human striving, human explaining, or human fear. It begins with God.
 
@@ -98,7 +98,7 @@ The Spirit steadies the heart by returning it to the Creator.
 
 **Scripture Reference:** Genesis 1:3
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's command that light appear. Holy fire is framed as God's light overcoming confusion without becoming spectacle.
+**Context and language lens:** God's command that light appear. Holy fire is framed as God's light overcoming confusion without becoming spectacle.
 
 Hope can rise before every detail is fixed. Genesis 1:3 shows God bringing light by His word. The scene is not anxious. It is authoritative, simple, and full of creative mercy.
 
@@ -126,7 +126,7 @@ The Spirit brings hope by turning the heart toward God's light.
 
 **Scripture Reference:** Genesis 1:4
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's seeing the light as good and separating light from darkness. Holy fire is framed as discernment that honors what God calls good.
+**Context and language lens:** God's seeing the light as good and separating light from darkness. Holy fire is framed as discernment that honors what God calls good.
 
 Holy fire teaches the heart to discern. Genesis 1:4 shows God recognizing the goodness of light and separating light from darkness. Creation has mercy in it, and it also has distinction.
 
@@ -154,7 +154,7 @@ The Spirit forms discernment that honors God's light.
 
 **Scripture Reference:** Genesis 1:5
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's naming of day and night and the ordered rhythm of evening and morning. Resting and settling are framed as receiving God's order in time.
+**Context and language lens:** God's naming of day and night and the ordered rhythm of evening and morning. Resting and settling are framed as receiving God's order in time.
 
 Dry places become more frightening when time feels shapeless. Genesis 1:5 gives names and rhythm: evening and morning are not chaos. They are held inside God's ordering care.
 
@@ -182,7 +182,7 @@ The Spirit brings refreshment by settling the heart into God's ordered care.
 
 **Scripture Reference:** Genesis 1:6
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God's creation of expanse and separation of waters. The anointing for today is framed as Spirit-given space, order, and breath where life can continue forming.
+**Context and language lens:** God's creation of expanse and separation of waters. The anointing for today is framed as Spirit-given space, order, and breath where life can continue forming.
 
 The anointing for today may begin with God making space. Genesis 1:6 pictures ordered separation, not confusion without boundary. God creates room within creation for life to unfold.
 

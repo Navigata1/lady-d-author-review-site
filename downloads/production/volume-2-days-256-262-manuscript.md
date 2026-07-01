@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 22:22
 
-**Production lens note:** The architecture assigns phos; the production lens uses the amazement and departure after Jesus' answer because light exposes a trap and gives a clean way through it.
+**Context and language lens:** The amazement and departure after Jesus' answer because light exposes a trap and gives a clean way through it.
 
 Matthew 22:22 comes after Jesus answers a question designed to catch Him. The people who tried to trap Him are left marveling. They cannot make His wisdom serve their agenda, so they leave.
 
@@ -42,7 +42,7 @@ Walking with Jesus means serving with wisdom that can walk away from a trap with
 
 **Scripture Reference:** Matthew 22:23
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses the Sadducees' approach because following Jesus includes bringing guarded assumptions into His presence.
+**Context and language lens:** The Sadducees' approach because following Jesus includes bringing guarded assumptions into His presence.
 
 Matthew 22:23 introduces a group that does not believe in the resurrection. They come to Jesus with a question, but the question is shaped by what they have already decided.
 
@@ -70,7 +70,7 @@ Walking with Jesus means staying on the road even when a question exposes how mu
 
 **Scripture Reference:** Matthew 22:24
 
-**Production lens note:** The architecture assigns sozo; the production lens uses the reference to death, family obligation, and inheritance because saving wholeness meets real human loss before it corrects confused reasoning.
+**Context and language lens:** The reference to death, family obligation, and inheritance because saving wholeness meets real human loss before it corrects confused reasoning.
 
 Matthew 22:24 reaches into a complicated law about family responsibility after death. In the hands of the questioners, the situation becomes a test case. In the presence of Jesus, it also reminds us that God is not distant from grief, family pressure, and unresolved human stories.
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting His saving nearness enter the places we are tem
 
 **Scripture Reference:** Matthew 22:28
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the question about resurrection relationships because peace lets the heart stop forcing eternal mysteries into anxious earthly categories.
+**Context and language lens:** The question about resurrection relationships because peace lets the heart stop forcing eternal mysteries into anxious earthly categories.
 
 Matthew 22:28 asks whose wife the woman will be in the resurrection. The question tries to make the promise of resurrection look unreasonable by trapping it inside a broken earthly frame.
 
@@ -126,7 +126,7 @@ Walking with Jesus means trusting resurrection hope enough to serve without forc
 
 **Scripture Reference:** Matthew 22:29
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses Jesus' correction about Scripture and God's power because trusted Lordship anchors the heart in what God has said and what God can do.
+**Context and language lens:** Jesus' correction about Scripture and God's power because trusted Lordship anchors the heart in what God has said and what God can do.
 
 Matthew 22:29 is a loving but serious correction. Jesus tells His hearers that they are mistaken because they do not know the Scriptures or the power of God.
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting His authority bring you back to Scripture and t
 
 **Scripture Reference:** Matthew 22:3
 
-**Production lens note:** The architecture assigns phos; the production lens uses the invited guests refusing to come because light exposes the heart's resistance to grace.
+**Context and language lens:** The invited guests refusing to come because light exposes the heart's resistance to grace.
 
 Matthew 22:3 shows servants being sent to call those who were invited to the wedding feast, but the invited ones would not come. The invitation is generous, but the response is resistance.
 
@@ -182,7 +182,7 @@ Walking with Jesus means receiving the invitation before carrying it.
 
 **Scripture Reference:** Matthew 22:30
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses Jesus' teaching about resurrection life because discipleship follows Him beyond earthly categories into the life God prepares.
+**Context and language lens:** Jesus' teaching about resurrection life because discipleship follows Him beyond earthly categories into the life God prepares.
 
 Matthew 22:30 teaches that resurrection life is not merely earthly life extended with all the same arrangements. Jesus lifts the hearers' eyes beyond the limits of their question.
 

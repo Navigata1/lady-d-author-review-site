@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 1:4
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `wayyar Elohim et-ha'or ki-tov/wayyavdel Elohim bein ha'or uvein hachoshekh` - God saw the light, recognized it as good, and separated the light from the darkness - because the verse centers on divine discernment, goodness, and holy separation.
+**Context and language lens:** `wayyar Elohim et-ha'or ki-tov/wayyavdel Elohim bein ha'or uvein hachoshekh` - God saw the light, recognized it as good, and separated the light from the darkness - because the verse centers on divine discernment, goodness, and holy separation.
 
 Mercy in the morning does not pretend darkness and light are the same. Genesis 1:4 shows God seeing the light, naming its goodness, and separating it from the darkness. Before human eyes can evaluate anything, the Father already knows what is good.
 
@@ -42,7 +42,7 @@ Let this word give your morning a spine and your heart a place to rest. Ask the 
 
 **Scripture Reference:** Genesis 1:6
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `yehi raqia betokh hammayim/vihi mavdil bein mayim lamayim` - let there be an expanse in the midst of the waters, and let it be separating waters from waters - because the verse centers on God creating space, structure, and separation inside what had been undivided.
+**Context and language lens:** `yehi raqia betokh hammayim/vihi mavdil bein mayim lamayim` - let there be an expanse in the midst of the waters, and let it be separating waters from waters - because the verse centers on God creating space, structure, and separation inside what had been undivided.
 
 The Father's patience knows how to make room inside what feels overwhelming. Genesis 1:6 does not show creation rushing past the waters. God speaks an expanse into the midst of them. He forms a space where separation can happen.
 
@@ -70,7 +70,7 @@ The day does not get to name you before God does. If the Father can speak struct
 
 **Scripture Reference:** Genesis 1:7
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `wayyaas Elohim et-haraqia/wayyavdel bein hammayim/asher mittachat/asher me'al` - God made the expanse and divided the waters below from the waters above - because the verse centers on God's spoken order becoming formed reality.
+**Context and language lens:** `wayyaas Elohim et-haraqia/wayyavdel bein hammayim/asher mittachat/asher me'al` - God made the expanse and divided the waters below from the waters above - because the verse centers on God's spoken order becoming formed reality.
 
 Love becomes stronger than fear when God's word is not left as an idea. Genesis 1:7 moves from command to formation. God makes the expanse and separates the waters. What He spoke becomes arranged reality.
 
@@ -98,7 +98,7 @@ Walk out of this page with courage, tenderness, and clarity. Let love become mor
 
 **Scripture Reference:** Genesis 1:9
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `yiqqavu hammayim mitachat hashamayim el-maqom echad/veteraeh hayyabbashah` - let the waters under the heavens be gathered to one place, and let dry land appear - because the verse centers on God gathering what is scattered and revealing firm ground.
+**Context and language lens:** `yiqqavu hammayim mitachat hashamayim el-maqom echad/veteraeh hayyabbashah` - let the waters under the heavens be gathered to one place, and let dry land appear - because the verse centers on God gathering what is scattered and revealing firm ground.
 
 Restoring compassion gathers what has been scattered. Genesis 1:9 shows God commanding the waters under the heavens to be gathered into one place so dry land can appear. The firm place was not created by anxious striving. It appeared as God gathered what had covered it.
 
@@ -126,7 +126,7 @@ Receive the truth deeply enough that it changes your next decision. The dry grou
 
 **Scripture Reference:** Genesis 1:11
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `tadshe ha'aretz deshe/eseb mazria zera/ets peri oseh peri` - let the earth sprout vegetation, plants bearing seed, and fruit trees producing fruit - because the verse centers on God's command releasing life with seed-bearing continuity.
+**Context and language lens:** `tadshe ha'aretz deshe/eseb mazria zera/ets peri oseh peri` - let the earth sprout vegetation, plants bearing seed, and fruit trees producing fruit - because the verse centers on God's command releasing life with seed-bearing continuity.
 
 The promise that holds may begin like a seed before it looks like a harvest. Genesis 1:11 shows God commanding the earth to sprout vegetation, plants bearing seed, and trees producing fruit. God does not merely create a moment of beauty. He creates life with continuation inside it.
 
@@ -154,7 +154,7 @@ Carry this like bread for the road, not decoration for the shelf. The Father kno
 
 **Scripture Reference:** Genesis 1:12
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `watotse ha'aretz deshe/eseb mazria zera/ets oseh-peri/wayyar Elohim ki-tov` - the earth brought forth vegetation, seed-bearing plants, fruit-bearing trees, and God saw that it was good - because the verse centers on fruitfulness answering God's word and being recognized as good.
+**Context and language lens:** `watotse ha'aretz deshe/eseb mazria zera/ets oseh-peri/wayyar Elohim ki-tov` - the earth brought forth vegetation, seed-bearing plants, fruit-bearing trees, and God saw that it was good - because the verse centers on fruitfulness answering God's word and being recognized as good.
 
 Love teaches the heart that calls you by making the Father's word fruitful in ordinary soil. Genesis 1:12 shows the earth bringing forth what God commanded in the previous verse. Vegetation, seed-bearing plants, and fruit-bearing trees appear according to their kind, and God sees that it is good.
 
@@ -182,7 +182,7 @@ Let this word give your morning a spine and your heart a place to rest. Fruitful
 
 **Scripture Reference:** Genesis 1:13
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `vayehi erev/vayehi boqer/yom shelishi` - there was evening, there was morning, the third day - because the verse centers on God's completed day rhythm and the movement of creation through evening into morning.
+**Context and language lens:** `vayehi erev/vayehi boqer/yom shelishi` - there was evening, there was morning, the third day - because the verse centers on God's completed day rhythm and the movement of creation through evening into morning.
 
 Love that sends you also teaches you rhythm. Genesis 1:13 closes the third day with evening and morning. God is not frantic in His creating. His work has order. His day has boundary. His movement has completion.
 

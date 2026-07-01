@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Repo commit at generation: `6ab403d`
+Repo commit at generation: `9aab4b1`
 
 Author: Susan "Lady D" Damon
 
@@ -15,7 +15,7 @@ This pack moves the Lady D library from assembled review drafts into a disciplin
 ## Evidence Snapshot
 
 - Products checked: 6
-- Source words checked: 377,171
+- Source words checked: 369,512
 - Placeholder markers found: 0
 - Sunday mentions: 0
 - Sabbath mentions: 1300
@@ -30,11 +30,11 @@ This pack moves the Lady D library from assembled review drafts into a disciplin
 
 | Product | Type | Words | Structure | Sunday | Placeholders | Watch contexts |
 | --- | --- | ---: | --- | ---: | ---: | ---: |
-| Surrendering to God's Love | Devotional | 130,732 | pass | 0 | 0 | 209 |
+| Surrendering to God's Love | Devotional | 128,224 | pass | 0 | 0 | 209 |
 | Surrendering to God's Love Companion Journal | Companion Journal | 19,854 | review | 0 | 0 | 47 |
-| Walking with Jesus | Devotional | 97,693 | pass | 0 | 0 | 43 |
+| Walking with Jesus | Devotional | 95,114 | pass | 0 | 0 | 43 |
 | Walking with Jesus Companion Journal | Companion Journal | 17,134 | review | 0 | 0 | 13 |
-| Filled with the Holy Spirit | Devotional | 94,093 | pass | 0 | 0 | 33 |
+| Filled with the Holy Spirit | Devotional | 91,521 | pass | 0 | 0 | 33 |
 | Filled with the Holy Spirit Companion Journal | Companion Journal | 17,665 | review | 0 | 0 | 11 |
 
 ## Judge And Auditor Loop

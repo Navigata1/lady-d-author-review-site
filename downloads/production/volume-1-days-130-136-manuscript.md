@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Psalms 5:9
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `ein bepihu nekhonah/qirbam hawwoth/qever patuach geronam/leshonam yachaliqun` - no firmness in their mouth, destruction within them, their throat an open grave, and their tongue made smooth - because the verse centers on untrustworthy speech and the danger of letting false voices define the soul.
+**Context and language lens:** `ein bepihu nekhonah/qirbam hawwoth/qever patuach geronam/leshonam yachaliqun` - no firmness in their mouth, destruction within them, their throat an open grave, and their tongue made smooth - because the verse centers on untrustworthy speech and the danger of letting false voices define the soul.
 
 Rest is not gullibility. Psalms 5:9 is a sober verse. David names speech that cannot be trusted, a mouth without firmness, an inward life full of destruction, a throat like an open grave, and a tongue made smooth. The danger is not only that enemies speak loudly. It is that false words can sound polished enough to be believed.
 
@@ -42,7 +42,7 @@ The day does not get to name you before God does. Let His faithful love find you
 
 **Scripture Reference:** Ruth 1:12
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `shovnah benotay/ki zaqanti/ki amarti yesh-li tiqwah` - turn back, my daughters; I am too old; if I should say there is hope for me - because the verse centers on Naomi naming the limits she can see and the hope she cannot manufacture.
+**Context and language lens:** `shovnah benotay/ki zaqanti/ki amarti yesh-li tiqwah` - turn back, my daughters; I am too old; if I should say there is hope for me - because the verse centers on Naomi naming the limits she can see and the hope she cannot manufacture.
 
 Naomi speaks from a place where every practical answer looks closed. She tells her daughters-in-law to turn back because she is too old to provide the future they need. Even if she could say, "There is hope for me," the path would still not make sense by ordinary calculation.
 
@@ -72,7 +72,7 @@ Walk out of this page with courage, tenderness, and clarity. Grace is already pr
 
 **Scripture Reference:** Ruth 2:10
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `matsati chen be'eyneykha/lehakkireni/anokhi nokriyah` - I have found favor in your eyes, that you should take notice of me, though I am a foreigner - because the verse centers on favor, being noticed, and the humility of someone who knows she has been received beyond social expectation.
+**Context and language lens:** `matsati chen be'eyneykha/lehakkireni/anokhi nokriyah` - I have found favor in your eyes, that you should take notice of me, though I am a foreigner - because the verse centers on favor, being noticed, and the humility of someone who knows she has been received beyond social expectation.
 
 Ruth falls on her face because mercy has reached her in a place where she expected to remain an outsider. She asks why she has found favor, why Boaz has taken notice of her, though she is a foreigner. The moment is tender, but it is not thin. Mercy is doing something strong.
 
@@ -100,7 +100,7 @@ Receive the truth deeply enough that it changes your next decision. If mercy has
 
 **Scripture Reference:** Ruth 2:11
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `huggad huggad li kol asher asit/wattaazvi avikh we'immekh/wattelki el-am asher lo-yadaat` - it has been fully reported what you have done, how you left father, mother, and birthplace, and came to a people you did not know - because the verse centers on costly faithfulness being seen.
+**Context and language lens:** `huggad huggad li kol asher asit/wattaazvi avikh we'immekh/wattelki el-am asher lo-yadaat` - it has been fully reported what you have done, how you left father, mother, and birthplace, and came to a people you did not know - because the verse centers on costly faithfulness being seen.
 
 Boaz tells Ruth that her story has not been invisible. Her care for Naomi, her loss, her leaving of familiar ground, and her coming to a people she did not know have all been fully reported. She may have felt like a stranger in the field, but her faithfulness had already been seen.
 
@@ -128,7 +128,7 @@ Carry this like bread for the road, not decoration for the shelf. The God who se
 
 **Scripture Reference:** Ruth 2:13
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `emtza chen be'eyneykha/nihamtani/dibbarta al-lev shifhateka` - let me find favor in your sight, for you have comforted me and spoken to the heart of your servant - because the verse centers on favor that comforts and words that reach the heart.
+**Context and language lens:** `emtza chen be'eyneykha/nihamtani/dibbarta al-lev shifhateka` - let me find favor in your sight, for you have comforted me and spoken to the heart of your servant - because the verse centers on favor that comforts and words that reach the heart.
 
 Ruth answers kindness with a sentence full of gratitude. She says that Boaz has comforted her and spoken to the heart of his servant. His mercy did not remain a distant policy in the field. It became words that reached the place where fear had been living.
 
@@ -156,7 +156,7 @@ Let this word give your morning a spine and your heart a place to rest. Today, s
 
 **Scripture Reference:** Ruth 2:2
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `elkha-na hassadeh/wa'alaqotah bashibbolim/emtsa chen be'eynav` - please let me go to the field and glean among the grain after one in whose eyes I may find favor - because the verse centers on humble initiative, provision, and favor sought in a vulnerable place.
+**Context and language lens:** `elkha-na hassadeh/wa'alaqotah bashibbolim/emtsa chen be'eynav` - please let me go to the field and glean among the grain after one in whose eyes I may find favor - because the verse centers on humble initiative, provision, and favor sought in a vulnerable place.
 
 Restoring compassion does not always arrive while you are sitting still. Ruth asks Naomi to let her go into the field and glean. She is not trying to save herself apart from God, but she is willing to take the humble step available to her. Need has become honest action.
 
@@ -184,7 +184,7 @@ The day does not get to name you before God does. Need does not get to name you 
 
 **Scripture Reference:** Ruth 2:20
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `lo-azav chasdo et-hachayyim we'et-hammetim/qarov lanu ha'ish/miggo'alenu hu` - He has not forsaken His kindness to the living and the dead; the man is near to us, one of our kinsman-redeemers - because the verse centers on covenant kindness that has not stopped and redemption beginning to appear.
+**Context and language lens:** `lo-azav chasdo et-hachayyim we'et-hammetim/qarov lanu ha'ish/miggo'alenu hu` - He has not forsaken His kindness to the living and the dead; the man is near to us, one of our kinsman-redeemers - because the verse centers on covenant kindness that has not stopped and redemption beginning to appear.
 
 Naomi hears Ruth's report and sees mercy with new eyes. The kindness of the LORD has not been forsaken. The living and the dead are still held in the reach of covenant love. The man in the field is not random; he is near kin, one who belongs to the redemption story.
 

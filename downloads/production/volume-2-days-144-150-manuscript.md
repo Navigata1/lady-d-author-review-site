@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 13:54
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses Jesus teaching in His hometown because His compassion keeps offering wisdom even where familiarity may resist it.
+**Context and language lens:** Jesus teaching in His hometown because His compassion keeps offering wisdom even where familiarity may resist it.
 
 Jesus brought wisdom close to home. Matthew 13:54 shows Him teaching in His own country, and people were astonished. The grace of God was near, but nearness can expose the heart as much as distance can.
 
@@ -42,7 +42,7 @@ Walking with Jesus means receiving grace even when it comes through familiar doo
 
 **Scripture Reference:** Matthew 13:55
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses the people's questions about Jesus' family and ordinary background because the Teacher often comes wrapped in humility.
+**Context and language lens:** The people's questions about Jesus' family and ordinary background because the Teacher often comes wrapped in humility.
 
 People can miss glory when it arrives without the packaging they expected. Matthew 13:55 shows the crowd naming Jesus by His family and trade context. They knew facts about Him, but facts without faith can still resist the truth.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting the humble Teacher heal the way we see.
 
 **Scripture Reference:** Matthew 13:57
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses Jesus' rejection in His hometown because the road with Him includes faithfulness when honor is withheld.
+**Context and language lens:** Jesus' rejection in His hometown because the road with Him includes faithfulness when honor is withheld.
 
 Jesus knows what it is to be dishonored by familiar people. Matthew 13:57 names the painful pattern of a prophet being without honor in his own country and house. Rejection did not make Jesus less true.
 
@@ -98,7 +98,7 @@ Walking with Jesus means following Him even when honor is withheld.
 
 **Scripture Reference:** Matthew 13:6
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses the scorched seed because resurrection-shaped hope grows roots before heat tests the heart.
+**Context and language lens:** The scorched seed because resurrection-shaped hope grows roots before heat tests the heart.
 
 The sun reveals what the soil has not yet held. Matthew 13:6 describes growth that springs up quickly but withers under heat because there is no root. Jesus is teaching more than gardening. He is teaching endurance.
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting hope grow roots before the heat comes.
 
 **Scripture Reference:** Matthew 14:1
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Herod hearing reports about Jesus because abiding helps the heart remain steady when powerful voices misunderstand or misname Christ.
+**Context and language lens:** Herod hearing reports about Jesus because abiding helps the heart remain steady when powerful voices misunderstand or misname Christ.
 
 Not every report about Jesus is clear, humble, or true. Matthew 14:1 shows Herod hearing about Jesus. Power hears the rumor, but hearing is not the same as surrender.
 
@@ -154,7 +154,7 @@ Walking with Jesus means remaining steady when noise misnames the truth.
 
 **Scripture Reference:** Matthew 14:10
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the death of John the Baptist with restraint, allowing Christ's compassion to meet grief, injustice, and holy witness without graphic detail.
+**Context and language lens:** The death of John the Baptist with restraint, allowing Christ's compassion to meet grief, injustice, and holy witness without graphic detail.
 
 Some verses carry grief without needing many words. Matthew 14:10 records the death of John the Baptist. The moment is unjust, sobering, and painful. Faith does not have to pretend otherwise.
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting compassion hold grief and courage together.
 
 **Scripture Reference:** Matthew 14:16
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus' instruction to feed the crowd because the Teacher forms compassionate participation instead of sending need away.
+**Context and language lens:** Jesus' instruction to feed the crowd because the Teacher forms compassionate participation instead of sending need away.
 
 Jesus did not let need become someone else's problem. Matthew 14:16 shows Him telling the disciples that the crowd did not need to go away and calling them into participation. Compassion became assignment.
 

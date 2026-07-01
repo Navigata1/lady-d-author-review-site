@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 3:20
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Ehud standing with a word from God in a tense room. The seal of belonging is framed as Spirit-breathed courage to stand under God's word before status, pressure, or fear.
+**Context and language lens:** Ehud standing with a word from God in a tense room. The seal of belonging is framed as Spirit-breathed courage to stand under God's word before status, pressure, or fear.
 
 Judges 3:20 brings the moment into focus. A word from God is named, and the room changes.
 
@@ -32,7 +32,7 @@ The Spirit gives oil for the waiting season by sealing courage under God's word.
 
 **Journal prompt:** Where do I need to remember that I belong to God before I face pressure?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Rest in the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit gives oil for the waiting season by sealing courage under God's word.
 
 **Scripture Reference:** Judges 3:21
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses a difficult deliverance moment without graphic amplification. Prayer beyond words is framed as inward obedience when the moment for action can no longer remain only private intention.
+**Context and language lens:** A difficult deliverance moment without graphic amplification. Prayer beyond words is framed as inward obedience when the moment for action can no longer remain only private intention.
 
 Judges 3:21 is part of a hard deliverance narrative. The devotional task is not to turn violence into fascination, but to receive the sober truth that deliverance sometimes confronts what has held people captive.
 
@@ -60,7 +60,7 @@ The Spirit gives oil for the waiting season by turning hidden prayer into surren
 
 **Journal prompt:** Which prayer is God asking me to live out in action?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Wake Up to Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit gives oil for the waiting season by turning hidden prayer into surren
 
 **Scripture Reference:** Judges 3:22
 
-**Production lens correction:** The architecture assigned `esh`; the production lens handles the graphic narrative detail with restraint. Wind in the waiting is framed as holy fire that purifies the heart from spectacle and keeps deliverance sober.
+**Context and language lens:** This lens reads the graphic narrative detail with restraint. Wind in the waiting is framed as holy fire that purifies the heart from spectacle and keeps deliverance sober.
 
 Judges 3:22 is not a passage to decorate. The detail is severe, and faithful devotion should not make it entertaining.
 
@@ -88,7 +88,7 @@ The Spirit gives oil for the waiting season by refining the heart into sober cou
 
 **Journal prompt:** Where does my heart need to be purified from reaction or spectacle?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Let Fire Refine Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit gives oil for the waiting season by refining the heart into sober cou
 
 **Scripture Reference:** Judges 3:23
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Ehud's departure and closed doors. Oil for the journey is framed as consecrated completion, wise closure, and restraint after a difficult assignment.
+**Context and language lens:** Ehud's departure and closed doors. Oil for the journey is framed as consecrated completion, wise closure, and restraint after a difficult assignment.
 
 Judges 3:23 shows movement after the moment. Ehud leaves, and the scene shifts behind closed doors.
 
@@ -116,7 +116,7 @@ The Spirit gives oil for the waiting season by consecrating completion and wise 
 
 **Journal prompt:** What completed responsibility do I need to release back to God?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Come Home to Oil for the Journey into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit gives oil for the waiting season by consecrating completion and wise 
 
 **Scripture Reference:** Judges 3:24
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the servants' delay and misunderstanding. Freedom in the Spirit is framed as settled patience when others misread timing or do not yet understand what God is doing.
+**Context and language lens:** The servants' delay and misunderstanding. Freedom in the Spirit is framed as settled patience when others misread timing or do not yet understand what God is doing.
 
 Judges 3:24 includes delay and misunderstanding. People outside the room interpret what they can see, and their interpretation is incomplete.
 
@@ -144,7 +144,7 @@ The Spirit gives oil for the waiting season by settling patience when timing is 
 
 **Journal prompt:** Where do I feel pressured to explain what is not ready to be explained?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Practice Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit gives oil for the waiting season by settling patience when timing is 
 
 **Scripture Reference:** Judges 3:25
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the servants' long wait and the opened door. The breath of God is framed as Spirit-given steadiness when delayed truth finally opens.
+**Context and language lens:** The servants' long wait and the opened door. The breath of God is framed as Spirit-given steadiness when delayed truth finally opens.
 
 Judges 3:25 shows waiting until the truth can no longer stay hidden. A door opens, and the reality inside must be faced.
 
@@ -172,7 +172,7 @@ The Spirit gives oil for the waiting season by steadying breath when truth opens
 
 **Journal prompt:** What truth have I been afraid to face?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Surrender to the Breath of God into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit gives oil for the waiting season by steadying breath when truth opens
 
 **Scripture Reference:** Judges 3:26
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Ehud's escape while others delay. The Comforter's nearness is framed as mercy that makes a way forward during a narrow window.
+**Context and language lens:** Ehud's escape while others delay. The Comforter's nearness is framed as mercy that makes a way forward during a narrow window.
 
 Judges 3:26 shows escape during delay. The deliverer moves while the window is open.
 
@@ -200,4 +200,4 @@ The Spirit gives oil for the waiting season by forming wise movement through an 
 
 **Journal prompt:** Where is God opening a narrow but faithful way forward?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Let Mercy Speak the Comforter's Nearness into one faithful step today.

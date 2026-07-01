@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Revelation 22:10
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses the instruction not to seal the words of the prophecy because the time is near. Comfort is framed as revealed truth brought close, not hidden from the people of God.
+**Context and language lens:** The instruction not to seal the words of the prophecy because the time is near. Comfort is framed as revealed truth brought close, not hidden from the people of God.
 
 Dry places often feel as if God has hidden what the heart most needs. Revelation 22:10 moves in the opposite direction. The message is not sealed away. The word is opened because the time is near.
 
@@ -42,7 +42,7 @@ The Spirit brings the nearness of revealed truth into dry places.
 
 **Scripture Reference:** Revelation 22:17
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses the Spirit's invitation, with the bride, for the thirsty to come and receive the water of life.
+**Context and language lens:** The Spirit's invitation, with the bride, for the thirsty to come and receive the water of life.
 
 The Spirit's nearness has an invitation in it. Revelation 22:17 is not cold instruction. It is a mercy-filled call for the thirsty to come.
 
@@ -70,7 +70,7 @@ The Spirit calls thirsty hearts toward the life Jesus gives.
 
 **Scripture Reference:** Revelation 22:2
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses the tree of life imagery, fruit, and healing for the nations as the passage's own picture of Spirit-shaped life and restoration.
+**Context and language lens:** The tree of life imagery, fruit, and healing for the nations as the passage's own picture of Spirit-shaped life and restoration.
 
 The nearness of the Comforter is not thin. Revelation 22:2 gives a picture of life that is fruitful, steady, and healing. The tree of life stands where God has made all things whole.
 
@@ -98,7 +98,7 @@ The Spirit grows fruit that carries healing into ordinary places.
 
 **Scripture Reference:** Revelation 3:1
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Christ's message to Sardis, including the seven Spirits of God and the danger of having a reputation for life while needing true awakening.
+**Context and language lens:** Christ's message to Sardis, including the seven Spirits of God and the danger of having a reputation for life while needing true awakening.
 
 Power to witness begins with truth in the hidden place. Revelation 3:1 is a serious mercy: a church can have a name for being alive while needing to wake up before God.
 
@@ -126,7 +126,7 @@ The Spirit awakens witness by bringing breath back to the hidden life.
 
 **Scripture Reference:** Revelation 3:10
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Christ's word to the faithful church about keeping His word of patient endurance. The entry avoids overclaiming end-time mechanics and focuses on faithful nearness.
+**Context and language lens:** Christ's word to the faithful church about keeping His word of patient endurance. The entry avoids overclaiming end-time mechanics and focuses on faithful nearness.
 
 Belonging is strengthened when the heart keeps Christ's word with patience. Revelation 3:10 speaks to endurance that has held on under pressure. It is not noisy, but it is precious.
 
@@ -154,7 +154,7 @@ The Spirit steadies belonging into patient endurance.
 
 **Scripture Reference:** Revelation 3:13
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses the repeated call to hear what the Spirit says to the churches. Prayer beyond words includes listening that becomes obedience.
+**Context and language lens:** The repeated call to hear what the Spirit says to the churches. Prayer beyond words includes listening that becomes obedience.
 
 Some prayers are too full for many words. Revelation 3:13 calls the one with ears to hear what the Spirit says. That means nearness is not only God listening to us; it is also God teaching us how to listen.
 
@@ -182,7 +182,7 @@ The Spirit comforts by teaching the heart to hear and respond.
 
 **Scripture Reference:** Revelation 3:14
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Christ as the Amen, the faithful and true Witness, and the beginning/source of God's creation. The Comforter anchors the heart in Jesus while the next word of correction is being prepared.
+**Context and language lens:** Christ as the Amen, the faithful and true Witness, and the beginning/source of God's creation. The Comforter anchors the heart in Jesus while the next word of correction is being prepared.
 
 Waiting needs an anchor stronger than mood. Revelation 3:14 names Jesus as faithful and true before the message unfolds. Before correction, there is Christ. Before the heart is examined, there is the One who is steady, truthful, and sovereign.
 

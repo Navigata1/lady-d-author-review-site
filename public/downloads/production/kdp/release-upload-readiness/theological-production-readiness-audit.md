@@ -2,14 +2,14 @@
 
 Generated: 2026-07-01
 
-Base commit: `6ab403d`
+Base commit: `9aab4b1`
 
 Result: Review-ready, not final KDP upload.
 
 ## Summary
 
 - Products checked: 6
-- Source words checked: 377,171
+- Source words checked: 369,512
 - Sabbath mentions: 1300
 - Saturday mentions: 202
 - Sunday mentions: 0
@@ -19,11 +19,11 @@ Result: Review-ready, not final KDP upload.
 
 | Product | Type | Pages | Source words | Sabbath mentions | Sunday mentions | Interior page size |
 | --- | --- | ---: | ---: | ---: | ---: | --- |
-| Surrendering to God's Love | Devotional | 369 | 130,732 | 280 | 0 | 432 x 648 |
+| Surrendering to God's Love | Devotional | 369 | 128,224 | 280 | 0 | 432 x 648 |
 | Surrendering to God's Love Companion Journal | Companion Journal | 470 | 19,854 | 177 | 0 | 432 x 648 |
-| Walking with Jesus | Devotional | 369 | 97,693 | 300 | 0 | 432 x 648 |
+| Walking with Jesus | Devotional | 369 | 95,114 | 300 | 0 | 432 x 648 |
 | Walking with Jesus Companion Journal | Companion Journal | 477 | 17,134 | 206 | 0 | 432 x 648 |
-| Filled with the Holy Spirit | Devotional | 369 | 94,093 | 194 | 0 | 432 x 648 |
+| Filled with the Holy Spirit | Devotional | 369 | 91,521 | 194 | 0 | 432 x 648 |
 | Filled with the Holy Spirit Companion Journal | Companion Journal | 483 | 17,665 | 143 | 0 | 432 x 648 |
 
 ## Guardrail Finding

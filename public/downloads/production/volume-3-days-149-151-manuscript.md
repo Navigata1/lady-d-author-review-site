@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 35:19
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses the finely made garments for ministry in the holy place. Oil for the journey is framed as strength for service that is clothed in reverence, not self-display.
+**Context and language lens:** The finely made garments for ministry in the holy place. Oil for the journey is framed as strength for service that is clothed in reverence, not self-display.
 
 Exodus 35:19 names garments made for ministry in the holy place. Service is not treated as casual exposure. It is clothed, prepared, and set within reverence.
 
@@ -32,7 +32,7 @@ The Spirit grows fruit by clothing service in reverent strength.
 
 **Journal prompt:** Where has my service become too exposed, too hidden, or too dependent on being seen?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Let Love Teach Oil for the Journey into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit grows fruit by clothing service in reverent strength.
 
 **Scripture Reference:** Exodus 35:20
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the congregation leaving Moses' presence to respond. Freedom in the Spirit is framed as cleansed willingness that moves after hearing God's word.
+**Context and language lens:** The congregation leaving Moses' presence to respond. Freedom in the Spirit is framed as cleansed willingness that moves after hearing God's word.
 
 Exodus 35:20 shows the people leaving Moses' presence after instruction. Hearing becomes a doorway into response.
 
@@ -60,7 +60,7 @@ The Spirit grows fruit by washing freedom until it becomes willing response.
 
 **Journal prompt:** Where have I mistaken freedom for delay?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Awaken Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit grows fruit by washing freedom until it becomes willing response.
 
 **Scripture Reference:** Exodus 35:22
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses willing hearts bringing offerings. The breath of God is framed as God's nearness becoming discernible through willing generosity.
+**Context and language lens:** Willing hearts bringing offerings. The breath of God is framed as God's nearness becoming discernible through willing generosity.
 
 Exodus 35:22 shows willing hearts bringing what they have. The offering is not lifeless compliance. It is a response from hearts moved toward God.
 
@@ -88,4 +88,4 @@ The Spirit grows fruit by making generosity a living sign of surrendered nearnes
 
 **Journal prompt:** What fruit has surrender made possible in me this month?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Embrace the Breath of God into one faithful step today.

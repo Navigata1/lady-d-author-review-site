@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 18:2
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses Jesus calling a child into the middle because salvation reshapes courage away from self-importance and toward trusting dependence.
+**Context and language lens:** Jesus calling a child into the middle because salvation reshapes courage away from self-importance and toward trusting dependence.
 
 Matthew 18:2 is quiet and searching. Jesus calls a child and places that child in the middle of His disciples. He does not answer ambition with a lecture only. He gives them a living picture.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting Him save courage from pride.
 
 **Scripture Reference:** Matthew 18:21
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses Peter's question about forgiveness because Christ's peace begins to make fractured relationships whole before the heart feels naturally ready.
+**Context and language lens:** Peter's question about forgiveness because Christ's peace begins to make fractured relationships whole before the heart feels naturally ready.
 
 Matthew 18:21 brings Peter's honest question to Jesus. Forgiveness is not abstract here. Peter is asking about limits, repeated wounds, and the place where mercy begins to feel costly.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting peace begin where mercy feels costly.
 
 **Scripture Reference:** Matthew 18:22
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses Jesus' answer about repeated forgiveness because His Lordship has authority over the counting heart.
+**Context and language lens:** Jesus' answer about repeated forgiveness because His Lordship has authority over the counting heart.
 
 Matthew 18:22 presses beyond Peter's number. Jesus does not simply extend a limit. He reveals the heart of His Kingdom, where mercy cannot be reduced to a ledger.
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting the Lord rule the hidden ledger.
 
 **Scripture Reference:** Matthew 18:25
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses the servant's impossible debt because light exposes the danger of pretending we can settle what only mercy can answer.
+**Context and language lens:** The servant's impossible debt because light exposes the danger of pretending we can settle what only mercy can answer.
 
 Matthew 18:25 brings the parable into painful clarity. The servant cannot pay. The debt is beyond him. The moment exposes helplessness, and helplessness is not easy for the human heart to admit.
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting light end the pretending.
 
 **Scripture Reference:** Matthew 18:26
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses the servant's desperate plea because following Jesus includes kneeling dependence instead of distant admiration.
+**Context and language lens:** The servant's desperate plea because following Jesus includes kneeling dependence instead of distant admiration.
 
 Matthew 18:26 shows the servant falling down and pleading. It is not polished. It is not composed. It is need spoken from the floor. Jesus lets the scene uncover how deeply mercy is needed.
 
@@ -154,7 +154,7 @@ Walking with Jesus means following Him into honest dependence.
 
 **Scripture Reference:** Matthew 18:27
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses the master's compassion and release because salvation is mercy that moves from pity to real freedom.
+**Context and language lens:** The master's compassion and release because salvation is mercy that moves from pity to real freedom.
 
 Matthew 18:27 turns the story with compassion. The master is moved, releases the servant, and forgives the debt. Mercy is not only felt. Mercy acts.
 
@@ -182,7 +182,7 @@ Walking with Jesus means becoming a person shaped by received mercy.
 
 **Scripture Reference:** Matthew 18:3
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses Jesus' call to become like children because peace is wholeness received through humble conversion, not self-protective greatness.
+**Context and language lens:** Jesus' call to become like children because peace is wholeness received through humble conversion, not self-protective greatness.
 
 Matthew 18:3 is not sentimental. Jesus calls for conversion, a turning of the heart. The disciple is invited away from self-protective greatness and toward childlike trust.
 

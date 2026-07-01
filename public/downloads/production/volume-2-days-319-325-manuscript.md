@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Revelation 5:9
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses the new song of redemption because Jesus teaches healing by showing the worth, cost, and reach of His saving work.
+**Context and language lens:** The new song of redemption because Jesus teaches healing by showing the worth, cost, and reach of His saving work.
 
 Revelation 5:9 brings worship to the Lamb who redeems. Heaven does not treat redemption as a small religious idea. It becomes a song.
 
@@ -32,7 +32,7 @@ Walking with Jesus means letting the song of redemption become stronger than the
 
 **Journal prompt:** What old sentence needs to be answered by the Lamb's redeeming love?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Listen for the Healing Touch in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting the song of redemption become stronger than the
 
 **Scripture Reference:** Matthew 10:10
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Jesus' sending instructions because the road with Jesus trains dependence, simplicity, and trust in His provision.
+**Context and language lens:** Jesus' sending instructions because the road with Jesus trains dependence, simplicity, and trust in His provision.
 
 Matthew 10:10 sits inside Jesus' sending of His disciples. He gives practical instructions that expose how easily the heart wants to carry more than obedience requires.
 
@@ -60,7 +60,7 @@ Walking with Jesus means following the Sender with enough trust to travel lighte
 
 **Journal prompt:** What am I carrying because I am afraid Jesus will not provide?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Stand in the Call to Follow in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means following the Sender with enough trust to travel lighte
 
 **Scripture Reference:** Matthew 10:14
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Jesus' instruction about rejection because resurrection hope gives courage to release outcomes without losing obedience.
+**Context and language lens:** Jesus' instruction about rejection because resurrection hope gives courage to release outcomes without losing obedience.
 
 Matthew 10:14 acknowledges that not every place will receive the message or the messenger. Jesus prepares His disciples for rejection without making rejection their identity.
 
@@ -88,17 +88,17 @@ Walking with Jesus means releasing what refused grace while staying faithful to 
 
 **Journal prompt:** Where do I need to release rejection without releasing my calling?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Let Grace Form Cross-Shaped Courage in one faithful step today.
 
 ---
 
 ## Day 322 - November 18
 
-### Behold Resurrection Hope
+### Behold Grateful Remembrance in Resurrection Hope
 
 **Scripture Reference:** Matthew 10:15
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' sober judgment language because abiding hope trusts God with justice instead of making the disciple carry final verdicts.
+**Context and language lens:** Jesus' sober judgment language because abiding hope trusts God with justice instead of making the disciple carry final verdicts.
 
 Matthew 10:15 carries sober weight. Jesus does not flatten truth to avoid discomfort. He reminds His followers that God sees, remembers, and judges rightly.
 
@@ -116,17 +116,17 @@ Walking with Jesus means remaining near enough to trust His justice and keep you
 
 **Journal prompt:** What unresolved wrong do I need to entrust to Jesus instead of rehearsing revenge?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Behold Grateful Remembrance in Resurrection Hope in one faithful step today.
 
 ---
 
 ## Day 323 - November 19
 
-### Follow the Friend Who Leads
+### Follow Grateful Remembrance in the Friend Who Leads
 
 **Scripture Reference:** Matthew 10:16
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Jesus sending disciples into danger with wisdom and innocence because His compassion prepares rather than flatters.
+**Context and language lens:** Jesus sending disciples into danger with wisdom and innocence because His compassion prepares rather than flatters.
 
 Matthew 10:16 is tender and realistic. Jesus sends His disciples with eyes open. He does not confuse faith with naivete.
 
@@ -144,17 +144,17 @@ Walking with Jesus means letting the compassionate Friend train both your courag
 
 **Journal prompt:** Where do I need both wisdom and innocence today?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Follow Grateful Remembrance in the Friend Who Leads in one faithful step today.
 
 ---
 
 ## Day 324 - November 20
 
-### Rest in the Light on the Path
+### Rest Grateful Remembrance in in the Light on the Path
 
 **Scripture Reference:** Matthew 10:17
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' warning about councils and opposition because the Teacher forms steadiness before pressure arrives.
+**Context and language lens:** Jesus' warning about councils and opposition because the Teacher forms steadiness before pressure arrives.
 
 Matthew 10:17 warns the disciples that faithfulness may bring them before hostile rooms. Jesus is not frightening them. He is preparing them.
 
@@ -172,17 +172,17 @@ Walking with Jesus means letting the Teacher's warning become steadiness, not fe
 
 **Journal prompt:** What pressure-filled room do I need to enter with preparation instead of panic?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Rest Grateful Remembrance in in the Light on the Path in one faithful step today.
 
 ---
 
 ## Day 325 - November 21
 
-### Wake Up to the Invitation
+### Wake Up to Grateful Remembrance Through the Invitation
 
 **Scripture Reference:** Matthew 10:18
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Jesus' promise of witness before rulers and nations because the road with Jesus can turn pressure into testimony.
+**Context and language lens:** Jesus' promise of witness before rulers and nations because the road with Jesus can turn pressure into testimony.
 
 Matthew 10:18 tells the disciples that opposition can become witness. The setting may be intimidating, but Jesus sees more than intimidation. He sees testimony.
 
@@ -200,4 +200,4 @@ Walking with Jesus means resting in Him so your witness flows from belonging, no
 
 **Journal prompt:** Where might Jesus be turning pressure into witness, and how can Sabbath rest keep my heart humble?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Wake Up to Grateful Remembrance Through the Invitation in one faithful step today.

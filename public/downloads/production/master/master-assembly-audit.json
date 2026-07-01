@@ -68,7 +68,7 @@
       "scripture_references": 366,
       "sabbath_mentions": 280,
       "sunday_mentions": 0,
-      "words": 133112,
+      "words": 130607,
       "output": "downloads/production/master/volume-1-master-interior-manuscript.md"
     },
     {
@@ -136,7 +136,7 @@
       "scripture_references": 366,
       "sabbath_mentions": 300,
       "sunday_mentions": 0,
-      "words": 100277,
+      "words": 97711,
       "output": "downloads/production/master/volume-2-master-interior-manuscript.md"
     },
     {
@@ -207,7 +207,7 @@
       "scripture_references": 366,
       "sabbath_mentions": 194,
       "sunday_mentions": 0,
-      "words": 96747,
+      "words": 94175,
       "output": "downloads/production/master/volume-3-master-interior-manuscript.md"
     }
   ],

@@ -10,11 +10,11 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 363 - December 29
 
-### Lean Into the Nearness of Christ
+### Lean Into Finishing Hope Through the Nearness of Christ
 
 **Scripture Reference:** Matthew 12:34
 
-**Production lens note:** The architecture assigns eirene; the production lens uses Jesus' teaching about the mouth speaking from the heart because Christ's peace begins where witness is sourced, not only where words are heard.
+**Context and language lens:** Jesus' teaching about the mouth speaking from the heart because Christ's peace begins where witness is sourced, not only where words are heard.
 
 Matthew 12:34 moves witness beneath the surface. Jesus shows that speech is not detached from the heart. Words reveal what has been stored, protected, rehearsed, and loved within.
 
@@ -32,17 +32,17 @@ Walking with Jesus means letting His nearness shape the heart before the mouth s
 
 **Journal prompt:** What has been filling my heart and shaping my words?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Lean Into Finishing Hope Through the Nearness of Christ in one faithful step today.
 
 ---
 
 ## Day 364 - December 30
 
-### See Again the Way of Peace
+### See Finishing Hope in Again the Way of Peace
 
 **Scripture Reference:** Matthew 12:35
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses Jesus' teaching about good treasure because trusted Lordship forms the inner storehouse from which witness draws.
+**Context and language lens:** Jesus' teaching about good treasure because trusted Lordship forms the inner storehouse from which witness draws.
 
 Matthew 12:35 speaks of treasure within. The life brings out what has been stored.
 
@@ -60,17 +60,17 @@ Walking with Jesus means letting His Lordship fill the inner storehouse with goo
 
 **Journal prompt:** What am I storing that shapes what comes out of me?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through See Finishing Hope in Again the Way of Peace in one faithful step today.
 
 ---
 
 ## Day 365 - December 31
 
-### Let Love Teach the Table of Grace
+### Let Finishing Hope Teach the Table of Grace
 
 **Scripture Reference:** Matthew 12:36
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus' teaching about accountable words because light gives direction for a year-ending witness that is truthful, humble, and grace-shaped.
+**Context and language lens:** Jesus' teaching about accountable words because light gives direction for a year-ending witness that is truthful, humble, and grace-shaped.
 
 Matthew 12:36 brings sober clarity to ordinary speech. Jesus takes words seriously because words carry witness.
 
@@ -88,4 +88,4 @@ Walking with Jesus means letting grace make your words truthful, careful, and li
 
 **Journal prompt:** What word-pattern from this year needs confession, cleansing, or new formation?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Let Finishing Hope Teach the Table of Grace in one faithful step today.

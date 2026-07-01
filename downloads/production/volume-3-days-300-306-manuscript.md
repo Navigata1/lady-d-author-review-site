@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 15:15
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses the jawbone scene without quoting it. Oil for the journey is framed as discerning God's nearness when an ordinary thing becomes part of a difficult deliverance.
+**Context and language lens:** The jawbone scene without quoting it. Oil for the journey is framed as discerning God's nearness when an ordinary thing becomes part of a difficult deliverance.
 
 Judges 15:15 shows Samson taking up what is near him in a moment of crisis. The story is forceful, but the devotional lesson must stay submitted to prayer instead of celebrating violence.
 
@@ -42,7 +42,7 @@ The Spirit teaches prayer by making God's nearness louder than the instrument in
 
 **Scripture Reference:** Judges 15:16
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Samson's victory speech without quoting it. Freedom in the Spirit is framed as Spirit-breathed witness cleansed from self-glory.
+**Context and language lens:** Samson's victory speech without quoting it. Freedom in the Spirit is framed as Spirit-breathed witness cleansed from self-glory.
 
 Judges 15:16 brings speech after victory. The mouth tries to interpret what has happened.
 
@@ -70,7 +70,7 @@ The Spirit teaches prayer by cleansing witness after success.
 
 **Scripture Reference:** Judges 15:17
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Samson laying aside the instrument after the conflict. The breath of God is framed as set-apart release when the season requires letting go.
+**Context and language lens:** Samson laying aside the instrument after the conflict. The breath of God is framed as set-apart release when the season requires letting go.
 
 Judges 15:17 shows an ending gesture after the conflict. What was used is no longer held.
 
@@ -98,7 +98,7 @@ The Spirit teaches prayer by setting apart the courage to lay an old instrument 
 
 **Scripture Reference:** Judges 15:18
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Samson's thirst after deliverance. The Comforter's nearness is framed as strength to admit need after exertion.
+**Context and language lens:** Samson's thirst after deliverance. The Comforter's nearness is framed as strength to admit need after exertion.
 
 Judges 15:18 shows Samson depleted after the conflict. Strength has been spent, and thirst becomes honest prayer.
 
@@ -126,7 +126,7 @@ The Spirit teaches prayer by strengthening honest need after exertion.
 
 **Scripture Reference:** Judges 15:20
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the summary of Samson's years of judging Israel. Holy fire is framed as cleansing legacy so long service remains surrendered.
+**Context and language lens:** The summary of Samson's years of judging Israel. Holy fire is framed as cleansing legacy so long service remains surrendered.
 
 Judges 15:20 steps back and names a longer season of leadership. A life is not only one crisis; it is also the pattern that follows.
 
@@ -154,7 +154,7 @@ The Spirit teaches prayer by cleansing long service into surrendered legacy.
 
 **Scripture Reference:** 1 Samuel 10:2
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Samuel's directional word to Saul after anointing. The anointing for today is framed as discerning God's nearness when news changes what the heart has been chasing.
+**Context and language lens:** Samuel's directional word to Saul after anointing. The anointing for today is framed as discerning God's nearness when news changes what the heart has been chasing.
 
 1 Samuel 10:2 moves Saul from the moment of anointing into a word of direction and news. What had been lost is no longer the center of concern.
 
@@ -182,7 +182,7 @@ The Spirit forms freedom, fire, and holiness by reordering attention under God's
 
 **Scripture Reference:** 1 Samuel 10:3
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Saul's next appointed meeting on the road. The Spirit's fruit is framed as Spirit-breathed witness that receives provision without grasping.
+**Context and language lens:** Saul's next appointed meeting on the road. The Spirit's fruit is framed as Spirit-breathed witness that receives provision without grasping.
 
 1 Samuel 10:3 places Saul on a road where he will meet others carrying offerings and provision. The next step is not empty.
 

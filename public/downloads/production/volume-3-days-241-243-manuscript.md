@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 6:3
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses repeated invasion after sowing. Wind in the waiting is framed as settled trust when old pressures return at the moment of expected fruit.
+**Context and language lens:** Repeated invasion after sowing. Wind in the waiting is framed as settled trust when old pressures return at the moment of expected fruit.
 
 Judges 6:3 names a painful pattern. The people sow, and then pressure comes up against what was planted.
 
@@ -32,7 +32,7 @@ The Spirit gives oil for the waiting season by settling trust when old pressures
 
 **Journal prompt:** Where has repeated loss made me afraid to sow again?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Trust Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit gives oil for the waiting season by settling trust when old pressures
 
 **Scripture Reference:** Judges 6:4
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the stripping away of produce and sustenance. Oil for the journey is framed as Spirit-breathed hope when depletion has touched provision.
+**Context and language lens:** The stripping away of produce and sustenance. Oil for the journey is framed as Spirit-breathed hope when depletion has touched provision.
 
 Judges 6:4 shows depletion. What should have nourished the people is stripped away.
 
@@ -60,7 +60,7 @@ The Spirit gives oil for the waiting season by breathing hope into depleted plac
 
 **Journal prompt:** Where do I need hope to rise in a depleted place?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Hope Rise Oil for the Journey into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit gives oil for the waiting season by breathing hope into depleted plac
 
 **Scripture Reference:** Judges 6:5
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses overwhelming pressure that ravages the land. Freedom in the Spirit is framed as inward renewal when fear feels multiplied and the ground feels invaded.
+**Context and language lens:** Overwhelming pressure that ravages the land. Freedom in the Spirit is framed as inward renewal when fear feels multiplied and the ground feels invaded.
 
 Judges 6:5 describes pressure that feels overwhelming. The land is not simply inconvenienced; it is ravaged.
 
@@ -88,4 +88,4 @@ The Spirit gives oil for the waiting season by renewing inner freedom under over
 
 **Journal prompt:** Where does pressure feel multiplied, and what truth can I carry there?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Carry Freedom in the Spirit into one faithful step today.

@@ -170,7 +170,7 @@ This is deeply practical. When impatience rises, the heart often reaches for con
 
 **Scripture Reference:** Deuteronomy 30:6
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens is corrected to `mul/levav` - circumcision of the heart, an inward work of covenant renewal. This better matches the passage and prevents decorative language use.
+**Context and language lens:** `mul/levav` - circumcision of the heart, an inward work of covenant renewal. The passage points to inward covenant renewal rather than decorative language.
 
 Fear can obey on the outside and still hide on the inside. It can learn religious movements, proper words, and respectable behavior while the heart remains guarded from love. Deuteronomy 30:6 points to something deeper than surface adjustment. God promises an inward work, a heart made able to love Him.
 

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Deuteronomy 30:14
 
-**Production lens:** `lev/peh` - heart and mouth - because the passage brings God's word near enough to be received inwardly and spoken faithfully.
+**Context and language lens:** `lev/peh` - heart and mouth - because the passage brings God's word near enough to be received inwardly and spoken faithfully.
 
 Mercy is not always far away. Sometimes the Father has already brought the word near, but fear convinces us it is still out of reach. Deuteronomy 30:14 brings the matter close to the mouth and heart. God is not playing a spiritual game of distance. He calls His people to respond to what He has already placed near enough to obey.
 
@@ -40,7 +40,7 @@ Lean into mercy by receiving what God has made plain. You do not have to solve t
 
 **Scripture Reference:** Deuteronomy 30:16
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `ahav/derek/mitzvah/chayah` - love, way, command, and life - because the verse joins loving the Lord, walking in His ways, keeping His commandments, and living under His blessing.
+**Context and language lens:** `ahav/derek/mitzvah/chayah` - love, way, command, and life - because the verse joins loving the Lord, walking in His ways, keeping His commandments, and living under His blessing.
 
 The Father's patience does not lower the beauty of obedience. It teaches us why obedience matters. Deuteronomy 30:16 joins love, walking, commandments, life, and blessing. This is not cold religion. It is a picture of a life ordered around the God who loves His people and calls them into the way of life.
 
@@ -66,7 +66,7 @@ The Father is patient enough to keep teaching the same truth without contempt. H
 
 **Scripture Reference:** Deuteronomy 30:17
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `panah/shama/levav` - turning, hearing, and heart - because the verse warns against the heart turning away and refusing to listen.
+**Context and language lens:** `panah/shama/levav` - turning, hearing, and heart - because the verse warns against the heart turning away and refusing to listen.
 
 Love stronger than fear does not pretend the heart cannot turn. Deuteronomy 30:17 is sober. It names the danger of a heart that turns away, refuses to hear, and is drawn after other loves. The Father is not trying to frighten His people into closeness. He is telling the truth because love tells the truth.
 

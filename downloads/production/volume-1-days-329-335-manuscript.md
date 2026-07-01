@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 3:17
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses God's promised movement from affliction into a land of provision because the verse centers on personal knowledge that leads to faithful deliverance, not religious self-measuring.
+**Context and language lens:** God's promised movement from affliction into a land of provision because the verse centers on personal knowledge that leads to faithful deliverance, not religious self-measuring.
 
 Grace speaks before performance can start bargaining. Exodus 3:17 carries the Father's promise forward: He has seen affliction, and He intends to bring His people up from it. This is not Moses inventing a rescue plan to prove his usefulness. This is God naming what He will do.
 
@@ -44,7 +44,7 @@ The Father's promise is stronger than the pressure to perform.
 
 **Scripture Reference:** Exodus 3:18
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses God's instruction that His people speak truthfully before Pharaoh because the verse centers on hope strengthened enough to ask, wait, and obey under pressure.
+**Context and language lens:** God's instruction that His people speak truthfully before Pharaoh because the verse centers on hope strengthened enough to ask, wait, and obey under pressure.
 
 Mercy gives the heart language for the morning. Exodus 3:18 moves from promise into witness. Moses and the elders are told what to say. Their speech is not meant to manipulate Pharaoh. It is meant to carry the truth of God's call with reverence.
 
@@ -74,7 +74,7 @@ Let your morning words be fed by the mercy that found you.
 
 **Scripture Reference:** Exodus 3:19
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses God's honest warning that Pharaoh will not release Israel easily because the verse centers on comfort that gives courage without pretending resistance is small.
+**Context and language lens:** God's honest warning that Pharaoh will not release Israel easily because the verse centers on comfort that gives courage without pretending resistance is small.
 
 The Father's patience does not require denial. Exodus 3:19 tells Moses that Pharaoh will not let the people go except by a mighty hand. God does not hide the hardness ahead. He names it before Moses faces it.
 
@@ -104,7 +104,7 @@ God can name the resistance and still keep the promise.
 
 **Scripture Reference:** Exodus 3:20
 
-**Production lens correction:** The architecture assigned `rachamim`; the production lens uses God's promise to stretch out His hand and strike Egypt with wonders because the verse centers on protective compassion that acts for the oppressed without losing holiness.
+**Context and language lens:** God's promise to stretch out His hand and strike Egypt with wonders because the verse centers on protective compassion that acts for the oppressed without losing holiness.
 
 Love stronger than fear is not sentimental. Exodus 3:20 reveals the Father's protective action. God will stretch out His hand. He will act with wonders. The oppression of His people will not be treated as a small thing.
 
@@ -134,7 +134,7 @@ On this Sabbath, let God's protective compassion become larger in your imaginati
 
 **Scripture Reference:** Exodus 3:21
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses God's promise of favor before the Egyptians because the verse centers on restored wholeness after a long season of being diminished.
+**Context and language lens:** God's promise of favor before the Egyptians because the verse centers on restored wholeness after a long season of being diminished.
 
 Restoring compassion can return dignity to places that were treated as expendable. Exodus 3:21 says God will give His people favor before the Egyptians. The exit from bondage will not be empty. The people who were diminished will not be dismissed as worthless.
 
@@ -164,7 +164,7 @@ God's peace can return weight to a life that pressure made thin.
 
 **Scripture Reference:** Exodus 3:22
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses God's detailed provision through Israelite households because the verse centers on known needs, communal obedience, and a promise that holds the future practically.
+**Context and language lens:** God's detailed provision through Israelite households because the verse centers on known needs, communal obedience, and a promise that holds the future practically.
 
 The promise that holds reaches into ordinary households. Exodus 3:22 speaks of women asking neighbors for articles of silver, gold, and clothing. Deliverance is not kept vague. God attends to what His people will need as they leave.
 
@@ -194,7 +194,7 @@ The promise that holds is detailed enough for the journey.
 
 **Scripture Reference:** Exodus 15:1
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses the song after deliverance because the verse opens December's Daily Surrender arc with the heart learning to respond to salvation through worship and formed courage.
+**Context and language lens:** The song after deliverance because the verse opens December's Daily Surrender arc with the heart learning to respond to salvation through worship and formed courage.
 
 Love that sends you also teaches you to sing. Exodus 15:1 begins the song after deliverance. The people who were trapped between Pharaoh and the sea now have a testimony rising from the other side.
 

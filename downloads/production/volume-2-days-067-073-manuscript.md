@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 19:2
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses the crowds following Jesus and being healed because light gives direction for public need, ordinary movement, and mercy on the way.
+**Context and language lens:** The crowds following Jesus and being healed because light gives direction for public need, ordinary movement, and mercy on the way.
 
 The Friend who leads does not treat ordinary movement as empty space. Matthew 19:2 shows crowds following Jesus and receiving healing. He is on the way, yet mercy is still present. Movement does not make Him unavailable.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting His light make ordinary movement merciful.
 
 **Scripture Reference:** Matthew 19:23
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' warning about riches and the kingdom because discipleship loosens attachments that make following Him feel impossible.
+**Context and language lens:** Jesus' warning about riches and the kingdom because discipleship loosens attachments that make following Him feel impossible.
 
 The light on the path can reveal what has quietly become heavy. Matthew 19:23 follows the sorrow of a man who could not imagine surrendering what possessed him. Jesus names the difficulty honestly. Wealth, comfort, status, and control can make the kingdom feel narrow to a heart that wants to stay in charge.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting His call become stronger than the grip of what 
 
 **Scripture Reference:** Matthew 20:28
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' servant-ransom mission because saving wholeness is revealed through His self-giving love, not human striving for greatness.
+**Context and language lens:** Jesus' servant-ransom mission because saving wholeness is revealed through His self-giving love, not human striving for greatness.
 
 The invitation of Jesus is shaped by His own self-giving life. Matthew 20:28 reveals the Son of Man as servant and ransom. He does not merely teach humility from a distance. He embodies it for our salvation.
 
@@ -98,7 +98,7 @@ Walking with Jesus means receiving the One who served before we could serve well
 
 **Scripture Reference:** Matthew 20:34
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus' compassionate touch and restored sight because peace rises when mercy sees suffering and brings healing near.
+**Context and language lens:** Jesus' compassionate touch and restored sight because peace rises when mercy sees suffering and brings healing near.
 
 Hope rises when Jesus is moved with compassion. Matthew 20:34 shows mercy becoming touch and sight being restored. He does not pass by pain as if need is an interruption to mission. His compassion is part of the mission.
 
@@ -126,7 +126,7 @@ Walking with Jesus means trusting the Shepherd whose compassion restores vision.
 
 **Scripture Reference:** Matthew 20:8
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the landowner's payment order because trusted Lordship challenges ordinary assumptions about fairness, grace, and comparison.
+**Context and language lens:** The landowner's payment order because trusted Lordship challenges ordinary assumptions about fairness, grace, and comparison.
 
 The road with Jesus can challenge the way we measure fairness. Matthew 20:8 comes inside a parable where the landowner's order unsettles expectation. The last are called forward first. Grace begins to disturb comparison.
 
@@ -154,7 +154,7 @@ Walking with Jesus means trusting His Lordship when grace disrupts comparison.
 
 **Scripture Reference:** Matthew 21:20
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses the disciples' amazement at the withered fig tree because light exposes fruitless appearance and calls the heart toward living faith.
+**Context and language lens:** The disciples' amazement at the withered fig tree because light exposes fruitless appearance and calls the heart toward living faith.
 
 The nearness of Christ can expose what only looked alive from a distance. Matthew 21:20 records the disciples' amazement after the fig tree withered. The moment is sobering. Jesus is teaching more than botanical surprise. He is revealing the seriousness of fruitless appearance.
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting His light turn appearance into living faith.
 
 **Scripture Reference:** Matthew 21:3
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' instruction about the needed animals because discipleship makes ordinary possessions, timing, and availability responsive to the Lord.
+**Context and language lens:** Jesus' instruction about the needed animals because discipleship makes ordinary possessions, timing, and availability responsive to the Lord.
 
 The way of peace includes availability. Matthew 21:3 gives the disciples a simple answer if anyone questions the errand: the Lord has need. Ordinary animals, ordinary owners, ordinary questions, and ordinary obedience become part of Jesus' road toward Jerusalem.
 

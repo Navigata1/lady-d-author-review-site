@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** 1 Samuel 10:1
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Samuel's anointing of Saul because the verse centers on oil as consecration to a calling received from God, not personal ambition.
+**Context and language lens:** Samuel's anointing of Saul because the verse centers on oil as consecration to a calling received from God, not personal ambition.
 
 Anointing is not permission to become large in your own eyes. In 1 Samuel 10:1, Saul receives oil, a kiss, and a word that his life has been set apart for responsibility before the Lord. The oil marks calling, but the calling still belongs to God.
 
@@ -32,7 +32,7 @@ The Spirit's anointing makes the heart useful by keeping the calling under God's
 
 **Journal prompt:** Where do I need to receive responsibility as consecration instead of personal importance?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Stand in Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit's anointing makes the heart useful by keeping the calling under God's
 
 **Scripture Reference:** 1 Samuel 10:10
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the Spirit coming upon Saul among the prophets because the passage centers on God's surprising empowerment that interrupts ordinary expectation.
+**Context and language lens:** The Spirit coming upon Saul among the prophets because the passage centers on God's surprising empowerment that interrupts ordinary expectation.
 
 Grace can move like wind before a person knows how to explain what is happening. In 1 Samuel 10:10, Saul is met by a company of prophets, and the Spirit of God comes upon him with power. People who thought they knew the old Saul had to reckon with the work of God.
 
@@ -60,7 +60,7 @@ The wind of the Spirit can meet a waiting life and make it newly responsive to G
 
 **Journal prompt:** What old pattern do I need to stop treating as my permanent identity?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Grace Form Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The wind of the Spirit can meet a waiting life and make it newly responsive to G
 
 **Scripture Reference:** 1 Samuel 10:15
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Saul's guarded response to his uncle because the wider anointing scene includes a hidden calling that is not ready to be publicly managed.
+**Context and language lens:** Saul's guarded response to his uncle because the wider anointing scene includes a hidden calling that is not ready to be publicly managed.
 
 Not every holy thing must be explained before it has matured. 1 Samuel 10:15 sits after Saul's anointing and prophetic encounter. His uncle asks what Samuel said, and Saul does not turn the whole matter of kingship into public conversation.
 
@@ -88,7 +88,7 @@ The Spirit can anoint the journey with restraint, timing, and quiet trust.
 
 **Journal prompt:** What needs to mature with God before I try to explain it to everyone else?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Behold Oil for the Journey into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit can anoint the journey with restraint, timing, and quiet trust.
 
 **Scripture Reference:** 1 Samuel 10:6
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Samuel's promise that the Spirit would come upon Saul and he would be changed, while keeping transformation dependent on God rather than personality force.
+**Context and language lens:** Samuel's promise that the Spirit would come upon Saul and he would be changed, while keeping transformation dependent on God rather than personality force.
 
 Freedom in the Spirit is more than relief from pressure. It is becoming responsive to God in a way the old self could not produce. In 1 Samuel 10:6, Saul is told that the Spirit of the Lord will come upon him and he will be changed.
 
@@ -116,7 +116,7 @@ The Spirit changes the heart so the life can answer God with more than intention
 
 **Journal prompt:** Where do I need more than inspiration and actually need God to change my response?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Follow Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit changes the heart so the life can answer God with more than intention
 
 **Scripture Reference:** Exodus 31:11
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the anointing oil, incense, and commanded tabernacle work because the verse centers on consecrated worship prepared according to God's instruction.
+**Context and language lens:** The anointing oil, incense, and commanded tabernacle work because the verse centers on consecrated worship prepared according to God's instruction.
 
 The breath of God brings order to worship. Exodus 31:11 names sacred items and closes with the call to do the work according to what God commanded. The Spirit-filled work of the tabernacle was not careless creativity. It was consecrated obedience.
 
@@ -144,7 +144,7 @@ The Spirit breathes life into worship that is willing to be shaped by God.
 
 **Journal prompt:** Where does my devotion need more faithful order, care, or follow-through?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Rest in the Breath of God into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit breathes life into worship that is willing to be shaped by God.
 
 **Scripture Reference:** Exodus 35:15
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the oil, incense, altar, and screen because the verse points to consecrated worship and the nearness of God approached with reverence.
+**Context and language lens:** The oil, incense, altar, and screen because the verse points to consecrated worship and the nearness of God approached with reverence.
 
 The Comforter is near, but nearness is not casual. Exodus 35:15 gathers oil, incense, altar, and entrance into the work of worship. The details remind the heart that God made a way for nearness, and that nearness was to be approached with reverence.
 
@@ -172,7 +172,7 @@ The Spirit comforts by bringing the heart near to a holy God who truly welcomes 
 
 **Journal prompt:** How can I prepare my heart for God's nearness without becoming casual or afraid?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Wake Up to the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit comforts by bringing the heart near to a holy God who truly welcomes 
 
 **Scripture Reference:** Exodus 35:21
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the willing heart and stirred spirit of the people because the verse centers on Spirit-responsive generosity for God's dwelling place.
+**Context and language lens:** The willing heart and stirred spirit of the people because the verse centers on Spirit-responsive generosity for God's dwelling place.
 
 Holy fire refines what the heart is willing to bring. Exodus 35:21 shows people coming forward because their hearts were stirred and their spirits were moved. The offering was not forced performance. It was willing response.
 
@@ -200,4 +200,4 @@ The Spirit's fire makes willingness tangible.
 
 **Journal prompt:** What offering has the Spirit been stirring in me that I have delayed bringing?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Fire Refine Holy Fire into one faithful step today.

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 22:3
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Abraham's early obedience, preparation, and journey toward the place God named because the verse centers on responsive trust under God's word, not heart language in the abstract.
+**Context and language lens:** Abraham's early obedience, preparation, and journey toward the place God named because the verse centers on responsive trust under God's word, not heart language in the abstract.
 
 Love that sends you does not always begin with a loud feeling. Genesis 22:3 shows Abraham rising early, preparing what was needed, and moving toward the place God had named. The narrative is severe, and we must continue to handle it with reverence. Abraham is not following a human demand. He is responding within a unique covenant story where God Himself has spoken.
 
@@ -44,7 +44,7 @@ The Father may not give you the whole path today. But He can give you the next f
 
 **Scripture Reference:** Genesis 22:4
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Abraham seeing the place from a distance after three days because the verse centers on patient trust while the destination is visible but not yet reached.
+**Context and language lens:** Abraham seeing the place from a distance after three days because the verse centers on patient trust while the destination is visible but not yet reached.
 
 Covenant mercy can steady the heart when the place ahead is visible but not yet reached. Genesis 22:4 brings Abraham to the third day of the journey. He lifts his eyes and sees the place from a distance. The long walk has not ended. The hardest part still lies ahead.
 
@@ -74,7 +74,7 @@ Covenant mercy does not despise the distance. It walks with you through it.
 
 **Scripture Reference:** Genesis 22:5
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Abraham's worship language and his stated return with Isaac because the verse centers on worshipful trust under pressure, not affection alone.
+**Context and language lens:** Abraham's worship language and his stated return with Isaac because the verse centers on worshipful trust under pressure, not affection alone.
 
 Mercy speaks welcome even when worship happens under pressure. Genesis 22:5 shows Abraham telling the young men to remain while he and Isaac go farther to worship. He speaks of returning. The verse holds tension: obedience, worship, uncertainty, and trust all standing together.
 
@@ -106,7 +106,7 @@ Mercy can teach the heart to worship before everything is simple.
 
 **Scripture Reference:** Genesis 22:6
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses Abraham and Isaac walking together with the wood, fire, and knife because the verse centers on shared movement in a difficult covenant test, requiring careful pastoral framing rather than kinsman-redemption language.
+**Context and language lens:** Abraham and Isaac walking together with the wood, fire, and knife because the verse centers on shared movement in a difficult covenant test, requiring careful pastoral framing rather than kinsman-redemption language.
 
 Beloved identity must be held carefully when the road is hard. Genesis 22:6 is a heavy verse. Abraham places the wood on Isaac, carries what is needed for the offering, and the two continue together. The scene is tender and troubling. We must not flatten it into a simple lesson or use it carelessly.
 
@@ -136,7 +136,7 @@ On this Sabbath, let beloved identity breathe in every difficult relationship.
 
 **Scripture Reference:** Genesis 22:8
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Abraham's trust in God's provision and the continued togetherness of Abraham and Isaac because the verse centers on provision-shaped faithfulness under pressure.
+**Context and language lens:** Abraham's trust in God's provision and the continued togetherness of Abraham and Isaac because the verse centers on provision-shaped faithfulness under pressure.
 
 Love that finds you can hold you when the answer is not yet visible. Genesis 22:8 records Abraham's trust that God will provide what is needed, and the father and son continue together. The verse does not remove the tension, but it places provision in God's hands.
 
@@ -166,7 +166,7 @@ The Father sees what is needed before you can see how it will come.
 
 **Scripture Reference:** Genesis 22:9
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Abraham's arrival, altar building, and binding of Isaac with explicit pastoral caution because the verse is dangerous if applied to human control rather than God's unique covenant test.
+**Context and language lens:** Abraham's arrival, altar building, and binding of Isaac with explicit pastoral caution because the verse is dangerous if applied to human control rather than God's unique covenant test.
 
 Grace before performance is especially necessary when Scripture brings us to a difficult place. Genesis 22:9 describes Abraham arriving, building the altar, arranging the wood, and binding Isaac. This verse must be handled with holy caution. It is not a model for human domination. It is not permission to harm. It is not a tool for leaders, parents, spouses, or anyone else to demand unquestioned submission.
 
@@ -196,7 +196,7 @@ Grace does not make obedience shallow. It keeps obedience from becoming cruel.
 
 **Scripture Reference:** Genesis 22:10
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Abraham's raised hand at the crisis point with explicit attention to the next verse's divine interruption, because the devotional must not isolate the moment from God's mercy.
+**Context and language lens:** Abraham's raised hand at the crisis point with explicit attention to the next verse's divine interruption, because the devotional must not isolate the moment from God's mercy.
 
 Mercy in the morning meets the heart at the crisis point. Genesis 22:10 brings the story to the edge. Abraham reaches the moment that makes the reader hold their breath. This verse cannot be isolated from what comes next. The mercy of God interrupts. The God who tests also stops the hand.
 

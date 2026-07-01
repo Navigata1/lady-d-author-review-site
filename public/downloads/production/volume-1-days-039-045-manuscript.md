@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Deuteronomy 4:29
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `baqash/matsa/levav/nephesh` - seek, find, heart, and soul - because the passage promises that God is found when the whole person seeks Him.
+**Context and language lens:** `baqash/matsa/levav/nephesh` - seek, find, heart, and soul - because the passage promises that God is found when the whole person seeks Him.
 
 Grace before performance does not mean a careless search for God. It means the Father invites the whole heart to seek Him without pretending first. Deuteronomy 4:29 speaks to people who may find themselves far away, yet it still holds out the mercy of seeking and finding. That is beloved identity: even when distance has happened, the Father does not turn the search into a performance stage.
 
@@ -30,7 +30,7 @@ Today, surrender the performance that waits to be impressive. Seek the Father ho
 
 **Journal prompt:** What part of my seeking has been performance instead of honest return?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Surrender to Grace Before Striving into one faithful step today.
 
 ---
 
@@ -40,7 +40,7 @@ Today, surrender the performance that waits to be impressive. Seek the Father ho
 
 **Scripture Reference:** Deuteronomy 4:31
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `rachum/azav/shachat/shakach/berit` - merciful, forsake, destroy, forget, and covenant - because the verse emphasizes God's mercy, His refusal to abandon, and His memory of covenant.
+**Context and language lens:** `rachum/azav/shachat/shakach/berit` - merciful, forsake, destroy, forget, and covenant - because the verse emphasizes God's mercy, His refusal to abandon, and His memory of covenant.
 
 There are mornings when the heart needs mercy to speak before memory does. Memory may rehearse failure, regret, delay, or fear. Deuteronomy 4:31 answers with the character of God: He is merciful. He does not forsake lightly. He does not forget covenant. He is not unstable in His love.
 
@@ -56,7 +56,7 @@ If you have been expecting God to destroy what He intends to restore, pause. His
 
 **Journal prompt:** Where have I confused the Father's correction with abandonment?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Mercy Speak Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -66,7 +66,7 @@ If you have been expecting God to destroy what He intends to restore, pause. His
 
 **Scripture Reference:** Deuteronomy 4:39
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `yada/levav` - know and lay to heart - because the verse calls the people to know and take to heart that the Lord alone is God.
+**Context and language lens:** `yada/levav` - know and lay to heart - because the verse calls the people to know and take to heart that the Lord alone is God.
 
 The Father's patience gives the heart time to know what is true. Deuteronomy 4:39 does not ask for a shallow nod. It calls the truth of God into the heart: the Lord is God, and there is no other. Beloved identity rests on that reality. You are not held by a mood, an idol, a trend, or a temporary support. You are held by the living God.
 
@@ -82,7 +82,7 @@ Beloved identity becomes steady when the heart remembers who rules. You do not h
 
 **Journal prompt:** What false power has felt too large in my heart lately?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Breathe the Father's Patience into one faithful step today.
 
 ---
 
@@ -92,7 +92,7 @@ Beloved identity becomes steady when the heart remembers who rules. You do not h
 
 **Scripture Reference:** Deuteronomy 4:9
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `shamar/nephesh/shakach/lamad` - guard, soul, forget, and teach - because the passage calls for guarding the soul, resisting forgetfulness, and teaching the next generation.
+**Context and language lens:** `shamar/nephesh/shakach/lamad` - guard, soul, forget, and teach - because the passage calls for guarding the soul, resisting forgetfulness, and teaching the next generation.
 
 Love stronger than fear learns to guard the soul. Deuteronomy 4:9 speaks with practical urgency: pay attention, guard yourself, do not forget, and make the truth known to your children and grandchildren. Beloved identity is not passive self-esteem. It is a guarded memory of God's works and words.
 
@@ -108,7 +108,7 @@ Hold fast today. Do not let the day's pressure steal the story of God's care. Be
 
 **Journal prompt:** What testimony do I need to remember so fear does not become what I pass forward?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Hold Fast to Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -118,7 +118,7 @@ Hold fast today. Do not let the day's pressure steal the story of God's care. Be
 
 **Scripture Reference:** Deuteronomy 6:10
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `bo/shaba/natan` - bring in, swear, and give - because the verse points to God bringing His people into what He promised to give.
+**Context and language lens:** `bo/shaba/natan` - bring in, swear, and give - because the verse points to God bringing His people into what He promised to give.
 
 Restoring compassion remembers that God brings His children into places they did not create by themselves. Deuteronomy 6:10 looks toward promised inheritance: cities, houses, and provision connected to God's oath. The point is not pride in possession. The point is humble remembrance of the Giver.
 
@@ -134,7 +134,7 @@ Return today by naming what God has given. Not to boast. Not to compare. To reme
 
 **Journal prompt:** What gift in my life needs to become gratitude instead of entitlement?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Return to Restoring Compassion into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Return today by naming what God has given. Not to boast. Not to compare. To reme
 
 **Scripture Reference:** Deuteronomy 6:18
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `yashar/tov/yatab/yarash` - right, good, go well, and possess - because the verse calls God's people to do what is right and good so they may live in the promised inheritance.
+**Context and language lens:** `yashar/tov/yatab/yarash` - right, good, go well, and possess - because the verse calls God's people to do what is right and good so they may live in the promised inheritance.
 
 The promise that holds you also teaches you how to walk. Deuteronomy 6:18 connects doing what is right and good with the life God intends for His people. This is not performance for approval. It is beloved identity becoming visible in choices.
 
@@ -160,7 +160,7 @@ Today, let the promise hold you steady enough to do what is right and good.
 
 **Journal prompt:** What right and good step have I delayed because it felt costly or unseen?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Yield to the Promise That Holds into one faithful step today.
 
 ---
 
@@ -170,7 +170,7 @@ Today, let the promise hold you steady enough to do what is right and good.
 
 **Scripture Reference:** Deuteronomy 6:23
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `yatsa/bo/natan/shaba` - bring out, bring in, give, and swear - because the verse summarizes deliverance as movement out of bondage and into promised gift.
+**Context and language lens:** `yatsa/bo/natan/shaba` - bring out, bring in, give, and swear - because the verse summarizes deliverance as movement out of bondage and into promised gift.
 
 The Father's heart does not only bring His children out. He brings them in. Deuteronomy 6:23 remembers deliverance with destination: God brought His people out so He could bring them in and give what He had promised. Beloved identity needs both halves of that mercy.
 
@@ -186,5 +186,4 @@ This does not make the journey instant. Israel still had to walk. You may still 
 
 **Journal prompt:** Where do I still live like I was only brought out, not also being brought in?
 
-**Morning impact:** Let the Spirit press this from information into formation.
-
+**Morning impact:** Let the Father's love carry Anchor the Heart That Calls You into one faithful step today.

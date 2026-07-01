@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 3:5
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Israel dwelling among surrounding nations. The Spirit's fruit is framed as inward renewal for faithfulness while living in mixed surroundings.
+**Context and language lens:** Israel dwelling among surrounding nations. The Spirit's fruit is framed as inward renewal for faithfulness while living in mixed surroundings.
 
 Judges 3:5 names where Israel lived. They were among surrounding peoples, and the environment around them mattered.
 
@@ -42,7 +42,7 @@ The Spirit gives oil for the waiting season by renewing the heart in mixed surro
 
 **Scripture Reference:** Judges 3:6
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Israel's compromise through relationships and worship. Power to witness is framed as holy fire that exposes divided affection before it becomes surrendered allegiance to other gods.
+**Context and language lens:** Israel's compromise through relationships and worship. Power to witness is framed as holy fire that exposes divided affection before it becomes surrendered allegiance to other gods.
 
 Judges 3:6 shows compromise becoming relational and worshipful. What began as living nearby moves toward deep entanglement and misplaced allegiance.
 
@@ -70,7 +70,7 @@ The Spirit gives oil for the waiting season by purifying divided allegiance.
 
 **Scripture Reference:** Judges 3:7
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses Israel forgetting the Lord and serving false gods. The seal of belonging is framed as consecrated memory that keeps love from drifting into false worship.
+**Context and language lens:** Israel forgetting the Lord and serving false gods. The seal of belonging is framed as consecrated memory that keeps love from drifting into false worship.
 
 Judges 3:7 is painful because forgetting becomes worship in the wrong direction. The heart does not stay empty. What it forgets in God, it often tries to replace elsewhere.
 
@@ -98,7 +98,7 @@ The Spirit gives oil for the waiting season by consecrating memory into faithful
 
 **Scripture Reference:** Judges 3:8
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the consequence of Israel's rebellion and years of servitude. Prayer beyond words is framed as settled honesty under consequence without despair.
+**Context and language lens:** The consequence of Israel's rebellion and years of servitude. Prayer beyond words is framed as settled honesty under consequence without despair.
 
 Judges 3:8 shows that rebellion has weight. Israel experiences consequence over time.
 
@@ -126,7 +126,7 @@ The Spirit gives oil for the waiting season by settling honest prayer under cons
 
 **Scripture Reference:** Judges 3:9
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Israel crying out and the Lord raising a deliverer. Wind in the waiting is framed as God's life moving when repentance finally cries for help.
+**Context and language lens:** Israel crying out and the Lord raising a deliverer. Wind in the waiting is framed as God's life moving when repentance finally cries for help.
 
 Judges 3:9 brings mercy into the story. The people cry out, and the Lord raises up a deliverer.
 
@@ -154,7 +154,7 @@ The Spirit gives oil for the waiting season by moving mercy toward the honest cr
 
 **Scripture Reference:** Judges 3:11
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the land having rest after deliverance. Oil for the journey is framed as inward renewal that knows how to receive rest after mercy.
+**Context and language lens:** The land having rest after deliverance. Oil for the journey is framed as inward renewal that knows how to receive rest after mercy.
 
 Judges 3:11 shows rest after deliverance. The story pauses in mercy.
 
@@ -182,7 +182,7 @@ The Spirit gives oil for the waiting season by renewing the heart to receive res
 
 **Scripture Reference:** Judges 3:12
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses Israel again doing evil and the Lord strengthening an adversary. Freedom in the Spirit is framed as holy fire that warns against cycles returning after rest.
+**Context and language lens:** Israel again doing evil and the Lord strengthening an adversary. Freedom in the Spirit is framed as holy fire that warns against cycles returning after rest.
 
 Judges 3:12 is sobering because the cycle begins again. Rest was real, but drift returned.
 

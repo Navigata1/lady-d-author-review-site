@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 14:7
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses Samson's conversation and continuing attraction. The Comforter's nearness is framed as cleansing desire while relationship and decision begin to take shape.
+**Context and language lens:** Samson's conversation and continuing attraction. The Comforter's nearness is framed as cleansing desire while relationship and decision begin to take shape.
 
 Judges 14:7 keeps the story close to desire and conversation. Samson moves nearer to what has captured his attention.
 
@@ -32,7 +32,7 @@ The Spirit teaches prayer by cleansing desire as it becomes conversation.
 
 **Journal prompt:** What are my conversations confirming in me?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Hold Fast to the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit teaches prayer by cleansing desire as it becomes conversation.
 
 **Scripture Reference:** Judges 14:8
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Samson turning aside to revisit the place of danger. Holy fire is framed as discernment when curiosity pulls the heart back toward what should be handled carefully.
+**Context and language lens:** Samson turning aside to revisit the place of danger. Holy fire is framed as discernment when curiosity pulls the heart back toward what should be handled carefully.
 
 Judges 14:8 shows Samson returning and turning aside. What was once danger now holds unexpected sweetness.
 
@@ -60,7 +60,7 @@ The Spirit teaches prayer by making discernment louder than curiosity.
 
 **Journal prompt:** Where has curiosity been louder than wisdom?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Return to Holy Fire into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit teaches prayer by making discernment louder than curiosity.
 
 **Scripture Reference:** Judges 14:9
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses Samson taking sweetness and hiding its source. Rain for dry places is framed as Spirit-breathed honesty where secrecy would dry out prayer.
+**Context and language lens:** Samson taking sweetness and hiding its source. Rain for dry places is framed as Spirit-breathed honesty where secrecy would dry out prayer.
 
 Judges 14:9 brings sweetness, sharing, and silence together. Samson receives and gives, but he does not tell the whole story.
 
@@ -88,7 +88,7 @@ The Spirit teaches prayer by breathing honesty into hidden sweetness.
 
 **Journal prompt:** What have I been enjoying without wanting to explain?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Yield to Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit teaches prayer by breathing honesty into hidden sweetness.
 
 **Scripture Reference:** Judges 14:10
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses the feast and public custom around Samson's choice. The anointing for today is framed as set-apart purpose inside ordinary social moments.
+**Context and language lens:** The feast and public custom around Samson's choice. The anointing for today is framed as set-apart purpose inside ordinary social moments.
 
 Judges 14:10 moves the story into public celebration. Private desire now has public surroundings.
 
@@ -116,7 +116,7 @@ The Spirit teaches prayer by setting the heart apart inside public moments.
 
 **Journal prompt:** Where am I being swept along by what everyone expects?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Anchor the Anointing for Today into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit teaches prayer by setting the heart apart inside public moments.
 
 **Scripture Reference:** Judges 14:11
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses the arrival of companions around Samson. The Spirit's fruit is framed as God-given capacity for prayerful steadiness when people gather around a vulnerable moment.
+**Context and language lens:** The arrival of companions around Samson. The Spirit's fruit is framed as God-given capacity for prayerful steadiness when people gather around a vulnerable moment.
 
 Judges 14:11 shows companions being brought into the scene. Samson is no longer alone with his desire or his plans.
 
@@ -144,7 +144,7 @@ The Spirit teaches prayer by forming fruit when others gather around pressure.
 
 **Journal prompt:** What kind of person do I become when others are watching?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Discover the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit teaches prayer by forming fruit when others gather around pressure.
 
 **Scripture Reference:** Judges 14:12
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses Samson's riddle and wager. Power to witness is framed as cleansed speech that resists proving itself through cleverness, games, or control.
+**Context and language lens:** Samson's riddle and wager. Power to witness is framed as cleansed speech that resists proving itself through cleverness, games, or control.
 
 Judges 14:12 brings speech into a contest. Samson uses a riddle and attaches a wager to the moment.
 
@@ -172,7 +172,7 @@ The Spirit teaches prayer by cleansing speech from the need to win.
 
 **Journal prompt:** Where has cleverness become a shield for me?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Receive Power to Witness into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit teaches prayer by cleansing speech from the need to win.
 
 **Scripture Reference:** Judges 14:13
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses the terms of the riddle contest. The seal of belonging is framed as hearing God's nearness beneath the voice that wants to secure identity by winning.
+**Context and language lens:** The terms of the riddle contest. The seal of belonging is framed as hearing God's nearness beneath the voice that wants to secure identity by winning.
 
 Judges 14:13 shows the contest terms being named. The stakes of the game are placed in front of everyone.
 
@@ -200,4 +200,4 @@ The Spirit teaches prayer by making belonging louder than the need to prove.
 
 **Journal prompt:** What am I trying to prove, and what would belonging say instead?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Trust the Seal of Belonging into one faithful step today.

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 17:9
 
-**Production lens correction:** The architecture assigned `akoloutheō`; the production lens uses Jesus leading the disciples down from the mountain with timing and restraint because the verse centers on following Him from holy encounter into obedient waiting.
+**Context and language lens:** Jesus leading the disciples down from the mountain with timing and restraint because the verse centers on following Him from holy encounter into obedient waiting.
 
 The nearness of Christ is not only for the mountaintop. Matthew 17:9 comes as Jesus and the disciples are coming down after a holy glimpse of glory. He gives instruction about timing. They have seen something sacred, but following Him means carrying the sacred with obedience, not self-directed announcement.
 
@@ -32,7 +32,7 @@ Walking with Jesus means carrying holy moments under His timing.
 
 **Journal prompt:** Where do I need to follow Jesus in the descent, not only in the moment of glory?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Come Home to the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means carrying holy moments under His timing.
 
 **Scripture Reference:** Matthew 19:21
 
-**Production lens correction:** The architecture assigned `sōzō`; the production lens uses Jesus' invitation to release attachment and follow Him because saving wholeness touches what the heart holds for security.
+**Context and language lens:** Jesus' invitation to release attachment and follow Him because saving wholeness touches what the heart holds for security.
 
 The way of peace may begin with release. Matthew 19:21 shows Jesus naming a path that touches possession, treasure, compassion, and following. He is not trying to shame the heart. He is exposing what keeps the heart from walking freely with Him.
 
@@ -60,7 +60,7 @@ The peace of Jesus is found on the road where the heart is free enough to follow
 
 **Journal prompt:** What attachment is Jesus gently exposing so I can walk with Him more freely?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Practice the Way of Peace in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The peace of Jesus is found on the road where the heart is free enough to follow
 
 **Scripture Reference:** Matthew 19:28
 
-**Production lens correction:** The architecture assigned `eirēnē`; the production lens uses Jesus' promise of renewal and future restoration because the verse centers on peace for disciples who have left much to follow Him.
+**Context and language lens:** Jesus' promise of renewal and future restoration because the verse centers on peace for disciples who have left much to follow Him.
 
 The table of grace is larger than what obedience seems to cost. Matthew 19:28 points the disciples toward renewal and the future faithfulness of God. Jesus does not ignore sacrifice. He places it inside the promise of restoration.
 
@@ -88,7 +88,7 @@ Walking with Jesus means trusting that His future is strong enough to hold today
 
 **Journal prompt:** What cost of following Jesus do I need to place under His promise of renewal?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Surrender to the Table of Grace in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means trusting that His future is strong enough to hold today
 
 **Scripture Reference:** Matthew 20:17
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus taking the Twelve aside on the road to Jerusalem because the verse centers on the Lord's trusted authority telling the truth before the painful path unfolds.
+**Context and language lens:** Jesus taking the Twelve aside on the road to Jerusalem because the verse centers on the Lord's trusted authority telling the truth before the painful path unfolds.
 
 Mercy does not hide the truth from the people Jesus loves. Matthew 20:17 places Jesus on the road to Jerusalem with the Twelve drawn close. He is not drifting toward suffering unknowingly. He leads with authority, and He prepares His disciples with truth.
 
@@ -116,7 +116,7 @@ The Lord who tells the truth also walks the road He reveals.
 
 **Journal prompt:** What truth from Jesus have I been avoiding because the road feels costly?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Let Mercy Speak the Healing Touch in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Lord who tells the truth also walks the road He reveals.
 
 **Scripture Reference:** Matthew 20:31
 
-**Production lens correction:** The architecture assigned `phōs`; the production lens uses the blind men's intensified cry after rebuke because the verse centers on light giving courage to seek mercy when voices try to silence faith.
+**Context and language lens:** The blind men's intensified cry after rebuke because the verse centers on light giving courage to seek mercy when voices try to silence faith.
 
 The call to follow sometimes sounds like a cry that refuses to be silenced. Matthew 20:31 shows the crowd trying to quiet the blind men, but their need presses their faith louder. They are not performing drama. They are reaching for mercy.
 
@@ -144,7 +144,7 @@ Walking with Jesus gives courage to keep seeking Him when the crowd does not und
 
 **Journal prompt:** What voice has been trying to silence my prayer for mercy?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Breathe the Call to Follow in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus gives courage to keep seeking Him when the crowd does not und
 
 **Scripture Reference:** Matthew 21:1
 
-**Production lens correction:** The architecture assigned `akoloutheō`; the production lens uses Jesus drawing near to Jerusalem and sending disciples ahead because the verse centers on following through ordinary obedience on the edge of a costly mission.
+**Context and language lens:** Jesus drawing near to Jerusalem and sending disciples ahead because the verse centers on following through ordinary obedience on the edge of a costly mission.
 
 Cross-shaped courage often begins with a simple assignment. Matthew 21:1 brings Jesus and the disciples near Jerusalem. The weight of what is coming is great, yet the next act of obedience is concrete and ordinary: Jesus sends disciples ahead.
 
@@ -172,7 +172,7 @@ Walking with Jesus turns ordinary obedience into participation in His larger pur
 
 **Journal prompt:** What small assignment might be part of Jesus' larger purpose today?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Hold Fast to Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus turns ordinary obedience into participation in His larger pur
 
 **Scripture Reference:** Matthew 21:42
 
-**Production lens correction:** The architecture assigned `sōzō`; the production lens uses Jesus' word about the rejected stone becoming central because the verse centers on saving hope through God's reversal of rejection.
+**Context and language lens:** Jesus' word about the rejected stone becoming central because the verse centers on saving hope through God's reversal of rejection.
 
 Resurrection hope begins where human rejection does not get the final word. Matthew 21:42 points to the stone rejected and then made central by God's doing. Jesus is not surprised by rejection. He reveals a kingdom where the Father's purpose overturns what people dismiss.
 
@@ -200,4 +200,4 @@ Walking with Jesus means trusting the Father's marvelous work even when rejectio
 
 **Journal prompt:** Where do I need resurrection hope to answer the voice of rejection?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Return to Resurrection Hope in one faithful step today.

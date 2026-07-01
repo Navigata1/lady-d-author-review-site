@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 12:26
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses Jesus' answer about a divided kingdom because discipleship refuses divided allegiance and returns the heart to Christ's coherence.
+**Context and language lens:** Jesus' answer about a divided kingdom because discipleship refuses divided allegiance and returns the heart to Christ's coherence.
 
 Matthew 12:26 shows Jesus answering an accusation with clear spiritual logic. A divided kingdom cannot stand.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting His truth gather the divided places into faithf
 
 **Scripture Reference:** Matthew 12:27
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus' question to expose inconsistent judgment because saving wholeness includes honest self-examination.
+**Context and language lens:** Jesus' question to expose inconsistent judgment because saving wholeness includes honest self-examination.
 
 Matthew 12:27 presses the accusers to face the inconsistency in their own reasoning. Jesus does not merely defend Himself; He exposes the heart's uneven scales.
 
@@ -70,7 +70,7 @@ Walking with Jesus means receiving His saving correction until your witness grow
 
 **Scripture Reference:** Matthew 12:29
 
-**Production lens note:** The architecture assigns eirene; the production lens uses Jesus' image of binding the strong man because Christ's peace rests on His stronger authority over what once held people captive.
+**Context and language lens:** Jesus' image of binding the strong man because Christ's peace rests on His stronger authority over what once held people captive.
 
 Matthew 12:29 reveals Jesus as stronger than the power that binds. He does not merely comfort captives; He confronts captivity.
 
@@ -98,7 +98,7 @@ Walking with Jesus means witnessing to the Friend who is strong enough to free c
 
 **Scripture Reference:** Matthew 12:3
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses Jesus pointing to David's hunger because trusted Lordship teaches mercy and Scripture-shaped discernment when human need is contested.
+**Context and language lens:** Jesus pointing to David's hunger because trusted Lordship teaches mercy and Scripture-shaped discernment when human need is contested.
 
 Matthew 12:3 shows Jesus answering accusation by opening Scripture with wisdom. He brings human need, holy things, and mercy into the light of God's story.
 
@@ -126,7 +126,7 @@ Walking with Jesus means receiving His Lordship over how you interpret need.
 
 **Scripture Reference:** Matthew 12:30
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus' with-or-against language because His light exposes passive neutrality and invites gathered allegiance.
+**Context and language lens:** Jesus' with-or-against language because His light exposes passive neutrality and invites gathered allegiance.
 
 Matthew 12:30 is direct. Jesus does not treat allegiance to Him as a casual accessory. A life either gathers with Him or scatters away from Him.
 
@@ -154,7 +154,7 @@ Walking with Jesus means resting in gathered allegiance instead of drifting in p
 
 **Scripture Reference:** Matthew 12:31
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses Jesus' warning about rejecting the Spirit's witness with pastoral seriousness, guarding the reader from both presumption and panic.
+**Context and language lens:** Jesus' warning about rejecting the Spirit's witness with pastoral seriousness, guarding the reader from both presumption and panic.
 
 Matthew 12:31 is a sober warning. Jesus speaks seriously about resisting the Spirit's witness to God's work.
 
@@ -182,7 +182,7 @@ Walking with Jesus means staying tender to the Spirit's witness and quick to ret
 
 **Scripture Reference:** Matthew 12:33
 
-**Production lens note:** The architecture assigns sozo; the production lens uses Jesus' tree-and-fruit teaching because saving wholeness forms visible fruit from a renewed root.
+**Context and language lens:** Jesus' tree-and-fruit teaching because saving wholeness forms visible fruit from a renewed root.
 
 Matthew 12:33 moves from appearance to fruit. Jesus teaches that the nature of the tree becomes visible in what it bears.
 

@@ -10,11 +10,11 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 364 - December 30
 
-### See Again Grace Before Performance
+### See Finishing Hope in Again Grace Before Striving
 
 **Scripture Reference:** Exodus 19:9
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses God's decision to draw near in the cloud and let the people hear His voice because the verse centers on faithful love steadying trust before deeper obedience.
+**Context and language lens:** God's decision to draw near in the cloud and let the people hear His voice because the verse centers on faithful love steadying trust before deeper obedience.
 
 Grace before performance is not weakness. It is the order of God's heart. Exodus 19:9 shows the Lord preparing His people to hear Him in a way that would establish trust. The people have already answered with a yes, but God does not leave their faith resting only on a human messenger or on the emotion of one moment. He draws near and gives witness.
 
@@ -34,17 +34,17 @@ The faithful Father steadies trust before He asks for deeper surrender.
 
 **Journal prompt:** Where do I need to let God's faithfulness speak louder than my unfinished list?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry See Finishing Hope in Again Grace Before Striving into one faithful step today.
 
 ---
 
 ## Day 365 - December 31
 
-### Let Love Teach Mercy in the Morning
+### Let Finishing Hope Teach Mercy in the Morning
 
 **Scripture Reference:** Exodus 19:10
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses God's command to consecrate the people because the verse centers on the heart being prepared for holy nearness by mercy, not self-cleansing performance.
+**Context and language lens:** God's command to consecrate the people because the verse centers on the heart being prepared for holy nearness by mercy, not self-cleansing performance.
 
 Mercy in the morning teaches the heart how to prepare for God's presence. Exodus 19:10 moves from hearing toward consecration. The Lord calls His people to be set apart and made ready. This is not a cold religious requirement. It is the mercy of a holy God preparing beloved people to draw near rightly.
 
@@ -66,4 +66,4 @@ The Father's love does not merely comfort the heart; it consecrates the heart fo
 
 **Journal prompt:** What part of my heart needs to be set apart for God's presence as this year closes?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Finishing Hope Teach Mercy in the Morning into one faithful step today.

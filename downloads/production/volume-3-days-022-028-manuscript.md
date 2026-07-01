@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 1:22
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's blessing over living creatures because the passage centers on life multiplied by God's word, not fire imagery.
+**Context and language lens:** God's blessing over living creatures because the passage centers on life multiplied by God's word, not fire imagery.
 
 The journey of the Spirit-filled life begins with blessing before it becomes movement. Genesis 1:22 shows God blessing living creatures and speaking fruitfulness over them. Life expands because God speaks life into it.
 
@@ -42,7 +42,7 @@ The Spirit carries the blessing of God into fruitfulness that does not have to b
 
 **Scripture Reference:** Genesis 1:28
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's blessing and human vocation because the passage centers on fruitful stewardship under God's authority.
+**Context and language lens:** God's blessing and human vocation because the passage centers on fruitful stewardship under God's authority.
 
 Freedom in the Spirit does not mean life without responsibility. Genesis 1:28 shows blessing and vocation together. Humanity receives fruitfulness, stewardship, and a calling to order life under God.
 
@@ -70,7 +70,7 @@ The Spirit anchors freedom by turning entrusted places into fields of faithful c
 
 **Scripture Reference:** Genesis 1:29
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's provision of food because the passage centers on provision before striving and the generosity of the Creator.
+**Context and language lens:** God's provision of food because the passage centers on provision before striving and the generosity of the Creator.
 
 Before the human hand planted anything, God gave provision. Genesis 1:29 shows the Creator giving food from the created world. Provision came as gift, not as proof that humanity had earned the right to live.
 
@@ -98,7 +98,7 @@ The Spirit teaches the heart to breathe in the generosity of God before the week
 
 **Scripture Reference:** Genesis 2:7
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the breath of life because the passage directly invites reflection on life received from God.
+**Context and language lens:** The breath of life because the passage directly invites reflection on life received from God.
 
 The first breath was not self-made. Genesis 2:7 shows the life of humanity received from the breath of God. The body was formed, but breath made the person living.
 
@@ -126,7 +126,7 @@ The Spirit comforts by reminding the whole person that life is received before i
 
 **Scripture Reference:** Judges 14:15
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens treats the verse as a warning about pressure, fear, and manipulation rather than an example to imitate.
+**Context and language lens:** This lens treats the verse as a warning about pressure, fear, and manipulation rather than an example to imitate.
 
 Not every fire is holy. Judges 14:15 is a tense and painful verse, full of pressure and manipulation. Fear speaks through threats. Relationship is twisted into leverage. The human heart looks for control instead of truth.
 
@@ -154,7 +154,7 @@ The Spirit's fire purifies; fear's fire consumes.
 
 **Scripture Reference:** Judges 14:19
 
-**Production lens correction:** The architecture assigned `esh`; the production lens handles this difficult Samson text as a warning-filled story of power in a tangled life. It does not present violence or anger as a devotional pattern.
+**Context and language lens:** This lens reads this difficult Samson text as a warning-filled story of power in a tangled life. It does not present violence or anger as a devotional pattern.
 
 Some texts make the reader slow down. Judges 14:19 belongs to a complicated Samson story where strength, anger, consequences, and the Spirit's empowering appear in a hard place. This is not a call to admire rage. It is a reminder that human brokenness can make even real power dangerous when the heart is not surrendered.
 
@@ -182,7 +182,7 @@ The Spirit can bring rain to dry places by making strong people humble enough to
 
 **Scripture Reference:** Judges 14:6
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the Spirit's empowerment of Samson in danger while noting the wider story's secrecy and immaturity as caution.
+**Context and language lens:** The Spirit's empowerment of Samson in danger while noting the wider story's secrecy and immaturity as caution.
 
 The anointing for today is not a trophy. Judges 14:6 shows the Spirit empowering Samson in a moment of danger. Yet the wider story reminds us that strength can exist alongside immaturity, secrecy, and a heart still needing formation.
 

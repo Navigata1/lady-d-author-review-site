@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 32:21
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Jacob sending the gift ahead while remaining in the camp that night because the verse centers on identity learning to wait after obedience has been set in motion.
+**Context and language lens:** Jacob sending the gift ahead while remaining in the camp that night because the verse centers on identity learning to wait after obedience has been set in motion.
 
 Beloved identity can return when the heart has done the next faithful thing and still has to wait. Genesis 32:21 shows the gift passing ahead of Jacob while he remains in the camp that night. The action has moved forward, but the outcome has not arrived.
 
@@ -44,7 +44,7 @@ You are still beloved when the gift has gone ahead and the answer has not return
 
 **Scripture Reference:** Genesis 32:22
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses Jacob rising in the night, gathering his household, and crossing the ford of Jabbok because the verse centers on courage that moves vulnerable people under pressure.
+**Context and language lens:** Jacob rising in the night, gathering his household, and crossing the ford of Jabbok because the verse centers on courage that moves vulnerable people under pressure.
 
 Love that finds you can meet you in the middle of the night. Genesis 32:22 shows Jacob rising, gathering his wives, servants, and sons, and crossing the ford of Jabbok. This is not a bright, easy movement. It happens under pressure, with vulnerable people near him.
 
@@ -74,7 +74,7 @@ The night crossing is not outside His care.
 
 **Scripture Reference:** Genesis 32:23
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses Jacob sending his household and possessions over the stream because the verse centers on protective compassion that releases what cannot be clutched forever.
+**Context and language lens:** Jacob sending his household and possessions over the stream because the verse centers on protective compassion that releases what cannot be clutched forever.
 
 Grace before performance can anchor the heart when it must release what it has carried. Genesis 32:23 shows Jacob taking his household and possessions and sending them over the stream. What has been gathered, protected, and managed is now moving beyond his immediate grasp.
 
@@ -104,7 +104,7 @@ Grace anchors the hand that has to open.
 
 **Scripture Reference:** Genesis 32:24
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses Jacob being left alone and wrestling until daybreak because the verse centers on mercy meeting the heart in the very place pressure scattered it.
+**Context and language lens:** Jacob being left alone and wrestling until daybreak because the verse centers on mercy meeting the heart in the very place pressure scattered it.
 
 Mercy in the morning may begin with an honest night. Genesis 32:24 says Jacob is left alone, and there a man wrestles with him until daybreak. The verse is spare, but it is not small. The noise has quieted. The household has crossed. The gifts have gone ahead. Jacob is alone, and the struggle becomes direct.
 
@@ -134,7 +134,7 @@ On this Sabbath, let God meet you in the honest night and carry mercy toward mor
 
 **Scripture Reference:** Genesis 32:25
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses the touch on Jacob's hip when the man sees he does not prevail against him because the verse centers on being personally known through weakness, not merely through endurance.
+**Context and language lens:** The touch on Jacob's hip when the man sees he does not prevail against him because the verse centers on being personally known through weakness, not merely through endurance.
 
 The Father's patience can touch what endurance alone will not heal. Genesis 32:25 shows that the wrestling does not end with Jacob simply proving he can hold on. The touch reaches his hip, and the place of strength is altered.
 
@@ -164,7 +164,7 @@ Weakness may be the doorway where self-reliance stops pretending to be peace.
 
 **Scripture Reference:** Genesis 32:26
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Jacob holding on as day breaks and asking for blessing because the verse centers on hope that refuses to release God for anything less than transformed dependence.
+**Context and language lens:** Jacob holding on as day breaks and asking for blessing because the verse centers on hope that refuses to release God for anything less than transformed dependence.
 
 Love stronger than fear teaches the heart how to hold on differently. Genesis 32:26 carries the tension of daybreak. The man says to let him go, and Jacob answers that he will not let go unless he is blessed.
 
@@ -194,7 +194,7 @@ Do not leave the encounter with God asking for less than blessing.
 
 **Scripture Reference:** Genesis 32:27
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses the question, "What is your name?" and Jacob's answer because the verse centers on comfort that leads the heart into truthful identity before restoration.
+**Context and language lens:** The question, "What is your name?" and Jacob's answer because the verse centers on comfort that leads the heart into truthful identity before restoration.
 
 Restoring compassion often begins with a truthful name. Genesis 32:27 brings the question to Jacob: what is your name? He answers, "Jacob." Before the new name is spoken, the old name has to be brought into the light.
 

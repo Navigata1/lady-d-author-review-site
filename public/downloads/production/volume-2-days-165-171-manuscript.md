@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 15:21
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus withdrawing toward Tyre and Sidon because the Teacher forms trust even when His path moves into unfamiliar borderland.
+**Context and language lens:** Jesus withdrawing toward Tyre and Sidon because the Teacher forms trust even when His path moves into unfamiliar borderland.
 
 Matthew 15:21 moves Jesus into the region of Tyre and Sidon. The scene shifts away from the expected center. The road is not random; the Teacher is still leading.
 
@@ -32,7 +32,7 @@ Walking with Jesus means trusting the Teacher beyond familiar ground.
 
 **Journal prompt:** Where do I need to receive Christ's nearness beyond familiar ground?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through Receive the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means trusting the Teacher beyond familiar ground.
 
 **Scripture Reference:** Matthew 15:25
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses the woman's kneeling plea for help because the way of Jesus makes prayer honest, direct, and humble under pressure.
+**Context and language lens:** The woman's kneeling plea for help because the way of Jesus makes prayer honest, direct, and humble under pressure.
 
 Matthew 15:25 shows a woman coming close, kneeling, and asking Jesus for help. Her need is not polished into religious distance. It becomes a direct approach to Christ.
 
@@ -60,7 +60,7 @@ Walking with Jesus means bringing pressure to Him before it hardens into distanc
 
 **Journal prompt:** What need have I been trying to manage instead of bringing directly to Jesus?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Trust the Way of Peace in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means bringing pressure to Him before it hardens into distanc
 
 **Scripture Reference:** Matthew 15:28
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus' response to the woman's faith and the healing of her daughter because resurrection hope rises where persistence meets mercy.
+**Context and language lens:** Jesus' response to the woman's faith and the healing of her daughter because resurrection hope rises where persistence meets mercy.
 
 Matthew 15:28 turns persistence into testimony. Jesus sees the woman's faith, and mercy reaches the need she has carried to Him. The storm around her household does not get the final word.
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting grace have the final voice over what felt final
 
 **Journal prompt:** Where do I need persistent faith without trying to control the outcome?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Walk with Jesus through Let Hope Rise the Table of Grace in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting grace have the final voice over what felt final
 
 **Scripture Reference:** Matthew 15:29
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus going by the Sea of Galilee, going up the mountain, and sitting there because healing presence begins with remaining near the One who receives the needy.
+**Context and language lens:** Jesus going by the Sea of Galilee, going up the mountain, and sitting there because healing presence begins with remaining near the One who receives the needy.
 
 Matthew 15:29 places Jesus by the sea, then on the mountain, seated and present. He is not frantic. He is available.
 
@@ -116,7 +116,7 @@ Walking with Jesus means remaining near Him until your help is shaped by His pea
 
 **Journal prompt:** Where am I trying to help from hurry instead of abiding presence?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Walk with Jesus through Carry the Healing Touch in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means remaining near Him until your help is shaped by His pea
 
 **Scripture Reference:** Matthew 15:33
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses the disciples' question about feeding a crowd in a desolate place because Christ's compassion meets honest lack without despising the question.
+**Context and language lens:** The disciples' question about feeding a crowd in a desolate place because Christ's compassion meets honest lack without despising the question.
 
 Matthew 15:33 lets the disciples speak the visible problem. The place seems empty. The crowd is large. Their resources feel insufficient.
 
@@ -144,7 +144,7 @@ Walking with Jesus means naming lack without surrendering trust.
 
 **Journal prompt:** Where can I see the need more clearly than I can see the supply?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Walk with Jesus through Lean Into the Call to Follow in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means naming lack without surrendering trust.
 
 **Scripture Reference:** Matthew 15:34
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus asking about the available loaves because the Teacher begins with surrendered reality, not imagined abundance.
+**Context and language lens:** Jesus asking about the available loaves because the Teacher begins with surrendered reality, not imagined abundance.
 
 Jesus asks what is available. Matthew 15:34 brings the disciples from overwhelm to inventory. The Teacher does not ask them to pretend they have more than they have.
 
@@ -172,7 +172,7 @@ Walking with Jesus means letting the Teacher begin with what is truly in your ha
 
 **Journal prompt:** What actual loaves do I need to place before Jesus without apology?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Walk with Jesus through See Again Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting the Teacher begin with what is truly in your ha
 
 **Scripture Reference:** Matthew 15:36
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses Jesus giving thanks, breaking, and giving because the road with Him turns surrendered provision into shared mercy.
+**Context and language lens:** Jesus giving thanks, breaking, and giving because the road with Him turns surrendered provision into shared mercy.
 
 Matthew 15:36 shows Jesus receiving what is present, giving thanks, breaking, and giving. The movement is quiet and holy: received, blessed, broken, shared.
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting Sabbath rest teach thanksgiving on the road of 
 
 **Journal prompt:** Where is Jesus inviting me to give thanks before I can see enough?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Walk with Jesus through Let Love Teach Resurrection Hope in one faithful step today.

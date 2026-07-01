@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 50:23
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Joseph seeing later generations because the verse centers on hope strengthened across time, family, and promise.
+**Context and language lens:** Joseph seeing later generations because the verse centers on hope strengthened across time, family, and promise.
 
 Beloved identity can become strong enough to bless what you may not fully finish. Genesis 50:23 shows Joseph living to see later generations. His story has carried betrayal, exile, promotion, famine, reunion, grief, and mercy. Now hope reaches forward through children and grandchildren.
 
@@ -34,7 +34,7 @@ Some blessings are not finished in your hands, but they may still pass through t
 
 **Journal prompt:** Where is God asking me to trust Him with fruit that may outlive this season?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Remember Beloved Identity into one faithful step today.
 
 ---
 
@@ -44,7 +44,7 @@ Some blessings are not finished in your hands, but they may still pass through t
 
 **Scripture Reference:** Genesis 50:24
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses Joseph's confidence that God will surely visit His people because the verse centers on comfort that breathes courage into a future Joseph will not personally manage.
+**Context and language lens:** Joseph's confidence that God will surely visit His people because the verse centers on comfort that breathes courage into a future Joseph will not personally manage.
 
 Love that finds you can speak hope even at the edge of goodbye. Genesis 50:24 shows Joseph facing death while pointing his family toward God's future visit and deliverance. His body is weakening, but his hope is not empty.
 
@@ -64,7 +64,7 @@ Love finds what human control cannot hold.
 
 **Journal prompt:** What outcome do I need to release into God's future visitation instead of my own control?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Walk in Love That Finds You into one faithful step today.
 
 ---
 
@@ -74,7 +74,7 @@ Love finds what human control cannot hold.
 
 **Scripture Reference:** Genesis 50:25
 
-**Production lens correction:** The architecture assigned `rachamim`; the production lens uses Joseph's request concerning his bones because the verse centers on protective mercy that entrusts a future witness to the community without turning hope into performance.
+**Context and language lens:** Joseph's request concerning his bones because the verse centers on protective mercy that entrusts a future witness to the community without turning hope into performance.
 
 Grace before performance can still ask for faithful remembrance. Genesis 50:25 shows Joseph binding Israel's future hope to a concrete request: when God visits, his bones are not to be left behind. Hope receives a witness.
 
@@ -94,7 +94,7 @@ God's promise can be carried without being forced.
 
 **Journal prompt:** What reminder of God's promise can steady me without becoming pressure?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Let Peace Lead Grace Before Striving into one faithful step today.
 
 ---
 
@@ -104,7 +104,7 @@ God's promise can be carried without being forced.
 
 **Scripture Reference:** Genesis 50:26
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses Joseph's death and temporary resting place in Egypt because the verse centers on peace that can hold an unfinished story without surrendering the promise.
+**Context and language lens:** Joseph's death and temporary resting place in Egypt because the verse centers on peace that can hold an unfinished story without surrendering the promise.
 
 Mercy in the morning can meet a story that is not finished yet. Genesis 50:26 closes Joseph's earthly life with his body placed in Egypt. The promise has not yet reached its visible destination. The people are still waiting.
 
@@ -124,7 +124,7 @@ On this Sabbath, let mercy teach you to rest with an unfinished promise.
 
 **Journal prompt:** What unfinished promise needs Sabbath rest instead of anxious force?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Choose Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -134,7 +134,7 @@ On this Sabbath, let mercy teach you to rest with an unfinished promise.
 
 **Scripture Reference:** Exodus 3:2
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses the burning bush that is not consumed because the verse centers on God personally drawing near in a way that reveals presence without destroying the place He touches.
+**Context and language lens:** The burning bush that is not consumed because the verse centers on God personally drawing near in a way that reveals presence without destroying the place He touches.
 
 The Father's patience can appear as fire that does not consume. Exodus 3:2 moves the story from Joseph's waiting into Moses' encounter. The bush burns, yet it is not burned up. God is drawing near with holy attention.
 
@@ -154,7 +154,7 @@ Holy fire can reveal mercy as well as power.
 
 **Journal prompt:** Where might God be drawing my attention through something I nearly overlooked?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Listen for the Father's Patience into one faithful step today.
 
 ---
 
@@ -164,7 +164,7 @@ Holy fire can reveal mercy as well as power.
 
 **Scripture Reference:** Exodus 3:3
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Moses turning aside to see the bush because the verse centers on hope that pauses, turns, and waits long enough to behold what God is revealing.
+**Context and language lens:** Moses turning aside to see the bush because the verse centers on hope that pauses, turns, and waits long enough to behold what God is revealing.
 
 Love stronger than fear may begin with turning aside. Exodus 3:3 shows Moses choosing to stop and see why the bush is not burned. He could have kept moving. Instead, he gives attention to the wonder in front of him.
 
@@ -184,7 +184,7 @@ The holy thing you notice may become the place where God speaks.
 
 **Journal prompt:** What holy interruption have I been too rushed or afraid to notice?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Stand in Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -194,7 +194,7 @@ The holy thing you notice may become the place where God speaks.
 
 **Scripture Reference:** Exodus 3:5
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses God's command to remove sandals on holy ground because the verse centers on comfort that restores reverence before calling moves forward.
+**Context and language lens:** God's command to remove sandals on holy ground because the verse centers on comfort that restores reverence before calling moves forward.
 
 Restoring compassion begins by honoring holy ground. Exodus 3:5 shows God setting a boundary before the conversation continues. Moses is told not to come closer casually, and to remove his sandals because the place is holy.
 
@@ -214,4 +214,4 @@ Grace does not make holy things casual. It makes holy ground a place where the c
 
 **Journal prompt:** Where is God asking me to recover reverence before I move forward?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Let Grace Form Restoring Compassion into one faithful step today.

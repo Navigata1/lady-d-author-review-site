@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 6:39
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses Gideon's cautious request for further assurance because the passage centers on fear being brought honestly before God, not on testing as a lifestyle.
+**Context and language lens:** Gideon's cautious request for further assurance because the passage centers on fear being brought honestly before God, not on testing as a lifestyle.
 
 The anointing for today does not make a fearful person pretend. Judges 6:39 shows Gideon still cautious, still asking, still needing assurance. His request is not a model for controlling God, but it does reveal a God patient enough to deal with trembling faith.
 
@@ -42,7 +42,7 @@ The Spirit meets trembling faith so it can become moving faith.
 
 **Scripture Reference:** Matthew 10:20
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' promise that the Spirit of the Father speaks through His people under pressure.
+**Context and language lens:** Jesus' promise that the Spirit of the Father speaks through His people under pressure.
 
 The Spirit's fruit can be heard in the way mercy speaks under pressure. Matthew 10:20 reminds the disciple that there are moments when the words needed are not manufactured by panic. The Spirit of the Father is near enough to help.
 
@@ -70,7 +70,7 @@ The Spirit can make pressured speech bear fruit instead of fear.
 
 **Scripture Reference:** Matthew 12:17
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Matthew's fulfillment marker to frame Jesus' ministry as Spirit-shaped witness promised by Scripture.
+**Context and language lens:** Matthew's fulfillment marker to frame Jesus' ministry as Spirit-shaped witness promised by Scripture.
 
 Power to witness is not self-announcement. Matthew 12:17 points the reader toward fulfillment: Jesus' life and ministry are moving according to what God had spoken. The witness is powerful because it is rooted in God's promise, not human noise.
 
@@ -98,7 +98,7 @@ The Spirit gives power to witness by making ordinary obedience point back to God
 
 **Scripture Reference:** Matthew 12:18
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses the Father's delight in the Servant and the Spirit placed upon Him because the passage centers on Jesus as the chosen, beloved, Spirit-anointed Servant.
+**Context and language lens:** The Father's delight in the Servant and the Spirit placed upon Him because the passage centers on Jesus as the chosen, beloved, Spirit-anointed Servant.
 
 Belonging is strongest when it is received from the Father. Matthew 12:18 reveals Jesus as chosen, beloved, pleasing to the Father, and anointed by the Spirit for justice and witness. Before the mission is seen, the relationship is named.
 
@@ -126,7 +126,7 @@ The Spirit seals belonging so service can become steady instead of needy.
 
 **Scripture Reference:** Matthew 12:28
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' word about the Spirit of God and the kingdom because the passage centers on God's reign breaking into bondage through the Spirit.
+**Context and language lens:** Jesus' word about the Spirit of God and the kingdom because the passage centers on God's reign breaking into bondage through the Spirit.
 
 Some prayers are deeper than words because they ask for the kingdom to come where bondage has felt normal. Matthew 12:28 names the Spirit of God in relation to Jesus' authority and the nearness of God's kingdom. The Spirit does not only comfort the heart; He announces that another reign has arrived.
 
@@ -152,7 +152,7 @@ The Spirit brings the kingdom near enough to challenge what has held the heart.
 
 **Scripture Reference:** Matthew 12:32
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens handles Jesus' severe warning with reverence, keeping the focus on tenderness toward the Spirit rather than fear-bait or careless speculation.
+**Context and language lens:** This lens reads Jesus' severe warning with reverence, keeping the focus on tenderness toward the Spirit rather than fear-bait or careless speculation.
 
 The wind in the waiting teaches tenderness. Matthew 12:32 is a severe warning, and severe warnings should make the heart sober, not speculative. Jesus is not inviting anxious believers to torment themselves. He is warning against a hardened posture that calls the Spirit's witness evil and refuses truth while standing in its light.
 
@@ -180,7 +180,7 @@ The Spirit-filled heart stays soft enough to receive truth as mercy.
 
 **Scripture Reference:** Matthew 12:33
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' tree-and-fruit teaching because the passage centers on visible fruit flowing from the true condition of the life.
+**Context and language lens:** Jesus' tree-and-fruit teaching because the passage centers on visible fruit flowing from the true condition of the life.
 
 Fruit tells the truth about the tree. Matthew 12:33 brings the heart back to visible life. Daily filling is not proven by noise, claims, or spiritual vocabulary. It is seen in what grows.
 

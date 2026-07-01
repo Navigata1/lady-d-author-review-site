@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 15:39
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus sending the crowd away, entering the boat, and moving to Magadan because resurrection hope keeps the heart alive when one faithful season ends and the next crossing begins.
+**Context and language lens:** Jesus sending the crowd away, entering the boat, and moving to Magadan because resurrection hope keeps the heart alive when one faithful season ends and the next crossing begins.
 
 Matthew 15:39 is a movement verse. The crowd has been fed. Jesus sends them away, enters the boat, and goes on. Mercy does not become stagnation.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting hope rise when He leads forward.
 
 **Scripture Reference:** Matthew 16:17
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses Jesus blessing Peter because revelation from the Father becomes a place to abide, not a trophy to hold.
+**Context and language lens:** Jesus blessing Peter because revelation from the Father becomes a place to abide, not a trophy to hold.
 
 Matthew 16:17 shows Jesus blessing Peter for receiving what human cleverness could not produce. The Father has revealed truth, and Jesus names the grace in that moment.
 
@@ -70,7 +70,7 @@ Walking with Jesus means abiding in the light He has already given.
 
 **Scripture Reference:** Matthew 16:22
 
-**Production lens note:** The architecture assigns `splagchnizomai`; the production lens uses Peter resisting Jesus' suffering because compassion must be purified by the cross, not driven by fear of costly obedience.
+**Context and language lens:** Peter resisting Jesus' suffering because compassion must be purified by the cross, not driven by fear of costly obedience.
 
 Matthew 16:22 is a tender and dangerous moment. Peter reacts to Jesus' words about suffering. He means to protect, but he does not yet understand the way of the cross.
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting compassion become cross-shaped instead of fear-
 
 **Scripture Reference:** Matthew 16:25
 
-**Production lens note:** The architecture assigns `didaskalos`; the production lens uses Jesus' teaching about losing and finding life because the Teacher forms surrender deeper than self-preservation.
+**Context and language lens:** Jesus' teaching about losing and finding life because the Teacher forms surrender deeper than self-preservation.
 
 Matthew 16:25 cuts beneath surface religion. Jesus teaches that self-preservation cannot save the soul. Life is found by surrendering to Him.
 
@@ -126,7 +126,7 @@ Walking with Jesus means trusting the Teacher when surrender feels like loss.
 
 **Scripture Reference:** Matthew 16:28
 
-**Production lens note:** The architecture assigns `hodos`; the production lens uses Jesus' promise that some would see the Son of Man coming in His kingdom because the road with Him is strengthened by glimpses of coming glory.
+**Context and language lens:** Jesus' promise that some would see the Son of Man coming in His kingdom because the road with Him is strengthened by glimpses of coming glory.
 
 Matthew 16:28 gives the disciples a forward-looking word. Jesus speaks of coming kingdom glory after calling them into costly discipleship. The road is hard, but it is not empty.
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting coming glory steady present obedience.
 
 **Scripture Reference:** Matthew 16:6
 
-**Production lens note:** The architecture assigns `anastasis`; the production lens uses Jesus warning about leaven because resurrection hope includes alertness to hidden influence that can quietly reshape the heart.
+**Context and language lens:** Jesus warning about leaven because resurrection hope includes alertness to hidden influence that can quietly reshape the heart.
 
 Matthew 16:6 gives a warning. Jesus tells His disciples to watch for the leaven of the Pharisees and Sadducees. Small hidden influence can spread through the whole life.
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting hope become watchful.
 
 **Scripture Reference:** Matthew 16:7
 
-**Production lens note:** The architecture assigns `meno`; the production lens uses the disciples' bread-anxiety because abiding with Jesus steadies the heart when scarcity makes it misread His words.
+**Context and language lens:** The disciples' bread-anxiety because abiding with Jesus steadies the heart when scarcity makes it misread His words.
 
 Matthew 16:7 shows the disciples reasoning among themselves about bread. Jesus has spoken a warning, but their minds run toward what they forgot to bring. Scarcity can make the heart mishear.
 

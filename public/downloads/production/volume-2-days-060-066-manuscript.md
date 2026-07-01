@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 17:24
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the temple-tax question because peace with Jesus reaches public obligations, ordinary questions, and moments when faith is observed by others.
+**Context and language lens:** The temple-tax question because peace with Jesus reaches public obligations, ordinary questions, and moments when faith is observed by others.
 
 The nearness of Christ is not only for mountains, storms, and miracles. Matthew 17:24 brings Jesus and Peter into an ordinary question about the temple tax. The scene is practical, public, and easy to overlook. Yet the way of Jesus is formed in such ordinary places.
 
@@ -32,7 +32,7 @@ Walking with Jesus means letting His nearness enter ordinary obligations.
 
 **Journal prompt:** What ordinary obligation needs the nearness and peace of Jesus today?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Surrender to the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting His nearness enter ordinary obligations.
 
 **Scripture Reference:** Matthew 17:25
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' question to Peter because trusted Lordship teaches freedom, discernment, and conversation before reaction.
+**Context and language lens:** Jesus' question to Peter because trusted Lordship teaches freedom, discernment, and conversation before reaction.
 
 The way of peace often begins with Jesus asking a question. Matthew 17:25 shows Jesus speaking with Peter before the situation is handled outwardly. He does not rush past the heart to manage appearances. He teaches Peter how to think as a son under the Father's care.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting His Lordship teach freedom before action.
 
 **Journal prompt:** Where do I need Jesus to teach me how to think before I act?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Let Mercy Speak the Way of Peace in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting His Lordship teach freedom before action.
 
 **Scripture Reference:** Matthew 17:4
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Peter's desire to build shelters on the mountain because light exposes the temptation to preserve holy moments by control instead of receiving them with reverence.
+**Context and language lens:** Peter's desire to build shelters on the mountain because light exposes the temptation to preserve holy moments by control instead of receiving them with reverence.
 
 The table of grace includes moments we cannot control. Matthew 17:4 holds Peter's impulse during the transfiguration. He is near glory, overwhelmed by the moment, and eager to do something with what he sees. The desire is understandable, but the holy moment cannot be managed into safety.
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting His light turn holy overwhelm into reverent lis
 
 **Journal prompt:** Where am I trying to control a holy moment instead of receiving it with Jesus?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Breathe the Table of Grace in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting His light turn holy overwhelm into reverent lis
 
 **Scripture Reference:** Matthew 18:1
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses the disciples' greatness question because discipleship heals ambition by bringing ordinary status hunger into Jesus' kingdom teaching.
+**Context and language lens:** The disciples' greatness question because discipleship heals ambition by bringing ordinary status hunger into Jesus' kingdom teaching.
 
 The healing touch of Jesus reaches the desire to be important. Matthew 18:1 shows the disciples asking about greatness. It is an ordinary human question wearing religious clothing. Who is ahead? Who matters most? Who will be recognized?
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting discipleship heal the hunger to be first.
 
 **Journal prompt:** Where is the desire to be seen, ranked, or recognized shaping my ordinary choices?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Hold Fast to the Healing Touch in one faithful step today.
 
 ---
 
@@ -126,9 +126,9 @@ Walking with Jesus means letting discipleship heal the hunger to be first.
 
 **Scripture Reference:** Matthew 18:11
 
-**Production text note:** Matthew 18:11 has textual-placement differences across Bible editions. The production use treats the assigned reference as a rescue-focused saying for planning purposes, with final wording and placement to be confirmed during translation and permissions review.
+**Translation review note:** Matthew 18:11 has textual-placement differences across Bible editions. Treat this day as rescue-focused while final wording and placement are confirmed during translation and permissions review.
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the rescue of the lost because Jesus' saving wholeness reaches people who are overlooked, endangered, or dismissed.
+**Context and language lens:** The rescue of the lost because Jesus' saving wholeness reaches people who are overlooked, endangered, or dismissed.
 
 The call to follow brings the heart near the saving purpose of Jesus. Matthew 18:11, where included, points toward His mission to save the lost. Even with textual-placement review still ahead, the theme harmonizes with the surrounding chapter's concern for little ones, humility, and the Father's care.
 
@@ -146,7 +146,7 @@ Walking with Jesus means letting His rescue mission train ordinary attention.
 
 **Journal prompt:** Who might Jesus be asking me to notice, protect, or pray for today?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Return to the Call to Follow in one faithful step today.
 
 ---
 
@@ -156,7 +156,7 @@ Walking with Jesus means letting His rescue mission train ordinary attention.
 
 **Scripture Reference:** Matthew 19:14
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus welcoming children because peace in ordinary days makes room for vulnerable people instead of treating them as interruptions.
+**Context and language lens:** Jesus welcoming children because peace in ordinary days makes room for vulnerable people instead of treating them as interruptions.
 
 Cross-shaped courage makes room for the small, the dependent, and the overlooked. Matthew 19:14 shows Jesus welcoming children when others might have pushed them aside. His kingdom is not too important for vulnerable people. It belongs to such as these.
 
@@ -174,7 +174,7 @@ Walking with Jesus means receiving the vulnerable as welcomed by Him.
 
 **Journal prompt:** Where has hurry made me less welcoming to someone vulnerable or dependent?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Yield to Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -184,15 +184,15 @@ Walking with Jesus means receiving the vulnerable as welcomed by Him.
 
 **Scripture Reference:** Matthew 19:16
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the rich young man's question because trusted Lordship exposes performance religion and invites the heart beyond self-managed goodness.
+**Context and language lens:** The rich young man's question because trusted Lordship exposes self-managed religion and invites the heart beyond self-managed goodness.
 
 Resurrection hope must be anchored deeper than self-managed goodness. Matthew 19:16 brings a serious question to Jesus about eternal life. The question sounds spiritual, but it also reveals a heart looking for something it can do, measure, and perhaps control.
 
-Kyrios means Lord: trusted authority, not religious decoration. Jesus' Lordship exposes performance religion with mercy. He knows how to answer the question beneath the question. He does not flatter self-sufficiency. He invites surrender.
+Kyrios means Lord: trusted authority, not religious decoration. Jesus' Lordship exposes self-managed religion with mercy. He knows how to answer the question beneath the question. He does not flatter self-sufficiency. He invites surrender.
 
 This day falls on Saturday, the seventh-day Sabbath in the 2026 production calendar. Sabbath rest helps the heart release the need to prove goodness before God. Obedience matters, but it grows from grace, belonging, and surrender. It is never a purchase price for eternal life.
 
-Let the Spirit press this from information into formation. On this Sabbath, let Jesus question the places where you are trying to manage your worth by religious performance.
+Let the Spirit press this from information into formation. On this Sabbath, let Jesus question the places where you are trying to manage your worth by religious self-measuring.
 
 Walking with Jesus means resting from self-made righteousness and listening to the Lord who leads to life.
 
@@ -202,4 +202,4 @@ Walking with Jesus means resting from self-made righteousness and listening to t
 
 **Journal prompt:** Where am I trying to prove my worth instead of receiving Jesus' grace and following His call?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Anchor Resurrection Hope in one faithful step today.

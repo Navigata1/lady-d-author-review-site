@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 22:22
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses the named family line in Genesis 22:22 because the verse shows promise being carried through ordinary names before the next visible movement of the story.
+**Context and language lens:** The named family line in Genesis 22:22 because the verse shows promise being carried through ordinary names before the next visible movement of the story.
 
 Beloved identity can be hidden inside a list of names. Genesis 22:22 does not sound dramatic after the mountain, the ram, the oath, and the return. It gives names. It records family. It lets the reader see that God has been carrying the promise through lives that may look like background details.
 
@@ -34,7 +34,7 @@ Your identity is not measured by how loudly the moment announces you.
 
 **Journal prompt:** Where do I need to receive that the Father sees me even when my role feels quiet or hidden?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Stand in Beloved Identity into one faithful step today.
 
 ---
 
@@ -44,7 +44,7 @@ Your identity is not measured by how loudly the moment announces you.
 
 **Scripture Reference:** Genesis 22:23
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Rebekah being named before her later role is visible because the verse shows God preparing future mercy before the family can recognize it.
+**Context and language lens:** Rebekah being named before her later role is visible because the verse shows God preparing future mercy before the family can recognize it.
 
 Grace often forms love before the heart knows what it will need. Genesis 22:23 names Rebekah in a family report that arrives after Abraham's testing. At this point, her later connection to Isaac has not unfolded in the narrative. She is not introduced by a grand announcement. She is simply named inside a family line God has been tending.
 
@@ -64,7 +64,7 @@ Promises that do not fail are not only preserved by strength. They are also carr
 
 **Journal prompt:** Where might God be preparing grace before I can see the full connection?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Let Grace Form Love That Finds You into one faithful step today.
 
 ---
 
@@ -74,7 +74,7 @@ Promises that do not fail are not only preserved by strength. They are also carr
 
 **Scripture Reference:** Genesis 22:24
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Reumah and her children being named because the verse records people who could easily be overlooked and invites careful dignity instead of performance-based worth.
+**Context and language lens:** Reumah and her children being named because the verse records people who could easily be overlooked and invites careful dignity instead of performance-based worth.
 
 Grace before performance means the Father sees people before usefulness is proven. Genesis 22:24 names Reumah and her children. The verse sits at the edge of the family report, and it would be easy to pass over it quickly. Yet the names remain in the story.
 
@@ -92,9 +92,9 @@ Grace stands before performance and says, "You are seen before you are useful."
 
 **Prayer:** Father, teach me to behold grace before performance. Free me from measuring worth by visibility, and make me careful with the people others overlook. Amen.
 
-**Journal prompt:** Where has fear made me measure worth by visibility or performance?
+**Journal prompt:** Where has fear made me measure worth by visibility or outward achievement?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Behold Grace Before Striving into one faithful step today.
 
 ---
 
@@ -104,7 +104,7 @@ Grace stands before performance and says, "You are seen before you are useful."
 
 **Scripture Reference:** Genesis 28:3
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Isaac's blessing over Jacob because the verse centers on God-given fruitfulness, multiplication, and a people formed under divine promise.
+**Context and language lens:** Isaac's blessing over Jacob because the verse centers on God-given fruitfulness, multiplication, and a people formed under divine promise.
 
 Mercy in the morning can come as blessing spoken over a future the receiver cannot yet hold. Genesis 28:3 brings Isaac's blessing over Jacob as the story turns toward departure. The blessing reaches beyond one anxious moment. It asks the God of covenant promise to make a family fruitful and to gather a people.
 
@@ -124,7 +124,7 @@ On this Sabbath, let mercy order the morning. Rest before the Father as someone 
 
 **Journal prompt:** What pressure to manufacture fruitfulness do I need to surrender this Sabbath?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Follow Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -134,7 +134,7 @@ On this Sabbath, let mercy order the morning. Rest before the Father as someone 
 
 **Scripture Reference:** Genesis 28:4
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses the blessing of Abraham and the promised inheritance because the verse centers on covenant belonging, sojourners held by promise, and the Father patiently carrying inheritance across generations.
+**Context and language lens:** The blessing of Abraham and the promised inheritance because the verse centers on covenant belonging, sojourners held by promise, and the Father patiently carrying inheritance across generations.
 
 The Father's patience can hold an inheritance before it looks settled. Genesis 28:4 continues the blessing by reaching back to Abraham and forward to Jacob's descendants. The promise includes land where the family has lived as sojourners. It is a word spoken over people who do not yet possess everything God has promised.
 
@@ -154,7 +154,7 @@ The temporary place is not proof that the promise failed.
 
 **Journal prompt:** Where am I tempted to despise a temporary season instead of trusting the Father's patient promise?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Rest in the Father's Patience into one faithful step today.
 
 ---
 
@@ -164,7 +164,7 @@ The temporary place is not proof that the promise failed.
 
 **Scripture Reference:** Genesis 28:5
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Isaac sending Jacob to Paddan-aram and the family connection to Bethuel, Rebekah, and Laban because the verse shows faithfulness guiding the next step through prepared relationships.
+**Context and language lens:** Isaac sending Jacob to Paddan-aram and the family connection to Bethuel, Rebekah, and Laban because the verse shows faithfulness guiding the next step through prepared relationships.
 
 Love stronger than fear may still send you on a road you did not plan. Genesis 28:5 shows Jacob being sent toward Paddan-aram, toward Laban, and toward the family line already named earlier. The promise does not remain abstract. It begins to take shape through movement, kinship, and obedience.
 
@@ -184,7 +184,7 @@ The Father's love is stronger than fear because He sees the road ahead and the r
 
 **Journal prompt:** What prepared thread from my past might God be connecting to the next step of obedience?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Wake Up to Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -194,7 +194,7 @@ The Father's love is stronger than fear because He sees the road ahead and the r
 
 **Scripture Reference:** Genesis 28:6
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Esau observing Isaac's blessing, Jacob's sending, and the command about covenant marriage because the verse centers on what the heart does with what it sees.
+**Context and language lens:** Esau observing Isaac's blessing, Jacob's sending, and the command about covenant marriage because the verse centers on what the heart does with what it sees.
 
 Restoring compassion sometimes begins when the heart lets what it sees become honest conviction. Genesis 28:6 shows Esau observing Isaac's blessing over Jacob, Jacob's sending, and the instruction attached to that blessing. The verse is full of noticing. He sees what happened. He sees the direction. He sees the family concern.
 
@@ -214,4 +214,4 @@ Ask for a heart that can notice truth without turning bitter.
 
 **Journal prompt:** What has God allowed me to see that is asking for a more surrendered response?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Let Fire Refine Restoring Compassion into one faithful step today.

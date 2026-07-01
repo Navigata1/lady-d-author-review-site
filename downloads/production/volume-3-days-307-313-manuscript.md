@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** 1 Samuel 10:4
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Saul receiving provision on the road after anointing. Power to witness is framed as set-apart receiving that does not confuse provision with ownership.
+**Context and language lens:** Saul receiving provision on the road after anointing. Power to witness is framed as set-apart receiving that does not confuse provision with ownership.
 
 1 Samuel 10:4 continues the road signs after Saul's anointing. He is met, greeted, and given what he needs for the way.
 
@@ -42,7 +42,7 @@ The Spirit forms freedom, fire, and holiness by setting provision apart for witn
 
 **Scripture Reference:** 1 Samuel 10:5
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Saul approaching a spiritually charged and politically tense place. The seal of belonging is framed as capacity to stay grounded when atmosphere, music, power, and pressure meet.
+**Context and language lens:** Saul approaching a spiritually charged and politically tense place. The seal of belonging is framed as capacity to stay grounded when atmosphere, music, power, and pressure meet.
 
 1 Samuel 10:5 places Saul near a significant place with visible spiritual activity and surrounding tension. The atmosphere is not casual.
 
@@ -70,7 +70,7 @@ The Spirit forms freedom, fire, and holiness by strengthening belonging in charg
 
 **Scripture Reference:** 1 Samuel 10:7
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses Samuel's instruction about responding when the appointed signs happen. Prayer beyond words is framed as cleansing readiness so freedom does not become impulsiveness.
+**Context and language lens:** Samuel's instruction about responding when the appointed signs happen. Prayer beyond words is framed as cleansing readiness so freedom does not become impulsiveness.
 
 1 Samuel 10:7 points Saul toward a moment when signs have confirmed the road. He will still need a clean heart for what comes next.
 
@@ -98,7 +98,7 @@ The Spirit forms freedom, fire, and holiness by cleansing readiness before actio
 
 **Scripture Reference:** 1 Samuel 10:8
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses Samuel's instruction to wait for appointed guidance. Wind in the waiting is framed as hearing God's nearness through restraint and timing.
+**Context and language lens:** Samuel's instruction to wait for appointed guidance. Wind in the waiting is framed as hearing God's nearness through restraint and timing.
 
 1 Samuel 10:8 gives Saul a waiting instruction. The calling has begun, but timing still matters.
 
@@ -126,7 +126,7 @@ The Spirit forms freedom, fire, and holiness by making God's nearness discernibl
 
 **Scripture Reference:** 1 Samuel 10:9
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses God changing Saul's heart and confirming the signs. Oil for the journey is framed as Spirit-breathed witness beginning with inward change.
+**Context and language lens:** God changing Saul's heart and confirming the signs. Oil for the journey is framed as Spirit-breathed witness beginning with inward change.
 
 1 Samuel 10:9 shows the turning of Saul's heart and the confirming of the signs. The journey changes from the inside before it is recognized from the outside.
 
@@ -154,7 +154,7 @@ The Spirit forms freedom, fire, and holiness by breathing witness from a changed
 
 **Scripture Reference:** 1 Samuel 10:11
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses public surprise at Saul among the prophets. Freedom in the Spirit is framed as set-apart identity when others are startled by change.
+**Context and language lens:** Public surprise at Saul among the prophets. Freedom in the Spirit is framed as set-apart identity when others are startled by change.
 
 1 Samuel 10:11 shows people reacting to Saul in a new context. They recognize him, but they do not know what to do with what they see.
 
@@ -182,7 +182,7 @@ The Spirit forms freedom, fire, and holiness by setting identity apart from old 
 
 **Scripture Reference:** 1 Samuel 10:12
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses the public question that follows Saul's changed behavior. The breath of God is framed as capacity to keep breathing when questions remain unresolved.
+**Context and language lens:** The public question that follows Saul's changed behavior. The breath of God is framed as capacity to keep breathing when questions remain unresolved.
 
 1 Samuel 10:12 leaves a question in the air. The people are trying to interpret what they have witnessed.
 

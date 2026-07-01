@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Revelation 5:9
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses the new song of redemption because Jesus teaches healing by showing the worth, cost, and reach of His saving work.
+**Context and language lens:** The new song of redemption because Jesus teaches healing by showing the worth, cost, and reach of His saving work.
 
 Revelation 5:9 brings worship to the Lamb who redeems. Heaven does not treat redemption as a small religious idea. It becomes a song.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting the song of redemption become stronger than the
 
 **Scripture Reference:** Matthew 10:10
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Jesus' sending instructions because the road with Jesus trains dependence, simplicity, and trust in His provision.
+**Context and language lens:** Jesus' sending instructions because the road with Jesus trains dependence, simplicity, and trust in His provision.
 
 Matthew 10:10 sits inside Jesus' sending of His disciples. He gives practical instructions that expose how easily the heart wants to carry more than obedience requires.
 
@@ -70,7 +70,7 @@ Walking with Jesus means following the Sender with enough trust to travel lighte
 
 **Scripture Reference:** Matthew 10:14
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Jesus' instruction about rejection because resurrection hope gives courage to release outcomes without losing obedience.
+**Context and language lens:** Jesus' instruction about rejection because resurrection hope gives courage to release outcomes without losing obedience.
 
 Matthew 10:14 acknowledges that not every place will receive the message or the messenger. Jesus prepares His disciples for rejection without making rejection their identity.
 
@@ -98,7 +98,7 @@ Walking with Jesus means releasing what refused grace while staying faithful to 
 
 **Scripture Reference:** Matthew 10:15
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' sober judgment language because abiding hope trusts God with justice instead of making the disciple carry final verdicts.
+**Context and language lens:** Jesus' sober judgment language because abiding hope trusts God with justice instead of making the disciple carry final verdicts.
 
 Matthew 10:15 carries sober weight. Jesus does not flatten truth to avoid discomfort. He reminds His followers that God sees, remembers, and judges rightly.
 
@@ -126,7 +126,7 @@ Walking with Jesus means remaining near enough to trust His justice and keep you
 
 **Scripture Reference:** Matthew 10:16
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Jesus sending disciples into danger with wisdom and innocence because His compassion prepares rather than flatters.
+**Context and language lens:** Jesus sending disciples into danger with wisdom and innocence because His compassion prepares rather than flatters.
 
 Matthew 10:16 is tender and realistic. Jesus sends His disciples with eyes open. He does not confuse faith with naivete.
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting the compassionate Friend train both your courag
 
 **Scripture Reference:** Matthew 10:17
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' warning about councils and opposition because the Teacher forms steadiness before pressure arrives.
+**Context and language lens:** Jesus' warning about councils and opposition because the Teacher forms steadiness before pressure arrives.
 
 Matthew 10:17 warns the disciples that faithfulness may bring them before hostile rooms. Jesus is not frightening them. He is preparing them.
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting the Teacher's warning become steadiness, not fe
 
 **Scripture Reference:** Matthew 10:18
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Jesus' promise of witness before rulers and nations because the road with Jesus can turn pressure into testimony.
+**Context and language lens:** Jesus' promise of witness before rulers and nations because the road with Jesus can turn pressure into testimony.
 
 Matthew 10:18 tells the disciples that opposition can become witness. The setting may be intimidating, but Jesus sees more than intimidation. He sees testimony.
 

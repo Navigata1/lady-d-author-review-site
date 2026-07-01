@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 15:4
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses `lo yirashkha zeh ki-im asher yetze mime'ekha hu yirashkha` - the servant will not be Abram's heir, but one from Abram's own body will inherit - because the verse centers on God's direct answer to a named fear, not redemption language in the abstract.
+**Context and language lens:** `lo yirashkha zeh ki-im asher yetze mime'ekha hu yirashkha` - the servant will not be Abram's heir, but one from Abram's own body will inherit - because the verse centers on God's direct answer to a named fear, not redemption language in the abstract.
 
 Hope rises when grace answers the fear you were brave enough to name. Genesis 15:4 comes after Abram has spoken honestly about the gap between promise and present reality. He has named the ache. He has named the practical concern. God does not turn away from that honesty.
 
@@ -34,7 +34,7 @@ Grace before performance means you are allowed to hope because God has spoken, n
 
 **Journal prompt:** Where has fear been building a substitute plan because I am tired of waiting?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Let Hope Rise Grace Before Striving into one faithful step today.
 
 ---
 
@@ -44,7 +44,7 @@ Grace before performance means you are allowed to hope because God has spoken, n
 
 **Scripture Reference:** Genesis 15:5
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `habet-na hashamaymah usefor hakokhavim ... ko yihyeh zarekha` - God brings Abram outside, tells him to look toward heaven and count the stars if he can, and then ties the vision to Abram's future offspring - because the verse centers on God widening Abram's vision beyond what he can count.
+**Context and language lens:** `habet-na hashamaymah usefor hakokhavim ... ko yihyeh zarekha` - God brings Abram outside, tells him to look toward heaven and count the stars if he can, and then ties the vision to Abram's future offspring - because the verse centers on God widening Abram's vision beyond what he can count.
 
 Mercy sometimes walks you outside so you can see farther than the walls of your question. Genesis 15:5 is tender. God does not only answer Abram with information. He gives Abram a picture. The night sky becomes a mercy, a classroom, and a promise.
 
@@ -64,7 +64,7 @@ The Father can still lead you outside your own small frame. Carry mercy into the
 
 **Journal prompt:** Where has my view of the future become smaller than God's promise?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Carry Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -74,7 +74,7 @@ The Father can still lead you outside your own small frame. Carry mercy into the
 
 **Scripture Reference:** Genesis 15:6
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `vehe'emin baYHWH vayachsheveha lo tsedaqah` - Abram believed the Lord, and it was counted to him as righteousness - because the verse centers on trusting God's promise and receiving righteousness by faith.
+**Context and language lens:** `vehe'emin baYHWH vayachsheveha lo tsedaqah` - Abram believed the Lord, and it was counted to him as righteousness - because the verse centers on trusting God's promise and receiving righteousness by faith.
 
 The Father's patience teaches the heart to trust before it can see. Genesis 15:6 is one of the great quiet turns in Scripture. Abram hears God's promise, believes the Lord, and righteousness is counted to him. The verse is not about Abram performing his way into worthiness. It is about faith receiving what God speaks.
 
@@ -94,7 +94,7 @@ Let patience become worship. You do not have to manufacture a perfect heart. You
 
 **Journal prompt:** Where is God inviting me to trust His promise before I can see the outcome?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Lean Into the Father's Patience into one faithful step today.
 
 ---
 
@@ -104,7 +104,7 @@ Let patience become worship. You do not have to manufacture a perfect heart. You
 
 **Scripture Reference:** Genesis 15:7
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `ani YHWH asher hotzeitikha me'ur kasdim latet lekha et-ha'aretz hazot lerishtah` - the Lord identifies Himself as the One who brought Abram out of Ur to give him the land - because the verse centers on God's covenant identity, past leading, and promised inheritance.
+**Context and language lens:** `ani YHWH asher hotzeitikha me'ur kasdim latet lekha et-ha'aretz hazot lerishtah` - the Lord identifies Himself as the One who brought Abram out of Ur to give him the land - because the verse centers on God's covenant identity, past leading, and promised inheritance.
 
 Love stronger than fear reminds you who brought you this far. Genesis 15:7 is not merely a statement about land. It is God naming Himself through His past faithfulness. He is the Lord who brought Abram out. He is the One who began the journey. He is the One who still holds the inheritance promise.
 
@@ -124,7 +124,7 @@ The God who brought you out has not forgotten where He is taking you. His love i
 
 **Journal prompt:** What past faithfulness do I need to remember so fear does not define my future?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry See Again Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -134,7 +134,7 @@ The God who brought you out has not forgotten where He is taking you. His love i
 
 **Scripture Reference:** Genesis 15:8
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Abram's question `bamah eda ki irashennah` - how shall I know that I will inherit it? - because the verse centers on honest desire for assurance after God has reaffirmed the promise.
+**Context and language lens:** Abram's question `bamah eda ki irashennah` - how shall I know that I will inherit it? - because the verse centers on honest desire for assurance after God has reaffirmed the promise.
 
 Restoring compassion makes room for the question that still needs assurance. Genesis 15:8 comes after a strong word from God. Abram has believed. God has identified Himself. The promise has been spoken again. And still Abram asks how he will know.
 
@@ -154,7 +154,7 @@ Restoring compassion does not mock the need for reassurance. It brings that need
 
 **Journal prompt:** What assurance am I asking for, and what deeper need is underneath that question?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Love Teach Restoring Compassion into one faithful step today.
 
 ---
 
@@ -164,7 +164,7 @@ Restoring compassion does not mock the need for reassurance. It brings that need
 
 **Scripture Reference:** Genesis 15:9
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses God's covenant instruction to bring the specified animals - heifer, goat, ram, turtledove, and young pigeon - because the verse centers on God initiating covenant preparation in response to Abram's need for assurance.
+**Context and language lens:** God's covenant instruction to bring the specified animals - heifer, goat, ram, turtledove, and young pigeon - because the verse centers on God initiating covenant preparation in response to Abram's need for assurance.
 
 The promise that holds us often awakens obedience one step at a time. Genesis 15:9 moves from Abram's question into God's instruction. God does not give a vague reassurance. He invites Abram into covenant preparation. Bring these. Prepare for what I am about to show you.
 
@@ -184,7 +184,7 @@ The Father's promise is holding more than your present can see. Let today's inst
 
 **Journal prompt:** What one concrete preparation may God be asking me to make today?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Awaken the Promise That Holds into one faithful step today.
 
 ---
 
@@ -194,7 +194,7 @@ The Father's promise is holding more than your present can see. Let today's inst
 
 **Scripture Reference:** Genesis 15:10
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Abram's response - he brings the animals, divides the larger ones, and arranges the pieces while leaving the birds undivided - because the verse centers on careful covenant preparation and patient obedience before the revelation is complete.
+**Context and language lens:** Abram's response - he brings the animals, divides the larger ones, and arranges the pieces while leaving the birds undivided - because the verse centers on careful covenant preparation and patient obedience before the revelation is complete.
 
 The heart that calls you may also call you into careful preparation. Genesis 15:10 is quiet, physical, and patient. Abram does what God instructed. He brings what was named. He prepares the pieces. He waits inside an unfinished covenant scene.
 
@@ -214,4 +214,4 @@ The Father who calls you is faithful in the details. Embrace His heart by prepar
 
 **Journal prompt:** Where is God asking me to prepare faithfully while I wait for Him to act?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Embrace the Heart That Calls You into one faithful step today.

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 1:28
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `vayevarekh otam Elohim/peru urevu/mil'u et-ha'aretz/vekhivshuha` - God blessed them, called them to be fruitful and multiply, fill the earth, and steward it - because the verse centers on blessing, vocation, and responsibility flowing from God's word.
+**Context and language lens:** `vayevarekh otam Elohim/peru urevu/mil'u et-ha'aretz/vekhivshuha` - God blessed them, called them to be fruitful and multiply, fill the earth, and steward it - because the verse centers on blessing, vocation, and responsibility flowing from God's word.
 
 Love that finds you does not leave you without a calling. Genesis 1:28 shows God blessing humankind and speaking fruitfulness, multiplication, filling, and stewardship. Before responsibility becomes a burden, it is first held inside blessing.
 
@@ -32,7 +32,7 @@ The day does not get to name you before God does. Let the Father's blessing spea
 
 **Journal prompt:** Where do I need to receive the Father's blessing before I carry responsibility today?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Receive Love That Finds You into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The day does not get to name you before God does. Let the Father's blessing spea
 
 **Scripture Reference:** Genesis 1:29
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `hinneh natatti lakhem et-kol-esev zorea zera/et-kol-ha'etz asher-bo peri-etz` - behold, I have given you every seed-bearing plant and every tree with fruit - because the verse centers on God's provision given before human striving.
+**Context and language lens:** `hinneh natatti lakhem et-kol-esev zorea zera/et-kol-ha'etz asher-bo peri-etz` - behold, I have given you every seed-bearing plant and every tree with fruit - because the verse centers on God's provision given before human striving.
 
 Grace before performance is written into the first provision. Genesis 1:29 shows God giving seed-bearing plants and fruit-bearing trees for food. The human family receives provision before they have harvested a field, built a storehouse, or earned a table.
 
@@ -58,9 +58,9 @@ Walk out of this page with courage, tenderness, and clarity. The Father is not o
 
 **Prayer:** Father, teach me to receive what You give. Restore grace before performance in me, and let provision become strength for faithful obedience. Amen.
 
-**Journal prompt:** Where do I resist receiving because I feel I must earn the right to need provision?
+**Journal prompt:** Where do I resist receiving because I feel I am unworthy of needing provision?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Trust Grace Before Striving into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walk out of this page with courage, tenderness, and clarity. The Father is not o
 
 **Scripture Reference:** Genesis 1:30
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses `ulekhol-chayyat ha'aretz/ulekhol-of hashamayim/kol-yereq esev le'okhlah/vayehi-khen` - to every living creature God gives green plants for food, and it was so - because the verse centers on God's care extending through creation.
+**Context and language lens:** `ulekhol-chayyat ha'aretz/ulekhol-of hashamayim/kol-yereq esev le'okhlah/vayehi-khen` - to every living creature God gives green plants for food, and it was so - because the verse centers on God's care extending through creation.
 
 Mercy in the morning becomes hope when you remember how wide the Father's care is. Genesis 1:30 extends provision to the living creatures of the earth, the birds of the heavens, and every creature with the breath of life. God is attentive to life beyond the small circle we can manage.
 
@@ -88,7 +88,7 @@ Receive the truth deeply enough that it changes your next decision. Mercy can me
 
 **Journal prompt:** What anxious need do I need to place under the Father's wide and attentive care?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Let Hope Rise Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Receive the truth deeply enough that it changes your next decision. Mercy can me
 
 **Scripture Reference:** Genesis 1:31
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses `wayyar Elohim et-kol-asher asah vehinneh tov me'od/vayehi erev vayehi boqer yom hashishi` - God saw everything He had made, and behold, it was very good; evening and morning, the sixth day - because the verse centers on God's complete assessment and patient completion.
+**Context and language lens:** `wayyar Elohim et-kol-asher asah vehinneh tov me'od/vayehi erev vayehi boqer yom hashishi` - God saw everything He had made, and behold, it was very good; evening and morning, the sixth day - because the verse centers on God's complete assessment and patient completion.
 
 The Father's patience can look at the whole work without anxious alarm. Genesis 1:31 says God saw everything He had made, and it was very good. The sixth day closes with evening and morning. Nothing in the text feels frantic, ashamed, or unfinished in God's hands.
 
@@ -116,7 +116,7 @@ Carry this like bread for the road, not decoration for the shelf. The God who se
 
 **Journal prompt:** Where have I been judging the whole story from one unfinished page?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Carry the Father's Patience into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Carry this like bread for the road, not decoration for the shelf. The God who se
 
 **Scripture Reference:** Genesis 12:2
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses `ve'e'esekha legoy gadol/va'avarekhekha/va'agaddelah shemekha/vehyeh berakhah` - I will make you a great nation, bless you, make your name great, and you shall be a blessing - because the verse centers on God's promise initiating Abram's future.
+**Context and language lens:** `ve'e'esekha legoy gadol/va'avarekhekha/va'agaddelah shemekha/vehyeh berakhah` - I will make you a great nation, bless you, make your name great, and you shall be a blessing - because the verse centers on God's promise initiating Abram's future.
 
 Love stronger than fear often begins with a promise you cannot yet see. Genesis 12:2 moves from creation's completed goodness into Abram's called future. God speaks blessing, enlargement, name, and purpose before Abram can hold the outcome in his hands.
 
@@ -144,7 +144,7 @@ Let this word give your morning a spine and your heart a place to rest. The Fath
 
 **Journal prompt:** What promise am I trying to secure by control instead of trusting the Father to hold it?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Lean Into Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Let this word give your morning a spine and your heart a place to rest. The Fath
 
 **Scripture Reference:** Genesis 12:3
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses `va'avarekha mevarakhekha/venivreku vekha kol mishpechot ha'adamah` - I will bless those who bless you, and in you all families of the earth shall be blessed - because the verse centers on blessing extending outward through Abram's calling.
+**Context and language lens:** `va'avarekha mevarakhekha/venivreku vekha kol mishpechot ha'adamah` - I will bless those who bless you, and in you all families of the earth shall be blessed - because the verse centers on blessing extending outward through Abram's calling.
 
 Restoring compassion helps you see that God's blessing is never meant to stop with you. Genesis 12:3 widens Abram's promise until all the families of the earth are in view. The Father's heart is personal, but never selfish.
 
@@ -172,7 +172,7 @@ The day does not get to name you before God does. Let the Father's compassion re
 
 **Journal prompt:** Where has pain narrowed my sight, and how is the Father inviting me to bless wisely again?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry See Again Restoring Compassion into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The day does not get to name you before God does. Let the Father's compassion re
 
 **Scripture Reference:** Genesis 12:4
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses `vayelekh Avram ka'asher dibber elav YHWH` - Abram went as the Lord had spoken to him - because the verse centers on promise becoming obedient movement.
+**Context and language lens:** `vayelekh Avram ka'asher dibber elav YHWH` - Abram went as the Lord had spoken to him - because the verse centers on promise becoming obedient movement.
 
 The promise that holds you is meant to teach your feet. Genesis 12:4 says Abram went as the Lord had spoken to him. Promise did not remain a beautiful idea. It became movement, obedience, departure, and trust.
 
@@ -200,4 +200,4 @@ Walk out of this page with courage, tenderness, and clarity. On this Saturday Sa
 
 **Journal prompt:** What promise is the Father asking me to rest in, and what next step is love teaching me to take?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Let Love Teach the Promise That Holds into one faithful step today.

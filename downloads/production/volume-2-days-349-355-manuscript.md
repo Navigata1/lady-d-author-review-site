@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 12:16
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses Jesus' charge not to make Him known because His Lordship is not controlled by publicity, pressure, or human timing.
+**Context and language lens:** Jesus' charge not to make Him known because His Lordship is not controlled by publicity, pressure, or human timing.
 
 Matthew 12:16 shows Jesus directing the response to His works. He is not driven by exposure. He moves under the Father's purpose.
 
@@ -42,7 +42,7 @@ Walking with Jesus means trusting the Lord's timing more than the pressure to be
 
 **Scripture Reference:** Matthew 12:17
 
-**Production lens note:** The architecture assigns phos; the production lens uses Matthew's fulfillment marker because God's revealed purpose gives direction beneath the visible moment.
+**Context and language lens:** Matthew's fulfillment marker because God's revealed purpose gives direction beneath the visible moment.
 
 Matthew 12:17 signals that what happens in Jesus is not random. The Gospel writer points the reader back to God's revealed purpose.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting God's revealed purpose give direction beneath o
 
 **Scripture Reference:** Matthew 12:18
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses the chosen Servant language because following Jesus means receiving His servant-shaped way of justice and Spirit-filled obedience.
+**Context and language lens:** The chosen Servant language because following Jesus means receiving His servant-shaped way of justice and Spirit-filled obedience.
 
 Matthew 12:18 centers the beloved Servant, chosen by God, filled with the Spirit, and appointed to bring justice.
 
@@ -98,7 +98,7 @@ Walking with Jesus means following the beloved Servant into Spirit-filled witnes
 
 **Scripture Reference:** Matthew 12:19
 
-**Production lens note:** The architecture assigns sozo; the production lens uses the Servant's refusal to quarrel or cry out because saving wholeness can be strong without being loud.
+**Context and language lens:** The Servant's refusal to quarrel or cry out because saving wholeness can be strong without being loud.
 
 Matthew 12:19 describes a Servant who does not build His mission on public quarrel or noise. His strength is not measured by volume.
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting saving wholeness make your witness both strong 
 
 **Scripture Reference:** Matthew 12:20
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the bruised reed and dim wick imagery because Christ's peace handles fragile people with restoring gentleness.
+**Context and language lens:** The bruised reed and dim wick imagery because Christ's peace handles fragile people with restoring gentleness.
 
 Matthew 12:20 reveals the Servant's gentleness. He does not crush what is already bruised or snuff out what is barely burning.
 
@@ -154,7 +154,7 @@ Walking with Jesus means resting at the table of grace where fragile places are 
 
 **Scripture Reference:** Matthew 12:21
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses the promise of hope in His name because trusted Lordship becomes healing hope for more people than the disciple first imagined.
+**Context and language lens:** The promise of hope in His name because trusted Lordship becomes healing hope for more people than the disciple first imagined.
 
 Matthew 12:21 widens the promise. Hope is attached to His name, and that hope reaches beyond expected borders.
 
@@ -182,7 +182,7 @@ Walking with Jesus means bearing witness to a Lord whose name carries hope beyon
 
 **Scripture Reference:** Matthew 12:24
 
-**Production lens note:** The architecture assigns phos; the production lens uses the accusation against Jesus because light exposes the fear that calls God's work by the wrong name.
+**Context and language lens:** The accusation against Jesus because light exposes the fear that calls God's work by the wrong name.
 
 Matthew 12:24 shows religious leaders misnaming the work of Jesus. When a heart is threatened, it can call light darkness.
 

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Deuteronomy 30:2
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `shuv/shama/levav` - return, listen, and heart - because the passage calls God's people to return to Him and obey with heart and soul.
+**Context and language lens:** `shuv/shama/levav` - return, listen, and heart - because the passage calls God's people to return to Him and obey with heart and soul.
 
 Beloved identity begins with the mercy of return. Deuteronomy 30:2 does not treat God's people as disposable because they have wandered. It calls them back with the whole heart and soul. That means identity is not built on never needing mercy. It is built on belonging to the Father who still calls His children home.
 
@@ -40,7 +40,7 @@ Today, behold the promise that holds: you can return. Not as a stranger begging 
 
 **Scripture Reference:** Deuteronomy 30:3
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `shuv/racham/qabats` - restore, have compassion, and gather - because the verse speaks of God restoring, showing compassion, and gathering His people.
+**Context and language lens:** `shuv/racham/qabats` - restore, have compassion, and gather - because the verse speaks of God restoring, showing compassion, and gathering His people.
 
 The Father's heart does not only call from a distance. It gathers. Deuteronomy 30:3 carries the tenderness of restoration: God turns captivity, has compassion, and gathers His scattered people. Beloved identity is not a self-made confidence. It is the knowledge that the Father knows how to gather what has been scattered.
 
@@ -66,7 +66,7 @@ This is a gentle correction to fear. Fear says, "Too much has been lost." The Fa
 
 **Scripture Reference:** Deuteronomy 30:5
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `bo/yarash/tov/rabah` - bring in, possess, do good, and multiply - because the verse speaks of God bringing His people into promise and doing them good.
+**Context and language lens:** `bo/yarash/tov/rabah` - bring in, possess, do good, and multiply - because the verse speaks of God bringing His people into promise and doing them good.
 
 Beloved identity is not passive. It rests in love and then moves where love sends. Deuteronomy 30:5 speaks of the Lord bringing His people into the land and doing them good. The movement begins with God. He brings, restores, and gives a future. The people are not inventing identity from emptiness; they are receiving life from covenant love.
 
@@ -92,7 +92,7 @@ There is also humility here. Promise is not possession for pride. If God brings 
 
 **Scripture Reference:** Deuteronomy 30:9
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `sus/maaseh/tov` - rejoice, work, and good - because the passage shows the Lord delighting again in doing good and blessing the work of His people's lives.
+**Context and language lens:** `sus/maaseh/tov` - rejoice, work, and good - because the passage shows the Lord delighting again in doing good and blessing the work of His people's lives.
 
 Covenant mercy can be hard to receive when the heart has learned to expect disappointment. Deuteronomy 30:9 gives a picture of the Lord delighting again in doing good to His people. This does not turn God into a vending machine for easy outcomes. It reveals something about His heart: He is not reluctant to bless what He is restoring.
 
@@ -118,7 +118,7 @@ Wake up to mercy by letting God be kinder than your fear has allowed Him to be. 
 
 **Scripture Reference:** Deuteronomy 31:16
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `zanah/azav/berit` - unfaithfulness, forsaking, and covenant - because the verse warns of covenant betrayal after Moses' death.
+**Context and language lens:** `zanah/azav/berit` - unfaithfulness, forsaking, and covenant - because the verse warns of covenant betrayal after Moses' death.
 
 The Father's welcome is not fragile, but it is holy. Deuteronomy 31:16 is a serious warning. God names the danger of a people who will turn after other gods, forsake Him, and break covenant. This is not comfortable language, but beloved identity must be strong enough to hear truth.
 
@@ -144,7 +144,7 @@ This is why warning and love belong together. A welcomed child still needs corre
 
 **Scripture Reference:** Deuteronomy 31:20
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `saba/panah/naats/parar berit` - fullness, turning, spurning, and breaking covenant - because the passage warns that fullness can become forgetfulness if the heart turns away.
+**Context and language lens:** `saba/panah/naats/parar berit` - fullness, turning, spurning, and breaking covenant - because the passage warns that fullness can become forgetfulness if the heart turns away.
 
 Sometimes the greatest test of beloved identity is not lack, but fullness. Deuteronomy 31:20 warns that when the people enter a good land and are satisfied, their hearts may turn after other gods and treat the covenant lightly. This is a mercy to hear before blessing becomes a distraction.
 
@@ -170,7 +170,7 @@ This is a beautiful discipline: to receive good without drifting, to enjoy bless
 
 **Scripture Reference:** Deuteronomy 4:1
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `shama/chayah/bo` - listen, live, and enter - because the verse calls Israel to hear God's statutes so they may live and enter what He is giving.
+**Context and language lens:** `shama/chayah/bo` - listen, live, and enter - because the verse calls Israel to hear God's statutes so they may live and enter what He is giving.
 
 Love that finds you also teaches you how to live. Deuteronomy 4:1 begins with listening. The people are called to hear the Lord's statutes and judgments so they may live and enter the promise. Beloved identity does not separate being loved from being taught. The Father who finds us also forms us.
 

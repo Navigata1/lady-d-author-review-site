@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Revelation 3:10
 
-**Production lens note:** The architecture assigns meno; the production lens uses Christ's call to patient endurance because remaining with Jesus is tested most clearly when pressure tries to rename obedience as weakness.
+**Context and language lens:** Christ's call to patient endurance because remaining with Jesus is tested most clearly when pressure tries to rename obedience as weakness.
 
 Revelation 3:10 speaks to endurance, protection, and the keeping power of Christ. Jesus does not pretend His people will never face strain. He speaks as the One who knows how to keep what belongs to Him.
 
@@ -42,7 +42,7 @@ Walking with Jesus means remaining with Him when endurance becomes the place whe
 
 **Scripture Reference:** Revelation 3:11
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Christ's nearness and the call to hold fast because His compassionate urgency protects hope from drift.
+**Context and language lens:** Christ's nearness and the call to hold fast because His compassionate urgency protects hope from drift.
 
 Revelation 3:11 carries urgency without panic. Jesus speaks of His coming and calls His people to hold fast.
 
@@ -70,7 +70,7 @@ Walking with Jesus means holding fast to what He has placed in your life until H
 
 **Scripture Reference:** Revelation 3:12
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses the promise of being made a pillar and bearing God's name because Jesus the Teacher forms identity strong enough to stand.
+**Context and language lens:** The promise of being made a pillar and bearing God's name because Jesus the Teacher forms identity strong enough to stand.
 
 Revelation 3:12 gives language of stability, belonging, and a name received from God. The promise is not self-invention. It is identity given by Christ.
 
@@ -98,7 +98,7 @@ Walking with Jesus means receiving identity from the Shepherd's voice until His 
 
 **Scripture Reference:** Revelation 3:20
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Christ at the door and the shared meal because the road with Jesus begins again wherever the heart opens to His presence.
+**Context and language lens:** Christ at the door and the shared meal because the road with Jesus begins again wherever the heart opens to His presence.
 
 Revelation 3:20 is intimate, searching, and hopeful. Jesus does not stand far off with cold assessment. He comes near enough to knock and personal enough to share the table.
 
@@ -126,7 +126,7 @@ Walking with Jesus means opening the hidden room and letting fellowship become t
 
 **Scripture Reference:** Revelation 3:21
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Christ's overcoming and shared throne because resurrection hope joins victory to intimacy with the risen Lord.
+**Context and language lens:** Christ's overcoming and shared throne because resurrection hope joins victory to intimacy with the risen Lord.
 
 Revelation 3:21 speaks of overcoming with Christ and sharing in His victory. The promise is breathtaking, but it is not detached from the way Jesus overcame.
 
@@ -154,7 +154,7 @@ Walking with Jesus means drawing near to the risen Overcomer until His victory b
 
 **Scripture Reference:** Revelation 3:3
 
-**Production lens note:** The architecture assigns meno; the production lens uses Christ's call to remember, keep, and repent because abiding peace includes holy wakefulness.
+**Context and language lens:** Christ's call to remember, keep, and repent because abiding peace includes holy wakefulness.
 
 Revelation 3:3 calls the church to remember what was received, to keep it, and to turn back. Jesus loves His people enough to wake them before sleep becomes loss.
 
@@ -182,7 +182,7 @@ Walking with Jesus means letting His wake-up call lead you back to received trut
 
 **Scripture Reference:** Revelation 3:9
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Christ's promise to vindicate His beloved people because His compassion is strong enough to answer contempt without making the heart bitter.
+**Context and language lens:** Christ's promise to vindicate His beloved people because His compassion is strong enough to answer contempt without making the heart bitter.
 
 Revelation 3:9 speaks to a people who have been misread, opposed, and belittled. Jesus sees the truth, and He knows how to vindicate what belongs to Him.
 

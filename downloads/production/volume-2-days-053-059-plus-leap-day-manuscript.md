@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 16:5
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the disciples' forgotten bread because trusted Lordship meets ordinary lack, practical oversight, and the anxiety that follows.
+**Context and language lens:** The disciples' forgotten bread because trusted Lordship meets ordinary lack, practical oversight, and the anxiety that follows.
 
 The healing touch of Jesus reaches even into ordinary forgetfulness. Matthew 16:5 is not dramatic at first glance. The disciples cross over and realize bread has been left behind. It is the kind of small practical failure that can quickly become worry, blame, or self-reproach.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting His Lordship steady ordinary lack before worry 
 
 **Scripture Reference:** Matthew 16:8
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Jesus exposing anxious discussion about bread because light reveals when the heart has forgotten remembered provision.
+**Context and language lens:** Jesus exposing anxious discussion about bread because light reveals when the heart has forgotten remembered provision.
 
 The call to follow includes letting Jesus expose anxious conversations. Matthew 16:8 shows Him discerning the disciples' concern. Their discussion about bread is not hidden from Him. He sees the fear under the words.
 
@@ -70,7 +70,7 @@ Walking with Jesus means allowing His light to correct forgetful fear.
 
 **Scripture Reference:** Matthew 17:10
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses the disciples' question about Elijah because discipleship brings sincere questions to Jesus instead of hiding confusion behind religious confidence.
+**Context and language lens:** The disciples' question about Elijah because discipleship brings sincere questions to Jesus instead of hiding confusion behind religious confidence.
 
 Cross-shaped courage is honest enough to ask Jesus real questions. Matthew 17:10 comes after glory on the mountain. The disciples have seen what they cannot fully understand, and they bring a question to Him about what they have been taught.
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting honest questions remain near Him.
 
 **Scripture Reference:** Matthew 17:11
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' word about restoration because saving wholeness includes God's promise to restore what sin, confusion, and disorder have damaged.
+**Context and language lens:** Jesus' word about restoration because saving wholeness includes God's promise to restore what sin, confusion, and disorder have damaged.
 
 Resurrection hope remembers that Jesus speaks restoration into places that look tangled. Matthew 17:11 points to a restoring work in God's plan. Before the disciples can understand every detail, Jesus gives them a word that carries hope: God is not careless with what has been broken.
 
@@ -126,7 +126,7 @@ Walking with Jesus means trusting the Savior who restores what brokenness tried 
 
 **Scripture Reference:** Matthew 17:12
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus' teaching about unrecognized mission and suffering because peace is formed when the heart trusts Him through misunderstanding and costly obedience.
+**Context and language lens:** Jesus' teaching about unrecognized mission and suffering because peace is formed when the heart trusts Him through misunderstanding and costly obedience.
 
 The Friend who leads does not hide that faithful paths can be misunderstood. Matthew 17:12 speaks of recognition missed, God's messenger mistreated, and the suffering path of the Son of Man. Jesus is helping the disciples see that God's work is not always welcomed by the world.
 
@@ -154,7 +154,7 @@ Walking with Jesus means receiving His peace when faithfulness is misunderstood.
 
 **Scripture Reference:** Matthew 17:15
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the father's plea for mercy because trusted Lordship welcomes family pain, helpless love, and suffering brought honestly to Jesus.
+**Context and language lens:** The father's plea for mercy because trusted Lordship welcomes family pain, helpless love, and suffering brought honestly to Jesus.
 
 Peace leads the path when family pain is brought to Jesus without pretending. Matthew 17:15 holds the voice of a father asking for mercy for his suffering son. He is not presenting a theory. He is carrying pain, helplessness, and love.
 
@@ -182,7 +182,7 @@ Walking with Jesus means carrying loved ones to the Lord without carrying the ro
 
 **Scripture Reference:** Matthew 17:19
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses the disciples' private question after failure because light creates teachable space where shame could have created hiding.
+**Context and language lens:** The disciples' private question after failure because light creates teachable space where shame could have created hiding.
 
 The invitation of Jesus includes private teachability after public weakness. Matthew 17:19 shows the disciples coming to Jesus with a question about their inability. They do not have to pretend the failure did not happen. They bring it near enough to learn.
 
@@ -210,7 +210,7 @@ Walking with Jesus means letting His light turn failure into teachable nearness.
 
 **Scripture Reference:** Matthew 17:22
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus preparing His disciples for betrayal and suffering because following Him includes staying near through hard truth, not only glorious moments.
+**Context and language lens:** Jesus preparing His disciples for betrayal and suffering because following Him includes staying near through hard truth, not only glorious moments.
 
 Grace for the extra day gives the heart room to hear hard truth with Jesus. Matthew 17:22 comes after glory, questions, restoration language, and healing need. Jesus again prepares His disciples for what is coming. The road with Him includes truth they would not have chosen.
 

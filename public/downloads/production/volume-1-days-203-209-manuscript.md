@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 15:19
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses the first named peoples in the promised land list - the Kenites, Kenizzites, and Kadmonites - because the verse centers on God's specific covenant promise, not love as a general idea.
+**Context and language lens:** The first named peoples in the promised land list - the Kenites, Kenizzites, and Kadmonites - because the verse centers on God's specific covenant promise, not love as a general idea.
 
 The Father's patience is never vague. Genesis 15:19 begins a list of peoples connected to the land God names in His covenant promise. It can be easy to rush past a list, but lists in Scripture often carry holy weight. God is not giving Abram a misty promise. He is naming a real inheritance in a real world.
 
@@ -34,7 +34,7 @@ The Father is patient, but He is not uncertain. Behold Him there. The One who na
 
 **Journal prompt:** What detail has God already made clear while I am still waiting for fuller possession?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Behold the Father's Patience into one faithful step today.
 
 ---
 
@@ -44,7 +44,7 @@ The Father is patient, but He is not uncertain. Behold Him there. The One who na
 
 **Scripture Reference:** Genesis 15:20
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses the next named peoples in the land list - the Hittites, Perizzites, and Rephaim - because the verse centers on God naming the occupied and contested places within the promise.
+**Context and language lens:** The next named peoples in the land list - the Hittites, Perizzites, and Rephaim - because the verse centers on God naming the occupied and contested places within the promise.
 
 Love stronger than fear does not need the difficult places to be unnamed. Genesis 15:20 continues the land list. More peoples are named. More reality is brought into the covenant promise. God does not speak as though Abram's future is free of complexity. He names the contested places and still calls them within the scope of promise.
 
@@ -64,7 +64,7 @@ Follow that love today. Let the named place become a place of surrender, not a t
 
 **Journal prompt:** What difficult place needs to be named honestly before God instead of left vague in fear?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Follow Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -74,7 +74,7 @@ Follow that love today. Let the named place become a place of surrender, not a t
 
 **Scripture Reference:** Genesis 15:21
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses the closing peoples in the land list - the Amorites, Canaanites, Girgashites, and Jebusites - because the verse completes the covenant inheritance boundary and shows the reliability of God's named promise.
+**Context and language lens:** The closing peoples in the land list - the Amorites, Canaanites, Girgashites, and Jebusites - because the verse completes the covenant inheritance boundary and shows the reliability of God's named promise.
 
 Restoring compassion lets the heart breathe when the promise still feels crowded by obstacles. Genesis 15:21 completes the list. The covenant word has not avoided the complexity. God names the land with all its present occupants and still speaks promise over Abram's future.
 
@@ -94,7 +94,7 @@ The Father's compassion restores the heart by reminding it that His promise has 
 
 **Journal prompt:** What concern has felt endless, and how might God be asking me to see it as bounded under His care?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Rest in Restoring Compassion into one faithful step today.
 
 ---
 
@@ -104,7 +104,7 @@ The Father's compassion restores the heart by reminding it that His promise has 
 
 **Scripture Reference:** Genesis 17:1
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses Abram's age, the Lord's appearance, `ani El Shaddai`, and the call to walk before God and be blameless because the verse centers on God's sustaining identity and Abram's whole-hearted covenant walk after long waiting.
+**Context and language lens:** Abram's age, the Lord's appearance, `ani El Shaddai`, and the call to walk before God and be blameless because the verse centers on God's sustaining identity and Abram's whole-hearted covenant walk after long waiting.
 
 The promise that holds you can wake you up again after years of waiting. Genesis 17:1 opens with Abram ninety-nine years old. Time has passed. The promise has not been forgotten. The Lord appears and names Himself as God Almighty, then calls Abram to walk before Him and be whole.
 
@@ -124,7 +124,7 @@ The promise still holds because the Almighty God holds it. Rest in Him, then ris
 
 **Journal prompt:** Where has long waiting made me forget that God is still strong enough to sustain His promise?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Wake Up to the Promise That Holds into one faithful step today.
 
 ---
 
@@ -134,7 +134,7 @@ The promise still holds because the Almighty God holds it. Rest in Him, then ris
 
 **Scripture Reference:** Genesis 17:2
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses God's promise to give or establish covenant between Himself and Abram and to multiply Abram greatly because the verse centers on covenant initiative and fruitful promise.
+**Context and language lens:** God's promise to give or establish covenant between Himself and Abram and to multiply Abram greatly because the verse centers on covenant initiative and fruitful promise.
 
 The heart that calls you is not calling you into barrenness. Genesis 17:2 follows God's self-revelation with covenant promise. God says He will establish covenant between Himself and Abram and multiply him greatly. The promise is personal, relational, and fruitful.
 
@@ -154,7 +154,7 @@ The heart that calls you knows what He can make fruitful. Trust Him enough to le
 
 **Journal prompt:** What expectation has fear made smaller than God's covenant promise?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Let Fire Refine the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -164,7 +164,7 @@ The heart that calls you knows what He can make fruitful. Trust Him enough to le
 
 **Scripture Reference:** Genesis 17:3
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Abram falling on his face while God speaks with him because the verse centers on reverent surrender before the God who comes near and speaks.
+**Context and language lens:** Abram falling on his face while God speaks with him because the verse centers on reverent surrender before the God who comes near and speaks.
 
 Love that sends you first brings you low in the best way. Genesis 17:3 shows Abram falling on his face as God speaks with him. This is not humiliation without tenderness. It is reverence. It is the body telling the truth before the holy God who has come near.
 
@@ -184,7 +184,7 @@ The love that sends you into obedience also calls you home to worship. Fall out 
 
 **Journal prompt:** Where is God inviting me to bow in trust instead of standing guarded in control?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Come Home to Love That Sends You into one faithful step today.
 
 ---
 
@@ -194,7 +194,7 @@ The love that sends you into obedience also calls you home to worship. Fall out 
 
 **Scripture Reference:** Genesis 17:6
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses God's promise to make Abram exceedingly fruitful, bring nations from him, and bring kings from him because the verse centers on fruitful covenant multiplication rather than redemption language in the narrow sense.
+**Context and language lens:** God's promise to make Abram exceedingly fruitful, bring nations from him, and bring kings from him because the verse centers on fruitful covenant multiplication rather than redemption language in the narrow sense.
 
 Covenant mercy becomes practice when you stop measuring fruitfulness only by what today can see. Genesis 17:6 lifts Abram's eyes beyond one household and one moment. God speaks of fruitfulness, nations, and kings. The promise is larger than Abram's present evidence.
 
@@ -214,4 +214,4 @@ Do not despise the small faithful practice. Abram hears of nations while still s
 
 **Journal prompt:** What small act of mercy could become seed for fruitfulness I cannot yet see?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Practice Covenant Mercy into one faithful step today.

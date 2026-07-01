@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 24:42
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Jesus' call to watchfulness because following Him includes awake attention, not anxious speculation.
+**Context and language lens:** Jesus' call to watchfulness because following Him includes awake attention, not anxious speculation.
 
 The call to follow becomes refined when Jesus teaches watchfulness. Matthew 24:42 is not an invitation to panic. It is an invitation to stay awake to the Lord in ordinary life. Jesus does not train disciples to live frantic. He trains them to live attentive.
 
@@ -32,7 +32,7 @@ Walking with Jesus means staying awake to Him without becoming anxious about tom
 
 **Journal prompt:** Where has my attention drifted from Jesus, and what simple practice can help me wake up?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Let Fire Refine the Call to Follow in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means staying awake to Him without becoming anxious about tom
 
 **Scripture Reference:** Matthew 24:44
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' readiness command because saving wholeness prepares the heart through grace, not fear-driven urgency.
+**Context and language lens:** Jesus' readiness command because saving wholeness prepares the heart through grace, not fear-driven urgency.
 
 Cross-shaped courage is not denial of the future. It is readiness rooted in Jesus. Matthew 24:44 calls the disciple to be prepared because the Son of Man comes according to God's timing, not ours. The warning is serious, but it does not have to become panic.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting saving grace make you ready without making you 
 
 **Journal prompt:** What act of faithful readiness have I been postponing?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Come Home to Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -70,11 +70,11 @@ Walking with Jesus means letting saving grace make you ready without making you 
 
 **Scripture Reference:** Matthew 24:45
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus' picture of the faithful servant because peace becomes visible through steady responsibility while the Lord is awaited.
+**Context and language lens:** Jesus' picture of the faithful servant because peace becomes visible through steady responsibility while the Lord is awaited.
 
 Resurrection hope becomes practical in the way we serve. Matthew 24:45 turns watchfulness into stewardship. Jesus points toward the servant who is faithful with the household assignment. Readiness is not only looking up. It is also doing the entrusted work with love.
 
-Eirene is peace as wholeness in the presence of the Prince of Peace. Peace steadies responsibility. It keeps service from becoming frantic performance and keeps waiting from becoming laziness.
+Eirene is peace as wholeness in the presence of the Prince of Peace. Peace steadies responsibility. It keeps service from becoming frantic striving and keeps waiting from becoming laziness.
 
 Practice resurrection hope by honoring the assignment in front of you. The way in ordinary days includes meals, messages, work, caregiving, ministry, repairs, apologies, planning, and prayer. These are not interruptions to spiritual life. They are places where faithfulness becomes visible.
 
@@ -88,7 +88,7 @@ Walking with Jesus means waiting for Him through faithful service, not passive d
 
 **Journal prompt:** What ordinary responsibility is Jesus asking me to receive as holy stewardship?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Practice Resurrection Hope in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means waiting for Him through faithful service, not passive d
 
 **Scripture Reference:** Matthew 24:46
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus blessing the servant found faithful because trusted Lordship heals the split between belief and daily doing.
+**Context and language lens:** Jesus blessing the servant found faithful because trusted Lordship heals the split between belief and daily doing.
 
 Healing in His presence begins with a faithful life becoming whole. Matthew 24:46 blesses the servant found doing what was entrusted. Jesus is not asking for showy spirituality. He is naming the beauty of faithfulness that continues when no one is clapping.
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting His Lordship make belief and daily doing whole.
 
 **Journal prompt:** Where is Jesus inviting my inner yes and outer obedience to come back together?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Trust the Light on the Path in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting His Lordship make belief and daily doing whole.
 
 **Scripture Reference:** Matthew 24:5
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Jesus' warning about deceptive claims because light protects the wounded heart from voices that misuse His name.
+**Context and language lens:** Jesus' warning about deceptive claims because light protects the wounded heart from voices that misuse His name.
 
 The invitation of Jesus is clear enough to protect us from false voices. Matthew 24:5 warns that many will misuse His name and mislead people. Jesus does not say this to make the disciple suspicious of everyone. He says it because love tells the truth before harm grows.
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting His light guard your hope from counterfeit auth
 
 **Journal prompt:** What voice has been shaping me, and does it sound like the character of Jesus?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Let Hope Rise the Invitation in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting His light guard your hope from counterfeit auth
 
 **Scripture Reference:** Matthew 24:50
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses the unexpected return of the master because discipleship is formed in hidden faithfulness when timing is unknown.
+**Context and language lens:** The unexpected return of the master because discipleship is formed in hidden faithfulness when timing is unknown.
 
 The Shepherd's voice carries into the hidden hours. Matthew 24:50 warns about the master coming at an unexpected time. The point is not to make the disciple guess the schedule. The point is to reveal the heart when it thinks no one is watching.
 
@@ -172,7 +172,7 @@ Walking with Jesus means staying faithful when timing is unknown and motives are
 
 **Journal prompt:** How has waiting revealed my motives, and where is Jesus forming me?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Carry the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means staying faithful when timing is unknown and motives are
 
 **Scripture Reference:** Matthew 25:13
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' watchfulness command because saving readiness heals spiritual sleep into steady, Sabbath-shaped attention.
+**Context and language lens:** Jesus' watchfulness command because saving readiness heals spiritual sleep into steady, Sabbath-shaped attention.
 
 The road with Jesus is walked awake. Matthew 25:13 continues the call to watchfulness. Jesus does not reveal the timing so the heart can control it. He teaches the heart to stay ready because love is awake even when the hour is unknown.
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting Sabbath rest heal the heart into watchful love.
 
 **Journal prompt:** What does watchful love look like for me on this Sabbath?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Lean Into the Road with Jesus in one faithful step today.

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 14:33
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the disciples' worship after the storm because Jesus' saving rescue leads the heart from fear into surrendered recognition.
+**Context and language lens:** The disciples' worship after the storm because Jesus' saving rescue leads the heart from fear into surrendered recognition.
 
 The light on the path often becomes clearest after Jesus has carried us through what we could not control. Matthew 14:33 comes after wind, fear, rescue, and the settling presence of Christ. The disciples are not merely impressed by power. Their hearts are brought to worship.
 
@@ -32,7 +32,7 @@ Walking with Jesus means letting rescue mature into worship.
 
 **Journal prompt:** Where has Jesus rescued, steadied, or corrected me, and how can that mercy become worship today?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Discover the Light on the Path in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting rescue mature into worship.
 
 **Scripture Reference:** Matthew 15:22
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the Canaanite woman's desperate cry because peace begins when pain is carried toward the mercy of Jesus instead of hidden in isolation.
+**Context and language lens:** The Canaanite woman's desperate cry because peace begins when pain is carried toward the mercy of Jesus instead of hidden in isolation.
 
 The invitation of Jesus is wide enough for desperate prayer. Matthew 15:22 shows a woman crying out for mercy because someone she loves is suffering. Her need is not polished. Her request comes from a wounded place, but she brings it to the right Person.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting honest need come near His mercy.
 
 **Journal prompt:** What burden have I been carrying privately that Jesus is inviting me to bring near Him?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Receive the Invitation in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting honest need come near His mercy.
 
 **Scripture Reference:** Matthew 15:23
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' silence and the disciples' impatience because trusted Lordship holds the heart steady when the answer is not immediate.
+**Context and language lens:** Jesus' silence and the disciples' impatience because trusted Lordship holds the heart steady when the answer is not immediate.
 
 Trust becomes tender when heaven seems quiet. Matthew 15:23 is not an easy verse. The woman cries out, Jesus does not answer immediately, and the disciples want the disturbance removed. The scene exposes how quickly people can confuse another person's pain with inconvenience.
 
@@ -88,7 +88,7 @@ Walking with Jesus means trusting His Lordship without adopting the impatience o
 
 **Journal prompt:** Where am I tempted to interpret delay as rejection, and what has Jesus already revealed about His heart?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Trust the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means trusting His Lordship without adopting the impatience o
 
 **Scripture Reference:** Matthew 15:30
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses the crowds bringing wounded people to Jesus' feet because light exposes need and gives direction toward His healing presence.
+**Context and language lens:** The crowds bringing wounded people to Jesus' feet because light exposes need and gives direction toward His healing presence.
 
 Hope rises when need is brought to the feet of Jesus. Matthew 15:30 gathers many forms of suffering into one movement toward Him. People come carrying wounds, limitations, weakness, and long-standing pain. They do not keep the broken places hidden from Christ.
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting His light direct wounded places toward healing.
 
 **Journal prompt:** What need have I been hiding that Jesus is inviting me to bring into His healing light?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Let Hope Rise the Road with Jesus in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting His light direct wounded places toward healing.
 
 **Scripture Reference:** Matthew 16:16
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Peter's confession because discipleship is formed by recognizing who Jesus is before deciding how to follow Him.
+**Context and language lens:** Peter's confession because discipleship is formed by recognizing who Jesus is before deciding how to follow Him.
 
 The nearness of Christ becomes steady when the heart knows who He is. Matthew 16:16 brings Peter's confession into the open. Jesus is not merely a teacher with wise words or a helper for difficult seasons. He is the promised Christ, the living Son.
 
@@ -144,7 +144,7 @@ Walking with Jesus means letting who He is shape how you follow.
 
 **Journal prompt:** What ordinary decision today needs to be shaped by who Jesus truly is?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Carry the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting who He is shape how you follow.
 
 **Scripture Reference:** Matthew 16:21
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Jesus' first plain teaching about His suffering, death, and resurrection because saving wholeness comes through the cross, not around it.
+**Context and language lens:** Jesus' first plain teaching about His suffering, death, and resurrection because saving wholeness comes through the cross, not around it.
 
 The way of peace is not always the way around suffering. Matthew 16:21 marks a turning point as Jesus begins to speak plainly about what waits ahead. His path will include rejection, suffering, death, and resurrection. He does not hide the cost of salvation.
 
@@ -172,7 +172,7 @@ Walking with Jesus means trusting the Savior whose peace has passed through the 
 
 **Journal prompt:** Where do I need to trust Jesus' redeeming work on a road I would not have chosen?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Lean Into the Way of Peace in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means trusting the Savior whose peace has passed through the 
 
 **Scripture Reference:** Matthew 16:27
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus' promise of coming glory and righteous reward because peace rests in the returning King whose judgment is truthful, gracious, and just.
+**Context and language lens:** Jesus' promise of coming glory and righteous reward because peace rests in the returning King whose judgment is truthful, gracious, and just.
 
 The table of grace is not separated from the coming glory of Jesus. Matthew 16:27 points the heart toward His return, the Father's glory, the angels, and the truth that every life will be seen rightly. This is not meant to make a surrendered heart panic. It is meant to make the heart honest and awake.
 
@@ -200,4 +200,4 @@ Walking with Jesus means resting under the grace and truth of the returning King
 
 **Journal prompt:** Where is grace calling me into truthful obedience as I rest under the returning Christ?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through See Again the Table of Grace in one faithful step today.

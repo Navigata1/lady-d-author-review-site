@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 10:31
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' assurance not to fear because the Father values His children. Prayer beyond words is framed as the Spirit's breath quieting fear through the Father's care.
+**Context and language lens:** Jesus' assurance not to fear because the Father values His children. Prayer beyond words is framed as the Spirit's breath quieting fear through the Father's care.
 
 Matthew 10:31 carries the tenderness of Jesus into the anxious places of the heart. He does not merely command courage; He anchors courage in the Father's value over His children.
 
@@ -42,7 +42,7 @@ The Spirit forms a sealed and filled life by quieting fear with the Father's att
 
 **Scripture Reference:** Matthew 10:32
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' call to acknowledge Him before others. Wind in the waiting is framed as power for witness that becomes confession when the moment arrives.
+**Context and language lens:** Jesus' call to acknowledge Him before others. Wind in the waiting is framed as power for witness that becomes confession when the moment arrives.
 
 Matthew 10:32 brings waiting into witness. The life that belongs to Jesus is eventually invited to acknowledge Him in visible ways.
 
@@ -70,7 +70,7 @@ The Spirit forms a sealed and filled life by giving power to acknowledge Jesus w
 
 **Scripture Reference:** Matthew 10:33
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' sober warning about denying Him before others. Oil for the journey is framed as the Spirit's pledge that loyalty to Jesus matters now and in what is coming.
+**Context and language lens:** Jesus' sober warning about denying Him before others. Oil for the journey is framed as the Spirit's pledge that loyalty to Jesus matters now and in what is coming.
 
 Matthew 10:33 is sober because Jesus treats public loyalty as weighty. He is not inviting fragile shame; He is calling the heart into honest allegiance.
 
@@ -98,7 +98,7 @@ The Spirit forms a sealed and filled life by giving oil for honest allegiance to
 
 **Scripture Reference:** Matthew 10:34
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' hard saying about false peace and division. Freedom in the Spirit is framed as fruit that refuses counterfeit peace without becoming combative.
+**Context and language lens:** Jesus' hard saying about false peace and division. Freedom in the Spirit is framed as fruit that refuses counterfeit peace without becoming combative.
 
 Matthew 10:34 can startle the heart because Jesus refuses shallow peace. His coming exposes what is false, divided, and resistant to truth.
 
@@ -126,7 +126,7 @@ The Spirit forms a sealed and filled life by growing fruit that tells the truth 
 
 **Scripture Reference:** Matthew 10:35
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' words about division inside close family bonds. The breath of God is framed as being filled enough to remain tender and faithful when obedience disrupts expected loyalties.
+**Context and language lens:** Jesus' words about division inside close family bonds. The breath of God is framed as being filled enough to remain tender and faithful when obedience disrupts expected loyalties.
 
 Matthew 10:35 speaks into painful closeness. Jesus knows that allegiance to Him can disturb expectations inside family systems.
 
@@ -154,7 +154,7 @@ The Spirit forms a sealed and filled life by filling family tension with tender,
 
 **Scripture Reference:** Matthew 10:36
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' acknowledgment that conflict can come from close relationships. The Comforter's nearness is framed as the Spirit's invisible presence with visible effect in painful household pressure.
+**Context and language lens:** Jesus' acknowledgment that conflict can come from close relationships. The Comforter's nearness is framed as the Spirit's invisible presence with visible effect in painful household pressure.
 
 Matthew 10:36 names a grief many people would rather hide: pain can come from the places that were expected to feel safest.
 
@@ -182,7 +182,7 @@ The Spirit forms a sealed and filled life by making hope visible inside close re
 
 **Scripture Reference:** Matthew 10:37
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' call to love Him above even the dearest relationships. Holy fire is framed as power for rightly ordered love, not rejection of family.
+**Context and language lens:** Jesus' call to love Him above even the dearest relationships. Holy fire is framed as power for rightly ordered love, not rejection of family.
 
 Matthew 10:37 is not a call to coldness. Jesus is teaching the heart that even the dearest loves must be ordered under Him.
 

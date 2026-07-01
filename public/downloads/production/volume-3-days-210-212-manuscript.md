@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 3:2
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the training of a generation that had not known previous battles. The Comforter's nearness is framed as consecrated formation for places where faith has not yet been practiced.
+**Context and language lens:** The training of a generation that had not known previous battles. The Comforter's nearness is framed as consecrated formation for places where faith has not yet been practiced.
 
 Judges 3:2 names a generation that had not known certain battles. The text is not romanticizing conflict. It is telling the truth about untested people needing formation.
 
@@ -32,7 +32,7 @@ The Spirit rains on dry places by consecrating unpracticed faith.
 
 **Journal prompt:** Where does my faith need consecrated practice?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Surrender to the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit rains on dry places by consecrating unpracticed faith.
 
 **Scripture Reference:** Judges 3:3
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the named nations and pressures surrounding Israel. Holy fire is framed as settled mercy that names real pressure without letting fear rule the heart.
+**Context and language lens:** The named nations and pressures surrounding Israel. Holy fire is framed as settled mercy that names real pressure without letting fear rule the heart.
 
 Judges 3:3 names the peoples and pressures around Israel. The story does not leave the testing vague.
 
@@ -60,7 +60,7 @@ The Spirit rains on dry places by settling mercy in the presence of real pressur
 
 **Journal prompt:** What pressure needs to be named before God today?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Let Mercy Speak Holy Fire into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit rains on dry places by settling mercy in the presence of real pressur
 
 **Scripture Reference:** Judges 3:4
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the testing of whether Israel would obey the Lord's commandments. Rain for dry places is framed as Spirit-breathed obedience that reveals whether faith is becoming lived loyalty.
+**Context and language lens:** The testing of whether Israel would obey the Lord's commandments. Rain for dry places is framed as Spirit-breathed obedience that reveals whether faith is becoming lived loyalty.
 
 Judges 3:4 brings the issue to obedience. The test reveals whether God's people will listen and walk in what He commanded.
 
@@ -88,4 +88,4 @@ The Spirit rains on dry places by breathing life into loyal obedience.
 
 **Journal prompt:** Where is obedience revealing the condition of my heart?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Breathe Rain for Dry Places into one faithful step today.

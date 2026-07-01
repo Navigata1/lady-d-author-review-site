@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 12:15
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' withdrawal and continued healing because the verse centers on the Lord's authority moving with courage, compassion, and wisdom instead of public pressure.
+**Context and language lens:** Jesus' withdrawal and continued healing because the verse centers on the Lord's authority moving with courage, compassion, and wisdom instead of public pressure.
 
 Cross-shaped courage does not always look like standing in the loudest place. Matthew 12:15 shows Jesus moving with awareness, withdrawing from danger, and still ministering with compassion. He is not driven by fear, but He is also not controlled by the need to prove Himself.
 
@@ -32,7 +32,7 @@ Walking with Jesus gives courage a cruciform shape: firm, humble, discerning, an
 
 **Journal prompt:** Where do I need cross-shaped courage instead of reactive strength?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Stand in Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus gives courage a cruciform shape: firm, humble, discerning, an
 
 **Scripture Reference:** Matthew 13:36
 
-**Production lens correction:** The architecture assigned `phōs`; the production lens uses the disciples asking Jesus for understanding after the crowd leaves because the verse centers on light forming hope through private instruction.
+**Context and language lens:** The disciples asking Jesus for understanding after the crowd leaves because the verse centers on light forming hope through private instruction.
 
 Grace forms hope when Jesus welcomes the questions that remain after the crowd is gone. Matthew 13:36 moves from public teaching into a more private moment. The disciples come near and ask for understanding. They do not pretend to understand everything simply because they were near the sermon.
 
@@ -60,7 +60,7 @@ The One who teaches in public is also faithful to form hope in private.
 
 **Journal prompt:** What question do I need to bring closer to Jesus instead of hiding it?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Let Grace Form Resurrection Hope in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The One who teaches in public is also faithful to form hope in private.
 
 **Scripture Reference:** Matthew 14:22
 
-**Production lens correction:** The architecture assigned `akoloutheō`; the production lens uses Jesus directing the disciples into the boat while He dismisses the crowd because the verse centers on following the Friend who leads even when the next stretch is not fully visible.
+**Context and language lens:** Jesus directing the disciples into the boat while He dismisses the crowd because the verse centers on following the Friend who leads even when the next stretch is not fully visible.
 
 The Friend who leads may send you ahead before you understand the whole night. Matthew 14:22 shows Jesus directing His disciples into the boat while He tends to the crowd. His leadership is intentional. The disciples are not abandoned simply because they are sent forward.
 
@@ -90,7 +90,7 @@ The Friend who leads is still near when obedience carries you into unseen water.
 
 **Journal prompt:** Where is Jesus asking me to trust His leadership without seeing the whole crossing?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Behold the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -100,7 +100,7 @@ The Friend who leads is still near when obedience carries you into unseen water.
 
 **Scripture Reference:** Matthew 15:27
 
-**Production lens correction:** The architecture assigned `sōzō`; the production lens uses the woman's humble, persistent faith because the verse centers on saving mercy meeting a heart that refuses to let discouragement silence trust.
+**Context and language lens:** The woman's humble, persistent faith because the verse centers on saving mercy meeting a heart that refuses to let discouragement silence trust.
 
 The light on the path may come through a humble heart that keeps trusting. Matthew 15:27 shows a woman responding to Jesus with persistent faith. She does not come with entitlement. She comes with need, humility, and a confidence that even the mercy near the table is enough.
 
@@ -118,7 +118,7 @@ Walking with Jesus means staying near the light, even when the path humbles you.
 
 **Journal prompt:** Where do I need humble persistence instead of silent discouragement?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Follow the Light on the Path in one faithful step today.
 
 ---
 
@@ -128,7 +128,7 @@ Walking with Jesus means staying near the light, even when the path humbles you.
 
 **Scripture Reference:** Matthew 15:32
 
-**Production lens correction:** The architecture assigned `eirēnē`; the production lens uses Jesus' compassion for the hungry crowd because the verse centers on peace in the presence of the One who sees human weakness before sending people forward.
+**Context and language lens:** Jesus' compassion for the hungry crowd because the verse centers on peace in the presence of the One who sees human weakness before sending people forward.
 
 The invitation of Jesus includes rest for human weakness. Matthew 15:32 shows His compassion for a crowd that has remained with Him. He notices hunger. He considers the journey. He refuses to treat physical limitation as an inconvenience beneath His attention.
 
@@ -146,7 +146,7 @@ The invitation to follow includes the compassion of the One who sees what the ro
 
 **Journal prompt:** What ordinary need is Jesus inviting me to stop minimizing?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Rest in the Invitation in one faithful step today.
 
 ---
 
@@ -156,7 +156,7 @@ The invitation to follow includes the compassion of the One who sees what the ro
 
 **Scripture Reference:** Matthew 16:13
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' question about His identity because the verse centers on the Lord drawing His disciples beyond public opinion into personal confession.
+**Context and language lens:** Jesus' question about His identity because the verse centers on the Lord drawing His disciples beyond public opinion into personal confession.
 
 The Shepherd's voice wakes the heart by asking the question beneath all other questions. Matthew 16:13 brings the disciples into a moment of identity. Public opinion is present, but Jesus is leading them toward something more personal than what others are saying.
 
@@ -174,7 +174,7 @@ Walking with Jesus becomes steady when confession becomes personal trust.
 
 **Journal prompt:** Where do I need to answer Jesus personally instead of leaning on borrowed words?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Wake Up to the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -184,7 +184,7 @@ Walking with Jesus becomes steady when confession becomes personal trust.
 
 **Scripture Reference:** Matthew 16:20
 
-**Production lens correction:** The architecture assigned `phōs`; the production lens uses Jesus' instruction to the disciples to hold back public announcement because the verse centers on light refining timing, restraint, and obedience.
+**Context and language lens:** Jesus' instruction to the disciples to hold back public announcement because the verse centers on light refining timing, restraint, and obedience.
 
 The road with Jesus is refined by restraint. Matthew 16:20 comes after a powerful confession, yet Jesus gives His disciples instruction about what not to announce. Truth is holy, but timing matters. Revelation is not permission for self-directed display.
 
@@ -202,4 +202,4 @@ Walking with Jesus means letting His light refine both speech and silence.
 
 **Journal prompt:** Where do I need Jesus to refine not only what I say, but when and why I say it?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Let Fire Refine the Road with Jesus in one faithful step today.

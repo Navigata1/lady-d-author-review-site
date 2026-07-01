@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Repo commit at generation: `6ab403d`
+Repo commit at generation: `9aab4b1`
 
 Status: Production-planning kit. This is not a final KDP upload package.
 
@@ -36,6 +36,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - Trilogy proof and copyedit audit pack with repetition ledgers, theological watchlist contexts, and volume proof checklists.
 - Proof decision resolution pack regenerated with zero current decision items.
 - Proof decision application pack generated; the prior 192-item title, morning-impact, and theology queue is preserved as evidence and now audits clear.
+- Reader-facing lens application and author-voice copyedit gate generated; the source and public manuscript mirrors now audit at 1,098 context/language lenses and zero internal production labels.
 - Public Vercel review page for author-facing review.
 
 ## Interior Finalization Deliverables In This Kit
@@ -110,11 +111,11 @@ Run three to seven passes depending on risk:
 - Final approved 6 x 9 upload interiors with locked page counts.
 - Regenerated full-wrap covers from final page counts.
 - Final KDP metadata approval for all three devotionals and all three companion journals.
-- Full author-voice copyedit after the proof decision queue clear.
+- Full author-voice line edit using the author-voice copyedit gate.
 - Author approval of companion journal rhythm and front/back matter.
 - KDP Previewer pass for each upload file.
 - Physical proof review before public release.
 
 ## Recommended Next Production Step
 
-Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack, trilogy proof audit pack, proof decision resolution pack, and proof decision application pack as the next trilogy-wide copyedit and theological proof surface. The proof decision queue is clear; the next gate is full author-voice copyedit, metadata approval, and final cover regeneration from locked page counts and paper type.
+Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack, trilogy proof audit pack, proof decision resolution pack, proof decision application pack, and author-voice copyedit gate as the next trilogy-wide copyedit and theological proof surface. The proof decision queue is clear; the next gate is full author-voice line edit, metadata approval, and final cover regeneration from locked page counts and paper type.

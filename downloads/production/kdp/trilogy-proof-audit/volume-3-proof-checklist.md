@@ -6,7 +6,7 @@ Generated: 2026-07-01
 
 | Product | Type | Words | Structure | Watch contexts |
 | --- | --- | ---: | --- | ---: |
-| Filled with the Holy Spirit | Devotional | 94,093 | pass | 33 |
+| Filled with the Holy Spirit | Devotional | 91,521 | pass | 33 |
 | Filled with the Holy Spirit Companion Journal | Companion Journal | 17,665 | review | 11 |
 
 ## Checklist

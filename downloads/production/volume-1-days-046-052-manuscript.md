@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Deuteronomy 6:3
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `shama/shamar/yatab/rabah` - hear, keep, go well, and multiply - because the verse calls God's people to hear and keep His way so life may flourish.
+**Context and language lens:** `shama/shamar/yatab/rabah` - hear, keep, go well, and multiply - because the verse calls God's people to hear and keep His way so life may flourish.
 
 Love that sends you begins with listening. Deuteronomy 6:3 is not merely about movement into a better place. It is about hearing the Lord, keeping His instruction, and trusting that His way is tied to life. Beloved identity does not make us careless with God's voice. It makes us responsive.
 
@@ -40,7 +40,7 @@ Discover love that sends you by refusing to separate calling from listening. The
 
 **Scripture Reference:** Deuteronomy 6:6
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `dabar/levav` - words and heart - because the verse places God's words upon the heart.
+**Context and language lens:** `dabar/levav` - words and heart - because the verse places God's words upon the heart.
 
 Covenant mercy is not only something God shows around us. It is something He writes within us. Deuteronomy 6:6 places God's words upon the heart. Beloved identity is not built by vague spiritual feeling alone. It is formed as the Father's instruction settles deep enough to shape desire, thought, memory, and practice.
 
@@ -66,7 +66,7 @@ This is also where Sabbath and obedience become tender. Holy practice is not an 
 
 **Scripture Reference:** Deuteronomy 7:17
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `levav/yare/yakol` - heart, fear, and ability - because the verse names fear that rises when the heart sees an obstacle as too large.
+**Context and language lens:** `levav/yare/yakol` - heart, fear, and ability - because the verse names fear that rises when the heart sees an obstacle as too large.
 
 The Father's welcome does not require you to pretend the obstacle is small. Deuteronomy 7:17 names the fear that can rise in the heart when the challenge ahead looks greater than your strength. Beloved identity does not deny fear. It brings fear into the presence of the Father.
 
@@ -92,7 +92,7 @@ The welcome of God steadies the heart before the battle of the day. You are not 
 
 **Scripture Reference:** Deuteronomy 7:2
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `natan/charam/berit/chanan` - give, devote to judgment, covenant, and mercy - because the verse belongs to Israel's ancient covenant-boundary context and must not be flattened into ordinary interpersonal application.
+**Context and language lens:** `natan/charam/berit/chanan` - give, devote to judgment, covenant, and mercy - because the verse belongs to Israel's ancient covenant-boundary context and must not be flattened into ordinary interpersonal application.
 
 Some passages require holy caution. Deuteronomy 7:2 speaks from an ancient covenant moment involving judgment, allegiance, and the danger of being drawn into idolatry. It is not a license for contempt toward people. It is not permission to treat human beings as disposable. In devotional use, this text must be handled with reverence and care.
 
@@ -118,7 +118,7 @@ Hope rises when identity becomes clear. You belong to the Father. You do not nee
 
 **Scripture Reference:** Deuteronomy 7:7
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `chashaq/ahav/meat` - set affection, love, and few - because the verse emphasizes God's chosen affection not based on numerical greatness.
+**Context and language lens:** `chashaq/ahav/meat` - set affection, love, and few - because the verse emphasizes God's chosen affection not based on numerical greatness.
 
 Love that finds you is not impressed by the measurements people use. Deuteronomy 7:7 reminds Israel that God's affection was not placed on them because they were the largest or most impressive. They were few. The Father's love was not a reward for visible greatness.
 
@@ -144,7 +144,7 @@ Carry that love today. Let it move with you into the room where you feel small. 
 
 **Scripture Reference:** Exodus 15:2
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `oz/zimrat/yeshuah` - strength, song, and salvation - because the verse praises the Lord as strength, song, and salvation after deliverance.
+**Context and language lens:** `oz/zimrat/yeshuah` - strength, song, and salvation - because the verse praises the Lord as strength, song, and salvation after deliverance.
 
 Grace before performance sings because salvation came first. Exodus 15:2 rises from deliverance. The Lord is strength, song, and salvation before the people have a chance to prove themselves in a settled land. Beloved identity learns to worship from rescue, not from self-display.
 
@@ -170,7 +170,7 @@ Today, do not wait until you feel impressive to worship. Let the Father receive 
 
 **Scripture Reference:** Exodus 15:23
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `mar/marah` - bitter and Marah - because the verse names bitter waters at Marah, before God's provision in the wilderness story.
+**Context and language lens:** `mar/marah` - bitter and Marah - because the verse names bitter waters at Marah, before God's provision in the wilderness story.
 
 Mercy in the morning sometimes begins by admitting the water is bitter. Exodus 15:23 does not rush past disappointment. The people came to water, but they could not drink it because it was bitter. The place even carried that name. Beloved identity does not require us to rename bitterness as sweetness before bringing it to God.
 

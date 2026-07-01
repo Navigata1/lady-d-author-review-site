@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Numbers 27:17
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Moses' concern that the congregation not be left like sheep without a shepherd. Power to witness is framed as a renewed heart that cares for the people after personal transition.
+**Context and language lens:** Moses' concern that the congregation not be left like sheep without a shepherd. Power to witness is framed as a renewed heart that cares for the people after personal transition.
 
 Numbers 27:17 reveals Moses' shepherding heart. He has heard about his own limit, yet his prayer turns toward the people who still need guidance.
 
@@ -32,7 +32,7 @@ The Spirit rains on dry places by renewing witness into shepherding care.
 
 **Journal prompt:** Who needs shepherding prayer in this transition?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Behold Power to Witness into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit rains on dry places by renewing witness into shepherding care.
 
 **Scripture Reference:** Numbers 27:19
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's instruction to set Joshua before Eleazar and the congregation. The seal of belonging is framed as holy fire that confirms calling in accountable community.
+**Context and language lens:** God's instruction to set Joshua before Eleazar and the congregation. The seal of belonging is framed as holy fire that confirms calling in accountable community.
 
 Numbers 27:19 shows that Joshua's calling is not hidden in private ambition. He is set before priest and people, and the transition is made visible.
 
@@ -60,7 +60,7 @@ The Spirit rains on dry places by confirming calling in accountable community.
 
 **Journal prompt:** Where does calling need healthy confirmation rather than private pressure?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Follow the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit rains on dry places by confirming calling in accountable community.
 
 **Scripture Reference:** Numbers 27:20
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's instruction to put some of Moses' honor on Joshua so the congregation will obey. Prayer beyond words is framed as consecrated transfer that helps others receive new leadership.
+**Context and language lens:** God's instruction to put some of Moses' honor on Joshua so the congregation will obey. Prayer beyond words is framed as consecrated transfer that helps others receive new leadership.
 
 Numbers 27:20 shows honor being shared for the sake of the people. Moses is not asked to disappear bitterly. Joshua is not asked to lead without recognizable support.
 
@@ -88,7 +88,7 @@ The Spirit rains on dry places by consecrating honor for the next season.
 
 **Journal prompt:** Where do I need to share honor so others can step forward well?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Rest in Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit rains on dry places by consecrating honor for the next season.
 
 **Scripture Reference:** Numbers 27:21
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's instruction that Joshua inquire before the Lord through Eleazar before movement. Wind in the waiting is framed as settled dependence on God's counsel before action.
+**Context and language lens:** God's instruction that Joshua inquire before the Lord through Eleazar before movement. Wind in the waiting is framed as settled dependence on God's counsel before action.
 
 Numbers 27:21 places leadership under divine counsel. Going out and coming in must happen at the Lord's command.
 
@@ -116,7 +116,7 @@ The Spirit rains on dry places by settling action under God's counsel.
 
 **Journal prompt:** Where have I been moving faster than counsel or prayer?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Wake Up to Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit rains on dry places by settling action under God's counsel.
 
 **Scripture Reference:** Numbers 27:22
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Moses doing as the Lord commanded and taking Joshua. Oil for the journey is framed as Spirit-breathed obedience that acts when the instruction is clear.
+**Context and language lens:** Moses doing as the Lord commanded and taking Joshua. Oil for the journey is framed as Spirit-breathed obedience that acts when the instruction is clear.
 
 Numbers 27:22 is simple and strong. Moses does what the Lord commanded.
 
@@ -144,7 +144,7 @@ The Spirit rains on dry places by breathing life into clear obedience.
 
 **Journal prompt:** What clear obedience have I delayed?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Fire Refine Oil for the Journey into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit rains on dry places by breathing life into clear obedience.
 
 **Scripture Reference:** Numbers 27:23
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Moses laying hands on Joshua and commissioning him as the Lord commanded. Freedom in the Spirit is framed as inward renewal that can bless succession without fear.
+**Context and language lens:** Moses laying hands on Joshua and commissioning him as the Lord commanded. Freedom in the Spirit is framed as inward renewal that can bless succession without fear.
 
 Numbers 27:23 completes the commissioning. Moses lays hands on Joshua and does what the Lord commanded through him.
 
@@ -172,7 +172,7 @@ The Spirit rains on dry places by renewing the heart to bless succession.
 
 **Journal prompt:** Where do I need freedom to bless someone else's next step?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Come Home to Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit rains on dry places by renewing the heart to bless succession.
 
 **Scripture Reference:** Judges 3:1
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the nations left to test Israel. The breath of God is framed as holy formation in untested places, not fear-driven speculation about hardship.
+**Context and language lens:** The nations left to test Israel. The breath of God is framed as holy formation in untested places, not fear-driven speculation about hardship.
 
 Judges 3:1 opens a different kind of text. There are people in Israel who have not experienced certain tests, and the story names that reality plainly.
 
@@ -200,4 +200,4 @@ The Spirit rains on dry places by breathing formation into untested faith.
 
 **Journal prompt:** Where does my faith need practice instead of theory?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Practice the Breath of God into one faithful step today.

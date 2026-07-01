@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 25:37
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses the surprised question of the righteous because Christlike compassion often serves without self-conscious scoring.
+**Context and language lens:** The surprised question of the righteous because Christlike compassion often serves without self-conscious scoring.
 
 Matthew 25:37 shows the righteous responding with surprise. They had not been calculating mercy as a way to impress the King.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting compassion serve without asking to be seen.
 
 **Scripture Reference:** Matthew 25:39
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses the question about seeing Christ in need because the Teacher forms eyes that recognize Him in overlooked places.
+**Context and language lens:** The question about seeing Christ in need because the Teacher forms eyes that recognize Him in overlooked places.
 
 Matthew 25:39 continues the question: when did they see Him in weakness or confinement? The surprise reveals how easily holy presence can be hidden in ordinary need.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting the Teacher form eyes for mercy.
 
 **Scripture Reference:** Matthew 25:43
 
-**Production lens note:** The architecture assigns hodos; the production lens uses the neglected stranger and prisoner because the way of Jesus is walked toward people the heart is tempted to avoid.
+**Context and language lens:** The neglected stranger and prisoner because the way of Jesus is walked toward people the heart is tempted to avoid.
 
 Matthew 25:43 names neglected need with painful directness. The passage presses mercy beyond warm intention into costly attention.
 
@@ -98,7 +98,7 @@ Walking with Jesus means following Him toward the person avoidance would leave a
 
 **Scripture Reference:** Matthew 25:6
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses the midnight cry because resurrection hope wakes the heart to meet the Bridegroom.
+**Context and language lens:** The midnight cry because resurrection hope wakes the heart to meet the Bridegroom.
 
 Matthew 25:6 brings a cry in the night: the bridegroom is near, and the waiting ones must rise. The moment asks for readiness that has been cultivated before the shout.
 
@@ -126,7 +126,7 @@ Walking with Jesus means rising toward the Bridegroom with hope awake.
 
 **Scripture Reference:** Revelation 1:10
 
-**Production lens note:** The architecture assigns meno; the production lens uses John's Spirit-held attention because abiding can receive Christ's voice even in exile and limitation.
+**Context and language lens:** John's Spirit-held attention because abiding can receive Christ's voice even in exile and limitation.
 
 Revelation 1:10 places John in a posture of Spirit-held attention when the voice of Christ comes with power. Exile does not silence Jesus.
 
@@ -154,7 +154,7 @@ Walking with Jesus means remaining available to His voice in the place you did n
 
 **Scripture Reference:** Revelation 1:13
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Christ among the lampstands because Jesus' compassion stands near His people with priestly presence.
+**Context and language lens:** Christ among the lampstands because Jesus' compassion stands near His people with priestly presence.
 
 Revelation 1:13 reveals Christ in the midst of the lampstands. He is not far from His people. He stands among them with holy presence.
 
@@ -182,7 +182,7 @@ Walking with Jesus means serving under the Shepherd who stands in the midst.
 
 **Scripture Reference:** Revelation 1:7
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Christ's visible coming because the Teacher forms repentance, hope, and faithful witness before every eye sees Him.
+**Context and language lens:** Christ's visible coming because the Teacher forms repentance, hope, and faithful witness before every eye sees Him.
 
 Revelation 1:7 points toward Christ's visible appearing. The verse carries glory, grief, recognition, and the certainty that Jesus will be seen.
 

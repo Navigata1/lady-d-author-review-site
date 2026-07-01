@@ -6,7 +6,7 @@ Generated: 2026-07-01
 
 | Product | Type | Words | Structure | Watch contexts |
 | --- | --- | ---: | --- | ---: |
-| Walking with Jesus | Devotional | 97,693 | pass | 43 |
+| Walking with Jesus | Devotional | 95,114 | pass | 43 |
 | Walking with Jesus Companion Journal | Companion Journal | 17,134 | review | 13 |
 
 ## Checklist

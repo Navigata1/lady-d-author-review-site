@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 35:23
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses people bringing materials they had for the sanctuary work. Holy fire is framed as Spirit-breathed witness that turns available gifts into service for the body.
+**Context and language lens:** People bringing materials they had for the sanctuary work. Holy fire is framed as Spirit-breathed witness that turns available gifts into service for the body.
 
 Exodus 35:23 shows people bringing what was in their hands. The work of God receives many kinds of material, and none of it is treated as meaningless when surrendered for holy purpose.
 
@@ -42,7 +42,7 @@ The Spirit gives gifts for the body by breathing holy purpose into what surrende
 
 **Scripture Reference:** Exodus 35:24
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses people bringing precious metals and materials for the work. Rain for dry places is framed as gifts set apart to renew what scarcity has dried out.
+**Context and language lens:** People bringing precious metals and materials for the work. Rain for dry places is framed as gifts set apart to renew what scarcity has dried out.
 
 Exodus 35:24 continues the pattern of willing contribution. What has value is not hoarded as private security. It is brought for the Lord's work.
 
@@ -70,7 +70,7 @@ The Spirit gives gifts for the body by setting resources apart for renewal.
 
 **Scripture Reference:** Exodus 35:25
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses skilled women spinning with their hands. The anointing for today is framed as capacity for faithful craft offered to the body with humility.
+**Context and language lens:** Skilled women spinning with their hands. The anointing for today is framed as capacity for faithful craft offered to the body with humility.
 
 Exodus 35:25 honors skilled hands. The sanctuary work includes craft, patience, attention, and embodied wisdom.
 
@@ -98,7 +98,7 @@ The Spirit gives gifts for the body through humble, faithful craft.
 
 **Scripture Reference:** Exodus 35:26
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses hearts stirred in wisdom to contribute skilled work. The Spirit's fruit is framed as renewal that moves wisdom from the heart into helpful service.
+**Context and language lens:** Hearts stirred in wisdom to contribute skilled work. The Spirit's fruit is framed as renewal that moves wisdom from the heart into helpful service.
 
 Exodus 35:26 describes willing hearts stirred in wisdom. The gift is not only in the hands. Something holy is moving in the heart.
 
@@ -126,7 +126,7 @@ The Spirit gives gifts for the body by watering wisdom until service carries fru
 
 **Scripture Reference:** Exodus 35:27
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses leaders bringing costly stones and spices. Power to witness is framed as God's nearness becoming discernible when influence offers its best humbly.
+**Context and language lens:** Leaders bringing costly stones and spices. Power to witness is framed as God's nearness becoming discernible when influence offers its best humbly.
 
 Exodus 35:27 shows leaders bringing costly materials. Influence is not exempt from surrender. Position also has something to offer.
 
@@ -154,7 +154,7 @@ The Spirit gives gifts for the body by turning influence into humble witness.
 
 **Scripture Reference:** Exodus 35:29
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses willing men and women bringing freewill offerings. The seal of belonging is framed as Spirit-breathed witness that the whole body belongs through willing surrender.
+**Context and language lens:** Willing men and women bringing freewill offerings. The seal of belonging is framed as Spirit-breathed witness that the whole body belongs through willing surrender.
 
 Exodus 35:29 gathers the people in willing offering. The work is shared by men and women whose hearts are moved toward God.
 
@@ -182,7 +182,7 @@ The Spirit gives gifts for the body by turning belonging into willing, shared of
 
 **Scripture Reference:** Exodus 35:30
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses Bezalel being called by name for skilled work. Prayer beyond words is framed as being set apart by God's mercy before the gift is exercised.
+**Context and language lens:** Bezalel being called by name for skilled work. Prayer beyond words is framed as being set apart by God's mercy before the gift is exercised.
 
 Exodus 35:30 names a worker called for a specific purpose. The gift is personal, but it is not private property. It belongs to the God who calls by name.
 

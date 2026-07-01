@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 32:14
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Jacob's first counted gift from the flock because the verse centers on chosen love becoming specific, patient, and costly without trying to purchase peace.
+**Context and language lens:** Jacob's first counted gift from the flock because the verse centers on chosen love becoming specific, patient, and costly without trying to purchase peace.
 
 Peace led by the Father's patience often becomes specific. Genesis 32:14 begins listing what Jacob sends ahead from what he owns. The verse may look like inventory, but in the story it is more than numbers. Jacob is moving toward a wounded relationship with deliberate offerings instead of empty words.
 
@@ -34,17 +34,17 @@ Peace grows stronger when love becomes honest enough to count the cost.
 
 **Journal prompt:** Where does peace need to become a concrete act instead of a vague desire?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Peace Lead the Father's Patience into one faithful step today.
 
 ---
 
 ## Day 274 - October 1
 
-### Come Home to Restoring Compassion
+### Come Home to Holy Steadiness Through Restoring Compassion
 
 **Scripture Reference:** Genesis 32:15
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses the continued list of animals sent ahead because the verse shows restoration becoming patiently arranged across what Jacob has been entrusted to steward.
+**Context and language lens:** The continued list of animals sent ahead because the verse shows restoration becoming patiently arranged across what Jacob has been entrusted to steward.
 
 Called by love begins with the kind of compassion that pays attention. Genesis 32:15 continues the list of what Jacob sends ahead. Camels, cattle, and donkeys are not decorative details. They show a careful arrangement, a measured offering, and a willingness to approach restoration with more than a quick apology.
 
@@ -64,17 +64,17 @@ Restoring compassion begins when love pays attention long enough to change.
 
 **Journal prompt:** What detail has love been asking me to notice before I move forward?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Come Home to Holy Steadiness Through Restoring Compassion into one faithful step today.
 
 ---
 
 ## Day 275 - October 2
 
-### Practice the Promise That Holds
+### Practice Holy Steadiness in the Promise That Holds
 
 **Scripture Reference:** Genesis 32:16
 
-**Production lens correction:** The architecture assigned `qavah`; the production lens uses Jacob separating the droves and placing space between them because the verse centers on hope that can wait, sequence, and move with restraint.
+**Context and language lens:** Jacob separating the droves and placing space between them because the verse centers on hope that can wait, sequence, and move with restraint.
 
 The promise that holds can teach the heart how to wait with structure. Genesis 32:16 shows Jacob placing the gifts into the hands of his servants, drove by drove, with space between them. He does not throw everything forward at once. He orders the approach.
 
@@ -94,7 +94,7 @@ You do not have to rush what God is teaching you to carry faithfully.
 
 **Journal prompt:** Where does hope need space, sequence, and restraint instead of urgency?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Father's love carry Practice Holy Steadiness in the Promise That Holds into one faithful step today.
 
 ---
 
@@ -104,7 +104,7 @@ You do not have to rush what God is teaching you to carry faithfully.
 
 **Scripture Reference:** Genesis 32:17
 
-**Production lens correction:** The architecture assigned `nacham`; the production lens uses Jacob's instruction to the first servant because the verse centers on preparing truthful speech before the feared encounter.
+**Context and language lens:** Jacob's instruction to the first servant because the verse centers on preparing truthful speech before the feared encounter.
 
 The heart that calls you can prepare your words before pressure asks for them. Genesis 32:17 shows Jacob instructing the first servant about what to say when Esau meets him. He imagines the questions before they come. He prepares an answer before the encounter.
 
@@ -124,7 +124,7 @@ On this Sabbath, let surrendered rest prepare truthful words.
 
 **Journal prompt:** What answer needs to be formed by worship instead of fear?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Father's love carry Surrender to the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -134,7 +134,7 @@ On this Sabbath, let surrendered rest prepare truthful words.
 
 **Scripture Reference:** Genesis 32:18
 
-**Production lens correction:** The architecture assigned `rahamim`; the production lens uses the servant's instructed answer that names Jacob, Esau, the gift, and Jacob's following presence because the verse centers on humble speech that carries mercy ahead.
+**Context and language lens:** The servant's instructed answer that names Jacob, Esau, the gift, and Jacob's following presence because the verse centers on humble speech that carries mercy ahead.
 
 Mercy can speak before the whole person arrives. Genesis 32:18 gives the answer Jacob wants his servant to carry: the gift belongs to Jacob, it is sent to Esau, and Jacob is coming behind it. The words are humble. They do not erase the past, but they lower the posture of the approach.
 
@@ -154,7 +154,7 @@ Let the first words carry the mercy you want the meeting to receive.
 
 **Journal prompt:** What message is my tone sending ahead of me?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Father's love carry Let Mercy Speak Love That Sends You into one faithful step today.
 
 ---
 
@@ -164,7 +164,7 @@ Let the first words carry the mercy you want the meeting to receive.
 
 **Scripture Reference:** Genesis 32:19
 
-**Production lens correction:** The architecture assigned `shalom`; the production lens uses Jacob repeating the same instruction to the second, third, and following groups because the verse centers on steady mercy that stays consistent across repeated moments.
+**Context and language lens:** Jacob repeating the same instruction to the second, third, and following groups because the verse centers on steady mercy that stays consistent across repeated moments.
 
 Covenant mercy has to breathe more than once. Genesis 32:19 shows Jacob giving the same instruction to the second group, the third group, and all who followed the droves. One merciful message is not left alone. It is repeated along the way.
 
@@ -184,7 +184,7 @@ Mercy becomes credible when it remains steady.
 
 **Journal prompt:** Where does mercy need consistency across more than one moment?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Father's love carry Breathe Covenant Mercy into one faithful step today.
 
 ---
 
@@ -194,7 +194,7 @@ Mercy becomes credible when it remains steady.
 
 **Scripture Reference:** Genesis 32:20
 
-**Production lens correction:** The architecture assigned `yada`; the production lens uses Jacob's hope that the gift may prepare Esau's face to receive him because the verse centers on the longing to be accepted while learning not to make acceptance an idol.
+**Context and language lens:** Jacob's hope that the gift may prepare Esau's face to receive him because the verse centers on the longing to be accepted while learning not to make acceptance an idol.
 
 The Father's welcome steadies the heart that longs to be received. Genesis 32:20 lets us hear Jacob's inner reasoning. He hopes the gift sent ahead may prepare the meeting and that afterward Esau may accept him. The desire is deeply human: to see the face of the one you fear and not be rejected.
 
@@ -214,4 +214,4 @@ You can desire peace without letting acceptance become your god.
 
 **Journal prompt:** Where do I need the Father's welcome to steady my desire to be received?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Father's love carry Hold Fast to the Father's Welcome into one faithful step today.

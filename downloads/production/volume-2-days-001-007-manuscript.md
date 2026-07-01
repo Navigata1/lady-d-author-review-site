@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 16:24
 
-**Production lens correction:** The architecture assigned `sōzō`; the production lens uses Jesus' call to deny self, take up the cross, and follow because saving wholeness includes being rescued from self-rule into the life of the Savior.
+**Context and language lens:** Jesus' call to deny self, take up the cross, and follow because saving wholeness includes being rescued from self-rule into the life of the Savior.
 
 The Shepherd's voice does not flatter the self. It calls the self into surrender. Matthew 16:24 is not a decorative invitation to admire Jesus from a safe distance. It is the clear word of the Son to anyone who would come after Him.
 
@@ -42,7 +42,7 @@ Walking with Jesus begins when admiration becomes surrender.
 
 **Scripture Reference:** Matthew 22:16
 
-**Production lens correction:** The architecture assigned `eirēnē`; the production lens uses the public acknowledgment of Jesus' truthful way because the verse centers on peace formed by walking with the One who teaches God's way without being controlled by human approval.
+**Context and language lens:** The public acknowledgment of Jesus' truthful way because the verse centers on peace formed by walking with the One who teaches God's way without being controlled by human approval.
 
 The road with Jesus is truthful even when people are complicated. Matthew 22:16 sits inside a tense moment. Jesus is being approached with words that sound respectful, yet the setting is testing and pressure. Still, the testimony about Him is true: He teaches the way of God with integrity and is not ruled by appearances.
 
@@ -70,7 +70,7 @@ The road with Jesus gives the heart a peace that does not need to perform for ev
 
 **Scripture Reference:** Matthew 20:30
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the cry of the blind men because the verse centers on Jesus as Lord whose authority is near enough to receive mercy-seeking faith.
+**Context and language lens:** The cry of the blind men because the verse centers on Jesus as Lord whose authority is near enough to receive mercy-seeking faith.
 
 The nearness of Christ can be heard in a desperate cry. Matthew 20:30 shows two blind men recognizing Jesus as more than a passing figure. Their need does not make them polite and distant. It makes them call out for mercy.
 
@@ -100,7 +100,7 @@ The Lord who passes near is merciful enough to hear the cry that faith brings ho
 
 **Scripture Reference:** Matthew 21:9
 
-**Production lens correction:** The architecture assigned `phōs`; the production lens uses the crowd's welcome of Jesus because the verse centers on light exposing shallow expectations and directing the heart toward the true King.
+**Context and language lens:** The crowd's welcome of Jesus because the verse centers on light exposing shallow expectations and directing the heart toward the true King.
 
 The way of peace may look different from the way people expected triumph to look. Matthew 21:9 holds the public welcome of Jesus, but the road He walks will not bend into human control. He comes as King, yet His kingdom exposes what kind of salvation the heart truly wants.
 
@@ -128,7 +128,7 @@ Walking with Jesus means letting the true King lead, even when His peace is quie
 
 **Scripture Reference:** 1 Peter 5:14
 
-**Production lens correction:** The architecture assigned `akoloutheō`; the production lens uses peace and love within the community of Christ because following Jesus becomes visible in how His people greet, receive, and bless one another.
+**Context and language lens:** Peace and love within the community of Christ because following Jesus becomes visible in how His people greet, receive, and bless one another.
 
 The table of grace is not built by perfect people. It is formed by people who are learning to belong to Christ together. 1 Peter 5:14 gathers love, greeting, peace, and life in Christ into one simple closing word.
 
@@ -156,7 +156,7 @@ The invitation to follow Jesus includes the invitation to carry His peace into t
 
 **Scripture Reference:** Matthew 10:24
 
-**Production lens correction:** The architecture assigned `sōzō`; the production lens uses Jesus' teaching on the disciple and teacher because saving wholeness heals the pride that wants to follow without becoming teachable.
+**Context and language lens:** Jesus' teaching on the disciple and teacher because saving wholeness heals the pride that wants to follow without becoming teachable.
 
 The healing touch of Jesus often begins by making the heart teachable. Matthew 10:24 reminds the disciple that following has an order. The student does not stand above the teacher. The servant does not outrank the master.
 
@@ -184,7 +184,7 @@ The disciple becomes whole by staying near enough to be taught.
 
 **Scripture Reference:** Matthew 10:25
 
-**Production lens correction:** The architecture assigned `eirēnē`; the production lens uses Jesus' word about the disciple becoming like the teacher because peace grows when the heart receives likeness to Christ as enough.
+**Context and language lens:** Jesus' word about the disciple becoming like the teacher because peace grows when the heart receives likeness to Christ as enough.
 
 The call to follow Jesus is also the call to become like Him. Matthew 10:25 gives the disciple a different measure of success. The goal is not to be impressive, untouchable, or above the path Jesus walked. It is enough for the disciple to become like the Teacher.
 

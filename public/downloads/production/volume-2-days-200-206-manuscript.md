@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 18:30
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses the servant's refusal to show mercy because Christ's Lordship confronts the heart that wants to receive grace without becoming gracious.
+**Context and language lens:** The servant's refusal to show mercy because Christ's Lordship confronts the heart that wants to receive grace without becoming gracious.
 
 Matthew 18:30 is a hard turn in the parable. A servant who has been forgiven much refuses mercy to someone who owes far less. The story exposes how quickly a heart can receive compassion and then forget its own need.
 
@@ -32,7 +32,7 @@ Walking with Jesus means letting the Lord make grace visible after it has been r
 
 **Journal prompt:** Where have I received mercy but resisted becoming merciful?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Listen for the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting the Lord make grace visible after it has been r
 
 **Scripture Reference:** Matthew 18:31
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses the grief of the fellow servants because light exposes harm that secrecy would rather protect.
+**Context and language lens:** The grief of the fellow servants because light exposes harm that secrecy would rather protect.
 
 Matthew 18:31 shows the fellow servants deeply distressed. They see what has happened, and they bring it before their master. Mercy refused does not stay private forever. It creates grief in the community.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting light interrupt hidden hardness.
 
 **Journal prompt:** What hidden resentment may be affecting people around me?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Stand in the Way of Peace in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting light interrupt hidden hardness.
 
 **Scripture Reference:** Matthew 18:32
 
-**Production lens note:** The architecture assigns `akoloutheo`; the production lens uses the master's summons because following Jesus includes accountability to the mercy we have received.
+**Context and language lens:** The master's summons because following Jesus includes accountability to the mercy we have received.
 
 Matthew 18:32 brings the servant face to face with the master again. The question is not whether mercy was available. Mercy had already been given. The question is what that mercy was allowed to form.
 
@@ -88,7 +88,7 @@ Walking with Jesus means letting received grace become accountable grace.
 
 **Journal prompt:** Where is Jesus making my received mercy accountable in real life?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Let Grace Form the Table of Grace in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting received grace become accountable grace.
 
 **Scripture Reference:** Matthew 18:34
 
-**Production lens note:** The architecture assigns `sozo`; the production lens uses the master's severe response because salvation is not sentimental permission to keep harming others; Christ heals by telling the truth about bondage.
+**Context and language lens:** The master's severe response because salvation is not sentimental permission to keep harming others; Christ heals by telling the truth about bondage.
 
 Matthew 18:34 is sobering. The parable does not pretend that mercy refused is harmless. A heart that will not release another person can become imprisoned by the very hardness it protects.
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting salvation tell the truth about bondage.
 
 **Journal prompt:** Where might unforgiveness be costing me freedom?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Behold the Healing Touch in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting salvation tell the truth about bondage.
 
 **Scripture Reference:** Matthew 18:7
 
-**Production lens note:** The architecture assigns `eirene`; the production lens uses Jesus' warning about stumbling blocks because peace protects the vulnerable and refuses to normalize harm.
+**Context and language lens:** Jesus' warning about stumbling blocks because peace protects the vulnerable and refuses to normalize harm.
 
 Matthew 18:7 names the sorrow of stumbling blocks. Jesus is not careless about the things that trip, wound, tempt, or damage people. His compassion includes holy seriousness.
 
@@ -144,7 +144,7 @@ Walking with Jesus means becoming careful with the souls near you.
 
 **Journal prompt:** Where might my words, habits, or influence be making another person's path harder?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Follow the Call to Follow in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means becoming careful with the souls near you.
 
 **Scripture Reference:** Matthew 18:8
 
-**Production lens note:** The architecture assigns `kyrios`; the production lens uses Jesus' severe image as a call to decisive surrender of sin and harm, not as a literal call to self-harm.
+**Context and language lens:** Jesus' severe image as a call to decisive surrender of sin and harm, not as a literal call to self-harm.
 
 Matthew 18:8 uses severe language because Jesus is serious about what destroys life. This is not a command to injure the body. It is a holy warning that the disciple must not make peace with what keeps pulling the heart toward harm.
 
@@ -172,7 +172,7 @@ Walking with Jesus means trusting the Lord enough to surrender what destroys pea
 
 **Journal prompt:** What damaging access point or pattern is Jesus asking me to surrender decisively?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Rest in Cross-Shaped Courage in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means trusting the Lord enough to surrender what destroys pea
 
 **Scripture Reference:** Matthew 18:9
 
-**Production lens note:** The architecture assigns `phos`; the production lens uses Jesus' second severe image as light exposing what must be removed from the life, again as spiritual urgency rather than literal self-harm.
+**Context and language lens:** Jesus' second severe image as light exposing what must be removed from the life, again as spiritual urgency rather than literal self-harm.
 
 Matthew 18:9 continues the serious warning. Jesus loves the whole person too much to treat destructive compromise lightly. His words wake the soul to the danger of keeping what keeps leading it away from life.
 
@@ -200,4 +200,4 @@ Walking with Jesus means letting light make room for resurrection hope.
 
 **Journal prompt:** What is Jesus removing so life, peace, and resurrection hope can grow in me?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Wake Up to Resurrection Hope in one faithful step today.

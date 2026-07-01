@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 35:11
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses the sanctuary structure and coverings in the text. Rain for dry places is framed as Spirit-breathed witness that gives shape and shelter to surrendered places.
+**Context and language lens:** The sanctuary structure and coverings in the text. Rain for dry places is framed as Spirit-breathed witness that gives shape and shelter to surrendered places.
 
 Exodus 35:11 names the pieces that will form the tabernacle structure. The work is not vague. The place of meeting will have shape, covering, connection, and strength.
 
@@ -32,7 +32,7 @@ The Spirit grows fruit by giving surrendered lives holy shape and shelter.
 
 **Journal prompt:** Where does my surrender need a holy structure instead of another vague intention?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Discover Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit grows fruit by giving surrendered lives holy shape and shelter.
 
 **Scripture Reference:** Exodus 35:12
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses the ark, mercy seat, and veil imagery in the text. The anointing for today is framed as being set apart near mercy, not performing beyond grace.
+**Context and language lens:** The ark, mercy seat, and veil imagery in the text. The anointing for today is framed as being set apart near mercy, not performing beyond grace.
 
 Exodus 35:12 points to holy objects connected to God's presence, mercy, and covering. Sacred nearness is handled with reverence.
 
@@ -60,7 +60,7 @@ The Spirit grows fruit by setting surrendered hearts apart near mercy.
 
 **Journal prompt:** Where have I confused usefulness with nearness to God?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry Receive the Anointing for Today into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit grows fruit by setting surrendered hearts apart near mercy.
 
 **Scripture Reference:** Exodus 35:13
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses the table, its vessels, and the bread of the Presence. The Spirit's fruit is framed as strength for steady nourishment in God's presence.
+**Context and language lens:** The table, its vessels, and the bread of the Presence. The Spirit's fruit is framed as strength for steady nourishment in God's presence.
 
 Exodus 35:13 brings the table and its service into view. The holy place includes provision, order, and a sign that God's presence nourishes His people.
 
@@ -88,7 +88,7 @@ The Spirit grows fruit by strengthening the heart with steady nourishment in God
 
 **Journal prompt:** Where am I measuring fruit by intensity instead of steady nourishment?
 
-**Morning impact:** Let this word give your morning a spine and your heart a place to rest.
+**Morning impact:** Let the Spirit carry Trust the Spirit's Fruit into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit grows fruit by strengthening the heart with steady nourishment in God
 
 **Scripture Reference:** Exodus 35:14
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the lampstand and oil for light. Power to witness is framed as cleansed, renewed light that rises from surrendered hope.
+**Context and language lens:** The lampstand and oil for light. Power to witness is framed as cleansed, renewed light that rises from surrendered hope.
 
 Exodus 35:14 names the lampstand, its vessels, and oil for the light. Witness is not treated as noise. It is light prepared for holy purpose.
 
@@ -116,7 +116,7 @@ The Spirit grows fruit by renewing hope until witness becomes clear light.
 
 **Journal prompt:** Where has my witness become strained because hope needs renewal?
 
-**Morning impact:** The day does not get to name you before God does.
+**Morning impact:** Let the Spirit carry Let Hope Rise Power to Witness into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit grows fruit by renewing hope until witness becomes clear light.
 
 **Scripture Reference:** Exodus 35:16
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses altar, basin, and utensils for surrendered worship and cleansing. The seal of belonging is framed as hearing God's nearness in cleansing, consecration, and return.
+**Context and language lens:** Altar, basin, and utensils for surrendered worship and cleansing. The seal of belonging is framed as hearing God's nearness in cleansing, consecration, and return.
 
 Exodus 35:16 gathers pieces connected to worship, offering, cleansing, and readiness. Belonging is not sentimental. It is brought to God, cleansed by God, and returned to God.
 
@@ -144,7 +144,7 @@ The Spirit grows fruit by calling every hidden place back into cleansed belongin
 
 **Journal prompt:** Where have I separated my identity in God from honest surrender?
 
-**Morning impact:** Walk out of this page with courage, tenderness, and clarity.
+**Morning impact:** Let the Spirit carry Carry the Seal of Belonging into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit grows fruit by calling every hidden place back into cleansed belongin
 
 **Scripture Reference:** Exodus 35:17
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses the courtyard hangings, pillars, and entrance. Prayer beyond words is framed as Spirit-breathed witness that creates a guarded, honest threshold with God.
+**Context and language lens:** The courtyard hangings, pillars, and entrance. Prayer beyond words is framed as Spirit-breathed witness that creates a guarded, honest threshold with God.
 
 Exodus 35:17 names the courtyard boundaries and entrance. Sacred space has a threshold. There is a way to draw near.
 
@@ -172,7 +172,7 @@ The Spirit grows fruit by helping wordless hearts cross the threshold toward God
 
 **Journal prompt:** Where am I lingering near God but hesitating to come honestly closer?
 
-**Morning impact:** Receive the truth deeply enough that it changes your next decision.
+**Morning impact:** Let the Spirit carry Lean Into Prayer Beyond Words into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit grows fruit by helping wordless hearts cross the threshold toward God
 
 **Scripture Reference:** Exodus 35:18
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses the stakes and cords that hold the tabernacle and courtyard in place. Wind in the waiting is framed as set-apart stability when life feels exposed.
+**Context and language lens:** The stakes and cords that hold the tabernacle and courtyard in place. Wind in the waiting is framed as set-apart stability when life feels exposed.
 
 Exodus 35:18 names the stakes and cords. These are not the most glamorous pieces, but they help hold the sacred structure steady.
 
@@ -200,4 +200,4 @@ The Spirit grows fruit by anchoring surrendered hearts in hidden faithfulness.
 
 **Journal prompt:** What needs to be anchored before the next pressure pulls at me?
 
-**Morning impact:** Carry this like bread for the road, not decoration for the shelf.
+**Morning impact:** Let the Spirit carry See Again Wind in the Waiting into one faithful step today.

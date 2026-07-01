@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 1:7
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's making of ordered space and separation in creation. The new-heart emphasis becomes love that lets God form inner order where fear has blurred boundaries.
+**Context and language lens:** God's making of ordered space and separation in creation. The new-heart emphasis becomes love that lets God form inner order where fear has blurred boundaries.
 
 The Spirit's fruit grows best where God is allowed to bring order. Genesis 1:7 continues the creation movement of making space and setting boundaries. Life is being prepared before it is fully visible.
 
@@ -42,7 +42,7 @@ The Spirit grows fruit by bringing loving order to the inner life.
 
 **Scripture Reference:** Genesis 1:8
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God's naming of the expanse and the completion of the second day. Power to witness is framed as living under God's named order rather than needing to prove oneself.
+**Context and language lens:** God's naming of the expanse and the completion of the second day. Power to witness is framed as living under God's named order rather than needing to prove oneself.
 
 Witness becomes stronger when the heart stops trying to name itself. Genesis 1:8 shows God naming what He has made. Creation receives identity from the Creator.
 
@@ -70,7 +70,7 @@ The Spirit awakens witness by grounding identity in God's naming.
 
 **Scripture Reference:** Genesis 1:9
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses God's gathering of the waters and the appearing of dry land. Belonging is framed as God's ability to gather what feels scattered and reveal a place to stand.
+**Context and language lens:** God's gathering of the waters and the appearing of dry land. Belonging is framed as God's ability to gather what feels scattered and reveal a place to stand.
 
 Belonging often begins when God gathers what has been scattered. Genesis 1:9 shows ordered gathering and dry land appearing. A place to stand comes into view.
 
@@ -98,7 +98,7 @@ The Spirit gathers scattered places into belonging and steady ground.
 
 **Scripture Reference:** Genesis 1:10
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses God's naming of land and seas and His declaration of goodness. Prayer beyond words becomes resting in God's ability to name and hold what we cannot explain.
+**Context and language lens:** God's naming of land and seas and His declaration of goodness. Prayer beyond words becomes resting in God's ability to name and hold what we cannot explain.
 
 Some prayers begin when we stop trying to explain everything perfectly. Genesis 1:10 shows God naming land and seas, and seeing goodness in His ordered work.
 
@@ -126,7 +126,7 @@ The Spirit helps wordless prayer rest in God's naming care.
 
 **Scripture Reference:** Genesis 1:13
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the evening-and-morning rhythm of the third day. Wind in the waiting is framed as Spirit-nearness inside God's timing.
+**Context and language lens:** The evening-and-morning rhythm of the third day. Wind in the waiting is framed as Spirit-nearness inside God's timing.
 
 Waiting becomes harder when the heart forgets rhythm. Genesis 1:13 closes the third day with evening and morning. God's creative work is moving, but it is not frantic.
 
@@ -154,7 +154,7 @@ The Spirit gives breath inside God's unfolding rhythm.
 
 **Scripture Reference:** Genesis 1:14
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses God's appointment of lights for seasons, days, and years. Oil for the journey is framed as Spirit-given peace with God's markers and timing.
+**Context and language lens:** God's appointment of lights for seasons, days, and years. Oil for the journey is framed as Spirit-given peace with God's markers and timing.
 
 Peace comes when the journey is no longer measured only by anxiety. Genesis 1:14 shows God appointing lights for seasons, days, and years. Time is not outside His care.
 
@@ -182,7 +182,7 @@ The Spirit gives peaceful oil for the journey through God's ordered timing.
 
 **Scripture Reference:** Genesis 1:15
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the lights giving light upon the earth. Freedom in the Spirit is framed as walking in God's given light rather than being ruled by darkness or drivenness.
+**Context and language lens:** The lights giving light upon the earth. Freedom in the Spirit is framed as walking in God's given light rather than being ruled by darkness or drivenness.
 
 Freedom needs light. Genesis 1:15 shows the lights serving their purpose by giving light upon the earth. What God appoints, God also uses to bless the place where life is forming.
 

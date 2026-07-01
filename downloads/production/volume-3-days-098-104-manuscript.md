@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 2:5
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the earth before cultivated growth, before rain, and before human tilling. Power to witness is framed as honest dependence before visible fruit appears.
+**Context and language lens:** The earth before cultivated growth, before rain, and before human tilling. Power to witness is framed as honest dependence before visible fruit appears.
 
 There is a kind of honesty in Genesis 2:5. The ground is not pretending to be more fruitful than it is. The verse lets the reader stand before what is not yet growing, not yet watered, not yet tended by human hands.
 
@@ -42,7 +42,7 @@ The Spirit empowers truthful witness before visible fruit appears.
 
 **Scripture Reference:** Genesis 2:6
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the mist that waters the ground. The seal of belonging is framed as God's quiet mercy reaching the ground before the human story becomes visible.
+**Context and language lens:** The mist that waters the ground. The seal of belonging is framed as God's quiet mercy reaching the ground before the human story becomes visible.
 
 God's mercy can move quietly. Genesis 2:6 pictures water rising and touching the ground before the next formed life appears. It is not loud, but it is preparation.
 
@@ -70,7 +70,7 @@ The Spirit seals belonging by watering hidden places with quiet mercy.
 
 **Scripture Reference:** Genesis 2:8
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses God planting a garden and placing the man there. Prayer beyond words is framed as resting in the God who prepares a place before the heart can explain its need.
+**Context and language lens:** God planting a garden and placing the man there. Prayer beyond words is framed as resting in the God who prepares a place before the heart can explain its need.
 
 Genesis 2:8 shows God as the One who plants and places. Before the man is given tasks to name, tend, or guard, God prepares a place. Grace is already active before human explanation.
 
@@ -98,7 +98,7 @@ The Spirit carries wordless prayer to the God who prepares and places.
 
 **Scripture Reference:** Genesis 2:9
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the trees God caused to grow, including beauty, nourishment, life, and moral boundary. Wind in the waiting is framed as peaceful trust while desire learns holy order.
+**Context and language lens:** The trees God caused to grow, including beauty, nourishment, life, and moral boundary. Wind in the waiting is framed as peaceful trust while desire learns holy order.
 
 Genesis 2:9 brings beauty, nourishment, life, and boundary into the garden story. God does not form a bare place. He makes what is pleasant and good, while also teaching that desire must live under His wisdom.
 
@@ -126,7 +126,7 @@ The Spirit brings peaceful breath to desire that is learning God's order.
 
 **Scripture Reference:** Genesis 2:10
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the river flowing from Eden and dividing outward. Oil for the journey is framed as grace received at the source before it becomes outward movement.
+**Context and language lens:** The river flowing from Eden and dividing outward. Oil for the journey is framed as grace received at the source before it becomes outward movement.
 
 The journey begins with a source. Genesis 2:10 pictures a river flowing from Eden before it divides outward. Movement is real, but it comes from what God has already provided.
 
@@ -154,7 +154,7 @@ The Spirit gives oil for the journey by drawing movement from God's living sourc
 
 **Scripture Reference:** Genesis 2:11
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses the named river and land. Freedom in the Spirit is framed as guided movement that can be named, directed, and kept from wandering into greed.
+**Context and language lens:** The named river and land. Freedom in the Spirit is framed as guided movement that can be named, directed, and kept from wandering into greed.
 
 Genesis 2:11 does not leave movement vague. The river has a name, a direction, and a land it surrounds. God's world includes flow, but it is not formless wandering.
 
@@ -182,7 +182,7 @@ The Spirit frees the heart by giving movement a submitted direction.
 
 **Scripture Reference:** Genesis 2:12
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the goodness and beauty associated with the land. The Breath of God is framed as a renewed heart that values hidden gifts without worshiping them.
+**Context and language lens:** The goodness and beauty associated with the land. The Breath of God is framed as a renewed heart that values hidden gifts without worshiping them.
 
 Genesis 2:12 notices goodness and beauty in the land. The text does not treat created gifts as worthless. It also does not make them ultimate.
 

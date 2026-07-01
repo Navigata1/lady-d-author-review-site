@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Judges 15:5
 
-**Production lens correction:** The architecture assigned `esh`; the production lens treats this retaliatory fire scene as a warning about destructive escalation, not as a pattern for Spirit-filled action.
+**Context and language lens:** This lens treats this retaliatory fire scene as a warning about destructive escalation, not as a pattern for Spirit-filled action.
 
 Daily life gives the heart many chances to choose what kind of fire it will carry. Judges 15:5 belongs to a painful chain of retaliation. The fire is real, but it is not holy fire for the believer to imitate. It shows how quickly anger can become organized damage.
 
@@ -32,7 +32,7 @@ The Spirit's wind can cool the place where anger wants to organize destruction.
 
 **Journal prompt:** Where is my response in danger of becoming bigger than the wound?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Behold Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit's wind can cool the place where anger wants to organize destruction.
 
 **Scripture Reference:** Judges 15:6
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the tragic fallout in the story to expose fear, blame, and communal violence rather than treating the scene as devotional behavior.
+**Context and language lens:** The tragic fallout in the story to expose fear, blame, and communal violence rather than treating the scene as devotional behavior.
 
 Some consequences reveal how far fear can travel. Judges 15:6 shows a community reacting with its own violence after trying to trace blame. The story is not clean. It is a warning about how sin, fear, and revenge can keep passing pain from one set of hands to another.
 
@@ -60,7 +60,7 @@ The Spirit consecrates the journey by stopping pain from becoming your pattern.
 
 **Journal prompt:** What pain pattern am I tempted to pass forward?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Follow Oil for the Journey into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit consecrates the journey by stopping pain from becoming your pattern.
 
 **Scripture Reference:** Judges 3:10
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the Spirit coming upon Othniel because the passage centers on God raising deliverance and wise leadership in a pressured time.
+**Context and language lens:** The Spirit coming upon Othniel because the passage centers on God raising deliverance and wise leadership in a pressured time.
 
 Freedom in the Spirit is not self-release. It is God bringing deliverance where His people cannot rescue themselves. Judges 3:10 shows the Spirit of the Lord coming upon Othniel, who then leads and judges Israel in a time of oppression.
 
@@ -88,7 +88,7 @@ The Spirit gives freedom that can lead without forgetting who delivered first.
 
 **Journal prompt:** Where do I need Spirit-given wisdom more than self-rescue?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Rest in Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit gives freedom that can lead without forgetting who delivered first.
 
 **Scripture Reference:** Judges 6:10
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses God's reminder through the prophet because the passage centers on hearing the Lord's voice and recognizing disobedience without despair.
+**Context and language lens:** God's reminder through the prophet because the passage centers on hearing the Lord's voice and recognizing disobedience without despair.
 
 The breath of God can come as a word that wakes the heart. Judges 6:10 recalls the Lord's command and the people's failure to listen. The verse is not meant to crush the reader; it is meant to stop the drift before fear becomes normal.
 
@@ -116,7 +116,7 @@ The Spirit wakes the heart by making God's voice mercifully hard to ignore.
 
 **Journal prompt:** What has God already shown me that I have been slow to obey?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Wake Up to the Breath of God into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit wakes the heart by making God's voice mercifully hard to ignore.
 
 **Scripture Reference:** Judges 6:18
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Gideon's request for the Lord's messenger to wait while he brings an offering because the verse centers on hesitant faith seeking assurance.
+**Context and language lens:** Gideon's request for the Lord's messenger to wait while he brings an offering because the verse centers on hesitant faith seeking assurance.
 
 The Comforter is near to hesitant faith. Judges 6:18 shows Gideon asking the messenger to wait while he brings an offering. Gideon is not yet bold. He is trying to respond, but he needs assurance.
 
@@ -144,7 +144,7 @@ The Spirit comforts by waiting near enough to refine fear into offering.
 
 **Journal prompt:** What small offering can I bring while my faith is still learning courage?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Let Fire Refine the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit comforts by waiting near enough to refine fear into offering.
 
 **Scripture Reference:** Judges 6:21
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the fire that consumes Gideon's offering as holy confirmation, not spectacle or emotional display.
+**Context and language lens:** The fire that consumes Gideon's offering as holy confirmation, not spectacle or emotional display.
 
 Holy fire confirms what belongs to God. Judges 6:21 shows the offering consumed in a way that awakens Gideon to the seriousness of the Lord's presence. This fire is not for entertainment. It is holy confirmation.
 
@@ -172,7 +172,7 @@ The Spirit's fire brings the heart home to reverence, surrender, and courage.
 
 **Journal prompt:** What have I placed before God but kept trying to take back?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Come Home to Holy Fire into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit's fire brings the heart home to reverence, surrender, and courage.
 
 **Scripture Reference:** Judges 6:34
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the Spirit clothing Gideon because the passage centers on God covering weakness with courage for a needed call.
+**Context and language lens:** The Spirit clothing Gideon because the passage centers on God covering weakness with courage for a needed call.
 
 Dry courage needs to be clothed by God. Judges 6:34 shows the Spirit of the Lord clothing Gideon, and Gideon sounding a call. This is not courage manufactured by personality. It is weakness covered for obedience.
 
@@ -200,4 +200,4 @@ The Spirit clothes weakness with courage that belongs to God.
 
 **Journal prompt:** Where do I need to be clothed by the Spirit before I try to act brave?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Practice Rain for Dry Places into one faithful step today.

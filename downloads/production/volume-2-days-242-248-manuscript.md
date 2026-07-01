@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 21:25
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses Jesus' question about John's baptism because discipleship begins by answering truthfully when Jesus presses beneath evasions.
+**Context and language lens:** Jesus' question about John's baptism because discipleship begins by answering truthfully when Jesus presses beneath evasions.
 
 Matthew 21:25 brings the authority conversation to a sharper place. Jesus asks the leaders to name the source of John's baptism. The question is simple, but it reveals whether they are willing to follow truth or protect position.
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting truth become a path, not a debate.
 
 **Scripture Reference:** Matthew 21:27
 
-**Production lens note:** The architecture assigns sozo; the production lens uses the leaders' refusal to answer because saving wholeness refuses to let dishonesty pretend to be wisdom.
+**Context and language lens:** The leaders' refusal to answer because saving wholeness refuses to let dishonesty pretend to be wisdom.
 
 Matthew 21:27 is sad. The leaders say they do not know. Their words are not humble uncertainty; they are strategic avoidance. Jesus does not reward the evasion with more explanation.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting wholeness make your yes and no clean.
 
 **Scripture Reference:** Matthew 21:28
 
-**Production lens note:** The architecture assigns eirene; the production lens uses the opening of the two sons parable because peace becomes visible when a son hears the father's call to work.
+**Context and language lens:** The opening of the two sons parable because peace becomes visible when a son hears the father's call to work.
 
 Matthew 21:28 opens a parable with a father's request. A son is called to work in the vineyard. The scene is ordinary, but it reaches into the way obedience becomes visible.
 
@@ -98,7 +98,7 @@ Walking with Jesus means letting compassion become willing service.
 
 **Scripture Reference:** Matthew 21:31
 
-**Production lens note:** The architecture assigns kyrios; the production lens uses Jesus' question about doing the father's will because Lordship values repentant obedience more than impressive reputation.
+**Context and language lens:** Jesus' question about doing the father's will because Lordship values repentant obedience more than impressive reputation.
 
 Matthew 21:31 asks which son did the father's will. Jesus then speaks a hard mercy to religious leaders: those they despised were entering the kingdom ahead of them because repentance had become obedience.
 
@@ -126,7 +126,7 @@ Walking with Jesus means serving where repentance is becoming life.
 
 **Scripture Reference:** Matthew 21:32
 
-**Production lens note:** The architecture assigns phos; the production lens uses Jesus naming unbelief and unrepentance because light exposes where the heart refuses grace even after seeing it work.
+**Context and language lens:** Jesus naming unbelief and unrepentance because light exposes where the heart refuses grace even after seeing it work.
 
 Matthew 21:32 keeps the wound open long enough for healing truth. Jesus says John came in the way of righteousness, and the people with stained reputations believed. The religious leaders saw it and still did not change their minds.
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting witnessed grace change your heart.
 
 **Scripture Reference:** Matthew 21:37
 
-**Production lens note:** The architecture assigns akoloutheo; the production lens uses the vineyard owner sending his son because discipleship receives the beloved Son with reverence instead of fear.
+**Context and language lens:** The vineyard owner sending his son because discipleship receives the beloved Son with reverence instead of fear.
 
 Matthew 21:37 turns the parable toward the son. After rejected servants, the owner sends his son. The verse carries tenderness and gravity. The son comes as the fullest appeal.
 
@@ -182,7 +182,7 @@ Walking with Jesus means receiving the Son before representing Him.
 
 **Scripture Reference:** Matthew 21:41
 
-**Production lens note:** The architecture assigns sozo; the production lens uses the judgment on wicked tenants because saving wholeness protects the vineyard so fruit can be given in season.
+**Context and language lens:** The judgment on wicked tenants because saving wholeness protects the vineyard so fruit can be given in season.
 
 Matthew 21:41 is severe. The listeners answer that wicked tenants will be removed and the vineyard given to others who will yield fruit. The verse reminds us that mercy is not indifferent to harm.
 

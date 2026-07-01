@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Exodus 35:32
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses Spirit-enabled design for skilled work. Wind in the waiting is framed as strength for patient imagination that serves the body.
+**Context and language lens:** Spirit-enabled design for skilled work. Wind in the waiting is framed as strength for patient imagination that serves the body.
 
 Exodus 35:32 points to designed work in costly materials. Skill is not random. The Spirit can give wisdom that sees what is not yet formed and helps bring it into faithful shape.
 
@@ -42,7 +42,7 @@ The Spirit gives gifts for the body by strengthening patient imagination.
 
 **Scripture Reference:** Exodus 35:33
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses stone-setting, carving, and skilled workmanship. Oil for the journey is framed as renewal for detailed service that can otherwise become dry.
+**Context and language lens:** Stone-setting, carving, and skilled workmanship. Oil for the journey is framed as renewal for detailed service that can otherwise become dry.
 
 Exodus 35:33 honors careful workmanship. Some gifts require detail, repetition, pressure, and patience with small things.
 
@@ -70,7 +70,7 @@ The Spirit gives gifts for the body by renewing detailed service.
 
 **Scripture Reference:** Exodus 35:34
 
-**Production lens correction:** The architecture assigned `qol`; the production lens uses God-given ability to teach. Freedom in the Spirit is framed as hearing God's nearness through gifts that multiply by equipping others.
+**Context and language lens:** God-given ability to teach. Freedom in the Spirit is framed as hearing God's nearness through gifts that multiply by equipping others.
 
 Exodus 35:34 includes the ability to teach. The gift is not locked inside one person. It is meant to be shared, multiplied, and passed along.
 
@@ -98,7 +98,7 @@ The Spirit gives gifts for the body by turning ability into shared equipping.
 
 **Scripture Reference:** Numbers 11:4
 
-**Production lens correction:** The architecture assigned `naba`; the production lens uses craving and complaint in the wilderness. The breath of God is framed as Spirit-breathed witness that protects gifts for the body from appetite-led discontent.
+**Context and language lens:** Craving and complaint in the wilderness. The breath of God is framed as Spirit-breathed witness that protects gifts for the body from appetite-led discontent.
 
 Numbers 11:4 introduces craving in the camp. Desire begins to pull the people away from trust.
 
@@ -126,7 +126,7 @@ The Spirit gives gifts for the body by breathing trust where craving wants contr
 
 **Scripture Reference:** Numbers 11:5
 
-**Production lens correction:** The architecture assigned `mashach`; the production lens uses nostalgia for Egypt's food. The Comforter's nearness is framed as a set-apart anchor when memory idealizes what God has delivered the heart from.
+**Context and language lens:** Nostalgia for Egypt's food. The Comforter's nearness is framed as a set-apart anchor when memory idealizes what God has delivered the heart from.
 
 Numbers 11:5 remembers old food while forgetting old bondage. Nostalgia can edit the past until slavery starts looking safe.
 
@@ -154,7 +154,7 @@ The Spirit gives gifts for the body by anchoring memory in truth.
 
 **Scripture Reference:** Numbers 11:6
 
-**Production lens correction:** The architecture assigned `chayil`; the production lens uses the people's complaint that their soul felt dried out. Holy fire is framed as Spirit-given strength that refuses contempt for God's provision.
+**Context and language lens:** The people's complaint that their soul felt dried out. Holy fire is framed as Spirit-given strength that refuses contempt for God's provision.
 
 Numbers 11:6 exposes a dry and dissatisfied soul. Provision is present, but contempt has made it feel like nothing.
 
@@ -182,7 +182,7 @@ The Spirit gives gifts for the body by strengthening gratitude where contempt ha
 
 **Scripture Reference:** Numbers 11:7
 
-**Production lens correction:** The architecture assigned `mayim`; the production lens uses the description of manna after the complaint. Rain for dry places is framed as renewal that teaches the heart to see provision again.
+**Context and language lens:** The description of manna after the complaint. Rain for dry places is framed as renewal that teaches the heart to see provision again.
 
 Numbers 11:7 returns attention to manna itself. The provision was there even when the people were tired of seeing it.
 

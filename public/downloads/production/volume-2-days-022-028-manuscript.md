@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Revelation 1:1
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the opening of Revelation as the unveiling of Jesus Christ because peace begins when fear is led by what God reveals, not by what the heart imagines.
+**Context and language lens:** The opening of Revelation as the unveiling of Jesus Christ because peace begins when fear is led by what God reveals, not by what the heart imagines.
 
 The Friend who leads does not leave His people guessing in the dark. Revelation 1:1 opens with unveiling. God gives the revelation of Jesus Christ for His servants, and the message is carried with purpose. Before Revelation speaks of conflict, endurance, judgment, and hope, it begins by showing that Jesus is not absent from history.
 
@@ -32,7 +32,7 @@ Walking with Jesus means trusting the Friend who reveals enough for today's obed
 
 **Journal prompt:** Where is Jesus inviting me to obey from revealed light instead of waiting for full control?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Yield to the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -42,9 +42,9 @@ Walking with Jesus means trusting the Friend who reveals enough for today's obed
 
 **Scripture Reference:** Revelation 22:20
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' closing promise to come because the verse centers on His trusted authority over hope, waiting, and longing.
+**Context and language lens:** Jesus' closing promise to come because the verse centers on His trusted authority over hope, waiting, and longing.
 
-The light on the path is anchored by the promise of Jesus. Revelation 22:20 stands near the close of Scripture with a holy longing. The church does not end the story by trusting human progress, spiritual performance, or perfect circumstances. The heart answers the promise of Christ with desire for His appearing.
+The light on the path is anchored by the promise of Jesus. Revelation 22:20 stands near the close of Scripture with a holy longing. The church does not end the story by trusting human progress, spiritual self-display, or perfect circumstances. The heart answers the promise of Christ with desire for His appearing.
 
 Kyrios means Lord: trusted authority, not religious decoration. Jesus is Lord over the waiting. He is Lord over the ache for things to be made right. He is Lord over the tired places that still whisper, "Come." His promise steadies hope because His authority is not fragile.
 
@@ -60,7 +60,7 @@ Walking with Jesus means letting His coming future train today's faithfulness.
 
 **Journal prompt:** How would my choices today change if I began from the promise that Jesus is coming?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Anchor the Light on the Path in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting His coming future train today's faithfulness.
 
 **Scripture Reference:** Revelation 22:21
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses the final grace blessing because grace is the light that steadies the heart at the close of the story and sends the disciple into faithful rest.
+**Context and language lens:** The final grace blessing because grace is the light that steadies the heart at the close of the story and sends the disciple into faithful rest.
 
 The invitation ends in grace because the walk with Jesus begins, continues, and finishes by grace. Revelation 22:21 closes with the grace of the Lord Jesus. After prophecy, warning, promise, worship, and longing, the final word is not fear. It is grace.
 
@@ -88,7 +88,7 @@ Walking with Jesus means discovering again that His grace is the light for the w
 
 **Journal prompt:** Where do I need the grace of Jesus to become light instead of only a word I know?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Discover the Invitation in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means discovering again that His grace is the light for the w
 
 **Scripture Reference:** 1 Peter 5:10
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses the God of all grace restoring, confirming, strengthening, and establishing His people because following Jesus includes being formed after suffering.
+**Context and language lens:** The God of all grace restoring, confirming, strengthening, and establishing His people because following Jesus includes being formed after suffering.
 
 The Shepherd's voice is not only heard in easy pasture. 1 Peter 5:10 speaks to believers who know suffering, but it does not leave them there. The God of all grace is named as the One who restores, confirms, strengthens, and establishes. Grace has hands. Grace rebuilds.
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting grace establish what suffering tried to shake.
 
 **Journal prompt:** Where is God restoring, confirming, strengthening, or establishing me right now?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Receive the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting grace establish what suffering tried to shake.
 
 **Scripture Reference:** 1 Peter 5:4
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses Christ as the Chief Shepherd whose appearing gives hope to faithful service because saving wholeness is held by His care and His reward.
+**Context and language lens:** Christ as the Chief Shepherd whose appearing gives hope to faithful service because saving wholeness is held by His care and His reward.
 
 The road with Jesus is watched by the Chief Shepherd. 1 Peter 5:4 points the heart toward Christ's appearing and the unfading crown of glory. The servant of God does not labor unseen. The shepherding heart does not pour out in vain.
 
@@ -144,7 +144,7 @@ Walking with Jesus means serving under the care of the Shepherd who will appear.
 
 **Journal prompt:** Where do I need to trust that Jesus sees service others may overlook?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Trust the Road with Jesus in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means serving under the care of the Shepherd who will appear.
 
 **Scripture Reference:** Matthew 10:1
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses Jesus calling the Twelve near and giving authority because peace is formed by nearness to Christ before mission is carried outward.
+**Context and language lens:** Jesus calling the Twelve near and giving authority because peace is formed by nearness to Christ before mission is carried outward.
 
 Hope rises when Jesus calls His disciples near. Matthew 10:1 comes before the sending. Jesus calls the Twelve to Himself and gives them authority for the work ahead. Mission does not begin with noise. It begins with nearness.
 
@@ -172,7 +172,7 @@ Walking with Jesus means receiving nearness before carrying assignment.
 
 **Journal prompt:** Where have I been trying to serve without first coming near to Jesus?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Let Hope Rise the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means receiving nearness before carrying assignment.
 
 **Scripture Reference:** Matthew 10:13
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses Jesus' instruction about peace resting on a worthy household because His Lordship governs how disciples offer peace without forcing reception.
+**Context and language lens:** Jesus' instruction about peace resting on a worthy household because His Lordship governs how disciples offer peace without forcing reception.
 
 The way of peace is carried, but it is not forced. Matthew 10:13 places peace in the hands of disciples who enter homes under Jesus' instruction. They offer peace with sincerity, but they do not control how it is received.
 
@@ -200,4 +200,4 @@ Walking with Jesus means carrying peace faithfully and trusting Him with the res
 
 **Journal prompt:** What room, relationship, or conversation needs me to carry peace without forcing an outcome?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Carry the Way of Peace in one faithful step today.

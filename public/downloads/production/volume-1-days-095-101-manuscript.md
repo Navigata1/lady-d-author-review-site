@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 32:28
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `lo Yaakov/yemare od shimkha/ki im Yisrael/sarita/im Elohim/anasim/tukhal` - no longer Jacob, but Israel, because you have struggled with God and with men and have prevailed - because the verse centers on Jacob's renamed identity after the night of wrestling.
+**Context and language lens:** `lo Yaakov/yemare od shimkha/ki im Yisrael/sarita/im Elohim/anasim/tukhal` - no longer Jacob, but Israel, because you have struggled with God and with men and have prevailed - because the verse centers on Jacob's renamed identity after the night of wrestling.
 
 Mercy can rename what struggle has not been able to destroy. Genesis 32:28 comes after Jacob's long night, and the word spoken over him is not a denial of his story. He is no longer only Jacob. He is given the name Israel after wrestling with God and with people.
 
@@ -32,7 +32,7 @@ Do not rush past the verse. Let the Father steady you with a name that is larger
 
 **Journal prompt:** What old name needs to lose authority because God's mercy has spoken something truer?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry See Again Love That Finds You into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Do not rush past the verse. Let the Father steady you with a name that is larger
 
 **Scripture Reference:** Genesis 32:30
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `Peniel/raiti Elohim/panim el panim/vattinnatsel nafshi` - Peniel, I have seen God face to face, and my life was delivered - because the verse centers on Jacob naming the place after a mercy-filled encounter with God.
+**Context and language lens:** `Peniel/raiti Elohim/panim el panim/vattinnatsel nafshi` - Peniel, I have seen God face to face, and my life was delivered - because the verse centers on Jacob naming the place after a mercy-filled encounter with God.
 
 Grace before performance is the wonder of surviving holy encounter. Genesis 32:30 says Jacob called the place Peniel because he had seen God face to face, and his life was delivered. Before Jacob could manage the meeting with Esau, before he could prove he had changed, mercy had already met him.
 
@@ -60,7 +60,7 @@ The Father does not need you frantic in order to form you. He lets grace come fi
 
 **Journal prompt:** Where am I trying to perform for peace before receiving the grace God has already given?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Love Teach Grace Before Striving into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Father does not need you frantic in order to form you. He lets grace come fi
 
 **Scripture Reference:** Genesis 32:5
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `shor/chamor/tson/eved/shifchah/shalach lehaggid/limtso chen` - oxen, donkeys, flocks, servants, sent to tell, and to find favor - because the verse shows Jacob sending a humble report ahead as he seeks favor before meeting Esau.
+**Context and language lens:** `shor/chamor/tson/eved/shifchah/shalach lehaggid/limtso chen` - oxen, donkeys, flocks, servants, sent to tell, and to find favor - because the verse shows Jacob sending a humble report ahead as he seeks favor before meeting Esau.
 
 Mercy in the morning can look like humility sent ahead of fear. Genesis 32:5 shows Jacob sending word to Esau. He names what he has, explains where he has been, and seeks favor in his brother's sight.
 
@@ -88,7 +88,7 @@ Take one surrendered step before worry gets the first word. Let mercy be awake b
 
 **Journal prompt:** What honest word of humility may need to go ahead of me?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Awaken Mercy in the Morning into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Take one surrendered step before worry gets the first word. Let mercy be awake b
 
 **Scripture Reference:** Genesis 32:9
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `Elohei avi Avraham/Elohei avi Yitzchaq/YHWH/omer shuv/artsekha/moledtekha/eitivah immakh` - God of my father Abraham, God of my father Isaac, the Lord who told me to return, and I will deal well with you - because the verse centers on Jacob praying from God's promise while facing fear.
+**Context and language lens:** `Elohei avi Avraham/Elohei avi Yitzchaq/YHWH/omer shuv/artsekha/moledtekha/eitivah immakh` - God of my father Abraham, God of my father Isaac, the Lord who told me to return, and I will deal well with you - because the verse centers on Jacob praying from God's promise while facing fear.
 
 The Father's patience teaches fearful people how to pray from promise. Genesis 32:9 opens Jacob's prayer with memory: God of Abraham, God of Isaac, the Lord who told him to return and promised to deal well with him.
 
@@ -116,7 +116,7 @@ Let prayer turn insight into obedience before noon. Promise remembered in prayer
 
 **Journal prompt:** What promise do I need to pray back before I face the next mercy step?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Embrace the Father's Patience into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Let prayer turn insight into obedience before noon. Promise remembered in prayer
 
 **Scripture Reference:** Genesis 45:13
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `higgadtem leavi/kol kevodi beMitzrayim/kol asher reitem/mihratem/horadetem et avi hennah` - tell my father of all my honor in Egypt, all that you have seen, hurry, and bring my father here - because the verse shows Joseph turning restored sight into urgent family restoration.
+**Context and language lens:** `higgadtem leavi/kol kevodi beMitzrayim/kol asher reitem/mihratem/horadetem et avi hennah` - tell my father of all my honor in Egypt, all that you have seen, hurry, and bring my father here - because the verse shows Joseph turning restored sight into urgent family restoration.
 
 Love stronger than fear knows when to send good news home. Genesis 45:13 belongs to Joseph's family restoration. After years of hidden grief, loss, and distance, Joseph tells his brothers to report what they have seen and hurry to bring his father down to him.
 
@@ -144,7 +144,7 @@ Start from what God has revealed, not from what the day is demanding.
 
 **Journal prompt:** Where might God be inviting me to stop withholding hope?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Remember Love Stronger Than Fear into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Start from what God has revealed, not from what the day is demanding.
 
 **Scripture Reference:** Genesis 45:18
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `qechu et avikhem/et batteikhem/bo'u elai/ettenah lakhem et tuv erets Mitzrayim/achlu et chelev haaretz` - take your father and households, come to me, I will give you the good of the land of Egypt, and you shall eat the fat of the land - because the verse centers on provision being opened for a restored family.
+**Context and language lens:** `qechu et avikhem/et batteikhem/bo'u elai/ettenah lakhem et tuv erets Mitzrayim/achlu et chelev haaretz` - take your father and households, come to me, I will give you the good of the land of Egypt, and you shall eat the fat of the land - because the verse centers on provision being opened for a restored family.
 
 Restoring compassion becomes practical. Genesis 45:18 does not leave Joseph's family with only emotion. They are told to bring their father and households, to come, and to receive the good of the land. Compassion makes room.
 
@@ -172,7 +172,7 @@ Do not rush past the verse. Let it steady you before you move. The good of the l
 
 **Journal prompt:** If mercy had hands today, what faithful action would it take?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Walk in Restoring Compassion into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Do not rush past the verse. Let it steady you before you move. The good of the l
 
 **Scripture Reference:** Genesis 45:19
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `tsuvvetah/zot asu/qechu agalot/tapekhem/nesheikhem/nesatem et avikhem/ba'tem` - you are commanded, do this, take wagons for your little ones and wives, carry your father, and come - because the verse gives concrete provision for the family's return.
+**Context and language lens:** `tsuvvetah/zot asu/qechu agalot/tapekhem/nesheikhem/nesatem et avikhem/ba'tem` - you are commanded, do this, take wagons for your little ones and wives, carry your father, and come - because the verse gives concrete provision for the family's return.
 
 The promise that holds often arrives with a wagon for the weak. Genesis 45:19 gives Joseph's family practical instruction: take wagons for the little ones and wives, carry the father, and come. The restored path includes those who cannot make the journey by strength alone.
 
@@ -200,4 +200,4 @@ The Father knows how to bring a family forward without abandoning the fragile.
 
 **Journal prompt:** What vulnerable place needs to be carried gently instead of hurried?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Let Peace Lead the Promise That Holds into one faithful step today.

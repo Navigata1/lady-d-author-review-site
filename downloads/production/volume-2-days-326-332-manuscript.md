@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 10:19
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Jesus' instruction not to be anxious about forced speech because resurrection hope trusts the living Christ before the words arrive.
+**Context and language lens:** Jesus' instruction not to be anxious about forced speech because resurrection hope trusts the living Christ before the words arrive.
 
 Matthew 10:19 speaks into a pressured moment. Jesus knows His disciples may stand where they do not feel ready, and He tells them not to be consumed by anxious rehearsing.
 
@@ -42,7 +42,7 @@ Walking with Jesus means trusting the living Shepherd before you know every word
 
 **Scripture Reference:** Matthew 10:20
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' promise of the Father's Spirit speaking because abiding keeps the disciple available to divine help under pressure.
+**Context and language lens:** Jesus' promise of the Father's Spirit speaking because abiding keeps the disciple available to divine help under pressure.
 
 Matthew 10:20 brings comfort after warning. Jesus points His disciples to the Spirit's help when witness feels beyond their own capacity.
 
@@ -70,7 +70,7 @@ Walking with Jesus means staying close enough to receive help that is not manufa
 
 **Scripture Reference:** Matthew 10:21
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses Jesus' warning about family betrayal because Christ's compassion tells the truth about pain without abandoning the wounded heart.
+**Context and language lens:** Jesus' warning about family betrayal because Christ's compassion tells the truth about pain without abandoning the wounded heart.
 
 Matthew 10:21 names one of the hardest kinds of pain: opposition that comes through close relationships. Jesus does not romanticize discipleship or pretend that every wound will come from strangers.
 
@@ -98,7 +98,7 @@ Walking with Jesus means bringing close relational pain into the nearness of the
 
 **Scripture Reference:** Matthew 10:22
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' call to endure hatred for His name because the Teacher forms perseverance without feeding a persecution identity.
+**Context and language lens:** Jesus' call to endure hatred for His name because the Teacher forms perseverance without feeding a persecution identity.
 
 Matthew 10:22 speaks of hatred and endurance. The words are sober, but Jesus does not give them so His people can build an identity around being hated. He gives them so they can endure with Him.
 
@@ -126,7 +126,7 @@ Walking with Jesus means enduring in His name without letting opposition become 
 
 **Scripture Reference:** Matthew 10:26
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Jesus' instruction not to fear hidden opposition because the road with Jesus trusts that God will bring truth into the light.
+**Context and language lens:** Jesus' instruction not to fear hidden opposition because the road with Jesus trusts that God will bring truth into the light.
 
 Matthew 10:26 tells the disciple not to fear people whose secrecy seems powerful. What is hidden will not stay hidden forever.
 
@@ -154,7 +154,7 @@ Walking with Jesus means staying on the road of faithful mercy while God holds w
 
 **Scripture Reference:** Matthew 10:27
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Jesus' command to speak in the light because resurrection hope turns private formation into public courage.
+**Context and language lens:** Jesus' command to speak in the light because resurrection hope turns private formation into public courage.
 
 Matthew 10:27 moves from hearing to speaking. What Jesus forms in the hidden place is not meant to die there.
 
@@ -182,7 +182,7 @@ Walking with Jesus means receiving His word privately and carrying it faithfully
 
 **Scripture Reference:** Matthew 10:28
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' teaching on fear of God over fear of people because abiding courage places ultimate reverence where it belongs.
+**Context and language lens:** Jesus' teaching on fear of God over fear of people because abiding courage places ultimate reverence where it belongs.
 
 Matthew 10:28 is direct and holy. Jesus does not deny human danger, but He refuses to let human threat become ultimate.
 

@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 28:1
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `wayyiqra/Yitzchaq/el-Yaakov/vayevarekh/vayetzav/lo tiqqach/ishshah/mibnot Kena'an` - Isaac called Jacob, blessed him, charged him, do not take, wife, and daughters of Canaan - because the verse centers on a fatherly charge and a boundary for Jacob's next step.
+**Context and language lens:** `wayyiqra/Yitzchaq/el-Yaakov/vayevarekh/vayetzav/lo tiqqach/ishshah/mibnot Kena'an` - Isaac called Jacob, blessed him, charged him, do not take, wife, and daughters of Canaan - because the verse centers on a fatherly charge and a boundary for Jacob's next step.
 
 Fire refines love when the next step needs a boundary. Genesis 28:1 shows Isaac calling Jacob, blessing him, and charging him not to take a wife from the daughters of Canaan. It is a family moment, but it is also a direction-setting moment.
 
@@ -42,7 +42,7 @@ Ask what boundary is protecting the promise rather than punishing your desire. T
 
 **Scripture Reference:** Genesis 28:13
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `YHWH/nitzav alav/ani YHWH/Elohei Avraham/Elohei Yitzchaq/ha-aretz/atah shokhev/lekha etennenah/lezareka` - the Lord stood, I am the Lord, God of Abraham, God of Isaac, the land on which you lie, I will give to you and your seed - because God meets Jacob with covenant identity and promise while Jacob is away from home.
+**Context and language lens:** `YHWH/nitzav alav/ani YHWH/Elohei Avraham/Elohei Yitzchaq/ha-aretz/atah shokhev/lekha etennenah/lezareka` - the Lord stood, I am the Lord, God of Abraham, God of Isaac, the land on which you lie, I will give to you and your seed - because God meets Jacob with covenant identity and promise while Jacob is away from home.
 
 Restoring compassion can find you on the road before you know how to come home. Genesis 28:13 places Jacob in a vulnerable in-between place, and the Lord stands near with covenant language: the God of Abraham, the God of Isaac, and a promise tied to the land beneath Jacob's head.
 
@@ -70,7 +70,7 @@ The Father knows how to turn a hard resting place into a place of encounter.
 
 **Scripture Reference:** Genesis 28:19
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `wayyiqra/shem/ha-maqom/Bet-El/Luz/shem-ha-ir/larishonah` - he called, name of the place, Bethel, and Luz was the former name of the city - because Jacob marks the place by God's presence after the night of encounter.
+**Context and language lens:** `wayyiqra/shem/ha-maqom/Bet-El/Luz/shem-ha-ir/larishonah` - he called, name of the place, Bethel, and Luz was the former name of the city - because Jacob marks the place by God's presence after the night of encounter.
 
 The promise that holds teaches you to rename a place by God's presence. Genesis 28:19 says Jacob called the place Bethel, though its former name was Luz. The ground did not change shape, but Jacob's understanding changed. He had met God there.
 
@@ -98,7 +98,7 @@ Do not rush past the verse. Ask where the Father is inviting you to remember, "G
 
 **Scripture Reference:** Genesis 28:2
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `qum/lekh/Paddan-aram/beit Betuel/avi immekha/qach-ishshah/mibnot Lavan/achi immekha` - arise, go, Paddan-aram, house of Bethuel, your mother's father, take a wife, daughters of Laban, and your mother's brother - because the verse gives Jacob a concrete destination and family direction.
+**Context and language lens:** `qum/lekh/Paddan-aram/beit Betuel/avi immekha/qach-ishshah/mibnot Lavan/achi immekha` - arise, go, Paddan-aram, house of Bethuel, your mother's father, take a wife, daughters of Laban, and your mother's brother - because the verse gives Jacob a concrete destination and family direction.
 
 Mercy and forgiveness often begin with a concrete next step. Genesis 28:2 opens April by sending Jacob toward Paddan-aram, to the house connected with his mother's family. The instruction is not vague. Arise. Go. Take the next step in a direction that protects covenant identity.
 
@@ -126,7 +126,7 @@ Love that sends you does not abandon you on the road. It gives direction because
 
 **Scripture Reference:** Genesis 28:7
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `vayishma Yaakov/el-aviv/ve'el-immo/vayelekh/Paddan-aram` - Jacob listened to his father and his mother and went to Paddan-aram - because the verse shows Jacob responding to instruction with movement.
+**Context and language lens:** `vayishma Yaakov/el-aviv/ve'el-immo/vayelekh/Paddan-aram` - Jacob listened to his father and his mother and went to Paddan-aram - because the verse shows Jacob responding to instruction with movement.
 
 Hope rises when listening becomes movement. Genesis 28:7 is simple: Jacob listened to his father and mother and went to Paddan-aram. The verse does not decorate obedience. It shows instruction received and a step taken.
 
@@ -154,7 +154,7 @@ Take one surrendered step before worry gets the first word. Hope will not always
 
 **Scripture Reference:** Genesis 28:8
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `vayyar Esav/benot Kena'an/ra'ot/be'einei Yitzchaq aviv` - Esau saw, daughters of Canaan, displeasing or evil, in the eyes of Isaac his father - because the verse shows Esau recognizing what grieved his father after Jacob's departure.
+**Context and language lens:** `vayyar Esav/benot Kena'an/ra'ot/be'einei Yitzchaq aviv` - Esau saw, daughters of Canaan, displeasing or evil, in the eyes of Isaac his father - because the verse shows Esau recognizing what grieved his father after Jacob's departure.
 
 The Father's welcome does not hide what certain choices have done. Genesis 28:8 shows Esau seeing that the daughters of Canaan were displeasing in Isaac's eyes. This is a painful family verse because awareness comes after a pattern has already formed.
 
@@ -182,7 +182,7 @@ Let prayer turn insight into obedience before noon. Mercy that sees clearly can 
 
 **Scripture Reference:** Genesis 32:2
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `machaneh Elohim/zeh/wayyiqra/shem/ha-maqom/Machanayim` - camp of God, this, called, name of the place, and Mahanaim - because Jacob recognizes God's company on the road and names the place accordingly.
+**Context and language lens:** `machaneh Elohim/zeh/wayyiqra/shem/ha-maqom/Machanayim` - camp of God, this, called, name of the place, and Mahanaim - because Jacob recognizes God's company on the road and names the place accordingly.
 
 Beloved identity is strengthened when you realize you are not traveling alone. Genesis 32:2 shows Jacob recognizing the camp of God and naming the place Mahanaim. He is on the road again, with family tension and uncertain meetings ahead, but God's presence is not absent.
 

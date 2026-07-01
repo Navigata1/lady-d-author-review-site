@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Genesis 28:9
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses Esau's attempt to respond to family displeasure by adding another marriage connection because the verse centers on human repair attempts that still need covenant wisdom.
+**Context and language lens:** Esau's attempt to respond to family displeasure by adding another marriage connection because the verse centers on human repair attempts that still need covenant wisdom.
 
 The promise that holds us cannot be repaired by appearances. Genesis 28:9 shows Esau responding to what he has seen and heard in his family. He goes and takes another wife from Ishmael's line. The movement is not random, but it is also not simple surrender. It is a human attempt to answer a family problem by choosing a visible connection.
 
@@ -34,7 +34,7 @@ The promise holds better than the performance of repair.
 
 **Journal prompt:** Where am I tempted to fix appearances before surrendering the deeper motive to God?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Come Home to the Promise That Holds into one faithful step today.
 
 ---
 
@@ -44,7 +44,7 @@ The promise holds better than the performance of repair.
 
 **Scripture Reference:** Genesis 28:10
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Jacob leaving Beersheba and going toward Haran because the verse begins a vulnerable journey where promise must be practiced on the road, not only received at home.
+**Context and language lens:** Jacob leaving Beersheba and going toward Haran because the verse begins a vulnerable journey where promise must be practiced on the road, not only received at home.
 
 The heart that calls you often begins moving before it feels ready. Genesis 28:10 is simple and weighty: Jacob leaves Beersheba and goes toward Haran. Behind that movement is family fracture, blessing, danger, and uncertainty. Ahead of it is a road he cannot fully understand.
 
@@ -64,7 +64,7 @@ The Father can turn the road into a classroom of love.
 
 **Journal prompt:** What road is asking me to move with obedience instead of fear?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Practice the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -74,7 +74,7 @@ The Father can turn the road into a classroom of love.
 
 **Scripture Reference:** Genesis 28:11
 
-**Production lens correction:** The architecture assigned `ga'al`; the production lens uses Jacob reaching a place, taking a stone, and lying down for the night because the verse centers on God preparing to meet him in a hard, ordinary resting place.
+**Context and language lens:** Jacob reaching a place, taking a stone, and lying down for the night because the verse centers on God preparing to meet him in a hard, ordinary resting place.
 
 Love that sends you also knows where you will need to rest. Genesis 28:11 shows Jacob coming to a certain place as the sun has set. He takes one of the stones of that place, puts it near his head, and lies down. This is not a polished room. It is a road-side night, a vulnerable pause, and an ordinary place that does not yet look holy to him.
 
@@ -94,7 +94,7 @@ Love sends, and love also watches over the place where you lay your head.
 
 **Journal prompt:** What ordinary or uncomfortable place might God be using as a meeting place?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Surrender to Love That Sends You into one faithful step today.
 
 ---
 
@@ -104,7 +104,7 @@ Love sends, and love also watches over the place where you lay your head.
 
 **Scripture Reference:** Genesis 28:12
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses Jacob's dream of the ladder and the angels of God because the verse centers on heaven's initiative reaching toward a vulnerable traveler.
+**Context and language lens:** Jacob's dream of the ladder and the angels of God because the verse centers on heaven's initiative reaching toward a vulnerable traveler.
 
 Covenant mercy speaks when heaven opens over a place the traveler thought was only a stop for the night. Genesis 28:12 shows Jacob dreaming of a ladder set on the earth, reaching to heaven, with the angels of God ascending and descending. The scene is full of divine movement before Jacob has done anything to control it.
 
@@ -124,7 +124,7 @@ On this Sabbath, let covenant mercy speak louder than your need to climb.
 
 **Journal prompt:** What ladder of self-proving do I need to release this Sabbath?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Let Mercy Speak Covenant Mercy into one faithful step today.
 
 ---
 
@@ -134,7 +134,7 @@ On this Sabbath, let covenant mercy speak louder than your need to climb.
 
 **Scripture Reference:** Genesis 28:14
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses God's promise of descendants, land, and blessing to all families of the earth because the verse centers on covenant welcome becoming wider than Jacob's private survival.
+**Context and language lens:** God's promise of descendants, land, and blessing to all families of the earth because the verse centers on covenant welcome becoming wider than Jacob's private survival.
 
 The Father's welcome is never meant to end with private survival. Genesis 28:14 widens the promise over Jacob. The blessing reaches descendants, land, directions of the earth, and all families. God speaks a future larger than one lonely traveler could invent for himself.
 
@@ -154,7 +154,7 @@ His welcome gives you room to breathe and room to bless.
 
 **Journal prompt:** Where is the Father inviting me to breathe wider than private survival?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Breathe the Father's Welcome into one faithful step today.
 
 ---
 
@@ -164,7 +164,7 @@ His welcome gives you room to breathe and room to bless.
 
 **Scripture Reference:** Genesis 28:15
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses God's promise of presence, keeping, return, and refusal to abandon Jacob because the verse directly centers steadfast covenant love.
+**Context and language lens:** God's promise of presence, keeping, return, and refusal to abandon Jacob because the verse directly centers steadfast covenant love.
 
 Beloved identity is held by the God who says, "I am with you." Genesis 28:15 is one of the strongest mercy words in Jacob's road story. God promises presence, keeping, return, and faithfulness until what He has spoken is done. The promise does not rest on Jacob's ability to hold all the pieces together.
 
@@ -184,7 +184,7 @@ The Father who sends you also stays with you.
 
 **Journal prompt:** What uncertainty needs to be answered first by the promise, "I am with you"?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Hold Fast to Beloved Identity into one faithful step today.
 
 ---
 
@@ -194,7 +194,7 @@ The Father who sends you also stays with you.
 
 **Scripture Reference:** Genesis 28:16
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses Jacob waking to realize the Lord was in that place though he did not know it because the verse centers on love finding him before his awareness caught up.
+**Context and language lens:** Jacob waking to realize the Lord was in that place though he did not know it because the verse centers on love finding him before his awareness caught up.
 
 Love that finds you may already be present before you know how to recognize it. Genesis 28:16 shows Jacob waking from sleep with a new awareness: the Lord was in that place, and he did not know it. The place had not changed as much as his perception had.
 
@@ -214,4 +214,4 @@ The Father's love found you before you knew how to name it.
 
 **Journal prompt:** Where can I now see that God was present even when I did not know it?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Return to Love That Finds You into one faithful step today.

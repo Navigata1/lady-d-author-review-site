@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 10:16
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' warning about being sent into vulnerable places. Power to witness is framed as Spirit-enabled wisdom, innocence, and holy endurance, not force.
+**Context and language lens:** Jesus' warning about being sent into vulnerable places. Power to witness is framed as Spirit-enabled wisdom, innocence, and holy endurance, not force.
 
 Matthew 10:16 is not a romantic picture of ministry. Jesus tells His disciples the truth about the world they are entering, and He gives them a way to walk in it without becoming hard.
 
@@ -42,7 +42,7 @@ The Spirit forms a sealed and filled life by giving power that stays wise, innoc
 
 **Scripture Reference:** Matthew 10:17
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' warning about opposition from public and religious systems. The seal of belonging is framed as the Spirit's pledge that accusation does not own the believer.
+**Context and language lens:** Jesus' warning about opposition from public and religious systems. The seal of belonging is framed as the Spirit's pledge that accusation does not own the believer.
 
 Matthew 10:17 prepares the disciples for opposition. Jesus does not hide the cost of witness, and He does not let opposition become the final name over them.
 
@@ -70,7 +70,7 @@ The Spirit forms a sealed and filled life by anchoring belonging when opposition
 
 **Scripture Reference:** Matthew 10:18
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' teaching about witness before people in authority. Prayer beyond words is framed as Spirit-grown fruit that becomes visible when life is placed under public pressure.
+**Context and language lens:** Jesus' teaching about witness before people in authority. Prayer beyond words is framed as Spirit-grown fruit that becomes visible when life is placed under public pressure.
 
 Matthew 10:18 shows witness moving into official rooms and visible places. The disciples' lives will speak where comfort would rather remain private.
 
@@ -98,7 +98,7 @@ The Spirit forms a sealed and filled life by making private prayer visible as st
 
 **Scripture Reference:** Matthew 10:19
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' instruction not to be anxious about what to say when handed over. Wind in the waiting is framed as being filled enough to trust the Spirit's timing and speech.
+**Context and language lens:** Jesus' instruction not to be anxious about what to say when handed over. Wind in the waiting is framed as being filled enough to trust the Spirit's timing and speech.
 
 Matthew 10:19 meets anxiety at the mouth. Jesus knows the fear of being put on the spot, misunderstood, and required to answer before the heart feels ready.
 
@@ -126,7 +126,7 @@ The Spirit forms a sealed and filled life by quieting anxious rehearsal and fill
 
 **Scripture Reference:** Matthew 10:21
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' sober words about family division and betrayal. Oil for the journey is framed as the Spirit's breath sustaining faith when obedience touches family pain.
+**Context and language lens:** Jesus' sober words about family division and betrayal. Oil for the journey is framed as the Spirit's breath sustaining faith when obedience touches family pain.
 
 Matthew 10:21 is tender and sobering. Jesus names the kind of pain that can feel hardest to carry: conflict, rejection, or betrayal close to home.
 
@@ -154,7 +154,7 @@ The Spirit forms a sealed and filled life by sustaining obedience when family pa
 
 **Scripture Reference:** Matthew 10:22
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' call to endure when hatred comes because of His name. Freedom in the Spirit is framed as power to remain faithful without being ruled by approval.
+**Context and language lens:** Jesus' call to endure when hatred comes because of His name. Freedom in the Spirit is framed as power to remain faithful without being ruled by approval.
 
 Matthew 10:22 names the cost of belonging to Jesus. Faithfulness may not always be applauded.
 
@@ -182,7 +182,7 @@ The Spirit forms a sealed and filled life by giving power to remain faithful wit
 
 **Scripture Reference:** Matthew 10:23
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' instruction about moving when persecution comes. The breath of God is framed as the Spirit's pledge that faithful movement can be obedience, not failure.
+**Context and language lens:** Jesus' instruction about moving when persecution comes. The breath of God is framed as the Spirit's pledge that faithful movement can be obedience, not failure.
 
 Matthew 10:23 shows that faithfulness is not always staying in one place. Sometimes obedience moves on.
 

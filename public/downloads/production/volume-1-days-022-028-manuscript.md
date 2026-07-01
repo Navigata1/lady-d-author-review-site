@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Psalm 16:9
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `kavod/batach` - glory or inner honor rejoicing, and secure trust - because the verse speaks of gladness, rejoicing, and the body resting securely.
+**Context and language lens:** `kavod/batach` - glory or inner honor rejoicing, and secure trust - because the verse speaks of gladness, rejoicing, and the body resting securely.
 
 There is a kind of joy that does not come from pretending everything is easy. Psalm 16:9 points to a heart made glad and a life able to rest secure. That kind of gladness is not shallow cheerfulness. It is the inward steadiness that comes when the soul knows it has been held by God.
 
@@ -30,7 +30,7 @@ Today, let His love reach the place where fear has lived physically. Let prayer 
 
 **Journal prompt:** Where has fear been living in my body, not only in my thoughts?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Yield to the Heart That Calls You into one faithful step today.
 
 ---
 
@@ -40,7 +40,7 @@ Today, let His love reach the place where fear has lived physically. Let prayer 
 
 **Scripture Reference:** Ruth 4:17
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `goel/shem` - redeemer and name - because the passage names a child inside a family restoration story that moves toward David's line.
+**Context and language lens:** `goel/shem` - redeemer and name - because the passage names a child inside a family restoration story that moves toward David's line.
 
 Ruth 4:17 is easy to pass quickly because it sounds like family record. But inside the naming of Obed is a testimony of restoration. Naomi's grief was not erased, but God was still weaving mercy into the family line. The story that felt emptied became part of a larger redemptive movement.
 
@@ -56,7 +56,7 @@ Do not despise ordinary obedience. The Father can place eternal weight inside qu
 
 **Journal prompt:** What ordinary act of faithfulness have I been tempted to treat as too small to matter?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Father's love carry Anchor Love That Sends You into one faithful step today.
 
 ---
 
@@ -66,7 +66,7 @@ Do not despise ordinary obedience. The Father can place eternal weight inside qu
 
 **Scripture Reference:** Deuteronomy 10:11
 
-**Production lens correction:** The architecture assigned `lev`; the production lens uses `qum/nasa` - arise and journey - because the passage calls Moses and the people forward toward the land God promised.
+**Context and language lens:** `qum/nasa` - arise and journey - because the passage calls Moses and the people forward toward the land God promised.
 
 Covenant mercy does not always let us stay where we are. In Deuteronomy 10:11, the movement is forward. God tells Moses to arise and lead the people onward. Mercy had not finished with them, but mercy also did not freeze them in yesterday's failure.
 
@@ -82,7 +82,7 @@ Today, discover mercy that moves. Not frantic movement. Not performance. Surrend
 
 **Journal prompt:** Where has God shown mercy, but I have still been afraid to move forward?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Father's love carry Discover Covenant Mercy into one faithful step today.
 
 ---
 
@@ -92,7 +92,7 @@ Today, discover mercy that moves. Not frantic movement. Not performance. Surrend
 
 **Scripture Reference:** Deuteronomy 10:16
 
-**Production lens correction:** The architecture assigned `hesed`; the production lens uses `mul/orlat levav` - circumcise the foreskin of the heart - because the verse calls for inward surrender and the removal of stubborn resistance.
+**Context and language lens:** `mul/orlat levav` - circumcise the foreskin of the heart - because the verse calls for inward surrender and the removal of stubborn resistance.
 
 The Father's welcome is not the same as leaving every part of us untouched. Deuteronomy 10:16 moves straight to the heart. God calls His people away from stiff-necked resistance and toward inward surrender. This is not surface religion. It is heart-level yielding.
 
@@ -108,7 +108,7 @@ Today, welcome may feel like conviction. Do not run from that. Conviction in the
 
 **Journal prompt:** What guarded or stubborn place might God be touching because He loves me?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Father's love carry Receive the Father's Welcome into one faithful step today.
 
 ---
 
@@ -118,7 +118,7 @@ Today, welcome may feel like conviction. Do not run from that. Conviction in the
 
 **Scripture Reference:** Deuteronomy 10:19
 
-**Production lens correction:** The architecture assigned `ahavah`; the production lens uses `ger/ahav` - stranger and love - because the verse calls God's people to love the stranger from the memory of their own former vulnerability.
+**Context and language lens:** `ger/ahav` - stranger and love - because the verse calls God's people to love the stranger from the memory of their own former vulnerability.
 
 Beloved identity should make us more tender, not more exclusive. Deuteronomy 10:19 calls God's people to love the stranger because they remember what it was to be strangers. The Father does not let redeemed people forget vulnerability in a way that hardens them toward others.
 
@@ -134,7 +134,7 @@ Today, trust your belovedness enough to make room. The Father has welcomed you w
 
 **Journal prompt:** Who around me may feel like a stranger, and what would love look like toward them today?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Father's love carry Trust Beloved Identity into one faithful step today.
 
 ---
 
@@ -144,7 +144,7 @@ Today, trust your belovedness enough to make room. The Father has welcomed you w
 
 **Scripture Reference:** Deuteronomy 10:22
 
-**Production lens correction:** The architecture assigned `gaal`; the production lens uses `me'at/kokhavim` - few and stars - because the verse contrasts small beginnings with God's multiplying faithfulness.
+**Context and language lens:** `me'at/kokhavim` - few and stars - because the verse contrasts small beginnings with God's multiplying faithfulness.
 
 Hope rises when the Father reminds us that small beginnings are not small to Him. Deuteronomy 10:22 looks back at a family that went down into Egypt few in number and then became as numerous as the stars. The point is not human greatness. The point is God's faithful increase.
 
@@ -160,7 +160,7 @@ Today, do not despise the small place where God is working. Surrender the need f
 
 **Journal prompt:** What small beginning have I been tempted to dismiss, and how might God be asking me to nurture it?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Father's love carry Let Hope Rise Love That Finds You into one faithful step today.
 
 ---
 
@@ -170,7 +170,7 @@ Today, do not despise the small place where God is working. Surrender the need f
 
 **Scripture Reference:** Deuteronomy 30:10
 
-**Production lens correction:** The architecture assigned `emunah`; the production lens uses `shuv/shama/levav` - return, listen, and heart - because the verse joins obedience with whole-heart return to the Lord.
+**Context and language lens:** `shuv/shama/levav` - return, listen, and heart - because the verse joins obedience with whole-heart return to the Lord.
 
 Grace before performance does not mean a life without obedience. It means obedience begins from return. Deuteronomy 30:10 holds listening, keeping, and turning to the Lord with heart and soul together. The Father is not asking for mechanical religion. He is calling for a returned life.
 
@@ -186,5 +186,4 @@ As Sabbath approaches in any given week, this matters deeply. Holy rest and comm
 
 **Journal prompt:** What spiritual practice needs to become an act of return instead of a performance?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
-
+**Morning impact:** Let the Father's love carry Carry Grace Before Striving into one faithful step today.

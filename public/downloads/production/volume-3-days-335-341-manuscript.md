@@ -10,11 +10,11 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 ## Day 335 - December 1
 
-### Awaken Freedom in the Spirit
+### Awaken Finishing Hope in Freedom in the Spirit
 
 **Scripture Reference:** Matthew 10:9
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' instruction about not loading the mission with stored-up security. Freedom in the Spirit is framed as being filled enough to release fear-driven provision anxiety.
+**Context and language lens:** Jesus' instruction about not loading the mission with stored-up security. Freedom in the Spirit is framed as being filled enough to release fear-driven provision anxiety.
 
 Matthew 10:9 moves the disciples into a leaner kind of trust. Jesus sends them without letting accumulated security become the source of courage.
 
@@ -32,17 +32,17 @@ The Spirit forms a sealed and filled life by freeing obedience from provision an
 
 **Journal prompt:** Where is fear making me overpack my heart?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Awaken Finishing Hope in Freedom in the Spirit into one faithful step today.
 
 ---
 
 ## Day 336 - December 2
 
-### Embrace the Breath of God
+### Embrace Finishing Hope in the Breath of God
 
 **Scripture Reference:** Matthew 10:10
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' instruction about simplicity and worthy provision. The breath of God is framed as invisible presence with visible effect in practical dependence.
+**Context and language lens:** Jesus' instruction about simplicity and worthy provision. The breath of God is framed as invisible presence with visible effect in practical dependence.
 
 Matthew 10:10 continues the sending with practical restraint and trust for daily provision. The mission is spiritual, but it touches ordinary needs.
 
@@ -60,7 +60,7 @@ The Spirit forms a sealed and filled life by breathing trust into ordinary provi
 
 **Journal prompt:** Where does worry speak before dependence?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Embrace Finishing Hope in the Breath of God into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit forms a sealed and filled life by breathing trust into ordinary provi
 
 **Scripture Reference:** Matthew 10:11
 
-**Production lens correction:** The architecture assigned `dynamis`; the production lens uses Jesus' instruction to discern where to stay. The Comforter's nearness is framed as power for witness and holy endurance through wise welcome.
+**Context and language lens:** Jesus' instruction to discern where to stay. The Comforter's nearness is framed as power for witness and holy endurance through wise welcome.
 
 Matthew 10:11 teaches discernment. The disciples are not told to force every door; they are taught to recognize where welcome is present.
 
@@ -88,7 +88,7 @@ The Spirit forms a sealed and filled life by giving discernment for where witnes
 
 **Journal prompt:** Where am I trying to force welcome that has not been given?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Remember the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit forms a sealed and filled life by giving discernment for where witnes
 
 **Scripture Reference:** Matthew 10:12
 
-**Production lens correction:** The architecture assigned `arrabon`; the production lens uses Jesus' instruction to greet a household. Holy fire is framed as the Spirit's pledge that God's peace can be carried into ordinary thresholds.
+**Context and language lens:** Jesus' instruction to greet a household. Holy fire is framed as the Spirit's pledge that God's peace can be carried into ordinary thresholds.
 
 Matthew 10:12 begins with a greeting. Before outcomes are measured, peace is offered.
 
@@ -116,7 +116,7 @@ The Spirit forms a sealed and filled life by making ordinary thresholds places o
 
 **Journal prompt:** How do I enter the rooms God places before me?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Walk in Holy Fire into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit forms a sealed and filled life by making ordinary thresholds places o
 
 **Scripture Reference:** Matthew 10:13
 
-**Production lens correction:** The architecture assigned `karpos`; the production lens uses Jesus' teaching about peace resting or returning. Rain for dry places is framed as fruit that offers peace without forcing it.
+**Context and language lens:** Jesus' teaching about peace resting or returning. Rain for dry places is framed as fruit that offers peace without forcing it.
 
 Matthew 10:13 shows peace as something offered and received, not controlled. The disciples are responsible to carry peace; they are not responsible to force its welcome.
 
@@ -144,7 +144,7 @@ The Spirit forms a sealed and filled life by growing peace that does not force i
 
 **Journal prompt:** Where am I trying to force peace instead of bearing it?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Let Peace Lead Rain for Dry Places into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit forms a sealed and filled life by growing peace that does not force i
 
 **Scripture Reference:** Matthew 10:14
 
-**Production lens correction:** The architecture assigned `pleroo`; the production lens uses Jesus' instruction for unreceptive places. The anointing for today is framed as being filled enough to release rejection without bitterness.
+**Context and language lens:** Jesus' instruction for unreceptive places. The anointing for today is framed as being filled enough to release rejection without bitterness.
 
 Matthew 10:14 names the possibility of refusal. Not every place will receive the messenger or the message.
 
@@ -172,7 +172,7 @@ The Spirit forms a sealed and filled life by filling the heart for clean release
 
 **Journal prompt:** Where has rejection kept me emotionally stuck?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Choose the Anointing for Today into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit forms a sealed and filled life by filling the heart for clean release
 
 **Scripture Reference:** Matthew 10:15
 
-**Production lens correction:** The architecture assigned `pneuma`; the production lens uses Jesus' sober warning without weaponizing it. The Spirit's fruit is framed as visible life under accountability, not harshness toward others.
+**Context and language lens:** Jesus' sober warning without weaponizing it. The Spirit's fruit is framed as visible life under accountability, not harshness toward others.
 
 Matthew 10:15 is sober. Jesus does not pretend response to truth is weightless.
 
@@ -200,4 +200,4 @@ The Spirit forms a sealed and filled life by making accountability visible as hu
 
 **Journal prompt:** Where does accountability need to soften and sober me?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Listen for the Spirit's Fruit into one faithful step today.

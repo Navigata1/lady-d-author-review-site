@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Matthew 24:3
 
-**Production lens note:** The architecture assigns meno; the production lens uses the disciples coming to Jesus privately because abiding begins by bringing honest questions close to Him.
+**Context and language lens:** The disciples coming to Jesus privately because abiding begins by bringing honest questions close to Him.
 
 Matthew 24:3 shows the disciples coming to Jesus privately with questions about what He has said. They do not understand everything, but they bring their concern near.
 
@@ -42,7 +42,7 @@ Walking with Jesus means bringing the question near enough for mercy to guide it
 
 **Scripture Reference:** Matthew 24:30
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses the appearing of the Son of Man because Christ's compassion is not detached from His final authority.
+**Context and language lens:** The appearing of the Son of Man because Christ's compassion is not detached from His final authority.
 
 Matthew 24:30 points to the Son of Man appearing with power and glory. The passage carries awe, gravity, and holy clarity.
 
@@ -70,7 +70,7 @@ Walking with Jesus means letting His coming glory purify today's compassion.
 
 **Scripture Reference:** Matthew 24:35
 
-**Production lens note:** The architecture assigns didaskalos; the production lens uses Jesus' enduring words because the Teacher forms disciples through what will not pass away.
+**Context and language lens:** Jesus' enduring words because the Teacher forms disciples through what will not pass away.
 
 Matthew 24:35 says that heaven and earth will pass away, but Jesus' words will not pass away. Everything else is measured against the endurance of His word.
 
@@ -98,7 +98,7 @@ Walking with Jesus means being formed by the word that will not pass away.
 
 **Scripture Reference:** Matthew 24:37
 
-**Production lens note:** The architecture assigns hodos; the production lens uses Jesus' comparison to Noah's days because the way of Jesus stays awake while ordinary life continues.
+**Context and language lens:** Jesus' comparison to Noah's days because the way of Jesus stays awake while ordinary life continues.
 
 Matthew 24:37 compares the coming of the Son of Man to the days of Noah. Jesus is not asking His disciples to despise ordinary life; He is teaching them not to sleepwalk through it.
 
@@ -126,7 +126,7 @@ Walking with Jesus means staying awake to Him on the road you already walk.
 
 **Scripture Reference:** Matthew 24:4
 
-**Production lens note:** The architecture assigns anastasis; the production lens uses Jesus' warning against deception because resurrection hope keeps the heart anchored to the living Christ.
+**Context and language lens:** Jesus' warning against deception because resurrection hope keeps the heart anchored to the living Christ.
 
 Matthew 24:4 begins with a warning: see that no one leads you astray. Jesus knows that deception often speaks with confidence, urgency, and spiritual language.
 
@@ -154,7 +154,7 @@ Walking with Jesus means letting resurrection hope make your discernment steady.
 
 **Scripture Reference:** Matthew 24:43
 
-**Production lens note:** The architecture assigns meno; the production lens uses Jesus' watchfulness image because abiding produces alertness without anxiety.
+**Context and language lens:** Jesus' watchfulness image because abiding produces alertness without anxiety.
 
 Matthew 24:43 uses the image of a homeowner staying awake because he knows the need for watchfulness. Jesus is calling His people to alert faithfulness.
 
@@ -182,7 +182,7 @@ Walking with Jesus means abiding alert, not anxious.
 
 **Scripture Reference:** Matthew 24:48
 
-**Production lens note:** The architecture assigns splagchnizomai; the production lens uses the servant who says the master is delayed because compassion must stay faithful while waiting.
+**Context and language lens:** The servant who says the master is delayed because compassion must stay faithful while waiting.
 
 Matthew 24:48 reveals the danger of a servant who begins to live as though the master will not come soon. Delay becomes an excuse for carelessness.
 

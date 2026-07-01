@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Numbers 11:28
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Joshua's concern over Eldad and Medad. Wind in the waiting is framed as Spirit-taught patience when another person's gift unsettles our expectations.
+**Context and language lens:** Joshua's concern over Eldad and Medad. Wind in the waiting is framed as Spirit-taught patience when another person's gift unsettles our expectations.
 
 Numbers 11:28 shows Joshua reacting to what seems irregular. He sees people prophesying in the camp and wants Moses to restrain them.
 
@@ -32,7 +32,7 @@ The Spirit rains on dry places by loosening control and teaching patient discern
 
 **Journal prompt:** Where might I be calling surprise a threat?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Hold Fast to Wind in the Waiting into one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ The Spirit rains on dry places by loosening control and teaching patient discern
 
 **Scripture Reference:** Numbers 11:30
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses Moses returning to the camp with the elders. Oil for the journey is framed as inward renewal that returns spiritual experience to ordinary community life.
+**Context and language lens:** Moses returning to the camp with the elders. Oil for the journey is framed as inward renewal that returns spiritual experience to ordinary community life.
 
 Numbers 11:30 brings the scene back to the camp. The moment of shared Spirit-given participation does not end in display. It returns to the people who still need faithful presence.
 
@@ -60,7 +60,7 @@ The Spirit rains on dry places by renewing the heart for faithful return.
 
 **Journal prompt:** Where should spiritual insight become ordinary faithfulness today?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Return to Oil for the Journey into one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ The Spirit rains on dry places by renewing the heart for faithful return.
 
 **Scripture Reference:** Numbers 11:32
 
-**Production lens correction:** The architecture assigned `esh`; the production lens uses the people gathering quail in abundance. Freedom in the Spirit is framed as holy fire that exposes the bondage of unchecked appetite.
+**Context and language lens:** The people gathering quail in abundance. Freedom in the Spirit is framed as holy fire that exposes the bondage of unchecked appetite.
 
 Numbers 11:32 is abundance without healing. The people gather what they craved, but the heart beneath the craving has not been restored.
 
@@ -88,7 +88,7 @@ The Spirit rains on dry places by freeing desire from the bondage of excess.
 
 **Journal prompt:** What abundance would still leave my heart unhealed?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Let the Spirit carry Yield to Freedom in the Spirit into one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ The Spirit rains on dry places by freeing desire from the bondage of excess.
 
 **Scripture Reference:** Numbers 11:33
 
-**Production lens correction:** The architecture assigned `shemen`; the production lens uses the warning of judgment while craving is still active. The breath of God is framed as consecrated life that must not be traded for appetite.
+**Context and language lens:** The warning of judgment while craving is still active. The breath of God is framed as consecrated life that must not be traded for appetite.
 
 Numbers 11:33 is sobering. The craving has not become harmless just because the people received what they demanded.
 
@@ -116,7 +116,7 @@ The Spirit rains on dry places by anchoring life in God's breath rather than cra
 
 **Journal prompt:** What appetite has been breathing louder than God?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Let the Spirit carry Anchor the Breath of God into one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ The Spirit rains on dry places by anchoring life in God's breath rather than cra
 
 **Scripture Reference:** Numbers 11:34
 
-**Production lens correction:** The architecture assigned `nuwach`; the production lens uses the naming of Kibroth-hattaavah, the graves of craving. The Comforter's nearness is framed as settled mercy that teaches the heart to remember warnings without despair.
+**Context and language lens:** The naming of Kibroth-hattaavah, the graves of craving. The Comforter's nearness is framed as settled mercy that teaches the heart to remember warnings without despair.
 
 Numbers 11:34 gives a place a painful name. The story does not erase the cost of craving. It remembers it.
 
@@ -144,7 +144,7 @@ The Spirit rains on dry places by turning remembered warning into settled mercy.
 
 **Journal prompt:** What painful lesson needs to become wisdom instead of shame?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Let the Spirit carry Discover the Comforter's Nearness into one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ The Spirit rains on dry places by turning remembered warning into settled mercy.
 
 **Scripture Reference:** Numbers 11:35
 
-**Production lens correction:** The architecture assigned `ruach`; the production lens uses Israel's movement from Kibroth-hattaavah to Hazeroth. Holy fire is framed as Spirit-led movement after correction, not staying permanently camped at failure.
+**Context and language lens:** Israel's movement from Kibroth-hattaavah to Hazeroth. Holy fire is framed as Spirit-led movement after correction, not staying permanently camped at failure.
 
 Numbers 11:35 shows movement after a painful place. The people do not stay forever where craving was judged.
 
@@ -172,7 +172,7 @@ The Spirit rains on dry places by moving corrected hearts forward.
 
 **Journal prompt:** Where have I remained camped at a memory God is calling me to move beyond?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Let the Spirit carry Receive Holy Fire into one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ The Spirit rains on dry places by moving corrected hearts forward.
 
 **Scripture Reference:** Numbers 27:1
 
-**Production lens correction:** The architecture assigned `leb chadash`; the production lens uses the daughters of Zelophehad being named as they come forward. Rain for dry places is framed as inward courage to bring an overlooked need into the presence of God's people.
+**Context and language lens:** The daughters of Zelophehad being named as they come forward. Rain for dry places is framed as inward courage to bring an overlooked need into the presence of God's people.
 
 Numbers 27:1 begins with names. The daughters of Zelophehad are not treated as a vague problem. They come forward as real women with a real need.
 
@@ -200,4 +200,4 @@ The Spirit rains on dry places by giving overlooked hearts courage to come forwa
 
 **Journal prompt:** What overlooked need needs to be named before God?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Let the Spirit carry Trust Rain for Dry Places into one faithful step today.

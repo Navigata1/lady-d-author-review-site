@@ -14,7 +14,7 @@ Editorial note: Scripture references are used without full quoted Bible text unt
 
 **Scripture Reference:** Revelation 1:8
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses God's declaration as Alpha and Omega because the light that heals begins with who God is before the day starts asking who we are.
+**Context and language lens:** God's declaration as Alpha and Omega because the light that heals begins with who God is before the day starts asking who we are.
 
 The Friend who leads is not limited by the part of the story we can see. Revelation 1:8 gathers time inside the faithfulness of God: beginning, ending, present, past, future, and almighty strength. The heart does not have to be its own horizon.
 
@@ -32,7 +32,7 @@ Walking with Jesus means letting God's eternal faithfulness become light for one
 
 **Journal prompt:** What situation has been acting like it gets the first and last word in my heart?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Choose the Friend Who Leads in one faithful step today.
 
 ---
 
@@ -42,7 +42,7 @@ Walking with Jesus means letting God's eternal faithfulness become light for one
 
 **Scripture Reference:** Revelation 1:9
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses John's companionship in tribulation, kingdom, and patient endurance because following Jesus includes shared suffering and faithful steadiness.
+**Context and language lens:** John's companionship in tribulation, kingdom, and patient endurance because following Jesus includes shared suffering and faithful steadiness.
 
 The light on the path does not always remove hardship. Revelation 1:9 places John with the church as a brother and companion in tribulation, kingdom, and patient endurance in Jesus. He is not standing above the hurting. He is standing with them.
 
@@ -60,7 +60,7 @@ Walking with Jesus means receiving endurance as shared discipleship, not lonely 
 
 **Journal prompt:** Where do I need to receive endurance as companionship with Jesus rather than lonely survival?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Listen for the Light on the Path in one faithful step today.
 
 ---
 
@@ -70,7 +70,7 @@ Walking with Jesus means receiving endurance as shared discipleship, not lonely 
 
 **Scripture Reference:** Revelation 22:17
 
-**Production lens correction:** The architecture assigned `sozo`; the production lens uses the Spirit's invitation to come and receive living water because Jesus' saving work is offered as rescue, healing, and wholeness for the thirsty.
+**Context and language lens:** The Spirit's invitation to come and receive living water because Jesus' saving work is offered as rescue, healing, and wholeness for the thirsty.
 
 The invitation of Jesus is not weak. Revelation 22:17 opens a holy welcome: the Spirit calls, the bride calls, the thirsty are invited, and the water of life is offered freely. Heaven's final movement is not stinginess. It is holy invitation.
 
@@ -88,7 +88,7 @@ Walking with Jesus means coming thirsty to the One who gives life freely.
 
 **Journal prompt:** Where am I thirsty, and what would it look like to come to Jesus honestly today?
 
-**Morning impact:** Start from what God has revealed, not from what the day is demanding.
+**Morning impact:** Walk with Jesus through Stand in the Invitation in one faithful step today.
 
 ---
 
@@ -98,7 +98,7 @@ Walking with Jesus means coming thirsty to the One who gives life freely.
 
 **Scripture Reference:** Revelation 22:19
 
-**Production lens correction:** The architecture assigned `eirene`; the production lens uses the warning about taking away from the words of the book because peace is formed by reverent trust in God's whole testimony, not by trimming hard truth until it feels safer.
+**Context and language lens:** The warning about taking away from the words of the book because peace is formed by reverent trust in God's whole testimony, not by trimming hard truth until it feels safer.
 
 The Shepherd's voice is gracious enough to tell the truth. Revelation 22:19 carries a serious warning about taking away from what God has given. This is not an invitation to panic. It is a call to reverence.
 
@@ -116,7 +116,7 @@ Walking with Jesus means letting peace be formed by the whole counsel of His tru
 
 **Journal prompt:** Where am I tempted to edit God's truth instead of letting grace help me receive it?
 
-**Morning impact:** Do not rush past the verse; let it steady you before you move.
+**Morning impact:** Walk with Jesus through Let Grace Form the Shepherd's Voice in one faithful step today.
 
 ---
 
@@ -126,7 +126,7 @@ Walking with Jesus means letting peace be formed by the whole counsel of His tru
 
 **Scripture Reference:** Revelation 22:2
 
-**Production lens correction:** The architecture assigned `kyrios`; the production lens uses the tree of life and healing of the nations because Jesus' Lordship leads history toward life, restoration, and healed communion.
+**Context and language lens:** The tree of life and healing of the nations because Jesus' Lordship leads history toward life, restoration, and healed communion.
 
 The road with Jesus leads toward healing. Revelation 22:2 gives a picture of life, fruitfulness, and leaves for the healing of the nations. The story does not end with exhaustion, division, or wound. It ends with the Lord's restoration.
 
@@ -144,7 +144,7 @@ Walking with Jesus means following the Lord whose road ends in restored life.
 
 **Journal prompt:** What wounded place needs to be seen in the light of Christ's promised healing?
 
-**Morning impact:** Let the Spirit press this from information into formation.
+**Morning impact:** Walk with Jesus through Behold the Road with Jesus in one faithful step today.
 
 ---
 
@@ -154,7 +154,7 @@ Walking with Jesus means following the Lord whose road ends in restored life.
 
 **Scripture Reference:** Revelation 3:5
 
-**Production lens correction:** The architecture assigned `phos`; the production lens uses Christ's promise to the conquering faithful because light exposes compromise while also giving identity, covering, and hope in His confession.
+**Context and language lens:** Christ's promise to the conquering faithful because light exposes compromise while also giving identity, covering, and hope in His confession.
 
 The nearness of Christ is both searching and comforting. Revelation 3:5 speaks of faithful overcoming, white garments, a name not erased, and confession before the Father and His angels. Jesus does not expose in order to abandon. He brings light so the heart can stay awake and receive His promise.
 
@@ -172,7 +172,7 @@ Walking with Jesus means receiving His light as both correction and promise.
 
 **Journal prompt:** Where do I need Christ's light to wake faithfulness without pushing me into despair?
 
-**Morning impact:** Take one surrendered step before worry gets the first word.
+**Morning impact:** Walk with Jesus through Follow the Nearness of Christ in one faithful step today.
 
 ---
 
@@ -182,7 +182,7 @@ Walking with Jesus means receiving His light as both correction and promise.
 
 **Scripture Reference:** 1 Peter 5:1
 
-**Production lens correction:** The architecture assigned `akoloutheo`; the production lens uses Peter's witness to Christ's sufferings and coming glory because discipleship follows Jesus through humble witness, shared suffering, and promised glory.
+**Context and language lens:** Peter's witness to Christ's sufferings and coming glory because discipleship follows Jesus through humble witness, shared suffering, and promised glory.
 
 The way of peace is not detached from suffering. 1 Peter 5:1 presents Peter as a fellow elder, a witness of Christ's sufferings, and a participant in the glory to be revealed. He leads from nearness, witness, humility, and hope.
 
@@ -200,4 +200,4 @@ Walking with Jesus means resting as one who follows the suffering and glorified 
 
 **Journal prompt:** What outcome do I need to release into Christ's care this Sabbath?
 
-**Morning impact:** Let prayer turn insight into obedience before noon.
+**Morning impact:** Walk with Jesus through Rest in the Way of Peace in one faithful step today.
