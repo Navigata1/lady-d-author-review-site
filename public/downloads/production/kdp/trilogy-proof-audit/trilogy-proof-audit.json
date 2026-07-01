@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "b12ddeb",
+  "commit": "0f0d1c4",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369479,
+    "words": 369480,
     "placeholders": 0,
     "sunday_mentions": 0,
     "sabbath_mentions": 1301,
-    "saturday_mentions": 205,
+    "saturday_mentions": 206,
     "works_watch_contexts": 356,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128191,
+      "words": 128192,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -36,7 +36,7 @@
       "placeholders": 0,
       "sunday_mentions": 0,
       "sabbath_mentions": 281,
-      "saturday_mentions": 66,
+      "saturday_mentions": 67,
       "works_watch_contexts": 209,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
@@ -710,7 +710,7 @@
       "kind": "Devotional",
       "term": "Performance",
       "line": 2343,
-      "snippet": "Father's love carry Behold Love That Finds You into one faithful step today. --- ## Day 085 - March 26 ### Follow Grace Before Performance **Scripture Reference:** Genesis 22:2 **Context and language lens:** `qach-na/bincha/yehidekha/asher ahavta/Yitzchaq/lekh-lekha",
+      "snippet": "uiet after relief today; the God who interrupted fear may still be speaking. --- ## Day 085 - March 26 ### Follow Grace Before Performance **Scripture Reference:** Genesis 22:2 **Context and language lens:** `qach-na/bincha/yehidekha/asher ahavta/Yitzchaq/lekh-lekha",
       "preliminary_read": "likely grace-aligned"
     },
     {

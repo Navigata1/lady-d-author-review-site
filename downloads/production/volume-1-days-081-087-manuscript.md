@@ -32,7 +32,7 @@ Let Him speak before anxiety explains everything to you. Listen slowly. Mercy ma
 
 **Journal prompt:** What pressure needs God's naming before I let worry define it?
 
-**Morning impact:** Let the Father's love carry Listen for Covenant Mercy into one faithful step today.
+**Morning impact:** Let God name one pressure before worry does; His mercy can bring the day under His sky.
 
 ---
 
@@ -60,7 +60,7 @@ Before worry gets the first word today, answer the God who calls with nearness. 
 
 **Journal prompt:** Where do I need to let God call me by name before I keep moving?
 
-**Morning impact:** Let the Father's love carry Stand in the Father's Welcome into one faithful step today.
+**Morning impact:** Pause before the demanding thing today; the Father calls your name before He asks your yes.
 
 ---
 
@@ -88,7 +88,7 @@ Let grace form beloved identity today. You are not only the person who struggled
 
 **Journal prompt:** What hard place might God be inviting me to rename by His provision?
 
-**Morning impact:** Let the Father's love carry Let Grace Form Beloved Identity into one faithful step today.
+**Morning impact:** Rename one hard place by provision today; you were seen there, not abandoned there.
 
 ---
 
@@ -116,7 +116,7 @@ Do not only behold the escape. Behold the Father who stayed near enough to keep 
 
 **Journal prompt:** Where has God brought relief, and what might He still be saying there?
 
-**Morning impact:** Let the Father's love carry Behold Love That Finds You into one faithful step today.
+**Morning impact:** Stay quiet after relief today; the God who interrupted fear may still be speaking.
 
 ---
 
@@ -144,7 +144,7 @@ The Father does not need fear to manufacture faith. He forms trust by revealing 
 
 **Journal prompt:** What beloved concern do I need to entrust to God without letting fear define obedience?
 
-**Morning impact:** Let the Father's love carry Follow Grace Before Striving into one faithful step today.
+**Morning impact:** Surrender the beloved concern without surrendering God's character; grace can lead where fear cannot.
 
 ---
 
@@ -172,7 +172,7 @@ Rest in mercy this morning by trusting God with the unseen continuities. He is f
 
 **Journal prompt:** What quiet continuity might be carrying more mercy than I have noticed?
 
-**Morning impact:** Let the Father's love carry Rest in Mercy in the Morning into one faithful step today.
+**Morning impact:** Thank God for one quiet continuity today; mercy may be carrying more than you noticed.
 
 ---
 
@@ -200,4 +200,4 @@ The question is not a failure if it is brought to God. It can become a doorway t
 
 **Journal prompt:** What visible facts and missing provision do I need to bring into the Father's presence?
 
-**Morning impact:** Let the Father's love carry Wake Up to the Father's Patience into one faithful step today.
+**Morning impact:** Rest this Saturday with the unanswered question; the Father's patience can hold what you cannot see.

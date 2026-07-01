@@ -838,6 +838,80 @@ BATCHES = {
             "volume-1-days-074-080-audit.md",
         ),
     ),
+    "volume-1-days-081-087": Batch(
+        key="volume-1-days-081-087",
+        scope="Volume 1 Days 081-087",
+        title="Volume 1 Days 081-087 Line Edit",
+        intro=(
+            "The fourth March week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "God's naming mercy, the Father's personal call, provision testimony, "
+            "continued listening after relief, grace before fear-driven obedience, "
+            "ordinary continuity, and Saturday Sabbath patience for honest questions."
+        ),
+        source_name="volume-1-days-081-087-manuscript.md",
+        public_page_name="volume-1-days-081-087-line-edit.html",
+        output_slug="volume-1-days-081-087-line-edit",
+        zip_name="Lady-D-Volume-1-Days-081-087-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 03 - March" / "Days 081-087 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 081-087",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 081",
+                "Let the Father's love carry Listen for Covenant Mercy into one faithful step today.",
+                "Let God name one pressure before worry does; His mercy can bring the day under His sky.",
+                "Turns creation naming and ordered rhythm into a direct response before anxiety defines the day.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 082",
+                "Let the Father's love carry Stand in the Father's Welcome into one faithful step today.",
+                "Pause before the demanding thing today; the Father calls your name before He asks your yes.",
+                "Keeps Abraham's named interruption personal and grace-grounded before obedience continues.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 083",
+                "Let the Father's love carry Let Grace Form Beloved Identity into one faithful step today.",
+                "Rename one hard place by provision today; you were seen there, not abandoned there.",
+                "Connects beloved identity to testimony without denying the frightening place.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 084",
+                "Let the Father's love carry Behold Love That Finds You into one faithful step today.",
+                "Stay quiet after relief today; the God who interrupted fear may still be speaking.",
+                "Preserves the second-call lens and asks the reader to keep listening after crisis relief.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 085",
+                "Let the Father's love carry Follow Grace Before Striving into one faithful step today.",
+                "Surrender the beloved concern without surrendering God's character; grace can lead where fear cannot.",
+                "Repairs the title mismatch while refusing performance pressure or harmful Genesis 22 application.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 086",
+                "Let the Father's love carry Rest in Mercy in the Morning into one faithful step today.",
+                "Thank God for one quiet continuity today; mercy may be carrying more than you noticed.",
+                "Lets the genealogy-continuity context become a practical gratitude step.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 087",
+                "Let the Father's love carry Wake Up to the Father's Patience into one faithful step today.",
+                "Rest this Saturday with the unanswered question; the Father's patience can hold what you cannot see.",
+                "Preserves seventh-day Sabbath rest and Isaac's honest question without forcing premature answers.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-march-week-4-companion-journal.md",
+            "volume-1-days-081-087-audit.md",
+        ),
+    ),
 }
 
 
@@ -1329,6 +1403,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-leap-day-and-days-060-066-line-edit.html">Leap + 060-066</a>
     <a href="volume-1-days-067-073-line-edit.html">Days 067-073</a>
     <a href="volume-1-days-074-080-line-edit.html">Days 074-080</a>
+    <a href="volume-1-days-081-087-line-edit.html">Days 081-087</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -1432,7 +1507,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-074-080")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-081-087")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 
