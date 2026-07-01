@@ -13,7 +13,7 @@ Status: Draft publishing template. This is not legal advice and is not the final
 - Volume: 2
 - Spiritual lane: Jesus / discipleship, nearness, obedience, healing, following, abiding
 - Current manuscript review pages: 350
-- Current companion journal review pages: 81
+- Current companion journal 6 x 9 review pages: 477
 
 ## Recommended Front Matter Order
 

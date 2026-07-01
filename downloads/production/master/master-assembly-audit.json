@@ -220,6 +220,7 @@
         "volume-1-january-week-2-companion-journal.md",
         "volume-1-january-week-3-companion-journal.md",
         "volume-1-january-week-4-companion-journal.md",
+        "volume-1-january-week-5-month-close-journal.md",
         "volume-1-february-week-1-companion-journal.md",
         "volume-1-february-week-2-companion-journal.md",
         "volume-1-february-week-3-companion-journal.md",
@@ -270,11 +271,11 @@
         "volume-1-december-week-5-companion-journal.md",
         "volume-1-december-closeout-companion-journal.md"
       ],
-      "source_file_count": 53,
-      "reflection_sections": 363,
-      "sabbath_mentions": 176,
+      "source_file_count": 54,
+      "reflection_sections": 366,
+      "sabbath_mentions": 177,
       "sunday_mentions": 0,
-      "words": 20799,
+      "words": 21060,
       "output": "downloads/production/master/volume-1-master-companion-journal.md"
     },
     {

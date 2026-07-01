@@ -8,7 +8,7 @@ Purpose: prepare the next print-production phase for the three Lady D devotional
 
 - Format target: Amazon KDP paperback, 6 x 9 in trim.
 - Interior target: black ink paperback. White-paper and cream-paper spine calculations are both shown because the final paper choice is not locked yet.
-- Interior review PDFs are current assembly outputs, not final KDP interiors. Page counts may change after front matter, back matter, typography, margins, and final copyedit design passes.
+- Interior review PDFs are current 6 x 9 review outputs for the devotionals and companion journals, not final KDP upload interiors. Page counts may change after final copyedit, author approval, proof corrections, and final export settings.
 - Cover dimensions below use the official KDP paperback cover formula: bleed + back cover width + spine width + front cover width + bleed.
 - For 6 x 9 covers with bleed, height is 9.25 in and width is 12.25 in plus spine width.
 - All titles currently exceed 79 pages, so spine text is allowed, but it still needs KDP spine safe-area spacing.
@@ -37,9 +37,9 @@ Purpose: prepare the next print-production phase for the three Lady D devotional
 | Volume 1 manuscript | Surrendering to God's Love | 409 | 0.921 in | 13.171 x 9.250 in | 1.022 in | 13.273 x 9.250 in |
 | Volume 2 manuscript | Walking with Jesus | 350 | 0.788 in | 13.038 x 9.250 in | 0.875 in | 13.125 x 9.250 in |
 | Volume 3 manuscript | Filled with the Holy Spirit | 339 | 0.763 in | 13.013 x 9.250 in | 0.848 in | 13.098 x 9.250 in |
-| Volume 1 journal | Surrendering to God's Love Companion Journal | 94 | 0.212 in | 12.462 x 9.250 in | 0.235 in | 12.485 x 9.250 in |
-| Volume 2 journal | Walking with Jesus Companion Journal | 81 | 0.182 in | 12.432 x 9.250 in | 0.203 in | 12.453 x 9.250 in |
-| Volume 3 journal | Filled with the Holy Spirit Companion Journal | 90 | 0.203 in | 12.453 x 9.250 in | 0.225 in | 12.475 x 9.250 in |
+| Volume 1 journal | Surrendering to God's Love Companion Journal | 470 | 1.058 in | 13.308 x 9.250 in | 1.175 in | 13.425 x 9.250 in |
+| Volume 2 journal | Walking with Jesus Companion Journal | 477 | 1.074 in | 13.324 x 9.250 in | 1.193 in | 13.443 x 9.250 in |
+| Volume 3 journal | Filled with the Holy Spirit Companion Journal | 483 | 1.088 in | 13.338 x 9.250 in | 1.208 in | 13.457 x 9.250 in |
 
 ## Minimum Margin Matrix
 
@@ -48,9 +48,9 @@ Purpose: prepare the next print-production phase for the three Lady D devotional
 | Volume 1 manuscript | 409 | 301-500 pages | 0.625 in | 0.25 in | 0.375 in |
 | Volume 2 manuscript | 350 | 301-500 pages | 0.625 in | 0.25 in | 0.375 in |
 | Volume 3 manuscript | 339 | 301-500 pages | 0.625 in | 0.25 in | 0.375 in |
-| Volume 1 journal | 94 | 24-150 pages | 0.375 in | 0.25 in | 0.375 in |
-| Volume 2 journal | 81 | 24-150 pages | 0.375 in | 0.25 in | 0.375 in |
-| Volume 3 journal | 90 | 24-150 pages | 0.375 in | 0.25 in | 0.375 in |
+| Volume 1 journal | 470 | 301-500 pages | 0.625 in | 0.25 in | 0.375 in |
+| Volume 2 journal | 477 | 301-500 pages | 0.625 in | 0.25 in | 0.375 in |
+| Volume 3 journal | 483 | 301-500 pages | 0.625 in | 0.25 in | 0.375 in |
 
 ## Recommended Interior Path
 

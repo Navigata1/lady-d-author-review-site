@@ -43,11 +43,11 @@ Result: Pass
 
 ### Volume 1 - Surrendering to God's Love
 
-- Source journal files: 53
-- Reflection sections: 363
-- Sabbath mentions: 176
+- Source journal files: 54
+- Reflection sections: 366
+- Sabbath mentions: 177
 - Sunday mentions: 0
-- Word count: 20799
+- Word count: 21060
 - Output: `downloads/production/master/volume-1-master-companion-journal.md`
 
 ### Volume 2 - Walking with Jesus

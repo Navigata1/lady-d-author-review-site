@@ -13,7 +13,7 @@ Status: Draft publishing template. This is not legal advice and is not the final
 - Volume: 1
 - Spiritual lane: God the Father / love, identity, surrender, forgiveness, timing, daily trust
 - Current manuscript review pages: 409
-- Current companion journal review pages: 94
+- Current companion journal 6 x 9 review pages: 470
 
 ## Recommended Front Matter Order
 

@@ -144,8 +144,8 @@ def add_status_table(doc: Document) -> None:
         values = [
             f"Vol. {book.volume}",
             book.title,
-            f"{book.manuscript_pages} manuscript pages\n{book.journal_pages} journal pages\n{book.manuscript_words:,} manuscript words",
-            f"White: {book.cover_width_white}\nCream: {book.cover_width_cream}",
+            f"{book.manuscript_pages} devotional pages\n{book.journal_pages} journal pages\n{book.manuscript_words:,} devotional words",
+            f"Devotional white: {book.cover_width_white}\nDevotional cream: {book.cover_width_cream}\nJournal white: {book.journal_cover_width_white}\nJournal cream: {book.journal_cover_width_cream}",
         ]
         for idx, value in enumerate(values):
             cell = row.cells[idx]
@@ -189,6 +189,7 @@ def build_docx() -> Path:
         "KDP trim and cover readiness worksheet generated from current official KDP guidance.",
         "Volume 1 6 x 9 interior prototype package generated for the first seven devotional entries.",
         "Full 6 x 9 interior review drafts generated for Volumes 1, 2, and 3 with 366 entries each.",
+        "Full 6 x 9 companion journal review drafts generated for Volumes 1, 2, and 3.",
         "Public Vercel review page for author-facing review.",
     ]:
         add_bullet(doc, item)
@@ -253,7 +254,7 @@ def build_docx() -> Path:
         "Final author bio, dedication, acknowledgments, and ISBN.",
         "Final Bible permissions statement.",
         "Final copyedit of all three manuscripts and journals.",
-        "Final copyedited 6 x 9 interiors with locked page counts.",
+        "Final approved 6 x 9 devotional and journal upload interiors with locked page counts.",
         "Regenerated full-wrap covers from final page counts.",
         "KDP Previewer pass for each upload file.",
         "Physical proof review before public release.",
@@ -262,7 +263,7 @@ def build_docx() -> Path:
 
     doc.add_heading("Recommended Next Production Step", level=1)
     doc.add_paragraph(
-        "Use the full 6 x 9 interior review drafts as the next trilogy-wide copyedit and theological proof surface. Once each devotional volume is approved and page counts are locked, regenerate the full-wrap covers, then apply the same interior rhythm to the companion journals."
+        "Use the devotional and companion journal 6 x 9 review drafts as the next trilogy-wide copyedit and theological proof surface. Once each volume and journal is approved, regenerate the full-wrap covers from the locked page counts and paper type."
     )
 
     footer = doc.sections[0].footer.paragraphs[0]

@@ -119,7 +119,7 @@ def batch_manuscripts(volume: Volume) -> list[Path]:
 
 def batch_journals(volume: Volume) -> list[Path]:
     return sorted(
-        PRODUCTION.glob(f"{volume.slug}-*-companion-journal.md"),
+        PRODUCTION.glob(f"{volume.slug}-*journal.md"),
         key=journal_sort_key,
     )
 

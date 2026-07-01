@@ -1,0 +1,20 @@
+{
+  "generated": "2026-07-01",
+  "commit": "d1dc5fa",
+  "volume": 2,
+  "title": "Walking with Jesus",
+  "source": "downloads/production/master/volume-2-master-companion-journal.md",
+  "daily_pages": 365,
+  "bonus_pages": 1,
+  "prayer_pages": 54,
+  "review_pages": 54,
+  "total_content_pages": 474,
+  "rendered_pdf_pages": 477,
+  "pdf_page_size_points": "432 x 648",
+  "missing_days": [],
+  "duplicate_days": [],
+  "incomplete_prompts": [],
+  "white_paper_full_wrap_size": "13.324 x 9.250 in",
+  "cream_paper_full_wrap_size": "13.443 x 9.250 in",
+  "status": "pass"
+}

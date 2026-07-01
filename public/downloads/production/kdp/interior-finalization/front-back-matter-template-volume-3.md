@@ -13,7 +13,7 @@ Status: Draft publishing template. This is not legal advice and is not the final
 - Volume: 3
 - Spiritual lane: Holy Spirit / filling, comfort, conviction, gifts, fruit, rain, oil, breath
 - Current manuscript review pages: 339
-- Current companion journal review pages: 90
+- Current companion journal 6 x 9 review pages: 483
 
 ## Recommended Front Matter Order
 

@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Repo commit at generation: `33c58a1`
+Repo commit at generation: `d1dc5fa`
 
 Status: Production-planning kit. This is not a final KDP upload package.
 
@@ -12,11 +12,11 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 
 ## Current Book Matrix
 
-| Volume | Title | Manuscript review pages | Journal review pages | White-paper full-wrap working size | Cream-paper full-wrap working size |
+| Volume | Title | Devotional review pages | Companion journal 6 x 9 pages | Devotional white / cream cover size | Journal white / cream cover size |
 | --- | --- | ---: | ---: | --- | --- |
-| Volume 1 | Surrendering to God's Love | 409 | 94 | 13.171 x 9.250 in | 13.273 x 9.250 in |
-| Volume 2 | Walking with Jesus | 350 | 81 | 13.038 x 9.250 in | 13.125 x 9.250 in |
-| Volume 3 | Filled with the Holy Spirit | 339 | 90 | 13.013 x 9.250 in | 13.098 x 9.250 in |
+| Volume 1 | Surrendering to God's Love | 409 | 470 | 13.171 x 9.250 in / 13.273 x 9.250 in | 13.308 x 9.250 in / 13.425 x 9.250 in |
+| Volume 2 | Walking with Jesus | 350 | 477 | 13.038 x 9.250 in / 13.125 x 9.250 in | 13.324 x 9.250 in / 13.443 x 9.250 in |
+| Volume 3 | Filled with the Holy Spirit | 339 | 483 | 13.013 x 9.250 in / 13.098 x 9.250 in | 13.338 x 9.250 in / 13.457 x 9.250 in |
 
 ## Completed Production Evidence
 
@@ -30,6 +30,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - KDP trim and cover readiness worksheet.
 - Volume 1 6 x 9 interior prototype package for the first seven devotional entries.
 - Full 6 x 9 interior review drafts for Volumes 1, 2, and 3 with 366 entries each.
+- Full 6 x 9 companion journal review drafts for Volumes 1, 2, and 3 with 365 daily pages plus one February 29 bonus page each.
 - Public Vercel review page for author-facing review.
 
 ## Interior Finalization Deliverables In This Kit
@@ -101,11 +102,11 @@ Run three to seven passes depending on risk:
 - Final author bio, dedication, acknowledgments, and ISBN.
 - Final Bible permissions statement.
 - Final copyedit of all three manuscripts and journals.
-- Full 6 x 9 designed interiors with locked page counts, starting from the Volume 1 prototype rhythm.
+- Final approved 6 x 9 upload interiors with locked page counts.
 - Regenerated full-wrap covers from final page counts.
 - KDP Previewer pass for each upload file.
 - Physical proof review before public release.
 
 ## Recommended Next Production Step
 
-Use the full 6 x 9 interior review drafts as the next trilogy-wide copyedit and theological proof surface. Once each devotional volume is approved and page counts are locked, regenerate the full-wrap covers, then apply the same interior rhythm to the companion journals.
+Use the devotional and companion journal 6 x 9 review drafts as the next trilogy-wide copyedit and theological proof surface. Once each volume and journal is approved, regenerate the full-wrap covers from the locked page counts and paper type.
