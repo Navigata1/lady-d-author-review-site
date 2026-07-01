@@ -186,6 +186,7 @@ def build_docx() -> Path:
         "Master assembly audit result: pass.",
         "Sabbath guardrail preserved with zero Sunday mentions in master artifacts.",
         "Nine 6 x 9 front-cover candidates and first-pass Path-route full-wrap drafts.",
+        "Path-route full-wrap draft covers generated for the three companion journals.",
         "KDP trim and cover readiness worksheet generated from current official KDP guidance.",
         "Volume 1 6 x 9 interior prototype package generated for the first seven devotional entries.",
         "Full 6 x 9 interior review drafts generated for Volumes 1, 2, and 3 with 366 entries each.",

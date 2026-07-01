@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Repo commit at generation: `d1dc5fa`
+Repo commit at generation: `6f07b5d`
 
 Status: Production-planning kit. This is not a final KDP upload package.
 
@@ -27,6 +27,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - Sabbath guardrail preserved: Sunday mentions remain zero in master manuscripts and journals.
 - Nine 6 x 9 front-cover art candidates.
 - Path-route full-wrap draft pack for the three main manuscripts.
+- Path-route full-wrap draft pack for the three companion journals.
 - KDP trim and cover readiness worksheet.
 - Volume 1 6 x 9 interior prototype package for the first seven devotional entries.
 - Full 6 x 9 interior review drafts for Volumes 1, 2, and 3 with 366 entries each.

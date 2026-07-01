@@ -235,6 +235,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - Sabbath guardrail preserved: Sunday mentions remain zero in master manuscripts and journals.
 - Nine 6 x 9 front-cover art candidates.
 - Path-route full-wrap draft pack for the three main manuscripts.
+- Path-route full-wrap draft pack for the three companion journals.
 - KDP trim and cover readiness worksheet.
 - Volume 1 6 x 9 interior prototype package for the first seven devotional entries.
 - Full 6 x 9 interior review drafts for Volumes 1, 2, and 3 with 366 entries each.
@@ -344,6 +345,7 @@ def dashboard_html(commit: str) -> str:
         "Three companion journals assembled in Markdown, DOCX, and PDF.",
         "Nine 6 x 9 front-cover art candidates generated.",
         "Path-route full-wrap draft covers generated for the three main manuscripts.",
+        "Path-route full-wrap draft covers generated for the three companion journals.",
         "KDP trim and cover worksheet generated from official KDP guidance.",
         "Volume 1 6 x 9 interior prototype package generated for the first seven devotional entries.",
         "Full 6 x 9 interior review drafts generated for Volumes 1, 2, and 3 with 366 entries each.",
@@ -437,7 +439,7 @@ def dashboard_html(commit: str) -> str:
   <header>
     <div class="kicker">IDC Publishing release dashboard</div>
     <h1>Lady D Devotional Library release readiness</h1>
-    <p class="lead">The three devotional manuscripts are complete at the dated-entry level and now have master assemblies, companion journals, cover candidates, KDP trim math, full-wrap drafts, interior finalization templates, the first Volume 1 6 x 9 interior prototype, full 6 x 9 devotional drafts, and full 6 x 9 companion journal drafts. This dashboard separates what is complete from what still gates true KDP upload readiness.</p>
+    <p class="lead">The three devotional manuscripts are complete at the dated-entry level and now have master assemblies, companion journals, cover candidates, KDP trim math, devotional and companion journal full-wrap drafts, interior finalization templates, the first Volume 1 6 x 9 interior prototype, full 6 x 9 devotional drafts, and full 6 x 9 companion journal drafts. This dashboard separates what is complete from what still gates true KDP upload readiness.</p>
     <p><span class="status">Generated 2026-07-01</span> <span class="status">Base commit: {html.escape(commit)}</span></p>
     <div class="actions">
       <a href="production.html">Production Review</a>
@@ -450,6 +452,7 @@ def dashboard_html(commit: str) -> str:
       <a href="volume-3-companion-journal-draft.html">Volume 3 Journal Draft</a>
       <a href="downloads/production/kdp/interior-finalization/Lady-D-KDP-Interior-Finalization-Kit.zip">Interior Kit ZIP</a>
       <a href="downloads/production/kdp/interior-finalization/lady-d-kdp-interior-finalization-kit.pdf">Interior Kit PDF</a>
+      <a href="downloads/production/kdp/companion-journal-full-wrap-drafts/Lady-D-Companion-Journal-Full-Wrap-Draft-Pack.zip">Journal Full-Wrap ZIP</a>
     </div>
   </header>
   <main>
