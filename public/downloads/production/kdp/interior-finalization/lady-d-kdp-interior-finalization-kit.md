@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Repo commit at generation: `acdcdb9`
+Repo commit at generation: `3995480`
 
 Status: Production-planning kit. This is not a final KDP upload package.
 
@@ -28,6 +28,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - Nine 6 x 9 front-cover art candidates.
 - Path-route full-wrap draft pack for the three main manuscripts.
 - KDP trim and cover readiness worksheet.
+- Volume 1 6 x 9 interior prototype package for the first seven devotional entries.
 - Public Vercel review page for author-facing review.
 
 ## Interior Finalization Deliverables In This Kit
@@ -99,11 +100,11 @@ Run three to seven passes depending on risk:
 - Final author bio, dedication, acknowledgments, and ISBN.
 - Final Bible permissions statement.
 - Final copyedit of all three manuscripts and journals.
-- Final 6 x 9 designed interiors with locked page counts.
+- Full 6 x 9 designed interiors with locked page counts, starting from the Volume 1 prototype rhythm.
 - Regenerated full-wrap covers from final page counts.
 - KDP Previewer pass for each upload file.
 - Physical proof review before public release.
 
 ## Recommended Next Production Step
 
-Build the final 6 x 9 interior template for Volume 1 first, using the front/back matter template in this kit. Once the template passes render QA, apply the same system to Volumes 2 and 3, then to the companion journals.
+Use the Volume 1 6 x 9 prototype as the first approved rhythm candidate, then flow the full Volume 1 manuscript through that system. Once the full Volume 1 interior passes render QA, apply the same system to Volumes 2 and 3, then to the companion journals.
