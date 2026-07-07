@@ -1,0 +1,21 @@
+{
+  "generated": "2026-07-06",
+  "payment_link": "https://buy.stripe.com/5kQ14pgB3bdAafQezM0VO04",
+  "pages": [
+    "susan-damon-expanded-invoice.html",
+    "susan-damon-hub.html",
+    "lady-d-project-dashboard.html",
+    "lady-d-author-site.html"
+  ],
+  "invoice_pdf": "susan-damon-expanded-invoice.pdf",
+  "zip": "Lady-D-Hub-Invoice-Dashboard-Package-2026-07-06.zip",
+  "scope": [
+    "3 devotional books",
+    "3 companion journals",
+    "31-day visual devotional",
+    "Juan R. Damon testimony book",
+    "publishing prep",
+    "project dashboard",
+    "Lady D website shell"
+  ]
+}
