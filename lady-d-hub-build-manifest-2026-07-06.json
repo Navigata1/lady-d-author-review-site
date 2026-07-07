@@ -1,14 +1,15 @@
 {
   "generated": "2026-07-06",
   "payment_link": "https://buy.stripe.com/5kQ14pgB3bdAafQezM0VO04",
+  "primary_proposal": "susan-damon-publishing-proposal.html",
+  "primary_pdf": "susan-damon-publishing-proposal.pdf",
   "pages": [
+    "susan-damon-publishing-proposal.html",
     "susan-damon-expanded-invoice.html",
     "susan-damon-hub.html",
     "lady-d-project-dashboard.html",
     "lady-d-author-site.html"
   ],
-  "invoice_pdf": "susan-damon-expanded-invoice.pdf",
-  "zip": "Lady-D-Hub-Invoice-Dashboard-Package-2026-07-06.zip",
   "scope": [
     "3 devotional books",
     "3 companion journals",
