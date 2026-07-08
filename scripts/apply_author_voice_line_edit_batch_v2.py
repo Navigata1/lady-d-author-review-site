@@ -1283,6 +1283,81 @@ BATCHES = {
             "volume-1-days-116-122-audit.md",
         ),
     ),
+    "volume-1-days-123-129": Batch(
+        key="volume-1-days-123-129",
+        scope="Volume 1 Days 123-129",
+        title="Volume 1 Days 123-129 Line Edit",
+        intro=(
+            "The second May week of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving hidden sorrow becoming prayer, goodness held in God, "
+            "strength named by deliverance, covenant mercy, distress becoming "
+            "a call, refuge before action, and Saturday Sabbath-rooted beloved "
+            "identity."
+        ),
+        source_name="volume-1-days-123-129-manuscript.md",
+        public_page_name="volume-1-days-123-129-line-edit.html",
+        output_slug="volume-1-days-123-129-line-edit",
+        zip_name="Lady-D-Volume-1-Days-123-129-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 05 - May" / "Days 123-129 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 123-129",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 123",
+                "Let the Father's love carry Let Peace Lead Restoring Compassion into one faithful step today.",
+                "Pray the hidden question before it becomes your only counsel; the Father can meet sorrow in the open.",
+                "Turns Psalm 13's inner counsel and daily sorrow into a concrete prayer movement.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 124",
+                "Let the Father's love carry Choose the Promise That Holds into one faithful step today.",
+                "Confess where your good truly lives today; the Father is not asking you to build peace apart from Him.",
+                "Preserves Psalm 16:2's Lordship and goodness-not-apart-from-God confession.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 125",
+                "Let the Father's love carry Listen for the Heart That Calls You into one faithful step today.",
+                "Let the Lord name your strength before pressure names your day; answer rescue with love.",
+                "Connects delivered identity to David's opening love confession in Psalm 18.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 126",
+                "Let the Father's love carry Stand in Love That Sends You into one faithful step today.",
+                "Take the small faithful step mercy is sending you toward; God's covenant love travels farther than you can measure.",
+                "Keeps covenant mercy and long faithfulness active without inflating the reader's role.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 127",
+                "Let the Father's love carry Let Grace Form Covenant Mercy into one faithful step today.",
+                "Call on God before distress becomes your plan; the cry in His ears does not have to be polished.",
+                "Turns distress, call, cry, and hearing into a memorable first-response practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 128",
+                "Let the Father's love carry Behold the Father's Welcome into one faithful step today.",
+                "Act from refuge today, not exposure; the Father's covering can make joy steady while pressure stays loud.",
+                "Preserves refuge, covering, and honest joy without denying ongoing pressure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 129",
+                "Let the Father's love carry Follow Beloved Identity into one faithful step today.",
+                "Rest this Saturday Sabbath in mercy and awe; beloved identity enters by love and bows with reverence.",
+                "Keeps the Adventist seventh-day Sabbath frame and Psalm 5:7's mercy-and-reverence balance.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-may-week-2-companion-journal.md",
+            "volume-1-days-123-129-audit.md",
+        ),
+    ),
 }
 
 
@@ -1780,6 +1855,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-102-108-line-edit.html">Days 102-108</a>
     <a href="volume-1-days-109-115-line-edit.html">Days 109-115</a>
     <a href="volume-1-days-116-122-line-edit.html">Days 116-122</a>
+    <a href="volume-1-days-123-129-line-edit.html">Days 123-129</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -1883,7 +1959,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-116-122")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-123-129")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

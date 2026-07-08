@@ -32,7 +32,7 @@ Carry this like bread for the road, not decoration for the shelf. Peace becomes 
 
 **Journal prompt:** What inner conversation needs to become prayer instead of private exhaustion?
 
-**Morning impact:** Let the Father's love carry Let Peace Lead Restoring Compassion into one faithful step today.
+**Morning impact:** Pray the hidden question before it becomes your only counsel; the Father can meet sorrow in the open.
 
 ---
 
@@ -60,7 +60,7 @@ Let this word give your morning a spine and your heart a place to rest. The prom
 
 **Journal prompt:** Where am I trying to build peace apart from God's presence?
 
-**Morning impact:** Let the Father's love carry Choose the Promise That Holds into one faithful step today.
+**Morning impact:** Confess where your good truly lives today; the Father is not asking you to build peace apart from Him.
 
 ---
 
@@ -88,7 +88,7 @@ The day does not get to name you before God does. Let His strength speak your na
 
 **Journal prompt:** Where has God been strength in a place I almost only remember as struggle?
 
-**Morning impact:** Let the Father's love carry Listen for the Heart That Calls You into one faithful step today.
+**Morning impact:** Let the Lord name your strength before pressure names your day; answer rescue with love.
 
 ---
 
@@ -116,7 +116,7 @@ Walk out of this page with courage, tenderness, and clarity. The God who makes s
 
 **Journal prompt:** What small action may belong to a larger mercy than I can measure?
 
-**Morning impact:** Let the Father's love carry Stand in Love That Sends You into one faithful step today.
+**Morning impact:** Take the small faithful step mercy is sending you toward; God's covenant love travels farther than you can measure.
 
 ---
 
@@ -144,7 +144,7 @@ Receive the truth deeply enough that it changes your next decision. If God hears
 
 **Journal prompt:** What distress needs to become a call to God before it becomes a decision?
 
-**Morning impact:** Let the Father's love carry Let Grace Form Covenant Mercy into one faithful step today.
+**Morning impact:** Call on God before distress becomes your plan; the cry in His ears does not have to be polished.
 
 ---
 
@@ -172,7 +172,7 @@ Carry this like bread for the road, not decoration for the shelf. Refuge is mean
 
 **Journal prompt:** Where am I acting exposed when the Father is inviting me under His covering?
 
-**Morning impact:** Let the Father's love carry Behold the Father's Welcome into one faithful step today.
+**Morning impact:** Act from refuge today, not exposure; the Father's covering can make joy steady while pressure stays loud.
 
 ---
 
@@ -200,4 +200,4 @@ Let this word give your morning a spine and your heart a place to rest. You are 
 
 **Journal prompt:** How does mercy help me come near, and how does reverence teach me to bow?
 
-**Morning impact:** Let the Father's love carry Follow Beloved Identity into one faithful step today.
+**Morning impact:** Rest this Saturday Sabbath in mercy and awe; beloved identity enters by love and bows with reverence.

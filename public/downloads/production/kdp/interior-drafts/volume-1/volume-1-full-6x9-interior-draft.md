@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Base commit: `9ab860c`
+Base commit: `d3a8466`
 
 Status: Full review draft. This is not a final KDP upload file.
 
