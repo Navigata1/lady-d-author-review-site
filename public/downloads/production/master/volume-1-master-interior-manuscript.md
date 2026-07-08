@@ -3046,7 +3046,7 @@ Start from what God has revealed, not from what the day is demanding. If love ha
 
 **Journal prompt:** Where do I need to let grief tell the truth in the Father's presence?
 
-**Morning impact:** Let the Father's love carry Wake Up to Mercy in the Morning into one faithful step today.
+**Morning impact:** Let honest grief sit in the Father's presence today; mercy has room for tears love cannot fake away.
 
 ---
 
@@ -3074,7 +3074,7 @@ Do not rush past the verse; let it steady you before you move. Ask where God is 
 
 **Journal prompt:** What grief needs a faithful place and time instead of being rushed or ignored?
 
-**Morning impact:** Let the Father's love carry Let Fire Refine the Father's Patience into one faithful step today.
+**Morning impact:** Give one heavy sorrow a faithful place today; the Father's patience can hold lament without losing hope.
 
 ---
 
@@ -3102,7 +3102,7 @@ Let the Spirit press this from information into formation. Fear may tell you to 
 
 **Journal prompt:** What grief or need have I been hiding because fear told me to disappear?
 
-**Morning impact:** Let the Father's love carry Come Home to Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Let one trusted witness see the truth today; love stronger than fear can give grief dignity.
 
 ---
 
@@ -3130,7 +3130,7 @@ Take one surrendered step before worry gets the first word. Let restoration incl
 
 **Journal prompt:** Where do I need restoring compassion as I return to ordinary responsibilities?
 
-**Morning impact:** Let the Father's love carry Practice Restoring Compassion into one faithful step today.
+**Morning impact:** Return to one ordinary task gently today; restoring compassion can walk home after the service ends.
 
 ---
 
@@ -3158,7 +3158,7 @@ Let prayer turn insight into obedience before noon. If old guilt has started spe
 
 **Journal prompt:** Where am I afraid that mercy was only temporary?
 
-**Morning impact:** Let the Father's love carry Surrender to the Promise That Holds into one faithful step today.
+**Morning impact:** Answer old guilt with steady mercy today; the Father's forgiveness is not waiting for private revenge.
 
 ---
 
@@ -3186,7 +3186,7 @@ Start from what God has revealed, not from what the day is demanding. Mercy can 
 
 **Journal prompt:** Where do I need to answer fear with both clarity and gentleness?
 
-**Morning impact:** Let the Father's love carry Let Mercy Speak the Heart That Calls You into one faithful step today.
+**Morning impact:** Let mercy shape one difficult reply today; clarity can be gentle without becoming controlled by fear.
 
 ---
 
@@ -3214,7 +3214,7 @@ Do not rush past the verse; let it steady you before you move. Care done from Sa
 
 **Journal prompt:** What act of care needs to begin from rest instead of pressure?
 
-**Morning impact:** Let the Father's love carry Breathe Love That Sends You into one faithful step today.
+**Morning impact:** Breathe from Saturday Sabbath rest before serving today; careful love can move from belonging, not pressure.
 
 ---
 

@@ -30,7 +30,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PRODUCTION = ROOT / "downloads" / "production"
 LIBRARY_ROOT = Path("/Users/IDC2.5/Documents/LADY D/Production Library")
 VOLUME_1_LIBRARY = LIBRARY_ROOT / "01 Surrendering to God's Love"
-GENERATED = "2026-07-01"
+GENERATED = "2026-07-08"
 AUTHOR = 'Susan "Lady D" Damon'
 
 INK = RGBColor(17, 24, 39)
@@ -1134,6 +1134,80 @@ BATCHES = {
             "volume-1-days-102-108-audit.md",
         ),
     ),
+    "volume-1-days-109-115": Batch(
+        key="volume-1-days-109-115",
+        scope="Volume 1 Days 109-115",
+        title="Volume 1 Days 109-115 Line Edit",
+        intro=(
+            "The fourth April week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "honest grief, patient lament, visible sorrow, gentle return to ordinary "
+            "life, mercy stronger than old guilt, truthful communication, and "
+            "Saturday Sabbath-rooted practical care."
+        ),
+        source_name="volume-1-days-109-115-manuscript.md",
+        public_page_name="volume-1-days-109-115-line-edit.html",
+        output_slug="volume-1-days-109-115-line-edit",
+        zip_name="Lady-D-Volume-1-Days-109-115-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 04 - April" / "Days 109-115 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 109-115",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 109",
+                "Let the Father's love carry Wake Up to Mercy in the Morning into one faithful step today.",
+                "Let honest grief sit in the Father's presence today; mercy has room for tears love cannot fake away.",
+                "Keeps Joseph's embodied grief tender and truthful without treating tears as a lack of faith.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 110",
+                "Let the Father's love carry Let Fire Refine the Father's Patience into one faithful step today.",
+                "Give one heavy sorrow a faithful place today; the Father's patience can hold lament without losing hope.",
+                "Turns the seven-day mourning lens into a contained, pastoral practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 111",
+                "Let the Father's love carry Come Home to Love Stronger Than Fear into one faithful step today.",
+                "Let one trusted witness see the truth today; love stronger than fear can give grief dignity.",
+                "Preserves visible grief without pushing unsafe exposure or performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 112",
+                "Let the Father's love carry Practice Restoring Compassion into one faithful step today.",
+                "Return to one ordinary task gently today; restoring compassion can walk home after the service ends.",
+                "Carries the return-to-Egypt movement into ordinary life after sacred grief.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 113",
+                "Let the Father's love carry Surrender to the Promise That Holds into one faithful step today.",
+                "Answer old guilt with steady mercy today; the Father's forgiveness is not waiting for private revenge.",
+                "Keeps forgiveness stable while naming the brothers' fear that mercy may expire.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 114",
+                "Let the Father's love carry Let Mercy Speak the Heart That Calls You into one faithful step today.",
+                "Let mercy shape one difficult reply today; clarity can be gentle without becoming controlled by fear.",
+                "Preserves mediated fearful communication while keeping truth, tone, and boundaries together.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 115",
+                "Let the Father's love carry Breathe Love That Sends You into one faithful step today.",
+                "Breathe from Saturday Sabbath rest before serving today; careful love can move from belonging, not pressure.",
+                "Keeps the Adventist seventh-day Sabbath frame and service as response to belonging rather than striving.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-april-week-4-companion-journal.md",
+            "volume-1-days-109-115-audit.md",
+        ),
+    ),
 }
 
 
@@ -1629,6 +1703,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-088-094-line-edit.html">Days 088-094</a>
     <a href="volume-1-days-095-101-line-edit.html">Days 095-101</a>
     <a href="volume-1-days-102-108-line-edit.html">Days 102-108</a>
+    <a href="volume-1-days-109-115-line-edit.html">Days 109-115</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -1732,7 +1807,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-102-108")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-109-115")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

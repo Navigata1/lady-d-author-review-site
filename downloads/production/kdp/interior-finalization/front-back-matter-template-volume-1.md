@@ -1,6 +1,6 @@
 # Surrendering to God's Love - KDP Front and Back Matter Template
 
-Generated: 2026-07-01
+Generated: 2026-07-08
 
 Status: Draft publishing template. This is not legal advice and is not the final KDP upload file.
 
