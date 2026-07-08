@@ -1358,6 +1358,81 @@ BATCHES = {
             "volume-1-days-123-129-audit.md",
         ),
     ),
+    "volume-1-days-130-136": Batch(
+        key="volume-1-days-130-136",
+        scope="Volume 1 Days 130-136",
+        title="Volume 1 Days 130-136 Line Edit",
+        intro=(
+            "The third May week of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving discernment before false voices, grace inside visible "
+            "limits, mercy that notices the outsider, costly faithfulness seen "
+            "by God, heart-strengthening words, humble field action, and "
+            "Saturday Sabbath recognition of unforsaken kindness."
+        ),
+        source_name="volume-1-days-130-136-manuscript.md",
+        public_page_name="volume-1-days-130-136-line-edit.html",
+        output_slug="volume-1-days-130-136-line-edit",
+        zip_name="Lady-D-Volume-1-Days-130-136-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 05 - May" / "Days 130-136 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 130-136",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 130",
+                "Let the Father's love carry Rest in Love That Finds You into one faithful step today.",
+                "Test the voice before you carry it today; the Father names you more truthfully than smooth or accusing words.",
+                "Turns Psalm 5:9's unreliable speech lens into a concrete discernment practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 131",
+                "Let the Father's love carry Wake Up to Grace Before Striving into one faithful step today.",
+                "Name the limit without shame today; grace is already present where performance cannot manufacture the future.",
+                "Preserves Naomi's visible limits and hope she cannot produce by striving.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 132",
+                "Let the Father's love carry Let Fire Refine Mercy in the Morning into one faithful step today.",
+                "Receive mercy without arguing with it today, then make dignified room for someone who feels unseen.",
+                "Keeps Ruth's favor-as-foreigner moment tender, practical, and outward-moving.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 133",
+                "Let the Father's love carry Come Home to the Father's Patience into one faithful step today.",
+                "Let the Father see what obedience cost you today; hidden faithfulness does not have to prove itself to every observer.",
+                "Connects costly faithfulness being fully reported with release from self-proving.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 134",
+                "Let the Father's love carry Practice Love Stronger Than Fear into one faithful step today.",
+                "Ask God to make one conversation heart-strengthening today; love speaks truth in a way courage can breathe.",
+                "Preserves comfort and words spoken to the heart as a concrete speech practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 135",
+                "Let the Father's love carry Surrender to Restoring Compassion into one faithful step today.",
+                "Pick up the humble field step in front of you today; restoring compassion often meets surrendered movement.",
+                "Keeps Ruth's gleaning initiative practical without turning surrender into passivity.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 136",
+                "Let the Father's love carry Let Mercy Speak the Promise That Holds into one faithful step today.",
+                "Rest this Saturday Sabbath in unforsaken kindness; mercy is still holding what grief cannot fully understand.",
+                "Preserves the Adventist seventh-day Sabbath frame and Ruth 2:20's unforsaken kindness.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-may-week-3-companion-journal.md",
+            "volume-1-days-130-136-audit.md",
+        ),
+    ),
 }
 
 
@@ -1856,6 +1931,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-109-115-line-edit.html">Days 109-115</a>
     <a href="volume-1-days-116-122-line-edit.html">Days 116-122</a>
     <a href="volume-1-days-123-129-line-edit.html">Days 123-129</a>
+    <a href="volume-1-days-130-136-line-edit.html">Days 130-136</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -1959,7 +2035,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-123-129")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-130-136")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

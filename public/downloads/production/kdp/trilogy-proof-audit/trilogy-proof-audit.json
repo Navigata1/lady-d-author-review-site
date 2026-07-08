@@ -1,15 +1,15 @@
 {
   "generated": "2026-07-01",
-  "commit": "d3a8466",
+  "commit": "5b26ab4",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369528,
+    "words": 369539,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1306,
-    "saturday_mentions": 212,
-    "works_watch_contexts": 358,
+    "sabbath_mentions": 1307,
+    "saturday_mentions": 213,
+    "works_watch_contexts": 359,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
     "duplicate_morning_impact_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128240,
+      "words": 128251,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -35,9 +35,9 @@
       "structure_status": "pass",
       "placeholders": 0,
       "sunday_mentions": 0,
-      "sabbath_mentions": 286,
-      "saturday_mentions": 73,
-      "works_watch_contexts": 211,
+      "sabbath_mentions": 287,
+      "saturday_mentions": 74,
+      "works_watch_contexts": 212,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
       "duplicate_morning_impact_groups": 0,
@@ -890,7 +890,7 @@
       "kind": "Devotional",
       "term": "Performance",
       "line": 3652,
-      "snippet": "her's love carry Rest in Love That Finds You into one faithful step today. --- ## Day 131 - May 11 ### Wake Up to Grace Before Performance **Scripture Reference:** Ruth 1:12 **Context and language lens:** `shovnah benotay/ki zaqanti/ki amarti yesh-li tiqwah` - turn",
+      "snippet": "today; the Father names you more truthfully than smooth or accusing words. --- ## Day 131 - May 11 ### Wake Up to Grace Before Performance **Scripture Reference:** Ruth 1:12 **Context and language lens:** `shovnah benotay/ki zaqanti/ki amarti yesh-li tiqwah` - turn",
       "preliminary_read": "likely grace-aligned"
     },
     {
@@ -927,6 +927,15 @@
       "term": "performance",
       "line": 3672,
       "snippet": "outcome you cannot manufacture, then ask God for the next faithful action inside that limit. **Prayer:** Father, meet me before performance starts measuring my worth. Give me courage to name my limits without despair, and teach me to act from grace instead of pressure.",
+      "preliminary_read": "likely grace-aligned"
+    },
+    {
+      "product": "volume-1-devotional",
+      "title": "Surrendering to God's Love",
+      "kind": "Devotional",
+      "term": "performance",
+      "line": 3676,
+      "snippet": "ng to perform a future only God can hold? **Morning impact:** Name the limit without shame today; grace is already present where performance cannot manufacture the future. --- ## Day 132 - May 12 ### Let Fire Refine Mercy in the Morning **Scripture Reference:** Ruth",
       "preliminary_read": "likely grace-aligned"
     },
     {

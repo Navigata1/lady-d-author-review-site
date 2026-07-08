@@ -3643,7 +3643,7 @@ The day does not get to name you before God does. Let His faithful love find you
 
 **Journal prompt:** What voice has been trying to name me before the Father does?
 
-**Morning impact:** Let the Father's love carry Rest in Love That Finds You into one faithful step today.
+**Morning impact:** Test the voice before you carry it today; the Father names you more truthfully than smooth or accusing words.
 
 ---
 
@@ -3673,7 +3673,7 @@ Walk out of this page with courage, tenderness, and clarity. Grace is already pr
 
 **Journal prompt:** Where am I trying to perform a future only God can hold?
 
-**Morning impact:** Let the Father's love carry Wake Up to Grace Before Striving into one faithful step today.
+**Morning impact:** Name the limit without shame today; grace is already present where performance cannot manufacture the future.
 
 ---
 
@@ -3701,7 +3701,7 @@ Receive the truth deeply enough that it changes your next decision. If mercy has
 
 **Journal prompt:** Where do I still act as if I am unseen even when mercy is making room?
 
-**Morning impact:** Let the Father's love carry Let Fire Refine Mercy in the Morning into one faithful step today.
+**Morning impact:** Receive mercy without arguing with it today, then make dignified room for someone who feels unseen.
 
 ---
 
@@ -3729,7 +3729,7 @@ Carry this like bread for the road, not decoration for the shelf. The God who se
 
 **Journal prompt:** What costly obedience do I need to let the Father see without minimizing it?
 
-**Morning impact:** Let the Father's love carry Come Home to the Father's Patience into one faithful step today.
+**Morning impact:** Let the Father see what obedience cost you today; hidden faithfulness does not have to prove itself to every observer.
 
 ---
 
@@ -3757,7 +3757,7 @@ Let this word give your morning a spine and your heart a place to rest. Today, s
 
 **Journal prompt:** Where can my words help courage breathe instead of making fear louder?
 
-**Morning impact:** Let the Father's love carry Practice Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Ask God to make one conversation heart-strengthening today; love speaks truth in a way courage can breathe.
 
 ---
 
@@ -3785,7 +3785,7 @@ The day does not get to name you before God does. Need does not get to name you 
 
 **Journal prompt:** What small field step is God inviting me to take without controlling the outcome?
 
-**Morning impact:** Let the Father's love carry Surrender to Restoring Compassion into one faithful step today.
+**Morning impact:** Pick up the humble field step in front of you today; restoring compassion often meets surrendered movement.
 
 ---
 
@@ -3813,7 +3813,7 @@ Walk out of this page with courage, tenderness, and clarity. On this Saturday Sa
 
 **Journal prompt:** What evidence of unforsaken kindness do I need to notice before I move into the next week?
 
-**Morning impact:** Let the Father's love carry Let Mercy Speak the Promise That Holds into one faithful step today.
+**Morning impact:** Rest this Saturday Sabbath in unforsaken kindness; mercy is still holding what grief cannot fully understand.
 
 ---
 
