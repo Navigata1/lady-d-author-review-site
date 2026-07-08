@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-08",
-  "commit": "1d46ff6",
+  "commit": "9ab860c",
   "author": "Susan \"Lady D\" Damon",
   "status": "author_decision_gate_ready_not_final_upload",
   "design_preset": "compact_reference_guide with customer_pack opening",
@@ -212,16 +212,16 @@
   },
   "source_manifest": {
     "generated": "2026-07-08",
-    "commit": "1d46ff6",
+    "commit": "9ab860c",
     "status": "source_freeze_manifest_for_review_not_final_upload",
     "freeze_boundary": "These hashes describe the current review surfaces only. Final freeze happens after author decisions, Bible policy, final copyedit, cover lock, KDP Previewer, and physical proof.",
     "files": [
       {
         "path": "downloads/production/master/volume-1-master-interior-manuscript.md",
         "exists": true,
-        "bytes": 784287,
-        "sha256": "52c4bc7e29a2b8f5709684ac9934b136fe8e29c0310a04aee490276753bb62b2",
-        "word_count": 128207
+        "bytes": 784384,
+        "sha256": "f590187e78ada39109c4445f3aba0811e78a09f97a1b2a05c838c116981ebd97",
+        "word_count": 128221
       },
       {
         "path": "downloads/production/master/volume-2-master-interior-manuscript.md",
@@ -261,8 +261,8 @@
       {
         "path": "downloads/production/kdp/interior-drafts/volume-1/volume-1-full-6x9-interior-draft.pdf",
         "exists": true,
-        "bytes": 1589472,
-        "sha256": "98174b36607928d8e8a24d6f5a0b407f6f036981f15063c3f3476982d67821a2",
+        "bytes": 1589790,
+        "sha256": "cd69edfdcba7cc4a3549d2d1fba27843ee1ac3e0d12d75a762d9a7703286ddce",
         "word_count": null
       },
       {

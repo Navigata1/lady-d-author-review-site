@@ -1208,6 +1208,81 @@ BATCHES = {
             "volume-1-days-109-115-audit.md",
         ),
     ),
+    "volume-1-days-116-122": Batch(
+        key="volume-1-days-116-122",
+        scope="Volume 1 Days 116-122",
+        title="Volume 1 Days 116-122 Line Edit",
+        intro=(
+            "The April close and May opening of Surrendering to God's Love has "
+            "moved from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame "
+            "while preserving covenant mercy that answers fear, settled life "
+            "after crisis, humble advocacy, honorable follow-through, grace "
+            "before performance, communal support, and Saturday Sabbath-rooted "
+            "wise trust."
+        ),
+        source_name="volume-1-days-116-122-manuscript.md",
+        public_page_name="volume-1-days-116-122-line-edit.html",
+        output_slug="volume-1-days-116-122-line-edit",
+        zip_name="Lady-D-Volume-1-Days-116-122-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 05 - May" / "Days 116-122 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 116-122",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 116",
+                "Let the Father's love carry Hold Fast to Covenant Mercy into one faithful step today.",
+                "Answer one fear with concrete mercy today; comfort can speak to the heart and help provide for tomorrow.",
+                "Turns Joseph's reassurance, provision, and heart-level comfort into a practical mercy response.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 117",
+                "Let the Father's love carry Return to the Father's Welcome into one faithful step today.",
+                "Let mercy become ordinary today; restored love can keep showing up after the emotional storm passes.",
+                "Preserves settled household life after crisis and makes mercy repeatable instead of dramatic only.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 118",
+                "Let the Father's love carry Yield to Beloved Identity into one faithful step today.",
+                "Make one humble request today; beloved identity can speak clearly after grief without needing to impress.",
+                "Keeps Joseph's humble advocacy grounded in grief-honoring clarity instead of arrogance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 119",
+                "Let the Father's love carry Anchor Love That Finds You into one faithful step today.",
+                "Honor one promise with steady hands today; love can keep faith without becoming ruled by pressure.",
+                "Carries Joseph's oath and return promise into integrity without people-pleasing.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 120",
+                "Let the Father's love carry Discover Grace Before Striving into one faithful step today.",
+                "Receive permission without panic today; grace can open the way before performance tries to earn it.",
+                "Repairs the title mismatch while keeping Pharaoh's permission as grace before frantic performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 121",
+                "Let the Father's love carry Remember the Father's Patience into one faithful step today.",
+                "Let faithful company walk with you today; love moving into action does not have to move alone.",
+                "Turns the public burial company into a clear practice of receiving support.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 122",
+                "Let the Father's love carry Walk in Love Stronger Than Fear into one faithful step today.",
+                "Rest this Saturday Sabbath in wise trust today; the Father can guard what goes forward and what stays.",
+                "Preserves the Adventist seventh-day Sabbath frame and the Goshen trust distinction.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-april-close-and-may-week-1-companion-journal.md",
+            "volume-1-days-116-122-audit.md",
+        ),
+    ),
 }
 
 
@@ -1704,6 +1779,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-095-101-line-edit.html">Days 095-101</a>
     <a href="volume-1-days-102-108-line-edit.html">Days 102-108</a>
     <a href="volume-1-days-109-115-line-edit.html">Days 109-115</a>
+    <a href="volume-1-days-116-122-line-edit.html">Days 116-122</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -1807,7 +1883,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-109-115")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-116-122")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 
