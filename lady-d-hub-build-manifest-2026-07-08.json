@@ -1,0 +1,61 @@
+{
+  "generated": "2026-07-08",
+  "package_total": 2000,
+  "prior_paid": 200,
+  "check_paid": 400,
+  "paid_total": 600,
+  "remaining_balance": 1400,
+  "payment_link_status": "stripe-payment-link-pending-1400.html",
+  "old_payment_link_status": "retired_checkout_do_not_send",
+  "stripe_permission_status": "live restricted key cannot create prices/payment links",
+  "primary_proposal": "susan-damon-publishing-proposal.html",
+  "primary_pdf": "susan-damon-publishing-proposal.pdf",
+  "state_of_union": "lady-d-state-of-the-union-2026-07-08.html",
+  "plan_of_attack": "lady-d-plan-of-attack-2026-07-08.html",
+  "pages": [
+    "susan-damon-publishing-proposal.html",
+    "susan-damon-expanded-invoice.html",
+    "susan-damon-hub.html",
+    "lady-d-project-dashboard.html",
+    "lady-d-author-site.html",
+    "stripe-payment-link-pending-1400.html",
+    "stripe-payment-update-status.html",
+    "lady-d-state-of-the-union-2026-07-08.html",
+    "lady-d-plan-of-attack-2026-07-08.html"
+  ],
+  "pdfs": {
+    "susan-damon-publishing-proposal.pdf": true,
+    "susan-damon-expanded-invoice.pdf": true,
+    "lady-d-state-of-the-union-2026-07-08.pdf": true,
+    "lady-d-plan-of-attack-2026-07-08.pdf": true
+  },
+  "scope_included": [
+    "3 devotional books",
+    "3 companion journals",
+    "31-day visual devotional",
+    "author review hub",
+    "project dashboard",
+    "Lady D website shell",
+    "KDP/digital publishing prep"
+  ],
+  "scope_separate": [
+    "Juan Damon testimony/autobiography book"
+  ],
+  "source_meetings": [
+    {
+      "id": "01KQXAN1Y9WR2GD2EX7J687WYK",
+      "date": "2026-05-05",
+      "topic": "monthly devotional, journal, KDP, workbooks"
+    },
+    {
+      "id": "01KV4JJ1M47PBZ75K78CQGP989",
+      "date": "2026-06-14",
+      "topic": "three-volume devotional bundle, companion journals, $2,000 package"
+    },
+    {
+      "id": "01KWXC5F7J9EPX9BDPXEBWVKK5",
+      "date": "2026-07-06",
+      "topic": "author feedback, separate testimony lane, invoice/Stripe update"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Lady D Goal Mode Gated Workflow - July 8, 2026</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #07101c;
+      --panel: #0d1b2e;
+      --panel-2: #12243a;
+      --ink: #f3f8ff;
+      --muted: #adc0d4;
+      --line: rgba(173, 192, 212, .2);
+      --teal: #59d8b4;
+      --gold: #ffd166;
+      --coral: #ff987f;
+      --blue: #7dbaff;
+      --violet: #c7a9ff;
+      --good: #8ef2c0;
+      --bad: #ff8f8f;
+      --shadow: 0 18px 50px rgba(0, 0, 0, .28);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background:
+        radial-gradient(circle at 12% 0%, rgba(89, 216, 180, .15), transparent 30rem),
+        radial-gradient(circle at 92% 8%, rgba(125, 186, 255, .13), transparent 34rem),
+        var(--bg);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      line-height: 1.55;
+    }
+    main { width: min(1180px, calc(100% - 32px)); margin: 0 auto; padding: 38px 0 72px; }
+    a { color: var(--blue); }
+    h1, h2, h3 { margin: 0; line-height: 1.12; }
+    h1 { max-width: 970px; margin-top: 10px; font-size: clamp(2.2rem, 5vw, 4.05rem); letter-spacing: 0; }
+    h2 { margin-bottom: 14px; font-size: clamp(1.45rem, 2.8vw, 2.05rem); }
+    h3 { margin-bottom: 8px; font-size: 1.06rem; color: #fff; }
+    p { margin: 0; }
+    ul { margin: 10px 0 0; padding-left: 20px; }
+    li + li { margin-top: 7px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 8px; font-size: .92rem; }
+    th, td { border: 1px solid var(--line); padding: 10px 12px; text-align: left; vertical-align: top; }
+    th { color: #fff; background: rgba(255,255,255,.055); font-size: .78rem; letter-spacing: .07em; text-transform: uppercase; }
+    td { color: var(--muted); }
+    td strong { color: #fff; }
+    code { color: #dff7ef; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .9em; }
+    section { padding-top: 36px; }
+    .nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 22px; }
+    .nav a { color: #fff; text-decoration: none; border: 1px solid var(--line); border-radius: 999px; padding: 7px 10px; background: rgba(255,255,255,.05); font-size: .8rem; font-weight: 800; }
+    .eyebrow { color: var(--teal); font-size: .78rem; font-weight: 850; letter-spacing: .14em; text-transform: uppercase; }
+    .hero { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 26px; align-items: end; padding: 22px 0 34px; border-bottom: 1px solid var(--line); }
+    .summary { max-width: 840px; margin-top: 18px; color: var(--muted); font-size: 1.08rem; }
+    .card, .callout, .gate, .metric { border: 1px solid var(--line); border-radius: 16px; background: linear-gradient(180deg, var(--panel-2), var(--panel)); box-shadow: var(--shadow); }
+    .callout { padding: 22px; }
+    .callout strong { display: block; color: var(--teal); font-size: 1.5rem; line-height: 1.1; }
+    .callout span { display: block; margin-top: 10px; color: var(--muted); font-size: .95rem; }
+    .grid { display: grid; gap: 16px; }
+    .two { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .four { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+    .card, .metric { padding: 18px; }
+    .card p, .card li, .gate p, .gate li, .muted { color: var(--muted); }
+    .metric strong { display: block; margin-bottom: 6px; font-size: 1.7rem; color: #fff; line-height: 1; }
+    .chip { display: inline-flex; align-items: center; border: 1px solid var(--line); border-radius: 999px; padding: 4px 10px; margin: 2px 4px 2px 0; background: rgba(255,255,255,.05); color: var(--muted); font-size: .78rem; font-weight: 850; }
+    .chip.red { color: var(--bad); border-color: rgba(255,143,143,.42); }
+    .chip.gold { color: var(--gold); border-color: rgba(255,209,102,.42); }
+    .chip.green { color: var(--good); border-color: rgba(142,242,192,.42); }
+    .chip.blue { color: var(--blue); border-color: rgba(125,186,255,.42); }
+    .chip.violet { color: var(--violet); border-color: rgba(199,169,255,.42); }
+    .gate { display: grid; grid-template-columns: 78px 1fr; gap: 18px; padding: 20px; margin-top: 12px; }
+    .gate-num { display: grid; place-items: center; width: 62px; height: 62px; border-radius: 16px; background: rgba(89,216,180,.12); color: var(--teal); font-weight: 950; font-size: 1.25rem; }
+    .gate.block .gate-num { background: rgba(255,143,143,.12); color: var(--bad); }
+    .gate.warn .gate-num { background: rgba(255,209,102,.12); color: var(--gold); }
+    .gate.blue .gate-num { background: rgba(125,186,255,.12); color: var(--blue); }
+    .table-wrap { overflow-x: auto; border-radius: 12px; }
+    .kicker { color: var(--muted); max-width: 880px; margin-bottom: 14px; }
+    .rule { border-left: 4px solid var(--teal); padding: 12px 14px; background: rgba(89,216,180,.07); border-radius: 12px; color: var(--muted); }
+    .footer-note { margin-top: 40px; border-top: 1px solid var(--line); padding-top: 18px; color: var(--muted); font-size: .92rem; }
+    @media (max-width: 900px) {
+      main { width: min(100% - 24px, 760px); padding-top: 24px; }
+      .hero, .two, .three, .four { grid-template-columns: 1fr; }
+      .gate { grid-template-columns: 1fr; }
+    }
+    @media print {
+      body { background: #07101c; print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+      main { width: auto; padding: .12in; }
+      .nav { display: none; }
+      .card, .callout, .gate, .metric { break-inside: avoid; }
+      h1 { font-size: 40px !important; }
+      h2 { font-size: 24px !important; }
+    }
+  </style>
+</head>
+<body>
+<main>
+  <nav class="nav">
+    <a href="lady-d-plan-of-attack-2026-07-08.html">July 8 Plan</a>
+    <a href="lady-d-state-of-the-union-2026-07-08.html">State of the Union</a>
+    <a href="lady-d-project-dashboard.html">Dashboard</a>
+    <a href="production.html">Production</a>
+    <a href="release-status.html">Release Status</a>
+  </nav>
+
+  <header class="hero">
+    <div>
+      <p class="eyebrow">Lady D Goal Mode Directive - July 8, 2026</p>
+      <h1>Point the work through gates before finishing the books.</h1>
+      <p class="summary">The devotional library is substantial enough to stop expanding blindly. From this point forward, Goal Mode should treat the Lady D project as a proof-gated publishing system: payment and scope truth first, author decisions second, sample feedback application third, then source freeze, KDP proof discipline, and public release only after evidence.</p>
+      <div style="margin-top:16px">
+        <span class="chip red">Stop public ambiguity</span>
+        <span class="chip gold">Collect author decisions</span>
+        <span class="chip green">Sample before full pass</span>
+        <span class="chip blue">Freeze before final interiors</span>
+        <span class="chip violet">Proof before publish</span>
+      </div>
+    </div>
+    <aside class="callout">
+      <strong>New operating rule</strong>
+      <span>No devotional, journal, cover, or public-site artifact should be called final until the relevant gate below has evidence attached.</span>
+    </aside>
+  </header>
+
+  <section>
+    <h2>Current Truth</h2>
+    <div class="grid four">
+      <article class="metric"><strong>$2,000</strong><span class="muted">Corrected active package total.</span></article>
+      <article class="metric"><strong>$600</strong><span class="muted">Paid to date from prior payment plus check.</span></article>
+      <article class="metric"><strong>$1,400</strong><span class="muted">Remaining balance; live Stripe link still needs owner/admin action.</span></article>
+      <article class="metric"><strong>6</strong><span class="muted">Core KDP-facing products: 3 devotionals and 3 journals.</span></article>
+    </div>
+  </section>
+
+  <section>
+    <h2>Execution Gates</h2>
+    <p class="kicker">These gates supersede a pure day-by-day writing loop. Continue producing only review evidence until the gate says the next stage is allowed.</p>
+
+    <article class="gate block">
+      <div class="gate-num">P0</div>
+      <div>
+        <h3>Payment and Scope Truth</h3>
+        <p>Keep the corrected $2,000 / $600 paid / $1,400 remaining structure everywhere. Do not send the retired checkout. Keep Juan Damon testimony outside the current package unless separately scoped and approved.</p>
+        <ul>
+          <li><strong>Allowed:</strong> status page, invoice correction, dashboard reminders.</li>
+          <li><strong>Blocked:</strong> claiming payment collection is complete or blending testimony into this invoice.</li>
+          <li><strong>Done when:</strong> a real live Stripe checkout shows $1,400 and replaces <code>stripe-payment-link-pending-1400.html</code>.</li>
+        </ul>
+      </div>
+    </article>
+
+    <article class="gate warn">
+      <div class="gate-num">P1</div>
+      <div>
+        <h3>Author Decision Sheet</h3>
+        <p>Before final interiors or wraps, collect explicit decisions from Lady D and Jon.</p>
+        <ul>
+          <li>Final titles and launch order.</li>
+          <li>Cover direction per devotional and per journal.</li>
+          <li>Bible policy: references only, quoted scripture text, translation choice, permissions wording.</li>
+          <li>Author bio, dedication, acknowledgments, front/back matter, paper type, ISBN/barcode path, and journal rhythm.</li>
+          <li><strong>Done when:</strong> a decision sheet is approved and stored with the KDP finalization pack.</li>
+        </ul>
+      </div>
+    </article>
+
+    <article class="gate">
+      <div class="gate-num">P2</div>
+      <div>
+        <h3>July 6 Feedback Sample</h3>
+        <p>Apply Lady D's newest feedback to a representative review sample before scaling the entire trilogy.</p>
+        <ul>
+          <li>Add actual scripture text only after Bible-policy approval.</li>
+          <li>Reduce or simplify context-language notes when they crowd devotional depth.</li>
+          <li>Fuse morning impact / today's step into clearer journal prompts.</li>
+          <li>Brighten cover candidates and regenerate higher-resolution 6 x 9 cover directions.</li>
+          <li><strong>Done when:</strong> one devotional week, one companion-journal section, and one cover family are reviewed as the new pattern.</li>
+        </ul>
+      </div>
+    </article>
+
+    <article class="gate blue">
+      <div class="gate-num">P3</div>
+      <div>
+        <h3>Source Freeze and Manifest</h3>
+        <p>Freeze canonical sources for the three devotionals and three journals before final export.</p>
+        <ul>
+          <li>Register source paths, page-count assumptions, checksums, and approved front/back matter.</li>
+          <li>Keep all six products in <strong>review-ready, not final upload-ready</strong> status until Previewer and proof evidence exist.</li>
+          <li><strong>Done when:</strong> every product has a frozen source manifest and no unresolved author decision remains.</li>
+        </ul>
+      </div>
+    </article>
+
+    <article class="gate blue">
+      <div class="gate-num">P4</div>
+      <div>
+        <h3>KDP Build and Proof Evidence</h3>
+        <p>Generate final interiors and wraps only after P1-P3 pass.</p>
+        <ul>
+          <li>Lock trim, paper type, page count, cover calculator values, ISBN/barcode area, and export settings.</li>
+          <li>Run visual proof review, checksum outputs, and KDP Previewer.</li>
+          <li><strong>Done when:</strong> Previewer screenshots/logs show no blocking margin, bleed, cover, or interior issues.</li>
+        </ul>
+      </div>
+    </article>
+
+    <article class="gate block">
+      <div class="gate-num">P5</div>
+      <div>
+        <h3>Physical Proof Before Public Release</h3>
+        <p>No public launch language until the printed proof is reviewed and approved.</p>
+        <ul>
+          <li>Order proofs, inspect readability and cover alignment, photograph evidence, and capture author approval.</li>
+          <li><strong>Done when:</strong> physical proof evidence is attached to the dashboard and the release-status page can honestly say proof-approved.</li>
+        </ul>
+      </div>
+    </article>
+  </section>
+
+  <section>
+    <h2>Goal Mode Loops</h2>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Loop</th><th>Use when</th><th>Required output</th><th>Stop condition</th></tr></thead>
+        <tbody>
+          <tr><td><strong>Recon loop</strong></td><td>Any gate status may have changed.</td><td>Current file/repo/live-site status, exact blocker list, and next owner.</td><td>Payment, author decision, or proof evidence is missing.</td></tr>
+          <tr><td><strong>Sample application loop</strong></td><td>Applying July 6 feedback.</td><td>One representative week, one journal section, one cover family, audit notes.</td><td>Bible policy is unknown or sample quality is not approved.</td></tr>
+          <tr><td><strong>Production loop</strong></td><td>Gate P1 and sample pass are approved.</td><td>Batch manuscript, companion journal, DOCX/PDF, JSON audit, review page, ZIP.</td><td>Any artifact drifts into final-upload wording without proof evidence.</td></tr>
+          <tr><td><strong>Proof loop</strong></td><td>Source freeze and final export begin.</td><td>Checksums, page-count ledger, cover calculator values, Previewer evidence.</td><td>KDP Previewer or visual proof flags a blocking issue.</td></tr>
+          <tr><td><strong>Dashboard loop</strong></td><td>Publishing to client-facing surfaces.</td><td>Hub/dashboard/release status updated with honest labels and links.</td><td>Payment link, author approval, or proof status is ambiguous.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Recommended Model and Tool Settings</h2>
+    <div class="grid three">
+      <article class="card">
+        <h3>Architecture and gate decisions</h3>
+        <p>Use the highest-reasoning Codex/Goal Mode setting available, such as <strong>5.5 Extra High</strong>, for payment/scope truth, author-decision interpretation, Bible policy, proof gating, and release language.</p>
+      </article>
+      <article class="card">
+        <h3>Manuscript and journal batches</h3>
+        <p>Use a strong medium-to-high reasoning setting for devotional copyediting so the voice stays warm and the theology stays steady. Avoid fast/spark modes for final faith-language or author-voice decisions.</p>
+      </article>
+      <article class="card">
+        <h3>Mechanical checks and assets</h3>
+        <p>Use faster settings for link checks, file manifests, ZIP audits, and repetitive format work. Use GPT Image 2.0/high-quality image generation for 6 x 9 cover options, then route covers through visual proof and KDP wrap checks.</p>
+      </article>
+    </div>
+    <p class="rule" style="margin-top:16px">Recommended attached capabilities: Documents for DOCX review, PDF for proof rendering, Browser for local/live verification, GitHub for commits/PRs, Vercel for deployment checks, Computer or browser visual tools for KDP/cover inspection, and Stripe only through an owner/admin-created live checkout link.</p>
+  </section>
+
+  <section>
+    <h2>Next Best Move</h2>
+    <div class="grid two">
+      <article class="card">
+        <h3>Do now</h3>
+        <ul>
+          <li>Publish or share the July 8 State/Plan/Workflow artifacts as internal review surfaces, not final public-release proof.</li>
+          <li>Create the author decision sheet and make Bible policy the first approval question.</li>
+          <li>Apply the July 6 feedback to a small review sample before continuing Days 102-108.</li>
+          <li>Keep the Days 095-101 line-edit batch as review progress, not release completion.</li>
+        </ul>
+      </article>
+      <article class="card">
+        <h3>Do not do yet</h3>
+        <ul>
+          <li>Do not finish all three devotionals in the old structure without the sample pass.</li>
+          <li>Do not add scripture quotations until the Bible policy and translation/permissions path is approved.</li>
+          <li>Do not regenerate final covers from unlocked page counts.</li>
+          <li>Do not call anything upload-ready before KDP Previewer and physical proof evidence.</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <p class="footer-note">Grounded in: <code>lady-d-plan-of-attack-2026-07-08.html</code>, <code>lady-d-state-of-the-union-2026-07-08.html</code>, current release-status and production dashboards, KDP readiness/proof packs, and the latest pushed Days 095-101 line-edit batch. This directive is a workflow control document, not final publication approval.</p>
+</main>
+</body>
+</html>
