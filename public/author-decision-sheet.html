@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lady D Author Decision Sheet</title>
+  <style>
+    :root { --ink:#111827; --muted:#5b6474; --paper:#fffdf8; --mist:#f5f2eb; --indigo:#182646; --teal:#1d716f; --gold:#c99335; --coral:#b86464; --line:rgba(17,24,39,.14); --shadow:0 20px 58px rgba(24,38,70,.12); }
+    * { box-sizing:border-box; }
+    body { margin:0; color:var(--ink); font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; background:linear-gradient(180deg,var(--paper),var(--mist)); line-height:1.5; }
+    nav { position:sticky; top:0; z-index:10; display:flex; flex-wrap:wrap; gap:8px; align-items:center; padding:10px clamp(16px,4vw,42px); background:rgba(24,38,70,.96); color:white; }
+    nav a, nav strong { color:white; text-decoration:none; font-weight:850; font-size:14px; }
+    header, main { max-width:1160px; margin:0 auto; padding:44px 22px; }
+    h1,h2,h3 { font-family:Georgia,"Times New Roman",serif; letter-spacing:0; line-height:1.05; margin:0 0 14px; }
+    h1 { font-size:clamp(42px,7vw,80px); max-width:980px; }
+    h2 { font-size:clamp(28px,4vw,46px); }
+    p { margin:0 0 14px; }
+    .lead { max-width:850px; font-size:clamp(18px,2vw,23px); color:#2e3746; }
+    .kicker { color:var(--teal); font-weight:950; letter-spacing:.14em; text-transform:uppercase; font-size:12px; margin-bottom:14px; }
+    .status { display:inline-block; background:var(--indigo); color:white; padding:7px 10px; border-radius:999px; font-size:12px; font-weight:900; margin:0 6px 8px 0; }
+    .actions { display:flex; flex-wrap:wrap; gap:10px; margin-top:18px; }
+    .actions a { display:inline-flex; align-items:center; min-height:38px; padding:8px 12px; border:1px solid var(--line); border-radius:999px; color:var(--teal); background:white; font-size:13px; font-weight:900; text-decoration:none; }
+    section { border-top:1px solid var(--line); padding:34px 0; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:14px; }
+    .card, .panel { border:1px solid var(--line); background:white; border-radius:8px; padding:18px; box-shadow:var(--shadow); }
+    .card span { color:var(--gold); font-size:12px; font-weight:900; text-transform:uppercase; letter-spacing:.12em; }
+    .card strong { display:block; font-family:Georgia,"Times New Roman",serif; font-size:34px; line-height:1.05; margin:8px 0; color:#172247; }
+    table { width:100%; border-collapse:collapse; background:white; border:1px solid var(--line); border-radius:8px; overflow:hidden; }
+    th,td { padding:11px 12px; border-bottom:1px solid var(--line); vertical-align:top; text-align:left; }
+    th { background:#f4f6f9; color:var(--indigo); font-size:12px; text-transform:uppercase; letter-spacing:.08em; }
+    .table-wrap { overflow:auto; border-radius:8px; }
+    code { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:.9em; }
+    ul { margin:0; padding-left:22px; }
+    li { margin:8px 0; }
+    @media (max-width:720px) { nav { position:static; } th,td { font-size:13px; } }
+  </style>
+</head>
+<body>
+  <nav>
+    <strong>Lady D KDP Gate</strong>
+    <a href="susan-damon-hub.html">Hub</a>
+    <a href="production.html">Production Review</a>
+    <a href="release-status.html">Release Dashboard</a>
+    <a href="lady-d-plan-of-attack-2026-07-08.html">Plan</a>
+    <a href="#decisions">Decisions</a>
+    <a href="#economics">KDP Costs</a>
+    <a href="#sources">Sources</a>
+  </nav>
+  <header>
+    <div class="kicker">IDC Publishing author decision gate</div>
+    <h1>Lady D Author Decision Sheet</h1>
+    <p class="lead">A single approval surface for the decisions that must be settled before final interiors, final wraps, KDP Previewer, physical proofs, and public release language.</p>
+    <p><span class="status">Generated 2026-07-08</span><span class="status">Commit 02fe20d</span><span class="status">Not final upload approval</span></p>
+    <div class="actions">
+      <a href="downloads/production/kdp/author-decision-sheet/Lady-D-Author-Decision-Sheet-Pack.zip">Download ZIP</a>
+      <a href="downloads/production/kdp/author-decision-sheet/lady-d-author-decision-sheet.pdf">PDF</a>
+      <a href="downloads/production/kdp/author-decision-sheet/lady-d-author-decision-sheet.docx">DOCX</a>
+      <a href="downloads/production/kdp/author-decision-sheet/lady-d-author-decision-sheet.md">Markdown</a>
+      <a href="downloads/production/kdp/author-decision-sheet/lady-d-author-decision-sheet.json">JSON</a>
+      <a href="downloads/production/kdp/author-decision-sheet/source-freeze-manifest.json">Source Manifest</a>
+      <a href="downloads/production/kdp/author-decision-sheet/amazon-kdp-copy-economics.md">KDP Economics</a>
+    </div>
+  </header>
+  <main>
+    <section><div class="grid"><article class="card"><span>Decision Gate</span><strong>8</strong><p>Title, Bible, cover, front/back matter, launch order, guardrails, economics.</p></article><article class="card"><span>Products</span><strong>6</strong><p>Three devotionals plus three companion journals.</p></article><article class="card"><span>Proof Estimate</span><strong>$36.45</strong><p>One print copy each before shipping/tax, verify in KDP.</p></article><article class="card"><span>Source Files</span><strong>18</strong><p>Current review surfaces hashed for source-control review.</p></article></div></section>
+    <section>
+      <h2>Product Approval Matrix</h2>
+      <div class="table-wrap"><table><thead><tr><th>Product</th><th>Kind</th><th>Pages</th><th>Cover Direction</th></tr></thead><tbody><tr><td>Surrendering to God&#x27;s Love</td><td>Devotional</td><td>369</td><td>warm Father-heart visual lane with refined path/light imagery</td></tr><tr><td>Surrendering to God&#x27;s Love Companion Journal</td><td>Companion Journal</td><td>470</td><td>paired journal cover, quieter and writing-forward</td></tr><tr><td>Walking with Jesus</td><td>Devotional</td><td>369</td><td>Jesus-following visual lane with road, presence, and discipleship light</td></tr><tr><td>Walking with Jesus Companion Journal</td><td>Companion Journal</td><td>477</td><td>paired journal cover, clearer writing space and devotional continuity</td></tr><tr><td>Filled with the Holy Spirit</td><td>Devotional</td><td>369</td><td>Spirit-filled visual lane with warmth, movement, oil/fire/rain restraint</td></tr><tr><td>Filled with the Holy Spirit Companion Journal</td><td>Companion Journal</td><td>483</td><td>paired journal cover, contemplative but bright enough for retail thumbnails</td></tr></tbody></table></div>
+    </section>
+    <section id="decisions">
+      <h2>Immediate Decision Board</h2>
+      <div class="table-wrap"><table><thead><tr><th>Area</th><th>Owner</th><th>Decision Needed</th><th>Done When</th></tr></thead><tbody><tr><td>Title lock</td><td>Lady D + Jon</td><td>Final title and subtitle for each devotional and each companion journal.</td><td>Every KDP product title/subtitle is approved in writing and matches the cover/interior/title page.</td></tr><tr><td>Bible policy</td><td>Lady D + Jon</td><td>References only, public-domain text, or licensed translation with required notice.</td><td>The copyright page carries the exact Bible translation and permission notice strategy.</td></tr><tr><td>July 6 content feedback</td><td>IDC</td><td>Whether every day gets quoted Scripture text or a more compact reference-plus-reader-reflection format.</td><td>Sample pages are approved before trilogy-wide conversion.</td></tr><tr><td>Cover direction</td><td>Lady D + Jon</td><td>Final cover concept, brightness, author name treatment, subtitle scale, paper type, and barcode plan.</td><td>The selected front cover and full-wrap proof pass thumbnail, spine, bleed, and barcode review.</td></tr><tr><td>Front/back matter</td><td>Lady D</td><td>Final wording for author-sensitive pages.</td><td>No placeholders remain in copyright, dedication, bio, acknowledgments, or IDC imprint notes.</td></tr><tr><td>Launch order</td><td>Lady D + Jon</td><td>Single-volume launch, trilogy launch, or staggered release calendar.</td><td>KDP metadata, prices, categories, and review copies match the selected release sequence.</td></tr><tr><td>Adventist guardrail</td><td>IDC theological audit</td><td>Confirm no Sunday-as-Sabbath language and no performance-based salvation phrasing.</td><td>Final proof audit shows zero Sunday-as-Sabbath drift and no earning-love framing.</td></tr><tr><td>KDP proof economics</td><td>IDC + Jon</td><td>How many proofs, who receives them, and what retail-price scenarios should be modeled.</td><td>Proof order quantity, shipping destination, retail prices, and author-copy path are documented.</td></tr></tbody></table></div>
+    </section>
+    <section id="economics">
+      <h2>KDP Copy Economics</h2>
+      <p class="lead">Planning subtotal for one print copy of each current review product before shipping/tax: <strong>$36.45</strong>. Verify the final numbers inside KDP before ordering.</p>
+      <div class="table-wrap"><table><thead><tr><th>Product</th><th>Pages</th><th>Estimate</th><th>Notes</th></tr></thead><tbody><tr><td>Surrendering to God&#x27;s Love</td><td>369</td><td>$5.43</td><td>Planning estimate before shipping/tax; verify in KDP calculator and checkout.</td></tr><tr><td>Surrendering to God&#x27;s Love Companion Journal</td><td>470</td><td>$6.64</td><td>Planning estimate before shipping/tax; verify in KDP calculator and checkout.</td></tr><tr><td>Walking with Jesus</td><td>369</td><td>$5.43</td><td>Planning estimate before shipping/tax; verify in KDP calculator and checkout.</td></tr><tr><td>Walking with Jesus Companion Journal</td><td>477</td><td>$6.72</td><td>Planning estimate before shipping/tax; verify in KDP calculator and checkout.</td></tr><tr><td>Filled with the Holy Spirit</td><td>369</td><td>$5.43</td><td>Planning estimate before shipping/tax; verify in KDP calculator and checkout.</td></tr><tr><td>Filled with the Holy Spirit Companion Journal</td><td>483</td><td>$6.80</td><td>Planning estimate before shipping/tax; verify in KDP calculator and checkout.</td></tr></tbody></table></div>
+    </section>
+    <section id="sources">
+      <h2>Source Freeze Snapshot</h2>
+      <p class="lead">These hashes describe the current review surfaces only. Final freeze happens after author decisions, Bible policy, final copyedit, cover lock, KDP Previewer, and physical proof.</p>
+      <div class="table-wrap"><table><thead><tr><th>File</th><th>Exists</th><th>Bytes</th><th>SHA-256 Prefix</th></tr></thead><tbody><tr><td>volume-1-master-interior-manuscript.md</td><td>True</td><td>784121</td><td><code>f40a5eec096ddecb</code></td></tr><tr><td>volume-2-master-interior-manuscript.md</td><td>True</td><td>602832</td><td><code>b41bff9329d4989e</code></td></tr><tr><td>volume-3-master-interior-manuscript.md</td><td>True</td><td>576827</td><td><code>97fa781cf0e4a237</code></td></tr><tr><td>volume-1-master-companion-journal.md</td><td>True</td><td>131758</td><td><code>48fbf32d67f70f06</code></td></tr><tr><td>volume-2-master-companion-journal.md</td><td>True</td><td>112931</td><td><code>a611a6eda81ad758</code></td></tr><tr><td>volume-3-master-companion-journal.md</td><td>True</td><td>117300</td><td><code>505e92e6676b1d27</code></td></tr><tr><td>volume-1-full-6x9-interior-draft.pdf</td><td>True</td><td>1588852</td><td><code>c421a0d42f4ad664</code></td></tr><tr><td>volume-2-full-6x9-interior-draft.pdf</td><td>True</td><td>1374482</td><td><code>1eefb9f525600443</code></td></tr><tr><td>volume-3-full-6x9-interior-draft.pdf</td><td>True</td><td>1348707</td><td><code>95018b3e8534e557</code></td></tr><tr><td>volume-1-companion-journal-6x9-draft.pdf</td><td>True</td><td>983685</td><td><code>97e800d1951c8bfc</code></td></tr><tr><td>volume-2-companion-journal-6x9-draft.pdf</td><td>True</td><td>943804</td><td><code>54323dcbd2951d4c</code></td></tr><tr><td>volume-3-companion-journal-6x9-draft.pdf</td><td>True</td><td>951019</td><td><code>0d882796ce880cb5</code></td></tr><tr><td>volume-1-path-route-white-paper-full-wrap-draft.pdf</td><td>True</td><td>719342</td><td><code>f8840b1e54c81d05</code></td></tr><tr><td>volume-2-path-route-white-paper-full-wrap-draft.pdf</td><td>True</td><td>878866</td><td><code>72bc8192f154115b</code></td></tr><tr><td>volume-3-path-route-white-paper-full-wrap-draft.pdf</td><td>True</td><td>761132</td><td><code>aeaad97814ac97ae</code></td></tr><tr><td>volume-1-companion-journal-path-route-white-paper-full-wrap-draft.pdf</td><td>True</td><td>702215</td><td><code>c03d8e80b71106cc</code></td></tr><tr><td>volume-2-companion-journal-path-route-white-paper-full-wrap-draft.pdf</td><td>True</td><td>866858</td><td><code>d0d78f9c6e6bc264</code></td></tr><tr><td>volume-3-companion-journal-path-route-white-paper-full-wrap-draft.pdf</td><td>True</td><td>757150</td><td><code>5055a5952d70e7a8</code></td></tr></tbody></table></div>
+    </section>
+    <section>
+      <h2>Release Boundary</h2>
+      <div class="panel"><ul><li>This sheet is a decision and source-control gate, not a final upload approval.</li><li>Do not regenerate final wraps until trim, paper type, page counts, title/subtitle, and barcode strategy are locked.</li><li>Do not add full Bible quotation text until the Bible policy is approved and the copyright/permission notice is inserted.</li><li>Do not use public release language until KDP Previewer and physical proof review pass.</li><li>Keep Juan Damon testimony/autobiography separate unless a new scope is approved.</li></ul></div>
+    </section>
+    <section>
+      <h2>Official KDP References</h2>
+      <div class="actions"><a href="https://kdp.amazon.com/en_US/help/topic/G7BBN68RYX5UMDZF">KDP Proof and Author Copies</a><a href="https://kdp.amazon.com/en_US/help/topic/G2MYNEKHT443C2H2">KDP proof/author copy cost</a><a href="https://kdp.amazon.com/en_US/help/topic/GG6GRS7TKXVG6AGW">KDP proof/author copy shipping</a><a href="https://kdp.amazon.com/en_US/help/topic/G201834340">KDP paperback printing cost</a><a href="https://kdp.amazon.com/en_US/help/topic/GSQF43YAMUPFTMSP">KDP Printing Cost and Royalty Calculator</a></div>
+    </section>
+  </main>
+</body>
+</html>

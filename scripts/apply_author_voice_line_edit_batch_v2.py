@@ -1060,6 +1060,80 @@ BATCHES = {
             "volume-1-days-095-101-audit.md",
         ),
     ),
+    "volume-1-days-102-108": Batch(
+        key="volume-1-days-102-108",
+        scope="Volume 1 Days 102-108",
+        title="Volume 1 Days 102-108 Line Edit",
+        intro=(
+            "The third April week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "mercy that becomes practical provision, humble truth carried home, "
+            "patient hope, visible care, truthful identity without revenge, "
+            "providence without denial, and Saturday Sabbath-rested obedience."
+        ),
+        source_name="volume-1-days-102-108-manuscript.md",
+        public_page_name="volume-1-days-102-108-line-edit.html",
+        output_slug="volume-1-days-102-108-line-edit",
+        zip_name="Lady-D-Volume-1-Days-102-108-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 04 - April" / "Days 102-108 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 102-108",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 102",
+                "Let the Father's love carry Choose the Heart That Calls You into one faithful step today.",
+                "Let mercy pack bread for the road today; practical care can make restoration easier to receive.",
+                "Turns Joseph's road provision into a concrete care step without thinning forgiveness into feeling only.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 103",
+                "Let the Father's love carry Listen for Love That Sends You into one faithful step today.",
+                "Carry one life-giving truth home with humility today; mercy can rewrite the errand without erasing the past.",
+                "Preserves the brothers' changed errand while keeping truth, humility, and history together.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 104",
+                "Let the Father's love carry Stand in Covenant Mercy into one faithful step today.",
+                "Let one stunned place thaw slowly today; covenant mercy does not rush a heart learning hope again.",
+                "Keeps Jacob's numb heart pastorally safe by allowing slow hope instead of demanding instant trust.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 105",
+                "Let the Father's love carry Let Grace Form the Father's Welcome into one faithful step today.",
+                "Match one word with one visible act of care today; grace often arrives with wheels under it.",
+                "Connects Joseph's words and wagons to visible, trustworthy care.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 106",
+                "Let the Father's love carry Behold Beloved Identity into one faithful step today.",
+                "Stand in truthful identity today without revenge; belovedness can speak plainly and still leave room for mercy.",
+                "Lets Joseph's revealed identity become truthful speech governed by love rather than vengeance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 107",
+                "Let the Father's love carry Follow Love That Finds You into one faithful step today.",
+                "Name the harm and God's sustaining hand today; providence can speak without excusing what wounded you.",
+                "Preserves the providence guardrail: God's hand is named without calling evil good or bypassing pain.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 108",
+                "Let the Father's love carry Rest in Grace Before Striving into one faithful step today.",
+                "Move from Saturday Sabbath rest today; prompt obedience can rise from provision instead of panic.",
+                "Keeps the seventh-day Sabbath guardrail while distinguishing holy urgency from frantic control.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-april-week-3-companion-journal.md",
+            "volume-1-days-102-108-audit.md",
+        ),
+    ),
 }
 
 
@@ -1554,6 +1628,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-081-087-line-edit.html">Days 081-087</a>
     <a href="volume-1-days-088-094-line-edit.html">Days 088-094</a>
     <a href="volume-1-days-095-101-line-edit.html">Days 095-101</a>
+    <a href="volume-1-days-102-108-line-edit.html">Days 102-108</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -1657,7 +1732,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-095-101")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-102-108")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

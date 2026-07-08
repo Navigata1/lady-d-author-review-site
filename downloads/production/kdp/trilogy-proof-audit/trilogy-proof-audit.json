@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "b4f7c7a",
+  "commit": "02fe20d",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369481,
+    "words": 369492,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1302,
-    "saturday_mentions": 208,
+    "sabbath_mentions": 1303,
+    "saturday_mentions": 209,
     "works_watch_contexts": 356,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128193,
+      "words": 128204,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -35,8 +35,8 @@
       "structure_status": "pass",
       "placeholders": 0,
       "sunday_mentions": 0,
-      "sabbath_mentions": 282,
-      "saturday_mentions": 69,
+      "sabbath_mentions": 283,
+      "saturday_mentions": 70,
       "works_watch_contexts": 209,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
@@ -791,7 +791,7 @@
       "kind": "Devotional",
       "term": "Performance",
       "line": 2996,
-      "snippet": "ather's love carry Follow Love That Finds You into one faithful step today. --- ## Day 108 - April 18 ### Rest in Grace Before Performance **Scripture Reference:** Genesis 45:9 **Context and language lens:** `maharu/wa'alu/el avi/ko amar bincha Yosef/samani Elohim/l",
+      "snippet": "taining hand today; providence can speak without excusing what wounded you. --- ## Day 108 - April 18 ### Rest in Grace Before Performance **Scripture Reference:** Genesis 45:9 **Context and language lens:** `maharu/wa'alu/el avi/ko amar bincha Yosef/samani Elohim/l",
       "preliminary_read": "likely grace-aligned"
     },
     {
