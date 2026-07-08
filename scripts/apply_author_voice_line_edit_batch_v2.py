@@ -1583,6 +1583,81 @@ BATCHES = {
             "volume-1-days-144-150-audit.md",
         ),
     ),
+    "volume-1-days-151-157": Batch(
+        key="volume-1-days-151-157",
+        scope="Volume 1 Days 151-157",
+        title="Volume 1 Days 151-157 Line Edit",
+        intro=(
+            "The May close and June opening week of Surrendering to God's Love "
+            "has moved from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame "
+            "while preserving covenant mercy over time, beloved identity that "
+            "receives light, freedom from comparison, grace that receives "
+            "placement, ordered mercy, patient rhythm, and Saturday Sabbath "
+            "movement from love instead of fear."
+        ),
+        source_name="volume-1-days-151-157-manuscript.md",
+        public_page_name="volume-1-days-151-157-line-edit.html",
+        output_slug="volume-1-days-151-157-line-edit",
+        zip_name="Lady-D-Volume-1-Days-151-157-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 06 - June" / "Days 151-157 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 151-157",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 151",
+                "Let the Father's love carry Embrace Covenant Mercy into one faithful step today.",
+                "Trust the Father with the calendar today; covenant mercy can hold the season you cannot hurry.",
+                "Turns Genesis 1:14's appointed times into surrendered trust over today's faithful action.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 152",
+                "Let the Father's love carry Rest in Beloved Identity into one faithful step today.",
+                "Receive the light God gives today; beloved identity does not need to manufacture its own brightness.",
+                "Keeps Genesis 1:15's appointed light as received gift rather than self-made identity.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 153",
+                "Let the Father's love carry Wake Up to Love That Finds You into one faithful step today.",
+                "Honor your assigned measure today; the Father's love frees you to shine without comparison.",
+                "Preserves Genesis 1:16's distinct lights and assignments without rivalry.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 154",
+                "Let the Father's love carry Let Fire Refine Grace Before Striving into one faithful step today.",
+                "Receive your placement today; grace can make service useful without asking visibility to prove your worth.",
+                "Connects Genesis 1:17's God-set placement to service free from performance pressure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 155",
+                "Let the Father's love carry Come Home to Mercy in the Morning into one faithful step today.",
+                "Let mercy govern the mixture today; the Father can separate light from darkness without shaming you.",
+                "Keeps Genesis 1:18's ordered rule and separation pastoral and practical.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 156",
+                "Let the Father's love carry Practice the Father's Patience into one faithful step today.",
+                "Close this day with the Father's patience; faithful boundaries can leave tomorrow in His hands.",
+                "Turns Genesis 1:19's evening-morning rhythm into a concrete boundary and trust line.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 157",
+                "Let the Father's love carry Surrender to Love Stronger Than Fear into one faithful step today.",
+                "Rest this Saturday Sabbath before you move; love restores living motion without fear's pressure.",
+                "Keeps the Adventist seventh-day Sabbath frame and Genesis 1:20's living movement from God.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-may-close-and-june-week-1-companion-journal.md",
+            "volume-1-days-151-157-audit.md",
+        ),
+    ),
 }
 
 
@@ -2084,6 +2159,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-130-136-line-edit.html">Days 130-136</a>
     <a href="volume-1-days-137-143-line-edit.html">Days 137-143</a>
     <a href="volume-1-days-144-150-line-edit.html">Days 144-150</a>
+    <a href="volume-1-days-151-157-line-edit.html">Days 151-157</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -2187,7 +2263,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-144-150")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-151-157")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

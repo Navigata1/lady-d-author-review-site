@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-01",
-  "commit": "4b0cdbe",
+  "commit": "22a8dfa",
   "author": "Susan \"Lady D\" Damon",
   "status": "proof_decisions_applied_queue_clear_not_final_upload",
   "prior_queue_totals": {
@@ -28,8 +28,8 @@
     "words": 369569,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1309,
-    "saturday_mentions": 215,
+    "sabbath_mentions": 1310,
+    "saturday_mentions": 216,
     "works_watch_contexts": 361,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,

@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Repo commit at generation: `4b0cdbe`
+Repo commit at generation: `22a8dfa`
 
 Author: Susan "Lady D" Damon
 
@@ -18,8 +18,8 @@ This pack moves the Lady D library from assembled review drafts into a disciplin
 - Source words checked: 369,569
 - Placeholder markers found: 0
 - Sunday mentions: 0
-- Sabbath mentions: 1309
-- Saturday mentions: 215
+- Sabbath mentions: 1310
+- Saturday mentions: 216
 - Works-righteousness watch contexts: 361
 - Contexts requiring proof review: 0
 - Duplicate devotional title groups: 0
