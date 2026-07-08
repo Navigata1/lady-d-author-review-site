@@ -3844,7 +3844,7 @@ Receive the truth deeply enough that it changes your next decision. If the Fathe
 
 **Journal prompt:** Where might God be asking my love to become practical enough to help someone breathe?
 
-**Morning impact:** Let the Father's love carry Breathe the Heart That Calls You into one faithful step today.
+**Morning impact:** Make love practical enough to restore breath today; one ordinary act of care can carry more life than you see.
 
 ---
 
@@ -3872,7 +3872,7 @@ Carry this like bread for the road, not decoration for the shelf. Let clarity be
 
 **Journal prompt:** What matter needs clean, loving clarity instead of more delay?
 
-**Morning impact:** Let the Father's love carry Hold Fast to Love That Sends You into one faithful step today.
+**Morning impact:** Choose clean clarity today; love does not need shadows when responsibility is ready to be named.
 
 ---
 
@@ -3900,7 +3900,7 @@ Let this word give your morning a spine and your heart a place to rest. A refusa
 
 **Journal prompt:** Where do I need to stop forcing a false redeemer and return to God's covenant mercy?
 
-**Morning impact:** Let the Father's love carry Return to Covenant Mercy into one faithful step today.
+**Morning impact:** Release the redeemer who cannot carry the cost; covenant mercy is still able to clear a faithful path.
 
 ---
 
@@ -3928,7 +3928,7 @@ The day does not get to name you before God does. Let the Father's welcome make 
 
 **Journal prompt:** What concrete step would confirm the surrender I keep leaving vague?
 
-**Morning impact:** Let the Father's love carry Yield to the Father's Welcome into one faithful step today.
+**Morning impact:** Let one surrendered yes become visible today; grace can make obedience concrete without making it a performance.
 
 ---
 
@@ -3956,7 +3956,7 @@ Walk out of this page with courage, tenderness, and clarity. The beginning belon
 
 **Journal prompt:** What burden becomes lighter when I remember that God is Creator and I am not?
 
-**Morning impact:** Let the Father's love carry Anchor Beloved Identity into one faithful step today.
+**Morning impact:** Begin beneath the Creator today; you are a beloved creature, not the one holding the heavens together.
 
 ---
 
@@ -3984,7 +3984,7 @@ Receive the truth deeply enough that it changes your next decision. You do not h
 
 **Journal prompt:** What unfinished place do I need to stop hiding from God's hovering presence?
 
-**Morning impact:** Let the Father's love carry Discover Love That Finds You into one faithful step today.
+**Morning impact:** Invite the Spirit over the unfinished place today; God's love can hover before your life looks ordered.
 
 ---
 
@@ -4012,7 +4012,7 @@ Carry this like bread for the road, not decoration for the shelf. On this Saturd
 
 **Journal prompt:** Where do I need God's light before I try to work, explain, or fix?
 
-**Morning impact:** Let the Father's love carry Receive Grace Before Striving into one faithful step today.
+**Morning impact:** Rest this Saturday Sabbath under the word that speaks light first; grace begins before performance can answer.
 
 ---
 

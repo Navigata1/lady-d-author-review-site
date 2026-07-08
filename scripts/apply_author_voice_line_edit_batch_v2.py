@@ -1433,6 +1433,81 @@ BATCHES = {
             "volume-1-days-130-136-audit.md",
         ),
     ),
+    "volume-1-days-137-143": Batch(
+        key="volume-1-days-137-143",
+        scope="Volume 1 Days 137-143",
+        title="Volume 1 Days 137-143 Line Edit",
+        intro=(
+            "The fourth May week of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving embodied care, clean public clarity, released false "
+            "redeemers, concrete surrender, Creator-rooted identity, the "
+            "Spirit's presence over unfinished places, and Saturday Sabbath "
+            "grace before performance."
+        ),
+        source_name="volume-1-days-137-143-manuscript.md",
+        public_page_name="volume-1-days-137-143-line-edit.html",
+        output_slug="volume-1-days-137-143-line-edit",
+        zip_name="Lady-D-Volume-1-Days-137-143-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 05 - May" / "Days 137-143 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 137-143",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 137",
+                "Let the Father's love carry Breathe the Heart That Calls You into one faithful step today.",
+                "Make love practical enough to restore breath today; one ordinary act of care can carry more life than you see.",
+                "Turns Ruth 4:15's embodied restoration into a concrete act of care.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 138",
+                "Let the Father's love carry Hold Fast to Love That Sends You into one faithful step today.",
+                "Choose clean clarity today; love does not need shadows when responsibility is ready to be named.",
+                "Preserves Ruth 4:4's public clarity and witness frame.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 139",
+                "Let the Father's love carry Return to Covenant Mercy into one faithful step today.",
+                "Release the redeemer who cannot carry the cost; covenant mercy is still able to clear a faithful path.",
+                "Connects the nearer redeemer's refusal to trust in God's continuing mercy.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 140",
+                "Let the Father's love carry Yield to the Father's Welcome into one faithful step today.",
+                "Let one surrendered yes become visible today; grace can make obedience concrete without making it a performance.",
+                "Keeps Ruth 4:7's confirming sign practical while protecting the grace boundary.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 141",
+                "Let the Father's love carry Anchor Beloved Identity into one faithful step today.",
+                "Begin beneath the Creator today; you are a beloved creature, not the one holding the heavens together.",
+                "Turns Genesis 1:1 into relieved beloved identity rather than self-erasure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 142",
+                "Let the Father's love carry Discover Love That Finds You into one faithful step today.",
+                "Invite the Spirit over the unfinished place today; God's love can hover before your life looks ordered.",
+                "Preserves Genesis 1:2's Spirit-over-unformed-darkness lens.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 143",
+                "Let the Father's love carry Receive Grace Before Striving into one faithful step today.",
+                "Rest this Saturday Sabbath under the word that speaks light first; grace begins before performance can answer.",
+                "Keeps the Adventist seventh-day Sabbath frame and Genesis 1:3's grace-before-effort order.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-may-week-4-companion-journal.md",
+            "volume-1-days-137-143-audit.md",
+        ),
+    ),
 }
 
 
@@ -1932,6 +2007,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-116-122-line-edit.html">Days 116-122</a>
     <a href="volume-1-days-123-129-line-edit.html">Days 123-129</a>
     <a href="volume-1-days-130-136-line-edit.html">Days 130-136</a>
+    <a href="volume-1-days-137-143-line-edit.html">Days 137-143</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -2035,7 +2111,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-130-136")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-137-143")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

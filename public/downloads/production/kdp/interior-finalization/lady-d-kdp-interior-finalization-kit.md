@@ -2,7 +2,7 @@
 
 Generated: 2026-07-08
 
-Repo commit at generation: `5b26ab4`
+Repo commit at generation: `0cb5e77`
 
 Status: Production-planning kit. This is not a final KDP upload package.
 
@@ -38,7 +38,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - Proof decision application pack generated; the prior 192-item title, morning-impact, and theology queue is preserved as evidence and now audits clear.
 - Reader-facing lens application and author-voice copyedit gate generated; the source and public manuscript mirrors now audit at 1,098 context/language lenses and zero internal production labels.
 - Author decision sheet generated with title, Bible policy, cover, front/back matter, launch order, Adventist guardrail, source-freeze, and KDP copy-economics approval fields.
-- Volume 1 Days 001-136, including Leap Day, author-voice line edits completed across eighteen seven-day batches, one eight-entry leap-day/March gate, plus a three-day January closeout; the edited surface now has 137 varied morning-impact lines, zero old Volume 1 impact templates, zero internal production labels, and zero Sunday mentions.
+- Volume 1 Days 001-143, including Leap Day, author-voice line edits completed across nineteen seven-day batches, one eight-entry leap-day/March gate, plus a three-day January closeout; the edited surface now has 144 varied morning-impact lines, zero old Volume 1 impact templates, zero internal production labels, and zero Sunday mentions.
 - Public Vercel review page for author-facing review.
 
 ## Interior Finalization Deliverables In This Kit
@@ -114,11 +114,11 @@ Run three to seven passes depending on risk:
 - Regenerated full-wrap covers from final page counts.
 - Final KDP metadata approval for all three devotionals and all three companion journals.
 - Author approval of the decision sheet: titles, Bible policy, cover direction, bio, dedication, acknowledgments, and launch order.
-- Continue author-voice line edits beyond the completed Volume 1 Days 001-136 plus Leap Day batches.
+- Continue author-voice line edits beyond the completed Volume 1 Days 001-143 plus Leap Day batches.
 - Author approval of companion journal rhythm and front/back matter.
 - KDP Previewer pass for each upload file.
 - Physical proof review before public release.
 
 ## Recommended Next Production Step
 
-Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack, trilogy proof audit pack, proof decision resolution pack, proof decision application pack, author decision sheet, author-voice copyedit gate, and completed Volume 1 Days 001-136 plus Leap Day line-edit batches as the next trilogy-wide copyedit and theological proof surface. The proof decision queue is clear; continue with Volume 1 Days 137-143, then seven-day, bonus-day, and month-close author-voice line edits, metadata approval, and final cover regeneration from locked page counts and paper type.
+Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack, trilogy proof audit pack, proof decision resolution pack, proof decision application pack, author decision sheet, author-voice copyedit gate, and completed Volume 1 Days 001-143 plus Leap Day line-edit batches as the next trilogy-wide copyedit and theological proof surface. The proof decision queue is clear; continue with Volume 1 Days 144-150, then seven-day, bonus-day, and month-close author-voice line edits, metadata approval, and final cover regeneration from locked page counts and paper type.

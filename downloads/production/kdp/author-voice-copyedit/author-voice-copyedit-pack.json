@@ -16,11 +16,11 @@
       "context_lens_labels": 1098,
       "internal_production_labels": 0,
       "translation_review_notes": 1,
-      "sabbath_mentions": 775,
-      "saturday_mentions": 177,
+      "sabbath_mentions": 776,
+      "saturday_mentions": 178,
       "sunday_mentions": 0,
       "placeholders": 0,
-      "words": 318707
+      "words": 318725
     },
     "by_volume": {
       "1": {
@@ -29,11 +29,11 @@
         "context_lens_labels": 366,
         "internal_production_labels": 0,
         "translation_review_notes": 0,
-        "sabbath_mentions": 285,
-        "saturday_mentions": 73,
+        "sabbath_mentions": 286,
+        "saturday_mentions": 74,
         "sunday_mentions": 0,
         "placeholders": 0,
-        "words": 129514
+        "words": 129532
       },
       "2": {
         "files": 54,
@@ -68,11 +68,11 @@
       "context_lens_labels": 1098,
       "internal_production_labels": 0,
       "translation_review_notes": 1,
-      "sabbath_mentions": 781,
-      "saturday_mentions": 180,
+      "sabbath_mentions": 782,
+      "saturday_mentions": 181,
       "sunday_mentions": 0,
       "placeholders": 0,
-      "words": 314886
+      "words": 314904
     },
     "by_volume": {
       "1": {
@@ -81,11 +81,11 @@
         "context_lens_labels": 366,
         "internal_production_labels": 0,
         "translation_review_notes": 0,
-        "sabbath_mentions": 287,
-        "saturday_mentions": 74,
+        "sabbath_mentions": 288,
+        "saturday_mentions": 75,
         "sunday_mentions": 0,
         "placeholders": 0,
-        "words": 128251
+        "words": 128269
       },
       "2": {
         "entries": 366,
@@ -319,7 +319,7 @@
       },
       {
         "phrase": "Let the Father's love carry",
-        "count": 229,
+        "count": 222,
         "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
       },
       {
@@ -431,7 +431,7 @@
     "morning_impact_patterns": [
       {
         "phrase": "Let the Father's love carry",
-        "count": 229,
+        "count": 222,
         "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
       },
       {
@@ -597,7 +597,7 @@
     {
       "type": "Morning impact pattern",
       "phrase": "Let the Father's love carry",
-      "count": 229,
+      "count": 222,
       "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
     },
     {
