@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "f85e049",
+  "commit": "b4f7c7a",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369482,
+    "words": 369481,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1301,
-    "saturday_mentions": 207,
+    "sabbath_mentions": 1302,
+    "saturday_mentions": 208,
     "works_watch_contexts": 356,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128194,
+      "words": 128193,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -35,8 +35,8 @@
       "structure_status": "pass",
       "placeholders": 0,
       "sunday_mentions": 0,
-      "sabbath_mentions": 281,
-      "saturday_mentions": 68,
+      "sabbath_mentions": 282,
+      "saturday_mentions": 69,
       "works_watch_contexts": 209,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
@@ -746,7 +746,7 @@
       "kind": "Devotional",
       "term": "Performance",
       "line": 2657,
-      "snippet": "ove carry See Again Love That Finds You into one faithful step today. --- ## Day 096 - April 6 ### Let Love Teach Grace Before Performance **Scripture Reference:** Genesis 32:30 **Context and language lens:** `Peniel/raiti Elohim/panim el panim/vattinnatsel nafshi`",
+      "snippet": "th mercy today; struggle does not get to name what God is making new. --- ## Day 096 - April 6 ### Let Love Teach Grace Before Performance **Scripture Reference:** Genesis 32:30 **Context and language lens:** `Peniel/raiti Elohim/panim el panim/vattinnatsel nafshi`",
       "preliminary_read": "likely grace-aligned"
     },
     {

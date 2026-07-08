@@ -986,6 +986,80 @@ BATCHES = {
             "volume-1-days-088-094-audit.md",
         ),
     ),
+    "volume-1-days-095-101": Batch(
+        key="volume-1-days-095-101",
+        scope="Volume 1 Days 095-101",
+        title="Volume 1 Days 095-101 Line Edit",
+        intro=(
+            "The second April week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "renamed identity after struggle, grace before performance, humble "
+            "truth sent ahead of fear, prayer from promise, guarded hope, practical "
+            "compassion, and Saturday Sabbath-paced restoration."
+        ),
+        source_name="volume-1-days-095-101-manuscript.md",
+        public_page_name="volume-1-days-095-101-line-edit.html",
+        output_slug="volume-1-days-095-101-line-edit",
+        zip_name="Lady-D-Volume-1-Days-095-101-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 04 - April" / "Days 095-101 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 095-101",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 095",
+                "Let the Father's love carry See Again Love That Finds You into one faithful step today.",
+                "Answer one old name with mercy today; struggle does not get to name what God is making new.",
+                "Turns Jacob's renamed identity into a concrete response without denying the limp or the struggle.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 096",
+                "Let the Father's love carry Let Love Teach Grace Before Striving into one faithful step today.",
+                "Receive mercy before you manage the meeting today; delivered life can walk without panic.",
+                "Keeps Peniel's preserved-life order clear: grace before performance, repair, or explanation.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 097",
+                "Let the Father's love carry Awaken Mercy in the Morning into one faithful step today.",
+                "Send one humble truth ahead of fear today; mercy can speak without trying to control the reply.",
+                "Preserves the humble-message lens while keeping boundaries and outcome control distinct.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 098",
+                "Let the Father's love carry Embrace the Father's Patience into one faithful step today.",
+                "Pray the promise before the pressure today; the Father is patient with trembling obedience.",
+                "Lets Jacob's prayer-from-promise become a morning practice rooted in grace rather than scolding.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 099",
+                "Let the Father's love carry Remember Love Stronger Than Fear into one faithful step today.",
+                "Name one guarded hope today; love can open a door without denying what hurt.",
+                "Keeps Joseph's restoration movement hopeful without pressuring instant closeness or unsafe denial.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 100",
+                "Let the Father's love carry Walk in Restoring Compassion into one faithful step today.",
+                "Let mercy grow hands today; make one wise space where compassion can become visible.",
+                "Turns practical provision into a concrete act while preserving wisdom and limits.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 101",
+                "Let the Father's love carry Let Peace Lead the Promise That Holds into one faithful step today.",
+                "Rest at Saturday Sabbath pace today; the Father can carry vulnerable places without hurrying them.",
+                "Preserves seventh-day Sabbath rest as mercy-paced restoration rather than pressure or performance.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-april-week-2-companion-journal.md",
+            "volume-1-days-095-101-audit.md",
+        ),
+    ),
 }
 
 
@@ -1479,6 +1553,7 @@ def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) 
     <a href="volume-1-days-074-080-line-edit.html">Days 074-080</a>
     <a href="volume-1-days-081-087-line-edit.html">Days 081-087</a>
     <a href="volume-1-days-088-094-line-edit.html">Days 088-094</a>
+    <a href="volume-1-days-095-101-line-edit.html">Days 095-101</a>
     <a href="release-status.html">Release Dashboard</a>
     <a href="#edits">Edits</a>
     <a href="#downloads">Downloads</a>
@@ -1582,7 +1657,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-088-094")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-095-101")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

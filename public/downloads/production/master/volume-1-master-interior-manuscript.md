@@ -2648,7 +2648,7 @@ Do not rush past the verse. Let the Father steady you with a name that is larger
 
 **Journal prompt:** What old name needs to lose authority because God's mercy has spoken something truer?
 
-**Morning impact:** Let the Father's love carry See Again Love That Finds You into one faithful step today.
+**Morning impact:** Answer one old name with mercy today; struggle does not get to name what God is making new.
 
 ---
 
@@ -2676,7 +2676,7 @@ The Father does not need you frantic in order to form you. He lets grace come fi
 
 **Journal prompt:** Where am I trying to perform for peace before receiving the grace God has already given?
 
-**Morning impact:** Let the Father's love carry Let Love Teach Grace Before Striving into one faithful step today.
+**Morning impact:** Receive mercy before you manage the meeting today; delivered life can walk without panic.
 
 ---
 
@@ -2704,7 +2704,7 @@ Take one surrendered step before worry gets the first word. Let mercy be awake b
 
 **Journal prompt:** What honest word of humility may need to go ahead of me?
 
-**Morning impact:** Let the Father's love carry Awaken Mercy in the Morning into one faithful step today.
+**Morning impact:** Send one humble truth ahead of fear today; mercy can speak without trying to control the reply.
 
 ---
 
@@ -2732,7 +2732,7 @@ Let prayer turn insight into obedience before noon. Promise remembered in prayer
 
 **Journal prompt:** What promise do I need to pray back before I face the next mercy step?
 
-**Morning impact:** Let the Father's love carry Embrace the Father's Patience into one faithful step today.
+**Morning impact:** Pray the promise before the pressure today; the Father is patient with trembling obedience.
 
 ---
 
@@ -2760,7 +2760,7 @@ Start from what God has revealed, not from what the day is demanding.
 
 **Journal prompt:** Where might God be inviting me to stop withholding hope?
 
-**Morning impact:** Let the Father's love carry Remember Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Name one guarded hope today; love can open a door without denying what hurt.
 
 ---
 
@@ -2788,7 +2788,7 @@ Do not rush past the verse. Let it steady you before you move. The good of the l
 
 **Journal prompt:** If mercy had hands today, what faithful action would it take?
 
-**Morning impact:** Let the Father's love carry Walk in Restoring Compassion into one faithful step today.
+**Morning impact:** Let mercy grow hands today; make one wise space where compassion can become visible.
 
 ---
 
@@ -2816,7 +2816,7 @@ The Father knows how to bring a family forward without abandoning the fragile.
 
 **Journal prompt:** What vulnerable place needs to be carried gently instead of hurried?
 
-**Morning impact:** Let the Father's love carry Let Peace Lead the Promise That Holds into one faithful step today.
+**Morning impact:** Rest at Saturday Sabbath pace today; the Father can carry vulnerable places without hurrying them.
 
 ---
 
