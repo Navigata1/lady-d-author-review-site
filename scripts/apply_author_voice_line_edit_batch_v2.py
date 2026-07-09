@@ -2008,6 +2008,82 @@ BATCHES = {
             "volume-1-days-182-188-audit.md",
         ),
     ),
+    "volume-1-days-189-195": Batch(
+        key="volume-1-days-189-195",
+        scope="Volume 1 Days 189-195",
+        title="Volume 1 Days 189-195 Line Edit",
+        intro=(
+            "The second July week of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving Genesis 15's movement from named fear into God's "
+            "answer, widened vision, righteousness by faith, Saturday Sabbath "
+            "remembrance, covenant assurance, and obedient preparation that "
+            "responds to grace without trying to earn the promise."
+        ),
+        source_name="volume-1-days-189-195-manuscript.md",
+        public_page_name="volume-1-days-189-195-line-edit.html",
+        output_slug="volume-1-days-189-195-line-edit",
+        zip_name="Lady-D-Volume-1-Days-189-195-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 07 - July" / "Days 189-195 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 189-195",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 189",
+                "Let the Father's love carry Let Hope Rise Grace Before Striving into one faithful step today.",
+                "Let God's answer interrupt fear today; grace can keep hope alive before you reach for substitute plans.",
+                "Keeps Genesis 15:4's direct answer to Abram's inheritance fear while turning hope into a grace-first practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 190",
+                "Let the Father's love carry Carry Mercy in the Morning into one faithful step today.",
+                "Look beyond the small frame today; the Father can widen hope past what you can count.",
+                "Preserves Genesis 15:5's sky/star vision and the movement from cramped worry into enlarged trust.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 191",
+                "Let the Father's love carry Lean Into the Father's Patience into one faithful step today.",
+                "Lean into trust today; the Father's promise can steady you before the outcome is visible.",
+                "Keeps Genesis 15:6 centered on righteousness by faith instead of performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 192",
+                "Let the Father's love carry See Again Love Stronger Than Fear into one faithful step today.",
+                "Rest this Saturday Sabbath in remembered faithfulness; the God who brought you out is still leading.",
+                "Keeps the July 11 Saturday Sabbath frame, God's past leading, and trust in the faithful Creator and Redeemer together.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 193",
+                "Let the Father's love carry Let Love Teach Restoring Compassion into one faithful step today.",
+                "Bring the assurance question to God today; compassion can steady faith without turning it into control.",
+                "Preserves Genesis 15:8's honest assurance question while distinguishing covenant trust from control.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 194",
+                "Let the Father's love carry Awaken the Promise That Holds into one faithful step today.",
+                "Take the named preparation step today; obedience can answer grace without trying to earn the promise.",
+                "Connects Genesis 15:9's concrete covenant preparation to obedience as a response to grace.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 195",
+                "Let the Father's love carry Embrace the Heart That Calls You into one faithful step today.",
+                "Prepare what God named today; patient obedience makes room for what only He can do.",
+                "Keeps Genesis 15:10's careful preparation and patient waiting under God's initiative.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-july-week-2-companion-journal.md",
+            "volume-1-days-189-195-audit.md",
+        ),
+    ),
 }
 
 
@@ -2613,7 +2689,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-182-188")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-189-195")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

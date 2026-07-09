@@ -1,15 +1,15 @@
 {
   "generated": "2026-07-01",
-  "commit": "20cc4bf",
+  "commit": "9b18bee",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369607,
+    "words": 369610,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1314,
-    "saturday_mentions": 220,
-    "works_watch_contexts": 362,
+    "sabbath_mentions": 1315,
+    "saturday_mentions": 221,
+    "works_watch_contexts": 363,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
     "duplicate_morning_impact_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128319,
+      "words": 128322,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -35,9 +35,9 @@
       "structure_status": "pass",
       "placeholders": 0,
       "sunday_mentions": 0,
-      "sabbath_mentions": 294,
-      "saturday_mentions": 81,
-      "works_watch_contexts": 215,
+      "sabbath_mentions": 295,
+      "saturday_mentions": 82,
+      "works_watch_contexts": 216,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
       "duplicate_morning_impact_groups": 0,
@@ -1323,6 +1323,15 @@
       "term": "earning",
       "line": 5509,
       "snippet": "e it without demanding the whole map first. **Prayer:** Father, awaken obedience in me without letting me confuse obedience with earning. Help me take the next faithful step because Your promise already holds me. Amen. **Journal prompt:** What one concrete preparat",
+      "preliminary_read": "likely grace-aligned"
+    },
+    {
+      "product": "volume-1-devotional",
+      "title": "Surrendering to God's Love",
+      "kind": "Devotional",
+      "term": "earn",
+      "line": 5513,
+      "snippet": "asking me to make today? **Morning impact:** Take the named preparation step today; obedience can answer grace without trying to earn the promise. --- ## Day 195 - July 14 ### Embrace the Heart That Calls You **Scripture Reference:** Genesis 15:10 **Context",
       "preliminary_read": "likely grace-aligned"
     },
     {

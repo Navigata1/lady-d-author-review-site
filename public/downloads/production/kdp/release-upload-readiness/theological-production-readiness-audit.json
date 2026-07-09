@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "20cc4bf",
+  "commit": "9b18bee",
   "result": "review_ready_not_final_upload",
   "totals": {
     "products": 6,
     "missing_files": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1314,
-    "saturday_mentions": 220,
-    "words": 369607
+    "sabbath_mentions": 1315,
+    "saturday_mentions": 221,
+    "words": 369610
   },
   "products": [
     {
@@ -34,12 +34,12 @@
         "encrypted": false
       },
       "counts": {
-        "words": 128319,
-        "sabbath_mentions": 294,
-        "saturday_mentions": 81,
+        "words": 128322,
+        "sabbath_mentions": 295,
+        "saturday_mentions": 82,
         "sunday_mentions": 0,
         "performance_mentions": 179,
-        "earn_mentions": 36
+        "earn_mentions": 37
       },
       "missing": [],
       "cover_size_white": "13.081 x 9.250 in",

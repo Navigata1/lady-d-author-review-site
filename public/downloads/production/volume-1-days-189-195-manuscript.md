@@ -34,7 +34,7 @@ Grace before performance means you are allowed to hope because God has spoken, n
 
 **Journal prompt:** Where has fear been building a substitute plan because I am tired of waiting?
 
-**Morning impact:** Let the Father's love carry Let Hope Rise Grace Before Striving into one faithful step today.
+**Morning impact:** Let God's answer interrupt fear today; grace can keep hope alive before you reach for substitute plans.
 
 ---
 
@@ -64,7 +64,7 @@ The Father can still lead you outside your own small frame. Carry mercy into the
 
 **Journal prompt:** Where has my view of the future become smaller than God's promise?
 
-**Morning impact:** Let the Father's love carry Carry Mercy in the Morning into one faithful step today.
+**Morning impact:** Look beyond the small frame today; the Father can widen hope past what you can count.
 
 ---
 
@@ -94,7 +94,7 @@ Let patience become worship. You do not have to manufacture a perfect heart. You
 
 **Journal prompt:** Where is God inviting me to trust His promise before I can see the outcome?
 
-**Morning impact:** Let the Father's love carry Lean Into the Father's Patience into one faithful step today.
+**Morning impact:** Lean into trust today; the Father's promise can steady you before the outcome is visible.
 
 ---
 
@@ -124,7 +124,7 @@ The God who brought you out has not forgotten where He is taking you. His love i
 
 **Journal prompt:** What past faithfulness do I need to remember so fear does not define my future?
 
-**Morning impact:** Let the Father's love carry See Again Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Rest this Saturday Sabbath in remembered faithfulness; the God who brought you out is still leading.
 
 ---
 
@@ -154,7 +154,7 @@ Restoring compassion does not mock the need for reassurance. It brings that need
 
 **Journal prompt:** What assurance am I asking for, and what deeper need is underneath that question?
 
-**Morning impact:** Let the Father's love carry Let Love Teach Restoring Compassion into one faithful step today.
+**Morning impact:** Bring the assurance question to God today; compassion can steady faith without turning it into control.
 
 ---
 
@@ -184,7 +184,7 @@ The Father's promise is holding more than your present can see. Let today's inst
 
 **Journal prompt:** What one concrete preparation may God be asking me to make today?
 
-**Morning impact:** Let the Father's love carry Awaken the Promise That Holds into one faithful step today.
+**Morning impact:** Take the named preparation step today; obedience can answer grace without trying to earn the promise.
 
 ---
 
@@ -214,4 +214,4 @@ The Father who calls you is faithful in the details. Embrace His heart by prepar
 
 **Journal prompt:** Where is God asking me to prepare faithfully while I wait for Him to act?
 
-**Morning impact:** Let the Father's love carry Embrace the Heart That Calls You into one faithful step today.
+**Morning impact:** Prepare what God named today; patient obedience makes room for what only He can do.
