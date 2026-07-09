@@ -1,15 +1,15 @@
 {
   "generated": "2026-07-08",
-  "commit": "3378820",
+  "commit": "4ef5fca",
   "status": "source_freeze_manifest_for_review_not_final_upload",
   "freeze_boundary": "These hashes describe the current review surfaces only. Final freeze happens after author decisions, Bible policy, final copyedit, cover lock, KDP Previewer, and physical proof.",
   "files": [
     {
       "path": "downloads/production/master/volume-1-master-interior-manuscript.md",
       "exists": true,
-      "bytes": 785459,
-      "sha256": "7d1a641c5c5e4531d608d50f2f6e600a3116f291e74305876a6264a78764c9c0",
-      "word_count": 128318
+      "bytes": 785516,
+      "sha256": "5a8d241622235325f4424ca9e9466d105f231b084d7ae2b0dd23e82b2fd800a8",
+      "word_count": 128316
     },
     {
       "path": "downloads/production/master/volume-2-master-interior-manuscript.md",
@@ -49,8 +49,8 @@
     {
       "path": "downloads/production/kdp/interior-drafts/volume-1/volume-1-full-6x9-interior-draft.pdf",
       "exists": true,
-      "bytes": 1593615,
-      "sha256": "00aa8617ab6fa9d082fd470ec10d618ed123b372846065e5a7b2410fce144ad0",
+      "bytes": 1593776,
+      "sha256": "146a7ff6068aad0436afd6a89c151ba9b7aca8c74118bc98e6388ef81899ffda",
       "word_count": null
     },
     {

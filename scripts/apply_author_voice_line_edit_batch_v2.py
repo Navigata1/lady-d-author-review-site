@@ -2314,6 +2314,83 @@ BATCHES = {
             "volume-1-days-210-216-audit.md",
         ),
     ),
+    "volume-1-days-217-223": Batch(
+        key="volume-1-days-217-223",
+        scope="Volume 1 Days 217-223",
+        title="Volume 1 Days 217-223 Line Edit",
+        intro=(
+            "The second August Love in Relationships batch of Surrendering to "
+            "God's Love has moved from structural manuscript into line-level "
+            "author-voice refinement. This pass removes the repeated "
+            "morning-impact frame while preserving Genesis 17's covenant "
+            "seriousness, Sarah's bestowed identity, blessing that travels "
+            "through relationship, Abraham's honest concern for Ishmael, "
+            "God's loving correction, mercy toward the person on a different "
+            "path, and appointed timing held with patient obedience."
+        ),
+        source_name="volume-1-days-217-223-manuscript.md",
+        public_page_name="volume-1-days-217-223-line-edit.html",
+        output_slug="volume-1-days-217-223-line-edit",
+        zip_name="Lady-D-Volume-1-Days-217-223-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 08 - August" / "Days 217-223 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 217-223",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 217",
+                "Let the Father's love carry Embrace the Promise That Holds into one faithful step today.",
+                "Honor one covenant commitment today; holy love can steady your words before comfort becomes excuse.",
+                "Keeps Genesis 17:14's covenant seriousness without fear or shame language.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 218",
+                "Let the Father's love carry Remember the Heart That Calls You into one faithful step today.",
+                "Answer one old name with God's truer call today; beloved identity can loosen fear's grip.",
+                "Centers Sarah's renaming as bestowed identity that loosens old labels.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 219",
+                "Let the Father's love carry Walk in Love That Sends You into one faithful step today.",
+                "Bless one person before worry takes over; the Father's love can travel farther than your sight.",
+                "Preserves Genesis 17:16's blessing and fruitfulness without forcing outcomes.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 220",
+                "Let the Father's love carry Let Peace Lead Covenant Mercy into one faithful step today.",
+                "Rest this Saturday Sabbath with open hands; the Father can hold both promise and beloved person.",
+                "Keeps the August 8 Saturday Sabbath frame and Abraham's concern for Ishmael without seizing control.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 221",
+                "Let the Father's love carry Choose the Father's Welcome into one faithful step today.",
+                "Receive one clear redirection today; the Father's correction can become peace instead of rejection.",
+                "Frames Genesis 17:19's covenant correction as welcome rather than abandonment.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 222",
+                "Let the Father's love carry Listen for Beloved Identity into one faithful step today.",
+                "Bless the person whose path is different; God's mercy sees dignity beyond your expectations.",
+                "Keeps Ishmael's blessing dignified while preserving the distinction in covenant purpose.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 223",
+                "Let the Father's love carry Stand in Love That Finds You into one faithful step today.",
+                "Practice patient obedience today; appointed timing can quiet the urge to force love's outcome.",
+                "Centers Genesis 17:21's appointed timing without making patience passive.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-august-week-2-companion-journal.md",
+            "volume-1-days-217-223-audit.md",
+        ),
+    ),
 }
 
 
@@ -2919,7 +2996,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-210-216")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-217-223")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

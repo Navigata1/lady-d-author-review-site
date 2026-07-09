@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "3378820",
+  "commit": "4ef5fca",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369606,
+    "words": 369604,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1315,
-    "saturday_mentions": 224,
+    "sabbath_mentions": 1316,
+    "saturday_mentions": 225,
     "works_watch_contexts": 363,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128318,
+      "words": 128316,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -35,8 +35,8 @@
       "structure_status": "pass",
       "placeholders": 0,
       "sunday_mentions": 0,
-      "sabbath_mentions": 295,
-      "saturday_mentions": 85,
+      "sabbath_mentions": 296,
+      "saturday_mentions": 86,
       "works_watch_contexts": 216,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
@@ -1457,7 +1457,7 @@
       "kind": "Devotional",
       "term": "Performance",
       "line": 6402,
-      "snippet": "step today. --- <!-- Source: volume-1-days-224-230-manuscript.md --> ## Day 224 - August 12 ### Let Grace Form Grace Before Performance **Scripture Reference:** Genesis 17:22 **Context and language lens:** Genesis 17:22's closing of the divine conversation becaus",
+      "snippet": "e's outcome. --- <!-- Source: volume-1-days-224-230-manuscript.md --> ## Day 224 - August 12 ### Let Grace Form Grace Before Performance **Scripture Reference:** Genesis 17:22 **Context and language lens:** Genesis 17:22's closing of the divine conversation becaus",
       "preliminary_read": "likely grace-aligned"
     },
     {
