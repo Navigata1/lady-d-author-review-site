@@ -2469,6 +2469,83 @@ BATCHES = {
             "volume-1-days-224-230-audit.md",
         ),
     ),
+    "volume-1-days-231-237": Batch(
+        key="volume-1-days-231-237",
+        scope="Volume 1 Days 231-237",
+        title="Volume 1 Days 231-237 Line Edit",
+        intro=(
+            "The fourth August Love in Relationships batch of Surrendering to "
+            "God's Love has moved from structural manuscript into line-level "
+            "author-voice refinement. This pass removes the repeated "
+            "morning-impact frame while preserving Genesis 22's responsive "
+            "preparation, patient trust in unfinished distance, worship "
+            "under pressure, Saturday Sabbath dignity, provision-shaped "
+            "faithfulness, explicit safety guardrails against human control "
+            "or harm, and God's mercy interrupting the crisis point."
+        ),
+        source_name="volume-1-days-231-237-manuscript.md",
+        public_page_name="volume-1-days-231-237-line-edit.html",
+        output_slug="volume-1-days-231-237-line-edit",
+        zip_name="Lady-D-Volume-1-Days-231-237-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 08 - August" / "Days 231-237 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 231-237",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 231",
+                "Let the Father's love carry Practice Love That Sends You into one faithful step today.",
+                "Prepare one clear step today; love can move from God's word without fear's pressure.",
+                "Keeps Genesis 22:3 centered on responsive trust to God, not unsafe human demands.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 232",
+                "Let the Father's love carry Surrender to Covenant Mercy into one faithful step today.",
+                "Honor the unfinished distance today; covenant mercy can keep your heart faithful between seeing and arriving.",
+                "Connects Genesis 22:4's visible-but-unreached place to patient trust without forcing arrival.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 233",
+                "Let the Father's love carry Let Mercy Speak the Father's Welcome into one faithful step today.",
+                "Bring the heavy concern into worship today; the Father welcomes trembling trust.",
+                "Preserves Genesis 22:5's worship under pressure without pretending the tension is simple.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 234",
+                "Let the Father's love carry Breathe Beloved Identity into one faithful step today.",
+                "Rest this Saturday Sabbath and see one person as beloved, not background to your hard road.",
+                "Keeps the August 22 Saturday Sabbath frame and Isaac's dignity under God's life-giving character.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 235",
+                "Let the Father's love carry Hold Fast to Love That Finds You into one faithful step today.",
+                "Entrust one needed provision today; love can keep walking with open hands.",
+                "Centers Genesis 22:8's provision-shaped trust and continued togetherness under pressure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 236",
+                "Let the Father's love carry Return to Grace Before Striving into one faithful step today.",
+                "Test pressure against God's character today; faithful surrender stays wise, safe, and gracious.",
+                "Preserves Genesis 22:9's explicit safety guardrails and rejects control, domination, or harm.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 237",
+                "Let the Father's love carry Yield to Mercy in the Morning into one faithful step today.",
+                "Pause what has gone too far today; mercy can interrupt before the wound deepens.",
+                "Refuses to isolate Genesis 22:10 from God's merciful interruption and provision.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-august-week-4-companion-journal.md",
+            "volume-1-days-231-237-audit.md",
+        ),
+    ),
 }
 
 
@@ -3074,7 +3151,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-224-230")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-231-237")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

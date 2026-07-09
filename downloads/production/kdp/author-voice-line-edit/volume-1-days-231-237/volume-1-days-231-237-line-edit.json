@@ -1,0 +1,172 @@
+{
+  "generated": "2026-07-09",
+  "status": "volume-1-days-231-237_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Days 231-237",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/volume-1-days-231-237-manuscript.md",
+    "public_source": "public/downloads/production/volume-1-days-231-237-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/01 Manuscript/Month 08 - August/Days 231-237 Manuscript.md",
+    "repo_source_parts": [
+      "downloads/production/volume-1-days-231-237-manuscript.md"
+    ],
+    "supporting_files": [
+      "downloads/production/volume-1-august-week-4-companion-journal.md",
+      "downloads/production/volume-1-days-231-237-audit.md"
+    ]
+  },
+  "edits": [
+    {
+      "day": "Day 231",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Practice Love That Sends You into one faithful step today.",
+      "after": "Prepare one clear step today; love can move from God's word without fear's pressure.",
+      "reason": "Keeps Genesis 22:3 centered on responsive trust to God, not unsafe human demands."
+    },
+    {
+      "day": "Day 232",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Surrender to Covenant Mercy into one faithful step today.",
+      "after": "Honor the unfinished distance today; covenant mercy can keep your heart faithful between seeing and arriving.",
+      "reason": "Connects Genesis 22:4's visible-but-unreached place to patient trust without forcing arrival."
+    },
+    {
+      "day": "Day 233",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Mercy Speak the Father's Welcome into one faithful step today.",
+      "after": "Bring the heavy concern into worship today; the Father welcomes trembling trust.",
+      "reason": "Preserves Genesis 22:5's worship under pressure without pretending the tension is simple."
+    },
+    {
+      "day": "Day 234",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Breathe Beloved Identity into one faithful step today.",
+      "after": "Rest this Saturday Sabbath and see one person as beloved, not background to your hard road.",
+      "reason": "Keeps the August 22 Saturday Sabbath frame and Isaac's dignity under God's life-giving character."
+    },
+    {
+      "day": "Day 235",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Hold Fast to Love That Finds You into one faithful step today.",
+      "after": "Entrust one needed provision today; love can keep walking with open hands.",
+      "reason": "Centers Genesis 22:8's provision-shaped trust and continued togetherness under pressure."
+    },
+    {
+      "day": "Day 236",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Return to Grace Before Striving into one faithful step today.",
+      "after": "Test pressure against God's character today; faithful surrender stays wise, safe, and gracious.",
+      "reason": "Preserves Genesis 22:9's explicit safety guardrails and rejects control, domination, or harm."
+    },
+    {
+      "day": "Day 237",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Yield to Mercy in the Morning into one faithful step today.",
+      "after": "Pause what has gone too far today; mercy can interrupt before the wound deepens.",
+      "reason": "Refuses to isolate Genesis 22:10 from God's merciful interruption and provision."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Day 231",
+      "date": "August 19",
+      "title": "Practice Love That Sends You",
+      "scripture": "Genesis 22:3",
+      "morning_impact": "Prepare one clear step today; love can move from God's word without fear's pressure."
+    },
+    {
+      "label": "Day 232",
+      "date": "August 20",
+      "title": "Surrender to Covenant Mercy",
+      "scripture": "Genesis 22:4",
+      "morning_impact": "Honor the unfinished distance today; covenant mercy can keep your heart faithful between seeing and arriving."
+    },
+    {
+      "label": "Day 233",
+      "date": "August 21",
+      "title": "Let Mercy Speak the Father's Welcome",
+      "scripture": "Genesis 22:5",
+      "morning_impact": "Bring the heavy concern into worship today; the Father welcomes trembling trust."
+    },
+    {
+      "label": "Day 234",
+      "date": "August 22",
+      "title": "Breathe Beloved Identity",
+      "scripture": "Genesis 22:6",
+      "morning_impact": "Rest this Saturday Sabbath and see one person as beloved, not background to your hard road."
+    },
+    {
+      "label": "Day 235",
+      "date": "August 23",
+      "title": "Hold Fast to Love That Finds You",
+      "scripture": "Genesis 22:8",
+      "morning_impact": "Entrust one needed provision today; love can keep walking with open hands."
+    },
+    {
+      "label": "Day 236",
+      "date": "August 24",
+      "title": "Return to Grace Before Performance",
+      "scripture": "Genesis 22:9",
+      "morning_impact": "Test pressure against God's character today; faithful surrender stays wise, safe, and gracious."
+    },
+    {
+      "label": "Day 237",
+      "date": "August 25",
+      "title": "Yield to Mercy in the Morning",
+      "scripture": "Genesis 22:10",
+      "morning_impact": "Pause what has gone too far today; mercy can interrupt before the wound deepens."
+    }
+  ],
+  "audit": {
+    "entries": 7,
+    "scripture_references": 7,
+    "context_lenses": 7,
+    "today_steps": 7,
+    "prayers": 7,
+    "journal_prompts": 7,
+    "morning_impacts": 7,
+    "old_volume_1_template_impacts_before": 7,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 8,
+    "placeholder_flags": 0,
+    "words": 2627
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "All 7 impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The batch file now has zero old Volume 1 morning-impact templates."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate."
+}

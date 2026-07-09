@@ -12,9 +12,9 @@ Result: Pass
 - Day entries: 365
 - Bonus entries: 1
 - Scripture references: 366
-- Sabbath mentions: 297
+- Sabbath mentions: 298
 - Sunday mentions: 0
-- Word count: 130677
+- Word count: 130668
 - Output: `downloads/production/master/volume-1-master-interior-manuscript.md`
 
 ### Volume 2 - Walking with Jesus

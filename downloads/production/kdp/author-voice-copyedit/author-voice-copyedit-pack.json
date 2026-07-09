@@ -16,11 +16,11 @@
       "context_lens_labels": 1098,
       "internal_production_labels": 0,
       "translation_review_notes": 1,
-      "sabbath_mentions": 785,
-      "saturday_mentions": 190,
+      "sabbath_mentions": 786,
+      "saturday_mentions": 191,
       "sunday_mentions": 0,
       "placeholders": 0,
-      "words": 318760
+      "words": 318751
     },
     "by_volume": {
       "1": {
@@ -29,11 +29,11 @@
         "context_lens_labels": 366,
         "internal_production_labels": 0,
         "translation_review_notes": 0,
-        "sabbath_mentions": 295,
-        "saturday_mentions": 86,
+        "sabbath_mentions": 296,
+        "saturday_mentions": 87,
         "sunday_mentions": 0,
         "placeholders": 0,
-        "words": 129567
+        "words": 129558
       },
       "2": {
         "files": 54,
@@ -68,11 +68,11 @@
       "context_lens_labels": 1098,
       "internal_production_labels": 0,
       "translation_review_notes": 1,
-      "sabbath_mentions": 791,
-      "saturday_mentions": 193,
+      "sabbath_mentions": 792,
+      "saturday_mentions": 194,
       "sunday_mentions": 0,
       "placeholders": 0,
-      "words": 314939
+      "words": 314930
     },
     "by_volume": {
       "1": {
@@ -81,11 +81,11 @@
         "context_lens_labels": 366,
         "internal_production_labels": 0,
         "translation_review_notes": 0,
-        "sabbath_mentions": 297,
-        "saturday_mentions": 87,
+        "sabbath_mentions": 298,
+        "saturday_mentions": 88,
         "sunday_mentions": 0,
         "placeholders": 0,
-        "words": 128304
+        "words": 128295
       },
       "2": {
         "entries": 366,
@@ -323,11 +323,6 @@
         "action": "Vary Volume 2 concluding claims with scene-specific discipleship language."
       },
       {
-        "phrase": "Let the Father's love carry",
-        "count": 135,
-        "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
-      },
-      {
         "phrase": "This day falls on Saturday",
         "count": 130,
         "action": "Keep the Saturday Sabbath truth, but move repeated production-calendar wording into a reusable Sabbath note or vary it by entry."
@@ -341,6 +336,11 @@
         "phrase": "Exodus",
         "count": 128,
         "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Let the Father's love carry",
+        "count": 128,
+        "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
       },
       {
         "phrase": "Let the Spirit press this",
@@ -431,7 +431,7 @@
     "morning_impact_patterns": [
       {
         "phrase": "Let the Father's love carry",
-        "count": 135,
+        "count": 128,
         "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
       },
       {
@@ -597,7 +597,7 @@
     {
       "type": "Morning impact pattern",
       "phrase": "Let the Father's love carry",
-      "count": 135,
+      "count": 128,
       "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
     },
     {
