@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Base commit: `266943b`
+Base commit: `4f38f69`
 
 Status: Review-ready, not final KDP upload.
 
@@ -23,7 +23,7 @@ The Lady D trilogy now has 6 x 9 devotional interiors, 6 x 9 companion journals,
 
 - Products checked: 6
 - Source words checked: 369,582
-- Sabbath mentions across checked sources: 1311
+- Sabbath mentions across checked sources: 1312
 - Sunday mentions across checked sources: 0
 - Missing required files: 0
 

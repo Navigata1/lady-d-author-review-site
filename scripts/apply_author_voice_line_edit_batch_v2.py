@@ -30,7 +30,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PRODUCTION = ROOT / "downloads" / "production"
 LIBRARY_ROOT = Path("/Users/IDC2.5/Documents/LADY D/Production Library")
 VOLUME_1_LIBRARY = LIBRARY_ROOT / "01 Surrendering to God's Love"
-GENERATED = "2026-07-08"
+GENERATED = "2026-07-09"
 AUTHOR = 'Susan "Lady D" Damon'
 
 INK = RGBColor(17, 24, 39)
@@ -1733,6 +1733,81 @@ BATCHES = {
             "volume-1-days-158-164-audit.md",
         ),
     ),
+    "volume-1-days-165-171": Batch(
+        key="volume-1-days-165-171",
+        scope="Volume 1 Days 165-171",
+        title="Volume 1 Days 165-171 Line Edit",
+        intro=(
+            "The third June week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame "
+            "while preserving blessing before responsibility, grace before "
+            "performance, mercy over anxious need, patient honesty, "
+            "promise-rooted trust, restoring compassion that blesses wisely, "
+            "and Saturday Sabbath promise-led obedience."
+        ),
+        source_name="volume-1-days-165-171-manuscript.md",
+        public_page_name="volume-1-days-165-171-line-edit.html",
+        output_slug="volume-1-days-165-171-line-edit",
+        zip_name="Lady-D-Volume-1-Days-165-171-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 06 - June" / "Days 165-171 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 165-171",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 165",
+                "Let the Father's love carry Receive Love That Finds You into one faithful step today.",
+                "Receive blessing before responsibility today; the Father's love can make stewardship fruitful without fear.",
+                "Keeps Genesis 1:28's blessing-before-vocation order and releases stewardship from performance anxiety.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 166",
+                "Let the Father's love carry Trust Grace Before Striving into one faithful step today.",
+                "Receive one provision without apology today; grace can nourish obedience before performance speaks.",
+                "Preserves Genesis 1:29's given provision and the entry's grace-before-performance correction.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 167",
+                "Let the Father's love carry Let Hope Rise Mercy in the Morning into one faithful step today.",
+                "Place one anxious need under the Father's care today; mercy can reach what you cannot manage.",
+                "Turns Genesis 1:30's broad creaturely care into a concrete anxiety-to-mercy practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 168",
+                "Let the Father's love carry Carry the Father's Patience into one faithful step today.",
+                "Practice patient honesty today; the Father can name what is good without denying what still needs healing.",
+                "Keeps Genesis 1:31's whole-work assessment while avoiding condemnation or denial.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 169",
+                "Let the Father's love carry Lean Into Love Stronger Than Fear into one faithful step today.",
+                "Lean into the Father's promise today; love can loosen the control fear called protection.",
+                "Connects Genesis 12:2's God-initiated promise to surrendered trust instead of control.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 170",
+                "Let the Father's love carry See Again Restoring Compassion into one faithful step today.",
+                "Let compassion widen your sight today; blessing can move outward with wisdom, strength, and holy boundaries.",
+                "Preserves Genesis 12:3's outward blessing while keeping compassion wise rather than boundaryless.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 171",
+                "Let the Father's love carry Let Love Teach the Promise That Holds into one faithful step today.",
+                "Rest this Saturday Sabbath in the promise first; love can teach your feet the next obedient step.",
+                "Keeps the Adventist seventh-day Sabbath frame and Genesis 12:4's promise-led obedience from rest.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-june-week-3-companion-journal.md",
+            "volume-1-days-165-171-audit.md",
+        ),
+    ),
 }
 
 
@@ -2338,7 +2413,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-158-164")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-165-171")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

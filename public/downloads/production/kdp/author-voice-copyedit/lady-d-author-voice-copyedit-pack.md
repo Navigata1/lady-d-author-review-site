@@ -46,7 +46,7 @@ The reader-facing source manuscripts and public mirrored manuscript files now us
 | Repeated sentence | 70 | Carry this like bread for the road, not decoration for the shelf. | Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional. |
 | Repeated sentence | 70 | Let this word give your morning a spine and your heart a place to rest. | Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional. |
 | Repeated sentence | 49 | Akoloutheo means to follow as a disciple, not merely admire from a distance. | Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional. |
-| Morning impact pattern | 201 | Let the Father's love carry | Rewrite morning-impact lines so they carry the day's actual image rather than the title template. |
+| Morning impact pattern | 194 | Let the Father's love carry | Rewrite morning-impact lines so they carry the day's actual image rather than the title template. |
 | Morning impact pattern | 71 | Walk with Jesus through Let | Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional. |
 | Morning impact pattern | 71 | Let the Spirit carry Let | Rewrite Volume 3 morning impacts with less repeated carrier language. |
 | Morning impact pattern | 12 | Walk with Jesus through Awaken | Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional. |

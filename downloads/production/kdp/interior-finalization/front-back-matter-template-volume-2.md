@@ -1,6 +1,6 @@
 # Walking with Jesus - KDP Front and Back Matter Template
 
-Generated: 2026-07-08
+Generated: 2026-07-09
 
 Status: Draft publishing template. This is not legal advice and is not the final KDP upload file.
 

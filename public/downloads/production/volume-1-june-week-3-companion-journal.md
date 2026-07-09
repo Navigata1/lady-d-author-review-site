@@ -22,7 +22,7 @@ Father, restore my responsibility under blessing, teach me to receive provision,
 
 **Focus:** Grace before performance.
 
-**Write:** Where do I resist receiving because I feel I must earn the right to need provision?
+**Write:** Where do I resist receiving because I feel I am unworthy of needing provision?
 
 **Practice:** Receive one form of provision without rushing to earn it back: food, rest, help, quiet, or encouragement.
 

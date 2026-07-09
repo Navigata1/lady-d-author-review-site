@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Base commit: `266943b`
+Base commit: `4f38f69`
 
 Status: Prototype for KDP interior design review. This is not a final KDP upload file.
 

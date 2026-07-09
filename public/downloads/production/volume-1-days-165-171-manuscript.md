@@ -32,7 +32,7 @@ The day does not get to name you before God does. Let the Father's blessing spea
 
 **Journal prompt:** Where do I need to receive the Father's blessing before I carry responsibility today?
 
-**Morning impact:** Let the Father's love carry Receive Love That Finds You into one faithful step today.
+**Morning impact:** Receive blessing before responsibility today; the Father's love can make stewardship fruitful without fear.
 
 ---
 
@@ -60,7 +60,7 @@ Walk out of this page with courage, tenderness, and clarity. The Father is not o
 
 **Journal prompt:** Where do I resist receiving because I feel I am unworthy of needing provision?
 
-**Morning impact:** Let the Father's love carry Trust Grace Before Striving into one faithful step today.
+**Morning impact:** Receive one provision without apology today; grace can nourish obedience before performance speaks.
 
 ---
 
@@ -88,7 +88,7 @@ Receive the truth deeply enough that it changes your next decision. Mercy can me
 
 **Journal prompt:** What anxious need do I need to place under the Father's wide and attentive care?
 
-**Morning impact:** Let the Father's love carry Let Hope Rise Mercy in the Morning into one faithful step today.
+**Morning impact:** Place one anxious need under the Father's care today; mercy can reach what you cannot manage.
 
 ---
 
@@ -116,7 +116,7 @@ Carry this like bread for the road, not decoration for the shelf. The God who se
 
 **Journal prompt:** Where have I been judging the whole story from one unfinished page?
 
-**Morning impact:** Let the Father's love carry Carry the Father's Patience into one faithful step today.
+**Morning impact:** Practice patient honesty today; the Father can name what is good without denying what still needs healing.
 
 ---
 
@@ -144,7 +144,7 @@ Let this word give your morning a spine and your heart a place to rest. The Fath
 
 **Journal prompt:** What promise am I trying to secure by control instead of trusting the Father to hold it?
 
-**Morning impact:** Let the Father's love carry Lean Into Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Lean into the Father's promise today; love can loosen the control fear called protection.
 
 ---
 
@@ -172,7 +172,7 @@ The day does not get to name you before God does. Let the Father's compassion re
 
 **Journal prompt:** Where has pain narrowed my sight, and how is the Father inviting me to bless wisely again?
 
-**Morning impact:** Let the Father's love carry See Again Restoring Compassion into one faithful step today.
+**Morning impact:** Let compassion widen your sight today; blessing can move outward with wisdom, strength, and holy boundaries.
 
 ---
 
@@ -200,4 +200,4 @@ Walk out of this page with courage, tenderness, and clarity. On this Saturday Sa
 
 **Journal prompt:** What promise is the Father asking me to rest in, and what next step is love teaching me to take?
 
-**Morning impact:** Let the Father's love carry Let Love Teach the Promise That Holds into one faithful step today.
+**Morning impact:** Rest this Saturday Sabbath in the promise first; love can teach your feet the next obedient step.
