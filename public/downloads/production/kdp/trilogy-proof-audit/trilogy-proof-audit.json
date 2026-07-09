@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "9b18bee",
+  "commit": "65637f7",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369610,
+    "words": 369620,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1315,
-    "saturday_mentions": 221,
+    "sabbath_mentions": 1316,
+    "saturday_mentions": 222,
     "works_watch_contexts": 363,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128322,
+      "words": 128332,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -35,8 +35,8 @@
       "structure_status": "pass",
       "placeholders": 0,
       "sunday_mentions": 0,
-      "sabbath_mentions": 295,
-      "saturday_mentions": 82,
+      "sabbath_mentions": 296,
+      "saturday_mentions": 83,
       "works_watch_contexts": 216,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
@@ -1340,7 +1340,7 @@
       "kind": "Devotional",
       "term": "Performance",
       "line": 5702,
-      "snippet": "r's love carry Listen for Love That Finds You into one faithful step today. --- ## Day 201 - July 20 ### Stand in Grace Before Performance **Scripture Reference:** Genesis 15:17 **Context and language lens:** The `tanur ashan` and `lapid esh` - the smoking fire pot",
+      "snippet": "ing today; God's patience is not absence, and His promise is not wandering. --- ## Day 201 - July 20 ### Stand in Grace Before Performance **Scripture Reference:** Genesis 15:17 **Context and language lens:** The `tanur ashan` and `lapid esh` - the smoking fire pot",
       "preliminary_read": "likely grace-aligned"
     },
     {
@@ -1385,7 +1385,7 @@
       "kind": "Devotional",
       "term": "performance",
       "line": 5724,
-      "snippet": "mise. Let me stand in grace, obey faithfully, and trust Your initiative. Amen. **Journal prompt:** What am I trying to secure by performance that God is asking me to receive by grace? **Morning impact:** Let the Father's love carry Stand in Grace Before Striving into o",
+      "snippet": "mise. Let me stand in grace, obey faithfully, and trust Your initiative. Amen. **Journal prompt:** What am I trying to secure by performance that God is asking me to receive by grace? **Morning impact:** Stand where grace has placed you today; God is faithful enough to",
       "preliminary_read": "likely grace-aligned"
     },
     {

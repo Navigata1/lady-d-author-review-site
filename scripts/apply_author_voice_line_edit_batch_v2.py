@@ -2084,6 +2084,82 @@ BATCHES = {
             "volume-1-days-189-195-audit.md",
         ),
     ),
+    "volume-1-days-196-202": Batch(
+        key="volume-1-days-196-202",
+        scope="Volume 1 Days 196-202",
+        title="Volume 1 Days 196-202 Line Edit",
+        intro=(
+            "The third July week of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving Genesis 15's movement through guarded obedience, "
+            "honest fear, truthful peace, Saturday Sabbath beloved identity, "
+            "patient covenant timing, God's initiative, and mercy formed by "
+            "promise instead of performance."
+        ),
+        source_name="volume-1-days-196-202-manuscript.md",
+        public_page_name="volume-1-days-196-202-line-edit.html",
+        output_slug="volume-1-days-196-202-line-edit",
+        zip_name="Lady-D-Volume-1-Days-196-202-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 07 - July" / "Days 196-202 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 196-202",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 196",
+                "Let the Father's love carry Remember Love That Sends You into one faithful step today.",
+                "Guard the prepared place today; the Father's love can help you resist what tries to feed on your yes.",
+                "Keeps Genesis 15:11's guarded covenant preparation while turning resistance into a concrete grace-shaped practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 197",
+                "Let the Father's love carry Walk in Covenant Mercy into one faithful step today.",
+                "Tell God the fear plainly today; covenant mercy can hold you when the darkness feels heavy.",
+                "Preserves Genesis 15:12's dread and deep darkness while refusing to treat fear as abandonment.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 198",
+                "Let the Father's love carry Let Peace Lead the Father's Welcome into one faithful step today.",
+                "Let truth become peace today; the Father knows the hard road without letting it cancel His promise.",
+                "Keeps Genesis 15:13's sober future word and frames peace as truthful trust rather than denial.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 199",
+                "Let the Father's love carry Choose Beloved Identity into one faithful step today.",
+                "Rest this Saturday Sabbath as beloved; the Redeemer sees oppression and still owns the story.",
+                "Keeps the July 18 Saturday Sabbath frame and Genesis 15:14's redemption justice without making identity performance-based.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 200",
+                "Let the Father's love carry Listen for Love That Finds You into one faithful step today.",
+                "Trust the longer timing today; God's patience is not absence, and His promise is not wandering.",
+                "Preserves Genesis 15:16's fourth-generation timing and patient justice while guarding against bitterness.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 201",
+                "Let the Father's love carry Stand in Grace Before Striving into one faithful step today.",
+                "Stand where grace has placed you today; God is faithful enough to secure what you cannot perform.",
+                "Keeps Genesis 15:17 centered on God's covenant initiative and protects grace before performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 202",
+                "Let the Father's love carry Let Grace Form Mercy in the Morning into one faithful step today.",
+                "Receive covenant mercy before pressure speaks today; because God is faithful, your steps can be steady.",
+                "Connects Genesis 15:18's covenant word to a morning practice of receiving mercy before reacting.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-july-week-3-companion-journal.md",
+            "volume-1-days-196-202-audit.md",
+        ),
+    ),
 }
 
 
@@ -2689,7 +2765,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-189-195")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-196-202")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

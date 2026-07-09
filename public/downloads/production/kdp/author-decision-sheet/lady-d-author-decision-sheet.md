@@ -2,7 +2,7 @@
 
 Generated: 2026-07-08
 
-Repo commit at generation: `9b18bee`
+Repo commit at generation: `65637f7`
 
 Author: Susan "Lady D" Damon
 
@@ -123,13 +123,13 @@ Freeze boundary: These hashes describe the current review surfaces only. Final f
 
 | File | Exists | Bytes | SHA-256 Prefix | Words |
 | --- | --- | ---: | --- | ---: |
-| `downloads/production/master/volume-1-master-interior-manuscript.md` | True | 785379 | `afe214ccad90c825` | 128322 |
+| `downloads/production/master/volume-1-master-interior-manuscript.md` | True | 785449 | `b487397659e7f0ea` | 128332 |
 | `downloads/production/master/volume-2-master-interior-manuscript.md` | True | 602832 | `b41bff9329d4989e` | 95114 |
 | `downloads/production/master/volume-3-master-interior-manuscript.md` | True | 576827 | `97fa781cf0e4a237` | 91521 |
 | `downloads/production/master/volume-1-master-companion-journal.md` | True | 131758 | `48fbf32d67f70f06` | 19854 |
 | `downloads/production/master/volume-2-master-companion-journal.md` | True | 112931 | `a611a6eda81ad758` | 17134 |
 | `downloads/production/master/volume-3-master-companion-journal.md` | True | 117300 | `505e92e6676b1d27` | 17665 |
-| `downloads/production/kdp/interior-drafts/volume-1/volume-1-full-6x9-interior-draft.pdf` | True | 1592921 | `d2ddd57a64509f0c` |  |
+| `downloads/production/kdp/interior-drafts/volume-1/volume-1-full-6x9-interior-draft.pdf` | True | 1593139 | `2f50c59b5bf22067` |  |
 | `downloads/production/kdp/interior-drafts/volume-2/volume-2-full-6x9-interior-draft.pdf` | True | 1374482 | `1eefb9f525600443` |  |
 | `downloads/production/kdp/interior-drafts/volume-3/volume-3-full-6x9-interior-draft.pdf` | True | 1348707 | `95018b3e8534e557` |  |
 | `downloads/production/kdp/companion-journal-drafts/volume-1/volume-1-companion-journal-6x9-draft.pdf` | True | 983685 | `97e800d1951c8bfc` |  |
