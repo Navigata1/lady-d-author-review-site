@@ -5147,7 +5147,7 @@ Do not rush past the verse; let it steady you before you move. The promise that 
 
 **Journal prompt:** Where do I need to let God examine the way I have received relief, help, or favor?
 
-**Morning impact:** Let the Father's love carry Hold Fast to the Promise That Holds into one faithful step today.
+**Morning impact:** Examine one relief before the Father today; His promise can make gratitude honest and repair possible.
 
 ---
 
@@ -5177,7 +5177,7 @@ The God who calls you is not absent from tangled places. He can enter the house,
 
 **Journal prompt:** Where might God's disruption actually be mercy calling me back to truth?
 
-**Morning impact:** Let the Father's love carry Return to the Heart That Calls You into one faithful step today.
+**Morning impact:** Welcome one holy interruption today; the Father's mercy may be bringing hidden harm into healing light.
 
 ---
 
@@ -5207,7 +5207,7 @@ The Father's love does not send you away empty of grace. It sends you out of hid
 
 **Journal prompt:** What correction might be God's mercy sending me out of a compromised place?
 
-**Morning impact:** Let the Father's love carry Yield to Love That Sends You into one faithful step today.
+**Morning impact:** Leave one defended hiding place today; love can send you forward without letting shame lead.
 
 ---
 
@@ -5237,7 +5237,7 @@ Today, anchor yourself in covenant mercy. The Lord can send you out of Egypt and
 
 **Journal prompt:** Where has God mercifully led me out, and what faithful response belongs to that mercy?
 
-**Morning impact:** Let the Father's love carry Anchor Covenant Mercy into one faithful step today.
+**Morning impact:** Rest this Saturday Sabbath in covenant mercy; grace can lead you out and teach truthful obedience.
 
 ---
 
@@ -5267,7 +5267,7 @@ You are not welcomed because you have handled every hard season well. You are we
 
 **Journal prompt:** What has God revealed about Himself that needs to become the first truth of my day?
 
-**Morning impact:** Let the Father's love carry Discover the Father's Welcome into one faithful step today.
+**Morning impact:** Begin with God's revealed nearness today; His presence is shield, reward, and welcome before fear speaks.
 
 ---
 
@@ -5297,7 +5297,7 @@ Beloved identity does not silence grief. It gives grief a safe place to speak. Y
 
 **Journal prompt:** What honest question have I been afraid to bring to God because I thought it made my faith look weak?
 
-**Morning impact:** Let the Father's love carry Receive Beloved Identity into one faithful step today.
+**Morning impact:** Bring the unfinished question to the Father today; beloved identity is safe enough for honest sorrow.
 
 ---
 
@@ -5327,7 +5327,7 @@ Love finds you in the exact place you thought you had to hide. The promise is no
 
 **Journal prompt:** What specific lack or delay do I need to name before God instead of carrying it silently?
 
-**Morning impact:** Let the Father's love carry Trust Love That Finds You into one faithful step today.
+**Morning impact:** Name the lack before God today; love can meet the exact ache without letting it define you.
 
 ---
 

@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "28132c2",
+  "commit": "20cc4bf",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369600,
+    "words": 369607,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1313,
-    "saturday_mentions": 219,
+    "sabbath_mentions": 1314,
+    "saturday_mentions": 220,
     "works_watch_contexts": 362,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128312,
+      "words": 128319,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -35,8 +35,8 @@
       "structure_status": "pass",
       "placeholders": 0,
       "sunday_mentions": 0,
-      "sabbath_mentions": 293,
-      "saturday_mentions": 80,
+      "sabbath_mentions": 294,
+      "saturday_mentions": 81,
       "works_watch_contexts": 215,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
@@ -1259,7 +1259,7 @@
       "kind": "Devotional",
       "term": "Performance",
       "line": 5339,
-      "snippet": "hful step today. --- <!-- Source: volume-1-days-189-195-manuscript.md --> ## Day 189 - July 8 ### Let Hope Rise Grace Before Performance **Scripture Reference:** Genesis 15:4 **Context and language lens:** `lo yirashkha zeh ki-im asher yetze mime'ekha hu yirashkha",
+      "snippet": "g it define you. --- <!-- Source: volume-1-days-189-195-manuscript.md --> ## Day 189 - July 8 ### Let Hope Rise Grace Before Performance **Scripture Reference:** Genesis 15:4 **Context and language lens:** `lo yirashkha zeh ki-im asher yetze mime'ekha hu yirashkha",
       "preliminary_read": "likely grace-aligned"
     },
     {

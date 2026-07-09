@@ -1932,6 +1932,82 @@ BATCHES = {
             "volume-1-days-179-181-audit.md",
         ),
     ),
+    "volume-1-days-182-188": Batch(
+        key="volume-1-days-182-188",
+        scope="Volume 1 Days 182-188",
+        title="Volume 1 Days 182-188 Line Edit",
+        intro=(
+            "The first July week of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving honesty about compromised relief, God's protective "
+            "intervention, correction that sends the heart out of hiding, "
+            "Saturday Sabbath covenant mercy, and Genesis 15's welcome for "
+            "honest questions and named lack."
+        ),
+        source_name="volume-1-days-182-188-manuscript.md",
+        public_page_name="volume-1-days-182-188-line-edit.html",
+        output_slug="volume-1-days-182-188-line-edit",
+        zip_name="Lady-D-Volume-1-Days-182-188-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 07 - July" / "Days 182-188 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 182-188",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 182",
+                "Let the Father's love carry Hold Fast to the Promise That Holds into one faithful step today.",
+                "Examine one relief before the Father today; His promise can make gratitude honest and repair possible.",
+                "Keeps Genesis 12:16's compromised benefit clear while turning provision into honest surrender.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 183",
+                "Let the Father's love carry Return to the Heart That Calls You into one faithful step today.",
+                "Welcome one holy interruption today; the Father's mercy may be bringing hidden harm into healing light.",
+                "Preserves Genesis 12:17's divine intervention, exposure, and protection without sentimentalizing disruption.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 184",
+                "Let the Father's love carry Yield to Love That Sends You into one faithful step today.",
+                "Leave one defended hiding place today; love can send you forward without letting shame lead.",
+                "Connects Genesis 12:19's correction and release to forward movement without condemnation.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 185",
+                "Let the Father's love carry Anchor Covenant Mercy into one faithful step today.",
+                "Rest this Saturday Sabbath in covenant mercy; grace can lead you out and teach truthful obedience.",
+                "Keeps the July 4 Saturday Sabbath frame, covenant mercy, departure, and obedience from grace together.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 186",
+                "Let the Father's love carry Discover the Father's Welcome into one faithful step today.",
+                "Begin with God's revealed nearness today; His presence is shield, reward, and welcome before fear speaks.",
+                "Grounds Genesis 15:1 in God's direct comfort, protection, reward, and Father's welcome.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 187",
+                "Let the Father's love carry Receive Beloved Identity into one faithful step today.",
+                "Bring the unfinished question to the Father today; beloved identity is safe enough for honest sorrow.",
+                "Keeps Genesis 15:2's unresolved promise and honest question inside beloved belonging.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 188",
+                "Let the Father's love carry Trust Love That Finds You into one faithful step today.",
+                "Name the lack before God today; love can meet the exact ache without letting it define you.",
+                "Preserves Genesis 15:3's specific naming of lack while keeping identity anchored in God's love.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-july-week-1-companion-journal.md",
+            "volume-1-days-182-188-audit.md",
+        ),
+    ),
 }
 
 
@@ -2537,7 +2613,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-179-181")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-182-188")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 
