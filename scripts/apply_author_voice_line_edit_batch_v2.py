@@ -1658,6 +1658,81 @@ BATCHES = {
             "volume-1-days-151-157-audit.md",
         ),
     ),
+    "volume-1-days-158-164": Batch(
+        key="volume-1-days-158-164",
+        scope="Volume 1 Days 158-164",
+        title="Volume 1 Days 158-164 Line Edit",
+        intro=(
+            "The second June week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame "
+            "while preserving restoring compassion in deep places, blessing "
+            "that holds restored life, patient completion, embodied obedience, "
+            "covenant mercy that forms without shame, identity before "
+            "responsibility, and Saturday Sabbath beloved identity."
+        ),
+        source_name="volume-1-days-158-164-manuscript.md",
+        public_page_name="volume-1-days-158-164-line-edit.html",
+        output_slug="volume-1-days-158-164-line-edit",
+        zip_name="Lady-D-Volume-1-Days-158-164-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 06 - June" / "Days 158-164 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 158-164",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 158",
+                "Let the Father's love carry Let Mercy Speak Restoring Compassion into one faithful step today.",
+                "Let mercy meet the deep place today; the Father can name living movement good before you can explain it.",
+                "Keeps Genesis 1:21's living-depth and goodness lens while making the reader's step concrete.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 159",
+                "Let the Father's love carry Breathe the Promise That Holds into one faithful step today.",
+                "Breathe under the Father's blessing today; restored life can become fruitful without performing for permission.",
+                "Preserves Genesis 1:22's blessing and fruitfulness without turning increase into pressure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 160",
+                "Let the Father's love carry Hold Fast to the Heart That Calls You into one faithful step today.",
+                "Let this day be held by evening and morning; the Father can finish today's portion without rushing tomorrow.",
+                "Turns Genesis 1:23's evening-morning rhythm into patient trust over one day's portion.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 161",
+                "Let the Father's love carry Return to Love That Sends You into one faithful step today.",
+                "Offer God the real ground under your feet today; love can send obedience from the life you actually have.",
+                "Connects Genesis 1:24's earth-bringing-forth lens to ordinary embodied obedience.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 162",
+                "Let the Father's love carry Yield to Covenant Mercy into one faithful step today.",
+                "Yield one resistant place to mercy today; the Maker can form truth without crushing what He loves.",
+                "Keeps Genesis 1:25's Maker and ordered-life frame while preserving correction without shame.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 163",
+                "Let the Father's love carry Anchor the Father's Welcome into one faithful step today.",
+                "Receive welcome before responsibility today; image-bearing identity can steady the way you serve.",
+                "Preserves Genesis 1:26's identity-before-stewardship order.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 164",
+                "Let the Father's love carry Discover Beloved Identity into one faithful step today.",
+                "Rest this Saturday Sabbath from self-measuring; beloved identity is received before the week speaks again.",
+                "Keeps the Adventist seventh-day Sabbath frame and Genesis 1:27's received image-bearing identity.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-june-week-2-companion-journal.md",
+            "volume-1-days-158-164-audit.md",
+        ),
+    ),
 }
 
 
@@ -2263,7 +2338,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-151-157")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-158-164")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

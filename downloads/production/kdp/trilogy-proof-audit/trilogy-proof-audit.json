@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "22a8dfa",
+  "commit": "266943b",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369569,
+    "words": 369582,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1310,
-    "saturday_mentions": 216,
+    "sabbath_mentions": 1311,
+    "saturday_mentions": 217,
     "works_watch_contexts": 361,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128281,
+      "words": 128294,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -35,8 +35,8 @@
       "structure_status": "pass",
       "placeholders": 0,
       "sunday_mentions": 0,
-      "sabbath_mentions": 290,
-      "saturday_mentions": 77,
+      "sabbath_mentions": 291,
+      "saturday_mentions": 78,
       "works_watch_contexts": 214,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
@@ -1088,7 +1088,7 @@
       "kind": "Devotional",
       "term": "earn",
       "line": 4582,
-      "snippet": "ponsibility and to steward what You give with humility, courage, and love. Amen. **Journal prompt:** Where have I been trying to earn welcome through responsibility instead of receiving identity from the Father? **Morning impact:** Let the Father's love carry An",
+      "snippet": "ponsibility and to steward what You give with humility, courage, and love. Amen. **Journal prompt:** Where have I been trying to earn welcome through responsibility instead of receiving identity from the Father? **Morning impact:** Receive welcome before respons",
       "preliminary_read": "likely grace-aligned"
     },
     {

@@ -1,7 +1,7 @@
 {
   "generated": "2026-07-01",
-  "commit": "22a8dfa",
-  "source_audit_commit": "22a8dfa",
+  "commit": "266943b",
+  "source_audit_commit": "266943b",
   "author": "Susan \"Lady D\" Damon",
   "status": "decision_queue_clear_not_final_upload",
   "totals": {
@@ -10,7 +10,7 @@
     "morning_impact_decisions": 0,
     "theology_decisions": 0,
     "likely_grace_aligned_watch_contexts": 361,
-    "source_words_checked": 369569,
+    "source_words_checked": 369582,
     "sunday_mentions": 0,
     "placeholder_markers": 0
   },
