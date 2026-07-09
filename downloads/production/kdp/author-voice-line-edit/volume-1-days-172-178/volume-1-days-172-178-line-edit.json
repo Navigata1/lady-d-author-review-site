@@ -1,0 +1,172 @@
+{
+  "generated": "2026-07-09",
+  "status": "volume-1-days-172-178_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Days 172-178",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/volume-1-days-172-178-manuscript.md",
+    "public_source": "public/downloads/production/volume-1-days-172-178-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/01 Manuscript/Month 06 - June/Days 172-178 Manuscript.md",
+    "repo_source_parts": [
+      "downloads/production/volume-1-days-172-178-manuscript.md"
+    ],
+    "supporting_files": [
+      "downloads/production/volume-1-june-week-4-companion-journal.md",
+      "downloads/production/volume-1-days-172-178-audit.md"
+    ]
+  },
+  "edits": [
+    {
+      "day": "Day 172",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Awaken the Heart That Calls You into one faithful step today.",
+      "after": "Carry one real responsibility under the Father's care today; His call can lead the whole story, not only polished parts.",
+      "reason": "Keeps Genesis 12:5's household obedience concrete while avoiding an escapist view of surrender."
+    },
+    {
+      "day": "Day 173",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Embrace Love That Sends You into one faithful step today.",
+      "after": "Stay faithful on difficult ground today; the Father's love can hold you before the terrain gets easy.",
+      "reason": "Preserves Genesis 12:6's promised-but-tense place and keeps courage rooted in God's presence."
+    },
+    {
+      "day": "Day 174",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Remember Covenant Mercy into one faithful step today.",
+      "after": "Build one remembrance in the middle today; covenant mercy is worthy of worship before completion arrives.",
+      "reason": "Connects Genesis 12:7's promise and altar response to worship in process."
+    },
+    {
+      "day": "Day 175",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Walk in the Father's Welcome into one faithful step today.",
+      "after": "Honor one quiet step today; the Father's welcome still walks with you when obedience looks ordinary.",
+      "reason": "Turns Genesis 12:9's continued journey into a practical ordinary-faithfulness line."
+    },
+    {
+      "day": "Day 176",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Peace Lead Beloved Identity into one faithful step today.",
+      "after": "Pause before scarcity names you today; need is real, but beloved identity still belongs to the Father.",
+      "reason": "Keeps Genesis 12:10's famine pressure honest while protecting beloved identity from need's voice."
+    },
+    {
+      "day": "Day 177",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Choose Love That Finds You into one faithful step today.",
+      "after": "Bring one vulnerable truth to the Father today; love can interpret it before fear turns it into strategy.",
+      "reason": "Preserves Genesis 12:11's early fear interpretation and invites surrender before reaction becomes plan."
+    },
+    {
+      "day": "Day 178",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Listen for Grace Before Striving into one faithful step today.",
+      "after": "Rest this Saturday Sabbath before fear performs; grace can tell the truth without manipulation or self-saving.",
+      "reason": "Keeps the Adventist seventh-day Sabbath frame and Genesis 12:12's warning against fear-built performance."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Day 172",
+      "date": "June 21",
+      "title": "Awaken the Heart That Calls You",
+      "scripture": "Genesis 12:5",
+      "morning_impact": "Carry one real responsibility under the Father's care today; His call can lead the whole story, not only polished parts."
+    },
+    {
+      "label": "Day 173",
+      "date": "June 22",
+      "title": "Embrace Love That Sends You",
+      "scripture": "Genesis 12:6",
+      "morning_impact": "Stay faithful on difficult ground today; the Father's love can hold you before the terrain gets easy."
+    },
+    {
+      "label": "Day 174",
+      "date": "June 23",
+      "title": "Remember Covenant Mercy",
+      "scripture": "Genesis 12:7",
+      "morning_impact": "Build one remembrance in the middle today; covenant mercy is worthy of worship before completion arrives."
+    },
+    {
+      "label": "Day 175",
+      "date": "June 24",
+      "title": "Walk in the Father's Welcome",
+      "scripture": "Genesis 12:9",
+      "morning_impact": "Honor one quiet step today; the Father's welcome still walks with you when obedience looks ordinary."
+    },
+    {
+      "label": "Day 176",
+      "date": "June 25",
+      "title": "Let Peace Lead Beloved Identity",
+      "scripture": "Genesis 12:10",
+      "morning_impact": "Pause before scarcity names you today; need is real, but beloved identity still belongs to the Father."
+    },
+    {
+      "label": "Day 177",
+      "date": "June 26",
+      "title": "Choose Love That Finds You",
+      "scripture": "Genesis 12:11",
+      "morning_impact": "Bring one vulnerable truth to the Father today; love can interpret it before fear turns it into strategy."
+    },
+    {
+      "label": "Day 178",
+      "date": "June 27",
+      "title": "Listen for Grace Before Performance",
+      "scripture": "Genesis 12:12",
+      "morning_impact": "Rest this Saturday Sabbath before fear performs; grace can tell the truth without manipulation or self-saving."
+    }
+  ],
+  "audit": {
+    "entries": 7,
+    "scripture_references": 7,
+    "context_lenses": 7,
+    "today_steps": 7,
+    "prayers": 7,
+    "journal_prompts": 7,
+    "morning_impacts": 7,
+    "old_volume_1_template_impacts_before": 7,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 7,
+    "placeholder_flags": 0,
+    "words": 2711
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "All 7 impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The batch file now has zero old Volume 1 morning-impact templates."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate."
+}

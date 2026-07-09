@@ -1808,6 +1808,82 @@ BATCHES = {
             "volume-1-days-165-171-audit.md",
         ),
     ),
+    "volume-1-days-172-178": Batch(
+        key="volume-1-days-172-178",
+        scope="Volume 1 Days 172-178",
+        title="Volume 1 Days 172-178 Line Edit",
+        intro=(
+            "The fourth June week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame "
+            "while preserving obedience with real responsibilities, faithful "
+            "presence on difficult ground, covenant remembrance, ordinary "
+            "continuation under the Father's welcome, beloved identity under "
+            "scarcity pressure, love interpreting vulnerability before fear, "
+            "and Saturday Sabbath grace before performance."
+        ),
+        source_name="volume-1-days-172-178-manuscript.md",
+        public_page_name="volume-1-days-172-178-line-edit.html",
+        output_slug="volume-1-days-172-178-line-edit",
+        zip_name="Lady-D-Volume-1-Days-172-178-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 06 - June" / "Days 172-178 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 172-178",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 172",
+                "Let the Father's love carry Awaken the Heart That Calls You into one faithful step today.",
+                "Carry one real responsibility under the Father's care today; His call can lead the whole story, not only polished parts.",
+                "Keeps Genesis 12:5's household obedience concrete while avoiding an escapist view of surrender.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 173",
+                "Let the Father's love carry Embrace Love That Sends You into one faithful step today.",
+                "Stay faithful on difficult ground today; the Father's love can hold you before the terrain gets easy.",
+                "Preserves Genesis 12:6's promised-but-tense place and keeps courage rooted in God's presence.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 174",
+                "Let the Father's love carry Remember Covenant Mercy into one faithful step today.",
+                "Build one remembrance in the middle today; covenant mercy is worthy of worship before completion arrives.",
+                "Connects Genesis 12:7's promise and altar response to worship in process.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 175",
+                "Let the Father's love carry Walk in the Father's Welcome into one faithful step today.",
+                "Honor one quiet step today; the Father's welcome still walks with you when obedience looks ordinary.",
+                "Turns Genesis 12:9's continued journey into a practical ordinary-faithfulness line.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 176",
+                "Let the Father's love carry Let Peace Lead Beloved Identity into one faithful step today.",
+                "Pause before scarcity names you today; need is real, but beloved identity still belongs to the Father.",
+                "Keeps Genesis 12:10's famine pressure honest while protecting beloved identity from need's voice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 177",
+                "Let the Father's love carry Choose Love That Finds You into one faithful step today.",
+                "Bring one vulnerable truth to the Father today; love can interpret it before fear turns it into strategy.",
+                "Preserves Genesis 12:11's early fear interpretation and invites surrender before reaction becomes plan.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 178",
+                "Let the Father's love carry Listen for Grace Before Striving into one faithful step today.",
+                "Rest this Saturday Sabbath before fear performs; grace can tell the truth without manipulation or self-saving.",
+                "Keeps the Adventist seventh-day Sabbath frame and Genesis 12:12's warning against fear-built performance.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-june-week-4-companion-journal.md",
+            "volume-1-days-172-178-audit.md",
+        ),
+    ),
 }
 
 
@@ -2413,7 +2489,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-165-171")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-172-178")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

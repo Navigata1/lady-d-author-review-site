@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "4f38f69",
+  "commit": "4840631",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369582,
+    "words": 369599,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1312,
-    "saturday_mentions": 218,
+    "sabbath_mentions": 1313,
+    "saturday_mentions": 219,
     "works_watch_contexts": 362,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128294,
+      "words": 128311,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -35,8 +35,8 @@
       "structure_status": "pass",
       "placeholders": 0,
       "sunday_mentions": 0,
-      "sabbath_mentions": 292,
-      "saturday_mentions": 79,
+      "sabbath_mentions": 293,
+      "saturday_mentions": 80,
       "works_watch_contexts": 215,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
@@ -1169,7 +1169,7 @@
       "kind": "Devotional",
       "term": "Performance",
       "line": 5000,
-      "snippet": "her's love carry Choose Love That Finds You into one faithful step today. --- ## Day 178 - June 27 ### Listen for Grace Before Performance **Scripture Reference:** Genesis 12:12 **Context and language lens:** `vehayah ki-yir'u otakh hamitzrim/ve'amru ishto zot/vehar",
+      "snippet": "e Father today; love can interpret it before fear turns it into strategy. --- ## Day 178 - June 27 ### Listen for Grace Before Performance **Scripture Reference:** Genesis 12:12 **Context and language lens:** `vehayah ki-yir'u otakh hamitzrim/ve'amru ishto zot/vehar",
       "preliminary_read": "likely grace-aligned"
     },
     {
@@ -1232,7 +1232,7 @@
       "kind": "Devotional",
       "term": "performance",
       "line": 5022,
-      "snippet": "I perform for fear. Amen. **Journal prompt:** What feared future do I need to bring into Sabbath rest before fear turns it into performance? **Morning impact:** Let the Father's love carry Listen for Grace Before Striving into one faithful step today. --- <!-- Sour",
+      "snippet": "I perform for fear. Amen. **Journal prompt:** What feared future do I need to bring into Sabbath rest before fear turns it into performance? **Morning impact:** Rest this Saturday Sabbath before fear performs; grace can tell the truth without manipulation or self-savi",
       "preliminary_read": "likely grace-aligned"
     },
     {
