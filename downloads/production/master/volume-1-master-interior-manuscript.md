@@ -5786,7 +5786,7 @@ The Father is patient, but He is not uncertain. Behold Him there. The One who na
 
 **Journal prompt:** What detail has God already made clear while I am still waiting for fuller possession?
 
-**Morning impact:** Let the Father's love carry Behold the Father's Patience into one faithful step today.
+**Morning impact:** Honor one clear detail today; the Father's patience is specific even while the promise is still future.
 
 ---
 
@@ -5816,7 +5816,7 @@ Follow that love today. Let the named place become a place of surrender, not a t
 
 **Journal prompt:** What difficult place needs to be named honestly before God instead of left vague in fear?
 
-**Morning impact:** Let the Father's love carry Follow Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Name the hard place before God today; His promise can hold what fear keeps vague.
 
 ---
 
@@ -5846,7 +5846,7 @@ The Father's compassion restores the heart by reminding it that His promise has 
 
 **Journal prompt:** What concern has felt endless, and how might God be asking me to see it as bounded under His care?
 
-**Morning impact:** Let the Father's love carry Rest in Restoring Compassion into one faithful step today.
+**Morning impact:** Give the overwhelming concern a boundary today; God's compassion is larger than what surrounds you.
 
 ---
 
@@ -5876,7 +5876,7 @@ The promise still holds because the Almighty God holds it. Rest in Him, then ris
 
 **Journal prompt:** Where has long waiting made me forget that God is still strong enough to sustain His promise?
 
-**Morning impact:** Let the Father's love carry Wake Up to the Promise That Holds into one faithful step today.
+**Morning impact:** Rest this Saturday Sabbath under El Shaddai; time has not weakened the promise God holds.
 
 ---
 
@@ -5906,7 +5906,7 @@ The heart that calls you knows what He can make fruitful. Trust Him enough to le
 
 **Journal prompt:** What expectation has fear made smaller than God's covenant promise?
 
-**Morning impact:** Let the Father's love carry Let Fire Refine the Heart That Calls You into one faithful step today.
+**Morning impact:** Receive God's promise before striving today; covenant mercy can refine fear's small expectations.
 
 ---
 
@@ -5936,7 +5936,7 @@ The love that sends you into obedience also calls you home to worship. Fall out 
 
 **Journal prompt:** Where is God inviting me to bow in trust instead of standing guarded in control?
 
-**Morning impact:** Let the Father's love carry Come Home to Love That Sends You into one faithful step today.
+**Morning impact:** Bow without defensiveness today; the Father can speak tenderly to a surrendered heart.
 
 ---
 
@@ -5966,7 +5966,7 @@ Do not despise the small faithful practice. Abram hears of nations while still s
 
 **Journal prompt:** What small act of mercy could become seed for fruitfulness I cannot yet see?
 
-**Morning impact:** Let the Father's love carry Practice Covenant Mercy into one faithful step today.
+**Morning impact:** Plant one small mercy today; God can multiply fruit you cannot yet measure.
 
 ---
 

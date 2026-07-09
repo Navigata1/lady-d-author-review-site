@@ -2,7 +2,7 @@
 
 Generated: 2026-07-01
 
-Repo commit at generation: `65637f7`
+Repo commit at generation: `6ce4793`
 
 Author: Susan "Lady D" Damon
 
@@ -15,11 +15,11 @@ This pack moves the Lady D library from assembled review drafts into a disciplin
 ## Evidence Snapshot
 
 - Products checked: 6
-- Source words checked: 369,620
+- Source words checked: 369,613
 - Placeholder markers found: 0
 - Sunday mentions: 0
-- Sabbath mentions: 1316
-- Saturday mentions: 222
+- Sabbath mentions: 1317
+- Saturday mentions: 223
 - Works-righteousness watch contexts: 363
 - Contexts requiring proof review: 0
 - Duplicate devotional title groups: 0
@@ -30,7 +30,7 @@ This pack moves the Lady D library from assembled review drafts into a disciplin
 
 | Product | Type | Words | Structure | Sunday | Placeholders | Watch contexts |
 | --- | --- | ---: | --- | ---: | ---: | ---: |
-| Surrendering to God's Love | Devotional | 128,332 | pass | 0 | 0 | 216 |
+| Surrendering to God's Love | Devotional | 128,325 | pass | 0 | 0 | 216 |
 | Surrendering to God's Love Companion Journal | Companion Journal | 19,854 | review | 0 | 0 | 47 |
 | Walking with Jesus | Devotional | 95,114 | pass | 0 | 0 | 43 |
 | Walking with Jesus Companion Journal | Companion Journal | 17,134 | review | 0 | 0 | 13 |
