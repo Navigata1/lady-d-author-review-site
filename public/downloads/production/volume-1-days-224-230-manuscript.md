@@ -34,7 +34,7 @@ Grace has already come near. Let it form the way you answer.
 
 **Journal prompt:** Where am I rushing to prove myself before letting God's grace form my response?
 
-**Morning impact:** Let the Father's love carry Let Grace Form Grace Before Striving into one faithful step today.
+**Morning impact:** Pause after God speaks today; grace can shape your response before pressure takes over.
 
 ---
 
@@ -66,7 +66,7 @@ Do not despise the morning obedience. It may be the doorway where mercy enters t
 
 **Journal prompt:** What act of obedience has been waiting for a quieter day, and what faithful step can I take before noon?
 
-**Morning impact:** Let the Father's love carry Behold Mercy in the Morning into one faithful step today.
+**Morning impact:** Take one same-day step today; mercy can move insight into humble household faithfulness.
 
 ---
 
@@ -96,7 +96,7 @@ The Father is patient enough to form obedience in late places. Follow Him there.
 
 **Journal prompt:** Where have I been using delay or history as a reason to avoid present obedience?
 
-**Morning impact:** Let the Father's love carry Follow the Father's Patience into one faithful step today.
+**Morning impact:** Stop calling change too late today; the Father can form obedience in present grace.
 
 ---
 
@@ -126,7 +126,7 @@ On this Sabbath, rest in the Father's care for the person you cannot carry by co
 
 **Journal prompt:** Who do I need to love with prayer and release instead of fear and control?
 
-**Morning impact:** Let the Father's love carry Rest in Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Rest this Saturday Sabbath as you release one beloved person from fear into the Father's care.
 
 ---
 
@@ -156,7 +156,7 @@ The Father can use a same-day response to awaken more than one heart.
 
 **Journal prompt:** Who is affected by my response to God, and how can I obey with compassion toward them?
 
-**Morning impact:** Let the Father's love carry Wake Up to Restoring Compassion into one faithful step today.
+**Morning impact:** Obey with tenderness today; someone walking beside you may need compassion more than direction.
 
 ---
 
@@ -186,7 +186,7 @@ The refining fire of covenant love is not there to destroy. It is there to make 
 
 **Journal prompt:** What shared pattern in my home, church, work, or ministry needs the refining mercy of God's promise?
 
-**Morning impact:** Let the Father's love carry Let Fire Refine the Promise That Holds into one faithful step today.
+**Morning impact:** Refine one shared pattern today; covenant love can make belonging more merciful and dignified.
 
 ---
 
@@ -216,4 +216,4 @@ When trust is tested, come home first to the One who knows your name.
 
 **Journal prompt:** Where does trust feel tested, and what is the next faithful step that remains wise, clear, and surrendered to God?
 
-**Morning impact:** Let the Father's love carry Come Home to the Heart That Calls You into one faithful step today.
+**Morning impact:** Bring tested trust to God today; choose one wise step, not fearful confusion.
