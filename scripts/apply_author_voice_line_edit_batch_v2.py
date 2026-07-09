@@ -1884,6 +1884,54 @@ BATCHES = {
             "volume-1-days-172-178-audit.md",
         ),
     ),
+    "volume-1-days-179-181": Batch(
+        key="volume-1-days-179-181",
+        scope="Volume 1 Days 179-181",
+        title="Volume 1 Days 179-181 Line Edit",
+        intro=(
+            "The June closeout of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving truthful speech before fear creates harm, patient "
+            "sight that protects exposed vulnerability, and love strong "
+            "enough to grieve what fear and power have done without extending "
+            "Saturday Sabbath language into Sunday, Monday, or Tuesday."
+        ),
+        source_name="volume-1-days-179-181-manuscript.md",
+        public_page_name="volume-1-days-179-181-line-edit.html",
+        output_slug="volume-1-days-179-181-line-edit",
+        zip_name="Lady-D-Volume-1-Days-179-181-Line-Edit-Pack.zip",
+        expected_entries=3,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 06 - June" / "Days 179-181 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 179-181",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 179",
+                "Let the Father's love carry Stand in Mercy in the Morning into one faithful step today.",
+                "Tell the truth before fear spends someone else's safety today; mercy can make protection honest.",
+                "Keeps Genesis 12:13's fear-shaped speech and Sarai's vulnerability concrete while making mercy protective.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 180",
+                "Let the Father's love carry Let Grace Form the Father's Patience into one faithful step today.",
+                "Slow down where vulnerability is exposed today; the Father's patience can turn your attention into honor.",
+                "Preserves Genesis 12:14's arrival, visibility, and power setting while turning patience toward protection.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 181",
+                "Let the Father's love carry Behold Love Stronger Than Fear into one faithful step today.",
+                "Hold one painful truth before the Father today; love can grieve, repent, and trust Him to protect.",
+                "Keeps Genesis 12:15's sober consequence, lament, and trust in God's protective intervention together.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-june-closeout-companion-journal.md",
+            "volume-1-days-179-181-audit.md",
+        ),
+    ),
 }
 
 
@@ -2489,7 +2537,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-172-178")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-179-181")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

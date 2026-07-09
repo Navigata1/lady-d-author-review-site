@@ -1,0 +1,112 @@
+{
+  "generated": "2026-07-09",
+  "status": "volume-1-days-179-181_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Days 179-181",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/volume-1-days-179-181-manuscript.md",
+    "public_source": "public/downloads/production/volume-1-days-179-181-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/01 Manuscript/Month 06 - June/Days 179-181 Manuscript.md",
+    "repo_source_parts": [
+      "downloads/production/volume-1-days-179-181-manuscript.md"
+    ],
+    "supporting_files": [
+      "downloads/production/volume-1-june-closeout-companion-journal.md",
+      "downloads/production/volume-1-days-179-181-audit.md"
+    ]
+  },
+  "edits": [
+    {
+      "day": "Day 179",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Stand in Mercy in the Morning into one faithful step today.",
+      "after": "Tell the truth before fear spends someone else's safety today; mercy can make protection honest.",
+      "reason": "Keeps Genesis 12:13's fear-shaped speech and Sarai's vulnerability concrete while making mercy protective."
+    },
+    {
+      "day": "Day 180",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Let Grace Form the Father's Patience into one faithful step today.",
+      "after": "Slow down where vulnerability is exposed today; the Father's patience can turn your attention into honor.",
+      "reason": "Preserves Genesis 12:14's arrival, visibility, and power setting while turning patience toward protection."
+    },
+    {
+      "day": "Day 181",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Behold Love Stronger Than Fear into one faithful step today.",
+      "after": "Hold one painful truth before the Father today; love can grieve, repent, and trust Him to protect.",
+      "reason": "Keeps Genesis 12:15's sober consequence, lament, and trust in God's protective intervention together."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Day 179",
+      "date": "June 28",
+      "title": "Stand in Mercy in the Morning",
+      "scripture": "Genesis 12:13",
+      "morning_impact": "Tell the truth before fear spends someone else's safety today; mercy can make protection honest."
+    },
+    {
+      "label": "Day 180",
+      "date": "June 29",
+      "title": "Let Grace Form the Father's Patience",
+      "scripture": "Genesis 12:14",
+      "morning_impact": "Slow down where vulnerability is exposed today; the Father's patience can turn your attention into honor."
+    },
+    {
+      "label": "Day 181",
+      "date": "June 30",
+      "title": "Behold Love Stronger Than Fear",
+      "scripture": "Genesis 12:15",
+      "morning_impact": "Hold one painful truth before the Father today; love can grieve, repent, and trust Him to protect."
+    }
+  ],
+  "audit": {
+    "entries": 3,
+    "scripture_references": 3,
+    "context_lenses": 3,
+    "today_steps": 3,
+    "prayers": 3,
+    "journal_prompts": 3,
+    "morning_impacts": 3,
+    "old_volume_1_template_impacts_before": 0,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 0,
+    "placeholder_flags": 0,
+    "words": 1299
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "All 3 impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The batch file now has zero old Volume 1 morning-impact templates."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate."
+}

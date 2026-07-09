@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-01",
-  "commit": "4840631",
+  "commit": "28132c2",
   "result": "review_ready_not_final_upload",
   "totals": {
     "products": 6,
@@ -8,7 +8,7 @@
     "sunday_mentions": 0,
     "sabbath_mentions": 1313,
     "saturday_mentions": 219,
-    "words": 369599
+    "words": 369600
   },
   "products": [
     {
@@ -34,7 +34,7 @@
         "encrypted": false
       },
       "counts": {
-        "words": 128311,
+        "words": 128312,
         "sabbath_mentions": 293,
         "saturday_mentions": 80,
         "sunday_mentions": 0,
