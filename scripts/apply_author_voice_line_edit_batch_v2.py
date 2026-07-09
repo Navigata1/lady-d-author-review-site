@@ -2546,6 +2546,83 @@ BATCHES = {
             "volume-1-days-231-237-audit.md",
         ),
     ),
+    "volume-1-days-238-244": Batch(
+        key="volume-1-days-238-244",
+        scope="Volume 1 Days 238-244",
+        title="Volume 1 Days 238-244 Line Edit",
+        intro=(
+            "The August/September transition batch of Surrendering to God's "
+            "Love has moved from structural manuscript into line-level "
+            "author-voice refinement. This pass removes the repeated "
+            "morning-impact frame while preserving Genesis 22's merciful "
+            "interruption, God-given provision, restoring compassion after "
+            "crisis, Saturday Sabbath trust under promise, outward blessing, "
+            "humble return to ordinary responsibility, and the quiet opening "
+            "of September's Promises That Do Not Fail arc."
+        ),
+        source_name="volume-1-days-238-244-manuscript.md",
+        public_page_name="volume-1-days-238-244-line-edit.html",
+        output_slug="volume-1-days-238-244-line-edit",
+        zip_name="Lady-D-Volume-1-Days-238-244-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 09 - September" / "Days 238-244 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 238-244",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 238",
+                "Let the Father's love carry Anchor the Father's Patience into one faithful step today.",
+                "Pause before pressure becomes harm today; the Father's patient voice can teach love to stop.",
+                "Centers Genesis 22:12 as God's merciful interruption and keeps relational safety explicit.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 239",
+                "Let the Father's love carry Discover Love Stronger Than Fear into one faithful step today.",
+                "Lift your eyes past fear today; receive the provision God has already been preparing.",
+                "Connects Genesis 22:13's lifted-eyes provision to trust beyond fear's narrow story.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 240",
+                "Let the Father's love carry Receive Restoring Compassion into one faithful step today.",
+                "Offer one restoring kindness today; compassion can steady the room after the hard moment.",
+                "Preserves Genesis 22:16's oath-bound faithful speech and applies it to repair after crisis.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 241",
+                "Let the Father's love carry Trust the Promise That Holds into one faithful step today.",
+                "Rest this Saturday Sabbath beneath God's promise; let His word hold what control cannot.",
+                "Keeps the August 29 Saturday Sabbath frame and trust under God's covenant promise.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 242",
+                "Let the Father's love carry Let Hope Rise the Heart That Calls You into one faithful step today.",
+                "Let one mercy widen today; your healing can become safety and hope for someone else.",
+                "Honors Genesis 22:18's outward blessing horizon without making hope vague.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 243",
+                "Let the Father's love carry Carry Love That Sends You into one faithful step today.",
+                "Return to ordinary responsibility with gentleness today; tested love can come home humble.",
+                "Keeps Genesis 22:19's movement back into ordinary life with humility and tenderness.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 244",
+                "Let the Father's love carry Listen for the Father's Welcome into one faithful step today.",
+                "Notice one quiet beginning today; the Father may be opening promise beyond what you can see.",
+                "Opens the September promise arc through Genesis 22:20's quiet family-news horizon.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-august-september-transition-companion-journal.md",
+            "volume-1-days-238-244-audit.md",
+        ),
+    ),
 }
 
 
@@ -3151,7 +3228,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-231-237")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-238-244")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 
