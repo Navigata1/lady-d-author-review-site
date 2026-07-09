@@ -2237,6 +2237,83 @@ BATCHES = {
             "volume-1-days-203-209-audit.md",
         ),
     ),
+    "volume-1-days-210-216": Batch(
+        key="volume-1-days-210-216",
+        scope="Volume 1 Days 210-216",
+        title="Volume 1 Days 210-216 Line Edit",
+        intro=(
+            "The July/August transition of Surrendering to God's Love has "
+            "moved from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame "
+            "while preserving Genesis 17's covenant belonging, beloved "
+            "identity in unsettled places, obedience as response to divine "
+            "initiative, Saturday Sabbath rest in God's finished work, "
+            "patient covenant remembrance, generational witness, and "
+            "restoring compassion for overlooked people."
+        ),
+        source_name="volume-1-days-210-216-manuscript.md",
+        public_page_name="volume-1-days-210-216-line-edit.html",
+        output_slug="volume-1-days-210-216-line-edit",
+        zip_name="Lady-D-Volume-1-Days-210-216-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 07 - July" / "Days 210-216 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 210-216",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 210",
+                "Let the Father's love carry Surrender to the Father's Welcome into one faithful step today.",
+                "Move from covenant belonging today; the Father is God to you before the future is managed.",
+                "Keeps Genesis 17:7 centered on God's relational covenant promise before anxious control.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 211",
+                "Let the Father's love carry Let Mercy Speak Beloved Identity into one faithful step today.",
+                "Let God's belonging name the unsettled place today; temporary ground does not define His child.",
+                "Preserves Genesis 17:8's sojourning and inheritance frame while grounding identity in divine belonging.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 212",
+                "Let the Father's love carry Breathe Love That Finds You into one faithful step today.",
+                "Keep one entrusted rhythm today; obedience can answer love without bargaining for it.",
+                "Keeps Genesis 17:9's covenant-keeping call as relational response after God's initiative.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 213",
+                "Let the Father's love carry Lean Into Sabbath Trust Through Mercy in the Morning into one faithful step today.",
+                "Rest this Saturday Sabbath in God's finished work; let mercy become visible in one quiet relationship.",
+                "Keeps the August 1 Saturday Sabbath frame and handles Genesis 17:10's embodied covenant sign discreetly.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 214",
+                "Let the Father's love carry See Sabbath Trust in Again the Father's Patience into one faithful step today.",
+                "Restore one covenant reminder today; the Father's patience can call your heart back before worry speaks.",
+                "Connects Genesis 17:11's covenant sign to patient remembrance instead of performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 215",
+                "Let the Father's love carry Let Sabbath Trust Teach Love Stronger Than Fear into one faithful step today.",
+                "Strengthen one faithful witness today; covenant love can outlast the fear of this moment.",
+                "Keeps Genesis 17:12's generational and household scope while refusing fear-driven control.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 216",
+                "Let the Father's love carry Awaken Restoring Compassion into one faithful step today.",
+                "See the overlooked person today; restoring compassion can give dignity where hurry has made someone unseen.",
+                "Preserves Genesis 17:13's repeated household scope and turns covenant belonging toward visible dignity.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-july-august-transition-companion-journal.md",
+            "volume-1-days-210-216-audit.md",
+        ),
+    ),
 }
 
 
@@ -2842,7 +2919,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-203-209")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-210-216")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

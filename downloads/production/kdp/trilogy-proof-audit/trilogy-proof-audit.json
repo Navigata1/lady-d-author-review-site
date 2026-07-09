@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "6ce4793",
+  "commit": "3378820",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369613,
+    "words": 369606,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1317,
-    "saturday_mentions": 223,
+    "sabbath_mentions": 1315,
+    "saturday_mentions": 224,
     "works_watch_contexts": 363,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128325,
+      "words": 128318,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -35,8 +35,8 @@
       "structure_status": "pass",
       "placeholders": 0,
       "sunday_mentions": 0,
-      "sabbath_mentions": 297,
-      "saturday_mentions": 84,
+      "sabbath_mentions": 295,
+      "saturday_mentions": 85,
       "works_watch_contexts": 216,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
@@ -1421,7 +1421,7 @@
       "kind": "Devotional",
       "term": "performance",
       "line": 6058,
-      "snippet": "ul response, not a frantic bargain. Amen. **Journal prompt:** What act of obedience would feel like covenant response instead of performance today? **Morning impact:** Let the Father's love carry Breathe Love That Finds You into one faithful step today. --- ## Day 21",
+      "snippet": "ul response, not a frantic bargain. Amen. **Journal prompt:** What act of obedience would feel like covenant response instead of performance today? **Morning impact:** Keep one entrusted rhythm today; obedience can answer love without bargaining for it. --- ## Day 21",
       "preliminary_read": "likely grace-aligned"
     },
     {
