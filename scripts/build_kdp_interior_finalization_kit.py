@@ -50,9 +50,9 @@ BOOKS = [
         "God the Father / love, identity, surrender, forgiveness, timing, daily trust",
         369,
         470,
-        130654,
+        130649,
         21065,
-        300,
+        301,
         "01 Surrendering to God's Love",
         "13.081 x 9.250 in",
         "13.173 x 9.250 in",
@@ -250,7 +250,7 @@ The three dated devotional manuscripts are complete at 365 dated entries plus th
 - Proof decision application pack generated; the prior 192-item title, morning-impact, and theology queue is preserved as evidence and now audits clear.
 - Reader-facing lens application and author-voice copyedit gate generated; the source and public manuscript mirrors now audit at 1,098 context/language lenses and zero internal production labels.
 - Author decision sheet generated with title, Bible policy, cover, front/back matter, launch order, Adventist guardrail, source-freeze, and KDP copy-economics approval fields.
-- Volume 1 Days 001-251, including Leap Day, author-voice line edits completed across 34 seven-day batches, one eight-entry leap-day/March gate, plus a three-day January closeout and a three-day June closeout; the edited surface now has 252 varied morning-impact lines, zero old Volume 1 impact templates, zero internal production labels, and zero Sunday mentions.
+- Volume 1 Days 001-258, including Leap Day, author-voice line edits completed across 35 seven-day batches, one eight-entry leap-day/March gate, plus a three-day January closeout and a three-day June closeout; the edited surface now has 259 varied morning-impact lines, zero old Volume 1 impact templates, zero internal production labels, and zero Sunday mentions.
 - Public Vercel review page for author-facing review.
 
 ## Interior Finalization Deliverables In This Kit
@@ -324,14 +324,14 @@ Run three to seven passes depending on risk:
 - Regenerated full-wrap covers from final page counts.
 - Final KDP metadata approval for all three devotionals and all three companion journals.
 - Author approval of the decision sheet: titles, Bible policy, cover direction, bio, dedication, acknowledgments, and launch order.
-- Continue author-voice line edits beyond the completed Volume 1 Days 001-251 plus Leap Day batches.
+- Continue author-voice line edits beyond the completed Volume 1 Days 001-258 plus Leap Day batches.
 - Author approval of companion journal rhythm and front/back matter.
 - KDP Previewer pass for each upload file.
 - Physical proof review before public release.
 
 ## Recommended Next Production Step
 
-Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack, trilogy proof audit pack, proof decision resolution pack, proof decision application pack, author decision sheet, author-voice copyedit gate, and completed Volume 1 Days 001-251 plus Leap Day line-edit batches as the next trilogy-wide copyedit and theological proof surface. The proof decision queue is clear; continue with Volume 1 Days 252-258, then seven-day, bonus-day, and month-close author-voice line edits, metadata approval, and final cover regeneration from locked page counts and paper type.
+Use the devotional and companion journal 6 x 9 review drafts plus the release upload readiness pack, trilogy proof audit pack, proof decision resolution pack, proof decision application pack, author decision sheet, author-voice copyedit gate, and completed Volume 1 Days 001-258 plus Leap Day line-edit batches as the next trilogy-wide copyedit and theological proof surface. The proof decision queue is clear; continue with Volume 1 Days 259-265, then seven-day, bonus-day, and month-close author-voice line edits, metadata approval, and final cover regeneration from locked page counts and paper type.
 """
 
 
@@ -372,14 +372,14 @@ def dashboard_html(commit: str) -> str:
         "Proof decision application pack generated; the prior 192-item proof queue is preserved and now audits clear.",
         "Author-voice copyedit gate generated with 1,098 source context/language lenses and zero internal production labels in the master manuscripts.",
         "Author decision sheet generated with title, Bible policy, cover, front/back matter, launch order, Adventist guardrail, source-freeze, and KDP copy-economics approval fields.",
-        "Volume 1 Days 001-251, including Leap Day, author-voice line edits completed across 34 seven-day batches, one eight-entry leap-day/March gate, plus a three-day January closeout and a three-day June closeout with 252 varied morning-impact lines, zero old Volume 1 impact templates, zero internal production labels, and zero Sunday mentions.",
+        "Volume 1 Days 001-258, including Leap Day, author-voice line edits completed across 35 seven-day batches, one eight-entry leap-day/March gate, plus a three-day January closeout and a three-day June closeout with 259 varied morning-impact lines, zero old Volume 1 impact templates, zero internal production labels, and zero Sunday mentions.",
     ]
     remaining = [
         "Final paper type and ISBN/barcode data.",
         "Author-approved dedication, acknowledgments, and bio.",
         "Final Bible translation permissions statement.",
         "Author approval of the decision sheet: titles, Bible policy, cover direction, bio, dedication, acknowledgments, and launch order.",
-        "Remaining author-voice line edits after the completed Volume 1 Days 001-251 plus Leap Day batches.",
+        "Remaining author-voice line edits after the completed Volume 1 Days 001-258 plus Leap Day batches.",
         "Author approval of companion journal rhythm and front/back matter.",
         "Final approved 6 x 9 devotional and journal upload interiors with locked page counts.",
         "Regenerated full-wrap covers from locked page counts.",
@@ -463,7 +463,7 @@ def dashboard_html(commit: str) -> str:
   <header>
     <div class="kicker">IDC Publishing release dashboard</div>
     <h1>Lady D Devotional Library release readiness</h1>
-    <p class="lead">The three devotional manuscripts are complete at the dated-entry level and now have master assemblies, companion journals, cover candidates, KDP trim math, devotional and companion journal full-wrap drafts, interior finalization templates, the first Volume 1 6 x 9 interior prototype, full 6 x 9 devotional drafts, full 6 x 9 companion journal drafts, a release-upload readiness pack, a trilogy proof/copyedit audit pack, a proof decision resolution pack, proof decision application evidence showing the prior 192-item queue now cleared, an author decision sheet, an author-voice copyedit gate, and the completed Volume 1 author-voice line-edit surface covering Days 001-251 plus Leap Day. This dashboard separates what is complete from what still gates true KDP upload readiness.</p>
+    <p class="lead">The three devotional manuscripts are complete at the dated-entry level and now have master assemblies, companion journals, cover candidates, KDP trim math, devotional and companion journal full-wrap drafts, interior finalization templates, the first Volume 1 6 x 9 interior prototype, full 6 x 9 devotional drafts, full 6 x 9 companion journal drafts, a release-upload readiness pack, a trilogy proof/copyedit audit pack, a proof decision resolution pack, proof decision application evidence showing the prior 192-item queue now cleared, an author decision sheet, an author-voice copyedit gate, and the completed Volume 1 author-voice line-edit surface covering Days 001-258 plus Leap Day. This dashboard separates what is complete from what still gates true KDP upload readiness.</p>
     <p><span class="status">Generated 2026-07-09</span> <span class="status">Base commit: {html.escape(commit)}</span></p>
     <div class="actions">
       <a href="production.html">Production Review</a>
@@ -573,7 +573,7 @@ def dashboard_html(commit: str) -> str:
         </article>
         <article class="card">
           <span>Evidence</span>
-          <h3>369,569 source words</h3>
+          <h3>369,565 source words</h3>
           <p>The regenerated proof audit reports zero Sunday mentions, zero placeholders, zero duplicate-title groups, zero repeated morning-impact groups, and zero priority theology contexts across the current review set.</p>
         </article>
         <article class="card">
@@ -602,7 +602,7 @@ def dashboard_html(commit: str) -> str:
         <article class="card">
           <span>Guardrail</span>
           <h3>Zero Sunday mentions</h3>
-          <p>The audit checks 369,569 source words and reports zero placeholders, zero Sunday mentions, and zero priority theology contexts requiring resolution.</p>
+          <p>The audit checks 369,565 source words and reports zero placeholders, zero Sunday mentions, and zero priority theology contexts requiring resolution.</p>
         </article>
         <article class="card">
           <span>Editorial result</span>
@@ -706,7 +706,7 @@ def dashboard_html(commit: str) -> str:
     </section>
     <section>
       <h2>Author-Voice Line Edit Progress</h2>
-      <p class="lead">Volume 1 Days 001-251 plus Leap Day has moved from structural manuscript into line-edited review surface across 34 seven-day batches, one eight-entry leap-day/March gate, plus a three-day January closeout and a three-day June closeout. The edited surface has 252 varied morning-impact lines, zero old Volume 1 impact templates, zero internal production labels, and zero Sunday mentions. This is continuing review progress, not final KDP upload approval.</p>
+      <p class="lead">Volume 1 Days 001-258 plus Leap Day has moved from structural manuscript into line-edited review surface across 35 seven-day batches, one eight-entry leap-day/March gate, plus a three-day January closeout and a three-day June closeout. The edited surface has 259 varied morning-impact lines, zero old Volume 1 impact templates, zero internal production labels, and zero Sunday mentions. This is continuing review progress, not final KDP upload approval.</p>
       <div class="grid">
         <article class="card">
           <span>Completed batch</span>
@@ -894,14 +894,19 @@ def dashboard_html(commit: str) -> str:
           <p>The first full September promise batch is now mirrored into public downloads and the Production Library with quiet beloved identity, unseen grace, dignity before performance, Saturday Sabbath blessing, patient sojourning, prepared next steps, and refined surrender.</p>
         </article>
         <article class="card">
+          <span>September week 2</span>
+          <h3>Volume 1 Days 252-258</h3>
+          <p>The second September promise batch is now mirrored into public downloads and the Production Library with surrendered repair, faithful road movement, ordinary rest, Saturday Sabbath mercy, widened welcome, presence for uncertainty, and awakened recognition.</p>
+        </article>
+        <article class="card">
           <span>Combined result</span>
-          <h3>252 varied impacts</h3>
-          <p>The repeated `Let the Father's love carry` impact frame has been removed from the completed Days 001-251 plus Leap Day surface.</p>
+          <h3>259 varied impacts</h3>
+          <p>The repeated `Let the Father's love carry` impact frame has been removed from the completed Days 001-258 plus Leap Day surface.</p>
         </article>
         <article class="card">
           <span>Guardrail</span>
           <h3>0 Sunday mentions</h3>
-          <p>The Adventist Sabbath frame remains seventh-day/Saturday and obedience remains response to grace in the full edited Days 001-251 plus Leap Day surface.</p>
+          <p>The Adventist Sabbath frame remains seventh-day/Saturday and obedience remains response to grace in the full edited Days 001-258 plus Leap Day surface.</p>
         </article>
       </div>
       <div class="actions">
@@ -942,6 +947,7 @@ def dashboard_html(commit: str) -> str:
         <a href="volume-1-days-231-237-line-edit.html">Open Days 231-237 Page</a>
         <a href="volume-1-days-238-244-line-edit.html">Open Days 238-244 Page</a>
         <a href="volume-1-days-245-251-line-edit.html">Open Days 245-251 Page</a>
+        <a href="volume-1-days-252-258-line-edit.html">Open Days 252-258 Page</a>
         <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-001-007/Lady-D-Volume-1-Days-001-007-Line-Edit-Pack.zip">Days 001-007 ZIP</a>
         <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-008-014/Lady-D-Volume-1-Days-008-014-Line-Edit-Pack.zip">Days 008-014 ZIP</a>
         <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-015-021/Lady-D-Volume-1-Days-015-021-Line-Edit-Pack.zip">Days 015-021 ZIP</a>
@@ -979,6 +985,7 @@ def dashboard_html(commit: str) -> str:
         <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-231-237/Lady-D-Volume-1-Days-231-237-Line-Edit-Pack.zip">Days 231-237 ZIP</a>
         <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-238-244/Lady-D-Volume-1-Days-238-244-Line-Edit-Pack.zip">Days 238-244 ZIP</a>
         <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-245-251/Lady-D-Volume-1-Days-245-251-Line-Edit-Pack.zip">Days 245-251 ZIP</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-252-258/Lady-D-Volume-1-Days-252-258-Line-Edit-Pack.zip">Days 252-258 ZIP</a>
         <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-008-014/volume-1-days-008-014-line-edit-report.pdf">Days 008-014 PDF</a>
         <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-008-014/volume-1-days-008-014-line-edit-report.docx">Days 008-014 DOCX</a>
         <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-008-014/volume-1-days-008-014-line-edit.json">Days 008-014 JSON</a>
@@ -1087,6 +1094,9 @@ def dashboard_html(commit: str) -> str:
         <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-245-251/volume-1-days-245-251-line-edit-report.pdf">Days 245-251 PDF</a>
         <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-245-251/volume-1-days-245-251-line-edit-report.docx">Days 245-251 DOCX</a>
         <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-245-251/volume-1-days-245-251-line-edit.json">Days 245-251 JSON</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-252-258/volume-1-days-252-258-line-edit-report.pdf">Days 252-258 PDF</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-252-258/volume-1-days-252-258-line-edit-report.docx">Days 252-258 DOCX</a>
+        <a href="downloads/production/kdp/author-voice-line-edit/volume-1-days-252-258/volume-1-days-252-258-line-edit.json">Days 252-258 JSON</a>
       </div>
     </section>
     <section>
@@ -1120,7 +1130,7 @@ def dashboard_html(commit: str) -> str:
     </section>
     <section>
       <h2>Active Recommendation</h2>
-      <p class="lead">Use the three devotional drafts, three companion journal drafts, release-upload readiness pack, trilogy proof audit pack, proof decision resolution pack, proof decision application pack, author decision sheet, author-voice copyedit gate, and Volume 1 Days 001-251 plus Leap Day line-edit batches as the next copyedit and theological proof surface. Continue next with Volume 1 Days 252-258, and do not mark any file as final upload-ready until the remaining author-voice line edits, ISBN/barcode, paper type, Bible permissions, KDP Previewer, and physical proof review pass.</p>
+      <p class="lead">Use the three devotional drafts, three companion journal drafts, release-upload readiness pack, trilogy proof audit pack, proof decision resolution pack, proof decision application pack, author decision sheet, author-voice copyedit gate, and Volume 1 Days 001-258 plus Leap Day line-edit batches as the next copyedit and theological proof surface. Continue next with Volume 1 Days 259-265, and do not mark any file as final upload-ready until the remaining author-voice line edits, ISBN/barcode, paper type, Bible permissions, KDP Previewer, and physical proof review pass.</p>
       <p><a href="production.html">Return to production review page</a></p>
     </section>
   </main>

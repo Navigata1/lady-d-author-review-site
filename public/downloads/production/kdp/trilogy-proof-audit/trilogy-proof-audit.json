@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "7b3e6ed",
+  "commit": "5c4dd2c",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369569,
+    "words": 369565,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1320,
-    "saturday_mentions": 229,
+    "sabbath_mentions": 1321,
+    "saturday_mentions": 230,
     "works_watch_contexts": 363,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128281,
+      "words": 128277,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -35,8 +35,8 @@
       "structure_status": "pass",
       "placeholders": 0,
       "sunday_mentions": 0,
-      "sabbath_mentions": 300,
-      "saturday_mentions": 90,
+      "sabbath_mentions": 301,
+      "saturday_mentions": 91,
       "works_watch_contexts": 216,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
@@ -1601,7 +1601,7 @@
       "kind": "Devotional",
       "term": "Performance",
       "line": 7473,
-      "snippet": "ful step today. --- <!-- Source: volume-1-days-259-265-manuscript.md --> ## Day 259 - September 16 ### Yield to Grace Before Performance **Scripture Reference:** Genesis 28:17 **Context and language lens:** Jacob's reverent fear at Bethel because the verse centers",
+      "snippet": "u had language. --- <!-- Source: volume-1-days-259-265-manuscript.md --> ## Day 259 - September 16 ### Yield to Grace Before Performance **Scripture Reference:** Genesis 28:17 **Context and language lens:** Jacob's reverent fear at Bethel because the verse centers",
       "preliminary_read": "likely grace-aligned"
     },
     {

@@ -7281,7 +7281,7 @@ The promise holds better than the performance of repair.
 
 **Journal prompt:** Where am I tempted to fix appearances before surrendering the deeper motive to God?
 
-**Morning impact:** Let the Father's love carry Come Home to the Promise That Holds into one faithful step today.
+**Morning impact:** Pause before repairing appearances today; let the Father search the motive underneath the move.
 
 ---
 
@@ -7311,7 +7311,7 @@ The Father can turn the road into a classroom of love.
 
 **Journal prompt:** What road is asking me to move with obedience instead of fear?
 
-**Morning impact:** Let the Father's love carry Practice the Heart That Calls You into one faithful step today.
+**Morning impact:** Take one honest step on the road today; obedience can move without pretending fear is gone.
 
 ---
 
@@ -7341,7 +7341,7 @@ Love sends, and love also watches over the place where you lay your head.
 
 **Journal prompt:** What ordinary or uncomfortable place might God be using as a meeting place?
 
-**Morning impact:** Let the Father's love carry Surrender to Love That Sends You into one faithful step today.
+**Morning impact:** Receive one ordinary resting place today; the Father may be nearer than the conditions suggest.
 
 ---
 
@@ -7371,7 +7371,7 @@ On this Sabbath, let covenant mercy speak louder than your need to climb.
 
 **Journal prompt:** What ladder of self-proving do I need to release this Sabbath?
 
-**Morning impact:** Let the Father's love carry Let Mercy Speak Covenant Mercy into one faithful step today.
+**Morning impact:** Rest this Saturday Sabbath beneath heaven's initiative; release every ladder of self-proving into mercy.
 
 ---
 
@@ -7401,7 +7401,7 @@ His welcome gives you room to breathe and room to bless.
 
 **Journal prompt:** Where is the Father inviting me to breathe wider than private survival?
 
-**Morning impact:** Let the Father's love carry Breathe the Father's Welcome into one faithful step today.
+**Morning impact:** Let welcome widen today; one received mercy can become room for someone else to breathe.
 
 ---
 
@@ -7431,7 +7431,7 @@ The Father who sends you also stays with you.
 
 **Journal prompt:** What uncertainty needs to be answered first by the promise, "I am with you"?
 
-**Morning impact:** Let the Father's love carry Hold Fast to Beloved Identity into one faithful step today.
+**Morning impact:** Answer one uncertainty with God's nearness today; you are kept before the road is finished.
 
 ---
 
@@ -7461,7 +7461,7 @@ The Father's love found you before you knew how to name it.
 
 **Journal prompt:** Where can I now see that God was present even when I did not know it?
 
-**Morning impact:** Let the Father's love carry Return to Love That Finds You into one faithful step today.
+**Morning impact:** Look back with gentleness today; God's nearness may have been present before you had language.
 
 ---
 

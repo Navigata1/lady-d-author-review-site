@@ -2700,6 +2700,84 @@ BATCHES = {
             "volume-1-days-245-251-audit.md",
         ),
     ),
+    "volume-1-days-252-258": Batch(
+        key="volume-1-days-252-258",
+        scope="Volume 1 Days 252-258",
+        title="Volume 1 Days 252-258 Line Edit",
+        intro=(
+            "The second September Promises That Do Not Fail batch of "
+            "Surrendering to God's Love has moved from structural manuscript "
+            "into line-level author-voice refinement. This pass removes the "
+            "repeated morning-impact frame while preserving surrendered "
+            "repair, obedient movement on the road, ordinary resting places "
+            "becoming meeting places, Saturday Sabbath mercy that releases "
+            "self-proving, welcome widening into blessing, God's faithful "
+            "presence on unfinished roads, and awakened recognition of "
+            "nearness already given."
+        ),
+        source_name="volume-1-days-252-258-manuscript.md",
+        public_page_name="volume-1-days-252-258-line-edit.html",
+        output_slug="volume-1-days-252-258-line-edit",
+        zip_name="Lady-D-Volume-1-Days-252-258-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 09 - September" / "Days 252-258 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 252-258",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 252",
+                "Let the Father's love carry Come Home to the Promise That Holds into one faithful step today.",
+                "Pause before repairing appearances today; let the Father search the motive underneath the move.",
+                "Keeps Genesis 28:9 focused on surrendered repair instead of image management.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 253",
+                "Let the Father's love carry Practice the Heart That Calls You into one faithful step today.",
+                "Take one honest step on the road today; obedience can move without pretending fear is gone.",
+                "Connects Genesis 28:10's departure to faithful movement without romanticizing exposure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 254",
+                "Let the Father's love carry Surrender to Love That Sends You into one faithful step today.",
+                "Receive one ordinary resting place today; the Father may be nearer than the conditions suggest.",
+                "Preserves Genesis 28:11's vulnerable resting place as a possible meeting place with God.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 255",
+                "Let the Father's love carry Let Mercy Speak Covenant Mercy into one faithful step today.",
+                "Rest this Saturday Sabbath beneath heaven's initiative; release every ladder of self-proving into mercy.",
+                "Keeps Genesis 28:12's ladder scene as God's initiative and protects the seventh-day Sabbath frame.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 256",
+                "Let the Father's love carry Breathe the Father's Welcome into one faithful step today.",
+                "Let welcome widen today; one received mercy can become room for someone else to breathe.",
+                "Applies Genesis 28:14's all-families blessing without turning Sunday into Sabbath language.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 257",
+                "Let the Father's love carry Hold Fast to Beloved Identity into one faithful step today.",
+                "Answer one uncertainty with God's nearness today; you are kept before the road is finished.",
+                "Turns Genesis 28:15's presence and keeping promise into beloved identity on an unfinished road.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 258",
+                "Let the Father's love carry Return to Love That Finds You into one faithful step today.",
+                "Look back with gentleness today; God's nearness may have been present before you had language.",
+                "Connects Genesis 28:16's awakened recognition to reflective trust without forcing certainty.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-september-week-2-companion-journal.md",
+            "volume-1-days-252-258-audit.md",
+        ),
+    ),
 }
 
 
@@ -3305,7 +3383,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-245-251")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-252-258")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

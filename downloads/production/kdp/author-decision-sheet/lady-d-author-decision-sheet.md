@@ -2,7 +2,7 @@
 
 Generated: 2026-07-08
 
-Repo commit at generation: `7b3e6ed`
+Repo commit at generation: `5c4dd2c`
 
 Author: Susan "Lady D" Damon
 
@@ -123,15 +123,15 @@ Freeze boundary: These hashes describe the current review surfaces only. Final f
 
 | File | Exists | Bytes | SHA-256 Prefix | Words |
 | --- | --- | ---: | --- | ---: |
-| `downloads/production/master/volume-1-master-interior-manuscript.md` | True | 785499 | `fe2b4de42f872090` | 128281 |
+| `downloads/production/master/volume-1-master-interior-manuscript.md` | True | 785535 | `363bcf01060a0a55` | 128277 |
 | `downloads/production/master/volume-2-master-interior-manuscript.md` | True | 602832 | `b41bff9329d4989e` | 95114 |
 | `downloads/production/master/volume-3-master-interior-manuscript.md` | True | 576827 | `97fa781cf0e4a237` | 91521 |
 | `downloads/production/master/volume-1-master-companion-journal.md` | True | 131758 | `48fbf32d67f70f06` | 19854 |
 | `downloads/production/master/volume-2-master-companion-journal.md` | True | 112931 | `a611a6eda81ad758` | 17134 |
 | `downloads/production/master/volume-3-master-companion-journal.md` | True | 117300 | `505e92e6676b1d27` | 17665 |
-| `downloads/production/kdp/interior-drafts/volume-1/volume-1-full-6x9-interior-draft.pdf` | True | 1593899 | `281206fcd79af26f` |  |
-| `downloads/production/kdp/interior-drafts/volume-2/volume-2-full-6x9-interior-draft.pdf` | True | 1374482 | `1eefb9f525600443` |  |
-| `downloads/production/kdp/interior-drafts/volume-3/volume-3-full-6x9-interior-draft.pdf` | True | 1348707 | `95018b3e8534e557` |  |
+| `downloads/production/kdp/interior-drafts/volume-1/volume-1-full-6x9-interior-draft.pdf` | True | 1642206 | `5c2ac0ef23a6e49b` |  |
+| `downloads/production/kdp/interior-drafts/volume-2/volume-2-full-6x9-interior-draft.pdf` | True | 1405179 | `019a85ab3257a8b8` |  |
+| `downloads/production/kdp/interior-drafts/volume-3/volume-3-full-6x9-interior-draft.pdf` | True | 1628589 | `a1ae0bea9ebaf985` |  |
 | `downloads/production/kdp/companion-journal-drafts/volume-1/volume-1-companion-journal-6x9-draft.pdf` | True | 983685 | `97e800d1951c8bfc` |  |
 | `downloads/production/kdp/companion-journal-drafts/volume-2/volume-2-companion-journal-6x9-draft.pdf` | True | 943804 | `54323dcbd2951d4c` |  |
 | `downloads/production/kdp/companion-journal-drafts/volume-3/volume-3-companion-journal-6x9-draft.pdf` | True | 951019 | `0d882796ce880cb5` |  |
