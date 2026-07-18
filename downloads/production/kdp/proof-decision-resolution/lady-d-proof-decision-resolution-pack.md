@@ -2,9 +2,9 @@
 
 Generated: 2026-07-01
 
-Repo commit at generation: `0e8eb8d`
+Repo commit at generation: `7b3e6ed`
 
-Source proof audit commit: `0e8eb8d`
+Source proof audit commit: `7b3e6ed`
 
 Author: Susan "Lady D" Damon
 
@@ -21,7 +21,7 @@ The current trilogy proof audit shows the prior proof decision queue has been cl
 - Repeated morning-impact decisions: 0
 - Theology context decisions: 0
 - Likely grace-aligned watch contexts retained for audit trail: 363
-- Source words checked by upstream audit: 369,579
+- Source words checked by upstream audit: 369,569
 - Sunday mentions in checked sources: 0
 - Placeholder markers in checked sources: 0
 

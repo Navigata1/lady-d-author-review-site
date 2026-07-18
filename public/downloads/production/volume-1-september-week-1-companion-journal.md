@@ -22,7 +22,7 @@ Practice: Start today by naming one place where God may already be preparing mer
 
 ### Day 247 Reflection
 
-Where has fear made me measure worth by visibility or performance?
+Where has fear made me measure worth by visibility or outward achievement?
 
 Practice: Honor one overlooked person today with attention, patience, or a practical act of dignity.
 

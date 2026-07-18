@@ -16,11 +16,11 @@
       "context_lens_labels": 1098,
       "internal_production_labels": 0,
       "translation_review_notes": 1,
-      "sabbath_mentions": 787,
-      "saturday_mentions": 192,
+      "sabbath_mentions": 788,
+      "saturday_mentions": 193,
       "sunday_mentions": 0,
       "placeholders": 0,
-      "words": 318747
+      "words": 318737
     },
     "by_volume": {
       "1": {
@@ -29,11 +29,11 @@
         "context_lens_labels": 366,
         "internal_production_labels": 0,
         "translation_review_notes": 0,
-        "sabbath_mentions": 297,
-        "saturday_mentions": 88,
+        "sabbath_mentions": 298,
+        "saturday_mentions": 89,
         "sunday_mentions": 0,
         "placeholders": 0,
-        "words": 129554
+        "words": 129544
       },
       "2": {
         "files": 54,
@@ -68,11 +68,11 @@
       "context_lens_labels": 1098,
       "internal_production_labels": 0,
       "translation_review_notes": 1,
-      "sabbath_mentions": 793,
-      "saturday_mentions": 195,
+      "sabbath_mentions": 794,
+      "saturday_mentions": 196,
       "sunday_mentions": 0,
       "placeholders": 0,
-      "words": 314926
+      "words": 314916
     },
     "by_volume": {
       "1": {
@@ -81,11 +81,11 @@
         "context_lens_labels": 366,
         "internal_production_labels": 0,
         "translation_review_notes": 0,
-        "sabbath_mentions": 299,
-        "saturday_mentions": 89,
+        "sabbath_mentions": 300,
+        "saturday_mentions": 90,
         "sunday_mentions": 0,
         "placeholders": 0,
-        "words": 128291
+        "words": 128281
       },
       "2": {
         "entries": 366,
@@ -353,14 +353,14 @@
         "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
       },
       {
-        "phrase": "Let the Father's love carry",
-        "count": 121,
-        "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
-      },
-      {
         "phrase": "Start from what God has",
         "count": 119,
         "action": "Review in the author-voice pass and vary where repetition sounds mechanical rather than intentional."
+      },
+      {
+        "phrase": "Let the Father's love carry",
+        "count": 114,
+        "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
       },
       {
         "phrase": "Judges",
@@ -431,7 +431,7 @@
     "morning_impact_patterns": [
       {
         "phrase": "Let the Father's love carry",
-        "count": 121,
+        "count": 114,
         "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
       },
       {
@@ -597,7 +597,7 @@
     {
       "type": "Morning impact pattern",
       "phrase": "Let the Father's love carry",
-      "count": 121,
+      "count": 114,
       "action": "Rewrite morning-impact lines so they carry the day's actual image rather than the title template."
     },
     {

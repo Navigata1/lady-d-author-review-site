@@ -2623,6 +2623,83 @@ BATCHES = {
             "volume-1-days-238-244-audit.md",
         ),
     ),
+    "volume-1-days-245-251": Batch(
+        key="volume-1-days-245-251",
+        scope="Volume 1 Days 245-251",
+        title="Volume 1 Days 245-251 Line Edit",
+        intro=(
+            "The first full September Promises That Do Not Fail batch of "
+            "Surrendering to God's Love has moved from structural manuscript "
+            "into line-level author-voice refinement. This pass removes the "
+            "repeated morning-impact frame while preserving quiet beloved "
+            "identity, unseen grace preparing future mercy, dignity before "
+            "performance, Saturday Sabbath mercy under blessing, patient "
+            "trust between promise and possession, the prepared next step, "
+            "and refining compassion when the heart sees more clearly."
+        ),
+        source_name="volume-1-days-245-251-manuscript.md",
+        public_page_name="volume-1-days-245-251-line-edit.html",
+        output_slug="volume-1-days-245-251-line-edit",
+        zip_name="Lady-D-Volume-1-Days-245-251-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 09 - September" / "Days 245-251 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 245-251",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 245",
+                "Let the Father's love carry Stand in Beloved Identity into one faithful step today.",
+                "Carry one quiet duty today as someone already seen, named, and loved by the Father.",
+                "Turns Genesis 22:22's quiet family-line dignity into grounded beloved identity.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 246",
+                "Let the Father's love carry Let Grace Form Love That Finds You into one faithful step today.",
+                "Name one unseen mercy today; grace may already be forming what love will need.",
+                "Preserves Genesis 22:23's Rebekah preparation without forcing visible proof.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 247",
+                "Let the Father's love carry Behold Grace Before Striving into one faithful step today.",
+                "Honor one overlooked life today; grace gives dignity before usefulness is proven.",
+                "Keeps Genesis 22:24's peripheral names from being measured by performance or utility.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 248",
+                "Let the Father's love carry Follow Mercy in the Morning into one faithful step today.",
+                "Rest this Saturday Sabbath under the Father's blessing; release the pressure to manufacture fruitfulness.",
+                "Keeps Genesis 28:3's Sabbath blessing frame as rest under God's fruitfulness, not striving.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 249",
+                "Let the Father's love carry Rest in the Father's Patience into one faithful step today.",
+                "Steward one unfinished place today; the Father's patience can hold promise before possession.",
+                "Applies Genesis 28:4's inheritance promise to faithful sojourning without Sunday/Sabbath drift.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 250",
+                "Let the Father's love carry Wake Up to Love Stronger Than Fear into one faithful step today.",
+                "Take the next prepared step today; love can guide the road before the whole map appears.",
+                "Connects Genesis 28:5's sending and prepared relationships to wise obedience beyond fear.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 251",
+                "Let the Father's love carry Let Fire Refine Restoring Compassion into one faithful step today.",
+                "Let one reaction be refined today; honest surrender can rise where resentment started.",
+                "Keeps Genesis 28:6's observation scene focused on conviction, refinement, and surrender.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-september-week-1-companion-journal.md",
+            "volume-1-days-245-251-audit.md",
+        ),
+    ),
 }
 
 
@@ -3228,7 +3305,7 @@ def build_batch(batch_key: str) -> dict[str, object]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-238-244")
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-245-251")
     args = parser.parse_args()
     print(json.dumps(build_batch(args.batch), indent=2))
 

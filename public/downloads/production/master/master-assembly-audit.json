@@ -66,9 +66,9 @@
       "day_entries": 365,
       "bonus_entries": 1,
       "scripture_references": 366,
-      "sabbath_mentions": 299,
+      "sabbath_mentions": 300,
       "sunday_mentions": 0,
-      "words": 130664,
+      "words": 130654,
       "output": "downloads/production/master/volume-1-master-interior-manuscript.md"
     },
     {

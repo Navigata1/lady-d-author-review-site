@@ -7068,7 +7068,7 @@ Your identity is not measured by how loudly the moment announces you.
 
 **Journal prompt:** Where do I need to receive that the Father sees me even when my role feels quiet or hidden?
 
-**Morning impact:** Let the Father's love carry Stand in Beloved Identity into one faithful step today.
+**Morning impact:** Carry one quiet duty today as someone already seen, named, and loved by the Father.
 
 ---
 
@@ -7098,7 +7098,7 @@ Promises that do not fail are not only preserved by strength. They are also carr
 
 **Journal prompt:** Where might God be preparing grace before I can see the full connection?
 
-**Morning impact:** Let the Father's love carry Let Grace Form Love That Finds You into one faithful step today.
+**Morning impact:** Name one unseen mercy today; grace may already be forming what love will need.
 
 ---
 
@@ -7128,7 +7128,7 @@ Grace stands before performance and says, "You are seen before you are useful."
 
 **Journal prompt:** Where has fear made me measure worth by visibility or outward achievement?
 
-**Morning impact:** Let the Father's love carry Behold Grace Before Striving into one faithful step today.
+**Morning impact:** Honor one overlooked life today; grace gives dignity before usefulness is proven.
 
 ---
 
@@ -7158,7 +7158,7 @@ On this Sabbath, let mercy order the morning. Rest before the Father as someone 
 
 **Journal prompt:** What pressure to manufacture fruitfulness do I need to surrender this Sabbath?
 
-**Morning impact:** Let the Father's love carry Follow Mercy in the Morning into one faithful step today.
+**Morning impact:** Rest this Saturday Sabbath under the Father's blessing; release the pressure to manufacture fruitfulness.
 
 ---
 
@@ -7188,7 +7188,7 @@ The temporary place is not proof that the promise failed.
 
 **Journal prompt:** Where am I tempted to despise a temporary season instead of trusting the Father's patient promise?
 
-**Morning impact:** Let the Father's love carry Rest in the Father's Patience into one faithful step today.
+**Morning impact:** Steward one unfinished place today; the Father's patience can hold promise before possession.
 
 ---
 
@@ -7218,7 +7218,7 @@ The Father's love is stronger than fear because He sees the road ahead and the r
 
 **Journal prompt:** What prepared thread from my past might God be connecting to the next step of obedience?
 
-**Morning impact:** Let the Father's love carry Wake Up to Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Take the next prepared step today; love can guide the road before the whole map appears.
 
 ---
 
@@ -7248,7 +7248,7 @@ Ask for a heart that can notice truth without turning bitter.
 
 **Journal prompt:** What has God allowed me to see that is asking for a more surrendered response?
 
-**Morning impact:** Let the Father's love carry Let Fire Refine Restoring Compassion into one faithful step today.
+**Morning impact:** Let one reaction be refined today; honest surrender can rise where resentment started.
 
 ---
 
