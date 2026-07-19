@@ -1,14 +1,14 @@
 {
   "generated": "2026-07-01",
-  "commit": "5c4dd2c",
+  "commit": "55a6f74",
   "result": "proof_ready_not_final_upload",
   "totals": {
     "products": 6,
-    "words": 369565,
+    "words": 369564,
     "placeholders": 0,
     "sunday_mentions": 0,
-    "sabbath_mentions": 1321,
-    "saturday_mentions": 230,
+    "sabbath_mentions": 1322,
+    "saturday_mentions": 231,
     "works_watch_contexts": 363,
     "review_required_contexts": 0,
     "duplicate_title_groups": 0,
@@ -22,7 +22,7 @@
       "kind": "Devotional",
       "title": "Surrendering to God's Love",
       "source": "downloads/production/master/volume-1-master-interior-manuscript.md",
-      "words": 128277,
+      "words": 128276,
       "structure_counts": {
         "day_entries": 365,
         "bonus_entries": 1,
@@ -35,8 +35,8 @@
       "structure_status": "pass",
       "placeholders": 0,
       "sunday_mentions": 0,
-      "sabbath_mentions": 301,
-      "saturday_mentions": 91,
+      "sabbath_mentions": 302,
+      "saturday_mentions": 92,
       "works_watch_contexts": 216,
       "review_required_contexts": 0,
       "duplicate_title_groups": 0,
@@ -1637,7 +1637,7 @@
       "kind": "Devotional",
       "term": "performance",
       "line": 7495,
-      "snippet": "t holy awe quiet my striving and make my next step surrendered to You. Amen. **Journal prompt:** Where am I tempted to rush into performance instead of reverently receiving God's nearness? **Morning impact:** Let the Father's love carry Yield to Grace Before Striving i",
+      "snippet": "t holy awe quiet my striving and make my next step surrendered to You. Amen. **Journal prompt:** Where am I tempted to rush into performance instead of reverently receiving God's nearness? **Morning impact:** Begin with reverent stillness today; grace may be calling yo",
       "preliminary_read": "likely grace-aligned"
     },
     {

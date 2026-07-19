@@ -34,7 +34,7 @@ The first faithful movement may be to bow before you build.
 
 **Journal prompt:** Where am I tempted to rush into performance instead of reverently receiving God's nearness?
 
-**Morning impact:** Let the Father's love carry Yield to Grace Before Striving into one faithful step today.
+**Morning impact:** Begin with reverent stillness today; grace may be calling you to bow before you build.
 
 ---
 
@@ -64,7 +64,7 @@ Let the first hours of the day become a witness.
 
 **Journal prompt:** What mercy from God needs to be marked before the day pulls my attention away?
 
-**Morning impact:** Let the Father's love carry Anchor Mercy in the Morning into one faithful step today.
+**Morning impact:** Mark one mercy before the day scatters it; remembrance can become obedience in the morning.
 
 ---
 
@@ -94,7 +94,7 @@ He can receive your honest need and teach it to trust.
 
 **Journal prompt:** What need do I need to bring honestly to the Father instead of hiding behind religious language?
 
-**Morning impact:** Let the Father's love carry Discover the Father's Patience into one faithful step today.
+**Morning impact:** Bring one honest need to the Father today; patience can teach a forming heart to trust.
 
 ---
 
@@ -124,7 +124,7 @@ Grace came first. Let worship answer it.
 
 **Journal prompt:** Where has fear made my devotion tense, and how can Sabbath rest return me to grace?
 
-**Morning impact:** Let the Father's love carry Receive Love Stronger Than Fear into one faithful step today.
+**Morning impact:** Rest this Saturday Sabbath in grace already given; let devotion answer love without bargaining.
 
 ---
 
@@ -154,7 +154,7 @@ Restoration begins with God meeting you on the way.
 
 **Journal prompt:** What difficult relational road needs God's compassion before I try to manage the outcome?
 
-**Morning impact:** Let the Father's love carry Trust Restoring Compassion into one faithful step today.
+**Morning impact:** Receive compassion before the hard conversation today; restoration can begin with God meeting you first.
 
 ---
 
@@ -184,7 +184,7 @@ Hope rises when obedience takes a humble first step.
 
 **Journal prompt:** What unresolved matter is asking for one wise step rather than another day of worry?
 
-**Morning impact:** Let the Father's love carry Let Hope Rise the Promise That Holds into one faithful step today.
+**Morning impact:** Send one humble step ahead of worry today; hope can move without controlling the outcome.
 
 ---
 
@@ -214,4 +214,4 @@ The promise calls the heart forward, and grace teaches the heart how to speak.
 
 **Journal prompt:** Where does my tone need to become more surrendered before I try to explain myself?
 
-**Morning impact:** Let the Father's love carry Carry the Heart That Calls You into one faithful step today.
+**Morning impact:** Let humility travel in your tone today; truth can serve restoration without carrying pride.
