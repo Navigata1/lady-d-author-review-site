@@ -29,30 +29,99 @@ books = [
         "vol": "Volume 1",
         "title": "Surrendering to God's Love",
         "subtitle": "A 365-day devotional journey into the Father's heart.",
-        "html": "book-1-surrendering-to-gods-love-review.html",
+        "html": "volume-1-revised-reader-edition.html",
         "cover": "production-assets/author-review-covers/volume-1-author-review-cover.png",
-        "pdf": "downloads/production/kdp/interior-drafts/volume-1/volume-1-full-6x9-interior-draft.pdf",
-        "journal": "downloads/production/kdp/companion-journal-drafts/volume-1/volume-1-companion-journal-6x9-draft.pdf",
+        "pdf": "downloads/production/revised-reader-edition/interiors/volume-1-revised-reader-edition-6x9.pdf",
+        "journal": "downloads/production/revised-reader-edition/interiors/volume-1-revised-companion-journal-6x9.pdf",
     },
     {
         "vol": "Volume 2",
         "title": "Walking with Jesus",
         "subtitle": "A 365-day devotional journey of daily discipleship.",
-        "html": "book-2-walking-with-jesus-review.html",
+        "html": "volume-2-revised-reader-edition.html",
         "cover": "production-assets/author-review-covers/volume-2-author-review-cover.png",
-        "pdf": "downloads/production/kdp/interior-drafts/volume-2/volume-2-full-6x9-interior-draft.pdf",
-        "journal": "downloads/production/kdp/companion-journal-drafts/volume-2/volume-2-companion-journal-6x9-draft.pdf",
+        "pdf": "downloads/production/revised-reader-edition/interiors/volume-2-revised-reader-edition-6x9.pdf",
+        "journal": "downloads/production/revised-reader-edition/interiors/volume-2-revised-companion-journal-6x9.pdf",
     },
     {
         "vol": "Volume 3",
         "title": "Filled with the Holy Spirit",
         "subtitle": "A 365-day devotional journey in Spirit-led living.",
-        "html": "book-3-filled-with-the-holy-spirit-review.html",
+        "html": "volume-3-revised-reader-edition.html",
         "cover": "production-assets/author-review-covers/volume-3-author-review-cover.png",
-        "pdf": "downloads/production/kdp/interior-drafts/volume-3/volume-3-full-6x9-interior-draft.pdf",
-        "journal": "downloads/production/kdp/companion-journal-drafts/volume-3/volume-3-companion-journal-6x9-draft.pdf",
+        "pdf": "downloads/production/revised-reader-edition/interiors/volume-3-revised-reader-edition-6x9.pdf",
+        "journal": "downloads/production/revised-reader-edition/interiors/volume-3-revised-companion-journal-6x9.pdf",
     },
 ]
+
+AUDITOR_REPORT = ROOT / "quality" / "auditor" / "post-rewrite-manuscript-audit.md"
+AUDITOR_JSON = ROOT / "quality" / "auditor" / "post-rewrite-manuscript-audit.json"
+JUDGE_REPORT = ROOT / "quality" / "judge" / "post-rewrite-editorial-judgment.md"
+QUALITY_DOWNLOADS = ROOT / "downloads" / "production" / "revised-reader-edition" / "quality"
+QUALITY_PUBLIC = PUBLIC / "downloads" / "production" / "revised-reader-edition" / "quality"
+
+
+def publish_quality_evidence() -> None:
+    for target in (QUALITY_DOWNLOADS, QUALITY_PUBLIC):
+        target.mkdir(parents=True, exist_ok=True)
+    evidence = (
+        (JUDGE_REPORT, "independent-editorial-judgment.md"),
+        (AUDITOR_REPORT, "independent-manuscript-audit.md"),
+        (AUDITOR_JSON, "independent-manuscript-audit.json"),
+    )
+    for source, name in evidence:
+        if not source.exists():
+            continue
+        shutil.copy2(source, QUALITY_DOWNLOADS / name)
+        shutil.copy2(source, QUALITY_PUBLIC / name)
+
+
+def quality_status() -> dict[str, object]:
+    status: dict[str, object] = {
+        "auditor_verdict": "IN REVIEW",
+        "auditor_score": 0,
+        "judge_verdict": "IN REVIEW",
+        "judge_score": 0,
+    }
+    if AUDITOR_JSON.exists():
+        payload = json.loads(AUDITOR_JSON.read_text(encoding="utf-8"))
+        status["auditor_verdict"] = payload.get("manuscript_gate", {}).get("verdict", "IN REVIEW")
+        status["auditor_score"] = payload.get("editorial_score", {}).get("score", 0)
+    if JUDGE_REPORT.exists():
+        text = JUDGE_REPORT.read_text(encoding="utf-8")
+        verdict_match = re.search(
+            r"Manuscript editorial (?:quality|verdict)[^\n]{0,30}?(PASS|HOLD)",
+            text,
+            flags=re.I,
+        )
+        score_match = re.search(
+            r"Manuscript editorial (?:quality|verdict)[^\n]{0,60}?(\d{1,3})/100",
+            text,
+            flags=re.I,
+        )
+        if verdict_match:
+            status["judge_verdict"] = verdict_match.group(1).upper()
+        if score_match:
+            status["judge_score"] = int(score_match.group(1))
+    status["manuscript_gates_pass"] = (
+        status["auditor_verdict"] == "PASS" and status["judge_verdict"] == "PASS"
+    )
+    return status
+
+
+QUALITY = quality_status()
+QUALITY_BADGE = "Independent manuscript gates passed" if QUALITY["manuscript_gates_pass"] else "Editorial gate requires review"
+EDITORIAL_NEXT_ACTION = (
+    "Manuscript gates cleared; proceed to KDP Previewer and physical-proof review."
+    if QUALITY["manuscript_gates_pass"]
+    else "Resolve the findings in the independent judge and auditor reports before publication wording."
+)
+CONTENT_STATUS = (
+    "Transcript-directed rewrite and independent manuscript gates complete; KDP Previewer and physical proof remain pending."
+    if QUALITY["manuscript_gates_pass"]
+    else "Transcript-directed rewrite built; independent editorial findings still require resolution."
+)
+publish_quality_evidence()
 
 STYLE = r"""
 :root{
@@ -63,19 +132,19 @@ STYLE = r"""
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{margin:0;background:linear-gradient(180deg,#eef7f4,#fffaf1 46%,#f5efe2);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.55}
+body{margin:0;background:#eef7f4;color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.55}
 a{color:var(--teal);font-weight:850}
 .nav{position:sticky;top:0;z-index:15;background:rgba(18,55,71,.96);backdrop-filter:blur(16px);display:flex;gap:10px;flex-wrap:wrap;align-items:center;padding:12px 18px}
 .nav a,.nav span{color:white;text-decoration:none;font-size:13px;font-weight:850;padding:8px 11px;border-radius:999px;background:rgba(255,255,255,.09)}
 .nav .brand{background:transparent;color:#f7d58f}
 .wrap{max-width:1120px;margin:auto;padding:34px 18px 78px}
-.hero{display:grid;grid-template-columns:1fr 190px;gap:26px;align-items:center;background:linear-gradient(135deg,var(--deep),var(--teal) 64%,var(--gold));color:white;border-radius:8px;padding:42px;box-shadow:var(--shadow);overflow:hidden}
+.hero{display:grid;grid-template-columns:1fr 190px;gap:26px;align-items:center;background:var(--deep);color:white;border:1px solid #365969;border-bottom:5px solid var(--gold);border-radius:8px;padding:42px;box-shadow:var(--shadow);overflow:hidden}
 .hero-logo{width:160px;max-width:100%;border-radius:28px;filter:drop-shadow(0 18px 35px rgba(0,0,0,.22))}
-.kicker{text-transform:uppercase;letter-spacing:.16em;color:var(--gold);font-size:12px;font-weight:950}
+.kicker{text-transform:uppercase;letter-spacing:0;color:var(--gold);font-size:12px;font-weight:950}
 .hero .kicker{color:#f9dda2}
 h1,h2,h3{line-height:1.06;margin:0 0 14px}
-h1{font-size:clamp(34px,5.8vw,70px);letter-spacing:-.035em}
-h2{font-size:clamp(27px,3.2vw,42px);letter-spacing:-.02em}
+h1{font-size:clamp(34px,5.8vw,70px);letter-spacing:0}
+h2{font-size:clamp(27px,3.2vw,42px);letter-spacing:0}
 h3{font-size:21px}
 p{margin:0 0 12px}
 .lead{font-size:clamp(18px,2vw,22px);max-width:900px}
@@ -84,9 +153,9 @@ p{margin:0 0 12px}
 .card{grid-column:span 6;background:rgba(255,255,255,.98);border:1px solid var(--line);border-radius:8px;padding:24px;box-shadow:var(--shadow)}
 .third{grid-column:span 4}.mini{grid-column:span 3}.full{grid-column:1/-1}
 .gold-top{border-top:7px solid var(--gold)}.teal-top{border-top:7px solid var(--teal)}.coral-top{border-top:7px solid var(--coral)}
-.badge,.chip{display:inline-flex;align-items:center;border-radius:999px;background:#eaf5f2;color:#07524f;border:1px solid #cae0db;padding:7px 10px;font-size:12px;font-weight:900;text-transform:uppercase;letter-spacing:.06em;margin:3px}
+.badge,.chip{display:inline-flex;align-items:center;border-radius:999px;background:#eaf5f2;color:#07524f;border:1px solid #cae0db;padding:7px 10px;font-size:12px;font-weight:900;text-transform:uppercase;letter-spacing:0;margin:3px}
 .btn{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;border:1px solid var(--line);border-radius:8px;padding:13px 18px;margin:6px 8px 6px 0;color:#122c2d;background:white;font-weight:950;min-width:150px}
-.btn.gold{background:linear-gradient(135deg,var(--gold),#efc96c);color:#102b2d;border:0}.btn.teal{background:var(--teal);color:white;border:0}.btn.dark{background:var(--deep);color:white;border:0}.btn.coral{background:var(--coral);color:white;border:0}
+.btn.gold{background:var(--gold);color:#102b2d;border:0}.btn.teal{background:var(--teal);color:white;border:0}.btn.dark{background:var(--deep);color:white;border:0}.btn.coral{background:var(--coral);color:white;border:0}
 .muted{color:var(--muted)}.stat strong{display:block;font-size:43px;line-height:1;color:var(--deep);font-weight:650}
 .book{display:grid;grid-template-columns:126px 1fr;gap:18px;align-items:center}
 .book img{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:6px;box-shadow:0 16px 38px rgba(10,45,48,.18)}
@@ -95,11 +164,11 @@ p{margin:0 0 12px}
 .cover-card img{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:6px;box-shadow:0 12px 28px rgba(10,45,48,.14)}
 .table{width:100%;border-collapse:separate;border-spacing:0;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#fff}
 .table th,.table td{text-align:left;vertical-align:top;padding:12px 13px;border-bottom:1px solid var(--line)}
-.table th{background:var(--deep);color:white;text-transform:uppercase;font-size:.78rem;letter-spacing:.08em}
+.table th{background:var(--deep);color:white;text-transform:uppercase;font-size:.78rem;letter-spacing:0}
 .table tr:last-child td{border-bottom:0}
 .callout{border-left:6px solid var(--teal);background:#f2faf7;border-radius:8px;padding:16px 18px}
 .warning{border-left-color:var(--coral);background:#fff5ef}
-.money{background:linear-gradient(135deg,var(--deep),var(--teal));color:white;border-radius:8px;padding:26px}
+.money{background:var(--deep);color:white;border-radius:8px;padding:26px}
 .money .big{font-size:58px;line-height:1;font-weight:450}
 .paybox{background:#fff7ea;border:1px solid #ecd6b3;border-radius:8px;padding:22px}
 .page{max-width:1120px;margin:22px auto;background:white;border:1px solid var(--line);box-shadow:0 18px 55px rgba(10,45,48,.08);padding:38px 46px;border-radius:8px;break-after:page}
@@ -125,10 +194,10 @@ p{margin:0 0 12px}
 REPORT_STYLE = r"""
 :root{color-scheme:dark;--bg:#070f1c;--paper:#0d1b2f;--paper-2:#10243b;--ink:#eef6ff;--muted:#a9bdd3;--line:rgba(169,189,211,.18);--accent:#58d7b3;--blue:#77b7ff;--amber:#ffd166;--red:#ff8f8f;--good:#8ef2c0;--violet:#c4a7ff}
 *{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at top left,rgba(88,215,179,.16),transparent 30rem),radial-gradient(circle at top right,rgba(119,183,255,.14),transparent 32rem),var(--bg);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.55}
-main{width:min(1180px,calc(100% - 32px));margin:0 auto;padding:42px 0 64px}h1,h2,h3{margin:0;line-height:1.12}h1{max-width:950px;margin-top:10px;font-size:clamp(2.15rem,5.4vw,4.25rem);letter-spacing:-.04em}h2{margin-bottom:16px;font-size:clamp(1.45rem,3vw,2.05rem)}h3{margin-bottom:8px;font-size:1.05rem;color:#fff}p{margin:0}a{color:var(--blue)}code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.9em;color:#dff7ef}.eyebrow{color:var(--accent);font-size:.78rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase}
+main{width:min(1180px,calc(100% - 32px));margin:0 auto;padding:42px 0 64px}h1,h2,h3{margin:0;line-height:1.12}h1{max-width:950px;margin-top:10px;font-size:clamp(2.15rem,5.4vw,4.25rem);letter-spacing:0}h2{margin-bottom:16px;font-size:clamp(1.45rem,3vw,2.05rem)}h3{margin-bottom:8px;font-size:1.05rem;color:#fff}p{margin:0}a{color:var(--blue)}code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.9em;color:#dff7ef}.eyebrow{color:var(--accent);font-size:.78rem;font-weight:800;letter-spacing:0;text-transform:uppercase}
 .hero{display:grid;grid-template-columns:minmax(0,1fr) 350px;gap:26px;align-items:end;padding:24px 0 34px;border-bottom:1px solid var(--line)}.hero .summary{max-width:780px;margin-top:18px;color:var(--muted);font-size:1.08rem}
-.panel,.verdict-card,.task,.lane,.finding,.phase-card,.metric{border:1px solid var(--line);border-radius:16px;background:linear-gradient(180deg,var(--paper-2),var(--paper));box-shadow:0 18px 46px rgba(0,0,0,.25)}.verdict-card{padding:22px}.task,.lane,.metric{padding:18px}.verdict-card strong{display:block;color:var(--accent);font-size:1.65rem;line-height:1.1}.verdict-card span{display:block;margin-top:10px;color:var(--muted);font-size:.95rem}section{padding-top:38px}.grid{display:grid;gap:16px}.grid.two{grid-template-columns:repeat(2,minmax(0,1fr))}.grid.three{grid-template-columns:repeat(3,minmax(0,1fr))}.grid.four{grid-template-columns:repeat(4,minmax(0,1fr))}.panel{padding:20px}.panel p,li,.muted{color:var(--muted)}.metric strong{display:block;margin-bottom:6px;color:#fff;font-size:1.75rem;line-height:1}.chip{display:inline-flex;align-items:center;border:1px solid var(--line);border-radius:999px;padding:4px 10px;margin:2px 4px 2px 0;background:rgba(255,255,255,.05);color:var(--muted);font-size:.78rem;font-weight:800}.chip.red{color:var(--red);border-color:rgba(255,143,143,.4)}.chip.amber{color:var(--amber);border-color:rgba(255,209,102,.4)}.chip.green{color:var(--good);border-color:rgba(142,242,192,.4)}.chip.blue{color:var(--blue);border-color:rgba(119,183,255,.4)}.chip.violet{color:var(--violet);border-color:rgba(196,167,255,.4)}
-ul{margin:10px 0 0;padding-left:20px}li+li{margin-top:7px}table{width:100%;border-collapse:collapse;margin-top:8px;font-size:.92rem}th,td{border:1px solid var(--line);padding:10px 12px;text-align:left;vertical-align:top}th{background:rgba(255,255,255,.05);color:#fff;font-size:.8rem;letter-spacing:.06em;text-transform:uppercase}td{color:var(--muted)}td b,td strong{color:#fff}.table-wrap{overflow-x:auto;border-radius:12px}.finding{padding:16px 18px;margin-top:10px}.finding .sev{font-weight:900;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;margin-right:8px}.sev.high{color:var(--red)}.sev.medium{color:var(--amber)}.sev.low{color:var(--blue)}.finding h3{display:inline;font-size:.98rem}.finding p{margin-top:6px;font-size:.92rem}.phase-card{display:grid;grid-template-columns:92px 1fr;gap:18px;padding:22px;margin-top:14px}.phase-num{display:grid;place-items:center;width:72px;height:72px;border-radius:18px;background:rgba(88,215,179,.12);color:var(--accent);font-weight:950;font-size:1.5rem}.phase-card.p0 .phase-num{background:rgba(255,143,143,.12);color:var(--red)}.phase-card.p1 .phase-num{background:rgba(255,209,102,.12);color:var(--amber)}.phase-card.p3 .phase-num{background:rgba(119,183,255,.12);color:var(--blue)}.phase-card.p4 .phase-num{background:rgba(196,167,255,.12);color:var(--violet)}.phase-meta{margin-top:4px;font-size:.85rem;color:var(--accent);font-weight:800}.footer-note{margin-top:40px;border-top:1px solid var(--line);padding-top:18px;color:var(--muted);font-size:.92rem}.kicker{color:var(--muted);margin-bottom:14px;max-width:860px}.report-nav{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:22px}.report-nav a{color:#fff;text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:7px 10px;background:rgba(255,255,255,.05);font-size:.8rem;font-weight:800}
+.panel,.verdict-card,.task,.lane,.finding,.phase-card,.metric{border:1px solid var(--line);border-radius:16px;background:var(--paper);box-shadow:0 18px 46px rgba(0,0,0,.25)}.verdict-card{padding:22px}.task,.lane,.metric{padding:18px}.verdict-card strong{display:block;color:var(--accent);font-size:1.65rem;line-height:1.1}.verdict-card span{display:block;margin-top:10px;color:var(--muted);font-size:.95rem}section{padding-top:38px}.grid{display:grid;gap:16px}.grid.two{grid-template-columns:repeat(2,minmax(0,1fr))}.grid.three{grid-template-columns:repeat(3,minmax(0,1fr))}.grid.four{grid-template-columns:repeat(4,minmax(0,1fr))}.panel{padding:20px}.panel p,li,.muted{color:var(--muted)}.metric strong{display:block;margin-bottom:6px;color:#fff;font-size:1.75rem;line-height:1}.chip{display:inline-flex;align-items:center;border:1px solid var(--line);border-radius:999px;padding:4px 10px;margin:2px 4px 2px 0;background:rgba(255,255,255,.05);color:var(--muted);font-size:.78rem;font-weight:800}.chip.red{color:var(--red);border-color:rgba(255,143,143,.4)}.chip.amber{color:var(--amber);border-color:rgba(255,209,102,.4)}.chip.green{color:var(--good);border-color:rgba(142,242,192,.4)}.chip.blue{color:var(--blue);border-color:rgba(119,183,255,.4)}.chip.violet{color:var(--violet);border-color:rgba(196,167,255,.4)}
+ul{margin:10px 0 0;padding-left:20px}li+li{margin-top:7px}table{width:100%;border-collapse:collapse;margin-top:8px;font-size:.92rem}th,td{border:1px solid var(--line);padding:10px 12px;text-align:left;vertical-align:top}th{background:rgba(255,255,255,.05);color:#fff;font-size:.8rem;letter-spacing:0;text-transform:uppercase}td{color:var(--muted)}td b,td strong{color:#fff}.table-wrap{overflow-x:auto;border-radius:12px}.finding{padding:16px 18px;margin-top:10px}.finding .sev{font-weight:900;font-size:.72rem;letter-spacing:0;text-transform:uppercase;margin-right:8px}.sev.high{color:var(--red)}.sev.medium{color:var(--amber)}.sev.low{color:var(--blue)}.finding h3{display:inline;font-size:.98rem}.finding p{margin-top:6px;font-size:.92rem}.phase-card{display:grid;grid-template-columns:92px 1fr;gap:18px;padding:22px;margin-top:14px}.phase-num{display:grid;place-items:center;width:72px;height:72px;border-radius:18px;background:rgba(88,215,179,.12);color:var(--accent);font-weight:950;font-size:1.5rem}.phase-card.p0 .phase-num{background:rgba(255,143,143,.12);color:var(--red)}.phase-card.p1 .phase-num{background:rgba(255,209,102,.12);color:var(--amber)}.phase-card.p3 .phase-num{background:rgba(119,183,255,.12);color:var(--blue)}.phase-card.p4 .phase-num{background:rgba(196,167,255,.12);color:var(--violet)}.phase-meta{margin-top:4px;font-size:.85rem;color:var(--accent);font-weight:800}.footer-note{margin-top:40px;border-top:1px solid var(--line);padding-top:18px;color:var(--muted);font-size:.92rem}.kicker{color:var(--muted);margin-bottom:14px;max-width:860px}.report-nav{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:22px}.report-nav a{color:#fff;text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:7px 10px;background:rgba(255,255,255,.05);font-size:.8rem;font-weight:800}
 @media(max-width:900px){main{width:min(100% - 24px,760px);padding-top:24px}.hero,.grid.two,.grid.three,.grid.four{grid-template-columns:1fr}.phase-card{grid-template-columns:1fr}}
 @media print{body{background:#07101d;color:#eef6ff;print-color-adjust:exact;-webkit-print-color-adjust:exact}main{width:auto;padding:.08in}.report-nav{display:none}h1{font-size:42px!important}h2{font-size:24px!important;margin-bottom:10px}.hero{grid-template-columns:1fr;gap:14px;padding:0 0 18px}.hero .summary{font-size:.96rem;margin-top:10px}.verdict-card{padding:16px}.verdict-card strong{font-size:1.32rem}.verdict-card span{font-size:.86rem}.chip{font-size:.68rem;padding:3px 8px}.verdict-card,.panel,.finding,.metric,.phase-card{break-inside:avoid}.phase-card{padding:14px;margin-top:8px;gap:12px;grid-template-columns:64px 1fr}.phase-num{width:52px;height:52px;border-radius:14px}section{break-inside:auto;padding-top:24px}.grid{gap:10px}a{color:#bfe2ff}}
 """
@@ -158,7 +227,7 @@ def book_cards(buttons: bool = True) -> str:
         if buttons:
             links = f'<a class="btn gold" href="{b["html"]}">Open HTML book</a><a class="btn" href="{b["pdf"]}">Book PDF</a><a class="btn" href="{b["journal"]}">Journal PDF</a>'
         pieces.append(
-            f"""<article class="card book"><img src="{b['cover']}" alt="{b['title']} cover"><div><div class="kicker">{b['vol']} - devotional + journal</div><h3>{b['title']}</h3><p class="muted">{b['subtitle']}</p><p><span class="badge">HTML review</span><span class="badge">PDF proof lane</span><span class="badge">Companion journal</span></p>{links}</div></article>"""
+            f"""<article class="card book"><img src="{b['cover']}" alt="{b['title']} cover"><div><div class="kicker">{b['vol']} - revised reader edition</div><h3>{b['title']}</h3><p class="muted">{b['subtitle']}</p><p><span class="badge">366 readings</span><span class="badge">6 x 9 review proof</span><span class="badge">Companion journal</span></p>{links}</div></article>"""
         )
     return "".join(pieces)
 
@@ -279,14 +348,15 @@ hub_body = f"""
 <main class="wrap"><header class="hero"><div><div class="kicker">Lady D - IDC Publishing Command Hub</div><h1>Susan Damon Publishing Hub</h1><p class="lead">One clean place for Mrs. Susan Damon to access the corrected invoice/proposal, author-review portal, live project dashboard, State of the Union, Plan of Attack, devotional books, companion journals, and future Lady D product website.</p></div><img class="hero-logo" src="{LOGO}" alt="Island Development Crew palm logo"></header>
 <section class="grid"><article class="card third stat"><strong>{money(PACKAGE_TOTAL)}</strong><span>Current package</span></article><article class="card third stat"><strong>{money(PAID_TOTAL)}</strong><span>Paid to date</span></article><article class="card third stat"><strong>{money(BALANCE_DUE)}</strong><span>Remaining balance</span></article></section>
 <section class="grid"><article class="card gold-top"><h2>Proposal & Execute-Ready Invoice</h2><p>The corrected proposal/invoice: updated scope, {money(PACKAGE_TOTAL)} package total, {money(PAID_TOTAL)} paid credit, {money(BALANCE_DUE)} remaining balance, product-cover exhibits, separated testimony lane, terms, signatures, and payment-link status.</p><a class="btn gold" href="susan-damon-publishing-proposal.html">View proposal</a><a class="btn" href="susan-damon-publishing-proposal.pdf">Download PDF</a><a class="btn teal" href="{PAYMENT_LINK}">Prepare {money(BALANCE_DUE)} link</a><p class="muted">Also: <a href="susan-damon-expanded-invoice.html">invoice mirror</a> - <a href="susan-damon-expanded-invoice.pdf">invoice PDF mirror</a></p></article><article class="card teal-top"><h2>Enhanced State & Plan</h2><p>The new enhanced artifacts absorb the latest July 6 guidance: better devotional depth, scripture visibility, KJV/NKJV policy, less mechanical scripture order, cover upgrades, 31-day visual devotional prompt lane, and a reusable client package template.</p><a class="btn dark" href="{ENHANCED_STATE_REPORT}">Enhanced State</a><a class="btn" href="{ENHANCED_PLAN_REPORT}">Enhanced Plan</a><p class="muted">Prior correction pages remain available: <a href="lady-d-state-of-the-union-2026-07-08.html">July 8 State</a> - <a href="lady-d-plan-of-attack-2026-07-08.html">July 8 Plan</a></p></article></section>
-<section class="grid"><article class="card full"><h2>Devotional Library</h2><p class="lead">HTML review editions are available now. PDF proof lanes are staged and will be upgraded as final proof PDFs are generated.</p><div class="grid">{book_cards()}</div></article></section>
+<section class="grid"><article class="card full teal-top"><div class="kicker">Transcript-directed rewrite</div><h2>Revised Reader Edition</h2><p class="lead">All three 366-reading devotionals and all three matching companion journals have been rebuilt from the July 6 author guidance with full KJV Scripture, stronger devotional movement, fused daily response, and true 6 x 9 review proofs.</p><p><span class="badge">1,098 devotionals</span><span class="badge">1,098 journal units</span><span class="badge">{QUALITY_BADGE}</span><span class="badge">Judge {QUALITY['judge_verdict']} {QUALITY['judge_score']}/100</span><span class="badge">Auditor {QUALITY['auditor_verdict']} {QUALITY['auditor_score']}/100</span></p><a class="btn gold" href="lady-d-revised-trilogy.html">Open revised trilogy</a><a class="btn" href="downloads/production/revised-reader-edition/interiors/Lady-D-Revised-Reader-Edition-Interiors.zip">Download six-interior proof pack</a><a class="btn" href="downloads/production/revised-reader-edition/quality/independent-editorial-judgment.md">Read judge report</a><a class="btn" href="downloads/production/revised-reader-edition/quality/independent-manuscript-audit.md">Read auditor report</a><p class="muted">Review proof only. Public/KDP release remains on hold until KDP Previewer and an approved physical proof are documented, even when the manuscript gates pass.</p></article></section>
+<section class="grid"><article class="card full"><h2>Devotional Library</h2><p class="lead">Open the current revised HTML reader editions or the matching 6 x 9 devotional and journal proofs.</p><div class="grid">{book_cards()}</div></article></section>
 <section class="grid"><article class="card coral-top"><h2>Separated Testimony Lane</h2><p>Juan Damon testimony/autobiography work is no longer included in the current {money(PACKAGE_TOTAL)} invoice. It remains valuable, but it needs separate intake, family/content boundaries, approval checkpoints, and pricing.</p><a class="btn" href="lady-d-project-dashboard.html#testimony">View separated lane</a></article><article class="card"><h2>Lady D Website</h2><p>A public-facing product website shell is attached for future books, journals, KDP/Gumroad links, devotional samples, and ministry products.</p><a class="btn gold" href="lady-d-author-site.html">Open Lady D site</a></article></section></main>
 """
 
 dashboard_body = f"""
 <main class="wrap"><header class="hero"><div><div class="kicker">Live Publishing Dashboard - Lady D</div><h1>Project Dashboard</h1><p class="lead">Current operating view for completing the corrected publishing package without losing scope, author voice, or proof discipline.</p><p><span class="badge">Portal live</span><span class="badge">Invoice corrected</span><span class="badge">Payment link pending</span><span class="badge">Testimony separated</span></p></div><img class="hero-logo" src="{LOGO}" alt="Island Development Crew palm logo"></header>
 <section class="grid"><article class="card mini stat"><strong>3</strong><span>Devotional books</span></article><article class="card mini stat"><strong>3</strong><span>Companion journals</span></article><article class="card mini stat"><strong>1</strong><span>31-day visual devotional</span></article><article class="card mini stat"><strong>{money(BALANCE_DUE)}</strong><span>Balance due</span></article></section>
-<section class="grid"><article class="card full"><h2>Completion Gates</h2><table class="table"><tr><th>Gate</th><th>Status</th><th>Next action</th></tr><tr><td>Proposal / invoice</td><td>Corrected</td><td>Mrs. Damon can view HTML and download PDF; create the new {money(BALANCE_DUE)} Stripe checkout before sending externally.</td></tr><tr><td>Author review portal</td><td>Live</td><td>Review three devotional HTML books and companion journal PDF lanes.</td></tr><tr><td>Source freeze</td><td>Pending</td><td>Create final book registry and canonical source list.</td></tr><tr><td>KDP proof files</td><td>Pending</td><td>Generate final interiors, wraps, and Previewer evidence.</td></tr><tr><td>Physical proof</td><td>Pending</td><td>Order/inspect proofs before public publishing.</td></tr></table></article></section>
+<section class="grid"><article class="card full"><h2>Completion Gates</h2><table class="table"><tr><th>Gate</th><th>Status</th><th>Next action</th></tr><tr><td>Proposal / invoice</td><td>Corrected</td><td>Mrs. Damon can view HTML and download PDF; create the new {money(BALANCE_DUE)} Stripe checkout before sending externally.</td></tr><tr><td>Revised reader editions</td><td>Review proof built</td><td>Review three rewritten HTML books, three 6 x 9 devotional proofs, and three companion-journal proofs.</td></tr><tr><td>Independent editorial gate</td><td>Judge {QUALITY['judge_verdict']} / Auditor {QUALITY['auditor_verdict']}</td><td>{EDITORIAL_NEXT_ACTION}</td></tr><tr><td>KDP proof files</td><td>Pending final gate</td><td>Run final interiors and wraps through KDP Previewer after editorial approval.</td></tr><tr><td>Physical proof</td><td>Pending</td><td>Order and inspect proofs before public publishing.</td></tr></table></article></section>
 <section id="testimony" class="grid"><article class="card full coral-top"><h2>Juan Damon Testimony Lane - Separate Scope</h2><table class="table"><tr><th>Step</th><th>Status / action</th></tr><tr><td>Scope</td><td>Separated from the current {money(PACKAGE_TOTAL)} publishing package and not part of the {money(BALANCE_DUE)} remaining balance.</td></tr><tr><td>Source Intake</td><td>Future work should collect testimony source material, family details, photos, recordings, written notes, and sensitive content boundaries.</td></tr><tr><td>Structure</td><td>Build a reverent testimony/memorial book outline only after approval and separate payment terms.</td></tr><tr><td>Production</td><td>Move through source lock, draft, family review, interior formatting, cover, proofing, and KDP/digital prep as its own project.</td></tr></table></article></section></main>
 """
 
@@ -313,7 +383,7 @@ state_body = f"""
   <div class="grid two" style="margin-top:18px"><article class="panel"><h3>What is genuinely excellent</h3><ul><li>Three-volume devotional architecture with companion journals.</li><li>Live author-review portal with product links and dashboards.</li><li>KDP proof/readiness packs that state boundaries honestly.</li><li>Strong visual cover assets that make the invoice feel tangible.</li></ul></article><article class="panel"><h3>Structural debt to burn down</h3><ul><li>Create the real {money(BALANCE_DUE)} Stripe link.</li><li>Freeze source manifests and remove stale public paths from active navigation.</li><li>Complete final author decisions before more generation.</li><li>Run KDP Previewer and physical proof before public launch language.</li></ul></article></div>
 </section>
 <section><h2>Reference Pattern Decision</h2><p class="kicker">The final client-package template should borrow different strengths from each source rather than copying one page wholesale.</p><div class="table-wrap"><table><thead><tr><th>Reference</th><th>Best strength to preserve</th><th>How Lady D now uses it</th></tr></thead><tbody><tr><td><strong>Lady D author review</strong></td><td>Warm author/product review environment.</td><td>Keep the book-first portal and devotionally gentle voice.</td></tr><tr><td><strong>Oakwood AI Lab IDC</strong></td><td>Clean IDC proposal structure, logo, price cards, client package clarity.</td><td>Use the IDC palette, logo lockup, pricing box, and hub model.</td></tr><tr><td><strong>Joyce publishing site</strong></td><td>Elegant author navigation and literary polish.</td><td>Use smoother mobile navigation and a richer public author shell.</td></tr><tr><td><strong>Martin Electric estimate</strong></td><td>Photo/product appendix makes scope concrete.</td><td>Use book-cover exhibits in the invoice instead of a words-only quote.</td></tr></tbody></table></div></section>
-<section><h2>Baseline to Target</h2><div class="table-wrap"><table><thead><tr><th>Dimension</th><th>Baseline</th><th>Target gate</th><th>Status</th></tr></thead><tbody><tr><td><strong>Invoice/payment</strong></td><td>Stale balance and retired checkout language.</td><td>Correct {money(BALANCE_DUE)} link created and inserted.</td><td>Document fixed; Stripe link pending.</td></tr><tr><td><strong>Scope</strong></td><td>Testimony bundled into current package.</td><td>Current package excludes testimony; separate scope available later.</td><td>Fixed in generated pages.</td></tr><tr><td><strong>Content depth</strong></td><td>Lady D described some drafts as sterile because scripture text, voice, and prompt clarity were not fully finished.</td><td>Scripture present, voice-filter pass complete, context language resolved, prompts simplified, journals human-finished.</td><td>Needs next production pass.</td></tr><tr><td><strong>Publishing readiness</strong></td><td>Production candidate artifacts exist.</td><td>KDP Previewer + physical proof + author approvals complete.</td><td>Still pending.</td></tr><tr><td><strong>Template reuse</strong></td><td>Several good one-off layouts.</td><td>One client package pattern reusable for invoices/proposals/dashboards.</td><td>Started with shared generator + CSS.</td></tr></tbody></table></div></section>
+<section><h2>Baseline to Target</h2><div class="table-wrap"><table><thead><tr><th>Dimension</th><th>Baseline</th><th>Target gate</th><th>Status</th></tr></thead><tbody><tr><td><strong>Invoice/payment</strong></td><td>Stale balance and retired checkout language.</td><td>Correct {money(BALANCE_DUE)} link created and inserted.</td><td>Document fixed; Stripe link pending.</td></tr><tr><td><strong>Scope</strong></td><td>Testimony bundled into current package.</td><td>Current package excludes testimony; separate scope available later.</td><td>Fixed in generated pages.</td></tr><tr><td><strong>Content depth</strong></td><td>Lady D described some drafts as sterile because scripture text, voice, and prompt clarity were not fully finished.</td><td>Scripture present, voice-filter pass complete, context language resolved, prompts simplified, journals human-finished.</td><td>{CONTENT_STATUS}</td></tr><tr><td><strong>Publishing readiness</strong></td><td>Production candidate artifacts exist.</td><td>KDP Previewer + physical proof + author approvals complete.</td><td>Still pending.</td></tr><tr><td><strong>Template reuse</strong></td><td>Several good one-off layouts.</td><td>One client package pattern reusable for invoices/proposals/dashboards.</td><td>Started with shared generator + CSS.</td></tr></tbody></table></div></section>
 <p class="footer-note">Evidence: original agreement extraction, May 5 and June 14 transcript summaries, July 6 Fireflies transcript 01KWXC5F7J9EPX9BDPXEBWVKK5, July 6 release-control brief, KDP proof/readiness packs, local generated HTML, and live visual references: <a href="https://lady-d-author-review-site.vercel.app/">Lady D</a>, <a href="https://oakwood-ai-hub.vercel.app/ai-lab-idc/">Oakwood IDC</a>, and <a href="https://joyce-publishing-fade-deck-site.vercel.app/">Joyce publishing site</a>.</p>
 """
 

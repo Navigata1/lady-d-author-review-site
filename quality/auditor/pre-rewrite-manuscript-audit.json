@@ -1,0 +1,5224 @@
+{
+  "audit_metadata": {
+    "name": "Lady D Trilogy Independent Pre-Rewrite Manuscript Audit",
+    "generated_at_utc": "2026-07-19T01:00:28.332278+00:00",
+    "status": "RELEASE BLOCKED - PRE-REWRITE AUDIT ONLY",
+    "approval": false,
+    "guidance_path": "/Users/IDC2.5/Downloads/Untitled meeting Jul 6, 2026.md",
+    "guidance_sha256": "5834a62d93d8a03b25c9a523af9d81293b8609c22f3c796a0abe81a2560e66aa",
+    "production_root": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/downloads/production",
+    "assembly_manifest": "downloads/production/master/master-assembly-audit.json",
+    "methodology_version": "1.0.0"
+  },
+  "scope": {
+    "devotional_source_files": 166,
+    "journal_source_files": 165,
+    "master_files": 6,
+    "files_hashed_and_read": 337,
+    "devotional_entries": 1098,
+    "journal_reflections": 1098,
+    "grain": "One devotional entry and one companion-journal reflection per volume/day, plus one February 29 bonus per volume."
+  },
+  "concurrent_artifact_boundary": {
+    "detected": true,
+    "path": "downloads/production/revised-reader-edition",
+    "file_count": 14,
+    "reader_manuscript_or_journal_markdown_count": 6,
+    "included_in_pre_rewrite_metrics": false,
+    "reason": "These undeclared revised-reader candidates appeared outside the canonical pre-rewrite assembly manifest. Mixing them into the baseline would invalidate before/after comparison. They require a separate post-rewrite judge and auditor pass and receive no release approval here.",
+    "inventory": [
+      {
+        "path": "downloads/production/revised-reader-edition/lady-d-reader-edition-audit.json",
+        "bytes": 10711,
+        "modified_at_local_epoch": 1784422701.9890165,
+        "sha256": "a3df3ad333a6e6ff80963906b378cff05674f5840343f6383f827f038c355cf7"
+      },
+      {
+        "path": "downloads/production/revised-reader-edition/lady-d-reader-edition-audit.md",
+        "bytes": 2474,
+        "modified_at_local_epoch": 1784422701.98921,
+        "sha256": "30fea2d7968fd6707774451b81007e24f8608cf0e3a1c72e9556bd8fda783bac"
+      },
+      {
+        "path": "downloads/production/revised-reader-edition/volume-1/volume-1-companion-journal.md",
+        "bytes": 359320,
+        "modified_at_local_epoch": 1784422701.0943096,
+        "sha256": "e3dd0972ecafbd955f759c3d1e64241d81f7c919b03222fc6c71db04635990bd"
+      },
+      {
+        "path": "downloads/production/revised-reader-edition/volume-1/volume-1-reader-edition-audit.json",
+        "bytes": 2145,
+        "modified_at_local_epoch": 1784422701.1128657,
+        "sha256": "5441c9dc1e32915983b9b8e5ab364baa4c26e38921c7629fef5395578f7b3a7c"
+      },
+      {
+        "path": "downloads/production/revised-reader-edition/volume-1/volume-1-reader-edition.json",
+        "bytes": 1008763,
+        "modified_at_local_epoch": 1784422701.1044784,
+        "sha256": "23180a2aab84dd9659d8668755ee69ee42f9141905fecb8b05208e6bccc32798"
+      },
+      {
+        "path": "downloads/production/revised-reader-edition/volume-1/volume-1-reader-edition.md",
+        "bytes": 862893,
+        "modified_at_local_epoch": 1784422701.092063,
+        "sha256": "12bcebed5026d5302f6c2af08b3d0595812f21d2e3aad49725c839b7e160bc62"
+      },
+      {
+        "path": "downloads/production/revised-reader-edition/volume-2/volume-2-companion-journal.md",
+        "bytes": 335025,
+        "modified_at_local_epoch": 1784422701.5440507,
+        "sha256": "f48d7daf75fd7da931046e5e8e541e7bf511d213a04cd9a4e69d075133a73b26"
+      },
+      {
+        "path": "downloads/production/revised-reader-edition/volume-2/volume-2-reader-edition-audit.json",
+        "bytes": 2935,
+        "modified_at_local_epoch": 1784422701.558862,
+        "sha256": "7a3f076eb7c9302b6c0ba7a1f5c34b2771bcbe672d34d1b732ea503bebee8144"
+      },
+      {
+        "path": "downloads/production/revised-reader-edition/volume-2/volume-2-reader-edition.json",
+        "bytes": 808709,
+        "modified_at_local_epoch": 1784422701.5525188,
+        "sha256": "50376fd021014c2fc2e48faf434212eb7d2187639ac74eedd35186c9e1423c81"
+      },
+      {
+        "path": "downloads/production/revised-reader-edition/volume-2/volume-2-reader-edition.md",
+        "bytes": 665125,
+        "modified_at_local_epoch": 1784422701.5415323,
+        "sha256": "c2d4781be462f8d9cc8bb26c4e31af42414432f2c300983d9e2b774d5514cf0f"
+      },
+      {
+        "path": "downloads/production/revised-reader-edition/volume-3/volume-3-companion-journal.md",
+        "bytes": 332868,
+        "modified_at_local_epoch": 1784422701.964762,
+        "sha256": "bad939e7a61e221eb9ae58c9a71567b891fb85a41b03e5128f85a11c4d943654"
+      },
+      {
+        "path": "downloads/production/revised-reader-edition/volume-3/volume-3-reader-edition-audit.json",
+        "bytes": 4220,
+        "modified_at_local_epoch": 1784422701.9788764,
+        "sha256": "ee4baa2f5c230cdec094c4dcdfb56d12eb634d7ce6510c057b29f274939c1abc"
+      },
+      {
+        "path": "downloads/production/revised-reader-edition/volume-3/volume-3-reader-edition.json",
+        "bytes": 793903,
+        "modified_at_local_epoch": 1784422701.9728506,
+        "sha256": "e6ef9384f435780e5bf4ed2cbe079441072e5635261c36b2ea5b21b286aef7d0"
+      },
+      {
+        "path": "downloads/production/revised-reader-edition/volume-3/volume-3-reader-edition.md",
+        "bytes": 650630,
+        "modified_at_local_epoch": 1784422701.962624,
+        "sha256": "ca15c1ef49f3957b650e08cbec11fa966974c239ab29e983e71d2008c3f89567"
+      }
+    ]
+  },
+  "methodology": {
+    "source_of_truth": "Source lists declared in downloads/production/master/master-assembly-audit.json; assembled Markdown masters used for reconciliation, not double-counting.",
+    "checks": [
+      "SHA-256 inventory and source/master existence",
+      "Day/bonus completeness and uniqueness",
+      "Reference syntax, recognized book, and chapter range",
+      "Visible KJV/NKJV Scripture-text block presence",
+      "Field-label contract, prayer, and prompt completeness",
+      "Exact normalized sentence repetition, within-entry duplication, and title-masked near-exact templates",
+      "Exact/near-duplicate titles and exact reference reuse",
+      "Bible-book run length, adjacency, monotonicity, and monthly concentration",
+      "2026/Saturday/Sabbath/Sunday calendar artifacts",
+      "Internal production/editorial language",
+      "Context-language structural signals and meta-language",
+      "Journal coverage, prompt/practice completeness, style consistency, prayer/review sections, and response-space markup",
+      "Normalized source-to-master entry-signature reconciliation"
+    ],
+    "limitations": [
+      "No verse text exists in the entries, so exact KJV/NKJV concordance cannot yet be performed.",
+      "Structural original-language signals do not establish lexical or theological accuracy; qualified human review is required.",
+      "Markdown response-space detection does not replace visual inspection of final 6x9 PDF interiors and printed proofs.",
+      "Near-duplicate title detection uses SequenceMatcher >= 0.90 within each volume; it is a screening test, not a literary verdict."
+    ],
+    "reproduction_commands": [
+      "python3 quality/auditor/run_pre_rewrite_manuscript_audit.py",
+      "python3 -m json.tool quality/auditor/pre-rewrite-manuscript-audit.json >/dev/null",
+      "git diff -- downloads/production/"
+    ]
+  },
+  "corpus_summary": {
+    "devotional_entries": 1098,
+    "journal_reflections": 1098,
+    "visible_scripture_text_entries": 0,
+    "entries_with_both_deprecated_labels": 1098,
+    "date_specific_devotional_artifacts": 148,
+    "date_specific_journal_artifacts": 140,
+    "duplicate_titles": {
+      "duplicate_group_count": 1,
+      "affected_entry_count": 3,
+      "maximum_occurrences": 3,
+      "top_groups": [
+        {
+          "value": "Grace for the Extra Day",
+          "occurrences": 3,
+          "entry_ids": [
+            "V1-bonus",
+            "V2-bonus",
+            "V3-bonus"
+          ]
+        }
+      ]
+    },
+    "duplicate_references": {
+      "duplicate_group_count": 82,
+      "affected_entry_count": 164,
+      "maximum_occurrences": 2,
+      "top_groups": [
+        {
+          "value": "Genesis 1:1",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-141",
+            "V3-day-069"
+          ]
+        },
+        {
+          "value": "Genesis 1:10",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-079",
+            "V3-day-077"
+          ]
+        },
+        {
+          "value": "Genesis 1:11",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-148",
+            "V3-day-019"
+          ]
+        },
+        {
+          "value": "Genesis 1:12",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-149",
+            "V3-day-020"
+          ]
+        },
+        {
+          "value": "Genesis 1:13",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-150",
+            "V3-day-078"
+          ]
+        },
+        {
+          "value": "Genesis 1:14",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-151",
+            "V3-day-079"
+          ]
+        },
+        {
+          "value": "Genesis 1:15",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-152",
+            "V3-day-080"
+          ]
+        },
+        {
+          "value": "Genesis 1:16",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-153",
+            "V3-day-081"
+          ]
+        },
+        {
+          "value": "Genesis 1:17",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-154",
+            "V3-day-082"
+          ]
+        },
+        {
+          "value": "Genesis 1:18",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-155",
+            "V3-day-083"
+          ]
+        },
+        {
+          "value": "Genesis 1:19",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-156",
+            "V3-day-084"
+          ]
+        },
+        {
+          "value": "Genesis 1:2",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-142",
+            "V3-day-021"
+          ]
+        },
+        {
+          "value": "Genesis 1:20",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-157",
+            "V3-day-085"
+          ]
+        },
+        {
+          "value": "Genesis 1:21",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-158",
+            "V3-day-086"
+          ]
+        },
+        {
+          "value": "Genesis 1:22",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-159",
+            "V3-day-022"
+          ]
+        },
+        {
+          "value": "Genesis 1:23",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-160",
+            "V3-day-087"
+          ]
+        },
+        {
+          "value": "Genesis 1:24",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-161",
+            "V3-day-088"
+          ]
+        },
+        {
+          "value": "Genesis 1:25",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-162",
+            "V3-day-089"
+          ]
+        },
+        {
+          "value": "Genesis 1:26",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-163",
+            "V3-day-090"
+          ]
+        },
+        {
+          "value": "Genesis 1:27",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-164",
+            "V3-day-091"
+          ]
+        },
+        {
+          "value": "Genesis 1:28",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-165",
+            "V3-day-023"
+          ]
+        },
+        {
+          "value": "Genesis 1:29",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-166",
+            "V3-day-024"
+          ]
+        },
+        {
+          "value": "Genesis 1:3",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-143",
+            "V3-day-070"
+          ]
+        },
+        {
+          "value": "Genesis 1:30",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-167",
+            "V3-day-092"
+          ]
+        },
+        {
+          "value": "Genesis 1:31",
+          "occurrences": 2,
+          "entry_ids": [
+            "V1-day-168",
+            "V3-day-093"
+          ]
+        }
+      ]
+    },
+    "sentence_repetition": {
+      "exact_repeated_sentence_groups": 44,
+      "exact_repeated_sentence_occurrences": 1551,
+      "exact_repetition_affected_entries": 987,
+      "within_entry_duplicate_sentence_instances": 28,
+      "within_entry_duplicate_sentence_examples": [
+        {
+          "entry_id": "V3-day-125",
+          "occurrences": 2,
+          "sentence": "The day does not get to name you before God does."
+        },
+        {
+          "entry_id": "V3-day-337",
+          "occurrences": 2,
+          "sentence": "Let prayer turn insight into obedience before noon."
+        },
+        {
+          "entry_id": "V3-day-338",
+          "occurrences": 2,
+          "sentence": "Start from what God has revealed, not from what the day is demanding."
+        },
+        {
+          "entry_id": "V3-day-340",
+          "occurrences": 2,
+          "sentence": "Let the Spirit press this from information into formation."
+        },
+        {
+          "entry_id": "V3-day-342",
+          "occurrences": 2,
+          "sentence": "Let prayer turn insight into obedience before noon."
+        },
+        {
+          "entry_id": "V3-day-343",
+          "occurrences": 2,
+          "sentence": "Start from what God has revealed, not from what the day is demanding."
+        },
+        {
+          "entry_id": "V3-day-344",
+          "occurrences": 2,
+          "sentence": "Do not rush past the verse; let it steady you before you move."
+        },
+        {
+          "entry_id": "V3-day-345",
+          "occurrences": 2,
+          "sentence": "Let the Spirit press this from information into formation."
+        },
+        {
+          "entry_id": "V3-day-346",
+          "occurrences": 2,
+          "sentence": "Take one surrendered step before worry gets the first word."
+        },
+        {
+          "entry_id": "V3-day-347",
+          "occurrences": 2,
+          "sentence": "Let prayer turn insight into obedience before noon."
+        },
+        {
+          "entry_id": "V3-day-348",
+          "occurrences": 2,
+          "sentence": "Start from what God has revealed, not from what the day is demanding."
+        },
+        {
+          "entry_id": "V3-day-349",
+          "occurrences": 2,
+          "sentence": "Do not rush past the verse; let it steady you before you move."
+        },
+        {
+          "entry_id": "V3-day-350",
+          "occurrences": 2,
+          "sentence": "Let the Spirit press this from information into formation."
+        },
+        {
+          "entry_id": "V3-day-351",
+          "occurrences": 2,
+          "sentence": "Take one surrendered step before worry gets the first word."
+        },
+        {
+          "entry_id": "V3-day-352",
+          "occurrences": 2,
+          "sentence": "Let prayer turn insight into obedience before noon."
+        },
+        {
+          "entry_id": "V3-day-353",
+          "occurrences": 2,
+          "sentence": "Start from what God has revealed, not from what the day is demanding."
+        },
+        {
+          "entry_id": "V3-day-354",
+          "occurrences": 2,
+          "sentence": "Do not rush past the verse; let it steady you before you move."
+        },
+        {
+          "entry_id": "V3-day-355",
+          "occurrences": 2,
+          "sentence": "Let the Spirit press this from information into formation."
+        },
+        {
+          "entry_id": "V3-day-356",
+          "occurrences": 2,
+          "sentence": "Take one surrendered step before worry gets the first word."
+        },
+        {
+          "entry_id": "V3-day-357",
+          "occurrences": 2,
+          "sentence": "Let prayer turn insight into obedience before noon."
+        },
+        {
+          "entry_id": "V3-day-358",
+          "occurrences": 2,
+          "sentence": "Start from what God has revealed, not from what the day is demanding."
+        },
+        {
+          "entry_id": "V3-day-359",
+          "occurrences": 2,
+          "sentence": "Do not rush past the verse; let it steady you before you move."
+        },
+        {
+          "entry_id": "V3-day-360",
+          "occurrences": 2,
+          "sentence": "Let the Spirit press this from information into formation."
+        },
+        {
+          "entry_id": "V3-day-361",
+          "occurrences": 2,
+          "sentence": "Take one surrendered step before worry gets the first word."
+        },
+        {
+          "entry_id": "V3-day-362",
+          "occurrences": 2,
+          "sentence": "Let prayer turn insight into obedience before noon."
+        },
+        {
+          "entry_id": "V3-day-363",
+          "occurrences": 2,
+          "sentence": "Start from what God has revealed, not from what the day is demanding."
+        },
+        {
+          "entry_id": "V3-day-364",
+          "occurrences": 2,
+          "sentence": "Do not rush past the verse; let it steady you before you move."
+        },
+        {
+          "entry_id": "V3-day-365",
+          "occurrences": 2,
+          "sentence": "Let the Spirit press this from information into formation."
+        }
+      ],
+      "near_exact_title_masked_template_groups": 9,
+      "near_exact_template_occurrences": 844,
+      "near_exact_template_affected_entries": 838,
+      "top_exact_repeated_sentences": [
+        {
+          "sentence": "Do not rush past the verse; let it steady you before you move.",
+          "occurrences": 128,
+          "entry_ids": [
+            "V1-day-110",
+            "V1-day-115",
+            "V1-day-120",
+            "V1-day-182",
+            "V1-day-187",
+            "V1-day-192",
+            "V1-day-197",
+            "V1-day-202",
+            "V1-day-207",
+            "V1-day-212",
+            "V1-day-217",
+            "V1-day-222"
+          ]
+        },
+        {
+          "sentence": "Let the Spirit press this from information into formation.",
+          "occurrences": 128,
+          "entry_ids": [
+            "V1-day-106",
+            "V1-day-111",
+            "V1-day-116",
+            "V1-day-183",
+            "V1-day-188",
+            "V1-day-198",
+            "V1-day-203",
+            "V1-day-208",
+            "V1-day-213",
+            "V1-day-218",
+            "V1-day-223",
+            "V1-day-228"
+          ]
+        },
+        {
+          "sentence": "Let prayer turn insight into obedience before noon.",
+          "occurrences": 127,
+          "entry_ids": [
+            "V1-day-093",
+            "V1-day-098",
+            "V1-day-103",
+            "V1-day-108",
+            "V1-day-113",
+            "V1-day-118",
+            "V1-day-185",
+            "V1-day-190",
+            "V1-day-195",
+            "V1-day-200",
+            "V1-day-205",
+            "V1-day-210"
+          ]
+        },
+        {
+          "sentence": "Take one surrendered step before worry gets the first word.",
+          "occurrences": 125,
+          "entry_ids": [
+            "V1-day-092",
+            "V1-day-097",
+            "V1-day-102",
+            "V1-day-107",
+            "V1-day-112",
+            "V1-day-117",
+            "V1-day-184",
+            "V1-day-189",
+            "V1-day-194",
+            "V1-day-199",
+            "V1-day-204",
+            "V1-day-209"
+          ]
+        },
+        {
+          "sentence": "This day falls on Saturday, the seventh-day Sabbath in the 2026 production calendar.",
+          "occurrences": 125,
+          "entry_ids": [
+            "V1-day-220",
+            "V1-day-227",
+            "V1-day-234",
+            "V1-day-241",
+            "V1-day-248",
+            "V1-day-255",
+            "V1-day-262",
+            "V1-day-269",
+            "V1-day-276",
+            "V1-day-283",
+            "V1-day-290",
+            "V1-day-297"
+          ]
+        },
+        {
+          "sentence": "Start from what God has revealed, not from what the day is demanding.",
+          "occurrences": 121,
+          "entry_ids": [
+            "V1-day-099",
+            "V1-day-104",
+            "V1-day-109",
+            "V1-day-114",
+            "V1-day-186",
+            "V1-day-191",
+            "V1-day-196",
+            "V1-day-201",
+            "V1-day-206",
+            "V1-day-211",
+            "V1-day-216",
+            "V1-day-221"
+          ]
+        },
+        {
+          "sentence": "Receive the truth deeply enough that it changes your next decision.",
+          "occurrences": 73,
+          "entry_ids": [
+            "V1-day-122",
+            "V1-day-127",
+            "V1-day-132",
+            "V1-day-137",
+            "V1-day-142",
+            "V1-day-147",
+            "V1-day-152",
+            "V1-day-157",
+            "V1-day-162",
+            "V1-day-167",
+            "V1-day-172",
+            "V1-day-177"
+          ]
+        },
+        {
+          "sentence": "Walk out of this page with courage, tenderness, and clarity.",
+          "occurrences": 73,
+          "entry_ids": [
+            "V1-day-121",
+            "V1-day-126",
+            "V1-day-131",
+            "V1-day-136",
+            "V1-day-141",
+            "V1-day-146",
+            "V1-day-151",
+            "V1-day-156",
+            "V1-day-161",
+            "V1-day-166",
+            "V1-day-171",
+            "V1-day-176"
+          ]
+        },
+        {
+          "sentence": "The day does not get to name you before God does.",
+          "occurrences": 71,
+          "entry_ids": [
+            "V1-day-125",
+            "V1-day-130",
+            "V1-day-135",
+            "V1-day-140",
+            "V1-day-145",
+            "V1-day-150",
+            "V1-day-155",
+            "V1-day-160",
+            "V1-day-165",
+            "V1-day-170",
+            "V1-day-175",
+            "V1-day-180"
+          ]
+        },
+        {
+          "sentence": "Carry this like bread for the road, not decoration for the shelf.",
+          "occurrences": 70,
+          "entry_ids": [
+            "V1-day-123",
+            "V1-day-128",
+            "V1-day-133",
+            "V1-day-138",
+            "V1-day-143",
+            "V1-day-148",
+            "V1-day-153",
+            "V1-day-158",
+            "V1-day-163",
+            "V1-day-168",
+            "V1-day-173",
+            "V1-day-178"
+          ]
+        },
+        {
+          "sentence": "Let this word give your morning a spine and your heart a place to rest.",
+          "occurrences": 69,
+          "entry_ids": [
+            "V1-day-124",
+            "V1-day-129",
+            "V1-day-134",
+            "V1-day-139",
+            "V1-day-144",
+            "V1-day-149",
+            "V1-day-154",
+            "V1-day-159",
+            "V1-day-164",
+            "V1-day-169",
+            "V1-day-174",
+            "V1-day-179"
+          ]
+        },
+        {
+          "sentence": "Akoloutheo means to follow as a disciple, not merely admire from a distance.",
+          "occurrences": 49,
+          "entry_ids": [
+            "V2-bonus",
+            "V2-day-005",
+            "V2-day-010",
+            "V2-day-015",
+            "V2-day-020",
+            "V2-day-025",
+            "V2-day-030",
+            "V2-day-035",
+            "V2-day-040",
+            "V2-day-045",
+            "V2-day-050",
+            "V2-day-055"
+          ]
+        },
+        {
+          "sentence": "Kyrios means Lord: trusted authority, not religious decoration.",
+          "occurrences": 48,
+          "entry_ids": [
+            "V2-day-003",
+            "V2-day-008",
+            "V2-day-013",
+            "V2-day-018",
+            "V2-day-023",
+            "V2-day-028",
+            "V2-day-033",
+            "V2-day-038",
+            "V2-day-043",
+            "V2-day-048",
+            "V2-day-053",
+            "V2-day-058"
+          ]
+        },
+        {
+          "sentence": "Didaskalos means Teacher: One who forms the life, not just informs the mind.",
+          "occurrences": 25,
+          "entry_ids": [
+            "V2-day-125",
+            "V2-day-130",
+            "V2-day-135",
+            "V2-day-140",
+            "V2-day-145",
+            "V2-day-150",
+            "V2-day-155",
+            "V2-day-160",
+            "V2-day-165",
+            "V2-day-170",
+            "V2-day-175",
+            "V2-day-180"
+          ]
+        },
+        {
+          "sentence": "Eirene is peace as wholeness in the presence of the Prince of Peace.",
+          "occurrences": 25,
+          "entry_ids": [
+            "V2-day-002",
+            "V2-day-007",
+            "V2-day-012",
+            "V2-day-017",
+            "V2-day-022",
+            "V2-day-027",
+            "V2-day-032",
+            "V2-day-037",
+            "V2-day-042",
+            "V2-day-047",
+            "V2-day-052",
+            "V2-day-057"
+          ]
+        },
+        {
+          "sentence": "Hodos means way or road: Jesus as the path, not only the pointer.",
+          "occurrences": 25,
+          "entry_ids": [
+            "V2-day-121",
+            "V2-day-126",
+            "V2-day-131",
+            "V2-day-136",
+            "V2-day-141",
+            "V2-day-146",
+            "V2-day-151",
+            "V2-day-156",
+            "V2-day-161",
+            "V2-day-166",
+            "V2-day-171",
+            "V2-day-176"
+          ]
+        },
+        {
+          "sentence": "Phos means light that exposes danger and gives direction.",
+          "occurrences": 25,
+          "entry_ids": [
+            "V2-day-186",
+            "V2-day-191",
+            "V2-day-196",
+            "V2-day-201",
+            "V2-day-206",
+            "V2-day-211",
+            "V2-day-216",
+            "V2-day-221",
+            "V2-day-226",
+            "V2-day-231",
+            "V2-day-236",
+            "V2-day-241"
+          ]
+        },
+        {
+          "sentence": "Anastasis means resurrection: life rising where finality seemed to speak.",
+          "occurrences": 24,
+          "entry_ids": [
+            "V2-day-122",
+            "V2-day-127",
+            "V2-day-132",
+            "V2-day-137",
+            "V2-day-142",
+            "V2-day-147",
+            "V2-day-152",
+            "V2-day-157",
+            "V2-day-162",
+            "V2-day-167",
+            "V2-day-172",
+            "V2-day-177"
+          ]
+        },
+        {
+          "sentence": "Eirene means peace as wholeness in the presence of the Prince of Peace.",
+          "occurrences": 24,
+          "entry_ids": [
+            "V2-day-184",
+            "V2-day-189",
+            "V2-day-194",
+            "V2-day-199",
+            "V2-day-204",
+            "V2-day-209",
+            "V2-day-214",
+            "V2-day-219",
+            "V2-day-224",
+            "V2-day-229",
+            "V2-day-234",
+            "V2-day-239"
+          ]
+        },
+        {
+          "sentence": "Meno means to remain or abide: staying close enough for His life to shape yours.",
+          "occurrences": 24,
+          "entry_ids": [
+            "V2-day-123",
+            "V2-day-128",
+            "V2-day-133",
+            "V2-day-138",
+            "V2-day-143",
+            "V2-day-148",
+            "V2-day-153",
+            "V2-day-158",
+            "V2-day-163",
+            "V2-day-168",
+            "V2-day-173",
+            "V2-day-178"
+          ]
+        },
+        {
+          "sentence": "Phos is light that exposes danger and gives direction.",
+          "occurrences": 24,
+          "entry_ids": [
+            "V2-day-004",
+            "V2-day-009",
+            "V2-day-014",
+            "V2-day-019",
+            "V2-day-024",
+            "V2-day-029",
+            "V2-day-034",
+            "V2-day-039",
+            "V2-day-044",
+            "V2-day-049",
+            "V2-day-054",
+            "V2-day-059"
+          ]
+        },
+        {
+          "sentence": "Sozo means Jesus saving as rescue, healing, and wholeness.",
+          "occurrences": 19,
+          "entry_ids": [
+            "V2-day-183",
+            "V2-day-188",
+            "V2-day-193",
+            "V2-day-198",
+            "V2-day-203",
+            "V2-day-208",
+            "V2-day-213",
+            "V2-day-218",
+            "V2-day-223",
+            "V2-day-228",
+            "V2-day-233",
+            "V2-day-238"
+          ]
+        },
+        {
+          "sentence": "Sozo means saving, rescuing, healing, and making whole.",
+          "occurrences": 14,
+          "entry_ids": [
+            "V2-day-046",
+            "V2-day-056",
+            "V2-day-064",
+            "V2-day-069",
+            "V2-day-074",
+            "V2-day-079",
+            "V2-day-084",
+            "V2-day-089",
+            "V2-day-094",
+            "V2-day-099",
+            "V2-day-104",
+            "V2-day-109"
+          ]
+        },
+        {
+          "sentence": "Mature prayer does not need filler or empty religious padding.",
+          "occurrences": 10,
+          "entry_ids": [
+            "V3-day-295",
+            "V3-day-303",
+            "V3-day-306",
+            "V3-day-310",
+            "V3-day-314",
+            "V3-day-318",
+            "V3-day-322",
+            "V3-day-326",
+            "V3-day-330",
+            "V3-day-334"
+          ]
+        },
+        {
+          "sentence": "Sozo is saving, rescuing, healing, and making whole.",
+          "occurrences": 10,
+          "entry_ids": [
+            "V2-day-001",
+            "V2-day-006",
+            "V2-day-011",
+            "V2-day-016",
+            "V2-day-021",
+            "V2-day-026",
+            "V2-day-031",
+            "V2-day-036",
+            "V2-day-041",
+            "V2-day-051"
+          ]
+        }
+      ],
+      "top_near_exact_templates": [
+        {
+          "template": "let the spirit carry into one faithful step today",
+          "occurrences": 366,
+          "examples": [
+            "Let the Spirit carry Awaken the Comforter's Nearness into one faithful step today.",
+            "Let the Spirit carry Embrace Holy Fire into one faithful step today.",
+            "Let the Spirit carry Remember Rain for Dry Places into one faithful step today."
+          ],
+          "entry_ids": [
+            "V3-bonus",
+            "V3-day-001",
+            "V3-day-002",
+            "V3-day-003",
+            "V3-day-004",
+            "V3-day-005",
+            "V3-day-006",
+            "V3-day-007",
+            "V3-day-008",
+            "V3-day-009",
+            "V3-day-010",
+            "V3-day-011"
+          ]
+        },
+        {
+          "template": "walk with jesus through in one faithful step today",
+          "occurrences": 366,
+          "examples": [
+            "Walk with Jesus through Awaken the Shepherd's Voice in one faithful step today.",
+            "Walk with Jesus through Embrace the Road with Jesus in one faithful step today.",
+            "Walk with Jesus through Remember the Nearness of Christ in one faithful step today."
+          ],
+          "entry_ids": [
+            "V2-bonus",
+            "V2-day-001",
+            "V2-day-002",
+            "V2-day-003",
+            "V2-day-004",
+            "V2-day-005",
+            "V2-day-006",
+            "V2-day-007",
+            "V2-day-008",
+            "V2-day-009",
+            "V2-day-010",
+            "V2-day-011"
+          ]
+        },
+        {
+          "template": "let the father's love carry into one faithful step today",
+          "occurrences": 96,
+          "examples": [
+            "Let the Father's love carry Lean Into Love That Sends You into one faithful step today.",
+            "Let the Father's love carry See Again Covenant Mercy into one faithful step today.",
+            "Let the Father's love carry Let Love Teach the Father's Welcome into one faithful step today."
+          ],
+          "entry_ids": [
+            "V1-day-266",
+            "V1-day-267",
+            "V1-day-268",
+            "V1-day-269",
+            "V1-day-270",
+            "V1-day-272",
+            "V1-day-273",
+            "V1-day-274",
+            "V1-day-275",
+            "V1-day-276",
+            "V1-day-277",
+            "V1-day-278"
+          ]
+        },
+        {
+          "template": "by starting from what god has revealed not from what the day is demanding",
+          "occurrences": 4,
+          "examples": [
+            "Discover the Father's welcome by starting from what God has revealed, not from what the day is demanding.",
+            "Let grace form love that finds you by starting from what God has revealed, not from what the day is demanding.",
+            "Breathe the Father's welcome by starting from what God has revealed, not from what the day is demanding."
+          ],
+          "entry_ids": [
+            "V1-day-186",
+            "V1-day-246",
+            "V1-day-256",
+            "V1-day-338"
+          ]
+        },
+        {
+          "template": "father teach me to",
+          "occurrences": 3,
+          "examples": [
+            "Father, teach me to behold love stronger than fear.",
+            "Father, teach me to behold grace before performance.",
+            "Father, teach me to yield to grace before performance."
+          ],
+          "entry_ids": [
+            "V1-day-181",
+            "V1-day-247",
+            "V1-day-259"
+          ]
+        },
+        {
+          "template": "in family work grief ministry and private prayer",
+          "occurrences": 3,
+          "examples": [
+            "Yield to the road with Jesus in family, work, grief, ministry, and private prayer.",
+            "Listen for the Shepherd's voice in family, work, grief, ministry, and private prayer.",
+            "Let mercy speak oil for the journey in family, work, grief, ministry, and private prayer."
+          ],
+          "entry_ids": [
+            "V2-day-118",
+            "V2-day-244",
+            "V3-day-114"
+          ]
+        },
+        {
+          "template": "holy spirit in me",
+          "occurrences": 2,
+          "examples": [
+            "Holy Spirit, let grace form power to witness in me.",
+            "Holy Spirit, awaken the breath of God in me."
+          ],
+          "entry_ids": [
+            "V3-day-180",
+            "V3-day-313"
+          ]
+        },
+        {
+          "template": "in you",
+          "occurrences": 2,
+          "examples": [
+            "Let grace form the Father's welcome in you.",
+            "Let fire refine the Father's patience in you."
+          ],
+          "entry_ids": [
+            "V1-day-105",
+            "V1-day-110"
+          ]
+        },
+        {
+          "template": "today",
+          "occurrences": 2,
+          "examples": [
+            "Walk in the heart that calls you today.",
+            "Let peace lead love that sends you today."
+          ],
+          "entry_ids": [
+            "V1-day-057",
+            "V1-day-058"
+          ]
+        }
+      ]
+    },
+    "near_duplicate_titles": {
+      "threshold": 0.9,
+      "pair_count": 79,
+      "top_pairs": [
+        {
+          "volume": 1,
+          "left": "V1-day-058",
+          "right": "V1-day-339",
+          "left_title": "Let Peace Lead Love That Sends You",
+          "right_title": "Let Peace Lead Love That Finds You",
+          "similarity": 0.9412
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-015",
+          "right": "V1-day-208",
+          "left_title": "Come Home to Love That Finds You",
+          "right_title": "Come Home to Love That Sends You",
+          "similarity": 0.9375
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-060",
+          "right": "V1-day-254",
+          "left_title": "Surrender to Love That Finds You",
+          "right_title": "Surrender to Love That Sends You",
+          "similarity": 0.9375
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-138",
+          "right": "V1-day-235",
+          "left_title": "Hold Fast to Love That Sends You",
+          "right_title": "Hold Fast to Love That Finds You",
+          "similarity": 0.9375
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-103",
+          "right": "V1-day-200",
+          "left_title": "Listen for Love That Sends You",
+          "right_title": "Listen for Love That Finds You",
+          "similarity": 0.9333
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-153",
+          "right": "V1-day-347",
+          "left_title": "Wake Up to Love That Finds You",
+          "right_title": "Wake Up to Love That Sends You",
+          "similarity": 0.9333
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-072",
+          "right": "V1-day-266",
+          "left_title": "Lean Into Love That Finds You",
+          "right_title": "Lean Into Love That Sends You",
+          "similarity": 0.931
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-095",
+          "right": "V1-day-289",
+          "left_title": "See Again Love That Finds You",
+          "right_title": "See Again Love That Sends You",
+          "similarity": 0.931
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-161",
+          "right": "V1-day-258",
+          "left_title": "Return to Love That Sends You",
+          "right_title": "Return to Love That Finds You",
+          "similarity": 0.931
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-003",
+          "right": "V1-day-196",
+          "left_title": "Remember Love That Finds You",
+          "right_title": "Remember Love That Sends You",
+          "similarity": 0.9286
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-038",
+          "right": "V1-day-231",
+          "left_title": "Practice Love That Finds You",
+          "right_title": "Practice Love That Sends You",
+          "similarity": 0.9286
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-046",
+          "right": "V1-day-142",
+          "left_title": "Discover Love That Sends You",
+          "right_title": "Discover Love That Finds You",
+          "similarity": 0.9286
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-126",
+          "right": "V1-day-223",
+          "left_title": "Stand in Love That Sends You",
+          "right_title": "Stand in Love That Finds You",
+          "similarity": 0.9286
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-184",
+          "right": "V1-day-281",
+          "left_title": "Yield to Love That Sends You",
+          "right_title": "Yield to Love That Finds You",
+          "similarity": 0.9286
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-034",
+          "right": "V1-day-130",
+          "left_title": "Rest in Love That Sends You",
+          "right_title": "Rest in Love That Finds You",
+          "similarity": 0.9259
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-068",
+          "right": "V1-day-165",
+          "left_title": "Receive Love That Sends You",
+          "right_title": "Receive Love That Finds You",
+          "similarity": 0.9259
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-115",
+          "right": "V1-day-212",
+          "left_title": "Breathe Love That Sends You",
+          "right_title": "Breathe Love That Finds You",
+          "similarity": 0.9259
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-173",
+          "right": "V1-day-270",
+          "left_title": "Embrace Love That Sends You",
+          "right_title": "Embrace Love That Finds You",
+          "similarity": 0.9259
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-219",
+          "right": "V1-day-316",
+          "left_title": "Walk in Love That Sends You",
+          "right_title": "Walk in Love That Finds You",
+          "similarity": 0.9259
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-011",
+          "right": "V1-day-107",
+          "left_title": "Follow Love That Sends You",
+          "right_title": "Follow Love That Finds You",
+          "similarity": 0.9231
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-023",
+          "right": "V1-day-119",
+          "left_title": "Anchor Love That Sends You",
+          "right_title": "Anchor Love That Finds You",
+          "similarity": 0.9231
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-080",
+          "right": "V1-day-177",
+          "left_title": "Choose Love That Sends You",
+          "right_title": "Choose Love That Finds You",
+          "similarity": 0.9231
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-108",
+          "right": "V1-day-201",
+          "left_title": "Rest in Grace Before Performance",
+          "right_title": "Stand in Grace Before Performance",
+          "similarity": 0.9231
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-057",
+          "right": "V1-day-172",
+          "left_title": "Walk in the Heart That Calls You",
+          "right_title": "Awaken the Heart That Calls You",
+          "similarity": 0.9206
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-227",
+          "right": "V1-day-320",
+          "left_title": "Rest in Love Stronger Than Fear",
+          "right_title": "Stand in Love Stronger Than Fear",
+          "similarity": 0.9206
+        },
+        {
+          "volume": 3,
+          "left": "V3-day-001",
+          "right": "V3-day-175",
+          "left_title": "Awaken the Comforter's Nearness",
+          "right_title": "Walk in the Comforter's Nearness",
+          "similarity": 0.9206
+        },
+        {
+          "volume": 3,
+          "left": "V3-day-108",
+          "right": "V3-day-201",
+          "left_title": "Rest in the Anointing for Today",
+          "right_title": "Stand in the Anointing for Today",
+          "similarity": 0.9206
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-050",
+          "right": "V1-day-243",
+          "left_title": "Carry Love That Finds You",
+          "right_title": "Carry Love That Sends You",
+          "similarity": 0.92
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-091",
+          "right": "V1-day-188",
+          "left_title": "Trust Love That Sends You",
+          "right_title": "Trust Love That Finds You",
+          "similarity": 0.92
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-054",
+          "right": "V1-day-122",
+          "left_title": "Awaken Love Stronger Than Fear",
+          "right_title": "Walk in Love Stronger Than Fear",
+          "similarity": 0.918
+        },
+        {
+          "volume": 2,
+          "left": "V2-day-130",
+          "right": "V2-day-223",
+          "left_title": "Rest in the Nearness of Christ",
+          "right_title": "Stand in the Nearness of Christ",
+          "similarity": 0.918
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-078",
+          "right": "V1-day-194",
+          "left_title": "Walk in the Promise That Holds",
+          "right_title": "Awaken the Promise That Holds",
+          "similarity": 0.9153
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-249",
+          "right": "V1-day-342",
+          "left_title": "Rest in the Father's Patience",
+          "right_title": "Stand in the Father's Patience",
+          "similarity": 0.9153
+        },
+        {
+          "volume": 2,
+          "left": "V2-day-034",
+          "right": "V2-day-126",
+          "left_title": "Rest in the Light on the Path",
+          "right_title": "Stand in the Light on the Path",
+          "similarity": 0.9153
+        },
+        {
+          "volume": 3,
+          "left": "V3-day-034",
+          "right": "V3-day-126",
+          "left_title": "Rest in Freedom in the Spirit",
+          "right_title": "Stand in Freedom in the Spirit",
+          "similarity": 0.9153
+        },
+        {
+          "volume": 3,
+          "left": "V3-day-227",
+          "right": "V3-day-320",
+          "left_title": "Rest in the Seal of Belonging",
+          "right_title": "Stand in the Seal of Belonging",
+          "similarity": 0.9153
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-008",
+          "right": "V1-day-205",
+          "left_title": "Stand in Restoring Compassion",
+          "right_title": "Rest in Restoring Compassion",
+          "similarity": 0.9123
+        },
+        {
+          "volume": 1,
+          "left": "V1-day-086",
+          "right": "V1-day-179",
+          "left_title": "Rest in Mercy in the Morning",
+          "right_title": "Stand in Mercy in the Morning",
+          "similarity": 0.9123
+        },
+        {
+          "volume": 2,
+          "left": "V2-day-008",
+          "right": "V2-day-205",
+          "left_title": "Stand in Cross-Shaped Courage",
+          "right_title": "Rest in Cross-Shaped Courage",
+          "similarity": 0.9123
+        },
+        {
+          "volume": 2,
+          "left": "V2-day-150",
+          "right": "V2-day-219",
+          "left_title": "Awaken the Light on the Path",
+          "right_title": "Walk in the Light on the Path",
+          "similarity": 0.9123
+        }
+      ]
+    }
+  },
+  "volumes": {
+    "1": {
+      "title": "Surrendering to God's Love",
+      "file_counts": {
+        "devotional_sources": 55,
+        "journal_sources": 54,
+        "devotional_masters": 1,
+        "journal_masters": 1
+      },
+      "devotional_entries": {
+        "total": 366,
+        "dated": 365,
+        "bonus": 1,
+        "missing_expected_keys": [],
+        "duplicate_keys": [],
+        "master_entry_count": 366,
+        "master_missing_keys": [],
+        "master_source_content_mismatches": [],
+        "word_count": 129685
+      },
+      "scripture": {
+        "reference_count": 366,
+        "structurally_valid_references": 366,
+        "invalid_references": [],
+        "visible_scripture_text_entries": 0,
+        "missing_visible_scripture_text_entries": 366,
+        "translation_tagged_entries": 0
+      },
+      "label_contract": {
+        "missing_current_labels": {
+          "Scripture Reference": 0,
+          "Context and language lens": 0,
+          "Today step": 0,
+          "Prayer": 0,
+          "Journal prompt": 0,
+          "Morning impact": 0
+        },
+        "entries_retaining_today_step": 366,
+        "entries_retaining_morning_impact": 366,
+        "entries_with_both_deprecated_labels": 366
+      },
+      "prayer_and_prompt": {
+        "missing_prayer": 0,
+        "prayers_missing_amen": 0,
+        "prayers_missing_amen_examples": [],
+        "missing_journal_prompt": 0,
+        "prompts_without_question_mark": 0,
+        "prompts_without_question_mark_examples": []
+      },
+      "contextual_language": {
+        "lens_present": 366,
+        "entries_with_explicit_original_language_signal": 242,
+        "entries_without_explicit_original_language_signal": 124,
+        "entries_with_editorial_meta_lens_language": 247,
+        "editorial_meta_lens_examples": [
+          "V1-day-018",
+          "V1-bonus",
+          "V1-day-081",
+          "V1-day-088",
+          "V1-day-095",
+          "V1-day-096",
+          "V1-day-098",
+          "V1-day-100",
+          "V1-day-102",
+          "V1-day-104",
+          "V1-day-106",
+          "V1-day-107",
+          "V1-day-109",
+          "V1-day-110",
+          "V1-day-111",
+          "V1-day-112",
+          "V1-day-113",
+          "V1-day-114",
+          "V1-day-115",
+          "V1-day-116",
+          "V1-day-117",
+          "V1-day-118",
+          "V1-day-119",
+          "V1-day-120",
+          "V1-day-121"
+        ],
+        "note": "Signals are structural/editorial. Theological and lexical accuracy still requires qualified human review against visible KJV/NKJV text."
+      },
+      "date_specific_artifacts": {
+        "devotional_entries_with_2026_or_saturday_wording": 44,
+        "devotional_examples": [
+          "V1-day-038",
+          "V1-day-066",
+          "V1-day-073",
+          "V1-day-080",
+          "V1-day-087",
+          "V1-day-094",
+          "V1-day-101",
+          "V1-day-108",
+          "V1-day-115",
+          "V1-day-122",
+          "V1-day-129",
+          "V1-day-136",
+          "V1-day-143",
+          "V1-day-150",
+          "V1-day-157",
+          "V1-day-164",
+          "V1-day-171",
+          "V1-day-178",
+          "V1-day-185",
+          "V1-day-192",
+          "V1-day-199",
+          "V1-day-206",
+          "V1-day-213",
+          "V1-day-220",
+          "V1-day-227"
+        ],
+        "weekday_claims_inconsistent_with_2026_date": 0,
+        "journal_entries_with_calendar_bound_sabbath_wording_or_heading": 36,
+        "journal_examples": [
+          "V1-day-073",
+          "V1-day-080",
+          "V1-day-094",
+          "V1-day-136",
+          "V1-day-143",
+          "V1-day-150",
+          "V1-day-157",
+          "V1-day-164",
+          "V1-day-171",
+          "V1-day-178",
+          "V1-day-185",
+          "V1-day-192",
+          "V1-day-199",
+          "V1-day-206",
+          "V1-day-213",
+          "V1-day-220",
+          "V1-day-227",
+          "V1-day-234",
+          "V1-day-241",
+          "V1-day-248",
+          "V1-day-255",
+          "V1-day-262",
+          "V1-day-269",
+          "V1-day-276",
+          "V1-day-283"
+        ],
+        "sabbath_occurrences_in_devotional_sources": 300,
+        "sunday_occurrences_in_devotional_sources": 0
+      },
+      "internal_production_language": {
+        "2026 production calendar": {
+          "occurrences": 26,
+          "affected_entries": 26
+        },
+        "this page": {
+          "occurrences": 25,
+          "affected_entries": 25
+        },
+        "this entry": {
+          "occurrences": 0,
+          "affected_entries": 0
+        },
+        "the reader": {
+          "occurrences": 31,
+          "affected_entries": 28
+        },
+        "this lens": {
+          "occurrences": 1,
+          "affected_entries": 1
+        },
+        "production language": {
+          "occurrences": 0,
+          "affected_entries": 0
+        }
+      },
+      "scripture_clustering": {
+        "dated_entries": 365,
+        "distinct_bible_books": 6,
+        "adjacent_same_book_transitions": 353,
+        "adjacent_same_book_rate": 0.9698,
+        "monotonic_transitions_within_same_book": 323,
+        "book_runs_ge_7_days": 8,
+        "book_runs_ge_14_days": 5,
+        "book_runs_ge_30_days": 3,
+        "longest_runs": [
+          {
+            "book": "Genesis",
+            "start_day": 141,
+            "end_day": 318,
+            "length": 178
+          },
+          {
+            "book": "Genesis",
+            "start_day": 74,
+            "end_day": 122,
+            "length": 49
+          },
+          {
+            "book": "Exodus",
+            "start_day": 319,
+            "end_day": 365,
+            "length": 47
+          },
+          {
+            "book": "Deuteronomy",
+            "start_day": 24,
+            "end_day": 50,
+            "length": 27
+          },
+          {
+            "book": "Exodus",
+            "start_day": 51,
+            "end_day": 73,
+            "length": 23
+          },
+          {
+            "book": "Deuteronomy",
+            "start_day": 1,
+            "end_day": 12,
+            "length": 12
+          },
+          {
+            "book": "Ruth",
+            "start_day": 131,
+            "end_day": 140,
+            "length": 10
+          },
+          {
+            "book": "Psalms",
+            "start_day": 123,
+            "end_day": 130,
+            "length": 8
+          },
+          {
+            "book": "Exodus",
+            "start_day": 13,
+            "end_day": 16,
+            "length": 4
+          },
+          {
+            "book": "Genesis",
+            "start_day": 17,
+            "end_day": 20,
+            "length": 4
+          },
+          {
+            "book": "Psalm",
+            "start_day": 21,
+            "end_day": 22,
+            "length": 2
+          },
+          {
+            "book": "Ruth",
+            "start_day": 23,
+            "end_day": 23,
+            "length": 1
+          }
+        ],
+        "month_dominance": [
+          {
+            "month": "January",
+            "dominant_book": "Deuteronomy",
+            "dominant_count": 20,
+            "dated_entries": 31,
+            "dominant_share": 0.6452,
+            "distinct_books": 5
+          },
+          {
+            "month": "February",
+            "dominant_book": "Deuteronomy",
+            "dominant_count": 19,
+            "dated_entries": 28,
+            "dominant_share": 0.6786,
+            "distinct_books": 2
+          },
+          {
+            "month": "March",
+            "dominant_book": "Genesis",
+            "dominant_count": 17,
+            "dated_entries": 31,
+            "dominant_share": 0.5484,
+            "distinct_books": 2
+          },
+          {
+            "month": "April",
+            "dominant_book": "Genesis",
+            "dominant_count": 30,
+            "dated_entries": 30,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "May",
+            "dominant_book": "Genesis",
+            "dominant_count": 13,
+            "dated_entries": 31,
+            "dominant_share": 0.4194,
+            "distinct_books": 3
+          },
+          {
+            "month": "June",
+            "dominant_book": "Genesis",
+            "dominant_count": 30,
+            "dated_entries": 30,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "July",
+            "dominant_book": "Genesis",
+            "dominant_count": 31,
+            "dated_entries": 31,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "August",
+            "dominant_book": "Genesis",
+            "dominant_count": 31,
+            "dated_entries": 31,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "September",
+            "dominant_book": "Genesis",
+            "dominant_count": 30,
+            "dated_entries": 30,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "October",
+            "dominant_book": "Genesis",
+            "dominant_count": 31,
+            "dated_entries": 31,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "November",
+            "dominant_book": "Exodus",
+            "dominant_count": 16,
+            "dated_entries": 30,
+            "dominant_share": 0.5333,
+            "distinct_books": 2
+          },
+          {
+            "month": "December",
+            "dominant_book": "Exodus",
+            "dominant_count": 31,
+            "dated_entries": 31,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          }
+        ],
+        "months_over_40_percent_one_book": 12
+      },
+      "duplicate_titles": {
+        "duplicate_group_count": 0,
+        "affected_entry_count": 0,
+        "maximum_occurrences": 1,
+        "top_groups": []
+      },
+      "duplicate_references": {
+        "duplicate_group_count": 0,
+        "affected_entry_count": 0,
+        "maximum_occurrences": 1,
+        "top_groups": []
+      },
+      "duplicate_title_reference_pairs": {
+        "duplicate_group_count": 0,
+        "affected_entry_count": 0,
+        "maximum_occurrences": 1,
+        "top_groups": []
+      },
+      "journals": {
+        "entry_count": 366,
+        "dated_entries": 365,
+        "bonus_entries": 1,
+        "missing_expected_keys": [],
+        "duplicate_keys": [],
+        "missing_prompt": 0,
+        "missing_practice": 0,
+        "structured_focus_write_practice_entries": 182,
+        "direct_question_practice_entries": 184,
+        "source_files_missing_prayer": [],
+        "source_files_missing_review": [],
+        "source_files_with_response_space_markup": [],
+        "master_entry_count": 366,
+        "master_missing_keys": [],
+        "master_source_content_mismatches": [],
+        "duplicate_prompts": {
+          "duplicate_group_count": 0,
+          "affected_entry_count": 0,
+          "maximum_occurrences": 1,
+          "top_groups": []
+        },
+        "duplicate_practices": {
+          "duplicate_group_count": 0,
+          "affected_entry_count": 0,
+          "maximum_occurrences": 1,
+          "top_groups": []
+        }
+      }
+    },
+    "2": {
+      "title": "Walking with Jesus",
+      "file_counts": {
+        "devotional_sources": 54,
+        "journal_sources": 54,
+        "devotional_masters": 1,
+        "journal_masters": 1
+      },
+      "devotional_entries": {
+        "total": 366,
+        "dated": 365,
+        "bonus": 1,
+        "missing_expected_keys": [],
+        "duplicate_keys": [],
+        "master_entry_count": 366,
+        "master_missing_keys": [],
+        "master_source_content_mismatches": [],
+        "word_count": 96644
+      },
+      "scripture": {
+        "reference_count": 366,
+        "structurally_valid_references": 366,
+        "invalid_references": [],
+        "visible_scripture_text_entries": 0,
+        "missing_visible_scripture_text_entries": 366,
+        "translation_tagged_entries": 0
+      },
+      "label_contract": {
+        "missing_current_labels": {
+          "Scripture Reference": 0,
+          "Context and language lens": 0,
+          "Today step": 0,
+          "Prayer": 0,
+          "Journal prompt": 0,
+          "Morning impact": 0
+        },
+        "entries_retaining_today_step": 366,
+        "entries_retaining_morning_impact": 366,
+        "entries_with_both_deprecated_labels": 366
+      },
+      "prayer_and_prompt": {
+        "missing_prayer": 0,
+        "prayers_missing_amen": 0,
+        "prayers_missing_amen_examples": [],
+        "missing_journal_prompt": 0,
+        "prompts_without_question_mark": 0,
+        "prompts_without_question_mark_examples": []
+      },
+      "contextual_language": {
+        "lens_present": 366,
+        "entries_with_explicit_original_language_signal": 244,
+        "entries_without_explicit_original_language_signal": 122,
+        "entries_with_editorial_meta_lens_language": 19,
+        "editorial_meta_lens_examples": [
+          "V2-day-002",
+          "V2-day-003",
+          "V2-day-004",
+          "V2-day-008",
+          "V2-day-009",
+          "V2-day-010",
+          "V2-day-011",
+          "V2-day-012",
+          "V2-day-013",
+          "V2-day-014",
+          "V2-day-015",
+          "V2-day-017",
+          "V2-day-018",
+          "V2-day-019",
+          "V2-day-020",
+          "V2-day-021",
+          "V2-day-023",
+          "V2-day-034",
+          "V2-day-220"
+        ],
+        "note": "Signals are structural/editorial. Theological and lexical accuracy still requires qualified human review against visible KJV/NKJV text."
+      },
+      "date_specific_artifacts": {
+        "devotional_entries_with_2026_or_saturday_wording": 52,
+        "devotional_examples": [
+          "V2-day-003",
+          "V2-day-010",
+          "V2-day-017",
+          "V2-day-024",
+          "V2-day-031",
+          "V2-day-038",
+          "V2-day-045",
+          "V2-day-052",
+          "V2-day-059",
+          "V2-day-066",
+          "V2-day-073",
+          "V2-day-080",
+          "V2-day-087",
+          "V2-day-094",
+          "V2-day-101",
+          "V2-day-108",
+          "V2-day-115",
+          "V2-day-122",
+          "V2-day-129",
+          "V2-day-136",
+          "V2-day-143",
+          "V2-day-150",
+          "V2-day-157",
+          "V2-day-164",
+          "V2-day-171"
+        ],
+        "weekday_claims_inconsistent_with_2026_date": 0,
+        "journal_entries_with_calendar_bound_sabbath_wording_or_heading": 52,
+        "journal_examples": [
+          "V2-day-003",
+          "V2-day-010",
+          "V2-day-017",
+          "V2-day-024",
+          "V2-day-031",
+          "V2-day-038",
+          "V2-day-045",
+          "V2-day-052",
+          "V2-day-059",
+          "V2-day-066",
+          "V2-day-073",
+          "V2-day-080",
+          "V2-day-087",
+          "V2-day-094",
+          "V2-day-101",
+          "V2-day-108",
+          "V2-day-115",
+          "V2-day-122",
+          "V2-day-129",
+          "V2-day-136",
+          "V2-day-143",
+          "V2-day-150",
+          "V2-day-157",
+          "V2-day-164",
+          "V2-day-171"
+        ],
+        "sabbath_occurrences_in_devotional_sources": 298,
+        "sunday_occurrences_in_devotional_sources": 0
+      },
+      "internal_production_language": {
+        "2026 production calendar": {
+          "occurrences": 52,
+          "affected_entries": 52
+        },
+        "this page": {
+          "occurrences": 25,
+          "affected_entries": 25
+        },
+        "this entry": {
+          "occurrences": 1,
+          "affected_entries": 1
+        },
+        "the reader": {
+          "occurrences": 7,
+          "affected_entries": 7
+        },
+        "this lens": {
+          "occurrences": 2,
+          "affected_entries": 2
+        },
+        "production language": {
+          "occurrences": 0,
+          "affected_entries": 0
+        }
+      },
+      "scripture_clustering": {
+        "dated_entries": 365,
+        "distinct_bible_books": 3,
+        "adjacent_same_book_transitions": 354,
+        "adjacent_same_book_rate": 0.9725,
+        "monotonic_transitions_within_same_book": 306,
+        "book_runs_ge_7_days": 6,
+        "book_runs_ge_14_days": 5,
+        "book_runs_ge_30_days": 3,
+        "longest_runs": [
+          {
+            "book": "Matthew",
+            "start_day": 111,
+            "end_day": 301,
+            "length": 191
+          },
+          {
+            "book": "Matthew",
+            "start_day": 27,
+            "end_day": 98,
+            "length": 72
+          },
+          {
+            "book": "Matthew",
+            "start_day": 320,
+            "end_day": 365,
+            "length": 46
+          },
+          {
+            "book": "Revelation",
+            "start_day": 302,
+            "end_day": 319,
+            "length": 18
+          },
+          {
+            "book": "Matthew",
+            "start_day": 6,
+            "end_day": 21,
+            "length": 16
+          },
+          {
+            "book": "Revelation",
+            "start_day": 99,
+            "end_day": 107,
+            "length": 9
+          },
+          {
+            "book": "Matthew",
+            "start_day": 1,
+            "end_day": 4,
+            "length": 4
+          },
+          {
+            "book": "Revelation",
+            "start_day": 22,
+            "end_day": 24,
+            "length": 3
+          },
+          {
+            "book": "1 Peter",
+            "start_day": 108,
+            "end_day": 110,
+            "length": 3
+          },
+          {
+            "book": "1 Peter",
+            "start_day": 25,
+            "end_day": 26,
+            "length": 2
+          },
+          {
+            "book": "1 Peter",
+            "start_day": 5,
+            "end_day": 5,
+            "length": 1
+          }
+        ],
+        "month_dominance": [
+          {
+            "month": "January",
+            "dominant_book": "Matthew",
+            "dominant_count": 25,
+            "dated_entries": 31,
+            "dominant_share": 0.8065,
+            "distinct_books": 3
+          },
+          {
+            "month": "February",
+            "dominant_book": "Matthew",
+            "dominant_count": 28,
+            "dated_entries": 28,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "March",
+            "dominant_book": "Matthew",
+            "dominant_count": 31,
+            "dated_entries": 31,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "April",
+            "dominant_book": "Matthew",
+            "dominant_count": 18,
+            "dated_entries": 30,
+            "dominant_share": 0.6,
+            "distinct_books": 3
+          },
+          {
+            "month": "May",
+            "dominant_book": "Matthew",
+            "dominant_count": 31,
+            "dated_entries": 31,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "June",
+            "dominant_book": "Matthew",
+            "dominant_count": 30,
+            "dated_entries": 30,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "July",
+            "dominant_book": "Matthew",
+            "dominant_count": 31,
+            "dated_entries": 31,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "August",
+            "dominant_book": "Matthew",
+            "dominant_count": 31,
+            "dated_entries": 31,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "September",
+            "dominant_book": "Matthew",
+            "dominant_count": 30,
+            "dated_entries": 30,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "October",
+            "dominant_book": "Matthew",
+            "dominant_count": 28,
+            "dated_entries": 31,
+            "dominant_share": 0.9032,
+            "distinct_books": 2
+          },
+          {
+            "month": "November",
+            "dominant_book": "Revelation",
+            "dominant_count": 15,
+            "dated_entries": 30,
+            "dominant_share": 0.5,
+            "distinct_books": 2
+          },
+          {
+            "month": "December",
+            "dominant_book": "Matthew",
+            "dominant_count": 31,
+            "dated_entries": 31,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          }
+        ],
+        "months_over_40_percent_one_book": 12
+      },
+      "duplicate_titles": {
+        "duplicate_group_count": 0,
+        "affected_entry_count": 0,
+        "maximum_occurrences": 1,
+        "top_groups": []
+      },
+      "duplicate_references": {
+        "duplicate_group_count": 0,
+        "affected_entry_count": 0,
+        "maximum_occurrences": 1,
+        "top_groups": []
+      },
+      "duplicate_title_reference_pairs": {
+        "duplicate_group_count": 0,
+        "affected_entry_count": 0,
+        "maximum_occurrences": 1,
+        "top_groups": []
+      },
+      "journals": {
+        "entry_count": 366,
+        "dated_entries": 365,
+        "bonus_entries": 1,
+        "missing_expected_keys": [],
+        "duplicate_keys": [],
+        "missing_prompt": 0,
+        "missing_practice": 0,
+        "structured_focus_write_practice_entries": 0,
+        "direct_question_practice_entries": 366,
+        "source_files_missing_prayer": [],
+        "source_files_missing_review": [],
+        "source_files_with_response_space_markup": [],
+        "master_entry_count": 366,
+        "master_missing_keys": [],
+        "master_source_content_mismatches": [],
+        "duplicate_prompts": {
+          "duplicate_group_count": 0,
+          "affected_entry_count": 0,
+          "maximum_occurrences": 1,
+          "top_groups": []
+        },
+        "duplicate_practices": {
+          "duplicate_group_count": 0,
+          "affected_entry_count": 0,
+          "maximum_occurrences": 1,
+          "top_groups": []
+        }
+      }
+    },
+    "3": {
+      "title": "Filled with the Holy Spirit",
+      "file_counts": {
+        "devotional_sources": 57,
+        "journal_sources": 57,
+        "devotional_masters": 1,
+        "journal_masters": 1
+      },
+      "devotional_entries": {
+        "total": 366,
+        "dated": 365,
+        "bonus": 1,
+        "missing_expected_keys": [],
+        "duplicate_keys": [],
+        "master_entry_count": 366,
+        "master_missing_keys": [],
+        "master_source_content_mismatches": [],
+        "word_count": 93094
+      },
+      "scripture": {
+        "reference_count": 366,
+        "structurally_valid_references": 366,
+        "invalid_references": [],
+        "visible_scripture_text_entries": 0,
+        "missing_visible_scripture_text_entries": 366,
+        "translation_tagged_entries": 0
+      },
+      "label_contract": {
+        "missing_current_labels": {
+          "Scripture Reference": 0,
+          "Context and language lens": 0,
+          "Today step": 0,
+          "Prayer": 0,
+          "Journal prompt": 0,
+          "Morning impact": 0
+        },
+        "entries_retaining_today_step": 366,
+        "entries_retaining_morning_impact": 366,
+        "entries_with_both_deprecated_labels": 366
+      },
+      "prayer_and_prompt": {
+        "missing_prayer": 0,
+        "prayers_missing_amen": 0,
+        "prayers_missing_amen_examples": [],
+        "missing_journal_prompt": 0,
+        "prompts_without_question_mark": 0,
+        "prompts_without_question_mark_examples": []
+      },
+      "contextual_language": {
+        "lens_present": 366,
+        "entries_with_explicit_original_language_signal": 0,
+        "entries_without_explicit_original_language_signal": 366,
+        "entries_with_editorial_meta_lens_language": 303,
+        "editorial_meta_lens_examples": [
+          "V3-day-002",
+          "V3-day-004",
+          "V3-day-005",
+          "V3-day-008",
+          "V3-day-012",
+          "V3-day-014",
+          "V3-day-017",
+          "V3-day-026",
+          "V3-day-027",
+          "V3-day-031",
+          "V3-day-032",
+          "V3-day-036",
+          "V3-day-044",
+          "V3-day-052",
+          "V3-day-060",
+          "V3-day-070",
+          "V3-day-071",
+          "V3-day-073",
+          "V3-day-075",
+          "V3-day-076",
+          "V3-day-078",
+          "V3-day-079",
+          "V3-day-080",
+          "V3-day-081",
+          "V3-day-083"
+        ],
+        "note": "Signals are structural/editorial. Theological and lexical accuracy still requires qualified human review against visible KJV/NKJV text."
+      },
+      "date_specific_artifacts": {
+        "devotional_entries_with_2026_or_saturday_wording": 52,
+        "devotional_examples": [
+          "V3-day-003",
+          "V3-day-010",
+          "V3-day-017",
+          "V3-day-024",
+          "V3-day-031",
+          "V3-day-038",
+          "V3-day-045",
+          "V3-day-052",
+          "V3-day-059",
+          "V3-day-066",
+          "V3-day-073",
+          "V3-day-080",
+          "V3-day-087",
+          "V3-day-094",
+          "V3-day-101",
+          "V3-day-108",
+          "V3-day-115",
+          "V3-day-122",
+          "V3-day-129",
+          "V3-day-136",
+          "V3-day-143",
+          "V3-day-150",
+          "V3-day-157",
+          "V3-day-164",
+          "V3-day-171"
+        ],
+        "weekday_claims_inconsistent_with_2026_date": 0,
+        "journal_entries_with_calendar_bound_sabbath_wording_or_heading": 52,
+        "journal_examples": [
+          "V3-day-003",
+          "V3-day-010",
+          "V3-day-017",
+          "V3-day-024",
+          "V3-day-031",
+          "V3-day-038",
+          "V3-day-045",
+          "V3-day-052",
+          "V3-day-059",
+          "V3-day-066",
+          "V3-day-073",
+          "V3-day-080",
+          "V3-day-087",
+          "V3-day-094",
+          "V3-day-101",
+          "V3-day-108",
+          "V3-day-115",
+          "V3-day-122",
+          "V3-day-129",
+          "V3-day-136",
+          "V3-day-143",
+          "V3-day-150",
+          "V3-day-157",
+          "V3-day-164",
+          "V3-day-171"
+        ],
+        "sabbath_occurrences_in_devotional_sources": 192,
+        "sunday_occurrences_in_devotional_sources": 0
+      },
+      "internal_production_language": {
+        "2026 production calendar": {
+          "occurrences": 52,
+          "affected_entries": 52
+        },
+        "this page": {
+          "occurrences": 23,
+          "affected_entries": 23
+        },
+        "this entry": {
+          "occurrences": 1,
+          "affected_entries": 1
+        },
+        "the reader": {
+          "occurrences": 11,
+          "affected_entries": 11
+        },
+        "this lens": {
+          "occurrences": 10,
+          "affected_entries": 10
+        },
+        "production language": {
+          "occurrences": 0,
+          "affected_entries": 0
+        }
+      },
+      "scripture_clustering": {
+        "dated_entries": 365,
+        "distinct_bible_books": 7,
+        "adjacent_same_book_transitions": 347,
+        "adjacent_same_book_rate": 0.9533,
+        "monotonic_transitions_within_same_book": 335,
+        "book_runs_ge_7_days": 12,
+        "book_runs_ge_14_days": 7,
+        "book_runs_ge_30_days": 5,
+        "longest_runs": [
+          {
+            "book": "Judges",
+            "start_day": 209,
+            "end_day": 304,
+            "length": 96
+          },
+          {
+            "book": "Genesis",
+            "start_day": 69,
+            "end_day": 117,
+            "length": 49
+          },
+          {
+            "book": "Numbers",
+            "start_day": 162,
+            "end_day": 208,
+            "length": 47
+          },
+          {
+            "book": "Exodus",
+            "start_day": 118,
+            "end_day": 161,
+            "length": 44
+          },
+          {
+            "book": "Matthew",
+            "start_day": 328,
+            "end_day": 365,
+            "length": 38
+          },
+          {
+            "book": "1 Samuel",
+            "start_day": 305,
+            "end_day": 327,
+            "length": 23
+          },
+          {
+            "book": "Judges",
+            "start_day": 26,
+            "end_day": 39,
+            "length": 14
+          },
+          {
+            "book": "Revelation",
+            "start_day": 57,
+            "end_day": 68,
+            "length": 12
+          },
+          {
+            "book": "Numbers",
+            "start_day": 47,
+            "end_day": 56,
+            "length": 10
+          },
+          {
+            "book": "Exodus",
+            "start_day": 12,
+            "end_day": 18,
+            "length": 7
+          },
+          {
+            "book": "Genesis",
+            "start_day": 19,
+            "end_day": 25,
+            "length": 7
+          },
+          {
+            "book": "Matthew",
+            "start_day": 40,
+            "end_day": 46,
+            "length": 7
+          },
+          {
+            "book": "1 Samuel",
+            "start_day": 8,
+            "end_day": 11,
+            "length": 4
+          },
+          {
+            "book": "Exodus",
+            "start_day": 1,
+            "end_day": 2,
+            "length": 2
+          },
+          {
+            "book": "Matthew",
+            "start_day": 4,
+            "end_day": 5,
+            "length": 2
+          }
+        ],
+        "month_dominance": [
+          {
+            "month": "January",
+            "dominant_book": "Exodus",
+            "dominant_count": 9,
+            "dated_entries": 31,
+            "dominant_share": 0.2903,
+            "distinct_books": 7
+          },
+          {
+            "month": "February",
+            "dominant_book": "Numbers",
+            "dominant_count": 10,
+            "dated_entries": 28,
+            "dominant_share": 0.3571,
+            "distinct_books": 4
+          },
+          {
+            "month": "March",
+            "dominant_book": "Genesis",
+            "dominant_count": 22,
+            "dated_entries": 31,
+            "dominant_share": 0.7097,
+            "distinct_books": 2
+          },
+          {
+            "month": "April",
+            "dominant_book": "Genesis",
+            "dominant_count": 27,
+            "dated_entries": 30,
+            "dominant_share": 0.9,
+            "distinct_books": 2
+          },
+          {
+            "month": "May",
+            "dominant_book": "Exodus",
+            "dominant_count": 31,
+            "dated_entries": 31,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "June",
+            "dominant_book": "Numbers",
+            "dominant_count": 20,
+            "dated_entries": 30,
+            "dominant_share": 0.6667,
+            "distinct_books": 2
+          },
+          {
+            "month": "July",
+            "dominant_book": "Numbers",
+            "dominant_count": 27,
+            "dated_entries": 31,
+            "dominant_share": 0.871,
+            "distinct_books": 2
+          },
+          {
+            "month": "August",
+            "dominant_book": "Judges",
+            "dominant_count": 31,
+            "dated_entries": 31,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "September",
+            "dominant_book": "Judges",
+            "dominant_count": 30,
+            "dated_entries": 30,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "October",
+            "dominant_book": "Judges",
+            "dominant_count": 31,
+            "dated_entries": 31,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          },
+          {
+            "month": "November",
+            "dominant_book": "1 Samuel",
+            "dominant_count": 23,
+            "dated_entries": 30,
+            "dominant_share": 0.7667,
+            "distinct_books": 2
+          },
+          {
+            "month": "December",
+            "dominant_book": "Matthew",
+            "dominant_count": 31,
+            "dated_entries": 31,
+            "dominant_share": 1.0,
+            "distinct_books": 1
+          }
+        ],
+        "months_over_40_percent_one_book": 10
+      },
+      "duplicate_titles": {
+        "duplicate_group_count": 0,
+        "affected_entry_count": 0,
+        "maximum_occurrences": 1,
+        "top_groups": []
+      },
+      "duplicate_references": {
+        "duplicate_group_count": 0,
+        "affected_entry_count": 0,
+        "maximum_occurrences": 1,
+        "top_groups": []
+      },
+      "duplicate_title_reference_pairs": {
+        "duplicate_group_count": 0,
+        "affected_entry_count": 0,
+        "maximum_occurrences": 1,
+        "top_groups": []
+      },
+      "journals": {
+        "entry_count": 366,
+        "dated_entries": 365,
+        "bonus_entries": 1,
+        "missing_expected_keys": [],
+        "duplicate_keys": [],
+        "missing_prompt": 0,
+        "missing_practice": 0,
+        "structured_focus_write_practice_entries": 0,
+        "direct_question_practice_entries": 366,
+        "source_files_missing_prayer": [],
+        "source_files_missing_review": [],
+        "source_files_with_response_space_markup": [],
+        "master_entry_count": 366,
+        "master_missing_keys": [],
+        "master_source_content_mismatches": [],
+        "duplicate_prompts": {
+          "duplicate_group_count": 1,
+          "affected_entry_count": 2,
+          "maximum_occurrences": 2,
+          "top_groups": [
+            {
+              "value": "What pressure needs to be named before God today?",
+              "occurrences": 2,
+              "entry_ids": [
+                "V3-day-211",
+                "V3-day-245"
+              ]
+            }
+          ]
+        },
+        "duplicate_practices": {
+          "duplicate_group_count": 0,
+          "affected_entry_count": 0,
+          "maximum_occurrences": 1,
+          "top_groups": []
+        }
+      }
+    }
+  },
+  "findings": [
+    {
+      "id": "F-001",
+      "severity": "Critical",
+      "confidence": "High",
+      "failure": "Required visible Scripture text is absent from the devotional entries.",
+      "evidence": "1098 of 1,098 entries lack a visible, translation-tagged Scripture text block; 0 contain one.",
+      "impact": "Readers cannot see the passage being interpreted, and context-language claims cannot be checked on the page.",
+      "likely_cause": "The sources preserve a pre-permissions placeholder policy that conflicts with the July 6 direction.",
+      "remediation": "Insert verified KJV text or properly licensed NKJV text with a translation tag in every entry, then run text-reference concordance and rights checks."
+    },
+    {
+      "id": "F-002",
+      "severity": "Critical",
+      "confidence": "High",
+      "failure": "The revised daily-entry contract from July 6 has not been implemented.",
+      "evidence": "All 1,098 entries retain both Today step and Morning impact instead of the requested fused reflection/action ending.",
+      "impact": "The pages remain crowded and formulaic, leaving less room for the fuller, more impactful devotional narrative requested by the author.",
+      "likely_cause": "The assembled masters still reflect the earlier production schema.",
+      "remediation": "Rewrite to one locked entry contract and remove both deprecated labels from the revised masters."
+    },
+    {
+      "id": "F-003",
+      "severity": "High",
+      "confidence": "High",
+      "failure": "Scripture selection remains heavily clustered in long, sequential Bible-book runs.",
+      "evidence": "V1: longest run 178 days in Genesis, 97.0% adjacent same-book transitions; V2: longest run 191 days in Matthew, 97.2% adjacent same-book transitions; V3: longest run 96 days in Judges, 95.3% adjacent same-book transitions",
+      "impact": "The reader experiences the mechanical Bible-order crawl the July 6 guidance explicitly rejected.",
+      "likely_cause": "References were allocated in book-order production batches rather than curated as a thematic reading journey.",
+      "remediation": "Re-sequence within monthly themes using diversity constraints and a human-reviewed narrative arc."
+    },
+    {
+      "id": "F-004",
+      "severity": "High",
+      "confidence": "High",
+      "failure": "Formula reuse and duplicated sentences create an automated-production voice.",
+      "evidence": "44 exact repeated sentence groups, 9 title-masked near-exact template groups, and 28 within-entry duplicate sentence instances.",
+      "impact": "Repetition weakens Lady D's personal voice and the requested emotional impact.",
+      "likely_cause": "Reusable transition and impact-line templates were applied at scale.",
+      "remediation": "Rewrite repeated frames, remove within-entry duplicates, and enforce a corpus-level phrase-reuse gate with a small approved liturgical whitelist."
+    },
+    {
+      "id": "F-005",
+      "severity": "High",
+      "confidence": "High",
+      "failure": "Calendar-bound 2026/Saturday language makes the evergreen devotional edition date-specific.",
+      "evidence": "148 devotional entries and 140 journal entries contain strict 2026/Saturday-bound wording or headings.",
+      "impact": "The day/date sequence will assert the wrong weekday in other years and makes Sabbath reflections look mechanically assigned from the 2026 calendar.",
+      "likely_cause": "Saturday flags were generated from the 2026 production calendar.",
+      "remediation": "Remove year/weekday assertions; preserve Sabbath theology through evergreen thematic placement and author-approved wording."
+    },
+    {
+      "id": "F-006",
+      "severity": "High",
+      "confidence": "Medium",
+      "failure": "The Context and language lens frequently behaves as editorial scaffolding rather than concise reader-facing language insight.",
+      "evidence": "569 entries contain explicit lens/meta framing; 612 have no deterministic original-language signal.",
+      "impact": "The feature can feel technical, generic, or disconnected, especially because the Scripture text it should illuminate is missing.",
+      "likely_cause": "Context explanation and original-language study were combined under one label without a locked quality rubric.",
+      "remediation": "Keep the lens only where it adds verified meaning; require qualified lexical review and remove all editorial/meta phrasing."
+    },
+    {
+      "id": "F-007",
+      "severity": "High",
+      "confidence": "High",
+      "failure": "Companion-journal content coverage exists, but the journal source is not a finished reader-writing product.",
+      "evidence": "All 1,098 reflections have prompts/practices, but only 0 of 165 journal sources contain detectable response-space markup; style shifts between structured Focus/Write/Practice and direct question/Practice formats.",
+      "impact": "The journal is content-complete but not layout-complete or contract-consistent for KDP release.",
+      "likely_cause": "Journal masters were assembled before trim-specific design and human-touch layout work.",
+      "remediation": "Lock one journal contract, add intentional writing space and weekly/monthly rhythm, then proof at final trim size."
+    },
+    {
+      "id": "F-008",
+      "severity": "Medium",
+      "confidence": "High",
+      "failure": "Titles and Scripture references need duplicate/near-duplicate editorial review.",
+      "evidence": "Corpus duplicate titles: 1 groups; duplicate references: 82 groups; near-duplicate title pairs at >=90% similarity: 79.",
+      "impact": "Repeated naming and passages can make the year feel less intentionally composed even when individual entries differ.",
+      "likely_cause": "Title-generation formulas and separate volume production lanes were not reconciled at trilogy scale.",
+      "remediation": "Review duplicate groups in context and require rationale for any intentional reuse."
+    },
+    {
+      "id": "F-009",
+      "severity": "Medium",
+      "confidence": "High",
+      "failure": "Internal review/production language remains in source and master front matter, with additional meta language inside entries.",
+      "evidence": "Every production batch carries production/editorial permission notes; entry-level counts are detailed by volume in this report.",
+      "impact": "Internal scaffolding can leak into customer-facing or KDP-ready outputs and reduces the sense of a finished book.",
+      "likely_cause": "Review masters were promoted before a clean publication-layer transform.",
+      "remediation": "Create a publication master with zero internal notes and enforce a forbidden-phrase test."
+    }
+  ],
+  "acceptance_tests": [
+    {
+      "id": "AT-001",
+      "name": "Corpus grain",
+      "test": "Each volume contains Day 001-365 exactly once plus one February 29 bonus; no missing or duplicate keys in source or master.",
+      "threshold": "366 entries per volume; 1,098 total; 0 mismatches."
+    },
+    {
+      "id": "AT-002",
+      "name": "Visible Scripture",
+      "test": "Every entry contains the full quoted passage, a KJV/NKJV tag, and a reference that concords with the displayed text.",
+      "threshold": "1,098/1,098 pass; 0 unlabeled or discordant passages."
+    },
+    {
+      "id": "AT-003",
+      "name": "Scripture rights",
+      "test": "KJV public-domain/territory policy or NKJV license/quotation limits are documented for print, ebook, web, and audio.",
+      "threshold": "Signed publishing-rights checklist before layout lock."
+    },
+    {
+      "id": "AT-004",
+      "name": "Revised entry contract",
+      "test": "Entry contains date/title, visible Scripture, opening hook, fuller devotional body, optional verified meaning lens, prayer, and one fused reflection/action ending.",
+      "threshold": "100% contract coverage; 0 Today step labels; 0 Morning impact labels."
+    },
+    {
+      "id": "AT-005",
+      "name": "Prayer and prompt",
+      "test": "Every entry has a substantive prayer and a clear reader-facing reflection/action prompt tied to the passage.",
+      "threshold": "1,098/1,098 present; 0 placeholders; 0 empty or fragmentary fields."
+    },
+    {
+      "id": "AT-006",
+      "name": "Phrase originality",
+      "test": "Scan sentences of eight or more words after normalization and title masking.",
+      "threshold": "0 within-entry duplicate sentences; no unapproved sentence/template in more than 3 entries; approved refrains documented."
+    },
+    {
+      "id": "AT-007",
+      "name": "Scripture journey",
+      "test": "Measure same-book runs, monthly book diversity, and adjacent same-book rate after re-sequencing.",
+      "threshold": "No undocumented run over 7 days; no month over 40% one book; at least 4 Bible books per month; adjacent same-book rate <=35%."
+    },
+    {
+      "id": "AT-008",
+      "name": "Evergreen dating",
+      "test": "Search devotional and journal sources for production year and weekday-bound claims.",
+      "threshold": "0 occurrences of production-calendar/2026 wording; 0 Saturday/Sunday claims tied to fixed dates."
+    },
+    {
+      "id": "AT-009",
+      "name": "Context-language quality",
+      "test": "Any retained lens is concise, passage-specific, reader-facing, and reviewed against the displayed verse by a qualified biblical-language/theology reviewer.",
+      "threshold": "0 editorial-meta lenses; 100% retained lenses signed off; optional omission preferred over weak filler."
+    },
+    {
+      "id": "AT-010",
+      "name": "Title/reference duplication",
+      "test": "Exact and >=90% near-duplicate titles plus repeated references are reviewed in trilogy context.",
+      "threshold": "0 accidental duplicate titles; every repeated reference has documented thematic rationale and distinct treatment."
+    },
+    {
+      "id": "AT-011",
+      "name": "Journal coverage",
+      "test": "Each devotional entry maps one-to-one to a journal reflection with a clear prompt and practice.",
+      "threshold": "366/366 per volume; 0 missing/duplicate mappings; 0 empty prompt/practice fields."
+    },
+    {
+      "id": "AT-012",
+      "name": "Journal product design",
+      "test": "Final 6x9 journal masters use one approved hierarchy, adequate response space, weekly prayer/review rhythm, and legible trim-safe margins.",
+      "threshold": "100% page-template conformance; KDP Previewer and printed-proof approval."
+    },
+    {
+      "id": "AT-013",
+      "name": "Publication language",
+      "test": "Search publication masters for production, editorial, permissions, model, prompt, reader-instruction scaffolding, and placeholder language.",
+      "threshold": "0 internal-production hits in reader-facing files."
+    },
+    {
+      "id": "AT-014",
+      "name": "Master/source integrity",
+      "test": "Rebuild masters from the declared source inventory and compare normalized entry signatures and hashes.",
+      "threshold": "0 missing entries; 0 content mismatches; manifest and checksums archived."
+    },
+    {
+      "id": "AT-015",
+      "name": "Scripture glossary",
+      "test": "Generate biblical-order glossary entries linking reference to day/date and final page after pagination lock.",
+      "threshold": "1,098 source entries represented; 0 broken day/page mappings."
+    },
+    {
+      "id": "AT-016",
+      "name": "Independent release gate",
+      "test": "A second auditor samples all flagged categories and verifies automated counts after rewrite; author reviews representative months and final proofs.",
+      "threshold": "No Critical/High findings open; signed author/editor/auditor approvals; physical proof approved."
+    }
+  ],
+  "file_inventory": [
+    {
+      "path": "downloads/production/volume-1-days-001-007-pilot-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14468,
+      "sha256": "a695d4179c5e2f01e89fe19f76b36a6c9e650251494359c4ac09efcb24634b25"
+    },
+    {
+      "path": "downloads/production/volume-1-days-008-014-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 13084,
+      "sha256": "9f43bb25e11088cabc8eec3948ef3b6fd289b450bf849387945d680369fb6581"
+    },
+    {
+      "path": "downloads/production/volume-1-days-015-021-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 13462,
+      "sha256": "762c93d832e7c5d986f593c29db9d36f11d3efe969a80362c54bb3feae66c32f"
+    },
+    {
+      "path": "downloads/production/volume-1-days-022-028-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 13332,
+      "sha256": "73ca4e2cf25e64e97e18f1a52a36c5460cc52be8af9963ba2b720e1ec0604d8d"
+    },
+    {
+      "path": "downloads/production/volume-1-days-029-031-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 6360,
+      "sha256": "113d2c02880dc94876b557512ec909145b176e0616fcd71638f1b31f9e9f5ebd"
+    },
+    {
+      "path": "downloads/production/volume-1-days-032-038-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14051,
+      "sha256": "30db6f01d318045b56372d3dc971f9613ddc75e13ded3270ddd725e4a6ce1724"
+    },
+    {
+      "path": "downloads/production/volume-1-days-039-045-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 13680,
+      "sha256": "d87f2bedfdfc863c768412e020ec273cd56ed16a5857ff20c4f15cd9947aa219"
+    },
+    {
+      "path": "downloads/production/volume-1-days-046-052-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 13777,
+      "sha256": "de589e3c69cb52738aa0d80036a929dabda3cd2db8aaaff5b2ff095398904a1a"
+    },
+    {
+      "path": "downloads/production/volume-1-days-053-059-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15377,
+      "sha256": "cebf135e55f68e23fa5a0278418bdaf25b5aa514a1f705ff6a35a37378b7bc5d"
+    },
+    {
+      "path": "downloads/production/volume-1-leap-day-bonus-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 2618,
+      "sha256": "d75b5f23057ed520485161f238164090df2cd5ad3ca2b0f924cf32d241c5e2c6"
+    },
+    {
+      "path": "downloads/production/volume-1-days-060-066-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14372,
+      "sha256": "dda0ba67b15b99da2ecd6ed3483da8048d944f0e592f57e3065efc348b128e92"
+    },
+    {
+      "path": "downloads/production/volume-1-days-067-073-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14972,
+      "sha256": "4962405e9f2383cc11621b1f91ff3d8068b7f3710a071add591d72b566dad1ed"
+    },
+    {
+      "path": "downloads/production/volume-1-days-074-080-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14408,
+      "sha256": "94341b149039d3c4d3c1f50e744cc3c0c9e295c1de6828991fa3aa76aa046acc"
+    },
+    {
+      "path": "downloads/production/volume-1-days-081-087-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 13982,
+      "sha256": "5e41c4fa181c85991a030faad6a5b60fc883173cf6f9341b050244d90000fcba"
+    },
+    {
+      "path": "downloads/production/volume-1-days-088-094-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 13631,
+      "sha256": "0564df673f77788aa128d7ea0d075f077d0c596681e2a0f298430a338ac7cb7f"
+    },
+    {
+      "path": "downloads/production/volume-1-days-095-101-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14423,
+      "sha256": "cb8bcf842247a536d34b60df158a7d542cfa0f5b51b053286d9f9cc2ddea3c58"
+    },
+    {
+      "path": "downloads/production/volume-1-days-102-108-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 13875,
+      "sha256": "2f5266be634387bf3967e5ce7aee41fc54375f15cba836f2a49ff2d1d157e9b6"
+    },
+    {
+      "path": "downloads/production/volume-1-days-109-115-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14761,
+      "sha256": "3d62222a1639ec370df101a3c50ecc641e2ed283e3d967aea19846e2b86bac15"
+    },
+    {
+      "path": "downloads/production/volume-1-days-116-122-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 13989,
+      "sha256": "22759f12ac0e5a5e6d8a9d8dd82c54282cc6db11d0247cca0b80b500193f9a19"
+    },
+    {
+      "path": "downloads/production/volume-1-days-123-129-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14269,
+      "sha256": "f6d5c7e392ff4ab8c50d50a553fad175a124086d28bb8cc7b6955b98674d1353"
+    },
+    {
+      "path": "downloads/production/volume-1-days-130-136-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 16495,
+      "sha256": "96dc1d0983283ed27e7a255a945b8b4259e9894786061b5f83f86a48b85fefdb"
+    },
+    {
+      "path": "downloads/production/volume-1-days-137-143-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15390,
+      "sha256": "035fc6f08cca739bb8f2c9560b0d2749d2dcaa4af3335d355befd720254a8e33"
+    },
+    {
+      "path": "downloads/production/volume-1-days-144-150-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15270,
+      "sha256": "5684c3ec78685ca470601cd4be09eb86ed009c26f27b1e1ca08149b996d14132"
+    },
+    {
+      "path": "downloads/production/volume-1-days-151-157-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15104,
+      "sha256": "4efa810c2973ccde8b927bccef431ed1a2a4f3b6f3314f036853d6b6692424f6"
+    },
+    {
+      "path": "downloads/production/volume-1-days-158-164-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15509,
+      "sha256": "265a3a793bc2bd6b3e88933d4083b6d5ab938d27f606be2f513d58c6b58ae296"
+    },
+    {
+      "path": "downloads/production/volume-1-days-165-171-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14832,
+      "sha256": "9c4650d88f5504e300430be5f71f23a7696389d69e95450b0017d6660032fd07"
+    },
+    {
+      "path": "downloads/production/volume-1-days-172-178-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 16881,
+      "sha256": "b422783904cd9502e2b5d15c46cd29f29708c210aea2fa9601c64db58a7ec58c"
+    },
+    {
+      "path": "downloads/production/volume-1-days-179-181-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 7975,
+      "sha256": "ecd88c77b892257f295d12212b5fd828b9fc8f5165f93edcf677b93a2a1f1028"
+    },
+    {
+      "path": "downloads/production/volume-1-days-182-188-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 17061,
+      "sha256": "851f7c63aa7d5027c54e2ca056c67f67bd328cdbffcb7ae16d8f67283da2c5ba"
+    },
+    {
+      "path": "downloads/production/volume-1-days-189-195-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 16461,
+      "sha256": "24674238b79040cbf97946c4f5a0d969e6f539110df70024107e26a118ddfc9f"
+    },
+    {
+      "path": "downloads/production/volume-1-days-196-202-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 17263,
+      "sha256": "33bdfb44fe54ec63ef5e53db659482a980bcd88b28ac2da9730a38505a6f9860"
+    },
+    {
+      "path": "downloads/production/volume-1-days-203-209-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 16944,
+      "sha256": "23eb33fb3f9687c093d4d1e11aadff8cc2530ad66e539762eb3c4104d8abf87f"
+    },
+    {
+      "path": "downloads/production/volume-1-days-210-216-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 17330,
+      "sha256": "8c10a1d5f25499e247288e19be240afef377a4d6df0f3a692536b42cda781201"
+    },
+    {
+      "path": "downloads/production/volume-1-days-217-223-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 17307,
+      "sha256": "4ac885e83311061dd8e30028a1874ece67141def9fb14cd5e437553f821162f1"
+    },
+    {
+      "path": "downloads/production/volume-1-days-224-230-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 16721,
+      "sha256": "271e93f9dc40a21fe6d5d4bc0d258702db5fa47336199dc9e8aa36c4df55ab76"
+    },
+    {
+      "path": "downloads/production/volume-1-days-231-237-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 16346,
+      "sha256": "09a70c4bf1ccb65b7ebb2e8b5b64c5a995d8e0a5f62c6e72aad24dfe4cb97a85"
+    },
+    {
+      "path": "downloads/production/volume-1-days-238-244-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15340,
+      "sha256": "2fc0e666a4144b96cf0c9d22400256370f346950d0a1c3c723106a7f44138b3e"
+    },
+    {
+      "path": "downloads/production/volume-1-days-245-251-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15778,
+      "sha256": "3cd6057281e3ba98868a20b2e52c088c59b897b277102cde851c44b1561a3c4c"
+    },
+    {
+      "path": "downloads/production/volume-1-days-252-258-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15304,
+      "sha256": "7ee22f2f4a397adb89a9fb4d71c5ddaf60a5ab0afaaec5399e09ed7d010da8fa"
+    },
+    {
+      "path": "downloads/production/volume-1-days-259-265-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 16002,
+      "sha256": "e6f8fa521e3b2f614b895a5ebe05f89d0c57b304a2cba3a4774b6cc2f6f6b349"
+    },
+    {
+      "path": "downloads/production/volume-1-days-266-272-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15835,
+      "sha256": "7d935fd041315c8e4116f43d5859af342786b71904c58965d83a2e3a08a9cb68"
+    },
+    {
+      "path": "downloads/production/volume-1-days-273-279-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15509,
+      "sha256": "fabdd0029848e6552852e348694e013cd039565c04407120c65a7e32e6f8d422"
+    },
+    {
+      "path": "downloads/production/volume-1-days-280-286-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14909,
+      "sha256": "d3ee687910b3388aabc8d68ce9f0a0c70f78aae43af47768deed85ed2ad55a7c"
+    },
+    {
+      "path": "downloads/production/volume-1-days-287-293-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14797,
+      "sha256": "a0c691ef27bb0913836ea9d996d55f6e7d1521642e01d278bf8813aa19f9a1ff"
+    },
+    {
+      "path": "downloads/production/volume-1-days-294-300-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15398,
+      "sha256": "606b4b4f1cf2cc6f3b298253dd8e90ae99d002be0312ded23aa37f9a12c9c7eb"
+    },
+    {
+      "path": "downloads/production/volume-1-days-301-307-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14855,
+      "sha256": "9a682d9abba10ea9d495b41cfe15dde582d158161b05d4dc3cc27c04e55561d1"
+    },
+    {
+      "path": "downloads/production/volume-1-days-308-314-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14860,
+      "sha256": "b745d13a3ec18445f10430dcaf2f41180dab45782f5c2cfe7752b5a39319bf3b"
+    },
+    {
+      "path": "downloads/production/volume-1-days-315-321-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14030,
+      "sha256": "45423a22872288095f8562a3b324ccf6c3e900207044bcaaf630531bc8906eb7"
+    },
+    {
+      "path": "downloads/production/volume-1-days-322-328-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14348,
+      "sha256": "552e5eaf5059521231d42de77f45f6fdd6353d0fce10b0bf0d2e4c85c22fe019"
+    },
+    {
+      "path": "downloads/production/volume-1-days-329-335-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15149,
+      "sha256": "c06a6b01b99dc6911c67308159620c157da081cd75f84cf89b8da0def8f7b1f9"
+    },
+    {
+      "path": "downloads/production/volume-1-days-336-342-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15558,
+      "sha256": "633a31b0627e1a7f4f26082015dcb85feed4af0d86ee05af4290fe25b172447a"
+    },
+    {
+      "path": "downloads/production/volume-1-days-343-349-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15312,
+      "sha256": "388a02972f7b17387c303ed20ab49a2d845d3578c63bfee4f01995b7cf7775aa"
+    },
+    {
+      "path": "downloads/production/volume-1-days-350-356-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 15488,
+      "sha256": "a723cc52e770f73eee1c2844b9c7e6d60131bd43201390cba37c02a019b8ec51"
+    },
+    {
+      "path": "downloads/production/volume-1-days-357-363-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 14742,
+      "sha256": "34da6b22544b9e65f625ec4aea2ee736cc27292c6651f75432d23549393287f1"
+    },
+    {
+      "path": "downloads/production/volume-1-days-364-365-manuscript.md",
+      "role": "devotional_source",
+      "volume": 1,
+      "bytes": 5446,
+      "sha256": "06ad0439c68a46dc3b701b7b0be264184c8a1f1eddaa1e9316fa166bdc429aca"
+    },
+    {
+      "path": "downloads/production/volume-1-january-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 1999,
+      "sha256": "9c02ab8a056d58dc3e81f01ad98ade3d8fb66e45dd50bd8f489cee3389751117"
+    },
+    {
+      "path": "downloads/production/volume-1-january-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 1974,
+      "sha256": "eb32298c489e629b95829dcd7b08b1a56b5dd368bff0d2383e5e69fd3f034464"
+    },
+    {
+      "path": "downloads/production/volume-1-january-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2067,
+      "sha256": "40321f076170830de3f791afd47a9fc5b07d6e1b9fc6213f969e384f588f19df"
+    },
+    {
+      "path": "downloads/production/volume-1-january-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2057,
+      "sha256": "ea1904c899056a42b8c6526bea4c4de852bb38d7afbc8c7450ebf1d2956a71df"
+    },
+    {
+      "path": "downloads/production/volume-1-january-week-5-month-close-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 1620,
+      "sha256": "54498080f4e1027bca94590a4e37a5e4cee1020bd27cd25084c7473726f5c809"
+    },
+    {
+      "path": "downloads/production/volume-1-february-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2324,
+      "sha256": "86a13a85312d31cf8db665c68fd7e21a10132619edeacef7b1018c4961a1e3c5"
+    },
+    {
+      "path": "downloads/production/volume-1-february-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2281,
+      "sha256": "eb5ba4b805f0eab1f0c41272eae9e892349d38f0dea1b073511eefc76c619376"
+    },
+    {
+      "path": "downloads/production/volume-1-february-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2303,
+      "sha256": "0ed9e2542e2f7ca84ca0904fafc4448117aa269c41eae1133532dbd17e94ebd7"
+    },
+    {
+      "path": "downloads/production/volume-1-february-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2478,
+      "sha256": "9ed503a2a5ca62f5a21f7d37b58fb6aa0d6d2a344dab9625d47e2dde564dfe0e"
+    },
+    {
+      "path": "downloads/production/volume-1-leap-day-and-march-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2801,
+      "sha256": "71225a5b8fba5e844b8013616de8d55da46f6f4e65e02e44e42174be876c6929"
+    },
+    {
+      "path": "downloads/production/volume-1-march-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2691,
+      "sha256": "a2dbd49b9a747f89c35f4bb3ec0747a3ee3e469436f3b6557cca20aa745afe1b"
+    },
+    {
+      "path": "downloads/production/volume-1-march-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2622,
+      "sha256": "bfd5b801d447c20b1db4200e7378f593490caa4b4c182beefb7ca66169b97bc7"
+    },
+    {
+      "path": "downloads/production/volume-1-march-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2592,
+      "sha256": "1fd2ed94771e7ff9e3dc15631b76937bcd817142d70ecd4420f608851431e761"
+    },
+    {
+      "path": "downloads/production/volume-1-march-close-and-april-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2566,
+      "sha256": "f291b0492bc260da99e0b545c1847642fcc4b912b2d6e862468a6f318f4c931b"
+    },
+    {
+      "path": "downloads/production/volume-1-april-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2545,
+      "sha256": "8a8dc5f57eca70f4966cebe01f4db70e51e9f47fc14c3f965d86a7c7d4680054"
+    },
+    {
+      "path": "downloads/production/volume-1-april-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2426,
+      "sha256": "9f324de047a2f808ef483a7c825d576c4f435bbe37f5910c58800b599dcaf532"
+    },
+    {
+      "path": "downloads/production/volume-1-april-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2663,
+      "sha256": "e5e7c23f17f4c4d76efa6664a916634a35972e2ab50439317036b2d15ed72df5"
+    },
+    {
+      "path": "downloads/production/volume-1-april-close-and-may-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2576,
+      "sha256": "8e498267b62585c664483128e9e29a00bdb47693a319b1a6bb70487b0ef48cd1"
+    },
+    {
+      "path": "downloads/production/volume-1-may-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2744,
+      "sha256": "0fd518b1d83c0c9808ab8b34ecd27e86d71eebd2124c256067bca553b23b9421"
+    },
+    {
+      "path": "downloads/production/volume-1-may-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2887,
+      "sha256": "abd5b2baaf7a4c63bcd567d141db0baefa541757bf8369048d58a6a844ad9edd"
+    },
+    {
+      "path": "downloads/production/volume-1-may-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2931,
+      "sha256": "0c4a36516dc32f7032a426d6f435c24e971df53859a2c711f98941cb1f0cfc13"
+    },
+    {
+      "path": "downloads/production/volume-1-may-week-5-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2890,
+      "sha256": "17efa95db3d3403794c758b3315e0b13e6d9ec721aec7c8d4d427a45e7d1a220"
+    },
+    {
+      "path": "downloads/production/volume-1-may-close-and-june-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2927,
+      "sha256": "b17a2d1f7b1ae7e281b9bd8a32dd1c38e7a1eb995c555fddbd8f0478d9c27296"
+    },
+    {
+      "path": "downloads/production/volume-1-june-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 3016,
+      "sha256": "3e842894c56026adeef48f80ad1119b0502c9ae51faaed8bc76d60916d9e8050"
+    },
+    {
+      "path": "downloads/production/volume-1-june-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2922,
+      "sha256": "16ed5406944bcf7fd586dff70fdad8eeed0b9df53d5cb94df71eac9d65f5b807"
+    },
+    {
+      "path": "downloads/production/volume-1-june-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 3131,
+      "sha256": "2fa1c26e1cef9807de4ae6e94e715f0f02544ac3fba1e5f7c3acd95590923caa"
+    },
+    {
+      "path": "downloads/production/volume-1-june-closeout-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 1776,
+      "sha256": "2c8a272464311da7ed1337ce8b66611927313afd3b9c2e01266d32fd5d1bcd84"
+    },
+    {
+      "path": "downloads/production/volume-1-july-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 1992,
+      "sha256": "0142239a263fa30a9921d6b12edfae47412cff1b5e511c920c2c128025fa0036"
+    },
+    {
+      "path": "downloads/production/volume-1-july-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2014,
+      "sha256": "7866196dd7725b2db5c19b3bd92561a60de388db3187f865a80f4f46f997fdea"
+    },
+    {
+      "path": "downloads/production/volume-1-july-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2197,
+      "sha256": "5ef78dc24ec4e93a8b26ec1b483eb6b59e9d0990f83a5c8834e838143fcddc84"
+    },
+    {
+      "path": "downloads/production/volume-1-july-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2104,
+      "sha256": "682cfc6f5c11752028b28637cedbaa24c6c6434d499cd5570c2cff3b01618c6d"
+    },
+    {
+      "path": "downloads/production/volume-1-july-august-transition-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2224,
+      "sha256": "5142d2340187f7b5495c0bc7a9606f39676434a8fac093e3cb97be1b0c302d3e"
+    },
+    {
+      "path": "downloads/production/volume-1-august-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2393,
+      "sha256": "f37b5580e0c92fbce72bfb6be10fe80ea1ce807528618012fced4d8ebb8ea308"
+    },
+    {
+      "path": "downloads/production/volume-1-august-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2429,
+      "sha256": "5d3b341397f25c47faa2db5bef0001ec6b62149f9fdafcc31092a4fe3e0f8084"
+    },
+    {
+      "path": "downloads/production/volume-1-august-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2333,
+      "sha256": "4387084183b90fce9b60f1500be6110793487143876af11e7abed61adfe1fad1"
+    },
+    {
+      "path": "downloads/production/volume-1-august-september-transition-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2351,
+      "sha256": "963aa7aec853d175e61689d320fcceace3842b996d5348dd3f4fe4aef905478a"
+    },
+    {
+      "path": "downloads/production/volume-1-september-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2402,
+      "sha256": "554ea99e837db9510dfccd2c8092d916010bb050d4a3162c993b9684bb9ca1f5"
+    },
+    {
+      "path": "downloads/production/volume-1-september-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2308,
+      "sha256": "df0d722791811bfccfacd8570b7c4324691aedd9628d67f1cf850c8551587d29"
+    },
+    {
+      "path": "downloads/production/volume-1-september-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2561,
+      "sha256": "ad8a474b60f80918af8a89a1bab48cfff3c3f5d19024f255f4af433388aa92d8"
+    },
+    {
+      "path": "downloads/production/volume-1-september-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2428,
+      "sha256": "76795e755695d689425f72279940626df7f212ce7a23ed9bfca332c6f01eecd7"
+    },
+    {
+      "path": "downloads/production/volume-1-september-october-transition-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2386,
+      "sha256": "b5225d60f130cc3860227b002bd39215bef01effeb6928bd4e647a32b88f66e7"
+    },
+    {
+      "path": "downloads/production/volume-1-october-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2324,
+      "sha256": "e0900bd29c8eabc688b242980e5e127f3f1adb0b61234ec2cb9e8dbec8f1f620"
+    },
+    {
+      "path": "downloads/production/volume-1-october-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2388,
+      "sha256": "64be2a11ae2c4aba7413366d6328ebdc15a68ec38017d7c69fe916107ee7601e"
+    },
+    {
+      "path": "downloads/production/volume-1-october-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2558,
+      "sha256": "db811d658ed39ce37fabf227280b82690a4cbdb52f1cd332a9c81cb26e571553"
+    },
+    {
+      "path": "downloads/production/volume-1-october-november-transition-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2437,
+      "sha256": "f414a525581d4309a7670805e181e42ff3021fba7b975632e8091a2f02aa6e1a"
+    },
+    {
+      "path": "downloads/production/volume-1-november-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2726,
+      "sha256": "9a13bf33356b9297c811b5c9d3e74dae03da34b9cee263124115927fb8361554"
+    },
+    {
+      "path": "downloads/production/volume-1-november-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2377,
+      "sha256": "78909876f2c3e7f69c420e460ef32632996a47c492ed32ca235b7a54df955d4e"
+    },
+    {
+      "path": "downloads/production/volume-1-november-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2369,
+      "sha256": "6dd598664bc1fefc774a9ab795c8c8af24f1b2a340a491d61bc59207e1c7be13"
+    },
+    {
+      "path": "downloads/production/volume-1-november-close-december-open-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2446,
+      "sha256": "da7ba2f93055b646e7b542251a361171555eb5da2b1a041868f3ed22e5e14adb"
+    },
+    {
+      "path": "downloads/production/volume-1-december-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2575,
+      "sha256": "d86619bd4482c1a8ce7c7e63dffa6a6cae5fbc11df14105bcbdd7939c8a126fa"
+    },
+    {
+      "path": "downloads/production/volume-1-december-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2437,
+      "sha256": "b3cf6c18411c64fe60691240ad1ef78e24de4476a7c5d4b7004c7ffdaba109b3"
+    },
+    {
+      "path": "downloads/production/volume-1-december-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2431,
+      "sha256": "817218020bcc5d81070e63223aa336280c689eeed412315d406eaf747122b839"
+    },
+    {
+      "path": "downloads/production/volume-1-december-week-5-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 2399,
+      "sha256": "e7dd0acbce4894190057090b5e5c91abab08248371a786a746efc2a045926701"
+    },
+    {
+      "path": "downloads/production/volume-1-december-closeout-companion-journal.md",
+      "role": "journal_source",
+      "volume": 1,
+      "bytes": 1681,
+      "sha256": "d9e007d43a069937691acf48eff188b8c968eb88fbff78fa8b2cbae57c2e1e25"
+    },
+    {
+      "path": "downloads/production/master/volume-1-master-interior-manuscript.md",
+      "role": "devotional_master",
+      "volume": 1,
+      "bytes": 785562,
+      "sha256": "67738c55a02bc45d21e4e30adbd3348d01657213641ddb1dc36e0631bfa5807e"
+    },
+    {
+      "path": "downloads/production/master/volume-1-master-companion-journal.md",
+      "role": "journal_master",
+      "volume": 1,
+      "bytes": 131758,
+      "sha256": "48fbf32d67f70f06178356abaf42054c68beef5abc9898b5d98b5b39f21e4ac8"
+    },
+    {
+      "path": "downloads/production/volume-2-days-001-007-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 13456,
+      "sha256": "bf9be468e9ea3c0bb526ac1dc05e928914f0663b57f3d3a7e3d6303c92b52504"
+    },
+    {
+      "path": "downloads/production/volume-2-days-008-014-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 13319,
+      "sha256": "e4314ab37f52ee00cbd4face29b18e372e8a651e93c93f470c2c800d835d91c0"
+    },
+    {
+      "path": "downloads/production/volume-2-days-015-021-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 12773,
+      "sha256": "ee3a0d7afe7875b1f4a486f50c113ddcb7b3562b2e7ac88983a95e143b53cedd"
+    },
+    {
+      "path": "downloads/production/volume-2-days-022-028-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 13043,
+      "sha256": "a31c185e60565fbacdd7e4ab37ab6794f1a11799a14c58b55bbe9847fe6da971"
+    },
+    {
+      "path": "downloads/production/volume-2-days-029-031-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 5748,
+      "sha256": "7e9603fde1d348f7e9bf477ffb36f2757b72aaa2143183d4172cef3766390539"
+    },
+    {
+      "path": "downloads/production/volume-2-days-032-038-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 12322,
+      "sha256": "fd02473d1815748817372cf2195d9d0b1bb9ff402b6597987c0874af7dc19da1"
+    },
+    {
+      "path": "downloads/production/volume-2-days-039-045-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11744,
+      "sha256": "cdc962b144a41f84344c9a6e3838ec1b0095667caba1313c9edd514dde337779"
+    },
+    {
+      "path": "downloads/production/volume-2-days-046-052-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 12654,
+      "sha256": "6f8417ecbf58fa3a28321facbbc50f74a7316abd674318a75c2d199edfcd302d"
+    },
+    {
+      "path": "downloads/production/volume-2-days-053-059-plus-leap-day-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 13881,
+      "sha256": "23bff327c5ac67f0f4fe36b03d08842c05375513f603e8e214e944341c6ca969"
+    },
+    {
+      "path": "downloads/production/volume-2-days-060-066-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 12546,
+      "sha256": "b9d4a036b40dc1ce07df43d2bf7737ae32b9dae11ed676dc4ec7984e7659d673"
+    },
+    {
+      "path": "downloads/production/volume-2-days-067-073-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 12127,
+      "sha256": "5cf1ee6ae75b0aea585a6a7e73e1d7a5eb4a25d01920e01667c8a2b34eb52935"
+    },
+    {
+      "path": "downloads/production/volume-2-days-074-080-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11842,
+      "sha256": "d18997d821f11bd25d2bf7ed707f80833479a7bfdcaae7f4584b21a8dd4fa1f8"
+    },
+    {
+      "path": "downloads/production/volume-2-days-081-087-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 12735,
+      "sha256": "c4ab6298c4e985fb703d7bc3e6c68d6b3a6e891da4412f453602e4bcfadcade0"
+    },
+    {
+      "path": "downloads/production/volume-2-days-088-094-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11806,
+      "sha256": "a212b106ad2e0869a1c9c771d7937306fb291de0c898555bf463138477c94abd"
+    },
+    {
+      "path": "downloads/production/volume-2-days-095-101-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11897,
+      "sha256": "7b8fd205c7e984ccf40ad7fbdb4c082cb5907ff94e746b10c1efbc7a9b14d62f"
+    },
+    {
+      "path": "downloads/production/volume-2-days-102-108-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 12857,
+      "sha256": "b58d6a63391174da0c9d7ae0cf6774964b39849ba99f06ec87b4aab208fb79a5"
+    },
+    {
+      "path": "downloads/production/volume-2-days-109-115-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 12149,
+      "sha256": "a50915e5816864f075105f7e469421f3afaab2ea7c8ddc58a02b0b6024c9aefa"
+    },
+    {
+      "path": "downloads/production/volume-2-days-116-122-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11777,
+      "sha256": "d0bce5496b8a3d9aa6746b575740842cf2579ecc63f332371ca63aefffbd0a06"
+    },
+    {
+      "path": "downloads/production/volume-2-days-123-129-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 12378,
+      "sha256": "ad77043f410dd958b250b8fbe5c701ff2f083027f99e26f40c4ff71978c9404a"
+    },
+    {
+      "path": "downloads/production/volume-2-days-130-136-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11629,
+      "sha256": "9152d47099e4091808642cb63a9a7774db3ac847be179fdae68c06166a03b0ab"
+    },
+    {
+      "path": "downloads/production/volume-2-days-137-143-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11483,
+      "sha256": "63181d76f8cbb35b5ab61fead24cb038be1345f663f63928175eb6b1c9ebd19b"
+    },
+    {
+      "path": "downloads/production/volume-2-days-144-150-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11336,
+      "sha256": "24df2f2b1f44af50906023a2d3a648a88b68ec9cf8f7a29419095b07460aeb4d"
+    },
+    {
+      "path": "downloads/production/volume-2-days-151-157-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 10666,
+      "sha256": "05ea65b9e5b9935a3bb5f42d81799987a91d41a88255c3f73f88f8bb97e622dc"
+    },
+    {
+      "path": "downloads/production/volume-2-days-158-164-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11531,
+      "sha256": "70a731ba4731f6ee897f5a89d29b4726725638dc8844363532ae7ec44ec70df2"
+    },
+    {
+      "path": "downloads/production/volume-2-days-165-171-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11010,
+      "sha256": "1a8cea59b3102969f8e39613b8a1bf7cf3bc93bdb1c920f4e9a62b49366b09e9"
+    },
+    {
+      "path": "downloads/production/volume-2-days-172-178-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11088,
+      "sha256": "6bee109ec37e3e85d56ece8202d76a36776264fe56406e61efbd3e42786b14a2"
+    },
+    {
+      "path": "downloads/production/volume-2-days-179-185-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 10764,
+      "sha256": "c8786be3fe12ec2dc53777222d8af96fa20426d4868c63c828eb9de5da65a2c6"
+    },
+    {
+      "path": "downloads/production/volume-2-days-186-192-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11726,
+      "sha256": "a37f4ea3f183f4cf211782ed2e5ea7edcc0968d90ae8df930d9cd1c067102eab"
+    },
+    {
+      "path": "downloads/production/volume-2-days-193-199-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11586,
+      "sha256": "c19780e980720b90d1d6be2c6026f355badcf4d7988f8bf5e36554fe3a68e660"
+    },
+    {
+      "path": "downloads/production/volume-2-days-200-206-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11707,
+      "sha256": "f4127a06d09cff388cb68ef39c01aada60bec1632b9e9862bd716fbfee6a3814"
+    },
+    {
+      "path": "downloads/production/volume-2-days-207-213-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11749,
+      "sha256": "fb15d443a66fbdd14a577585db29916fef1cff76fadf1fbcb247cb35852f425f"
+    },
+    {
+      "path": "downloads/production/volume-2-days-214-220-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11799,
+      "sha256": "f49015a2bed003fbbab0e2e99d3d47a0501b535015f467399455b55d57b5ac16"
+    },
+    {
+      "path": "downloads/production/volume-2-days-221-227-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11067,
+      "sha256": "dbdaf51827710375d80074d5497173ec76e301d0746933277d46b0e2541d546c"
+    },
+    {
+      "path": "downloads/production/volume-2-days-228-234-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11129,
+      "sha256": "364e900c9164eb07431a29aa38650079c9ec8065c24a0c9d59cc89ad419a6117"
+    },
+    {
+      "path": "downloads/production/volume-2-days-235-241-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 12165,
+      "sha256": "2428c3abb9f249ce23b245bac17d7c556cb22ac7fd82cc578a48850d4f130af4"
+    },
+    {
+      "path": "downloads/production/volume-2-days-242-248-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11863,
+      "sha256": "616e4d9235783dfe075ef1c9b11b090731325efa50071b25dd92b7389d9456d2"
+    },
+    {
+      "path": "downloads/production/volume-2-days-249-255-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11610,
+      "sha256": "3fbfd102b962d77fe1e85b485b16b17f0e35a158679e5d913c56b1e56434397f"
+    },
+    {
+      "path": "downloads/production/volume-2-days-256-262-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11894,
+      "sha256": "723789cddb34b4c9d9d25bea5c1677b4160840e53b838fb45623adb96d31240c"
+    },
+    {
+      "path": "downloads/production/volume-2-days-263-269-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11451,
+      "sha256": "a451ea8b0fd7b4335fbd994b4edb94c1e72b1dd1c24624c1d6e35564beee5394"
+    },
+    {
+      "path": "downloads/production/volume-2-days-270-276-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11656,
+      "sha256": "fe3b9a137013eae9a11da7cf0047ed8be2631afb1ff854fbd38a9030dc91a652"
+    },
+    {
+      "path": "downloads/production/volume-2-days-277-283-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11177,
+      "sha256": "db31166f7e436581b3b3f17b9d9ad3fe9051c98f32e2647d115ad51745fe86de"
+    },
+    {
+      "path": "downloads/production/volume-2-days-284-290-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11158,
+      "sha256": "0ec847d3355f65c6073a042a251e6e0284b4091d8c7a18f6c56b4f51d78c75a7"
+    },
+    {
+      "path": "downloads/production/volume-2-days-291-297-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11008,
+      "sha256": "f07923ccc1c2bc9d15c4754e9281a7cacfef6cc32713e1c1a1eb5bff20cbae93"
+    },
+    {
+      "path": "downloads/production/volume-2-days-298-304-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 10957,
+      "sha256": "74804120e88eeee0c20603e00b71249d270cb3c7386bdb573ad23becb6a43dcb"
+    },
+    {
+      "path": "downloads/production/volume-2-days-305-311-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 10221,
+      "sha256": "79f014e28e110ddd92fe57c8ca97f9d4006357bdcea2bd022c52634fcc342778"
+    },
+    {
+      "path": "downloads/production/volume-2-days-312-318-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11256,
+      "sha256": "93f59a336c29b794683efa13a98872482819f17ab2e1a03fa0ec8bffefb7e12d"
+    },
+    {
+      "path": "downloads/production/volume-2-days-319-325-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11164,
+      "sha256": "b745e5e8ea813c3dc0352d0a47a73bd8c93b44277519d885f02bcb8e4f1ad678"
+    },
+    {
+      "path": "downloads/production/volume-2-days-326-332-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11305,
+      "sha256": "64aa845c5ac0356b6a3e50194d9050331a84e2d67bb25929be1bd24d54ea5a92"
+    },
+    {
+      "path": "downloads/production/volume-2-days-333-334-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 3677,
+      "sha256": "36f7272739feca9a2e79043bc9319546dac92eb4ca6a1aaabd18c6988db7fa09"
+    },
+    {
+      "path": "downloads/production/volume-2-days-335-341-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 11044,
+      "sha256": "e9176160f4e4d124954267713079a00ad2ad200fbc191c8183db291e536cf292"
+    },
+    {
+      "path": "downloads/production/volume-2-days-342-348-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 10519,
+      "sha256": "5c1906c5c5e12e3bde23a64635ef4d1ed740e7cd7f4c43f43f42f2f31aa730af"
+    },
+    {
+      "path": "downloads/production/volume-2-days-349-355-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 10478,
+      "sha256": "d6efc792dca04e5fbaf72fc23c238422feb3c0a79a82d4ccfd065a149c859dc6"
+    },
+    {
+      "path": "downloads/production/volume-2-days-356-362-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 10628,
+      "sha256": "75f0f33ad8571b120c1677f6cb8cc3259e3156b8e2140bddd2ebaf8817994215"
+    },
+    {
+      "path": "downloads/production/volume-2-days-363-365-manuscript.md",
+      "role": "devotional_source",
+      "volume": 2,
+      "bytes": 4895,
+      "sha256": "503db2bdf3c755ba540a872826ba4631b0c6fd24dbe7da7532258fcfe40d4ca1"
+    },
+    {
+      "path": "downloads/production/volume-2-january-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2317,
+      "sha256": "9ef9d1bd7524383594a7fea8e479050e65fa1f7a019b232363c26ef9afae68d5"
+    },
+    {
+      "path": "downloads/production/volume-2-january-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2318,
+      "sha256": "39d5f942159860715e1726fb15b39ee790dbf288b20aafb1402182d2a2cbbb4b"
+    },
+    {
+      "path": "downloads/production/volume-2-january-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2251,
+      "sha256": "b2a0b09544e13a0f5705fe3b09fda4a48c9cf88fc13aab8b547794ddac5acbea"
+    },
+    {
+      "path": "downloads/production/volume-2-january-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2412,
+      "sha256": "e6f7d5daf39a46284203c5016fc8c6eb0f9919778f34a64facc293a63cc8ee56"
+    },
+    {
+      "path": "downloads/production/volume-2-january-close-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1430,
+      "sha256": "8ae3edb1ac07cc2e626bfcd386681d0d9e7fe9961bf91fc0ab2686fb0d40d232"
+    },
+    {
+      "path": "downloads/production/volume-2-february-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2298,
+      "sha256": "1c4feb20c3f84bb5381498ddccd8a4f381149e3a60c95e2ee5404d06d512da8b"
+    },
+    {
+      "path": "downloads/production/volume-2-february-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2230,
+      "sha256": "da748c5a034b1c47f956719bcbbf115e974f0b620c117a97a284ea1e14bd34a5"
+    },
+    {
+      "path": "downloads/production/volume-2-february-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2418,
+      "sha256": "ced0588619da6f35ad1a26b66e6345b8979af9c16040ce2261ba2d2cec32f9fe"
+    },
+    {
+      "path": "downloads/production/volume-2-february-close-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2685,
+      "sha256": "49882971ae197bdf60a30003bf582c443967962212800c9802aab899abb8a5e9"
+    },
+    {
+      "path": "downloads/production/volume-2-march-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2341,
+      "sha256": "cbd4d45383fa6445f124b2b0f00a083cea5f0b5431cf89bba58d9fb2226b95f9"
+    },
+    {
+      "path": "downloads/production/volume-2-march-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2311,
+      "sha256": "9f501e0681956d561afff2f19b2102cdc1fbb91fac204dd6071cb551eff7a6f7"
+    },
+    {
+      "path": "downloads/production/volume-2-march-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2230,
+      "sha256": "73503c95695e331a50f506a764ac63978eaf62ca305ef0192a9fd4a1f021d726"
+    },
+    {
+      "path": "downloads/production/volume-2-march-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1819,
+      "sha256": "e5f25976d276f203c1ac1df797aa2c00d90928e160cebed9d62ea97e8539b5f6"
+    },
+    {
+      "path": "downloads/production/volume-2-march-close-april-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1619,
+      "sha256": "04318e47f600cf7990aa4b4f9aa40d7eb3f8f5dd1d3c6608a0d383a623f8525e"
+    },
+    {
+      "path": "downloads/production/volume-2-april-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1579,
+      "sha256": "a4b204218638270ea4673246c3b3b9dd67e0e8d0519e2b07801f29c22e3a3549"
+    },
+    {
+      "path": "downloads/production/volume-2-april-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1582,
+      "sha256": "0481296dd3f469333ea0549800b28a939027d6026b23b336c44b20f45f228bfd"
+    },
+    {
+      "path": "downloads/production/volume-2-april-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1676,
+      "sha256": "ec4546b82fd7a7b99a4d3e261ea89af0be0598c086c296a77caa3f959d0e27c4"
+    },
+    {
+      "path": "downloads/production/volume-2-april-close-may-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1656,
+      "sha256": "c540ffdf0294eaf2367426188d7d6782b29ce13d469e994618a7bfed7f25b678"
+    },
+    {
+      "path": "downloads/production/volume-2-may-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1877,
+      "sha256": "b05db5d0b3220dde79271607c88ed1af3f1cd89573f4b323f8273a0a921ece15"
+    },
+    {
+      "path": "downloads/production/volume-2-may-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1809,
+      "sha256": "52644f0bef43fdfa23b33b16cfaefdb283830d47ac48618347b2b2e53ac1db45"
+    },
+    {
+      "path": "downloads/production/volume-2-may-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1846,
+      "sha256": "f4820682cf637b0649acc079c148a162d3df6ffb018ab672bf3c61b627195b5a"
+    },
+    {
+      "path": "downloads/production/volume-2-may-close-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1715,
+      "sha256": "958a586d85b61f198baf2ed1a39b0f83df6c487ef3602d5eafd6ef0e09e06a0e"
+    },
+    {
+      "path": "downloads/production/volume-2-may-close-june-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1801,
+      "sha256": "9eaf5659b1ca71e53d8d5ad17ffcc8bf728a281a11453669010393e5b7ae017f"
+    },
+    {
+      "path": "downloads/production/volume-2-june-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2010,
+      "sha256": "1ba4a3561c8c9a414e40ca531ba20e63e1ac92ce161d87d93942ac97f9d59262"
+    },
+    {
+      "path": "downloads/production/volume-2-june-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1952,
+      "sha256": "3b7944e81c9f5a60f905e7aa711e5b415a0b069d2525327c57354cad8d3330cd"
+    },
+    {
+      "path": "downloads/production/volume-2-june-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1985,
+      "sha256": "c467b67217a4e957520bb1973d5058420c6aab48fb08dd0f78f871ceaf3020cd"
+    },
+    {
+      "path": "downloads/production/volume-2-june-close-july-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2015,
+      "sha256": "8eade1dede6920b3ab0bd2d328a746766fc3c48e672d81f2bc389df9c28f99f3"
+    },
+    {
+      "path": "downloads/production/volume-2-july-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1948,
+      "sha256": "039803a00b16dd146b9d8f6518be32ca3b57822f10695efbf928898e19f0b8f0"
+    },
+    {
+      "path": "downloads/production/volume-2-july-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2019,
+      "sha256": "ed4d5eb7cfc959aacc4bfa2ab90f02bbeb1e91baa3c7dfa54ed60d65248ec8eb"
+    },
+    {
+      "path": "downloads/production/volume-2-july-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2035,
+      "sha256": "a2cbfad41c7506051dee0c2388d2763b98cd8d9d6eb592ced4777e4007518678"
+    },
+    {
+      "path": "downloads/production/volume-2-july-close-august-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1984,
+      "sha256": "c2953c47a4e712e9cfcd1d6a3c608bbd651b1e7ca7130c77b9dceab090e29e51"
+    },
+    {
+      "path": "downloads/production/volume-2-august-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2142,
+      "sha256": "ee471803319522815b45ed2fe0c89bec3ee724fd28dc19cc4119e967958a6326"
+    },
+    {
+      "path": "downloads/production/volume-2-august-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1969,
+      "sha256": "005beca664813e74405624e3c9eeae576d24668aacd477571ddd884a8bab496b"
+    },
+    {
+      "path": "downloads/production/volume-2-august-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1935,
+      "sha256": "832055bc480415c96606d647af4484509e76cbd949b400b959686199fb8c0004"
+    },
+    {
+      "path": "downloads/production/volume-2-august-week-5-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2082,
+      "sha256": "34177a1832e1929bca0de42912e54bbbeb84173ab3eb0931243ace85b86ecfa9"
+    },
+    {
+      "path": "downloads/production/volume-2-august-close-september-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2022,
+      "sha256": "1564585d528286a1086605fc6d5a78a3560741edf1206b0fdfb9255ff5ad1217"
+    },
+    {
+      "path": "downloads/production/volume-2-september-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1979,
+      "sha256": "489288b5e73849e17f9544a51241ea7f60652853b2d1add8950b47aa70e6add6"
+    },
+    {
+      "path": "downloads/production/volume-2-september-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1960,
+      "sha256": "3747864ba362316f45c896d13d4d8232f8580ed7ddaa2bd69b28a376a0d4e764"
+    },
+    {
+      "path": "downloads/production/volume-2-september-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1866,
+      "sha256": "f2bec21f0714b50e7a06d1fbceef6556bcd27e6e7abc5843d0fd01e7e49e7913"
+    },
+    {
+      "path": "downloads/production/volume-2-september-october-transition-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2111,
+      "sha256": "3a229c0b4535b3f7bb8cd952b1cd4265a834dd9ef5d4797382fd205b9e4316d8"
+    },
+    {
+      "path": "downloads/production/volume-2-october-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2139,
+      "sha256": "5d6c9cbf63ec433a2dd4c3ea9c0e2f7d19e116395c9947f127f17e6de4064404"
+    },
+    {
+      "path": "downloads/production/volume-2-october-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2126,
+      "sha256": "3e2264a60862b6a4740292fec8e473b0b3084472dc2eec2ac03a32b835a96ec8"
+    },
+    {
+      "path": "downloads/production/volume-2-october-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2089,
+      "sha256": "a44a869a88bf00355e9889c5e8503b2a0b5b22bbea6735ec65ce3c19ad3a9772"
+    },
+    {
+      "path": "downloads/production/volume-2-october-close-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2039,
+      "sha256": "7e186773db6ea2bd1e4c852f3676ce5298f10a043f7a98fa55aae9a36eea4b29"
+    },
+    {
+      "path": "downloads/production/volume-2-november-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1965,
+      "sha256": "25c962a3e6dbca857107931d5d44a84d148a3414d9c59602cf1d8d2fe6c1ff9c"
+    },
+    {
+      "path": "downloads/production/volume-2-november-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2195,
+      "sha256": "1691ce190d8e3fbaeb32482019af5ae3304d092ef8928c676d213208836c49cb"
+    },
+    {
+      "path": "downloads/production/volume-2-november-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2186,
+      "sha256": "7fbdb3de29062cdc94ca34adf697e1d54ecee35d38b0da94c501532cbc15af9c"
+    },
+    {
+      "path": "downloads/production/volume-2-november-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2254,
+      "sha256": "027d3f628bb86be22be282fb0b5a4f023a9987cfea220f635103e23b7df2d748"
+    },
+    {
+      "path": "downloads/production/volume-2-november-close-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1072,
+      "sha256": "785cc0e909c7cc18ed5c053926275698837211b213453535db18207e4303238b"
+    },
+    {
+      "path": "downloads/production/volume-2-december-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2254,
+      "sha256": "53df56a805987f572adfd545b291b526fbed15d6adf70b51413c6a65f5da64e9"
+    },
+    {
+      "path": "downloads/production/volume-2-december-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2269,
+      "sha256": "8fe09babed328907a654235bedba1bb86167e865424c9703a1fb21a52094e5e8"
+    },
+    {
+      "path": "downloads/production/volume-2-december-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2067,
+      "sha256": "514e0ba02f9ae92714cc513ebd443e5306888e98d64a124bd6fdddd1abf36383"
+    },
+    {
+      "path": "downloads/production/volume-2-december-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 2064,
+      "sha256": "9e1814f46df69c6f1defc4e075c01386350595358d6abb4b33924a9b0a0cac6c"
+    },
+    {
+      "path": "downloads/production/volume-2-december-closeout-companion-journal.md",
+      "role": "journal_source",
+      "volume": 2,
+      "bytes": 1331,
+      "sha256": "e72504f8fc6502089e63fdb3a221ebc81af7066bc8e4cf100879b47c3ebf01a7"
+    },
+    {
+      "path": "downloads/production/master/volume-2-master-interior-manuscript.md",
+      "role": "devotional_master",
+      "volume": 2,
+      "bytes": 602832,
+      "sha256": "b41bff9329d4989e25845ec7fba237b642f68472fafcd2e3a8611e4ccade42e9"
+    },
+    {
+      "path": "downloads/production/master/volume-2-master-companion-journal.md",
+      "role": "journal_master",
+      "volume": 2,
+      "bytes": 112931,
+      "sha256": "a611a6eda81ad758c132c948a0733061fa0a2632661321e3d13783ea7dc69be8"
+    },
+    {
+      "path": "downloads/production/volume-3-days-001-007-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 13812,
+      "sha256": "c1325547237c1908069f71903b4674d8a5ec30dae94bbc82b8556286062dc06f"
+    },
+    {
+      "path": "downloads/production/volume-3-days-008-014-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 12927,
+      "sha256": "08a6d913f05a4991c5110b66fe3def8b3f6056c53cd968158abb8772dd356c7d"
+    },
+    {
+      "path": "downloads/production/volume-3-days-015-021-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 12771,
+      "sha256": "156c2eefceeb6a9a059416fe8a4800bcc0b1940dff8a92db5bcb5fa60f511922"
+    },
+    {
+      "path": "downloads/production/volume-3-days-022-028-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 12471,
+      "sha256": "106896e6f9ebdfe0fefd5ea00f965645789d46e02d6fd870b7741acc2ac03958"
+    },
+    {
+      "path": "downloads/production/volume-3-days-029-031-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 5785,
+      "sha256": "8a5a9611414aacbb82e488e5d934ec301dd6ef8e86c806b8636e7ee53756bf36"
+    },
+    {
+      "path": "downloads/production/volume-3-days-032-038-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 12029,
+      "sha256": "920a35e8bcc0b7569d9b2bba66331b5f5173f69bee737e9fa2df1bfd372d0ef8"
+    },
+    {
+      "path": "downloads/production/volume-3-days-039-045-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11963,
+      "sha256": "75bfb64f95557deee6b9a45dde8e5b0b139479f74615046b6cc6dd8cde1b6bf6"
+    },
+    {
+      "path": "downloads/production/volume-3-days-046-052-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 12006,
+      "sha256": "1f11faee4f73b8a959c5156388c4215f8c310318b32a4d313fb1d233f03c2a29"
+    },
+    {
+      "path": "downloads/production/volume-3-days-053-059-plus-leap-day-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 13620,
+      "sha256": "87a9fd7a171b04f13a267917af50b80336b0ef98c88aa2c8c889c2d69694bd00"
+    },
+    {
+      "path": "downloads/production/volume-3-days-060-066-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11795,
+      "sha256": "6c7d7f1d436886f0f3dc764e1b1f9c6bf6bffb810aa6479f4567f423eedb7738"
+    },
+    {
+      "path": "downloads/production/volume-3-days-067-073-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11433,
+      "sha256": "7a61985d4f65420fca2afb854a2b311ac8adcefcdcc6c28b10eab0189a65fa66"
+    },
+    {
+      "path": "downloads/production/volume-3-days-074-080-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11249,
+      "sha256": "19b5952d4ee776a2dbd41c67e84376c3e33c56e9b41f229ba63604eed50d4d00"
+    },
+    {
+      "path": "downloads/production/volume-3-days-081-087-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10912,
+      "sha256": "38524e0604c463e83a638cfda8c5902b001fe767c88013c2183f38edece912b4"
+    },
+    {
+      "path": "downloads/production/volume-3-days-088-090-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 5002,
+      "sha256": "a06ce0d59cfea23b7b4ce29758e4006f6443006682c894a421d571726b81851e"
+    },
+    {
+      "path": "downloads/production/volume-3-days-091-097-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 12036,
+      "sha256": "f5149fa44d6da0009fdcc240c44e60689ad253dbb4ed5d564ce3607343882631"
+    },
+    {
+      "path": "downloads/production/volume-3-days-098-104-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11522,
+      "sha256": "6c977f7d5c1ff545218b72fc2e7a01332ecb7b55c5330d3206ca9ff494b106ba"
+    },
+    {
+      "path": "downloads/production/volume-3-days-105-111-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11410,
+      "sha256": "f127cd56aafc644007c7f6eebcbbafbe1a9e3c2db7863381872c4cab443a03da"
+    },
+    {
+      "path": "downloads/production/volume-3-days-112-118-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11258,
+      "sha256": "633ff958bf92c61d82204fc18a13d7ae1e522b26e870155a7581d541d38831c9"
+    },
+    {
+      "path": "downloads/production/volume-3-days-119-120-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 3570,
+      "sha256": "d7e2f633d10d0e97e690421f7d0ec459d1fe8adf03c50086f434530c49ae0c21"
+    },
+    {
+      "path": "downloads/production/volume-3-days-121-127-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10811,
+      "sha256": "437891d4abb6a7d82e0dad0b6745a09a2ad81871c4bec91fe0f5055b0a3cf83f"
+    },
+    {
+      "path": "downloads/production/volume-3-days-128-134-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10722,
+      "sha256": "73f09aa0e3813e251e6f9ffde3390af5aed2a7343a2ad56f8078ad6f162c7f9f"
+    },
+    {
+      "path": "downloads/production/volume-3-days-135-141-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11518,
+      "sha256": "2d85de9967a5090beb461182834fd56eec8c50343b123129bab95e8e8d7ac453"
+    },
+    {
+      "path": "downloads/production/volume-3-days-142-148-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11482,
+      "sha256": "9436474275ebbe28e7a1f634e092e3af25338ed0941e16832911a29be5535861"
+    },
+    {
+      "path": "downloads/production/volume-3-days-149-151-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 5123,
+      "sha256": "d0074a3b0a948481d0ab936a561747e8c2459d6366f7ac38dea4c40b18539977"
+    },
+    {
+      "path": "downloads/production/volume-3-days-152-158-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11388,
+      "sha256": "e2d3628bc044b1265687f5246aa026161a6b186950da7b2526ef5e68a49fcac1"
+    },
+    {
+      "path": "downloads/production/volume-3-days-159-165-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11140,
+      "sha256": "b30e0bbbf1c4eafafaac008a23077c04256ef22400d2f3bd834f61f00bb98ace"
+    },
+    {
+      "path": "downloads/production/volume-3-days-166-172-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11085,
+      "sha256": "45f538daff8f6c2ef36d189320ed92c9e195581125385e2ea1f0f1d4c0c06606"
+    },
+    {
+      "path": "downloads/production/volume-3-days-173-179-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11033,
+      "sha256": "99b159ed4fb7f363f57d6ab2b583dfd2431e55b9e953f2d2fa9037ce3fce9c10"
+    },
+    {
+      "path": "downloads/production/volume-3-days-180-181-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 3667,
+      "sha256": "95aa11fcc5d16460ccae07b108ff3a968c22ec3df326bb0b3a6e1f98e0cbc790"
+    },
+    {
+      "path": "downloads/production/volume-3-days-182-188-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10926,
+      "sha256": "547addbe46ee2c5a77e1271e30a8cb2c43a1a8e03f11f2518cbc2b10fc777f89"
+    },
+    {
+      "path": "downloads/production/volume-3-days-189-195-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10755,
+      "sha256": "45bc246d2cc8ae34f9a41783e7068c8acadf4d8a754c1f1416f279f4c476733e"
+    },
+    {
+      "path": "downloads/production/volume-3-days-196-202-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11067,
+      "sha256": "bb16a06d82cdcd077dd4cfcafc7d45d709f08daa56e8f21a2331cf0cab66aa80"
+    },
+    {
+      "path": "downloads/production/volume-3-days-203-209-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10725,
+      "sha256": "e6b8c5e4fcea4dd8509743985202466dda8098a601c2b6da8cc6beed875be9e0"
+    },
+    {
+      "path": "downloads/production/volume-3-days-210-212-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 4783,
+      "sha256": "6d942250f940dea4613eff9ffda5cdc7d1ad84d2598f335ef25ba15badf8b02c"
+    },
+    {
+      "path": "downloads/production/volume-3-days-213-219-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10646,
+      "sha256": "9a0e33627687457de941516cfa071b7a8550facee3823a4dab149ca08ac20819"
+    },
+    {
+      "path": "downloads/production/volume-3-days-220-226-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10304,
+      "sha256": "0e611d20ad42e5a336ad191cddcdeb7fa3850f87ecd179b5a44a2bb399172001"
+    },
+    {
+      "path": "downloads/production/volume-3-days-227-233-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11345,
+      "sha256": "d94a885508ad285ef4b01910a67158458aa02c35c7d4a9b4b5698869dd81cd10"
+    },
+    {
+      "path": "downloads/production/volume-3-days-234-240-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10727,
+      "sha256": "7ea5ccca877bc8b203863d003771d607eac051b1de970e3b1106cb32b9dab79c"
+    },
+    {
+      "path": "downloads/production/volume-3-days-241-243-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 4827,
+      "sha256": "c1d4ab0b994721c7cc525ce8f209db9ac63cb45eebf8a2a01fab5d4a06be3978"
+    },
+    {
+      "path": "downloads/production/volume-3-days-244-250-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10275,
+      "sha256": "beeba4ee85cfb9b4e1635d82ccc7a6ca5c77a54517af4661923ee73c6655c219"
+    },
+    {
+      "path": "downloads/production/volume-3-days-251-257-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 9914,
+      "sha256": "ec32a541df0e9b52fda8d5e6215895fa7d2adeefce96d22f352536d4f14bafc4"
+    },
+    {
+      "path": "downloads/production/volume-3-days-258-264-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10498,
+      "sha256": "a4a1617b73108b7ce84b4ddbc2e6bbb5bdf99456cf97365a804a111c18d07cfc"
+    },
+    {
+      "path": "downloads/production/volume-3-days-265-271-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10357,
+      "sha256": "6b0bf9cc2d324ecc6317936cc1dfbd573ece708fb3b3eadcd229ca607d32ad26"
+    },
+    {
+      "path": "downloads/production/volume-3-days-272-278-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10560,
+      "sha256": "ae7856cfb172edb84924af157757a3d5b0657bf88f21a5c5fa3b344d13b5de56"
+    },
+    {
+      "path": "downloads/production/volume-3-days-279-285-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10107,
+      "sha256": "b825511be0418fa83c22f2b2b04664837a8e225c55be4c4efae25bb4b45a74b2"
+    },
+    {
+      "path": "downloads/production/volume-3-days-286-292-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10058,
+      "sha256": "06f1168ca5c42e8966f683ba8f02d275e35ab3c0086305953a4ee1f09cc06f60"
+    },
+    {
+      "path": "downloads/production/volume-3-days-293-299-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10826,
+      "sha256": "a8a70c08bbc0d9bc1023f16e7fa19c7743fa9a78ba19e55d5aee9f5aa91d0ced"
+    },
+    {
+      "path": "downloads/production/volume-3-days-300-306-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10846,
+      "sha256": "216b43b1964603d5c0019444443d21e2658d0feea252c141ee86fd9b089e5dc9"
+    },
+    {
+      "path": "downloads/production/volume-3-days-307-313-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10434,
+      "sha256": "d9dfcfeed2666b59a404bb7f1978b568e6e0dbc87c09a4fde276dbadee6c05c1"
+    },
+    {
+      "path": "downloads/production/volume-3-days-314-320-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10563,
+      "sha256": "bb1a2c539e958f4434ba073453e9e0c10ea958532676b70c4549016cec772ca4"
+    },
+    {
+      "path": "downloads/production/volume-3-days-321-327-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10778,
+      "sha256": "fe639d0df03d801ac119157babb14304c879c9b25ed1ae93b01e33715c7687db"
+    },
+    {
+      "path": "downloads/production/volume-3-days-328-334-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10696,
+      "sha256": "a0d2908c77e19a63b41c8b20c443ca4486898d83ceef66d74cb6ba6a3fe39cf1"
+    },
+    {
+      "path": "downloads/production/volume-3-days-335-341-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10179,
+      "sha256": "d23bbf0f1004d85f0d3b131cdc24cd663aae7091bc5518d641475719ab860657"
+    },
+    {
+      "path": "downloads/production/volume-3-days-342-348-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10944,
+      "sha256": "57c31f52923c03861421f004f4a4e15b83576f7c1ced8c20b822f2593b5dc4d4"
+    },
+    {
+      "path": "downloads/production/volume-3-days-349-355-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 10968,
+      "sha256": "b961af8516aa22e836917a4899f15b60122d67ddcd7d22b1c991307d097de404"
+    },
+    {
+      "path": "downloads/production/volume-3-days-356-362-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 11094,
+      "sha256": "5881dd3beedb79a768f58d9855269fe514589cddc2311963272559b1b3133757"
+    },
+    {
+      "path": "downloads/production/volume-3-days-363-365-manuscript.md",
+      "role": "devotional_source",
+      "volume": 3,
+      "bytes": 5081,
+      "sha256": "ef8c77d3a3c231ebb4c3b21222d662c4b8040d8d71dcb385c144ef15d6571f32"
+    },
+    {
+      "path": "downloads/production/volume-3-january-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2321,
+      "sha256": "0b8cfdce5c2c68be4d6d747dbfd1e1485090ae940f12e1a088fdbdfc066ef834"
+    },
+    {
+      "path": "downloads/production/volume-3-january-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2247,
+      "sha256": "018eea46d68967a34c5650e4335979cba586024f54e76da348a759e7522a6ced"
+    },
+    {
+      "path": "downloads/production/volume-3-january-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2197,
+      "sha256": "33532e1e8da15d4de467a7cba3cdbb72dfda3dabf7c5b2deb7ee5119e8536e84"
+    },
+    {
+      "path": "downloads/production/volume-3-january-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2253,
+      "sha256": "c52c7da9fa4f5a984820b55cb47d42ebc7565ebfa9768b519446c3ad46fa764c"
+    },
+    {
+      "path": "downloads/production/volume-3-january-closeout-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1473,
+      "sha256": "57e9c242afb98a355eab60e79357749c3afcc911fccc7a2129ed8ffb0fb06433"
+    },
+    {
+      "path": "downloads/production/volume-3-february-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2111,
+      "sha256": "3ebefbfc1e04fb44f70a34b3e3ad5278371c8b05fb015bf0d329109e2ec77925"
+    },
+    {
+      "path": "downloads/production/volume-3-february-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2119,
+      "sha256": "5d5159c5495cb0c36cd9b9de93f8aca2689bfb9821a7adb114c66dc3a474bdc7"
+    },
+    {
+      "path": "downloads/production/volume-3-february-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2053,
+      "sha256": "4a45d399ffdca5a6ef48930c2ee41cc61a774ebd8769a22d95184f7c6ce83333"
+    },
+    {
+      "path": "downloads/production/volume-3-february-closeout-plus-leap-day-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2544,
+      "sha256": "85ac5aaec03e946ad815335f1797e78dffd5770819de8100865503a802cc74e4"
+    },
+    {
+      "path": "downloads/production/volume-3-march-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2315,
+      "sha256": "49c62165b94a2d3ba184fa36241bc92e8141958f7fc1ca63d17be638843d42a9"
+    },
+    {
+      "path": "downloads/production/volume-3-march-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2123,
+      "sha256": "61f176f1dd28172651e397d2bb43bb459db5bc9d1fd1cefc8b0990d2e65fd853"
+    },
+    {
+      "path": "downloads/production/volume-3-march-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2088,
+      "sha256": "1165d36b8dbc6876e1acdc2de686e18897fc4177f626a7214c59700fbad4181f"
+    },
+    {
+      "path": "downloads/production/volume-3-march-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2006,
+      "sha256": "f89b5f6348952d9299dcd485e4aa96b3d079d0ef2ca2c4a030915c4aac8ab5d5"
+    },
+    {
+      "path": "downloads/production/volume-3-march-closeout-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1327,
+      "sha256": "e5c3fd6a929ef902c346f9bf4ec7be8c5051e69cede469ef18fbb6e992c155c6"
+    },
+    {
+      "path": "downloads/production/volume-3-april-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2235,
+      "sha256": "c59d5f4aebcaf08703a2e760efa8f0d575d07a76fac8f4363132f32d7112c948"
+    },
+    {
+      "path": "downloads/production/volume-3-april-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2124,
+      "sha256": "221330d127d2938963b831f866d6ac3e9a8ba04b6f829ff1c1fd9778ba461ea1"
+    },
+    {
+      "path": "downloads/production/volume-3-april-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2139,
+      "sha256": "321a3a7cd6f684755d9ad454cfabffe30c0c33166bc3df37e877561c68b097c7"
+    },
+    {
+      "path": "downloads/production/volume-3-april-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2084,
+      "sha256": "ac35b6833cbe526711cc441a2905e63f14b3b0e9f76d0761a2a59578400bba5c"
+    },
+    {
+      "path": "downloads/production/volume-3-april-closeout-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1199,
+      "sha256": "7f40504eb5b3d826490f72e76c35fad712116761694b7c3f7cd3637363defe28"
+    },
+    {
+      "path": "downloads/production/volume-3-may-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2006,
+      "sha256": "d4944f25400f8ce1f36a9c46a3bfb64553787f9f266515520c3cd09091d73862"
+    },
+    {
+      "path": "downloads/production/volume-3-may-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2058,
+      "sha256": "45fab7c1bfab8a497083e6530af18a23601291011dcfb7bf55a661080b94edb1"
+    },
+    {
+      "path": "downloads/production/volume-3-may-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2125,
+      "sha256": "d821dda1204ecd7b6a42bcd37a8323c1c4d3605ca61ab89ef7b8c06c31c52521"
+    },
+    {
+      "path": "downloads/production/volume-3-may-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2025,
+      "sha256": "4c82a0338ea656daff07605b2792bb6ba075373f92ede21e58067c327d80bb17"
+    },
+    {
+      "path": "downloads/production/volume-3-may-closeout-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1285,
+      "sha256": "39bf6e30dd31786920fd7c6c57fbcce44abd1907673dd2529f4750aa394c4153"
+    },
+    {
+      "path": "downloads/production/volume-3-june-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2028,
+      "sha256": "d8bf0e033c861818c80a7a018c41b8d010491a4254ae74decdf12d3e6f2d99b0"
+    },
+    {
+      "path": "downloads/production/volume-3-june-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2008,
+      "sha256": "d56505794c01009870fe52fffbca76603a4dd1408ebfb4866300f3ca62b56921"
+    },
+    {
+      "path": "downloads/production/volume-3-june-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1959,
+      "sha256": "e5db492a57a409cf98255884446a3ba925b08769259dbb9a3919cb0801ec56ba"
+    },
+    {
+      "path": "downloads/production/volume-3-june-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1971,
+      "sha256": "cf2efc34dce9be2faae77be7bc67b9390a212ef4e5ec1c6df13ecb98fb527d32"
+    },
+    {
+      "path": "downloads/production/volume-3-june-closeout-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1200,
+      "sha256": "6803bcf5005d623a7ea56c7119d01a3baf93febf1bca717948a36c5e30c9f8dc"
+    },
+    {
+      "path": "downloads/production/volume-3-july-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2059,
+      "sha256": "755c9ba1d66d4c0c71f0a4fae442dc80d060f0bcecf3711e95b4a843ae45748a"
+    },
+    {
+      "path": "downloads/production/volume-3-july-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2076,
+      "sha256": "91deaaa9434662c11d2bf488e1d93c31ae0cddba30ac11389c7c79bc4d86234c"
+    },
+    {
+      "path": "downloads/production/volume-3-july-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2063,
+      "sha256": "47be760809f3d5ce683493ae4268c92c5aa4bab75b34b070bde08f424855826b"
+    },
+    {
+      "path": "downloads/production/volume-3-july-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1923,
+      "sha256": "42592b1858fe02da32229b865fb382666d51f2ec27bfc4bf97aab9ca0eaae8e9"
+    },
+    {
+      "path": "downloads/production/volume-3-july-closeout-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1255,
+      "sha256": "7cc574ad13629ed3f1c22261d9f488038f83790c0426339e2efdc5f2c21e8018"
+    },
+    {
+      "path": "downloads/production/volume-3-august-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1894,
+      "sha256": "8d47b5c0819d2de7176e7a60ce191d0f73b13615ae055aac06ada7cc3e398a68"
+    },
+    {
+      "path": "downloads/production/volume-3-august-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1932,
+      "sha256": "98a5c8fddf6112924d8d6e00fd5913dfc3402a5149501e44b7c39af0e3fa59e4"
+    },
+    {
+      "path": "downloads/production/volume-3-august-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2027,
+      "sha256": "9b3ec55be657cf31b897479f4d75cec97b8b48df7c3bf06d7ef2915b068a093e"
+    },
+    {
+      "path": "downloads/production/volume-3-august-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1998,
+      "sha256": "fcde305d49988ab4980480f17a2b5af27ca84763a3a44536a9b33617019bb6e7"
+    },
+    {
+      "path": "downloads/production/volume-3-august-closeout-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1344,
+      "sha256": "46774cb33314cb1bd43117e33072f83d3600bd885db596dc308dc1c57d91fce4"
+    },
+    {
+      "path": "downloads/production/volume-3-september-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1901,
+      "sha256": "684169f8a35d04cdc6461a260ccf03a5a5dcb8445350871e4ce107312ce4aec3"
+    },
+    {
+      "path": "downloads/production/volume-3-september-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1933,
+      "sha256": "0c7a4eb3a87c568539af67b6b52d14ffb113f6924cdc7dae87959c921cd33df2"
+    },
+    {
+      "path": "downloads/production/volume-3-september-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2047,
+      "sha256": "d69d9e04a1f152d539ea8d70c8487fa35ef75ab35dec7b9cc23690322cee72a7"
+    },
+    {
+      "path": "downloads/production/volume-3-september-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2105,
+      "sha256": "8c85a116c2bc3d3c14ea23a3d3155d65a73ba21e248283b05eb43b2bafc24067"
+    },
+    {
+      "path": "downloads/production/volume-3-september-october-transition-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2151,
+      "sha256": "e3fb11a11f37849074f5c6c3a6b7d5c9f547460f6e0e9cfc1132f0f338f7875f"
+    },
+    {
+      "path": "downloads/production/volume-3-october-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2066,
+      "sha256": "55553de0ea2bc8bc65ec3a837752128c1ec987e8d039ef8c9d2110e479a9600c"
+    },
+    {
+      "path": "downloads/production/volume-3-october-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1870,
+      "sha256": "ce2a2113300e65252912676e8174415bb451e35425ef90e9c860f1ce6a349b47"
+    },
+    {
+      "path": "downloads/production/volume-3-october-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2100,
+      "sha256": "22634b3f9e023337575221fc32dcecf1079f1fbad5d29c4928a4789b7c8b513f"
+    },
+    {
+      "path": "downloads/production/volume-3-october-close-november-open-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2047,
+      "sha256": "831b9bfac5f71ea235b737ea6be91fe3d5c20c3a999cb90e1ca1988ba25304ef"
+    },
+    {
+      "path": "downloads/production/volume-3-november-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2038,
+      "sha256": "ab939585792051905b88e0847bbe4a55eb39a57d8b83aa34c6c57273699c774b"
+    },
+    {
+      "path": "downloads/production/volume-3-november-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2160,
+      "sha256": "a693a4f5bcec4d99b6f1ff84e27b8e55bef0412163e0ba7cba1e9c2aef294e0d"
+    },
+    {
+      "path": "downloads/production/volume-3-november-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2128,
+      "sha256": "15edd9063ce4da72172ecee13ebc8cb6c176d03730ff0751c324b154b7c4a955"
+    },
+    {
+      "path": "downloads/production/volume-3-november-closeout-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1877,
+      "sha256": "c982b2f314fe727f89f0ca5615f007dce15ca4589636f4423c3b1f39620690b3"
+    },
+    {
+      "path": "downloads/production/volume-3-december-week-1-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1977,
+      "sha256": "3f92e0cadfbe87137071e2e96a68954c90ed1eadf314aa756cdd05397ba78f1a"
+    },
+    {
+      "path": "downloads/production/volume-3-december-week-2-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2196,
+      "sha256": "d0ad22ef757b9bf4da203e9a8cd61840ee796f10a36ecc1d7f481f8609dd9569"
+    },
+    {
+      "path": "downloads/production/volume-3-december-week-3-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2113,
+      "sha256": "4759467c3871c4a7a14cb758f007e6658fdecec9a2b96dc9d4d785680b4582d7"
+    },
+    {
+      "path": "downloads/production/volume-3-december-week-4-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 2140,
+      "sha256": "219934e652943019ceffbb137152be483d2bb62a61e2a3ecb1ae881fd33b9374"
+    },
+    {
+      "path": "downloads/production/volume-3-december-closeout-companion-journal.md",
+      "role": "journal_source",
+      "volume": 3,
+      "bytes": 1419,
+      "sha256": "c8b1ea1908bc07132ae2b33ae4de380317ac4fdc43182a431c2fbdd137d653b7"
+    },
+    {
+      "path": "downloads/production/master/volume-3-master-interior-manuscript.md",
+      "role": "devotional_master",
+      "volume": 3,
+      "bytes": 576827,
+      "sha256": "97fa781cf0e4a237e3e7e2ab150d92a41e3eda8acad024bed54872d66a28fb94"
+    },
+    {
+      "path": "downloads/production/master/volume-3-master-companion-journal.md",
+      "role": "journal_master",
+      "volume": 3,
+      "bytes": 117300,
+      "sha256": "505e92e6676b1d27c19ef829be093899e81da8d5fb86ed336a963d39e8ab7369"
+    }
+  ],
+  "release_decision": {
+    "approved": false,
+    "decision": "DO NOT RELEASE",
+    "reason": "Critical and High manuscript-contract failures remain. This audit establishes the rewrite baseline only."
+  }
+}

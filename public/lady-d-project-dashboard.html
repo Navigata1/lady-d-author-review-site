@@ -7,19 +7,19 @@
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{margin:0;background:linear-gradient(180deg,#eef7f4,#fffaf1 46%,#f5efe2);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.55}
+body{margin:0;background:#eef7f4;color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.55}
 a{color:var(--teal);font-weight:850}
 .nav{position:sticky;top:0;z-index:15;background:rgba(18,55,71,.96);backdrop-filter:blur(16px);display:flex;gap:10px;flex-wrap:wrap;align-items:center;padding:12px 18px}
 .nav a,.nav span{color:white;text-decoration:none;font-size:13px;font-weight:850;padding:8px 11px;border-radius:999px;background:rgba(255,255,255,.09)}
 .nav .brand{background:transparent;color:#f7d58f}
 .wrap{max-width:1120px;margin:auto;padding:34px 18px 78px}
-.hero{display:grid;grid-template-columns:1fr 190px;gap:26px;align-items:center;background:linear-gradient(135deg,var(--deep),var(--teal) 64%,var(--gold));color:white;border-radius:8px;padding:42px;box-shadow:var(--shadow);overflow:hidden}
+.hero{display:grid;grid-template-columns:1fr 190px;gap:26px;align-items:center;background:var(--deep);color:white;border:1px solid #365969;border-bottom:5px solid var(--gold);border-radius:8px;padding:42px;box-shadow:var(--shadow);overflow:hidden}
 .hero-logo{width:160px;max-width:100%;border-radius:28px;filter:drop-shadow(0 18px 35px rgba(0,0,0,.22))}
-.kicker{text-transform:uppercase;letter-spacing:.16em;color:var(--gold);font-size:12px;font-weight:950}
+.kicker{text-transform:uppercase;letter-spacing:0;color:var(--gold);font-size:12px;font-weight:950}
 .hero .kicker{color:#f9dda2}
 h1,h2,h3{line-height:1.06;margin:0 0 14px}
-h1{font-size:clamp(34px,5.8vw,70px);letter-spacing:-.035em}
-h2{font-size:clamp(27px,3.2vw,42px);letter-spacing:-.02em}
+h1{font-size:clamp(34px,5.8vw,70px);letter-spacing:0}
+h2{font-size:clamp(27px,3.2vw,42px);letter-spacing:0}
 h3{font-size:21px}
 p{margin:0 0 12px}
 .lead{font-size:clamp(18px,2vw,22px);max-width:900px}
@@ -28,9 +28,9 @@ p{margin:0 0 12px}
 .card{grid-column:span 6;background:rgba(255,255,255,.98);border:1px solid var(--line);border-radius:8px;padding:24px;box-shadow:var(--shadow)}
 .third{grid-column:span 4}.mini{grid-column:span 3}.full{grid-column:1/-1}
 .gold-top{border-top:7px solid var(--gold)}.teal-top{border-top:7px solid var(--teal)}.coral-top{border-top:7px solid var(--coral)}
-.badge,.chip{display:inline-flex;align-items:center;border-radius:999px;background:#eaf5f2;color:#07524f;border:1px solid #cae0db;padding:7px 10px;font-size:12px;font-weight:900;text-transform:uppercase;letter-spacing:.06em;margin:3px}
+.badge,.chip{display:inline-flex;align-items:center;border-radius:999px;background:#eaf5f2;color:#07524f;border:1px solid #cae0db;padding:7px 10px;font-size:12px;font-weight:900;text-transform:uppercase;letter-spacing:0;margin:3px}
 .btn{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;border:1px solid var(--line);border-radius:8px;padding:13px 18px;margin:6px 8px 6px 0;color:#122c2d;background:white;font-weight:950;min-width:150px}
-.btn.gold{background:linear-gradient(135deg,var(--gold),#efc96c);color:#102b2d;border:0}.btn.teal{background:var(--teal);color:white;border:0}.btn.dark{background:var(--deep);color:white;border:0}.btn.coral{background:var(--coral);color:white;border:0}
+.btn.gold{background:var(--gold);color:#102b2d;border:0}.btn.teal{background:var(--teal);color:white;border:0}.btn.dark{background:var(--deep);color:white;border:0}.btn.coral{background:var(--coral);color:white;border:0}
 .muted{color:var(--muted)}.stat strong{display:block;font-size:43px;line-height:1;color:var(--deep);font-weight:650}
 .book{display:grid;grid-template-columns:126px 1fr;gap:18px;align-items:center}
 .book img{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:6px;box-shadow:0 16px 38px rgba(10,45,48,.18)}
@@ -39,11 +39,11 @@ p{margin:0 0 12px}
 .cover-card img{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:6px;box-shadow:0 12px 28px rgba(10,45,48,.14)}
 .table{width:100%;border-collapse:separate;border-spacing:0;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#fff}
 .table th,.table td{text-align:left;vertical-align:top;padding:12px 13px;border-bottom:1px solid var(--line)}
-.table th{background:var(--deep);color:white;text-transform:uppercase;font-size:.78rem;letter-spacing:.08em}
+.table th{background:var(--deep);color:white;text-transform:uppercase;font-size:.78rem;letter-spacing:0}
 .table tr:last-child td{border-bottom:0}
 .callout{border-left:6px solid var(--teal);background:#f2faf7;border-radius:8px;padding:16px 18px}
 .warning{border-left-color:var(--coral);background:#fff5ef}
-.money{background:linear-gradient(135deg,var(--deep),var(--teal));color:white;border-radius:8px;padding:26px}
+.money{background:var(--deep);color:white;border-radius:8px;padding:26px}
 .money .big{font-size:58px;line-height:1;font-weight:450}
 .paybox{background:#fff7ea;border:1px solid #ecd6b3;border-radius:8px;padding:22px}
 .page{max-width:1120px;margin:22px auto;background:white;border:1px solid var(--line);box-shadow:0 18px 55px rgba(10,45,48,.08);padding:38px 46px;border-radius:8px;break-after:page}
@@ -67,6 +67,6 @@ p{margin:0 0 12px}
 </style></head><body><nav class="nav"><span class="brand">Lady D Publishing Hub</span><a href="susan-damon-hub.html">Hub</a><a href="susan-damon-publishing-proposal.html">Proposal/Invoice</a><a href="lady-d-project-dashboard.html">Dashboard</a><a href="lady-d-enhanced-state-of-the-union-2026-07-19.html">Enhanced State</a><a href="lady-d-enhanced-plan-of-attack-2026-07-19.html">Enhanced Plan</a><a href="index.html">Author Review</a><a href="lady-d-author-site.html">Lady D Site</a></nav>
 <main class="wrap"><header class="hero"><div><div class="kicker">Live Publishing Dashboard - Lady D</div><h1>Project Dashboard</h1><p class="lead">Current operating view for completing the corrected publishing package without losing scope, author voice, or proof discipline.</p><p><span class="badge">Portal live</span><span class="badge">Invoice corrected</span><span class="badge">Payment link pending</span><span class="badge">Testimony separated</span></p></div><img class="hero-logo" src="assets/idc-palm-logo.png" alt="Island Development Crew palm logo"></header>
 <section class="grid"><article class="card mini stat"><strong>3</strong><span>Devotional books</span></article><article class="card mini stat"><strong>3</strong><span>Companion journals</span></article><article class="card mini stat"><strong>1</strong><span>31-day visual devotional</span></article><article class="card mini stat"><strong>$1,400</strong><span>Balance due</span></article></section>
-<section class="grid"><article class="card full"><h2>Completion Gates</h2><table class="table"><tr><th>Gate</th><th>Status</th><th>Next action</th></tr><tr><td>Proposal / invoice</td><td>Corrected</td><td>Mrs. Damon can view HTML and download PDF; create the new $1,400 Stripe checkout before sending externally.</td></tr><tr><td>Author review portal</td><td>Live</td><td>Review three devotional HTML books and companion journal PDF lanes.</td></tr><tr><td>Source freeze</td><td>Pending</td><td>Create final book registry and canonical source list.</td></tr><tr><td>KDP proof files</td><td>Pending</td><td>Generate final interiors, wraps, and Previewer evidence.</td></tr><tr><td>Physical proof</td><td>Pending</td><td>Order/inspect proofs before public publishing.</td></tr></table></article></section>
+<section class="grid"><article class="card full"><h2>Completion Gates</h2><table class="table"><tr><th>Gate</th><th>Status</th><th>Next action</th></tr><tr><td>Proposal / invoice</td><td>Corrected</td><td>Mrs. Damon can view HTML and download PDF; create the new $1,400 Stripe checkout before sending externally.</td></tr><tr><td>Revised reader editions</td><td>Review proof built</td><td>Review three rewritten HTML books, three 6 x 9 devotional proofs, and three companion-journal proofs.</td></tr><tr><td>Independent editorial gate</td><td>Judge PASS / Auditor PASS</td><td>Manuscript gates cleared; proceed to KDP Previewer and physical-proof review.</td></tr><tr><td>KDP proof files</td><td>Pending final gate</td><td>Run final interiors and wraps through KDP Previewer after editorial approval.</td></tr><tr><td>Physical proof</td><td>Pending</td><td>Order and inspect proofs before public publishing.</td></tr></table></article></section>
 <section id="testimony" class="grid"><article class="card full coral-top"><h2>Juan Damon Testimony Lane - Separate Scope</h2><table class="table"><tr><th>Step</th><th>Status / action</th></tr><tr><td>Scope</td><td>Separated from the current $2,000 publishing package and not part of the $1,400 remaining balance.</td></tr><tr><td>Source Intake</td><td>Future work should collect testimony source material, family details, photos, recordings, written notes, and sensitive content boundaries.</td></tr><tr><td>Structure</td><td>Build a reverent testimony/memorial book outline only after approval and separate payment terms.</td></tr><tr><td>Production</td><td>Move through source lock, draft, family review, interior formatting, cover, proofing, and KDP/digital prep as its own project.</td></tr></table></article></section></main>
 </body></html>
