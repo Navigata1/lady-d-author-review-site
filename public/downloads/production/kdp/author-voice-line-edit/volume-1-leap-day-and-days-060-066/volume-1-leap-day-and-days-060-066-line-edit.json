@@ -1,0 +1,188 @@
+{
+  "generated": "2026-07-01",
+  "status": "volume-1-leap-day-and-days-060-066_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Leap Day and Days 060-066",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/kdp/author-voice-line-edit/volume-1-leap-day-and-days-060-066/volume-1-leap-day-and-days-060-066-manuscript.md",
+    "public_source": "public/downloads/production/kdp/author-voice-line-edit/volume-1-leap-day-and-days-060-066/volume-1-leap-day-and-days-060-066-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/05 Review Packets/Author Voice Line Edit/Leap Day and Days 060-066/Leap Day and Days 060-066 Manuscript.md",
+    "repo_source_parts": [
+      "downloads/production/volume-1-leap-day-bonus-manuscript.md",
+      "downloads/production/volume-1-days-060-066-manuscript.md"
+    ],
+    "supporting_files": [
+      "downloads/production/volume-1-leap-day-and-march-week-1-companion-journal.md",
+      "downloads/production/volume-1-leap-day-and-days-060-066-audit.md"
+    ]
+  },
+  "edits": [
+    {
+      "day": "Leap Day",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Grace for the Extra Day into one faithful step today.",
+      "after": "Receive this extra day as grace, and let the Father meet one heavy responsibility by name.",
+      "reason": "Keeps the leap-day gift and being-known-by-name theme concrete without turning the extra day into pressure."
+    },
+    {
+      "day": "Day 060",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Surrender to Love That Finds You into one faithful step today.",
+      "after": "Ask for the Father's way before the timetable changes; love can teach your feet in struggle.",
+      "reason": "Turns the Moses guidance prayer into a practical timing-and-way surrender."
+    },
+    {
+      "day": "Day 061",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Let Mercy Speak Grace Before Striving into one faithful step today.",
+      "after": "Let presence, not appearance, mark one pressure point today; grace goes with you before performance speaks.",
+      "reason": "Preserves presence before performance as covenant identity rather than image management."
+    },
+    {
+      "day": "Day 062",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Breathe Mercy in the Morning into one faithful step today.",
+      "after": "Begin before the noise by breathing mercy: the Father knows your name here.",
+      "reason": "Keeps the morning mercy practice personal, named, and easy to carry into the day."
+    },
+    {
+      "day": "Day 063",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Hold Fast to the Father's Patience into one faithful step today.",
+      "after": "Make one ordinary place a meeting place today, and seek the Father before reaction takes over.",
+      "reason": "Connects the tent-of-meeting lens to an ordinary, repeatable seeking practice."
+    },
+    {
+      "day": "Day 064",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Return to Love Stronger Than Fear into one faithful step today.",
+      "after": "Offer one fear-managed possession back to God; redeemed life does not have to clutch itself.",
+      "reason": "Keeps ancient redemption context careful while making redeemed belonging concrete."
+    },
+    {
+      "day": "Day 065",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Yield to Restoring Compassion into one faithful step today.",
+      "after": "Return while the door is still tender; compassion is calling you close enough to listen.",
+      "reason": "Keeps restoring compassion as a call back before distance becomes normal."
+    },
+    {
+      "day": "Day 066",
+      "kind": "morning_impact",
+      "status": "already_current",
+      "before": "Let the Father's love carry Anchor the Promise That Holds into one faithful step today.",
+      "after": "Rest this Saturday in the character God revealed; His compassion and truth can hold the struggle.",
+      "reason": "Preserves the seventh-day Sabbath guardrail while anchoring rest in God's revealed character."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Bonus / Leap Day",
+      "date": "February 29",
+      "title": "Grace for the Extra Day",
+      "scripture": "Exodus 33:12",
+      "morning_impact": "Receive this extra day as grace, and let the Father meet one heavy responsibility by name."
+    },
+    {
+      "label": "Day 060",
+      "date": "March 1",
+      "title": "Surrender to Love That Finds You",
+      "scripture": "Exodus 33:13",
+      "morning_impact": "Ask for the Father's way before the timetable changes; love can teach your feet in struggle."
+    },
+    {
+      "label": "Day 061",
+      "date": "March 2",
+      "title": "Let Mercy Speak Grace Before Performance",
+      "scripture": "Exodus 33:16",
+      "morning_impact": "Let presence, not appearance, mark one pressure point today; grace goes with you before performance speaks."
+    },
+    {
+      "label": "Day 062",
+      "date": "March 3",
+      "title": "Breathe Mercy in the Morning",
+      "scripture": "Exodus 33:17",
+      "morning_impact": "Begin before the noise by breathing mercy: the Father knows your name here."
+    },
+    {
+      "label": "Day 063",
+      "date": "March 4",
+      "title": "Hold Fast to the Father's Patience",
+      "scripture": "Exodus 33:7",
+      "morning_impact": "Make one ordinary place a meeting place today, and seek the Father before reaction takes over."
+    },
+    {
+      "label": "Day 064",
+      "date": "March 5",
+      "title": "Return to Love Stronger Than Fear",
+      "scripture": "Exodus 34:20",
+      "morning_impact": "Offer one fear-managed possession back to God; redeemed life does not have to clutch itself."
+    },
+    {
+      "label": "Day 065",
+      "date": "March 6",
+      "title": "Yield to Restoring Compassion",
+      "scripture": "Exodus 34:31",
+      "morning_impact": "Return while the door is still tender; compassion is calling you close enough to listen."
+    },
+    {
+      "label": "Day 066",
+      "date": "March 7",
+      "title": "Anchor the Promise That Holds",
+      "scripture": "Exodus 34:6",
+      "morning_impact": "Rest this Saturday in the character God revealed; His compassion and truth can hold the struggle."
+    }
+  ],
+  "audit": {
+    "entries": 8,
+    "scripture_references": 8,
+    "context_lenses": 8,
+    "today_steps": 8,
+    "prayers": 8,
+    "journal_prompts": 8,
+    "morning_impacts": 8,
+    "old_volume_1_template_impacts_before": 0,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 3,
+    "placeholder_flags": 0,
+    "words": 2805
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "All 8 impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The batch file now has zero old Volume 1 morning-impact templates."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate."
+}

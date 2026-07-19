@@ -1,0 +1,172 @@
+{
+  "generated": "2026-07-09",
+  "status": "volume-1-days-165-171_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Days 165-171",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/volume-1-days-165-171-manuscript.md",
+    "public_source": "public/downloads/production/volume-1-days-165-171-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/01 Manuscript/Month 06 - June/Days 165-171 Manuscript.md",
+    "repo_source_parts": [
+      "downloads/production/volume-1-days-165-171-manuscript.md"
+    ],
+    "supporting_files": [
+      "downloads/production/volume-1-june-week-3-companion-journal.md",
+      "downloads/production/volume-1-days-165-171-audit.md"
+    ]
+  },
+  "edits": [
+    {
+      "day": "Day 165",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Receive Love That Finds You into one faithful step today.",
+      "after": "Receive blessing before responsibility today; the Father's love can make stewardship fruitful without fear.",
+      "reason": "Keeps Genesis 1:28's blessing-before-vocation order and releases stewardship from performance anxiety."
+    },
+    {
+      "day": "Day 166",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Trust Grace Before Striving into one faithful step today.",
+      "after": "Receive one provision without apology today; grace can nourish obedience before performance speaks.",
+      "reason": "Preserves Genesis 1:29's given provision and the entry's grace-before-performance correction."
+    },
+    {
+      "day": "Day 167",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Hope Rise Mercy in the Morning into one faithful step today.",
+      "after": "Place one anxious need under the Father's care today; mercy can reach what you cannot manage.",
+      "reason": "Turns Genesis 1:30's broad creaturely care into a concrete anxiety-to-mercy practice."
+    },
+    {
+      "day": "Day 168",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Carry the Father's Patience into one faithful step today.",
+      "after": "Practice patient honesty today; the Father can name what is good without denying what still needs healing.",
+      "reason": "Keeps Genesis 1:31's whole-work assessment while avoiding condemnation or denial."
+    },
+    {
+      "day": "Day 169",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Lean Into Love Stronger Than Fear into one faithful step today.",
+      "after": "Lean into the Father's promise today; love can loosen the control fear called protection.",
+      "reason": "Connects Genesis 12:2's God-initiated promise to surrendered trust instead of control."
+    },
+    {
+      "day": "Day 170",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry See Again Restoring Compassion into one faithful step today.",
+      "after": "Let compassion widen your sight today; blessing can move outward with wisdom, strength, and holy boundaries.",
+      "reason": "Preserves Genesis 12:3's outward blessing while keeping compassion wise rather than boundaryless."
+    },
+    {
+      "day": "Day 171",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Love Teach the Promise That Holds into one faithful step today.",
+      "after": "Rest this Saturday Sabbath in the promise first; love can teach your feet the next obedient step.",
+      "reason": "Keeps the Adventist seventh-day Sabbath frame and Genesis 12:4's promise-led obedience from rest."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Day 165",
+      "date": "June 14",
+      "title": "Receive Love That Finds You",
+      "scripture": "Genesis 1:28",
+      "morning_impact": "Receive blessing before responsibility today; the Father's love can make stewardship fruitful without fear."
+    },
+    {
+      "label": "Day 166",
+      "date": "June 15",
+      "title": "Trust Grace Before Performance",
+      "scripture": "Genesis 1:29",
+      "morning_impact": "Receive one provision without apology today; grace can nourish obedience before performance speaks."
+    },
+    {
+      "label": "Day 167",
+      "date": "June 16",
+      "title": "Let Hope Rise Mercy in the Morning",
+      "scripture": "Genesis 1:30",
+      "morning_impact": "Place one anxious need under the Father's care today; mercy can reach what you cannot manage."
+    },
+    {
+      "label": "Day 168",
+      "date": "June 17",
+      "title": "Carry the Father's Patience",
+      "scripture": "Genesis 1:31",
+      "morning_impact": "Practice patient honesty today; the Father can name what is good without denying what still needs healing."
+    },
+    {
+      "label": "Day 169",
+      "date": "June 18",
+      "title": "Lean Into Love Stronger Than Fear",
+      "scripture": "Genesis 12:2",
+      "morning_impact": "Lean into the Father's promise today; love can loosen the control fear called protection."
+    },
+    {
+      "label": "Day 170",
+      "date": "June 19",
+      "title": "See Again Restoring Compassion",
+      "scripture": "Genesis 12:3",
+      "morning_impact": "Let compassion widen your sight today; blessing can move outward with wisdom, strength, and holy boundaries."
+    },
+    {
+      "label": "Day 171",
+      "date": "June 20",
+      "title": "Let Love Teach the Promise That Holds",
+      "scripture": "Genesis 12:4",
+      "morning_impact": "Rest this Saturday Sabbath in the promise first; love can teach your feet the next obedient step."
+    }
+  ],
+  "audit": {
+    "entries": 7,
+    "scripture_references": 7,
+    "context_lenses": 7,
+    "today_steps": 7,
+    "prayers": 7,
+    "journal_prompts": 7,
+    "morning_impacts": 7,
+    "old_volume_1_template_impacts_before": 7,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 9,
+    "placeholder_flags": 0,
+    "words": 2395
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "All 7 impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The batch file now has zero old Volume 1 morning-impact templates."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate."
+}

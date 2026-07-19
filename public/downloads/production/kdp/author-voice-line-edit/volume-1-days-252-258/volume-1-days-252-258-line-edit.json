@@ -1,0 +1,172 @@
+{
+  "generated": "2026-07-09",
+  "status": "volume-1-days-252-258_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Days 252-258",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/volume-1-days-252-258-manuscript.md",
+    "public_source": "public/downloads/production/volume-1-days-252-258-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/01 Manuscript/Month 09 - September/Days 252-258 Manuscript.md",
+    "repo_source_parts": [
+      "downloads/production/volume-1-days-252-258-manuscript.md"
+    ],
+    "supporting_files": [
+      "downloads/production/volume-1-september-week-2-companion-journal.md",
+      "downloads/production/volume-1-days-252-258-audit.md"
+    ]
+  },
+  "edits": [
+    {
+      "day": "Day 252",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Come Home to the Promise That Holds into one faithful step today.",
+      "after": "Pause before repairing appearances today; let the Father search the motive underneath the move.",
+      "reason": "Keeps Genesis 28:9 focused on surrendered repair instead of image management."
+    },
+    {
+      "day": "Day 253",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Practice the Heart That Calls You into one faithful step today.",
+      "after": "Take one honest step on the road today; obedience can move without pretending fear is gone.",
+      "reason": "Connects Genesis 28:10's departure to faithful movement without romanticizing exposure."
+    },
+    {
+      "day": "Day 254",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Surrender to Love That Sends You into one faithful step today.",
+      "after": "Receive one ordinary resting place today; the Father may be nearer than the conditions suggest.",
+      "reason": "Preserves Genesis 28:11's vulnerable resting place as a possible meeting place with God."
+    },
+    {
+      "day": "Day 255",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Mercy Speak Covenant Mercy into one faithful step today.",
+      "after": "Rest this Saturday Sabbath beneath heaven's initiative; release every ladder of self-proving into mercy.",
+      "reason": "Keeps Genesis 28:12's ladder scene as God's initiative and protects the seventh-day Sabbath frame."
+    },
+    {
+      "day": "Day 256",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Breathe the Father's Welcome into one faithful step today.",
+      "after": "Let welcome widen today; one received mercy can become room for someone else to breathe.",
+      "reason": "Applies Genesis 28:14's all-families blessing without turning Sunday into Sabbath language."
+    },
+    {
+      "day": "Day 257",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Hold Fast to Beloved Identity into one faithful step today.",
+      "after": "Answer one uncertainty with God's nearness today; you are kept before the road is finished.",
+      "reason": "Turns Genesis 28:15's presence and keeping promise into beloved identity on an unfinished road."
+    },
+    {
+      "day": "Day 258",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Return to Love That Finds You into one faithful step today.",
+      "after": "Look back with gentleness today; God's nearness may have been present before you had language.",
+      "reason": "Connects Genesis 28:16's awakened recognition to reflective trust without forcing certainty."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Day 252",
+      "date": "September 9",
+      "title": "Come Home to the Promise That Holds",
+      "scripture": "Genesis 28:9",
+      "morning_impact": "Pause before repairing appearances today; let the Father search the motive underneath the move."
+    },
+    {
+      "label": "Day 253",
+      "date": "September 10",
+      "title": "Practice the Heart That Calls You",
+      "scripture": "Genesis 28:10",
+      "morning_impact": "Take one honest step on the road today; obedience can move without pretending fear is gone."
+    },
+    {
+      "label": "Day 254",
+      "date": "September 11",
+      "title": "Surrender to Love That Sends You",
+      "scripture": "Genesis 28:11",
+      "morning_impact": "Receive one ordinary resting place today; the Father may be nearer than the conditions suggest."
+    },
+    {
+      "label": "Day 255",
+      "date": "September 12",
+      "title": "Let Mercy Speak Covenant Mercy",
+      "scripture": "Genesis 28:12",
+      "morning_impact": "Rest this Saturday Sabbath beneath heaven's initiative; release every ladder of self-proving into mercy."
+    },
+    {
+      "label": "Day 256",
+      "date": "September 13",
+      "title": "Breathe the Father's Welcome",
+      "scripture": "Genesis 28:14",
+      "morning_impact": "Let welcome widen today; one received mercy can become room for someone else to breathe."
+    },
+    {
+      "label": "Day 257",
+      "date": "September 14",
+      "title": "Hold Fast to Beloved Identity",
+      "scripture": "Genesis 28:15",
+      "morning_impact": "Answer one uncertainty with God's nearness today; you are kept before the road is finished."
+    },
+    {
+      "label": "Day 258",
+      "date": "September 15",
+      "title": "Return to Love That Finds You",
+      "scripture": "Genesis 28:16",
+      "morning_impact": "Look back with gentleness today; God's nearness may have been present before you had language."
+    }
+  ],
+  "audit": {
+    "entries": 7,
+    "scripture_references": 7,
+    "context_lenses": 7,
+    "today_steps": 7,
+    "prayers": 7,
+    "journal_prompts": 7,
+    "morning_impacts": 7,
+    "old_volume_1_template_impacts_before": 7,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 8,
+    "placeholder_flags": 0,
+    "words": 2543
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "All 7 impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The batch file now has zero old Volume 1 morning-impact templates."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate."
+}

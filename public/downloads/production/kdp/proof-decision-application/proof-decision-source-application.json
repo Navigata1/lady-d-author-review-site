@@ -1,0 +1,5519 @@
+{
+  "generated": "2026-07-01",
+  "source_decision_file": "downloads/production/kdp/proof-decision-resolution/proof-decision-resolution.json",
+  "title_applications": [],
+  "morning_impact_applications": [
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-001-007-pilot-manuscript.md",
+      "heading": "Day 001 - January 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-001-007-pilot-manuscript.md",
+      "heading": "Day 002 - January 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-001-007-pilot-manuscript.md",
+      "heading": "Day 003 - January 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-001-007-pilot-manuscript.md",
+      "heading": "Day 004 - January 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-001-007-pilot-manuscript.md",
+      "heading": "Day 005 - January 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-001-007-pilot-manuscript.md",
+      "heading": "Day 006 - January 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-001-007-pilot-manuscript.md",
+      "heading": "Day 007 - January 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-008-014-manuscript.md",
+      "heading": "Day 008 - January 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-008-014-manuscript.md",
+      "heading": "Day 009 - January 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-008-014-manuscript.md",
+      "heading": "Day 010 - January 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-008-014-manuscript.md",
+      "heading": "Day 011 - January 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-008-014-manuscript.md",
+      "heading": "Day 012 - January 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-008-014-manuscript.md",
+      "heading": "Day 013 - January 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-008-014-manuscript.md",
+      "heading": "Day 014 - January 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-015-021-manuscript.md",
+      "heading": "Day 015 - January 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-015-021-manuscript.md",
+      "heading": "Day 016 - January 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-015-021-manuscript.md",
+      "heading": "Day 017 - January 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-015-021-manuscript.md",
+      "heading": "Day 018 - January 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-015-021-manuscript.md",
+      "heading": "Day 019 - January 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-015-021-manuscript.md",
+      "heading": "Day 020 - January 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-015-021-manuscript.md",
+      "heading": "Day 021 - January 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-022-028-manuscript.md",
+      "heading": "Day 022 - January 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-022-028-manuscript.md",
+      "heading": "Day 023 - January 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-022-028-manuscript.md",
+      "heading": "Day 024 - January 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-022-028-manuscript.md",
+      "heading": "Day 025 - January 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-022-028-manuscript.md",
+      "heading": "Day 026 - January 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-022-028-manuscript.md",
+      "heading": "Day 027 - January 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-022-028-manuscript.md",
+      "heading": "Day 028 - January 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-029-031-manuscript.md",
+      "heading": "Day 029 - January 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-029-031-manuscript.md",
+      "heading": "Day 030 - January 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-029-031-manuscript.md",
+      "heading": "Day 031 - January 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-032-038-manuscript.md",
+      "heading": "Day 032 - February 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-032-038-manuscript.md",
+      "heading": "Day 033 - February 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-032-038-manuscript.md",
+      "heading": "Day 034 - February 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-032-038-manuscript.md",
+      "heading": "Day 035 - February 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-032-038-manuscript.md",
+      "heading": "Day 036 - February 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-032-038-manuscript.md",
+      "heading": "Day 037 - February 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-032-038-manuscript.md",
+      "heading": "Day 038 - February 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-039-045-manuscript.md",
+      "heading": "Day 039 - February 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-039-045-manuscript.md",
+      "heading": "Day 040 - February 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-039-045-manuscript.md",
+      "heading": "Day 041 - February 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-039-045-manuscript.md",
+      "heading": "Day 042 - February 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-039-045-manuscript.md",
+      "heading": "Day 043 - February 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-039-045-manuscript.md",
+      "heading": "Day 044 - February 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-039-045-manuscript.md",
+      "heading": "Day 045 - February 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-046-052-manuscript.md",
+      "heading": "Day 046 - February 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-046-052-manuscript.md",
+      "heading": "Day 047 - February 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-046-052-manuscript.md",
+      "heading": "Day 048 - February 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-046-052-manuscript.md",
+      "heading": "Day 049 - February 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-046-052-manuscript.md",
+      "heading": "Day 050 - February 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-046-052-manuscript.md",
+      "heading": "Day 051 - February 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-046-052-manuscript.md",
+      "heading": "Day 052 - February 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-053-059-manuscript.md",
+      "heading": "Day 053 - February 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-053-059-manuscript.md",
+      "heading": "Day 054 - February 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-053-059-manuscript.md",
+      "heading": "Day 055 - February 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-053-059-manuscript.md",
+      "heading": "Day 056 - February 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-053-059-manuscript.md",
+      "heading": "Day 057 - February 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-053-059-manuscript.md",
+      "heading": "Day 058 - February 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-053-059-manuscript.md",
+      "heading": "Day 059 - February 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-060-066-manuscript.md",
+      "heading": "Day 060 - March 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-060-066-manuscript.md",
+      "heading": "Day 061 - March 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-060-066-manuscript.md",
+      "heading": "Day 062 - March 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-060-066-manuscript.md",
+      "heading": "Day 063 - March 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-060-066-manuscript.md",
+      "heading": "Day 064 - March 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-060-066-manuscript.md",
+      "heading": "Day 065 - March 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-060-066-manuscript.md",
+      "heading": "Day 066 - March 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-067-073-manuscript.md",
+      "heading": "Day 067 - March 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-067-073-manuscript.md",
+      "heading": "Day 068 - March 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-067-073-manuscript.md",
+      "heading": "Day 069 - March 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-067-073-manuscript.md",
+      "heading": "Day 070 - March 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-067-073-manuscript.md",
+      "heading": "Day 071 - March 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-067-073-manuscript.md",
+      "heading": "Day 072 - March 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-067-073-manuscript.md",
+      "heading": "Day 073 - March 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-074-080-manuscript.md",
+      "heading": "Day 074 - March 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-074-080-manuscript.md",
+      "heading": "Day 075 - March 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-074-080-manuscript.md",
+      "heading": "Day 076 - March 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-074-080-manuscript.md",
+      "heading": "Day 077 - March 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-074-080-manuscript.md",
+      "heading": "Day 078 - March 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-074-080-manuscript.md",
+      "heading": "Day 079 - March 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-074-080-manuscript.md",
+      "heading": "Day 080 - March 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-081-087-manuscript.md",
+      "heading": "Day 081 - March 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-081-087-manuscript.md",
+      "heading": "Day 082 - March 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-081-087-manuscript.md",
+      "heading": "Day 083 - March 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-081-087-manuscript.md",
+      "heading": "Day 084 - March 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-081-087-manuscript.md",
+      "heading": "Day 085 - March 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-081-087-manuscript.md",
+      "heading": "Day 086 - March 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-081-087-manuscript.md",
+      "heading": "Day 087 - March 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-088-094-manuscript.md",
+      "heading": "Day 088 - March 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-088-094-manuscript.md",
+      "heading": "Day 089 - March 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-088-094-manuscript.md",
+      "heading": "Day 090 - March 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-088-094-manuscript.md",
+      "heading": "Day 091 - April 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-088-094-manuscript.md",
+      "heading": "Day 092 - April 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-088-094-manuscript.md",
+      "heading": "Day 093 - April 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-088-094-manuscript.md",
+      "heading": "Day 094 - April 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-095-101-manuscript.md",
+      "heading": "Day 095 - April 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-095-101-manuscript.md",
+      "heading": "Day 096 - April 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-095-101-manuscript.md",
+      "heading": "Day 097 - April 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-095-101-manuscript.md",
+      "heading": "Day 098 - April 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-095-101-manuscript.md",
+      "heading": "Day 099 - April 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-095-101-manuscript.md",
+      "heading": "Day 100 - April 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-095-101-manuscript.md",
+      "heading": "Day 101 - April 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-102-108-manuscript.md",
+      "heading": "Day 102 - April 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-102-108-manuscript.md",
+      "heading": "Day 103 - April 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-102-108-manuscript.md",
+      "heading": "Day 104 - April 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-102-108-manuscript.md",
+      "heading": "Day 105 - April 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-102-108-manuscript.md",
+      "heading": "Day 106 - April 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-102-108-manuscript.md",
+      "heading": "Day 107 - April 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-102-108-manuscript.md",
+      "heading": "Day 108 - April 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-109-115-manuscript.md",
+      "heading": "Day 109 - April 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-109-115-manuscript.md",
+      "heading": "Day 110 - April 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-109-115-manuscript.md",
+      "heading": "Day 111 - April 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-109-115-manuscript.md",
+      "heading": "Day 112 - April 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-109-115-manuscript.md",
+      "heading": "Day 113 - April 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-109-115-manuscript.md",
+      "heading": "Day 114 - April 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-109-115-manuscript.md",
+      "heading": "Day 115 - April 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-116-122-manuscript.md",
+      "heading": "Day 116 - April 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-116-122-manuscript.md",
+      "heading": "Day 117 - April 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-116-122-manuscript.md",
+      "heading": "Day 118 - April 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-116-122-manuscript.md",
+      "heading": "Day 119 - April 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-116-122-manuscript.md",
+      "heading": "Day 120 - April 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-116-122-manuscript.md",
+      "heading": "Day 121 - May 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-116-122-manuscript.md",
+      "heading": "Day 122 - May 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-123-129-manuscript.md",
+      "heading": "Day 123 - May 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-123-129-manuscript.md",
+      "heading": "Day 124 - May 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-123-129-manuscript.md",
+      "heading": "Day 125 - May 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-123-129-manuscript.md",
+      "heading": "Day 126 - May 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-123-129-manuscript.md",
+      "heading": "Day 127 - May 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-123-129-manuscript.md",
+      "heading": "Day 128 - May 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-123-129-manuscript.md",
+      "heading": "Day 129 - May 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-130-136-manuscript.md",
+      "heading": "Day 130 - May 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-130-136-manuscript.md",
+      "heading": "Day 131 - May 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-130-136-manuscript.md",
+      "heading": "Day 132 - May 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-130-136-manuscript.md",
+      "heading": "Day 133 - May 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-130-136-manuscript.md",
+      "heading": "Day 134 - May 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-130-136-manuscript.md",
+      "heading": "Day 135 - May 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-130-136-manuscript.md",
+      "heading": "Day 136 - May 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-137-143-manuscript.md",
+      "heading": "Day 137 - May 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-137-143-manuscript.md",
+      "heading": "Day 138 - May 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-137-143-manuscript.md",
+      "heading": "Day 139 - May 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-137-143-manuscript.md",
+      "heading": "Day 140 - May 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-137-143-manuscript.md",
+      "heading": "Day 141 - May 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-137-143-manuscript.md",
+      "heading": "Day 142 - May 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-137-143-manuscript.md",
+      "heading": "Day 143 - May 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-144-150-manuscript.md",
+      "heading": "Day 144 - May 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-144-150-manuscript.md",
+      "heading": "Day 145 - May 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-144-150-manuscript.md",
+      "heading": "Day 146 - May 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-144-150-manuscript.md",
+      "heading": "Day 147 - May 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-144-150-manuscript.md",
+      "heading": "Day 148 - May 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-144-150-manuscript.md",
+      "heading": "Day 149 - May 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-144-150-manuscript.md",
+      "heading": "Day 150 - May 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-151-157-manuscript.md",
+      "heading": "Day 151 - May 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-151-157-manuscript.md",
+      "heading": "Day 152 - June 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-151-157-manuscript.md",
+      "heading": "Day 153 - June 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-151-157-manuscript.md",
+      "heading": "Day 154 - June 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-151-157-manuscript.md",
+      "heading": "Day 155 - June 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-151-157-manuscript.md",
+      "heading": "Day 156 - June 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-151-157-manuscript.md",
+      "heading": "Day 157 - June 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-158-164-manuscript.md",
+      "heading": "Day 158 - June 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-158-164-manuscript.md",
+      "heading": "Day 159 - June 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-158-164-manuscript.md",
+      "heading": "Day 160 - June 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-158-164-manuscript.md",
+      "heading": "Day 161 - June 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-158-164-manuscript.md",
+      "heading": "Day 162 - June 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-158-164-manuscript.md",
+      "heading": "Day 163 - June 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-158-164-manuscript.md",
+      "heading": "Day 164 - June 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-165-171-manuscript.md",
+      "heading": "Day 165 - June 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-165-171-manuscript.md",
+      "heading": "Day 166 - June 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-165-171-manuscript.md",
+      "heading": "Day 167 - June 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-165-171-manuscript.md",
+      "heading": "Day 168 - June 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-165-171-manuscript.md",
+      "heading": "Day 169 - June 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-165-171-manuscript.md",
+      "heading": "Day 170 - June 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-165-171-manuscript.md",
+      "heading": "Day 171 - June 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-172-178-manuscript.md",
+      "heading": "Day 172 - June 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-172-178-manuscript.md",
+      "heading": "Day 173 - June 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-172-178-manuscript.md",
+      "heading": "Day 174 - June 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-172-178-manuscript.md",
+      "heading": "Day 175 - June 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-172-178-manuscript.md",
+      "heading": "Day 176 - June 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-172-178-manuscript.md",
+      "heading": "Day 177 - June 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-172-178-manuscript.md",
+      "heading": "Day 178 - June 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-179-181-manuscript.md",
+      "heading": "Day 179 - June 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-179-181-manuscript.md",
+      "heading": "Day 180 - June 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-179-181-manuscript.md",
+      "heading": "Day 181 - June 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-182-188-manuscript.md",
+      "heading": "Day 182 - July 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-182-188-manuscript.md",
+      "heading": "Day 183 - July 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-182-188-manuscript.md",
+      "heading": "Day 184 - July 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-182-188-manuscript.md",
+      "heading": "Day 185 - July 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-182-188-manuscript.md",
+      "heading": "Day 186 - July 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-182-188-manuscript.md",
+      "heading": "Day 187 - July 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-182-188-manuscript.md",
+      "heading": "Day 188 - July 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-189-195-manuscript.md",
+      "heading": "Day 189 - July 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-189-195-manuscript.md",
+      "heading": "Day 190 - July 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-189-195-manuscript.md",
+      "heading": "Day 191 - July 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-189-195-manuscript.md",
+      "heading": "Day 192 - July 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-189-195-manuscript.md",
+      "heading": "Day 193 - July 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-189-195-manuscript.md",
+      "heading": "Day 194 - July 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-189-195-manuscript.md",
+      "heading": "Day 195 - July 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-196-202-manuscript.md",
+      "heading": "Day 196 - July 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-196-202-manuscript.md",
+      "heading": "Day 197 - July 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-196-202-manuscript.md",
+      "heading": "Day 198 - July 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-196-202-manuscript.md",
+      "heading": "Day 199 - July 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-196-202-manuscript.md",
+      "heading": "Day 200 - July 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-196-202-manuscript.md",
+      "heading": "Day 201 - July 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-196-202-manuscript.md",
+      "heading": "Day 202 - July 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-203-209-manuscript.md",
+      "heading": "Day 203 - July 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-203-209-manuscript.md",
+      "heading": "Day 204 - July 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-203-209-manuscript.md",
+      "heading": "Day 205 - July 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-203-209-manuscript.md",
+      "heading": "Day 206 - July 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-203-209-manuscript.md",
+      "heading": "Day 207 - July 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-203-209-manuscript.md",
+      "heading": "Day 208 - July 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-203-209-manuscript.md",
+      "heading": "Day 209 - July 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-210-216-manuscript.md",
+      "heading": "Day 210 - July 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-210-216-manuscript.md",
+      "heading": "Day 211 - July 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-210-216-manuscript.md",
+      "heading": "Day 212 - July 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-210-216-manuscript.md",
+      "heading": "Day 213 - August 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-210-216-manuscript.md",
+      "heading": "Day 214 - August 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-210-216-manuscript.md",
+      "heading": "Day 215 - August 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-210-216-manuscript.md",
+      "heading": "Day 216 - August 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-217-223-manuscript.md",
+      "heading": "Day 217 - August 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-217-223-manuscript.md",
+      "heading": "Day 218 - August 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-217-223-manuscript.md",
+      "heading": "Day 219 - August 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-217-223-manuscript.md",
+      "heading": "Day 220 - August 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-217-223-manuscript.md",
+      "heading": "Day 221 - August 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-217-223-manuscript.md",
+      "heading": "Day 222 - August 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-217-223-manuscript.md",
+      "heading": "Day 223 - August 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-224-230-manuscript.md",
+      "heading": "Day 224 - August 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-224-230-manuscript.md",
+      "heading": "Day 225 - August 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-224-230-manuscript.md",
+      "heading": "Day 226 - August 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-224-230-manuscript.md",
+      "heading": "Day 227 - August 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-224-230-manuscript.md",
+      "heading": "Day 228 - August 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-224-230-manuscript.md",
+      "heading": "Day 229 - August 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-224-230-manuscript.md",
+      "heading": "Day 230 - August 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-231-237-manuscript.md",
+      "heading": "Day 231 - August 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-231-237-manuscript.md",
+      "heading": "Day 232 - August 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-231-237-manuscript.md",
+      "heading": "Day 233 - August 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-231-237-manuscript.md",
+      "heading": "Day 234 - August 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-231-237-manuscript.md",
+      "heading": "Day 235 - August 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-231-237-manuscript.md",
+      "heading": "Day 236 - August 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-231-237-manuscript.md",
+      "heading": "Day 237 - August 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-238-244-manuscript.md",
+      "heading": "Day 238 - August 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-238-244-manuscript.md",
+      "heading": "Day 239 - August 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-238-244-manuscript.md",
+      "heading": "Day 240 - August 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-238-244-manuscript.md",
+      "heading": "Day 241 - August 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-238-244-manuscript.md",
+      "heading": "Day 242 - August 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-238-244-manuscript.md",
+      "heading": "Day 243 - August 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-238-244-manuscript.md",
+      "heading": "Day 244 - September 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-245-251-manuscript.md",
+      "heading": "Day 245 - September 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-245-251-manuscript.md",
+      "heading": "Day 246 - September 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-245-251-manuscript.md",
+      "heading": "Day 247 - September 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-245-251-manuscript.md",
+      "heading": "Day 248 - September 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-245-251-manuscript.md",
+      "heading": "Day 249 - September 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-245-251-manuscript.md",
+      "heading": "Day 250 - September 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-245-251-manuscript.md",
+      "heading": "Day 251 - September 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-252-258-manuscript.md",
+      "heading": "Day 252 - September 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-252-258-manuscript.md",
+      "heading": "Day 253 - September 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-252-258-manuscript.md",
+      "heading": "Day 254 - September 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-252-258-manuscript.md",
+      "heading": "Day 255 - September 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-252-258-manuscript.md",
+      "heading": "Day 256 - September 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-252-258-manuscript.md",
+      "heading": "Day 257 - September 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-252-258-manuscript.md",
+      "heading": "Day 258 - September 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-259-265-manuscript.md",
+      "heading": "Day 259 - September 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-259-265-manuscript.md",
+      "heading": "Day 260 - September 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-259-265-manuscript.md",
+      "heading": "Day 261 - September 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-259-265-manuscript.md",
+      "heading": "Day 262 - September 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-259-265-manuscript.md",
+      "heading": "Day 263 - September 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-259-265-manuscript.md",
+      "heading": "Day 264 - September 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-259-265-manuscript.md",
+      "heading": "Day 265 - September 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-266-272-manuscript.md",
+      "heading": "Day 266 - September 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-266-272-manuscript.md",
+      "heading": "Day 267 - September 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-266-272-manuscript.md",
+      "heading": "Day 268 - September 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-266-272-manuscript.md",
+      "heading": "Day 269 - September 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-266-272-manuscript.md",
+      "heading": "Day 270 - September 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-266-272-manuscript.md",
+      "heading": "Day 271 - September 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-266-272-manuscript.md",
+      "heading": "Day 272 - September 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-273-279-manuscript.md",
+      "heading": "Day 273 - September 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-273-279-manuscript.md",
+      "heading": "Day 274 - October 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-273-279-manuscript.md",
+      "heading": "Day 275 - October 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-273-279-manuscript.md",
+      "heading": "Day 276 - October 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-273-279-manuscript.md",
+      "heading": "Day 277 - October 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-273-279-manuscript.md",
+      "heading": "Day 278 - October 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-273-279-manuscript.md",
+      "heading": "Day 279 - October 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-280-286-manuscript.md",
+      "heading": "Day 280 - October 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-280-286-manuscript.md",
+      "heading": "Day 281 - October 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-280-286-manuscript.md",
+      "heading": "Day 282 - October 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-280-286-manuscript.md",
+      "heading": "Day 283 - October 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-280-286-manuscript.md",
+      "heading": "Day 284 - October 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-280-286-manuscript.md",
+      "heading": "Day 285 - October 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-280-286-manuscript.md",
+      "heading": "Day 286 - October 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-287-293-manuscript.md",
+      "heading": "Day 287 - October 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-287-293-manuscript.md",
+      "heading": "Day 288 - October 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-287-293-manuscript.md",
+      "heading": "Day 289 - October 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-287-293-manuscript.md",
+      "heading": "Day 290 - October 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-287-293-manuscript.md",
+      "heading": "Day 291 - October 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-287-293-manuscript.md",
+      "heading": "Day 292 - October 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-287-293-manuscript.md",
+      "heading": "Day 293 - October 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-294-300-manuscript.md",
+      "heading": "Day 294 - October 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-294-300-manuscript.md",
+      "heading": "Day 295 - October 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-294-300-manuscript.md",
+      "heading": "Day 296 - October 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-294-300-manuscript.md",
+      "heading": "Day 297 - October 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-294-300-manuscript.md",
+      "heading": "Day 298 - October 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-294-300-manuscript.md",
+      "heading": "Day 299 - October 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-294-300-manuscript.md",
+      "heading": "Day 300 - October 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-301-307-manuscript.md",
+      "heading": "Day 301 - October 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-301-307-manuscript.md",
+      "heading": "Day 302 - October 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-301-307-manuscript.md",
+      "heading": "Day 303 - October 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-301-307-manuscript.md",
+      "heading": "Day 304 - October 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-301-307-manuscript.md",
+      "heading": "Day 305 - November 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-301-307-manuscript.md",
+      "heading": "Day 306 - November 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-301-307-manuscript.md",
+      "heading": "Day 307 - November 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-308-314-manuscript.md",
+      "heading": "Day 308 - November 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-308-314-manuscript.md",
+      "heading": "Day 309 - November 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-308-314-manuscript.md",
+      "heading": "Day 310 - November 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-308-314-manuscript.md",
+      "heading": "Day 311 - November 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-308-314-manuscript.md",
+      "heading": "Day 312 - November 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-308-314-manuscript.md",
+      "heading": "Day 313 - November 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-308-314-manuscript.md",
+      "heading": "Day 314 - November 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-315-321-manuscript.md",
+      "heading": "Day 315 - November 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-315-321-manuscript.md",
+      "heading": "Day 316 - November 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-315-321-manuscript.md",
+      "heading": "Day 317 - November 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-315-321-manuscript.md",
+      "heading": "Day 318 - November 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-315-321-manuscript.md",
+      "heading": "Day 319 - November 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-315-321-manuscript.md",
+      "heading": "Day 320 - November 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-315-321-manuscript.md",
+      "heading": "Day 321 - November 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-322-328-manuscript.md",
+      "heading": "Day 322 - November 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-322-328-manuscript.md",
+      "heading": "Day 323 - November 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-322-328-manuscript.md",
+      "heading": "Day 324 - November 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-322-328-manuscript.md",
+      "heading": "Day 325 - November 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-322-328-manuscript.md",
+      "heading": "Day 326 - November 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-322-328-manuscript.md",
+      "heading": "Day 327 - November 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-322-328-manuscript.md",
+      "heading": "Day 328 - November 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-329-335-manuscript.md",
+      "heading": "Day 329 - November 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-329-335-manuscript.md",
+      "heading": "Day 330 - November 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-329-335-manuscript.md",
+      "heading": "Day 331 - November 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-329-335-manuscript.md",
+      "heading": "Day 332 - November 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-329-335-manuscript.md",
+      "heading": "Day 333 - November 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-329-335-manuscript.md",
+      "heading": "Day 334 - November 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-329-335-manuscript.md",
+      "heading": "Day 335 - December 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-336-342-manuscript.md",
+      "heading": "Day 336 - December 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-336-342-manuscript.md",
+      "heading": "Day 337 - December 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-336-342-manuscript.md",
+      "heading": "Day 338 - December 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-336-342-manuscript.md",
+      "heading": "Day 339 - December 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-336-342-manuscript.md",
+      "heading": "Day 340 - December 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-336-342-manuscript.md",
+      "heading": "Day 341 - December 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-336-342-manuscript.md",
+      "heading": "Day 342 - December 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-343-349-manuscript.md",
+      "heading": "Day 343 - December 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-343-349-manuscript.md",
+      "heading": "Day 344 - December 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-343-349-manuscript.md",
+      "heading": "Day 345 - December 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-343-349-manuscript.md",
+      "heading": "Day 346 - December 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-343-349-manuscript.md",
+      "heading": "Day 347 - December 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-343-349-manuscript.md",
+      "heading": "Day 348 - December 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-343-349-manuscript.md",
+      "heading": "Day 349 - December 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-350-356-manuscript.md",
+      "heading": "Day 350 - December 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-350-356-manuscript.md",
+      "heading": "Day 351 - December 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-350-356-manuscript.md",
+      "heading": "Day 352 - December 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-350-356-manuscript.md",
+      "heading": "Day 353 - December 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-350-356-manuscript.md",
+      "heading": "Day 354 - December 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-350-356-manuscript.md",
+      "heading": "Day 355 - December 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-350-356-manuscript.md",
+      "heading": "Day 356 - December 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-357-363-manuscript.md",
+      "heading": "Day 357 - December 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-357-363-manuscript.md",
+      "heading": "Day 358 - December 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-357-363-manuscript.md",
+      "heading": "Day 359 - December 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-357-363-manuscript.md",
+      "heading": "Day 360 - December 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-357-363-manuscript.md",
+      "heading": "Day 361 - December 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-357-363-manuscript.md",
+      "heading": "Day 362 - December 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-357-363-manuscript.md",
+      "heading": "Day 363 - December 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-364-365-manuscript.md",
+      "heading": "Day 364 - December 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-days-364-365-manuscript.md",
+      "heading": "Day 365 - December 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-001-007-manuscript.md",
+      "heading": "Day 001 - January 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-001-007-manuscript.md",
+      "heading": "Day 002 - January 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-001-007-manuscript.md",
+      "heading": "Day 003 - January 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-001-007-manuscript.md",
+      "heading": "Day 004 - January 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-001-007-manuscript.md",
+      "heading": "Day 005 - January 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-001-007-manuscript.md",
+      "heading": "Day 006 - January 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-001-007-manuscript.md",
+      "heading": "Day 007 - January 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-008-014-manuscript.md",
+      "heading": "Day 008 - January 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-008-014-manuscript.md",
+      "heading": "Day 009 - January 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-008-014-manuscript.md",
+      "heading": "Day 010 - January 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-008-014-manuscript.md",
+      "heading": "Day 011 - January 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-008-014-manuscript.md",
+      "heading": "Day 012 - January 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-008-014-manuscript.md",
+      "heading": "Day 013 - January 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-008-014-manuscript.md",
+      "heading": "Day 014 - January 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-015-021-manuscript.md",
+      "heading": "Day 015 - January 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-015-021-manuscript.md",
+      "heading": "Day 016 - January 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-015-021-manuscript.md",
+      "heading": "Day 017 - January 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-015-021-manuscript.md",
+      "heading": "Day 018 - January 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-015-021-manuscript.md",
+      "heading": "Day 019 - January 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-015-021-manuscript.md",
+      "heading": "Day 020 - January 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-015-021-manuscript.md",
+      "heading": "Day 021 - January 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-022-028-manuscript.md",
+      "heading": "Day 022 - January 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-022-028-manuscript.md",
+      "heading": "Day 023 - January 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-022-028-manuscript.md",
+      "heading": "Day 024 - January 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-022-028-manuscript.md",
+      "heading": "Day 025 - January 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-022-028-manuscript.md",
+      "heading": "Day 026 - January 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-022-028-manuscript.md",
+      "heading": "Day 027 - January 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-022-028-manuscript.md",
+      "heading": "Day 028 - January 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-029-031-manuscript.md",
+      "heading": "Day 029 - January 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-029-031-manuscript.md",
+      "heading": "Day 030 - January 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-029-031-manuscript.md",
+      "heading": "Day 031 - January 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-032-038-manuscript.md",
+      "heading": "Day 032 - February 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-032-038-manuscript.md",
+      "heading": "Day 033 - February 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-032-038-manuscript.md",
+      "heading": "Day 034 - February 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-032-038-manuscript.md",
+      "heading": "Day 035 - February 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-032-038-manuscript.md",
+      "heading": "Day 036 - February 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-032-038-manuscript.md",
+      "heading": "Day 037 - February 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-032-038-manuscript.md",
+      "heading": "Day 038 - February 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-039-045-manuscript.md",
+      "heading": "Day 039 - February 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-039-045-manuscript.md",
+      "heading": "Day 040 - February 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-039-045-manuscript.md",
+      "heading": "Day 041 - February 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-039-045-manuscript.md",
+      "heading": "Day 042 - February 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-039-045-manuscript.md",
+      "heading": "Day 043 - February 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-039-045-manuscript.md",
+      "heading": "Day 044 - February 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-039-045-manuscript.md",
+      "heading": "Day 045 - February 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-046-052-manuscript.md",
+      "heading": "Day 046 - February 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-046-052-manuscript.md",
+      "heading": "Day 047 - February 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-046-052-manuscript.md",
+      "heading": "Day 048 - February 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-046-052-manuscript.md",
+      "heading": "Day 049 - February 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-046-052-manuscript.md",
+      "heading": "Day 050 - February 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-046-052-manuscript.md",
+      "heading": "Day 051 - February 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-046-052-manuscript.md",
+      "heading": "Day 052 - February 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Day 053 - February 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Day 054 - February 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Day 055 - February 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Day 056 - February 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Day 057 - February 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Day 058 - February 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Day 059 - February 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Bonus - February 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-060-066-manuscript.md",
+      "heading": "Day 060 - March 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-060-066-manuscript.md",
+      "heading": "Day 061 - March 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-060-066-manuscript.md",
+      "heading": "Day 062 - March 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-060-066-manuscript.md",
+      "heading": "Day 063 - March 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-060-066-manuscript.md",
+      "heading": "Day 064 - March 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-060-066-manuscript.md",
+      "heading": "Day 065 - March 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-060-066-manuscript.md",
+      "heading": "Day 066 - March 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-067-073-manuscript.md",
+      "heading": "Day 067 - March 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-067-073-manuscript.md",
+      "heading": "Day 068 - March 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-067-073-manuscript.md",
+      "heading": "Day 069 - March 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-067-073-manuscript.md",
+      "heading": "Day 070 - March 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-067-073-manuscript.md",
+      "heading": "Day 071 - March 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-067-073-manuscript.md",
+      "heading": "Day 072 - March 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-067-073-manuscript.md",
+      "heading": "Day 073 - March 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-074-080-manuscript.md",
+      "heading": "Day 074 - March 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-074-080-manuscript.md",
+      "heading": "Day 075 - March 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-074-080-manuscript.md",
+      "heading": "Day 076 - March 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-074-080-manuscript.md",
+      "heading": "Day 077 - March 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-074-080-manuscript.md",
+      "heading": "Day 078 - March 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-074-080-manuscript.md",
+      "heading": "Day 079 - March 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-074-080-manuscript.md",
+      "heading": "Day 080 - March 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-081-087-manuscript.md",
+      "heading": "Day 081 - March 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-081-087-manuscript.md",
+      "heading": "Day 082 - March 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-081-087-manuscript.md",
+      "heading": "Day 083 - March 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-081-087-manuscript.md",
+      "heading": "Day 084 - March 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-081-087-manuscript.md",
+      "heading": "Day 085 - March 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-081-087-manuscript.md",
+      "heading": "Day 086 - March 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-081-087-manuscript.md",
+      "heading": "Day 087 - March 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-088-094-manuscript.md",
+      "heading": "Day 088 - March 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-088-094-manuscript.md",
+      "heading": "Day 089 - March 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-088-094-manuscript.md",
+      "heading": "Day 090 - March 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-088-094-manuscript.md",
+      "heading": "Day 091 - April 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-088-094-manuscript.md",
+      "heading": "Day 092 - April 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-088-094-manuscript.md",
+      "heading": "Day 093 - April 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-088-094-manuscript.md",
+      "heading": "Day 094 - April 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-095-101-manuscript.md",
+      "heading": "Day 095 - April 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-095-101-manuscript.md",
+      "heading": "Day 096 - April 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-095-101-manuscript.md",
+      "heading": "Day 097 - April 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-095-101-manuscript.md",
+      "heading": "Day 098 - April 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-095-101-manuscript.md",
+      "heading": "Day 099 - April 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-095-101-manuscript.md",
+      "heading": "Day 100 - April 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-095-101-manuscript.md",
+      "heading": "Day 101 - April 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-102-108-manuscript.md",
+      "heading": "Day 102 - April 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-102-108-manuscript.md",
+      "heading": "Day 103 - April 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-102-108-manuscript.md",
+      "heading": "Day 104 - April 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-102-108-manuscript.md",
+      "heading": "Day 105 - April 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-102-108-manuscript.md",
+      "heading": "Day 106 - April 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-102-108-manuscript.md",
+      "heading": "Day 107 - April 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-102-108-manuscript.md",
+      "heading": "Day 108 - April 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-109-115-manuscript.md",
+      "heading": "Day 109 - April 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-109-115-manuscript.md",
+      "heading": "Day 110 - April 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-109-115-manuscript.md",
+      "heading": "Day 111 - April 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-109-115-manuscript.md",
+      "heading": "Day 112 - April 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-109-115-manuscript.md",
+      "heading": "Day 113 - April 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-109-115-manuscript.md",
+      "heading": "Day 114 - April 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-109-115-manuscript.md",
+      "heading": "Day 115 - April 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-116-122-manuscript.md",
+      "heading": "Day 116 - April 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-116-122-manuscript.md",
+      "heading": "Day 117 - April 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-116-122-manuscript.md",
+      "heading": "Day 118 - April 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-116-122-manuscript.md",
+      "heading": "Day 119 - April 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-116-122-manuscript.md",
+      "heading": "Day 120 - April 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-116-122-manuscript.md",
+      "heading": "Day 121 - May 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-116-122-manuscript.md",
+      "heading": "Day 122 - May 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-123-129-manuscript.md",
+      "heading": "Day 123 - May 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-123-129-manuscript.md",
+      "heading": "Day 124 - May 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-123-129-manuscript.md",
+      "heading": "Day 125 - May 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-123-129-manuscript.md",
+      "heading": "Day 126 - May 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-123-129-manuscript.md",
+      "heading": "Day 127 - May 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-123-129-manuscript.md",
+      "heading": "Day 128 - May 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-123-129-manuscript.md",
+      "heading": "Day 129 - May 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-130-136-manuscript.md",
+      "heading": "Day 130 - May 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-130-136-manuscript.md",
+      "heading": "Day 131 - May 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-130-136-manuscript.md",
+      "heading": "Day 132 - May 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-130-136-manuscript.md",
+      "heading": "Day 133 - May 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-130-136-manuscript.md",
+      "heading": "Day 134 - May 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-130-136-manuscript.md",
+      "heading": "Day 135 - May 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-130-136-manuscript.md",
+      "heading": "Day 136 - May 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-137-143-manuscript.md",
+      "heading": "Day 137 - May 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-137-143-manuscript.md",
+      "heading": "Day 138 - May 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-137-143-manuscript.md",
+      "heading": "Day 139 - May 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-137-143-manuscript.md",
+      "heading": "Day 140 - May 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-137-143-manuscript.md",
+      "heading": "Day 141 - May 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-137-143-manuscript.md",
+      "heading": "Day 142 - May 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-137-143-manuscript.md",
+      "heading": "Day 143 - May 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-144-150-manuscript.md",
+      "heading": "Day 144 - May 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-144-150-manuscript.md",
+      "heading": "Day 145 - May 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-144-150-manuscript.md",
+      "heading": "Day 146 - May 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-144-150-manuscript.md",
+      "heading": "Day 147 - May 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-144-150-manuscript.md",
+      "heading": "Day 148 - May 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-144-150-manuscript.md",
+      "heading": "Day 149 - May 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-144-150-manuscript.md",
+      "heading": "Day 150 - May 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-151-157-manuscript.md",
+      "heading": "Day 151 - May 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-151-157-manuscript.md",
+      "heading": "Day 152 - June 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-151-157-manuscript.md",
+      "heading": "Day 153 - June 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-151-157-manuscript.md",
+      "heading": "Day 154 - June 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-151-157-manuscript.md",
+      "heading": "Day 155 - June 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-151-157-manuscript.md",
+      "heading": "Day 156 - June 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-151-157-manuscript.md",
+      "heading": "Day 157 - June 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-158-164-manuscript.md",
+      "heading": "Day 158 - June 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-158-164-manuscript.md",
+      "heading": "Day 159 - June 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-158-164-manuscript.md",
+      "heading": "Day 160 - June 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-158-164-manuscript.md",
+      "heading": "Day 161 - June 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-158-164-manuscript.md",
+      "heading": "Day 162 - June 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-158-164-manuscript.md",
+      "heading": "Day 163 - June 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-158-164-manuscript.md",
+      "heading": "Day 164 - June 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-165-171-manuscript.md",
+      "heading": "Day 165 - June 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-165-171-manuscript.md",
+      "heading": "Day 166 - June 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-165-171-manuscript.md",
+      "heading": "Day 167 - June 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-165-171-manuscript.md",
+      "heading": "Day 168 - June 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-165-171-manuscript.md",
+      "heading": "Day 169 - June 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-165-171-manuscript.md",
+      "heading": "Day 170 - June 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-165-171-manuscript.md",
+      "heading": "Day 171 - June 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-172-178-manuscript.md",
+      "heading": "Day 172 - June 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-172-178-manuscript.md",
+      "heading": "Day 173 - June 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-172-178-manuscript.md",
+      "heading": "Day 174 - June 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-172-178-manuscript.md",
+      "heading": "Day 175 - June 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-172-178-manuscript.md",
+      "heading": "Day 176 - June 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-172-178-manuscript.md",
+      "heading": "Day 177 - June 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-172-178-manuscript.md",
+      "heading": "Day 178 - June 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-179-185-manuscript.md",
+      "heading": "Day 179 - June 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-179-185-manuscript.md",
+      "heading": "Day 180 - June 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-179-185-manuscript.md",
+      "heading": "Day 181 - June 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-179-185-manuscript.md",
+      "heading": "Day 182 - July 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-179-185-manuscript.md",
+      "heading": "Day 183 - July 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-179-185-manuscript.md",
+      "heading": "Day 184 - July 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-179-185-manuscript.md",
+      "heading": "Day 185 - July 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-186-192-manuscript.md",
+      "heading": "Day 186 - July 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-186-192-manuscript.md",
+      "heading": "Day 187 - July 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-186-192-manuscript.md",
+      "heading": "Day 188 - July 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-186-192-manuscript.md",
+      "heading": "Day 189 - July 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-186-192-manuscript.md",
+      "heading": "Day 190 - July 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-186-192-manuscript.md",
+      "heading": "Day 191 - July 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-186-192-manuscript.md",
+      "heading": "Day 192 - July 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-193-199-manuscript.md",
+      "heading": "Day 193 - July 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-193-199-manuscript.md",
+      "heading": "Day 194 - July 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-193-199-manuscript.md",
+      "heading": "Day 195 - July 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-193-199-manuscript.md",
+      "heading": "Day 196 - July 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-193-199-manuscript.md",
+      "heading": "Day 197 - July 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-193-199-manuscript.md",
+      "heading": "Day 198 - July 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-193-199-manuscript.md",
+      "heading": "Day 199 - July 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-200-206-manuscript.md",
+      "heading": "Day 200 - July 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-200-206-manuscript.md",
+      "heading": "Day 201 - July 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-200-206-manuscript.md",
+      "heading": "Day 202 - July 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-200-206-manuscript.md",
+      "heading": "Day 203 - July 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-200-206-manuscript.md",
+      "heading": "Day 204 - July 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-200-206-manuscript.md",
+      "heading": "Day 205 - July 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-200-206-manuscript.md",
+      "heading": "Day 206 - July 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-207-213-manuscript.md",
+      "heading": "Day 207 - July 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-207-213-manuscript.md",
+      "heading": "Day 208 - July 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-207-213-manuscript.md",
+      "heading": "Day 209 - July 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-207-213-manuscript.md",
+      "heading": "Day 210 - July 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-207-213-manuscript.md",
+      "heading": "Day 211 - July 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-207-213-manuscript.md",
+      "heading": "Day 212 - July 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-207-213-manuscript.md",
+      "heading": "Day 213 - August 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-214-220-manuscript.md",
+      "heading": "Day 214 - August 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-214-220-manuscript.md",
+      "heading": "Day 215 - August 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-214-220-manuscript.md",
+      "heading": "Day 216 - August 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-214-220-manuscript.md",
+      "heading": "Day 217 - August 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-214-220-manuscript.md",
+      "heading": "Day 218 - August 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-214-220-manuscript.md",
+      "heading": "Day 219 - August 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-214-220-manuscript.md",
+      "heading": "Day 220 - August 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-221-227-manuscript.md",
+      "heading": "Day 221 - August 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-221-227-manuscript.md",
+      "heading": "Day 222 - August 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-221-227-manuscript.md",
+      "heading": "Day 223 - August 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-221-227-manuscript.md",
+      "heading": "Day 224 - August 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-221-227-manuscript.md",
+      "heading": "Day 225 - August 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-221-227-manuscript.md",
+      "heading": "Day 226 - August 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-221-227-manuscript.md",
+      "heading": "Day 227 - August 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-228-234-manuscript.md",
+      "heading": "Day 228 - August 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-228-234-manuscript.md",
+      "heading": "Day 229 - August 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-228-234-manuscript.md",
+      "heading": "Day 230 - August 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-228-234-manuscript.md",
+      "heading": "Day 231 - August 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-228-234-manuscript.md",
+      "heading": "Day 232 - August 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-228-234-manuscript.md",
+      "heading": "Day 233 - August 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-228-234-manuscript.md",
+      "heading": "Day 234 - August 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-235-241-manuscript.md",
+      "heading": "Day 235 - August 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-235-241-manuscript.md",
+      "heading": "Day 236 - August 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-235-241-manuscript.md",
+      "heading": "Day 237 - August 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-235-241-manuscript.md",
+      "heading": "Day 238 - August 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-235-241-manuscript.md",
+      "heading": "Day 239 - August 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-235-241-manuscript.md",
+      "heading": "Day 240 - August 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-235-241-manuscript.md",
+      "heading": "Day 241 - August 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-242-248-manuscript.md",
+      "heading": "Day 242 - August 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-242-248-manuscript.md",
+      "heading": "Day 243 - August 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-242-248-manuscript.md",
+      "heading": "Day 244 - September 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-242-248-manuscript.md",
+      "heading": "Day 245 - September 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-242-248-manuscript.md",
+      "heading": "Day 246 - September 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-242-248-manuscript.md",
+      "heading": "Day 247 - September 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-242-248-manuscript.md",
+      "heading": "Day 248 - September 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-249-255-manuscript.md",
+      "heading": "Day 249 - September 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-249-255-manuscript.md",
+      "heading": "Day 250 - September 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-249-255-manuscript.md",
+      "heading": "Day 251 - September 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-249-255-manuscript.md",
+      "heading": "Day 252 - September 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-249-255-manuscript.md",
+      "heading": "Day 253 - September 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-249-255-manuscript.md",
+      "heading": "Day 254 - September 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-249-255-manuscript.md",
+      "heading": "Day 255 - September 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-256-262-manuscript.md",
+      "heading": "Day 256 - September 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-256-262-manuscript.md",
+      "heading": "Day 257 - September 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-256-262-manuscript.md",
+      "heading": "Day 258 - September 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-256-262-manuscript.md",
+      "heading": "Day 259 - September 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-256-262-manuscript.md",
+      "heading": "Day 260 - September 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-256-262-manuscript.md",
+      "heading": "Day 261 - September 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-256-262-manuscript.md",
+      "heading": "Day 262 - September 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-263-269-manuscript.md",
+      "heading": "Day 263 - September 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-263-269-manuscript.md",
+      "heading": "Day 264 - September 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-263-269-manuscript.md",
+      "heading": "Day 265 - September 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-263-269-manuscript.md",
+      "heading": "Day 266 - September 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-263-269-manuscript.md",
+      "heading": "Day 267 - September 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-263-269-manuscript.md",
+      "heading": "Day 268 - September 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-263-269-manuscript.md",
+      "heading": "Day 269 - September 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-270-276-manuscript.md",
+      "heading": "Day 270 - September 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-270-276-manuscript.md",
+      "heading": "Day 271 - September 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-270-276-manuscript.md",
+      "heading": "Day 272 - September 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-270-276-manuscript.md",
+      "heading": "Day 273 - September 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-270-276-manuscript.md",
+      "heading": "Day 274 - October 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-270-276-manuscript.md",
+      "heading": "Day 275 - October 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-270-276-manuscript.md",
+      "heading": "Day 276 - October 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-277-283-manuscript.md",
+      "heading": "Day 277 - October 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-277-283-manuscript.md",
+      "heading": "Day 278 - October 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-277-283-manuscript.md",
+      "heading": "Day 279 - October 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-277-283-manuscript.md",
+      "heading": "Day 280 - October 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-277-283-manuscript.md",
+      "heading": "Day 281 - October 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-277-283-manuscript.md",
+      "heading": "Day 282 - October 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-277-283-manuscript.md",
+      "heading": "Day 283 - October 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-284-290-manuscript.md",
+      "heading": "Day 284 - October 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-284-290-manuscript.md",
+      "heading": "Day 285 - October 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-284-290-manuscript.md",
+      "heading": "Day 286 - October 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-284-290-manuscript.md",
+      "heading": "Day 287 - October 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-284-290-manuscript.md",
+      "heading": "Day 288 - October 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-284-290-manuscript.md",
+      "heading": "Day 289 - October 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-284-290-manuscript.md",
+      "heading": "Day 290 - October 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-291-297-manuscript.md",
+      "heading": "Day 291 - October 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-291-297-manuscript.md",
+      "heading": "Day 292 - October 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-291-297-manuscript.md",
+      "heading": "Day 293 - October 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-291-297-manuscript.md",
+      "heading": "Day 294 - October 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-291-297-manuscript.md",
+      "heading": "Day 295 - October 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-291-297-manuscript.md",
+      "heading": "Day 296 - October 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-291-297-manuscript.md",
+      "heading": "Day 297 - October 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-298-304-manuscript.md",
+      "heading": "Day 298 - October 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-298-304-manuscript.md",
+      "heading": "Day 299 - October 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-298-304-manuscript.md",
+      "heading": "Day 300 - October 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-298-304-manuscript.md",
+      "heading": "Day 301 - October 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-298-304-manuscript.md",
+      "heading": "Day 302 - October 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-298-304-manuscript.md",
+      "heading": "Day 303 - October 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-298-304-manuscript.md",
+      "heading": "Day 304 - October 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-305-311-manuscript.md",
+      "heading": "Day 305 - November 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-305-311-manuscript.md",
+      "heading": "Day 306 - November 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-305-311-manuscript.md",
+      "heading": "Day 307 - November 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-305-311-manuscript.md",
+      "heading": "Day 308 - November 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-305-311-manuscript.md",
+      "heading": "Day 309 - November 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-305-311-manuscript.md",
+      "heading": "Day 310 - November 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-305-311-manuscript.md",
+      "heading": "Day 311 - November 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-312-318-manuscript.md",
+      "heading": "Day 312 - November 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-312-318-manuscript.md",
+      "heading": "Day 313 - November 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-312-318-manuscript.md",
+      "heading": "Day 314 - November 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-312-318-manuscript.md",
+      "heading": "Day 315 - November 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-312-318-manuscript.md",
+      "heading": "Day 316 - November 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-312-318-manuscript.md",
+      "heading": "Day 317 - November 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-312-318-manuscript.md",
+      "heading": "Day 318 - November 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-319-325-manuscript.md",
+      "heading": "Day 319 - November 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-319-325-manuscript.md",
+      "heading": "Day 320 - November 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-319-325-manuscript.md",
+      "heading": "Day 321 - November 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-319-325-manuscript.md",
+      "heading": "Day 322 - November 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-319-325-manuscript.md",
+      "heading": "Day 323 - November 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-319-325-manuscript.md",
+      "heading": "Day 324 - November 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-319-325-manuscript.md",
+      "heading": "Day 325 - November 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-326-332-manuscript.md",
+      "heading": "Day 326 - November 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-326-332-manuscript.md",
+      "heading": "Day 327 - November 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-326-332-manuscript.md",
+      "heading": "Day 328 - November 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-326-332-manuscript.md",
+      "heading": "Day 329 - November 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-326-332-manuscript.md",
+      "heading": "Day 330 - November 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-326-332-manuscript.md",
+      "heading": "Day 331 - November 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-326-332-manuscript.md",
+      "heading": "Day 332 - November 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-333-334-manuscript.md",
+      "heading": "Day 333 - November 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-333-334-manuscript.md",
+      "heading": "Day 334 - November 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-335-341-manuscript.md",
+      "heading": "Day 335 - December 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-335-341-manuscript.md",
+      "heading": "Day 336 - December 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-335-341-manuscript.md",
+      "heading": "Day 337 - December 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-335-341-manuscript.md",
+      "heading": "Day 338 - December 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-335-341-manuscript.md",
+      "heading": "Day 339 - December 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-335-341-manuscript.md",
+      "heading": "Day 340 - December 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-335-341-manuscript.md",
+      "heading": "Day 341 - December 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-342-348-manuscript.md",
+      "heading": "Day 342 - December 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-342-348-manuscript.md",
+      "heading": "Day 343 - December 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-342-348-manuscript.md",
+      "heading": "Day 344 - December 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-342-348-manuscript.md",
+      "heading": "Day 345 - December 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-342-348-manuscript.md",
+      "heading": "Day 346 - December 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-342-348-manuscript.md",
+      "heading": "Day 347 - December 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-342-348-manuscript.md",
+      "heading": "Day 348 - December 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-349-355-manuscript.md",
+      "heading": "Day 349 - December 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-349-355-manuscript.md",
+      "heading": "Day 350 - December 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-349-355-manuscript.md",
+      "heading": "Day 351 - December 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-349-355-manuscript.md",
+      "heading": "Day 352 - December 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-349-355-manuscript.md",
+      "heading": "Day 353 - December 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-349-355-manuscript.md",
+      "heading": "Day 354 - December 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-349-355-manuscript.md",
+      "heading": "Day 355 - December 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-356-362-manuscript.md",
+      "heading": "Day 356 - December 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-356-362-manuscript.md",
+      "heading": "Day 357 - December 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-356-362-manuscript.md",
+      "heading": "Day 358 - December 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-356-362-manuscript.md",
+      "heading": "Day 359 - December 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-356-362-manuscript.md",
+      "heading": "Day 360 - December 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-356-362-manuscript.md",
+      "heading": "Day 361 - December 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-356-362-manuscript.md",
+      "heading": "Day 362 - December 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-363-365-manuscript.md",
+      "heading": "Day 363 - December 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-363-365-manuscript.md",
+      "heading": "Day 364 - December 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-2-days-363-365-manuscript.md",
+      "heading": "Day 365 - December 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-001-007-manuscript.md",
+      "heading": "Day 001 - January 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-001-007-manuscript.md",
+      "heading": "Day 002 - January 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-001-007-manuscript.md",
+      "heading": "Day 003 - January 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-001-007-manuscript.md",
+      "heading": "Day 004 - January 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-001-007-manuscript.md",
+      "heading": "Day 005 - January 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-001-007-manuscript.md",
+      "heading": "Day 006 - January 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-001-007-manuscript.md",
+      "heading": "Day 007 - January 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-008-014-manuscript.md",
+      "heading": "Day 008 - January 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-008-014-manuscript.md",
+      "heading": "Day 009 - January 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-008-014-manuscript.md",
+      "heading": "Day 010 - January 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-008-014-manuscript.md",
+      "heading": "Day 011 - January 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-008-014-manuscript.md",
+      "heading": "Day 012 - January 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-008-014-manuscript.md",
+      "heading": "Day 013 - January 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-008-014-manuscript.md",
+      "heading": "Day 014 - January 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-015-021-manuscript.md",
+      "heading": "Day 015 - January 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-015-021-manuscript.md",
+      "heading": "Day 016 - January 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-015-021-manuscript.md",
+      "heading": "Day 017 - January 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-015-021-manuscript.md",
+      "heading": "Day 018 - January 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-015-021-manuscript.md",
+      "heading": "Day 019 - January 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-015-021-manuscript.md",
+      "heading": "Day 020 - January 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-015-021-manuscript.md",
+      "heading": "Day 021 - January 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-022-028-manuscript.md",
+      "heading": "Day 022 - January 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-022-028-manuscript.md",
+      "heading": "Day 023 - January 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-022-028-manuscript.md",
+      "heading": "Day 024 - January 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-022-028-manuscript.md",
+      "heading": "Day 025 - January 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-022-028-manuscript.md",
+      "heading": "Day 026 - January 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-022-028-manuscript.md",
+      "heading": "Day 027 - January 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-022-028-manuscript.md",
+      "heading": "Day 028 - January 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-029-031-manuscript.md",
+      "heading": "Day 029 - January 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-029-031-manuscript.md",
+      "heading": "Day 030 - January 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-029-031-manuscript.md",
+      "heading": "Day 031 - January 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-032-038-manuscript.md",
+      "heading": "Day 032 - February 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-032-038-manuscript.md",
+      "heading": "Day 033 - February 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-032-038-manuscript.md",
+      "heading": "Day 034 - February 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-032-038-manuscript.md",
+      "heading": "Day 035 - February 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-032-038-manuscript.md",
+      "heading": "Day 036 - February 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-032-038-manuscript.md",
+      "heading": "Day 037 - February 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-032-038-manuscript.md",
+      "heading": "Day 038 - February 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-039-045-manuscript.md",
+      "heading": "Day 039 - February 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-039-045-manuscript.md",
+      "heading": "Day 040 - February 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-039-045-manuscript.md",
+      "heading": "Day 041 - February 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-039-045-manuscript.md",
+      "heading": "Day 042 - February 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-039-045-manuscript.md",
+      "heading": "Day 043 - February 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-039-045-manuscript.md",
+      "heading": "Day 044 - February 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-039-045-manuscript.md",
+      "heading": "Day 045 - February 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-046-052-manuscript.md",
+      "heading": "Day 046 - February 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-046-052-manuscript.md",
+      "heading": "Day 047 - February 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-046-052-manuscript.md",
+      "heading": "Day 048 - February 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-046-052-manuscript.md",
+      "heading": "Day 049 - February 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-046-052-manuscript.md",
+      "heading": "Day 050 - February 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-046-052-manuscript.md",
+      "heading": "Day 051 - February 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-046-052-manuscript.md",
+      "heading": "Day 052 - February 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Day 053 - February 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Day 054 - February 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Day 055 - February 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Day 056 - February 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Day 057 - February 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Day 058 - February 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Day 059 - February 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-053-059-plus-leap-day-manuscript.md",
+      "heading": "Bonus - February 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-060-066-manuscript.md",
+      "heading": "Day 060 - March 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-060-066-manuscript.md",
+      "heading": "Day 061 - March 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-060-066-manuscript.md",
+      "heading": "Day 062 - March 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-060-066-manuscript.md",
+      "heading": "Day 063 - March 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-060-066-manuscript.md",
+      "heading": "Day 064 - March 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-060-066-manuscript.md",
+      "heading": "Day 065 - March 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-060-066-manuscript.md",
+      "heading": "Day 066 - March 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-067-073-manuscript.md",
+      "heading": "Day 067 - March 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-067-073-manuscript.md",
+      "heading": "Day 068 - March 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-067-073-manuscript.md",
+      "heading": "Day 069 - March 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-067-073-manuscript.md",
+      "heading": "Day 070 - March 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-067-073-manuscript.md",
+      "heading": "Day 071 - March 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-067-073-manuscript.md",
+      "heading": "Day 072 - March 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-067-073-manuscript.md",
+      "heading": "Day 073 - March 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-074-080-manuscript.md",
+      "heading": "Day 074 - March 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-074-080-manuscript.md",
+      "heading": "Day 075 - March 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-074-080-manuscript.md",
+      "heading": "Day 076 - March 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-074-080-manuscript.md",
+      "heading": "Day 077 - March 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-074-080-manuscript.md",
+      "heading": "Day 078 - March 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-074-080-manuscript.md",
+      "heading": "Day 079 - March 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-074-080-manuscript.md",
+      "heading": "Day 080 - March 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-081-087-manuscript.md",
+      "heading": "Day 081 - March 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-081-087-manuscript.md",
+      "heading": "Day 082 - March 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-081-087-manuscript.md",
+      "heading": "Day 083 - March 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-081-087-manuscript.md",
+      "heading": "Day 084 - March 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-081-087-manuscript.md",
+      "heading": "Day 085 - March 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-081-087-manuscript.md",
+      "heading": "Day 086 - March 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-081-087-manuscript.md",
+      "heading": "Day 087 - March 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-088-090-manuscript.md",
+      "heading": "Day 088 - March 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-088-090-manuscript.md",
+      "heading": "Day 089 - March 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-088-090-manuscript.md",
+      "heading": "Day 090 - March 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-091-097-manuscript.md",
+      "heading": "Day 091 - April 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-091-097-manuscript.md",
+      "heading": "Day 092 - April 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-091-097-manuscript.md",
+      "heading": "Day 093 - April 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-091-097-manuscript.md",
+      "heading": "Day 094 - April 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-091-097-manuscript.md",
+      "heading": "Day 095 - April 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-091-097-manuscript.md",
+      "heading": "Day 096 - April 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-091-097-manuscript.md",
+      "heading": "Day 097 - April 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-098-104-manuscript.md",
+      "heading": "Day 098 - April 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-098-104-manuscript.md",
+      "heading": "Day 099 - April 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-098-104-manuscript.md",
+      "heading": "Day 100 - April 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-098-104-manuscript.md",
+      "heading": "Day 101 - April 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-098-104-manuscript.md",
+      "heading": "Day 102 - April 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-098-104-manuscript.md",
+      "heading": "Day 103 - April 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-098-104-manuscript.md",
+      "heading": "Day 104 - April 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-105-111-manuscript.md",
+      "heading": "Day 105 - April 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-105-111-manuscript.md",
+      "heading": "Day 106 - April 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-105-111-manuscript.md",
+      "heading": "Day 107 - April 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-105-111-manuscript.md",
+      "heading": "Day 108 - April 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-105-111-manuscript.md",
+      "heading": "Day 109 - April 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-105-111-manuscript.md",
+      "heading": "Day 110 - April 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-105-111-manuscript.md",
+      "heading": "Day 111 - April 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-112-118-manuscript.md",
+      "heading": "Day 112 - April 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-112-118-manuscript.md",
+      "heading": "Day 113 - April 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-112-118-manuscript.md",
+      "heading": "Day 114 - April 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-112-118-manuscript.md",
+      "heading": "Day 115 - April 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-112-118-manuscript.md",
+      "heading": "Day 116 - April 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-112-118-manuscript.md",
+      "heading": "Day 117 - April 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-112-118-manuscript.md",
+      "heading": "Day 118 - April 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-119-120-manuscript.md",
+      "heading": "Day 119 - April 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-119-120-manuscript.md",
+      "heading": "Day 120 - April 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-121-127-manuscript.md",
+      "heading": "Day 121 - May 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-121-127-manuscript.md",
+      "heading": "Day 122 - May 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-121-127-manuscript.md",
+      "heading": "Day 123 - May 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-121-127-manuscript.md",
+      "heading": "Day 124 - May 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-121-127-manuscript.md",
+      "heading": "Day 125 - May 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-121-127-manuscript.md",
+      "heading": "Day 126 - May 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-121-127-manuscript.md",
+      "heading": "Day 127 - May 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-128-134-manuscript.md",
+      "heading": "Day 128 - May 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-128-134-manuscript.md",
+      "heading": "Day 129 - May 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-128-134-manuscript.md",
+      "heading": "Day 130 - May 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-128-134-manuscript.md",
+      "heading": "Day 131 - May 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-128-134-manuscript.md",
+      "heading": "Day 132 - May 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-128-134-manuscript.md",
+      "heading": "Day 133 - May 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-128-134-manuscript.md",
+      "heading": "Day 134 - May 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-135-141-manuscript.md",
+      "heading": "Day 135 - May 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-135-141-manuscript.md",
+      "heading": "Day 136 - May 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-135-141-manuscript.md",
+      "heading": "Day 137 - May 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-135-141-manuscript.md",
+      "heading": "Day 138 - May 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-135-141-manuscript.md",
+      "heading": "Day 139 - May 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-135-141-manuscript.md",
+      "heading": "Day 140 - May 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-135-141-manuscript.md",
+      "heading": "Day 141 - May 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-142-148-manuscript.md",
+      "heading": "Day 142 - May 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-142-148-manuscript.md",
+      "heading": "Day 143 - May 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-142-148-manuscript.md",
+      "heading": "Day 144 - May 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-142-148-manuscript.md",
+      "heading": "Day 145 - May 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-142-148-manuscript.md",
+      "heading": "Day 146 - May 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-142-148-manuscript.md",
+      "heading": "Day 147 - May 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-142-148-manuscript.md",
+      "heading": "Day 148 - May 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-149-151-manuscript.md",
+      "heading": "Day 149 - May 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-149-151-manuscript.md",
+      "heading": "Day 150 - May 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-149-151-manuscript.md",
+      "heading": "Day 151 - May 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-152-158-manuscript.md",
+      "heading": "Day 152 - June 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-152-158-manuscript.md",
+      "heading": "Day 153 - June 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-152-158-manuscript.md",
+      "heading": "Day 154 - June 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-152-158-manuscript.md",
+      "heading": "Day 155 - June 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-152-158-manuscript.md",
+      "heading": "Day 156 - June 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-152-158-manuscript.md",
+      "heading": "Day 157 - June 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-152-158-manuscript.md",
+      "heading": "Day 158 - June 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-159-165-manuscript.md",
+      "heading": "Day 159 - June 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-159-165-manuscript.md",
+      "heading": "Day 160 - June 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-159-165-manuscript.md",
+      "heading": "Day 161 - June 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-159-165-manuscript.md",
+      "heading": "Day 162 - June 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-159-165-manuscript.md",
+      "heading": "Day 163 - June 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-159-165-manuscript.md",
+      "heading": "Day 164 - June 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-159-165-manuscript.md",
+      "heading": "Day 165 - June 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-166-172-manuscript.md",
+      "heading": "Day 166 - June 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-166-172-manuscript.md",
+      "heading": "Day 167 - June 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-166-172-manuscript.md",
+      "heading": "Day 168 - June 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-166-172-manuscript.md",
+      "heading": "Day 169 - June 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-166-172-manuscript.md",
+      "heading": "Day 170 - June 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-166-172-manuscript.md",
+      "heading": "Day 171 - June 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-166-172-manuscript.md",
+      "heading": "Day 172 - June 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-173-179-manuscript.md",
+      "heading": "Day 173 - June 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-173-179-manuscript.md",
+      "heading": "Day 174 - June 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-173-179-manuscript.md",
+      "heading": "Day 175 - June 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-173-179-manuscript.md",
+      "heading": "Day 176 - June 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-173-179-manuscript.md",
+      "heading": "Day 177 - June 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-173-179-manuscript.md",
+      "heading": "Day 178 - June 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-173-179-manuscript.md",
+      "heading": "Day 179 - June 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-180-181-manuscript.md",
+      "heading": "Day 180 - June 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-180-181-manuscript.md",
+      "heading": "Day 181 - June 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-182-188-manuscript.md",
+      "heading": "Day 182 - July 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-182-188-manuscript.md",
+      "heading": "Day 183 - July 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-182-188-manuscript.md",
+      "heading": "Day 184 - July 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-182-188-manuscript.md",
+      "heading": "Day 185 - July 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-182-188-manuscript.md",
+      "heading": "Day 186 - July 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-182-188-manuscript.md",
+      "heading": "Day 187 - July 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-182-188-manuscript.md",
+      "heading": "Day 188 - July 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-189-195-manuscript.md",
+      "heading": "Day 189 - July 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-189-195-manuscript.md",
+      "heading": "Day 190 - July 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-189-195-manuscript.md",
+      "heading": "Day 191 - July 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-189-195-manuscript.md",
+      "heading": "Day 192 - July 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-189-195-manuscript.md",
+      "heading": "Day 193 - July 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-189-195-manuscript.md",
+      "heading": "Day 194 - July 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-189-195-manuscript.md",
+      "heading": "Day 195 - July 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-196-202-manuscript.md",
+      "heading": "Day 196 - July 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-196-202-manuscript.md",
+      "heading": "Day 197 - July 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-196-202-manuscript.md",
+      "heading": "Day 198 - July 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-196-202-manuscript.md",
+      "heading": "Day 199 - July 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-196-202-manuscript.md",
+      "heading": "Day 200 - July 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-196-202-manuscript.md",
+      "heading": "Day 201 - July 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-196-202-manuscript.md",
+      "heading": "Day 202 - July 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-203-209-manuscript.md",
+      "heading": "Day 203 - July 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-203-209-manuscript.md",
+      "heading": "Day 204 - July 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-203-209-manuscript.md",
+      "heading": "Day 205 - July 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-203-209-manuscript.md",
+      "heading": "Day 206 - July 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-203-209-manuscript.md",
+      "heading": "Day 207 - July 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-203-209-manuscript.md",
+      "heading": "Day 208 - July 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-203-209-manuscript.md",
+      "heading": "Day 209 - July 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-210-212-manuscript.md",
+      "heading": "Day 210 - July 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-210-212-manuscript.md",
+      "heading": "Day 211 - July 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-210-212-manuscript.md",
+      "heading": "Day 212 - July 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-213-219-manuscript.md",
+      "heading": "Day 213 - August 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-213-219-manuscript.md",
+      "heading": "Day 214 - August 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-213-219-manuscript.md",
+      "heading": "Day 215 - August 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-213-219-manuscript.md",
+      "heading": "Day 216 - August 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-213-219-manuscript.md",
+      "heading": "Day 217 - August 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-213-219-manuscript.md",
+      "heading": "Day 218 - August 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-213-219-manuscript.md",
+      "heading": "Day 219 - August 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-220-226-manuscript.md",
+      "heading": "Day 220 - August 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-220-226-manuscript.md",
+      "heading": "Day 221 - August 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-220-226-manuscript.md",
+      "heading": "Day 222 - August 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-220-226-manuscript.md",
+      "heading": "Day 223 - August 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-220-226-manuscript.md",
+      "heading": "Day 224 - August 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-220-226-manuscript.md",
+      "heading": "Day 225 - August 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-220-226-manuscript.md",
+      "heading": "Day 226 - August 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-227-233-manuscript.md",
+      "heading": "Day 227 - August 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-227-233-manuscript.md",
+      "heading": "Day 228 - August 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-227-233-manuscript.md",
+      "heading": "Day 229 - August 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-227-233-manuscript.md",
+      "heading": "Day 230 - August 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-227-233-manuscript.md",
+      "heading": "Day 231 - August 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-227-233-manuscript.md",
+      "heading": "Day 232 - August 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-227-233-manuscript.md",
+      "heading": "Day 233 - August 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-234-240-manuscript.md",
+      "heading": "Day 234 - August 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-234-240-manuscript.md",
+      "heading": "Day 235 - August 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-234-240-manuscript.md",
+      "heading": "Day 236 - August 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-234-240-manuscript.md",
+      "heading": "Day 237 - August 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-234-240-manuscript.md",
+      "heading": "Day 238 - August 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-234-240-manuscript.md",
+      "heading": "Day 239 - August 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-234-240-manuscript.md",
+      "heading": "Day 240 - August 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-241-243-manuscript.md",
+      "heading": "Day 241 - August 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-241-243-manuscript.md",
+      "heading": "Day 242 - August 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-241-243-manuscript.md",
+      "heading": "Day 243 - August 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-244-250-manuscript.md",
+      "heading": "Day 244 - September 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-244-250-manuscript.md",
+      "heading": "Day 245 - September 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-244-250-manuscript.md",
+      "heading": "Day 246 - September 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-244-250-manuscript.md",
+      "heading": "Day 247 - September 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-244-250-manuscript.md",
+      "heading": "Day 248 - September 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-244-250-manuscript.md",
+      "heading": "Day 249 - September 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-244-250-manuscript.md",
+      "heading": "Day 250 - September 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-251-257-manuscript.md",
+      "heading": "Day 251 - September 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-251-257-manuscript.md",
+      "heading": "Day 252 - September 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-251-257-manuscript.md",
+      "heading": "Day 253 - September 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-251-257-manuscript.md",
+      "heading": "Day 254 - September 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-251-257-manuscript.md",
+      "heading": "Day 255 - September 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-251-257-manuscript.md",
+      "heading": "Day 256 - September 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-251-257-manuscript.md",
+      "heading": "Day 257 - September 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-258-264-manuscript.md",
+      "heading": "Day 258 - September 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-258-264-manuscript.md",
+      "heading": "Day 259 - September 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-258-264-manuscript.md",
+      "heading": "Day 260 - September 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-258-264-manuscript.md",
+      "heading": "Day 261 - September 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-258-264-manuscript.md",
+      "heading": "Day 262 - September 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-258-264-manuscript.md",
+      "heading": "Day 263 - September 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-258-264-manuscript.md",
+      "heading": "Day 264 - September 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-265-271-manuscript.md",
+      "heading": "Day 265 - September 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-265-271-manuscript.md",
+      "heading": "Day 266 - September 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-265-271-manuscript.md",
+      "heading": "Day 267 - September 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-265-271-manuscript.md",
+      "heading": "Day 268 - September 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-265-271-manuscript.md",
+      "heading": "Day 269 - September 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-265-271-manuscript.md",
+      "heading": "Day 270 - September 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-265-271-manuscript.md",
+      "heading": "Day 271 - September 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-272-278-manuscript.md",
+      "heading": "Day 272 - September 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-272-278-manuscript.md",
+      "heading": "Day 273 - September 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-272-278-manuscript.md",
+      "heading": "Day 274 - October 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-272-278-manuscript.md",
+      "heading": "Day 275 - October 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-272-278-manuscript.md",
+      "heading": "Day 276 - October 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-272-278-manuscript.md",
+      "heading": "Day 277 - October 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-272-278-manuscript.md",
+      "heading": "Day 278 - October 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-279-285-manuscript.md",
+      "heading": "Day 279 - October 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-279-285-manuscript.md",
+      "heading": "Day 280 - October 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-279-285-manuscript.md",
+      "heading": "Day 281 - October 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-279-285-manuscript.md",
+      "heading": "Day 282 - October 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-279-285-manuscript.md",
+      "heading": "Day 283 - October 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-279-285-manuscript.md",
+      "heading": "Day 284 - October 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-279-285-manuscript.md",
+      "heading": "Day 285 - October 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-286-292-manuscript.md",
+      "heading": "Day 286 - October 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-286-292-manuscript.md",
+      "heading": "Day 287 - October 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-286-292-manuscript.md",
+      "heading": "Day 288 - October 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-286-292-manuscript.md",
+      "heading": "Day 289 - October 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-286-292-manuscript.md",
+      "heading": "Day 290 - October 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-286-292-manuscript.md",
+      "heading": "Day 291 - October 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-286-292-manuscript.md",
+      "heading": "Day 292 - October 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-293-299-manuscript.md",
+      "heading": "Day 293 - October 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-293-299-manuscript.md",
+      "heading": "Day 294 - October 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-293-299-manuscript.md",
+      "heading": "Day 295 - October 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-293-299-manuscript.md",
+      "heading": "Day 296 - October 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-293-299-manuscript.md",
+      "heading": "Day 297 - October 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-293-299-manuscript.md",
+      "heading": "Day 298 - October 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-293-299-manuscript.md",
+      "heading": "Day 299 - October 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-300-306-manuscript.md",
+      "heading": "Day 300 - October 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-300-306-manuscript.md",
+      "heading": "Day 301 - October 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-300-306-manuscript.md",
+      "heading": "Day 302 - October 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-300-306-manuscript.md",
+      "heading": "Day 303 - October 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-300-306-manuscript.md",
+      "heading": "Day 304 - October 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-300-306-manuscript.md",
+      "heading": "Day 305 - November 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-300-306-manuscript.md",
+      "heading": "Day 306 - November 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-307-313-manuscript.md",
+      "heading": "Day 307 - November 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-307-313-manuscript.md",
+      "heading": "Day 308 - November 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-307-313-manuscript.md",
+      "heading": "Day 309 - November 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-307-313-manuscript.md",
+      "heading": "Day 310 - November 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-307-313-manuscript.md",
+      "heading": "Day 311 - November 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-307-313-manuscript.md",
+      "heading": "Day 312 - November 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-307-313-manuscript.md",
+      "heading": "Day 313 - November 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-314-320-manuscript.md",
+      "heading": "Day 314 - November 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-314-320-manuscript.md",
+      "heading": "Day 315 - November 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-314-320-manuscript.md",
+      "heading": "Day 316 - November 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-314-320-manuscript.md",
+      "heading": "Day 317 - November 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-314-320-manuscript.md",
+      "heading": "Day 318 - November 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-314-320-manuscript.md",
+      "heading": "Day 319 - November 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-314-320-manuscript.md",
+      "heading": "Day 320 - November 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-321-327-manuscript.md",
+      "heading": "Day 321 - November 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-321-327-manuscript.md",
+      "heading": "Day 322 - November 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-321-327-manuscript.md",
+      "heading": "Day 323 - November 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-321-327-manuscript.md",
+      "heading": "Day 324 - November 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-321-327-manuscript.md",
+      "heading": "Day 325 - November 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-321-327-manuscript.md",
+      "heading": "Day 326 - November 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-321-327-manuscript.md",
+      "heading": "Day 327 - November 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-328-334-manuscript.md",
+      "heading": "Day 328 - November 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-328-334-manuscript.md",
+      "heading": "Day 329 - November 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-328-334-manuscript.md",
+      "heading": "Day 330 - November 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-328-334-manuscript.md",
+      "heading": "Day 331 - November 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-328-334-manuscript.md",
+      "heading": "Day 332 - November 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-328-334-manuscript.md",
+      "heading": "Day 333 - November 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-328-334-manuscript.md",
+      "heading": "Day 334 - November 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-335-341-manuscript.md",
+      "heading": "Day 335 - December 1"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-335-341-manuscript.md",
+      "heading": "Day 336 - December 2"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-335-341-manuscript.md",
+      "heading": "Day 337 - December 3"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-335-341-manuscript.md",
+      "heading": "Day 338 - December 4"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-335-341-manuscript.md",
+      "heading": "Day 339 - December 5"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-335-341-manuscript.md",
+      "heading": "Day 340 - December 6"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-335-341-manuscript.md",
+      "heading": "Day 341 - December 7"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-342-348-manuscript.md",
+      "heading": "Day 342 - December 8"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-342-348-manuscript.md",
+      "heading": "Day 343 - December 9"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-342-348-manuscript.md",
+      "heading": "Day 344 - December 10"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-342-348-manuscript.md",
+      "heading": "Day 345 - December 11"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-342-348-manuscript.md",
+      "heading": "Day 346 - December 12"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-342-348-manuscript.md",
+      "heading": "Day 347 - December 13"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-342-348-manuscript.md",
+      "heading": "Day 348 - December 14"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-349-355-manuscript.md",
+      "heading": "Day 349 - December 15"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-349-355-manuscript.md",
+      "heading": "Day 350 - December 16"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-349-355-manuscript.md",
+      "heading": "Day 351 - December 17"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-349-355-manuscript.md",
+      "heading": "Day 352 - December 18"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-349-355-manuscript.md",
+      "heading": "Day 353 - December 19"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-349-355-manuscript.md",
+      "heading": "Day 354 - December 20"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-349-355-manuscript.md",
+      "heading": "Day 355 - December 21"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-356-362-manuscript.md",
+      "heading": "Day 356 - December 22"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-356-362-manuscript.md",
+      "heading": "Day 357 - December 23"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-356-362-manuscript.md",
+      "heading": "Day 358 - December 24"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-356-362-manuscript.md",
+      "heading": "Day 359 - December 25"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-356-362-manuscript.md",
+      "heading": "Day 360 - December 26"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-356-362-manuscript.md",
+      "heading": "Day 361 - December 27"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-356-362-manuscript.md",
+      "heading": "Day 362 - December 28"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-363-365-manuscript.md",
+      "heading": "Day 363 - December 29"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-363-365-manuscript.md",
+      "heading": "Day 364 - December 30"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-3-days-363-365-manuscript.md",
+      "heading": "Day 365 - December 31"
+    },
+    {
+      "status": "already_current",
+      "file": "downloads/production/volume-1-leap-day-bonus-manuscript.md",
+      "heading": "Bonus / Leap Day - February 29"
+    }
+  ],
+  "theology_applications": [],
+  "source_files_touched": [],
+  "post_source_repetition_check": {
+    "1": {
+      "titles": 366,
+      "morning_impacts": 366,
+      "duplicate_title_groups": 0,
+      "duplicate_morning_impact_groups": 0
+    },
+    "2": {
+      "titles": 366,
+      "morning_impacts": 366,
+      "duplicate_title_groups": 0,
+      "duplicate_morning_impact_groups": 0
+    },
+    "3": {
+      "titles": 366,
+      "morning_impacts": 366,
+      "duplicate_title_groups": 0,
+      "duplicate_morning_impact_groups": 0
+    }
+  }
+}

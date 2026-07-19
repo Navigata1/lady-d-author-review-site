@@ -1,0 +1,172 @@
+{
+  "generated": "2026-07-09",
+  "status": "volume-1-days-210-216_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Days 210-216",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/volume-1-days-210-216-manuscript.md",
+    "public_source": "public/downloads/production/volume-1-days-210-216-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/01 Manuscript/Month 07 - July/Days 210-216 Manuscript.md",
+    "repo_source_parts": [
+      "downloads/production/volume-1-days-210-216-manuscript.md"
+    ],
+    "supporting_files": [
+      "downloads/production/volume-1-july-august-transition-companion-journal.md",
+      "downloads/production/volume-1-days-210-216-audit.md"
+    ]
+  },
+  "edits": [
+    {
+      "day": "Day 210",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Surrender to the Father's Welcome into one faithful step today.",
+      "after": "Move from covenant belonging today; the Father is God to you before the future is managed.",
+      "reason": "Keeps Genesis 17:7 centered on God's relational covenant promise before anxious control."
+    },
+    {
+      "day": "Day 211",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Mercy Speak Beloved Identity into one faithful step today.",
+      "after": "Let God's belonging name the unsettled place today; temporary ground does not define His child.",
+      "reason": "Preserves Genesis 17:8's sojourning and inheritance frame while grounding identity in divine belonging."
+    },
+    {
+      "day": "Day 212",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Breathe Love That Finds You into one faithful step today.",
+      "after": "Keep one entrusted rhythm today; obedience can answer love without bargaining for it.",
+      "reason": "Keeps Genesis 17:9's covenant-keeping call as relational response after God's initiative."
+    },
+    {
+      "day": "Day 213",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Lean Into Sabbath Trust Through Mercy in the Morning into one faithful step today.",
+      "after": "Rest this Saturday Sabbath in God's finished work; let mercy become visible in one quiet relationship.",
+      "reason": "Keeps the August 1 Saturday Sabbath frame and handles Genesis 17:10's embodied covenant sign discreetly."
+    },
+    {
+      "day": "Day 214",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry See Sabbath Trust in Again the Father's Patience into one faithful step today.",
+      "after": "Restore one covenant reminder today; the Father's patience can call your heart back before worry speaks.",
+      "reason": "Connects Genesis 17:11's covenant sign to patient remembrance instead of performance."
+    },
+    {
+      "day": "Day 215",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Sabbath Trust Teach Love Stronger Than Fear into one faithful step today.",
+      "after": "Strengthen one faithful witness today; covenant love can outlast the fear of this moment.",
+      "reason": "Keeps Genesis 17:12's generational and household scope while refusing fear-driven control."
+    },
+    {
+      "day": "Day 216",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Awaken Restoring Compassion into one faithful step today.",
+      "after": "See the overlooked person today; restoring compassion can give dignity where hurry has made someone unseen.",
+      "reason": "Preserves Genesis 17:13's repeated household scope and turns covenant belonging toward visible dignity."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Day 210",
+      "date": "July 29",
+      "title": "Surrender to the Father's Welcome",
+      "scripture": "Genesis 17:7",
+      "morning_impact": "Move from covenant belonging today; the Father is God to you before the future is managed."
+    },
+    {
+      "label": "Day 211",
+      "date": "July 30",
+      "title": "Let Mercy Speak Beloved Identity",
+      "scripture": "Genesis 17:8",
+      "morning_impact": "Let God's belonging name the unsettled place today; temporary ground does not define His child."
+    },
+    {
+      "label": "Day 212",
+      "date": "July 31",
+      "title": "Breathe Love That Finds You",
+      "scripture": "Genesis 17:9",
+      "morning_impact": "Keep one entrusted rhythm today; obedience can answer love without bargaining for it."
+    },
+    {
+      "label": "Day 213",
+      "date": "August 1",
+      "title": "Lean Into Sabbath Trust Through Mercy in the Morning",
+      "scripture": "Genesis 17:10",
+      "morning_impact": "Rest this Saturday Sabbath in God's finished work; let mercy become visible in one quiet relationship."
+    },
+    {
+      "label": "Day 214",
+      "date": "August 2",
+      "title": "See Sabbath Trust in Again the Father's Patience",
+      "scripture": "Genesis 17:11",
+      "morning_impact": "Restore one covenant reminder today; the Father's patience can call your heart back before worry speaks."
+    },
+    {
+      "label": "Day 215",
+      "date": "August 3",
+      "title": "Let Sabbath Trust Teach Love Stronger Than Fear",
+      "scripture": "Genesis 17:12",
+      "morning_impact": "Strengthen one faithful witness today; covenant love can outlast the fear of this moment."
+    },
+    {
+      "label": "Day 216",
+      "date": "August 4",
+      "title": "Awaken Restoring Compassion",
+      "scripture": "Genesis 17:13",
+      "morning_impact": "See the overlooked person today; restoring compassion can give dignity where hurry has made someone unseen."
+    }
+  ],
+  "audit": {
+    "entries": 7,
+    "scripture_references": 7,
+    "context_lenses": 7,
+    "today_steps": 7,
+    "prayers": 7,
+    "journal_prompts": 7,
+    "morning_impacts": 7,
+    "old_volume_1_template_impacts_before": 7,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 11,
+    "placeholder_flags": 0,
+    "words": 2739
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "All 7 impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The batch file now has zero old Volume 1 morning-impact templates."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate."
+}

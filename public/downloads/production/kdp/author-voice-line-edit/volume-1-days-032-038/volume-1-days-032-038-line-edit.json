@@ -1,0 +1,165 @@
+{
+  "generated": "2026-07-01",
+  "status": "volume-1-days-032-038_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Days 032-038",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/volume-1-days-032-038-manuscript.md",
+    "public_source": "public/downloads/production/volume-1-days-032-038-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/01 Manuscript/Month 02 - February/Days 032-038 Manuscript.md"
+  },
+  "edits": [
+    {
+      "day": "Day 032",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Behold the Promise That Holds into one faithful step today.",
+      "after": "Return the divided place to the Father today; beloved identity grows where hiding ends.",
+      "reason": "Keeps Deuteronomy 30 return language concrete and ties beloved identity to honest surrender."
+    },
+    {
+      "day": "Day 033",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Follow the Heart That Calls You into one faithful step today.",
+      "after": "Let compassion gather one scattered piece today; the Father knows every place to call home.",
+      "reason": "Preserves the gathering/restoration theme without repeating the architecture title."
+    },
+    {
+      "day": "Day 034",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Rest in Love That Sends You into one faithful step today.",
+      "after": "Move from belonging, not pressure; the Father sends loved children into faithful steps.",
+      "reason": "Keeps the sent-from-belonging frame and avoids performance pressure."
+    },
+    {
+      "day": "Day 035",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Wake Up to Covenant Mercy into one faithful step today.",
+      "after": "Let the Father be kinder than disappointment taught you to expect today.",
+      "reason": "Turns covenant mercy into a memorable reader-facing challenge to suspicion and disappointment."
+    },
+    {
+      "day": "Day 036",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Fire Refine the Father's Welcome into one faithful step today.",
+      "after": "Name the rival love honestly today; holy welcome is strong enough to refine it.",
+      "reason": "Holds warning, welcome, holiness, and correction together without condemnation."
+    },
+    {
+      "day": "Day 037",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Come Home to Beloved Identity into one faithful step today.",
+      "after": "Receive the gift with gratitude today, then keep your heart close to the Giver.",
+      "reason": "Keeps fullness from becoming forgetfulness and gives the reader a concrete gratitude practice."
+    },
+    {
+      "day": "Day 038",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Practice Love That Finds You into one faithful step today.",
+      "after": "Listen for life this Sabbath; the Father forms beloved children through holy rhythms.",
+      "reason": "Preserves Saturday Sabbath as formation for beloved children rather than performance."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Day 032",
+      "date": "February 1",
+      "title": "Behold the Promise That Holds",
+      "scripture": "Deuteronomy 30:2",
+      "morning_impact": "Return the divided place to the Father today; beloved identity grows where hiding ends."
+    },
+    {
+      "label": "Day 033",
+      "date": "February 2",
+      "title": "Follow the Heart That Calls You",
+      "scripture": "Deuteronomy 30:3",
+      "morning_impact": "Let compassion gather one scattered piece today; the Father knows every place to call home."
+    },
+    {
+      "label": "Day 034",
+      "date": "February 3",
+      "title": "Rest in Love That Sends You",
+      "scripture": "Deuteronomy 30:5",
+      "morning_impact": "Move from belonging, not pressure; the Father sends loved children into faithful steps."
+    },
+    {
+      "label": "Day 035",
+      "date": "February 4",
+      "title": "Wake Up to Covenant Mercy",
+      "scripture": "Deuteronomy 30:9",
+      "morning_impact": "Let the Father be kinder than disappointment taught you to expect today."
+    },
+    {
+      "label": "Day 036",
+      "date": "February 5",
+      "title": "Let Fire Refine the Father's Welcome",
+      "scripture": "Deuteronomy 31:16",
+      "morning_impact": "Name the rival love honestly today; holy welcome is strong enough to refine it."
+    },
+    {
+      "label": "Day 037",
+      "date": "February 6",
+      "title": "Come Home to Beloved Identity",
+      "scripture": "Deuteronomy 31:20",
+      "morning_impact": "Receive the gift with gratitude today, then keep your heart close to the Giver."
+    },
+    {
+      "label": "Day 038",
+      "date": "February 7",
+      "title": "Practice Love That Finds You",
+      "scripture": "Deuteronomy 4:1",
+      "morning_impact": "Listen for life this Sabbath; the Father forms beloved children through holy rhythms."
+    }
+  ],
+  "audit": {
+    "entries": 7,
+    "scripture_references": 7,
+    "context_lenses": 7,
+    "today_steps": 7,
+    "prayers": 7,
+    "journal_prompts": 7,
+    "morning_impacts": 7,
+    "old_volume_1_template_impacts_before": 7,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 4,
+    "placeholder_flags": 0,
+    "words": 2284
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "All 7 impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The batch file now has zero old Volume 1 morning-impact templates."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate."
+}

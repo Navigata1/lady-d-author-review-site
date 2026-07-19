@@ -1,0 +1,70 @@
+{
+  "generated": "2026-07-01",
+  "status": "reader_facing_lens_copyedit_applied_not_final_upload",
+  "applications": [
+    {
+      "file": "downloads/production/volume-2-days-060-066-manuscript.md",
+      "line": 129,
+      "volume": 2,
+      "route": "production text note",
+      "old_label": "Production text note",
+      "old_text": "Matthew 18:11 has textual-placement differences across Bible editions. The production use treats the assigned reference as a rescue-focused saying for planning purposes, with final wording and placement to be confirmed during translation and permissions review.",
+      "new_text": "Matthew 18:11 has textual-placement differences across Bible editions. Treat this day as rescue-focused while final wording and placement are confirmed during translation and permissions review."
+    }
+  ],
+  "source_files_touched": [
+    "downloads/production/volume-2-days-060-066-manuscript.md"
+  ],
+  "post_audit": {
+    "production_lens_labels": 0,
+    "architecture_mentions": 0,
+    "context_lens_labels": 1098,
+    "entries": 1098,
+    "by_volume": {
+      "1": {
+        "entries": 366,
+        "context_lens_labels": 366,
+        "production_lens_labels": 0,
+        "translation_review_notes": 0
+      },
+      "2": {
+        "entries": 366,
+        "context_lens_labels": 366,
+        "production_lens_labels": 0,
+        "translation_review_notes": 1
+      },
+      "3": {
+        "entries": 366,
+        "context_lens_labels": 366,
+        "production_lens_labels": 0,
+        "translation_review_notes": 0
+      }
+    }
+  },
+  "public_audit": {
+    "production_lens_labels": 0,
+    "architecture_mentions": 0,
+    "context_lens_labels": 1098,
+    "entries": 1098,
+    "by_volume": {
+      "1": {
+        "entries": 366,
+        "context_lens_labels": 366,
+        "production_lens_labels": 0,
+        "translation_review_notes": 0
+      },
+      "2": {
+        "entries": 366,
+        "context_lens_labels": 366,
+        "production_lens_labels": 0,
+        "translation_review_notes": 1
+      },
+      "3": {
+        "entries": 366,
+        "context_lens_labels": 366,
+        "production_lens_labels": 0,
+        "translation_review_notes": 0
+      }
+    }
+  }
+}

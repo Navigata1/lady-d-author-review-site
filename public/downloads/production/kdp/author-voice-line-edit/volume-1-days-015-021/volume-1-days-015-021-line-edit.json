@@ -1,0 +1,165 @@
+{
+  "generated": "2026-07-01",
+  "status": "volume-1-days-015-021_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Days 015-021",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/volume-1-days-015-021-manuscript.md",
+    "public_source": "public/downloads/production/volume-1-days-015-021-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/01 Manuscript/Month 01 - January/Days 015-021 Manuscript.md"
+  },
+  "edits": [
+    {
+      "day": "Day 015",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Come Home to Love That Finds You into one faithful step today.",
+      "after": "Come home from needing every answer today; let the Father's goodness steady your next step.",
+      "reason": "Turns the goodness-and-compassion theme into a concrete release of answer-chasing."
+    },
+    {
+      "day": "Day 016",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Practice Grace Before Striving into one faithful step today.",
+      "after": "Bring one unpolished burden into grace before you try to manage how it looks.",
+      "reason": "Aligns grace before performance with confession instead of image management."
+    },
+    {
+      "day": "Day 017",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Surrender to Mercy in the Morning into one faithful step today.",
+      "after": "Place the long road in the Father's hands, and receive mercy for this morning.",
+      "reason": "Keeps the long-view mercy theme while giving the reader one immediate posture."
+    },
+    {
+      "day": "Day 018",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Mercy Speak the Father's Patience into one faithful step today.",
+      "after": "Refuse the name fear gave you; walk today under the identity grace is forming.",
+      "reason": "Connects renaming, delay, and patient identity formation without sounding generic."
+    },
+    {
+      "day": "Day 019",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Breathe Love Stronger Than Fear into one faithful step today.",
+      "after": "Pause, breathe, and let God's presence answer fear before fear finishes speaking.",
+      "reason": "Preserves the anxiety/prayer practice and makes the breath step memorable."
+    },
+    {
+      "day": "Day 020",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Hold Fast to Restoring Compassion into one faithful step today.",
+      "after": "Ask the Father for mercy with boundaries, forgiveness without denial, and a heart free from bitterness.",
+      "reason": "Keeps the family-hurt forgiveness guardrails: mercy, truth, and wise boundaries."
+    },
+    {
+      "day": "Day 021",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Return to the Promise That Holds into one faithful step today.",
+      "after": "Pray honestly, then rest the weight of your sorrow on the Father's steadfast love.",
+      "reason": "Preserves lament and trust while giving the reader a prayer movement."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Day 015",
+      "date": "January 15",
+      "title": "Come Home to Love That Finds You",
+      "scripture": "Exodus 33:19",
+      "morning_impact": "Come home from needing every answer today; let the Father's goodness steady your next step."
+    },
+    {
+      "label": "Day 016",
+      "date": "January 16",
+      "title": "Practice Grace Before Performance",
+      "scripture": "Exodus 34:7",
+      "morning_impact": "Bring one unpolished burden into grace before you try to manage how it looks."
+    },
+    {
+      "label": "Day 017",
+      "date": "January 17",
+      "title": "Surrender to Mercy in the Morning",
+      "scripture": "Genesis 15:15",
+      "morning_impact": "Place the long road in the Father's hands, and receive mercy for this morning."
+    },
+    {
+      "label": "Day 018",
+      "date": "January 18",
+      "title": "Let Mercy Speak the Father's Patience",
+      "scripture": "Genesis 17:5",
+      "morning_impact": "Refuse the name fear gave you; walk today under the identity grace is forming."
+    },
+    {
+      "label": "Day 019",
+      "date": "January 19",
+      "title": "Breathe Love Stronger Than Fear",
+      "scripture": "Genesis 28:21",
+      "morning_impact": "Pause, breathe, and let God's presence answer fear before fear finishes speaking."
+    },
+    {
+      "label": "Day 020",
+      "date": "January 20",
+      "title": "Hold Fast to Restoring Compassion",
+      "scripture": "Genesis 50:17",
+      "morning_impact": "Ask the Father for mercy with boundaries, forgiveness without denial, and a heart free from bitterness."
+    },
+    {
+      "label": "Day 021",
+      "date": "January 21",
+      "title": "Return to the Promise That Holds",
+      "scripture": "Psalm 13:5",
+      "morning_impact": "Pray honestly, then rest the weight of your sorrow on the Father's steadfast love."
+    }
+  ],
+  "audit": {
+    "entries": 7,
+    "scripture_references": 7,
+    "context_lenses": 7,
+    "today_steps": 7,
+    "prayers": 7,
+    "journal_prompts": 7,
+    "morning_impacts": 7,
+    "old_volume_1_template_impacts_before": 7,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 0,
+    "placeholder_flags": 0,
+    "words": 2205
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "All seven impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The batch file now has zero old Volume 1 morning-impact templates."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day batches, then regenerate masters/interiors and update the review site after each meaningful gate."
+}

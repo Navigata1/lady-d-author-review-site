@@ -1,0 +1,172 @@
+{
+  "generated": "2026-07-08",
+  "status": "volume-1-days-123-129_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Days 123-129",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/volume-1-days-123-129-manuscript.md",
+    "public_source": "public/downloads/production/volume-1-days-123-129-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/01 Manuscript/Month 05 - May/Days 123-129 Manuscript.md",
+    "repo_source_parts": [
+      "downloads/production/volume-1-days-123-129-manuscript.md"
+    ],
+    "supporting_files": [
+      "downloads/production/volume-1-may-week-2-companion-journal.md",
+      "downloads/production/volume-1-days-123-129-audit.md"
+    ]
+  },
+  "edits": [
+    {
+      "day": "Day 123",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Peace Lead Restoring Compassion into one faithful step today.",
+      "after": "Pray the hidden question before it becomes your only counsel; the Father can meet sorrow in the open.",
+      "reason": "Turns Psalm 13's inner counsel and daily sorrow into a concrete prayer movement."
+    },
+    {
+      "day": "Day 124",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Choose the Promise That Holds into one faithful step today.",
+      "after": "Confess where your good truly lives today; the Father is not asking you to build peace apart from Him.",
+      "reason": "Preserves Psalm 16:2's Lordship and goodness-not-apart-from-God confession."
+    },
+    {
+      "day": "Day 125",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Listen for the Heart That Calls You into one faithful step today.",
+      "after": "Let the Lord name your strength before pressure names your day; answer rescue with love.",
+      "reason": "Connects delivered identity to David's opening love confession in Psalm 18."
+    },
+    {
+      "day": "Day 126",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Stand in Love That Sends You into one faithful step today.",
+      "after": "Take the small faithful step mercy is sending you toward; God's covenant love travels farther than you can measure.",
+      "reason": "Keeps covenant mercy and long faithfulness active without inflating the reader's role."
+    },
+    {
+      "day": "Day 127",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Grace Form Covenant Mercy into one faithful step today.",
+      "after": "Call on God before distress becomes your plan; the cry in His ears does not have to be polished.",
+      "reason": "Turns distress, call, cry, and hearing into a memorable first-response practice."
+    },
+    {
+      "day": "Day 128",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Behold the Father's Welcome into one faithful step today.",
+      "after": "Act from refuge today, not exposure; the Father's covering can make joy steady while pressure stays loud.",
+      "reason": "Preserves refuge, covering, and honest joy without denying ongoing pressure."
+    },
+    {
+      "day": "Day 129",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Follow Beloved Identity into one faithful step today.",
+      "after": "Rest this Saturday Sabbath in mercy and awe; beloved identity enters by love and bows with reverence.",
+      "reason": "Keeps the Adventist seventh-day Sabbath frame and Psalm 5:7's mercy-and-reverence balance."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Day 123",
+      "date": "May 3",
+      "title": "Let Peace Lead Restoring Compassion",
+      "scripture": "Psalms 13:2",
+      "morning_impact": "Pray the hidden question before it becomes your only counsel; the Father can meet sorrow in the open."
+    },
+    {
+      "label": "Day 124",
+      "date": "May 4",
+      "title": "Choose the Promise That Holds",
+      "scripture": "Psalms 16:2",
+      "morning_impact": "Confess where your good truly lives today; the Father is not asking you to build peace apart from Him."
+    },
+    {
+      "label": "Day 125",
+      "date": "May 5",
+      "title": "Listen for the Heart That Calls You",
+      "scripture": "Psalms 18:1",
+      "morning_impact": "Let the Lord name your strength before pressure names your day; answer rescue with love."
+    },
+    {
+      "label": "Day 126",
+      "date": "May 6",
+      "title": "Stand in Love That Sends You",
+      "scripture": "Psalms 18:50",
+      "morning_impact": "Take the small faithful step mercy is sending you toward; God's covenant love travels farther than you can measure."
+    },
+    {
+      "label": "Day 127",
+      "date": "May 7",
+      "title": "Let Grace Form Covenant Mercy",
+      "scripture": "Psalms 18:6",
+      "morning_impact": "Call on God before distress becomes your plan; the cry in His ears does not have to be polished."
+    },
+    {
+      "label": "Day 128",
+      "date": "May 8",
+      "title": "Behold the Father's Welcome",
+      "scripture": "Psalms 5:11",
+      "morning_impact": "Act from refuge today, not exposure; the Father's covering can make joy steady while pressure stays loud."
+    },
+    {
+      "label": "Day 129",
+      "date": "May 9",
+      "title": "Follow Beloved Identity",
+      "scripture": "Psalms 5:7",
+      "morning_impact": "Rest this Saturday Sabbath in mercy and awe; beloved identity enters by love and bows with reverence."
+    }
+  ],
+  "audit": {
+    "entries": 7,
+    "scripture_references": 7,
+    "context_lenses": 7,
+    "today_steps": 7,
+    "prayers": 7,
+    "journal_prompts": 7,
+    "morning_impacts": 7,
+    "old_volume_1_template_impacts_before": 7,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 6,
+    "placeholder_flags": 0,
+    "words": 2375
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "All 7 impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The batch file now has zero old Volume 1 morning-impact templates."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate."
+}

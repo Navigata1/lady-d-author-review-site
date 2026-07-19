@@ -1,0 +1,43 @@
+{
+  "generated": "2026-07-06T16:55:26.395976",
+  "books": [
+    {
+      "title": "Surrendering to God's Love",
+      "entries": 366,
+      "pages": 373,
+      "file": "book-1-surrendering-to-gods-love-review.html"
+    },
+    {
+      "title": "Walking with Jesus",
+      "entries": 366,
+      "pages": 373,
+      "file": "book-2-walking-with-jesus-review.html"
+    },
+    {
+      "title": "Filled with the Holy Spirit",
+      "entries": 366,
+      "pages": 373,
+      "file": "book-3-filled-with-the-holy-spirit-review.html"
+    }
+  ],
+  "covers": [
+    {
+      "volume": 1,
+      "path": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/production-assets/author-review-covers/volume-1-author-review-cover.png",
+      "message": "Cover presentation built from the local cover concept art so Lady D can review the visual direction alongside the manuscript."
+    },
+    {
+      "volume": 2,
+      "path": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/production-assets/author-review-covers/volume-2-author-review-cover.png",
+      "message": "Cover presentation built from the local cover concept art so Lady D can review the visual direction alongside the manuscript."
+    },
+    {
+      "volume": 3,
+      "path": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/production-assets/author-review-covers/volume-3-author-review-cover.png",
+      "message": "Cover presentation built from the local cover concept art so Lady D can review the visual direction alongside the manuscript."
+    }
+  ],
+  "stripe": {
+    "live_blocked": true
+  }
+}

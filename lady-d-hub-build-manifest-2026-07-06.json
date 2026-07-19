@@ -1,0 +1,22 @@
+{
+  "generated": "2026-07-06",
+  "payment_link": "https://buy.stripe.com/5kQ14pgB3bdAafQezM0VO04",
+  "primary_proposal": "susan-damon-publishing-proposal.html",
+  "primary_pdf": "susan-damon-publishing-proposal.pdf",
+  "pages": [
+    "susan-damon-publishing-proposal.html",
+    "susan-damon-expanded-invoice.html",
+    "susan-damon-hub.html",
+    "lady-d-project-dashboard.html",
+    "lady-d-author-site.html"
+  ],
+  "scope": [
+    "3 devotional books",
+    "3 companion journals",
+    "31-day visual devotional",
+    "Juan R. Damon testimony book",
+    "publishing prep",
+    "project dashboard",
+    "Lady D website shell"
+  ]
+}

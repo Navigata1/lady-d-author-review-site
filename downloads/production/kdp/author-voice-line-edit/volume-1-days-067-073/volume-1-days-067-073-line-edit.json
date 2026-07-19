@@ -1,0 +1,172 @@
+{
+  "generated": "2026-07-01",
+  "status": "volume-1-days-067-073_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Days 067-073",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/volume-1-days-067-073-manuscript.md",
+    "public_source": "public/downloads/production/volume-1-days-067-073-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/01 Manuscript/Month 03 - March/Days 067-073 Manuscript.md",
+    "repo_source_parts": [
+      "downloads/production/volume-1-days-067-073-manuscript.md"
+    ],
+    "supporting_files": [
+      "downloads/production/volume-1-march-week-2-companion-journal.md",
+      "downloads/production/volume-1-days-067-073-audit.md"
+    ]
+  },
+  "edits": [
+    {
+      "day": "Day 067",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Discover the Heart That Calls You into one faithful step today.",
+      "after": "Bring the stiff place into prayer today; the Father can forgive, remain near, and make you His own.",
+      "reason": "Keeps Moses' honest confession and God's nearness concrete without excusing stubbornness."
+    },
+    {
+      "day": "Day 068",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Receive Love That Sends You into one faithful step today.",
+      "after": "Tend the ordinary work in front of you today; the Father can make quiet wilderness ground holy.",
+      "reason": "Turns Moses' ordinary shepherding place into a practical faithfulness step."
+    },
+    {
+      "day": "Day 069",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Trust Covenant Mercy into one faithful step today.",
+      "after": "Receive the true word before the hard room today; covenant mercy can steady what you carry.",
+      "reason": "Preserves the name-and-sending lens while grounding responsibility in received revelation."
+    },
+    {
+      "day": "Day 070",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Hope Rise the Father's Welcome into one faithful step today.",
+      "after": "Let God's longer faithfulness answer today's narrow fear; His name still holds more than this moment.",
+      "reason": "Keeps the generation-to-generation covenant memory as the answer to a pressured horizon."
+    },
+    {
+      "day": "Day 071",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Carry Beloved Identity into one faithful step today.",
+      "after": "Let the Father's seeing rename one bruised place today; what happened to you is not your final name.",
+      "reason": "Connects beloved identity to God's attention without denying the reality of harm."
+    },
+    {
+      "day": "Day 072",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Lean Into Love That Finds You into one faithful step today.",
+      "after": "Turn aside before hurry takes over today; love may be calling your name in the pause.",
+      "reason": "Keeps the burning-bush attention theme small, memorable, and practical."
+    },
+    {
+      "day": "Day 073",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry See Again Grace Before Striving into one faithful step today.",
+      "after": "Rest this Saturday before the holy God who calls you; grace can quiet the need to perform.",
+      "reason": "Preserves seventh-day Sabbath rest and grace-before-performance without making holiness casual."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Day 067",
+      "date": "March 8",
+      "title": "Discover the Heart That Calls You",
+      "scripture": "Exodus 34:9",
+      "morning_impact": "Bring the stiff place into prayer today; the Father can forgive, remain near, and make you His own."
+    },
+    {
+      "label": "Day 068",
+      "date": "March 9",
+      "title": "Receive Love That Sends You",
+      "scripture": "Exodus 3:1",
+      "morning_impact": "Tend the ordinary work in front of you today; the Father can make quiet wilderness ground holy."
+    },
+    {
+      "label": "Day 069",
+      "date": "March 10",
+      "title": "Trust Covenant Mercy",
+      "scripture": "Exodus 3:13",
+      "morning_impact": "Receive the true word before the hard room today; covenant mercy can steady what you carry."
+    },
+    {
+      "label": "Day 070",
+      "date": "March 11",
+      "title": "Let Hope Rise the Father's Welcome",
+      "scripture": "Exodus 3:15",
+      "morning_impact": "Let God's longer faithfulness answer today's narrow fear; His name still holds more than this moment."
+    },
+    {
+      "label": "Day 071",
+      "date": "March 12",
+      "title": "Carry Beloved Identity",
+      "scripture": "Exodus 3:16",
+      "morning_impact": "Let the Father's seeing rename one bruised place today; what happened to you is not your final name."
+    },
+    {
+      "label": "Day 072",
+      "date": "March 13",
+      "title": "Lean Into Love That Finds You",
+      "scripture": "Exodus 3:4",
+      "morning_impact": "Turn aside before hurry takes over today; love may be calling your name in the pause."
+    },
+    {
+      "label": "Day 073",
+      "date": "March 14",
+      "title": "See Again Grace Before Performance",
+      "scripture": "Exodus 3:6",
+      "morning_impact": "Rest this Saturday before the holy God who calls you; grace can quiet the need to perform."
+    }
+  ],
+  "audit": {
+    "entries": 7,
+    "scripture_references": 7,
+    "context_lenses": 7,
+    "today_steps": 7,
+    "prayers": 7,
+    "journal_prompts": 7,
+    "morning_impacts": 7,
+    "old_volume_1_template_impacts_before": 7,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 2,
+    "placeholder_flags": 0,
+    "words": 2541
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "All 7 impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The batch file now has zero old Volume 1 morning-impact templates."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate."
+}

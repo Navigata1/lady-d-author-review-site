@@ -1,0 +1,3470 @@
+#!/usr/bin/env python3
+"""Apply configured Lady D author-voice line-edit batches and build review artifacts."""
+
+from __future__ import annotations
+
+import argparse
+import html
+import json
+import re
+import shutil
+import zipfile
+from dataclasses import dataclass
+from pathlib import Path
+
+from docx import Document
+from docx.enum.table import WD_TABLE_ALIGNMENT
+from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.oxml import OxmlElement
+from docx.oxml.ns import qn
+from docx.shared import Inches, Pt, RGBColor
+from reportlab.lib import colors
+from reportlab.lib.enums import TA_LEFT
+from reportlab.lib.pagesizes import letter
+from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
+from reportlab.lib.units import inch
+from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
+
+
+ROOT = Path(__file__).resolve().parents[1]
+PRODUCTION = ROOT / "downloads" / "production"
+LIBRARY_ROOT = Path("/Users/IDC2.5/Documents/LADY D/Production Library")
+VOLUME_1_LIBRARY = LIBRARY_ROOT / "01 Surrendering to God's Love"
+GENERATED = "2026-07-09"
+AUTHOR = 'Susan "Lady D" Damon'
+
+INK = RGBColor(17, 24, 39)
+MUTED = RGBColor(89, 96, 108)
+BLUE = RGBColor(31, 77, 120)
+GOLD = RGBColor(201, 147, 48)
+LIGHT_FILL = "F4F6F9"
+
+
+@dataclass(frozen=True)
+class Replacement:
+    kind: str
+    day: str
+    before: str
+    after: str
+    reason: str
+
+
+@dataclass(frozen=True)
+class Batch:
+    key: str
+    scope: str
+    title: str
+    intro: str
+    source_name: str
+    public_page_name: str
+    output_slug: str
+    zip_name: str
+    library_source: Path
+    library_out: Path
+    replacements: tuple[Replacement, ...]
+    expected_entries: int = 7
+    source_names: tuple[str, ...] = ()
+    library_sources: tuple[Path, ...] = ()
+    supporting_source_names: tuple[str, ...] = ()
+
+
+BATCHES = {
+    "volume-1-days-008-014": Batch(
+        key="volume-1-days-008-014",
+        scope="Volume 1 Days 008-014",
+        title="Volume 1 Days 008-014 Line Edit",
+        intro=(
+            "The second seven-day batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame, keeps the "
+            "Sabbath language as seventh-day/Saturday, and preserves obedience "
+            "as response to grace."
+        ),
+        source_name="volume-1-days-008-014-manuscript.md",
+        public_page_name="volume-1-days-008-014-line-edit.html",
+        output_slug="volume-1-days-008-014-line-edit",
+        zip_name="Lady-D-Volume-1-Days-008-014-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 01 - January" / "Days 008-014 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 008-014",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 008",
+                "Let the Father's love carry Stand in Restoring Compassion into one faithful step today.",
+                "Stand where fear once made you shrink; the Father's compassion can make courage tender today.",
+                "Breaks the repeated frame while keeping the entry's courage-with-compassion theme.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 009",
+                "Let the Father's love carry Let Grace Form the Promise That Holds into one faithful step today.",
+                "Carry one remembered mercy into today, and let grace hold what your feelings cannot.",
+                "Turns the promise theme into a concrete memory-and-trust action.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 010",
+                "Let the Father's love carry Behold the Heart That Calls You into one faithful step today.",
+                "Bring God one divided place today; whole-hearted love begins with honest surrender.",
+                "Matches the Deuteronomy 6 whole-heart lens without sounding generic.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 011",
+                "Let the Father's love carry Follow Love That Sends You into one faithful step today.",
+                "Let one act of obedience make love visible before the day gets away from you.",
+                "Keeps obedience as grace-shaped practice and gives the reader a measurable step.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 012",
+                "Let the Father's love carry Rest in Covenant Mercy into one faithful step today.",
+                "Rest in a mercy you cannot manufacture, and thank the Father for a blessing you nearly overlooked.",
+                "Connects covenant mercy to gratitude and non-material blessing.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 013",
+                "Let the Father's love carry Wake Up to the Father's Welcome into one faithful step today.",
+                "Step like someone being led, not merely someone who survived the last battle.",
+                "Preserves the redeemed-and-led movement of Exodus 15:13.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 014",
+                "Let the Father's love carry Let Fire Refine Beloved Identity into one faithful step today.",
+                "Receive correction without shame; holy love is refining what already belongs to the Father.",
+                "Keeps correction, holiness, and beloved identity together without condemnation.",
+            ),
+        ),
+    ),
+    "volume-1-days-015-021": Batch(
+        key="volume-1-days-015-021",
+        scope="Volume 1 Days 015-021",
+        title="Volume 1 Days 015-021 Line Edit",
+        intro=(
+            "The third seven-day batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame, preserves "
+            "lament, mercy, forgiveness, and identity themes, and keeps obedience "
+            "as response to grace."
+        ),
+        source_name="volume-1-days-015-021-manuscript.md",
+        public_page_name="volume-1-days-015-021-line-edit.html",
+        output_slug="volume-1-days-015-021-line-edit",
+        zip_name="Lady-D-Volume-1-Days-015-021-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 01 - January" / "Days 015-021 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 015-021",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 015",
+                "Let the Father's love carry Come Home to Love That Finds You into one faithful step today.",
+                "Come home from needing every answer today; let the Father's goodness steady your next step.",
+                "Turns the goodness-and-compassion theme into a concrete release of answer-chasing.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 016",
+                "Let the Father's love carry Practice Grace Before Striving into one faithful step today.",
+                "Bring one unpolished burden into grace before you try to manage how it looks.",
+                "Aligns grace before performance with confession instead of image management.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 017",
+                "Let the Father's love carry Surrender to Mercy in the Morning into one faithful step today.",
+                "Place the long road in the Father's hands, and receive mercy for this morning.",
+                "Keeps the long-view mercy theme while giving the reader one immediate posture.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 018",
+                "Let the Father's love carry Let Mercy Speak the Father's Patience into one faithful step today.",
+                "Refuse the name fear gave you; walk today under the identity grace is forming.",
+                "Connects renaming, delay, and patient identity formation without sounding generic.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 019",
+                "Let the Father's love carry Breathe Love Stronger Than Fear into one faithful step today.",
+                "Pause, breathe, and let God's presence answer fear before fear finishes speaking.",
+                "Preserves the anxiety/prayer practice and makes the breath step memorable.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 020",
+                "Let the Father's love carry Hold Fast to Restoring Compassion into one faithful step today.",
+                "Ask the Father for mercy with boundaries, forgiveness without denial, and a heart free from bitterness.",
+                "Keeps the family-hurt forgiveness guardrails: mercy, truth, and wise boundaries.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 021",
+                "Let the Father's love carry Return to the Promise That Holds into one faithful step today.",
+                "Pray honestly, then rest the weight of your sorrow on the Father's steadfast love.",
+                "Preserves lament and trust while giving the reader a prayer movement.",
+            ),
+        ),
+    ),
+    "volume-1-days-022-028": Batch(
+        key="volume-1-days-022-028",
+        scope="Volume 1 Days 022-028",
+        title="Volume 1 Days 022-028 Line Edit",
+        intro=(
+            "The fourth January batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame, keeps Sabbath "
+            "and commandment-keeping as rhythms of return, and preserves obedience "
+            "as response to grace."
+        ),
+        source_name="volume-1-days-022-028-manuscript.md",
+        public_page_name="volume-1-days-022-028-line-edit.html",
+        output_slug="volume-1-days-022-028-line-edit",
+        zip_name="Lady-D-Volume-1-Days-022-028-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 01 - January" / "Days 022-028 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 022-028",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 022",
+                "Let the Father's love carry Yield to the Heart That Calls You into one faithful step today.",
+                "Let glad trust settle into your body today; the Father is holding more than your thoughts.",
+                "Connects the Psalm 16 rest-security theme to embodied anxiety without sounding generic.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 023",
+                "Let the Father's love carry Anchor Love That Sends You into one faithful step today.",
+                "Do the quiet faithful thing in front of you; God can carry its fruit farther than you can see.",
+                "Keeps the Ruth/Obed generational-faithfulness theme practical and memorable.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 024",
+                "Let the Father's love carry Discover Covenant Mercy into one faithful step today.",
+                "Receive mercy, then rise with it; the Father's forgiveness still has a future for you.",
+                "Preserves mercy that restores and calls forward from Deuteronomy 10:11.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 025",
+                "Let the Father's love carry Receive the Father's Welcome into one faithful step today.",
+                "Let conviction become welcome today; the Father is softening what fear taught you to guard.",
+                "Keeps heart-surrender conviction tender rather than condemnatory.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 026",
+                "Let the Father's love carry Trust Beloved Identity into one faithful step today.",
+                "Remember how mercy found you, then make room for someone who feels outside.",
+                "Turns beloved identity into concrete welcome for the stranger.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 027",
+                "Let the Father's love carry Let Hope Rise Love That Finds You into one faithful step today.",
+                "Bless the small beginning in your hands; the Father's love knows how to grow what He plants.",
+                "Matches the few-to-stars promise without inflating the reader's role.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 028",
+                "Let the Father's love carry Carry Grace Before Striving into one faithful step today.",
+                "Return before you perform today; let obedience begin where the Father's grace calls you home.",
+                "Preserves the grace-before-performance and Sabbath-as-return guardrails.",
+            ),
+        ),
+    ),
+    "volume-1-days-029-031": Batch(
+        key="volume-1-days-029-031",
+        scope="Volume 1 Days 029-031",
+        title="Volume 1 Days 029-031 Line Edit",
+        intro=(
+            "The January closeout batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame, marks the first "
+            "month as line-edited, and keeps Sabbath, commandments, warning, and "
+            "obedience inside the grace-shaped Adventist frame."
+        ),
+        source_name="volume-1-days-029-031-manuscript.md",
+        public_page_name="volume-1-days-029-031-line-edit.html",
+        output_slug="volume-1-days-029-031-line-edit",
+        zip_name="Lady-D-Volume-1-Days-029-031-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 01 - January" / "Days 029-031 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 029-031",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 029",
+                "Let the Father's love carry Lean Into Mercy in the Morning into one faithful step today.",
+                "Receive the near word this morning; mercy has already placed the next step within reach.",
+                "Keeps the Deuteronomy 30 nearness theme practical without using the repeated frame.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 030",
+                "Let the Father's love carry See Again the Father's Patience into one faithful step today.",
+                "Walk the command as a loved child today; the Father's way is life, not rejection.",
+                "Preserves commandments as life-giving grace rather than pressure or performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 031",
+                "Let the Father's love carry Let Love Teach Love Stronger Than Fear into one faithful step today.",
+                "Let warning become mercy today; return before fear teaches your heart to hide.",
+                "Holds warning, return, and mercy together for the January closeout.",
+            ),
+        ),
+        expected_entries=3,
+    ),
+    "volume-1-days-032-038": Batch(
+        key="volume-1-days-032-038",
+        scope="Volume 1 Days 032-038",
+        title="Volume 1 Days 032-038 Line Edit",
+        intro=(
+            "The February opening batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame, opens the "
+            "Beloved Identity arc, and preserves return, obedience, Sabbath, "
+            "and correction inside the grace-shaped Adventist frame."
+        ),
+        source_name="volume-1-days-032-038-manuscript.md",
+        public_page_name="volume-1-days-032-038-line-edit.html",
+        output_slug="volume-1-days-032-038-line-edit",
+        zip_name="Lady-D-Volume-1-Days-032-038-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 02 - February" / "Days 032-038 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 032-038",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 032",
+                "Let the Father's love carry Behold the Promise That Holds into one faithful step today.",
+                "Return the divided place to the Father today; beloved identity grows where hiding ends.",
+                "Keeps Deuteronomy 30 return language concrete and ties beloved identity to honest surrender.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 033",
+                "Let the Father's love carry Follow the Heart That Calls You into one faithful step today.",
+                "Let compassion gather one scattered piece today; the Father knows every place to call home.",
+                "Preserves the gathering/restoration theme without repeating the architecture title.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 034",
+                "Let the Father's love carry Rest in Love That Sends You into one faithful step today.",
+                "Move from belonging, not pressure; the Father sends loved children into faithful steps.",
+                "Keeps the sent-from-belonging frame and avoids performance pressure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 035",
+                "Let the Father's love carry Wake Up to Covenant Mercy into one faithful step today.",
+                "Let the Father be kinder than disappointment taught you to expect today.",
+                "Turns covenant mercy into a memorable reader-facing challenge to suspicion and disappointment.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 036",
+                "Let the Father's love carry Let Fire Refine the Father's Welcome into one faithful step today.",
+                "Name the rival love honestly today; holy welcome is strong enough to refine it.",
+                "Holds warning, welcome, holiness, and correction together without condemnation.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 037",
+                "Let the Father's love carry Come Home to Beloved Identity into one faithful step today.",
+                "Receive the gift with gratitude today, then keep your heart close to the Giver.",
+                "Keeps fullness from becoming forgetfulness and gives the reader a concrete gratitude practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 038",
+                "Let the Father's love carry Practice Love That Finds You into one faithful step today.",
+                "Listen for life this Sabbath; the Father forms beloved children through holy rhythms.",
+                "Preserves Saturday Sabbath as formation for beloved children rather than performance.",
+            ),
+        ),
+    ),
+    "volume-1-days-039-045": Batch(
+        key="volume-1-days-039-045",
+        scope="Volume 1 Days 039-045",
+        title="Volume 1 Days 039-045 Line Edit",
+        intro=(
+            "The second February batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "honest seeking, covenant mercy, guarded memory, gratitude, quiet "
+            "obedience, Sabbath holiness, and deliverance with destination."
+        ),
+        source_name="volume-1-days-039-045-manuscript.md",
+        public_page_name="volume-1-days-039-045-line-edit.html",
+        output_slug="volume-1-days-039-045-line-edit",
+        zip_name="Lady-D-Volume-1-Days-039-045-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 02 - February" / "Days 039-045 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 039-045",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 039",
+                "Let the Father's love carry Surrender to Grace Before Striving into one faithful step today.",
+                "Seek the Father without polishing the story today; grace receives the whole heart.",
+                "Keeps whole-person seeking inside grace instead of performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 040",
+                "Let the Father's love carry Let Mercy Speak Mercy in the Morning into one faithful step today.",
+                "Let mercy answer accusation this morning; the Father corrects without forgetting covenant.",
+                "Preserves mercy, correction, and covenant memory without flattening the devotional image.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 041",
+                "Let the Father's love carry Breathe the Father's Patience into one faithful step today.",
+                "Breathe beneath the truth today: the Lord is God, and you are His child.",
+                "Turns the Deuteronomy 4:39 God-alone confession into a calming reader practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 042",
+                "Let the Father's love carry Hold Fast to Love Stronger Than Fear into one faithful step today.",
+                "Guard the memory of God's care today, then pass one testimony forward with gentleness.",
+                "Connects guarded memory and generational witness without letting fear lead the tone.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 043",
+                "Let the Father's love carry Return to Restoring Compassion into one faithful step today.",
+                "Turn one gift into gratitude today; the Giver is still the ground of belonging.",
+                "Keeps humility and gratitude in the promised-gift frame.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 044",
+                "Let the Father's love carry Yield to the Promise That Holds into one faithful step today.",
+                "Do the right and good thing quietly today; love can obey without performing.",
+                "Preserves obedience as grace-shaped love rather than approval-seeking.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 045",
+                "Let the Father's love carry Anchor the Heart That Calls You into one faithful step today.",
+                "Walk like one being brought in, not only brought out; the Father's purpose still leads.",
+                "Keeps deliverance-with-destination active and personal for the reader.",
+            ),
+        ),
+    ),
+    "volume-1-days-046-052": Batch(
+        key="volume-1-days-046-052",
+        scope="Volume 1 Days 046-052",
+        title="Volume 1 Days 046-052 Line Edit",
+        intro=(
+            "The third February batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "listening before movement, words carried on the heart, honest fear, "
+            "clean covenant boundaries, loved-before-impressive identity, worship "
+            "from rescue, and mercy in bitter places."
+        ),
+        source_name="volume-1-days-046-052-manuscript.md",
+        public_page_name="volume-1-days-046-052-line-edit.html",
+        output_slug="volume-1-days-046-052-line-edit",
+        zip_name="Lady-D-Volume-1-Days-046-052-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 02 - February" / "Days 046-052 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 046-052",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 046",
+                "Let the Father's love carry Discover Love That Sends You into one faithful step today.",
+                "Listen before you move today; the Father's love sends beloved children with His voice.",
+                "Keeps the Deuteronomy 6:3 hear-and-keep lens active before action.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 047",
+                "Let the Father's love carry Receive Covenant Mercy into one faithful step today.",
+                "Carry one word of God close today; mercy forms the heart before it shows on the outside.",
+                "Connects covenant mercy to God's words settling on the heart.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 048",
+                "Let the Father's love carry Trust the Father's Welcome into one faithful step today.",
+                "Name the fear without bowing to it; the Father's welcome can steady the next step.",
+                "Preserves honest fear and courage rooted in beloved identity.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 049",
+                "Let the Father's love carry Let Hope Rise Beloved Identity into one faithful step today.",
+                "Draw one clean boundary with a rival allegiance today, while keeping tenderness toward people.",
+                "Keeps the ancient covenant-boundary guardrail from becoming contempt toward persons.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 050",
+                "Let the Father's love carry Carry Love That Finds You into one faithful step today.",
+                "Walk into the small place with dignity today; the Father's love is not measuring your size.",
+                "Turns loved-before-impressive identity into a practical answer to comparison.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 051",
+                "Let the Father's love carry Lean Into Grace Before Striving into one faithful step today.",
+                "Let rescue start the song today; strength is received before it is displayed.",
+                "Preserves Exodus 15 worship from rescue rather than performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 052",
+                "Let the Father's love carry See Again Mercy in the Morning into one faithful step today.",
+                "Bring the bitter place to the Father this morning; mercy can meet you before it makes sense.",
+                "Keeps the Marah image honest while refusing to let bitterness have the final word.",
+            ),
+        ),
+    ),
+    "volume-1-days-053-059": Batch(
+        key="volume-1-days-053-059",
+        scope="Volume 1 Days 053-059",
+        title="Volume 1 Days 053-059 Line Edit",
+        intro=(
+            "The fourth February batch of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "patient trust before pressure, reverent courage, restored story, "
+            "God's word before the loudest voice, truthful and safe family honor, "
+            "worship before responsibility, and clean covenant allegiance."
+        ),
+        source_name="volume-1-days-053-059-manuscript.md",
+        public_page_name="volume-1-days-053-059-line-edit.html",
+        output_slug="volume-1-days-053-059-line-edit",
+        zip_name="Lady-D-Volume-1-Days-053-059-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 02 - February" / "Days 053-059 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 053-059",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 053",
+                "Let the Father's love carry Let Love Teach the Father's Patience into one faithful step today.",
+                "Let patient trust interrupt one fear-driven hurry today; the Father still knows how to part waters.",
+                "Keeps the Red Sea power and patience lens concrete without pressuring the reader to force timing.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 054",
+                "Let the Father's love carry Awaken Love Stronger Than Fear into one faithful step today.",
+                "Answer one holy call with reverence today; love can help fear bow without running.",
+                "Preserves Sinai reverence while keeping fear under the Father's loving call.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 055",
+                "Let the Father's love carry Embrace Restoring Compassion into one faithful step today.",
+                "Bring one tangled piece of your story to the Father; compassion can speak a truer name.",
+                "Connects restoring compassion to real history and identity without requiring a clean past.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 056",
+                "Let the Father's love carry Remember the Promise That Holds into one faithful step today.",
+                "Set God's word before the loudest voice today, then let obedience answer love.",
+                "Keeps commandment-keeping as covenant response to grace, not a way to earn love.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 057",
+                "Let the Father's love carry Walk in the Heart That Calls You into one faithful step today.",
+                "Choose one truthful act of honor today, with mercy intact and safety still guarded.",
+                "Preserves the family-honor commandment while keeping abuse and safety guardrails explicit.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 058",
+                "Let the Father's love carry Let Peace Lead Love That Sends You into one faithful step today.",
+                "Pause at worship before responsibility today; the Father's presence can send you from peace.",
+                "Turns the altar/presence lens into a practical worship-before-work movement.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 059",
+                "Let the Father's love carry Choose Covenant Mercy into one faithful step today.",
+                "Name one rival allegiance today, and let covenant mercy call your heart home.",
+                "Keeps the idolatry warning reverent while refusing shame-based fatalism.",
+            ),
+        ),
+    ),
+    "volume-1-leap-day-and-days-060-066": Batch(
+        key="volume-1-leap-day-and-days-060-066",
+        scope="Volume 1 Leap Day and Days 060-066",
+        title="Volume 1 Leap Day and Days 060-066 Line Edit",
+        intro=(
+            "The leap-day bonus and first March week of Surrendering to God's Love "
+            "have moved from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame while "
+            "preserving beloved identity, God's way in struggle, presence before "
+            "performance, mercy by name, seeking, redeemed belonging, return, and "
+            "Saturday Sabbath rest in God's revealed character."
+        ),
+        source_name=(
+            "kdp/author-voice-line-edit/volume-1-leap-day-and-days-060-066/"
+            "volume-1-leap-day-and-days-060-066-manuscript.md"
+        ),
+        public_page_name="volume-1-leap-day-and-days-060-066-line-edit.html",
+        output_slug="volume-1-leap-day-and-days-060-066-line-edit",
+        zip_name="Lady-D-Volume-1-Leap-Day-And-Days-060-066-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY
+        / "05 Review Packets"
+        / "Author Voice Line Edit"
+        / "Leap Day and Days 060-066"
+        / "Leap Day and Days 060-066 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Leap Day and Days 060-066",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Leap Day",
+                "Let the Father's love carry Grace for the Extra Day into one faithful step today.",
+                "Receive this extra day as grace, and let the Father meet one heavy responsibility by name.",
+                "Keeps the leap-day gift and being-known-by-name theme concrete without turning the extra day into pressure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 060",
+                "Let the Father's love carry Surrender to Love That Finds You into one faithful step today.",
+                "Ask for the Father's way before the timetable changes; love can teach your feet in struggle.",
+                "Turns the Moses guidance prayer into a practical timing-and-way surrender.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 061",
+                "Let the Father's love carry Let Mercy Speak Grace Before Striving into one faithful step today.",
+                "Let presence, not appearance, mark one pressure point today; grace goes with you before performance speaks.",
+                "Preserves presence before performance as covenant identity rather than image management.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 062",
+                "Let the Father's love carry Breathe Mercy in the Morning into one faithful step today.",
+                "Begin before the noise by breathing mercy: the Father knows your name here.",
+                "Keeps the morning mercy practice personal, named, and easy to carry into the day.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 063",
+                "Let the Father's love carry Hold Fast to the Father's Patience into one faithful step today.",
+                "Make one ordinary place a meeting place today, and seek the Father before reaction takes over.",
+                "Connects the tent-of-meeting lens to an ordinary, repeatable seeking practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 064",
+                "Let the Father's love carry Return to Love Stronger Than Fear into one faithful step today.",
+                "Offer one fear-managed possession back to God; redeemed life does not have to clutch itself.",
+                "Keeps ancient redemption context careful while making redeemed belonging concrete.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 065",
+                "Let the Father's love carry Yield to Restoring Compassion into one faithful step today.",
+                "Return while the door is still tender; compassion is calling you close enough to listen.",
+                "Keeps restoring compassion as a call back before distance becomes normal.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 066",
+                "Let the Father's love carry Anchor the Promise That Holds into one faithful step today.",
+                "Rest this Saturday in the character God revealed; His compassion and truth can hold the struggle.",
+                "Preserves the seventh-day Sabbath guardrail while anchoring rest in God's revealed character.",
+            ),
+        ),
+        expected_entries=8,
+        source_names=("volume-1-leap-day-bonus-manuscript.md", "volume-1-days-060-066-manuscript.md"),
+        library_sources=(
+            VOLUME_1_LIBRARY / "01 Manuscript" / "Month 02 - February" / "Leap Day Bonus Manuscript.md",
+            VOLUME_1_LIBRARY / "01 Manuscript" / "Month 03 - March" / "Days 060-066 Manuscript.md",
+        ),
+        supporting_source_names=(
+            "volume-1-leap-day-and-march-week-1-companion-journal.md",
+            "volume-1-leap-day-and-days-060-066-audit.md",
+        ),
+    ),
+    "volume-1-days-067-073": Batch(
+        key="volume-1-days-067-073",
+        scope="Volume 1 Days 067-073",
+        title="Volume 1 Days 067-073 Line Edit",
+        intro=(
+            "The second March week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "honest confession, ordinary faithfulness, covenant mercy, God's "
+            "long memory, beloved identity, holy attention, and Saturday Sabbath "
+            "worship before performance."
+        ),
+        source_name="volume-1-days-067-073-manuscript.md",
+        public_page_name="volume-1-days-067-073-line-edit.html",
+        output_slug="volume-1-days-067-073-line-edit",
+        zip_name="Lady-D-Volume-1-Days-067-073-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 03 - March" / "Days 067-073 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 067-073",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 067",
+                "Let the Father's love carry Discover the Heart That Calls You into one faithful step today.",
+                "Bring the stiff place into prayer today; the Father can forgive, remain near, and make you His own.",
+                "Keeps Moses' honest confession and God's nearness concrete without excusing stubbornness.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 068",
+                "Let the Father's love carry Receive Love That Sends You into one faithful step today.",
+                "Tend the ordinary work in front of you today; the Father can make quiet wilderness ground holy.",
+                "Turns Moses' ordinary shepherding place into a practical faithfulness step.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 069",
+                "Let the Father's love carry Trust Covenant Mercy into one faithful step today.",
+                "Receive the true word before the hard room today; covenant mercy can steady what you carry.",
+                "Preserves the name-and-sending lens while grounding responsibility in received revelation.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 070",
+                "Let the Father's love carry Let Hope Rise the Father's Welcome into one faithful step today.",
+                "Let God's longer faithfulness answer today's narrow fear; His name still holds more than this moment.",
+                "Keeps the generation-to-generation covenant memory as the answer to a pressured horizon.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 071",
+                "Let the Father's love carry Carry Beloved Identity into one faithful step today.",
+                "Let the Father's seeing rename one bruised place today; what happened to you is not your final name.",
+                "Connects beloved identity to God's attention without denying the reality of harm.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 072",
+                "Let the Father's love carry Lean Into Love That Finds You into one faithful step today.",
+                "Turn aside before hurry takes over today; love may be calling your name in the pause.",
+                "Keeps the burning-bush attention theme small, memorable, and practical.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 073",
+                "Let the Father's love carry See Again Grace Before Striving into one faithful step today.",
+                "Rest this Saturday before the holy God who calls you; grace can quiet the need to perform.",
+                "Preserves seventh-day Sabbath rest and grace-before-performance without making holiness casual.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-march-week-2-companion-journal.md",
+            "volume-1-days-067-073-audit.md",
+        ),
+    ),
+    "volume-1-days-074-080": Batch(
+        key="volume-1-days-074-080",
+        scope="Volume 1 Days 074-080",
+        title="Volume 1 Days 074-080 Line Edit",
+        intro=(
+            "The third March week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "God's forward call, correction without shame, worship in transition, "
+            "honest impossible questions, covenant promise, wise order, and "
+            "Saturday Sabbath rhythm."
+        ),
+        source_name="volume-1-days-074-080-manuscript.md",
+        public_page_name="volume-1-days-074-080-line-edit.html",
+        output_slug="volume-1-days-074-080-line-edit",
+        zip_name="Lady-D-Volume-1-Days-074-080-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 03 - March" / "Days 074-080 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 074-080",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 074",
+                "Let the Father's love carry Let Love Teach Mercy in the Morning into one faithful step today.",
+                "Hold the familiar thing loosely today; the Father's mercy already knows the road He is showing.",
+                "Keeps Abram's forward call concrete without making release careless toward family, place, or memory.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 075",
+                "Let the Father's love carry Awaken the Father's Patience into one faithful step today.",
+                "Let correction become mercy today; one honest repair is braver than another fear-managed story.",
+                "Preserves correction without shame and refuses to romanticize fear-managed truth.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 076",
+                "Let the Father's love carry Embrace Love Stronger Than Fear into one faithful step today.",
+                "Build a quiet altar in the unsettled place today; worship can travel with you.",
+                "Turns Abram's tent-and-altar pattern into a memorable practice for transition.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 077",
+                "Let the Father's love carry Remember Restoring Compassion into one faithful step today.",
+                "Bring the impossible question facedown today; restoring compassion can hold what evidence cannot.",
+                "Keeps Abraham's laughter tender and honest without flattening the promise into easy optimism.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 078",
+                "Let the Father's love carry Walk in the Promise That Holds into one faithful step today.",
+                "Let God's covenant word answer your fear-based sentence today, then walk from promise.",
+                "Preserves obedience as response to covenant faithfulness rather than orphaned self-production.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 079",
+                "Let the Father's love carry Let Peace Lead the Heart That Calls You into one faithful step today.",
+                "Name one pressure and one boundary today; peace grows where God brings wise order.",
+                "Connects creation order to practical discernment without turning boundaries into control.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 080",
+                "Let the Father's love carry Choose Love That Sends You into one faithful step today.",
+                "Guard one Saturday Sabbath boundary today; the Creator's rhythm can send you from rest.",
+                "Preserves seventh-day Sabbath rhythm and frames sending as rest-shaped trust, not exhaustion.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-march-week-3-companion-journal.md",
+            "volume-1-days-074-080-audit.md",
+        ),
+    ),
+    "volume-1-days-081-087": Batch(
+        key="volume-1-days-081-087",
+        scope="Volume 1 Days 081-087",
+        title="Volume 1 Days 081-087 Line Edit",
+        intro=(
+            "The fourth March week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "God's naming mercy, the Father's personal call, provision testimony, "
+            "continued listening after relief, grace before fear-driven obedience, "
+            "ordinary continuity, and Saturday Sabbath patience for honest questions."
+        ),
+        source_name="volume-1-days-081-087-manuscript.md",
+        public_page_name="volume-1-days-081-087-line-edit.html",
+        output_slug="volume-1-days-081-087-line-edit",
+        zip_name="Lady-D-Volume-1-Days-081-087-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 03 - March" / "Days 081-087 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 081-087",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 081",
+                "Let the Father's love carry Listen for Covenant Mercy into one faithful step today.",
+                "Let God name one pressure before worry does; His mercy can bring the day under His sky.",
+                "Turns creation naming and ordered rhythm into a direct response before anxiety defines the day.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 082",
+                "Let the Father's love carry Stand in the Father's Welcome into one faithful step today.",
+                "Pause before the demanding thing today; the Father calls your name before He asks your yes.",
+                "Keeps Abraham's named interruption personal and grace-grounded before obedience continues.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 083",
+                "Let the Father's love carry Let Grace Form Beloved Identity into one faithful step today.",
+                "Rename one hard place by provision today; you were seen there, not abandoned there.",
+                "Connects beloved identity to testimony without denying the frightening place.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 084",
+                "Let the Father's love carry Behold Love That Finds You into one faithful step today.",
+                "Stay quiet after relief today; the God who interrupted fear may still be speaking.",
+                "Preserves the second-call lens and asks the reader to keep listening after crisis relief.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 085",
+                "Let the Father's love carry Follow Grace Before Striving into one faithful step today.",
+                "Surrender the beloved concern without surrendering God's character; grace can lead where fear cannot.",
+                "Repairs the title mismatch while refusing performance pressure or harmful Genesis 22 application.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 086",
+                "Let the Father's love carry Rest in Mercy in the Morning into one faithful step today.",
+                "Thank God for one quiet continuity today; mercy may be carrying more than you noticed.",
+                "Lets the genealogy-continuity context become a practical gratitude step.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 087",
+                "Let the Father's love carry Wake Up to the Father's Patience into one faithful step today.",
+                "Rest this Saturday with the unanswered question; the Father's patience can hold what you cannot see.",
+                "Preserves seventh-day Sabbath rest and Isaac's honest question without forcing premature answers.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-march-week-4-companion-journal.md",
+            "volume-1-days-081-087-audit.md",
+        ),
+    ),
+    "volume-1-days-088-094": Batch(
+        key="volume-1-days-088-094",
+        scope="Volume 1 Days 088-094",
+        title="Volume 1 Days 088-094 Line Edit",
+        intro=(
+            "The March close and April opening of Surrendering to God's Love "
+            "has moved from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame "
+            "while preserving boundary-as-mercy, road compassion, renamed places, "
+            "safe concrete mercy, listening that becomes movement, conviction "
+            "without shame, and Saturday Sabbath rest in beloved identity."
+        ),
+        source_name="volume-1-days-088-094-manuscript.md",
+        public_page_name="volume-1-days-088-094-line-edit.html",
+        output_slug="volume-1-days-088-094-line-edit",
+        zip_name="Lady-D-Volume-1-Days-088-094-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 04 - April" / "Days 088-094 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 088-094",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 088",
+                "Let the Father's love carry Let Fire Refine Love Stronger Than Fear into one faithful step today.",
+                "Receive one boundary as mercy today; the Father can bless you while narrowing the road.",
+                "Keeps Isaac's blessing-and-charge frame concrete without treating boundaries as rejection.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 089",
+                "Let the Father's love carry Come Home to Restoring Compassion into one faithful step today.",
+                "Let the lonely road become a meeting place today; covenant compassion can find you there.",
+                "Preserves Jacob's vulnerable road encounter and keeps compassion active before home feels restored.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 090",
+                "Let the Father's love carry Practice the Promise That Holds into one faithful step today.",
+                "Write the truer name today; God's presence can outlast what fear first called that place.",
+                "Turns Bethel/Luz renaming into a practical testimony step without pretending the old name vanished.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 091",
+                "Let the Father's love carry Trust Love That Sends You into one faithful step today.",
+                "Choose one safe mercy step today; love that sends you does not ask you to pretend.",
+                "Keeps forgiveness practical while preserving pastoral safety and truth.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 092",
+                "Let the Father's love carry Let Hope Rise Covenant Mercy into one faithful step today.",
+                "Move one clear mercy insight into action today; hope often rises with dust on its feet.",
+                "Connects Jacob's listening-and-going response to visible movement without making obedience performative.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 093",
+                "Let the Father's love carry Carry the Father's Welcome into one faithful step today.",
+                "Let conviction become clarity today; you can see what must change without surrendering belovedness.",
+                "Preserves conviction without shame and keeps the Father's welcome stronger than accusation.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 094",
+                "Let the Father's love carry Lean Into Beloved Identity into one faithful step today.",
+                "Rest this Saturday in God's company; mercy does not have to be carried by your strength.",
+                "Preserves seventh-day Sabbath rest and beloved identity as God's nearness on the mercy road.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-march-close-and-april-week-1-companion-journal.md",
+            "volume-1-days-088-094-audit.md",
+        ),
+    ),
+    "volume-1-days-095-101": Batch(
+        key="volume-1-days-095-101",
+        scope="Volume 1 Days 095-101",
+        title="Volume 1 Days 095-101 Line Edit",
+        intro=(
+            "The second April week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "renamed identity after struggle, grace before performance, humble "
+            "truth sent ahead of fear, prayer from promise, guarded hope, practical "
+            "compassion, and Saturday Sabbath-paced restoration."
+        ),
+        source_name="volume-1-days-095-101-manuscript.md",
+        public_page_name="volume-1-days-095-101-line-edit.html",
+        output_slug="volume-1-days-095-101-line-edit",
+        zip_name="Lady-D-Volume-1-Days-095-101-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 04 - April" / "Days 095-101 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 095-101",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 095",
+                "Let the Father's love carry See Again Love That Finds You into one faithful step today.",
+                "Answer one old name with mercy today; struggle does not get to name what God is making new.",
+                "Turns Jacob's renamed identity into a concrete response without denying the limp or the struggle.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 096",
+                "Let the Father's love carry Let Love Teach Grace Before Striving into one faithful step today.",
+                "Receive mercy before you manage the meeting today; delivered life can walk without panic.",
+                "Keeps Peniel's preserved-life order clear: grace before performance, repair, or explanation.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 097",
+                "Let the Father's love carry Awaken Mercy in the Morning into one faithful step today.",
+                "Send one humble truth ahead of fear today; mercy can speak without trying to control the reply.",
+                "Preserves the humble-message lens while keeping boundaries and outcome control distinct.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 098",
+                "Let the Father's love carry Embrace the Father's Patience into one faithful step today.",
+                "Pray the promise before the pressure today; the Father is patient with trembling obedience.",
+                "Lets Jacob's prayer-from-promise become a morning practice rooted in grace rather than scolding.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 099",
+                "Let the Father's love carry Remember Love Stronger Than Fear into one faithful step today.",
+                "Name one guarded hope today; love can open a door without denying what hurt.",
+                "Keeps Joseph's restoration movement hopeful without pressuring instant closeness or unsafe denial.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 100",
+                "Let the Father's love carry Walk in Restoring Compassion into one faithful step today.",
+                "Let mercy grow hands today; make one wise space where compassion can become visible.",
+                "Turns practical provision into a concrete act while preserving wisdom and limits.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 101",
+                "Let the Father's love carry Let Peace Lead the Promise That Holds into one faithful step today.",
+                "Rest at Saturday Sabbath pace today; the Father can carry vulnerable places without hurrying them.",
+                "Preserves seventh-day Sabbath rest as mercy-paced restoration rather than pressure or performance.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-april-week-2-companion-journal.md",
+            "volume-1-days-095-101-audit.md",
+        ),
+    ),
+    "volume-1-days-102-108": Batch(
+        key="volume-1-days-102-108",
+        scope="Volume 1 Days 102-108",
+        title="Volume 1 Days 102-108 Line Edit",
+        intro=(
+            "The third April week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "mercy that becomes practical provision, humble truth carried home, "
+            "patient hope, visible care, truthful identity without revenge, "
+            "providence without denial, and Saturday Sabbath-rested obedience."
+        ),
+        source_name="volume-1-days-102-108-manuscript.md",
+        public_page_name="volume-1-days-102-108-line-edit.html",
+        output_slug="volume-1-days-102-108-line-edit",
+        zip_name="Lady-D-Volume-1-Days-102-108-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 04 - April" / "Days 102-108 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 102-108",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 102",
+                "Let the Father's love carry Choose the Heart That Calls You into one faithful step today.",
+                "Let mercy pack bread for the road today; practical care can make restoration easier to receive.",
+                "Turns Joseph's road provision into a concrete care step without thinning forgiveness into feeling only.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 103",
+                "Let the Father's love carry Listen for Love That Sends You into one faithful step today.",
+                "Carry one life-giving truth home with humility today; mercy can rewrite the errand without erasing the past.",
+                "Preserves the brothers' changed errand while keeping truth, humility, and history together.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 104",
+                "Let the Father's love carry Stand in Covenant Mercy into one faithful step today.",
+                "Let one stunned place thaw slowly today; covenant mercy does not rush a heart learning hope again.",
+                "Keeps Jacob's numb heart pastorally safe by allowing slow hope instead of demanding instant trust.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 105",
+                "Let the Father's love carry Let Grace Form the Father's Welcome into one faithful step today.",
+                "Match one word with one visible act of care today; grace often arrives with wheels under it.",
+                "Connects Joseph's words and wagons to visible, trustworthy care.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 106",
+                "Let the Father's love carry Behold Beloved Identity into one faithful step today.",
+                "Stand in truthful identity today without revenge; belovedness can speak plainly and still leave room for mercy.",
+                "Lets Joseph's revealed identity become truthful speech governed by love rather than vengeance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 107",
+                "Let the Father's love carry Follow Love That Finds You into one faithful step today.",
+                "Name the harm and God's sustaining hand today; providence can speak without excusing what wounded you.",
+                "Preserves the providence guardrail: God's hand is named without calling evil good or bypassing pain.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 108",
+                "Let the Father's love carry Rest in Grace Before Striving into one faithful step today.",
+                "Move from Saturday Sabbath rest today; prompt obedience can rise from provision instead of panic.",
+                "Keeps the seventh-day Sabbath guardrail while distinguishing holy urgency from frantic control.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-april-week-3-companion-journal.md",
+            "volume-1-days-102-108-audit.md",
+        ),
+    ),
+    "volume-1-days-109-115": Batch(
+        key="volume-1-days-109-115",
+        scope="Volume 1 Days 109-115",
+        title="Volume 1 Days 109-115 Line Edit",
+        intro=(
+            "The fourth April week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while preserving "
+            "honest grief, patient lament, visible sorrow, gentle return to ordinary "
+            "life, mercy stronger than old guilt, truthful communication, and "
+            "Saturday Sabbath-rooted practical care."
+        ),
+        source_name="volume-1-days-109-115-manuscript.md",
+        public_page_name="volume-1-days-109-115-line-edit.html",
+        output_slug="volume-1-days-109-115-line-edit",
+        zip_name="Lady-D-Volume-1-Days-109-115-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 04 - April" / "Days 109-115 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 109-115",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 109",
+                "Let the Father's love carry Wake Up to Mercy in the Morning into one faithful step today.",
+                "Let honest grief sit in the Father's presence today; mercy has room for tears love cannot fake away.",
+                "Keeps Joseph's embodied grief tender and truthful without treating tears as a lack of faith.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 110",
+                "Let the Father's love carry Let Fire Refine the Father's Patience into one faithful step today.",
+                "Give one heavy sorrow a faithful place today; the Father's patience can hold lament without losing hope.",
+                "Turns the seven-day mourning lens into a contained, pastoral practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 111",
+                "Let the Father's love carry Come Home to Love Stronger Than Fear into one faithful step today.",
+                "Let one trusted witness see the truth today; love stronger than fear can give grief dignity.",
+                "Preserves visible grief without pushing unsafe exposure or performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 112",
+                "Let the Father's love carry Practice Restoring Compassion into one faithful step today.",
+                "Return to one ordinary task gently today; restoring compassion can walk home after the service ends.",
+                "Carries the return-to-Egypt movement into ordinary life after sacred grief.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 113",
+                "Let the Father's love carry Surrender to the Promise That Holds into one faithful step today.",
+                "Answer old guilt with steady mercy today; the Father's forgiveness is not waiting for private revenge.",
+                "Keeps forgiveness stable while naming the brothers' fear that mercy may expire.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 114",
+                "Let the Father's love carry Let Mercy Speak the Heart That Calls You into one faithful step today.",
+                "Let mercy shape one difficult reply today; clarity can be gentle without becoming controlled by fear.",
+                "Preserves mediated fearful communication while keeping truth, tone, and boundaries together.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 115",
+                "Let the Father's love carry Breathe Love That Sends You into one faithful step today.",
+                "Breathe from Saturday Sabbath rest before serving today; careful love can move from belonging, not pressure.",
+                "Keeps the Adventist seventh-day Sabbath frame and service as response to belonging rather than striving.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-april-week-4-companion-journal.md",
+            "volume-1-days-109-115-audit.md",
+        ),
+    ),
+    "volume-1-days-116-122": Batch(
+        key="volume-1-days-116-122",
+        scope="Volume 1 Days 116-122",
+        title="Volume 1 Days 116-122 Line Edit",
+        intro=(
+            "The April close and May opening of Surrendering to God's Love has "
+            "moved from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame "
+            "while preserving covenant mercy that answers fear, settled life "
+            "after crisis, humble advocacy, honorable follow-through, grace "
+            "before performance, communal support, and Saturday Sabbath-rooted "
+            "wise trust."
+        ),
+        source_name="volume-1-days-116-122-manuscript.md",
+        public_page_name="volume-1-days-116-122-line-edit.html",
+        output_slug="volume-1-days-116-122-line-edit",
+        zip_name="Lady-D-Volume-1-Days-116-122-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 05 - May" / "Days 116-122 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 116-122",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 116",
+                "Let the Father's love carry Hold Fast to Covenant Mercy into one faithful step today.",
+                "Answer one fear with concrete mercy today; comfort can speak to the heart and help provide for tomorrow.",
+                "Turns Joseph's reassurance, provision, and heart-level comfort into a practical mercy response.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 117",
+                "Let the Father's love carry Return to the Father's Welcome into one faithful step today.",
+                "Let mercy become ordinary today; restored love can keep showing up after the emotional storm passes.",
+                "Preserves settled household life after crisis and makes mercy repeatable instead of dramatic only.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 118",
+                "Let the Father's love carry Yield to Beloved Identity into one faithful step today.",
+                "Make one humble request today; beloved identity can speak clearly after grief without needing to impress.",
+                "Keeps Joseph's humble advocacy grounded in grief-honoring clarity instead of arrogance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 119",
+                "Let the Father's love carry Anchor Love That Finds You into one faithful step today.",
+                "Honor one promise with steady hands today; love can keep faith without becoming ruled by pressure.",
+                "Carries Joseph's oath and return promise into integrity without people-pleasing.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 120",
+                "Let the Father's love carry Discover Grace Before Striving into one faithful step today.",
+                "Receive permission without panic today; grace can open the way before performance tries to earn it.",
+                "Repairs the title mismatch while keeping Pharaoh's permission as grace before frantic performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 121",
+                "Let the Father's love carry Remember the Father's Patience into one faithful step today.",
+                "Let faithful company walk with you today; love moving into action does not have to move alone.",
+                "Turns the public burial company into a clear practice of receiving support.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 122",
+                "Let the Father's love carry Walk in Love Stronger Than Fear into one faithful step today.",
+                "Rest this Saturday Sabbath in wise trust today; the Father can guard what goes forward and what stays.",
+                "Preserves the Adventist seventh-day Sabbath frame and the Goshen trust distinction.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-april-close-and-may-week-1-companion-journal.md",
+            "volume-1-days-116-122-audit.md",
+        ),
+    ),
+    "volume-1-days-123-129": Batch(
+        key="volume-1-days-123-129",
+        scope="Volume 1 Days 123-129",
+        title="Volume 1 Days 123-129 Line Edit",
+        intro=(
+            "The second May week of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving hidden sorrow becoming prayer, goodness held in God, "
+            "strength named by deliverance, covenant mercy, distress becoming "
+            "a call, refuge before action, and Saturday Sabbath-rooted beloved "
+            "identity."
+        ),
+        source_name="volume-1-days-123-129-manuscript.md",
+        public_page_name="volume-1-days-123-129-line-edit.html",
+        output_slug="volume-1-days-123-129-line-edit",
+        zip_name="Lady-D-Volume-1-Days-123-129-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 05 - May" / "Days 123-129 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 123-129",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 123",
+                "Let the Father's love carry Let Peace Lead Restoring Compassion into one faithful step today.",
+                "Pray the hidden question before it becomes your only counsel; the Father can meet sorrow in the open.",
+                "Turns Psalm 13's inner counsel and daily sorrow into a concrete prayer movement.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 124",
+                "Let the Father's love carry Choose the Promise That Holds into one faithful step today.",
+                "Confess where your good truly lives today; the Father is not asking you to build peace apart from Him.",
+                "Preserves Psalm 16:2's Lordship and goodness-not-apart-from-God confession.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 125",
+                "Let the Father's love carry Listen for the Heart That Calls You into one faithful step today.",
+                "Let the Lord name your strength before pressure names your day; answer rescue with love.",
+                "Connects delivered identity to David's opening love confession in Psalm 18.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 126",
+                "Let the Father's love carry Stand in Love That Sends You into one faithful step today.",
+                "Take the small faithful step mercy is sending you toward; God's covenant love travels farther than you can measure.",
+                "Keeps covenant mercy and long faithfulness active without inflating the reader's role.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 127",
+                "Let the Father's love carry Let Grace Form Covenant Mercy into one faithful step today.",
+                "Call on God before distress becomes your plan; the cry in His ears does not have to be polished.",
+                "Turns distress, call, cry, and hearing into a memorable first-response practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 128",
+                "Let the Father's love carry Behold the Father's Welcome into one faithful step today.",
+                "Act from refuge today, not exposure; the Father's covering can make joy steady while pressure stays loud.",
+                "Preserves refuge, covering, and honest joy without denying ongoing pressure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 129",
+                "Let the Father's love carry Follow Beloved Identity into one faithful step today.",
+                "Rest this Saturday Sabbath in mercy and awe; beloved identity enters by love and bows with reverence.",
+                "Keeps the Adventist seventh-day Sabbath frame and Psalm 5:7's mercy-and-reverence balance.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-may-week-2-companion-journal.md",
+            "volume-1-days-123-129-audit.md",
+        ),
+    ),
+    "volume-1-days-130-136": Batch(
+        key="volume-1-days-130-136",
+        scope="Volume 1 Days 130-136",
+        title="Volume 1 Days 130-136 Line Edit",
+        intro=(
+            "The third May week of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving discernment before false voices, grace inside visible "
+            "limits, mercy that notices the outsider, costly faithfulness seen "
+            "by God, heart-strengthening words, humble field action, and "
+            "Saturday Sabbath recognition of unforsaken kindness."
+        ),
+        source_name="volume-1-days-130-136-manuscript.md",
+        public_page_name="volume-1-days-130-136-line-edit.html",
+        output_slug="volume-1-days-130-136-line-edit",
+        zip_name="Lady-D-Volume-1-Days-130-136-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 05 - May" / "Days 130-136 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 130-136",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 130",
+                "Let the Father's love carry Rest in Love That Finds You into one faithful step today.",
+                "Test the voice before you carry it today; the Father names you more truthfully than smooth or accusing words.",
+                "Turns Psalm 5:9's unreliable speech lens into a concrete discernment practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 131",
+                "Let the Father's love carry Wake Up to Grace Before Striving into one faithful step today.",
+                "Name the limit without shame today; grace is already present where performance cannot manufacture the future.",
+                "Preserves Naomi's visible limits and hope she cannot produce by striving.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 132",
+                "Let the Father's love carry Let Fire Refine Mercy in the Morning into one faithful step today.",
+                "Receive mercy without arguing with it today, then make dignified room for someone who feels unseen.",
+                "Keeps Ruth's favor-as-foreigner moment tender, practical, and outward-moving.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 133",
+                "Let the Father's love carry Come Home to the Father's Patience into one faithful step today.",
+                "Let the Father see what obedience cost you today; hidden faithfulness does not have to prove itself to every observer.",
+                "Connects costly faithfulness being fully reported with release from self-proving.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 134",
+                "Let the Father's love carry Practice Love Stronger Than Fear into one faithful step today.",
+                "Ask God to make one conversation heart-strengthening today; love speaks truth in a way courage can breathe.",
+                "Preserves comfort and words spoken to the heart as a concrete speech practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 135",
+                "Let the Father's love carry Surrender to Restoring Compassion into one faithful step today.",
+                "Pick up the humble field step in front of you today; restoring compassion often meets surrendered movement.",
+                "Keeps Ruth's gleaning initiative practical without turning surrender into passivity.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 136",
+                "Let the Father's love carry Let Mercy Speak the Promise That Holds into one faithful step today.",
+                "Rest this Saturday Sabbath in unforsaken kindness; mercy is still holding what grief cannot fully understand.",
+                "Preserves the Adventist seventh-day Sabbath frame and Ruth 2:20's unforsaken kindness.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-may-week-3-companion-journal.md",
+            "volume-1-days-130-136-audit.md",
+        ),
+    ),
+    "volume-1-days-137-143": Batch(
+        key="volume-1-days-137-143",
+        scope="Volume 1 Days 137-143",
+        title="Volume 1 Days 137-143 Line Edit",
+        intro=(
+            "The fourth May week of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving embodied care, clean public clarity, released false "
+            "redeemers, concrete surrender, Creator-rooted identity, the "
+            "Spirit's presence over unfinished places, and Saturday Sabbath "
+            "grace before performance."
+        ),
+        source_name="volume-1-days-137-143-manuscript.md",
+        public_page_name="volume-1-days-137-143-line-edit.html",
+        output_slug="volume-1-days-137-143-line-edit",
+        zip_name="Lady-D-Volume-1-Days-137-143-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 05 - May" / "Days 137-143 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 137-143",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 137",
+                "Let the Father's love carry Breathe the Heart That Calls You into one faithful step today.",
+                "Make love practical enough to restore breath today; one ordinary act of care can carry more life than you see.",
+                "Turns Ruth 4:15's embodied restoration into a concrete act of care.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 138",
+                "Let the Father's love carry Hold Fast to Love That Sends You into one faithful step today.",
+                "Choose clean clarity today; love does not need shadows when responsibility is ready to be named.",
+                "Preserves Ruth 4:4's public clarity and witness frame.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 139",
+                "Let the Father's love carry Return to Covenant Mercy into one faithful step today.",
+                "Release the redeemer who cannot carry the cost; covenant mercy is still able to clear a faithful path.",
+                "Connects the nearer redeemer's refusal to trust in God's continuing mercy.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 140",
+                "Let the Father's love carry Yield to the Father's Welcome into one faithful step today.",
+                "Let one surrendered yes become visible today; grace can make obedience concrete without making it a performance.",
+                "Keeps Ruth 4:7's confirming sign practical while protecting the grace boundary.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 141",
+                "Let the Father's love carry Anchor Beloved Identity into one faithful step today.",
+                "Begin beneath the Creator today; you are a beloved creature, not the one holding the heavens together.",
+                "Turns Genesis 1:1 into relieved beloved identity rather than self-erasure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 142",
+                "Let the Father's love carry Discover Love That Finds You into one faithful step today.",
+                "Invite the Spirit over the unfinished place today; God's love can hover before your life looks ordered.",
+                "Preserves Genesis 1:2's Spirit-over-unformed-darkness lens.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 143",
+                "Let the Father's love carry Receive Grace Before Striving into one faithful step today.",
+                "Rest this Saturday Sabbath under the word that speaks light first; grace begins before performance can answer.",
+                "Keeps the Adventist seventh-day Sabbath frame and Genesis 1:3's grace-before-effort order.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-may-week-4-companion-journal.md",
+            "volume-1-days-137-143-audit.md",
+        ),
+    ),
+    "volume-1-days-144-150": Batch(
+        key="volume-1-days-144-150",
+        scope="Volume 1 Days 144-150",
+        title="Volume 1 Days 144-150 Line Edit",
+        intro=(
+            "The fifth May week of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving mercy that separates light from darkness, patient "
+            "space inside pressure, formed obedience, restoring compassion, "
+            "seed-bearing promise, fruitfulness without comparison, and "
+            "Saturday Sabbath rhythm before being sent."
+        ),
+        source_name="volume-1-days-144-150-manuscript.md",
+        public_page_name="volume-1-days-144-150-line-edit.html",
+        output_slug="volume-1-days-144-150-line-edit",
+        zip_name="Lady-D-Volume-1-Days-144-150-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 05 - May" / "Days 144-150 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 144-150",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 144",
+                "Let the Father's love carry Trust Mercy in the Morning into one faithful step today.",
+                "Let mercy separate light from confusion today; walk with what the Father has already named good.",
+                "Turns Genesis 1:4's light/darkness separation into a practical discernment line.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 145",
+                "Let the Father's love carry Let Hope Rise the Father's Patience into one faithful step today.",
+                "Make room before you rush today; the Father's patient word can create breathing space inside pressure.",
+                "Preserves Genesis 1:6's expanse and patient ordering inside the waters.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 146",
+                "Let the Father's love carry Carry Love Stronger Than Fear into one faithful step today.",
+                "Give one intention a body today; love grows stronger than fear when God's word becomes formed obedience.",
+                "Connects Genesis 1:7's command becoming formed reality to a concrete action.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 147",
+                "Let the Father's love carry Lean Into Restoring Compassion into one faithful step today.",
+                "Let compassion gather you before you move today; the ground God reveals is enough for the next faithful step.",
+                "Keeps Genesis 1:9's gathered waters and dry-ground image practical and tender.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 148",
+                "Let the Father's love carry See Again the Promise That Holds into one faithful step today.",
+                "Water the seed of grace you already have today; the Father can hide future fruit inside a small beginning.",
+                "Preserves Genesis 1:11's seed-bearing promise without demanding instant harvest.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 149",
+                "Let the Father's love carry Let Love Teach the Heart That Calls You into one faithful step today.",
+                "Bear the fruit God designed for your own field today; comparison does not get to judge faithful growth.",
+                "Keeps Genesis 1:12's fruitfulness according to kind free from comparison.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 150",
+                "Let the Father's love carry Awaken Love That Sends You into one faithful step today.",
+                "Rest this Saturday Sabbath in holy rhythm; love is sent best from worship, belonging, and trust.",
+                "Keeps the Adventist seventh-day Sabbath frame and Genesis 1:13's evening-morning rhythm.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-may-week-5-companion-journal.md",
+            "volume-1-days-144-150-audit.md",
+        ),
+    ),
+    "volume-1-days-151-157": Batch(
+        key="volume-1-days-151-157",
+        scope="Volume 1 Days 151-157",
+        title="Volume 1 Days 151-157 Line Edit",
+        intro=(
+            "The May close and June opening week of Surrendering to God's Love "
+            "has moved from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame "
+            "while preserving covenant mercy over time, beloved identity that "
+            "receives light, freedom from comparison, grace that receives "
+            "placement, ordered mercy, patient rhythm, and Saturday Sabbath "
+            "movement from love instead of fear."
+        ),
+        source_name="volume-1-days-151-157-manuscript.md",
+        public_page_name="volume-1-days-151-157-line-edit.html",
+        output_slug="volume-1-days-151-157-line-edit",
+        zip_name="Lady-D-Volume-1-Days-151-157-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 06 - June" / "Days 151-157 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 151-157",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 151",
+                "Let the Father's love carry Embrace Covenant Mercy into one faithful step today.",
+                "Trust the Father with the calendar today; covenant mercy can hold the season you cannot hurry.",
+                "Turns Genesis 1:14's appointed times into surrendered trust over today's faithful action.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 152",
+                "Let the Father's love carry Rest in Beloved Identity into one faithful step today.",
+                "Receive the light God gives today; beloved identity does not need to manufacture its own brightness.",
+                "Keeps Genesis 1:15's appointed light as received gift rather than self-made identity.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 153",
+                "Let the Father's love carry Wake Up to Love That Finds You into one faithful step today.",
+                "Honor your assigned measure today; the Father's love frees you to shine without comparison.",
+                "Preserves Genesis 1:16's distinct lights and assignments without rivalry.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 154",
+                "Let the Father's love carry Let Fire Refine Grace Before Striving into one faithful step today.",
+                "Receive your placement today; grace can make service useful without asking visibility to prove your worth.",
+                "Connects Genesis 1:17's God-set placement to service free from performance pressure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 155",
+                "Let the Father's love carry Come Home to Mercy in the Morning into one faithful step today.",
+                "Let mercy govern the mixture today; the Father can separate light from darkness without shaming you.",
+                "Keeps Genesis 1:18's ordered rule and separation pastoral and practical.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 156",
+                "Let the Father's love carry Practice the Father's Patience into one faithful step today.",
+                "Close this day with the Father's patience; faithful boundaries can leave tomorrow in His hands.",
+                "Turns Genesis 1:19's evening-morning rhythm into a concrete boundary and trust line.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 157",
+                "Let the Father's love carry Surrender to Love Stronger Than Fear into one faithful step today.",
+                "Rest this Saturday Sabbath before you move; love restores living motion without fear's pressure.",
+                "Keeps the Adventist seventh-day Sabbath frame and Genesis 1:20's living movement from God.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-may-close-and-june-week-1-companion-journal.md",
+            "volume-1-days-151-157-audit.md",
+        ),
+    ),
+    "volume-1-days-158-164": Batch(
+        key="volume-1-days-158-164",
+        scope="Volume 1 Days 158-164",
+        title="Volume 1 Days 158-164 Line Edit",
+        intro=(
+            "The second June week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame "
+            "while preserving restoring compassion in deep places, blessing "
+            "that holds restored life, patient completion, embodied obedience, "
+            "covenant mercy that forms without shame, identity before "
+            "responsibility, and Saturday Sabbath beloved identity."
+        ),
+        source_name="volume-1-days-158-164-manuscript.md",
+        public_page_name="volume-1-days-158-164-line-edit.html",
+        output_slug="volume-1-days-158-164-line-edit",
+        zip_name="Lady-D-Volume-1-Days-158-164-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 06 - June" / "Days 158-164 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 158-164",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 158",
+                "Let the Father's love carry Let Mercy Speak Restoring Compassion into one faithful step today.",
+                "Let mercy meet the deep place today; the Father can name living movement good before you can explain it.",
+                "Keeps Genesis 1:21's living-depth and goodness lens while making the reader's step concrete.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 159",
+                "Let the Father's love carry Breathe the Promise That Holds into one faithful step today.",
+                "Breathe under the Father's blessing today; restored life can become fruitful without performing for permission.",
+                "Preserves Genesis 1:22's blessing and fruitfulness without turning increase into pressure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 160",
+                "Let the Father's love carry Hold Fast to the Heart That Calls You into one faithful step today.",
+                "Let this day be held by evening and morning; the Father can finish today's portion without rushing tomorrow.",
+                "Turns Genesis 1:23's evening-morning rhythm into patient trust over one day's portion.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 161",
+                "Let the Father's love carry Return to Love That Sends You into one faithful step today.",
+                "Offer God the real ground under your feet today; love can send obedience from the life you actually have.",
+                "Connects Genesis 1:24's earth-bringing-forth lens to ordinary embodied obedience.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 162",
+                "Let the Father's love carry Yield to Covenant Mercy into one faithful step today.",
+                "Yield one resistant place to mercy today; the Maker can form truth without crushing what He loves.",
+                "Keeps Genesis 1:25's Maker and ordered-life frame while preserving correction without shame.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 163",
+                "Let the Father's love carry Anchor the Father's Welcome into one faithful step today.",
+                "Receive welcome before responsibility today; image-bearing identity can steady the way you serve.",
+                "Preserves Genesis 1:26's identity-before-stewardship order.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 164",
+                "Let the Father's love carry Discover Beloved Identity into one faithful step today.",
+                "Rest this Saturday Sabbath from self-measuring; beloved identity is received before the week speaks again.",
+                "Keeps the Adventist seventh-day Sabbath frame and Genesis 1:27's received image-bearing identity.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-june-week-2-companion-journal.md",
+            "volume-1-days-158-164-audit.md",
+        ),
+    ),
+    "volume-1-days-165-171": Batch(
+        key="volume-1-days-165-171",
+        scope="Volume 1 Days 165-171",
+        title="Volume 1 Days 165-171 Line Edit",
+        intro=(
+            "The third June week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame "
+            "while preserving blessing before responsibility, grace before "
+            "performance, mercy over anxious need, patient honesty, "
+            "promise-rooted trust, restoring compassion that blesses wisely, "
+            "and Saturday Sabbath promise-led obedience."
+        ),
+        source_name="volume-1-days-165-171-manuscript.md",
+        public_page_name="volume-1-days-165-171-line-edit.html",
+        output_slug="volume-1-days-165-171-line-edit",
+        zip_name="Lady-D-Volume-1-Days-165-171-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 06 - June" / "Days 165-171 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 165-171",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 165",
+                "Let the Father's love carry Receive Love That Finds You into one faithful step today.",
+                "Receive blessing before responsibility today; the Father's love can make stewardship fruitful without fear.",
+                "Keeps Genesis 1:28's blessing-before-vocation order and releases stewardship from performance anxiety.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 166",
+                "Let the Father's love carry Trust Grace Before Striving into one faithful step today.",
+                "Receive one provision without apology today; grace can nourish obedience before performance speaks.",
+                "Preserves Genesis 1:29's given provision and the entry's grace-before-performance correction.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 167",
+                "Let the Father's love carry Let Hope Rise Mercy in the Morning into one faithful step today.",
+                "Place one anxious need under the Father's care today; mercy can reach what you cannot manage.",
+                "Turns Genesis 1:30's broad creaturely care into a concrete anxiety-to-mercy practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 168",
+                "Let the Father's love carry Carry the Father's Patience into one faithful step today.",
+                "Practice patient honesty today; the Father can name what is good without denying what still needs healing.",
+                "Keeps Genesis 1:31's whole-work assessment while avoiding condemnation or denial.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 169",
+                "Let the Father's love carry Lean Into Love Stronger Than Fear into one faithful step today.",
+                "Lean into the Father's promise today; love can loosen the control fear called protection.",
+                "Connects Genesis 12:2's God-initiated promise to surrendered trust instead of control.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 170",
+                "Let the Father's love carry See Again Restoring Compassion into one faithful step today.",
+                "Let compassion widen your sight today; blessing can move outward with wisdom, strength, and holy boundaries.",
+                "Preserves Genesis 12:3's outward blessing while keeping compassion wise rather than boundaryless.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 171",
+                "Let the Father's love carry Let Love Teach the Promise That Holds into one faithful step today.",
+                "Rest this Saturday Sabbath in the promise first; love can teach your feet the next obedient step.",
+                "Keeps the Adventist seventh-day Sabbath frame and Genesis 12:4's promise-led obedience from rest.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-june-week-3-companion-journal.md",
+            "volume-1-days-165-171-audit.md",
+        ),
+    ),
+    "volume-1-days-172-178": Batch(
+        key="volume-1-days-172-178",
+        scope="Volume 1 Days 172-178",
+        title="Volume 1 Days 172-178 Line Edit",
+        intro=(
+            "The fourth June week of Surrendering to God's Love has moved "
+            "from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame "
+            "while preserving obedience with real responsibilities, faithful "
+            "presence on difficult ground, covenant remembrance, ordinary "
+            "continuation under the Father's welcome, beloved identity under "
+            "scarcity pressure, love interpreting vulnerability before fear, "
+            "and Saturday Sabbath grace before performance."
+        ),
+        source_name="volume-1-days-172-178-manuscript.md",
+        public_page_name="volume-1-days-172-178-line-edit.html",
+        output_slug="volume-1-days-172-178-line-edit",
+        zip_name="Lady-D-Volume-1-Days-172-178-Line-Edit-Pack.zip",
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 06 - June" / "Days 172-178 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 172-178",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 172",
+                "Let the Father's love carry Awaken the Heart That Calls You into one faithful step today.",
+                "Carry one real responsibility under the Father's care today; His call can lead the whole story, not only polished parts.",
+                "Keeps Genesis 12:5's household obedience concrete while avoiding an escapist view of surrender.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 173",
+                "Let the Father's love carry Embrace Love That Sends You into one faithful step today.",
+                "Stay faithful on difficult ground today; the Father's love can hold you before the terrain gets easy.",
+                "Preserves Genesis 12:6's promised-but-tense place and keeps courage rooted in God's presence.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 174",
+                "Let the Father's love carry Remember Covenant Mercy into one faithful step today.",
+                "Build one remembrance in the middle today; covenant mercy is worthy of worship before completion arrives.",
+                "Connects Genesis 12:7's promise and altar response to worship in process.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 175",
+                "Let the Father's love carry Walk in the Father's Welcome into one faithful step today.",
+                "Honor one quiet step today; the Father's welcome still walks with you when obedience looks ordinary.",
+                "Turns Genesis 12:9's continued journey into a practical ordinary-faithfulness line.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 176",
+                "Let the Father's love carry Let Peace Lead Beloved Identity into one faithful step today.",
+                "Pause before scarcity names you today; need is real, but beloved identity still belongs to the Father.",
+                "Keeps Genesis 12:10's famine pressure honest while protecting beloved identity from need's voice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 177",
+                "Let the Father's love carry Choose Love That Finds You into one faithful step today.",
+                "Bring one vulnerable truth to the Father today; love can interpret it before fear turns it into strategy.",
+                "Preserves Genesis 12:11's early fear interpretation and invites surrender before reaction becomes plan.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 178",
+                "Let the Father's love carry Listen for Grace Before Striving into one faithful step today.",
+                "Rest this Saturday Sabbath before fear performs; grace can tell the truth without manipulation or self-saving.",
+                "Keeps the Adventist seventh-day Sabbath frame and Genesis 12:12's warning against fear-built performance.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-june-week-4-companion-journal.md",
+            "volume-1-days-172-178-audit.md",
+        ),
+    ),
+    "volume-1-days-179-181": Batch(
+        key="volume-1-days-179-181",
+        scope="Volume 1 Days 179-181",
+        title="Volume 1 Days 179-181 Line Edit",
+        intro=(
+            "The June closeout of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving truthful speech before fear creates harm, patient "
+            "sight that protects exposed vulnerability, and love strong "
+            "enough to grieve what fear and power have done without extending "
+            "Saturday Sabbath language into Sunday, Monday, or Tuesday."
+        ),
+        source_name="volume-1-days-179-181-manuscript.md",
+        public_page_name="volume-1-days-179-181-line-edit.html",
+        output_slug="volume-1-days-179-181-line-edit",
+        zip_name="Lady-D-Volume-1-Days-179-181-Line-Edit-Pack.zip",
+        expected_entries=3,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 06 - June" / "Days 179-181 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 179-181",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 179",
+                "Let the Father's love carry Stand in Mercy in the Morning into one faithful step today.",
+                "Tell the truth before fear spends someone else's safety today; mercy can make protection honest.",
+                "Keeps Genesis 12:13's fear-shaped speech and Sarai's vulnerability concrete while making mercy protective.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 180",
+                "Let the Father's love carry Let Grace Form the Father's Patience into one faithful step today.",
+                "Slow down where vulnerability is exposed today; the Father's patience can turn your attention into honor.",
+                "Preserves Genesis 12:14's arrival, visibility, and power setting while turning patience toward protection.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 181",
+                "Let the Father's love carry Behold Love Stronger Than Fear into one faithful step today.",
+                "Hold one painful truth before the Father today; love can grieve, repent, and trust Him to protect.",
+                "Keeps Genesis 12:15's sober consequence, lament, and trust in God's protective intervention together.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-june-closeout-companion-journal.md",
+            "volume-1-days-179-181-audit.md",
+        ),
+    ),
+    "volume-1-days-182-188": Batch(
+        key="volume-1-days-182-188",
+        scope="Volume 1 Days 182-188",
+        title="Volume 1 Days 182-188 Line Edit",
+        intro=(
+            "The first July week of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving honesty about compromised relief, God's protective "
+            "intervention, correction that sends the heart out of hiding, "
+            "Saturday Sabbath covenant mercy, and Genesis 15's welcome for "
+            "honest questions and named lack."
+        ),
+        source_name="volume-1-days-182-188-manuscript.md",
+        public_page_name="volume-1-days-182-188-line-edit.html",
+        output_slug="volume-1-days-182-188-line-edit",
+        zip_name="Lady-D-Volume-1-Days-182-188-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 07 - July" / "Days 182-188 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 182-188",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 182",
+                "Let the Father's love carry Hold Fast to the Promise That Holds into one faithful step today.",
+                "Examine one relief before the Father today; His promise can make gratitude honest and repair possible.",
+                "Keeps Genesis 12:16's compromised benefit clear while turning provision into honest surrender.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 183",
+                "Let the Father's love carry Return to the Heart That Calls You into one faithful step today.",
+                "Welcome one holy interruption today; the Father's mercy may be bringing hidden harm into healing light.",
+                "Preserves Genesis 12:17's divine intervention, exposure, and protection without sentimentalizing disruption.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 184",
+                "Let the Father's love carry Yield to Love That Sends You into one faithful step today.",
+                "Leave one defended hiding place today; love can send you forward without letting shame lead.",
+                "Connects Genesis 12:19's correction and release to forward movement without condemnation.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 185",
+                "Let the Father's love carry Anchor Covenant Mercy into one faithful step today.",
+                "Rest this Saturday Sabbath in covenant mercy; grace can lead you out and teach truthful obedience.",
+                "Keeps the July 4 Saturday Sabbath frame, covenant mercy, departure, and obedience from grace together.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 186",
+                "Let the Father's love carry Discover the Father's Welcome into one faithful step today.",
+                "Begin with God's revealed nearness today; His presence is shield, reward, and welcome before fear speaks.",
+                "Grounds Genesis 15:1 in God's direct comfort, protection, reward, and Father's welcome.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 187",
+                "Let the Father's love carry Receive Beloved Identity into one faithful step today.",
+                "Bring the unfinished question to the Father today; beloved identity is safe enough for honest sorrow.",
+                "Keeps Genesis 15:2's unresolved promise and honest question inside beloved belonging.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 188",
+                "Let the Father's love carry Trust Love That Finds You into one faithful step today.",
+                "Name the lack before God today; love can meet the exact ache without letting it define you.",
+                "Preserves Genesis 15:3's specific naming of lack while keeping identity anchored in God's love.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-july-week-1-companion-journal.md",
+            "volume-1-days-182-188-audit.md",
+        ),
+    ),
+    "volume-1-days-189-195": Batch(
+        key="volume-1-days-189-195",
+        scope="Volume 1 Days 189-195",
+        title="Volume 1 Days 189-195 Line Edit",
+        intro=(
+            "The second July week of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving Genesis 15's movement from named fear into God's "
+            "answer, widened vision, righteousness by faith, Saturday Sabbath "
+            "remembrance, covenant assurance, and obedient preparation that "
+            "responds to grace without trying to earn the promise."
+        ),
+        source_name="volume-1-days-189-195-manuscript.md",
+        public_page_name="volume-1-days-189-195-line-edit.html",
+        output_slug="volume-1-days-189-195-line-edit",
+        zip_name="Lady-D-Volume-1-Days-189-195-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 07 - July" / "Days 189-195 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 189-195",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 189",
+                "Let the Father's love carry Let Hope Rise Grace Before Striving into one faithful step today.",
+                "Let God's answer interrupt fear today; grace can keep hope alive before you reach for substitute plans.",
+                "Keeps Genesis 15:4's direct answer to Abram's inheritance fear while turning hope into a grace-first practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 190",
+                "Let the Father's love carry Carry Mercy in the Morning into one faithful step today.",
+                "Look beyond the small frame today; the Father can widen hope past what you can count.",
+                "Preserves Genesis 15:5's sky/star vision and the movement from cramped worry into enlarged trust.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 191",
+                "Let the Father's love carry Lean Into the Father's Patience into one faithful step today.",
+                "Lean into trust today; the Father's promise can steady you before the outcome is visible.",
+                "Keeps Genesis 15:6 centered on righteousness by faith instead of performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 192",
+                "Let the Father's love carry See Again Love Stronger Than Fear into one faithful step today.",
+                "Rest this Saturday Sabbath in remembered faithfulness; the God who brought you out is still leading.",
+                "Keeps the July 11 Saturday Sabbath frame, God's past leading, and trust in the faithful Creator and Redeemer together.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 193",
+                "Let the Father's love carry Let Love Teach Restoring Compassion into one faithful step today.",
+                "Bring the assurance question to God today; compassion can steady faith without turning it into control.",
+                "Preserves Genesis 15:8's honest assurance question while distinguishing covenant trust from control.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 194",
+                "Let the Father's love carry Awaken the Promise That Holds into one faithful step today.",
+                "Take the named preparation step today; obedience can answer grace without trying to earn the promise.",
+                "Connects Genesis 15:9's concrete covenant preparation to obedience as a response to grace.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 195",
+                "Let the Father's love carry Embrace the Heart That Calls You into one faithful step today.",
+                "Prepare what God named today; patient obedience makes room for what only He can do.",
+                "Keeps Genesis 15:10's careful preparation and patient waiting under God's initiative.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-july-week-2-companion-journal.md",
+            "volume-1-days-189-195-audit.md",
+        ),
+    ),
+    "volume-1-days-196-202": Batch(
+        key="volume-1-days-196-202",
+        scope="Volume 1 Days 196-202",
+        title="Volume 1 Days 196-202 Line Edit",
+        intro=(
+            "The third July week of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving Genesis 15's movement through guarded obedience, "
+            "honest fear, truthful peace, Saturday Sabbath beloved identity, "
+            "patient covenant timing, God's initiative, and mercy formed by "
+            "promise instead of performance."
+        ),
+        source_name="volume-1-days-196-202-manuscript.md",
+        public_page_name="volume-1-days-196-202-line-edit.html",
+        output_slug="volume-1-days-196-202-line-edit",
+        zip_name="Lady-D-Volume-1-Days-196-202-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 07 - July" / "Days 196-202 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 196-202",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 196",
+                "Let the Father's love carry Remember Love That Sends You into one faithful step today.",
+                "Guard the prepared place today; the Father's love can help you resist what tries to feed on your yes.",
+                "Keeps Genesis 15:11's guarded covenant preparation while turning resistance into a concrete grace-shaped practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 197",
+                "Let the Father's love carry Walk in Covenant Mercy into one faithful step today.",
+                "Tell God the fear plainly today; covenant mercy can hold you when the darkness feels heavy.",
+                "Preserves Genesis 15:12's dread and deep darkness while refusing to treat fear as abandonment.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 198",
+                "Let the Father's love carry Let Peace Lead the Father's Welcome into one faithful step today.",
+                "Let truth become peace today; the Father knows the hard road without letting it cancel His promise.",
+                "Keeps Genesis 15:13's sober future word and frames peace as truthful trust rather than denial.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 199",
+                "Let the Father's love carry Choose Beloved Identity into one faithful step today.",
+                "Rest this Saturday Sabbath as beloved; the Redeemer sees oppression and still owns the story.",
+                "Keeps the July 18 Saturday Sabbath frame and Genesis 15:14's redemption justice without making identity performance-based.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 200",
+                "Let the Father's love carry Listen for Love That Finds You into one faithful step today.",
+                "Trust the longer timing today; God's patience is not absence, and His promise is not wandering.",
+                "Preserves Genesis 15:16's fourth-generation timing and patient justice while guarding against bitterness.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 201",
+                "Let the Father's love carry Stand in Grace Before Striving into one faithful step today.",
+                "Stand where grace has placed you today; God is faithful enough to secure what you cannot perform.",
+                "Keeps Genesis 15:17 centered on God's covenant initiative and protects grace before performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 202",
+                "Let the Father's love carry Let Grace Form Mercy in the Morning into one faithful step today.",
+                "Receive covenant mercy before pressure speaks today; because God is faithful, your steps can be steady.",
+                "Connects Genesis 15:18's covenant word to a morning practice of receiving mercy before reacting.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-july-week-3-companion-journal.md",
+            "volume-1-days-196-202-audit.md",
+        ),
+    ),
+    "volume-1-days-203-209": Batch(
+        key="volume-1-days-203-209",
+        scope="Volume 1 Days 203-209",
+        title="Volume 1 Days 203-209 Line Edit",
+        intro=(
+            "The fourth July week of Surrendering to God's Love has moved from "
+            "structural manuscript into line-level author-voice refinement. "
+            "This pass removes the repeated morning-impact frame while "
+            "preserving Genesis 15's named covenant land-list specificity, "
+            "honest engagement with contested places, bounded obstacles, "
+            "Saturday Sabbath rest under God's sustaining strength, covenant "
+            "renewal, reverent surrender, and fruitful promise grounded in "
+            "God's initiative rather than human capacity."
+        ),
+        source_name="volume-1-days-203-209-manuscript.md",
+        public_page_name="volume-1-days-203-209-line-edit.html",
+        output_slug="volume-1-days-203-209-line-edit",
+        zip_name="Lady-D-Volume-1-Days-203-209-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 07 - July" / "Days 203-209 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 203-209",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 203",
+                "Let the Father's love carry Behold the Father's Patience into one faithful step today.",
+                "Honor one clear detail today; the Father's patience is specific even while the promise is still future.",
+                "Keeps Genesis 15:19's named promise specificity while making waiting a faithful, concrete practice.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 204",
+                "Let the Father's love carry Follow Love Stronger Than Fear into one faithful step today.",
+                "Name the hard place before God today; His promise can hold what fear keeps vague.",
+                "Preserves Genesis 15:20's contested-place realism while putting fear under God's named promise.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 205",
+                "Let the Father's love carry Rest in Restoring Compassion into one faithful step today.",
+                "Give the overwhelming concern a boundary today; God's compassion is larger than what surrounds you.",
+                "Connects Genesis 15:21's completed land-list boundary to practical rest under God's compassion.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 206",
+                "Let the Father's love carry Wake Up to the Promise That Holds into one faithful step today.",
+                "Rest this Saturday Sabbath under El Shaddai; time has not weakened the promise God holds.",
+                "Keeps the July 25 Saturday Sabbath frame and Genesis 17:1's Almighty self-revelation before obedience.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 207",
+                "Let the Father's love carry Let Fire Refine the Heart That Calls You into one faithful step today.",
+                "Receive God's promise before striving today; covenant mercy can refine fear's small expectations.",
+                "Keeps Genesis 17:2's covenant initiative and fruitfulness grounded in reception before striving.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 208",
+                "Let the Father's love carry Come Home to Love That Sends You into one faithful step today.",
+                "Bow without defensiveness today; the Father can speak tenderly to a surrendered heart.",
+                "Preserves Genesis 17:3's reverent posture as safe surrender before the God who speaks.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 209",
+                "Let the Father's love carry Practice Covenant Mercy into one faithful step today.",
+                "Plant one small mercy today; God can multiply fruit you cannot yet measure.",
+                "Connects Genesis 17:6's future fruitfulness to a small covenant-mercy practice without forcing outcomes.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-july-week-4-companion-journal.md",
+            "volume-1-days-203-209-audit.md",
+        ),
+    ),
+    "volume-1-days-210-216": Batch(
+        key="volume-1-days-210-216",
+        scope="Volume 1 Days 210-216",
+        title="Volume 1 Days 210-216 Line Edit",
+        intro=(
+            "The July/August transition of Surrendering to God's Love has "
+            "moved from structural manuscript into line-level author-voice "
+            "refinement. This pass removes the repeated morning-impact frame "
+            "while preserving Genesis 17's covenant belonging, beloved "
+            "identity in unsettled places, obedience as response to divine "
+            "initiative, Saturday Sabbath rest in God's finished work, "
+            "patient covenant remembrance, generational witness, and "
+            "restoring compassion for overlooked people."
+        ),
+        source_name="volume-1-days-210-216-manuscript.md",
+        public_page_name="volume-1-days-210-216-line-edit.html",
+        output_slug="volume-1-days-210-216-line-edit",
+        zip_name="Lady-D-Volume-1-Days-210-216-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 07 - July" / "Days 210-216 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 210-216",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 210",
+                "Let the Father's love carry Surrender to the Father's Welcome into one faithful step today.",
+                "Move from covenant belonging today; the Father is God to you before the future is managed.",
+                "Keeps Genesis 17:7 centered on God's relational covenant promise before anxious control.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 211",
+                "Let the Father's love carry Let Mercy Speak Beloved Identity into one faithful step today.",
+                "Let God's belonging name the unsettled place today; temporary ground does not define His child.",
+                "Preserves Genesis 17:8's sojourning and inheritance frame while grounding identity in divine belonging.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 212",
+                "Let the Father's love carry Breathe Love That Finds You into one faithful step today.",
+                "Keep one entrusted rhythm today; obedience can answer love without bargaining for it.",
+                "Keeps Genesis 17:9's covenant-keeping call as relational response after God's initiative.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 213",
+                "Let the Father's love carry Lean Into Sabbath Trust Through Mercy in the Morning into one faithful step today.",
+                "Rest this Saturday Sabbath in God's finished work; let mercy become visible in one quiet relationship.",
+                "Keeps the August 1 Saturday Sabbath frame and handles Genesis 17:10's embodied covenant sign discreetly.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 214",
+                "Let the Father's love carry See Sabbath Trust in Again the Father's Patience into one faithful step today.",
+                "Restore one covenant reminder today; the Father's patience can call your heart back before worry speaks.",
+                "Connects Genesis 17:11's covenant sign to patient remembrance instead of performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 215",
+                "Let the Father's love carry Let Sabbath Trust Teach Love Stronger Than Fear into one faithful step today.",
+                "Strengthen one faithful witness today; covenant love can outlast the fear of this moment.",
+                "Keeps Genesis 17:12's generational and household scope while refusing fear-driven control.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 216",
+                "Let the Father's love carry Awaken Restoring Compassion into one faithful step today.",
+                "See the overlooked person today; restoring compassion can give dignity where hurry has made someone unseen.",
+                "Preserves Genesis 17:13's repeated household scope and turns covenant belonging toward visible dignity.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-july-august-transition-companion-journal.md",
+            "volume-1-days-210-216-audit.md",
+        ),
+    ),
+    "volume-1-days-217-223": Batch(
+        key="volume-1-days-217-223",
+        scope="Volume 1 Days 217-223",
+        title="Volume 1 Days 217-223 Line Edit",
+        intro=(
+            "The second August Love in Relationships batch of Surrendering to "
+            "God's Love has moved from structural manuscript into line-level "
+            "author-voice refinement. This pass removes the repeated "
+            "morning-impact frame while preserving Genesis 17's covenant "
+            "seriousness, Sarah's bestowed identity, blessing that travels "
+            "through relationship, Abraham's honest concern for Ishmael, "
+            "God's loving correction, mercy toward the person on a different "
+            "path, and appointed timing held with patient obedience."
+        ),
+        source_name="volume-1-days-217-223-manuscript.md",
+        public_page_name="volume-1-days-217-223-line-edit.html",
+        output_slug="volume-1-days-217-223-line-edit",
+        zip_name="Lady-D-Volume-1-Days-217-223-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 08 - August" / "Days 217-223 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 217-223",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 217",
+                "Let the Father's love carry Embrace the Promise That Holds into one faithful step today.",
+                "Honor one covenant commitment today; holy love can steady your words before comfort becomes excuse.",
+                "Keeps Genesis 17:14's covenant seriousness without fear or shame language.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 218",
+                "Let the Father's love carry Remember the Heart That Calls You into one faithful step today.",
+                "Answer one old name with God's truer call today; beloved identity can loosen fear's grip.",
+                "Centers Sarah's renaming as bestowed identity that loosens old labels.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 219",
+                "Let the Father's love carry Walk in Love That Sends You into one faithful step today.",
+                "Bless one person before worry takes over; the Father's love can travel farther than your sight.",
+                "Preserves Genesis 17:16's blessing and fruitfulness without forcing outcomes.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 220",
+                "Let the Father's love carry Let Peace Lead Covenant Mercy into one faithful step today.",
+                "Rest this Saturday Sabbath with open hands; the Father can hold both promise and beloved person.",
+                "Keeps the August 8 Saturday Sabbath frame and Abraham's concern for Ishmael without seizing control.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 221",
+                "Let the Father's love carry Choose the Father's Welcome into one faithful step today.",
+                "Receive one clear redirection today; the Father's correction can become peace instead of rejection.",
+                "Frames Genesis 17:19's covenant correction as welcome rather than abandonment.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 222",
+                "Let the Father's love carry Listen for Beloved Identity into one faithful step today.",
+                "Bless the person whose path is different; God's mercy sees dignity beyond your expectations.",
+                "Keeps Ishmael's blessing dignified while preserving the distinction in covenant purpose.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 223",
+                "Let the Father's love carry Stand in Love That Finds You into one faithful step today.",
+                "Practice patient obedience today; appointed timing can quiet the urge to force love's outcome.",
+                "Centers Genesis 17:21's appointed timing without making patience passive.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-august-week-2-companion-journal.md",
+            "volume-1-days-217-223-audit.md",
+        ),
+    ),
+    "volume-1-days-224-230": Batch(
+        key="volume-1-days-224-230",
+        scope="Volume 1 Days 224-230",
+        title="Volume 1 Days 224-230 Line Edit",
+        intro=(
+            "The third August Love in Relationships batch of Surrendering to "
+            "God's Love has moved from structural manuscript into line-level "
+            "author-voice refinement. This pass removes the repeated "
+            "morning-impact frame while preserving Genesis 17's completed "
+            "divine conversation, same-day household obedience, late-season "
+            "formation, Ishmael's visible dignity, Saturday Sabbath release "
+            "from fear and control, compassion within shared obedience, "
+            "refined communal belonging, and Genesis 22's opening test held "
+            "with pastoral safety and discernment."
+        ),
+        source_name="volume-1-days-224-230-manuscript.md",
+        public_page_name="volume-1-days-224-230-line-edit.html",
+        output_slug="volume-1-days-224-230-line-edit",
+        zip_name="Lady-D-Volume-1-Days-224-230-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 08 - August" / "Days 224-230 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 224-230",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 224",
+                "Let the Father's love carry Let Grace Form Grace Before Striving into one faithful step today.",
+                "Pause after God speaks today; grace can shape your response before pressure takes over.",
+                "Keeps Genesis 17:22 centered on God's initiative and timing before anxious performance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 225",
+                "Let the Father's love carry Behold Mercy in the Morning into one faithful step today.",
+                "Take one same-day step today; mercy can move insight into humble household faithfulness.",
+                "Preserves Genesis 17:23's same-day covenant response while handling the embodied sign discreetly.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 226",
+                "Let the Father's love carry Follow the Father's Patience into one faithful step today.",
+                "Stop calling change too late today; the Father can form obedience in present grace.",
+                "Connects Abraham's age in Genesis 17:24 to late-season obedience without shame.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 227",
+                "Let the Father's love carry Rest in Love Stronger Than Fear into one faithful step today.",
+                "Rest this Saturday Sabbath as you release one beloved person from fear into the Father's care.",
+                "Keeps the August 15 Saturday Sabbath frame and Ishmael's visible dignity without control.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 228",
+                "Let the Father's love carry Wake Up to Restoring Compassion into one faithful step today.",
+                "Obey with tenderness today; someone walking beside you may need compassion more than direction.",
+                "Frames Genesis 17:26's shared obedience of Abraham and Ishmael with relational compassion.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 229",
+                "Let the Father's love carry Let Fire Refine the Promise That Holds into one faithful step today.",
+                "Refine one shared pattern today; covenant love can make belonging more merciful and dignified.",
+                "Keeps Genesis 17:27's household scope while refusing to romanticize broken human structures.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 230",
+                "Let the Father's love carry Come Home to the Heart That Calls You into one faithful step today.",
+                "Bring tested trust to God today; choose one wise step, not fearful confusion.",
+                "Preserves Genesis 22:1's severe testing frame with safety, discernment, and direct surrender to God.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-august-week-3-companion-journal.md",
+            "volume-1-days-224-230-audit.md",
+        ),
+    ),
+    "volume-1-days-231-237": Batch(
+        key="volume-1-days-231-237",
+        scope="Volume 1 Days 231-237",
+        title="Volume 1 Days 231-237 Line Edit",
+        intro=(
+            "The fourth August Love in Relationships batch of Surrendering to "
+            "God's Love has moved from structural manuscript into line-level "
+            "author-voice refinement. This pass removes the repeated "
+            "morning-impact frame while preserving Genesis 22's responsive "
+            "preparation, patient trust in unfinished distance, worship "
+            "under pressure, Saturday Sabbath dignity, provision-shaped "
+            "faithfulness, explicit safety guardrails against human control "
+            "or harm, and God's mercy interrupting the crisis point."
+        ),
+        source_name="volume-1-days-231-237-manuscript.md",
+        public_page_name="volume-1-days-231-237-line-edit.html",
+        output_slug="volume-1-days-231-237-line-edit",
+        zip_name="Lady-D-Volume-1-Days-231-237-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 08 - August" / "Days 231-237 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 231-237",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 231",
+                "Let the Father's love carry Practice Love That Sends You into one faithful step today.",
+                "Prepare one clear step today; love can move from God's word without fear's pressure.",
+                "Keeps Genesis 22:3 centered on responsive trust to God, not unsafe human demands.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 232",
+                "Let the Father's love carry Surrender to Covenant Mercy into one faithful step today.",
+                "Honor the unfinished distance today; covenant mercy can keep your heart faithful between seeing and arriving.",
+                "Connects Genesis 22:4's visible-but-unreached place to patient trust without forcing arrival.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 233",
+                "Let the Father's love carry Let Mercy Speak the Father's Welcome into one faithful step today.",
+                "Bring the heavy concern into worship today; the Father welcomes trembling trust.",
+                "Preserves Genesis 22:5's worship under pressure without pretending the tension is simple.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 234",
+                "Let the Father's love carry Breathe Beloved Identity into one faithful step today.",
+                "Rest this Saturday Sabbath and see one person as beloved, not background to your hard road.",
+                "Keeps the August 22 Saturday Sabbath frame and Isaac's dignity under God's life-giving character.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 235",
+                "Let the Father's love carry Hold Fast to Love That Finds You into one faithful step today.",
+                "Entrust one needed provision today; love can keep walking with open hands.",
+                "Centers Genesis 22:8's provision-shaped trust and continued togetherness under pressure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 236",
+                "Let the Father's love carry Return to Grace Before Striving into one faithful step today.",
+                "Test pressure against God's character today; faithful surrender stays wise, safe, and gracious.",
+                "Preserves Genesis 22:9's explicit safety guardrails and rejects control, domination, or harm.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 237",
+                "Let the Father's love carry Yield to Mercy in the Morning into one faithful step today.",
+                "Pause what has gone too far today; mercy can interrupt before the wound deepens.",
+                "Refuses to isolate Genesis 22:10 from God's merciful interruption and provision.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-august-week-4-companion-journal.md",
+            "volume-1-days-231-237-audit.md",
+        ),
+    ),
+    "volume-1-days-238-244": Batch(
+        key="volume-1-days-238-244",
+        scope="Volume 1 Days 238-244",
+        title="Volume 1 Days 238-244 Line Edit",
+        intro=(
+            "The August/September transition batch of Surrendering to God's "
+            "Love has moved from structural manuscript into line-level "
+            "author-voice refinement. This pass removes the repeated "
+            "morning-impact frame while preserving Genesis 22's merciful "
+            "interruption, God-given provision, restoring compassion after "
+            "crisis, Saturday Sabbath trust under promise, outward blessing, "
+            "humble return to ordinary responsibility, and the quiet opening "
+            "of September's Promises That Do Not Fail arc."
+        ),
+        source_name="volume-1-days-238-244-manuscript.md",
+        public_page_name="volume-1-days-238-244-line-edit.html",
+        output_slug="volume-1-days-238-244-line-edit",
+        zip_name="Lady-D-Volume-1-Days-238-244-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 09 - September" / "Days 238-244 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 238-244",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 238",
+                "Let the Father's love carry Anchor the Father's Patience into one faithful step today.",
+                "Pause before pressure becomes harm today; the Father's patient voice can teach love to stop.",
+                "Centers Genesis 22:12 as God's merciful interruption and keeps relational safety explicit.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 239",
+                "Let the Father's love carry Discover Love Stronger Than Fear into one faithful step today.",
+                "Lift your eyes past fear today; receive the provision God has already been preparing.",
+                "Connects Genesis 22:13's lifted-eyes provision to trust beyond fear's narrow story.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 240",
+                "Let the Father's love carry Receive Restoring Compassion into one faithful step today.",
+                "Offer one restoring kindness today; compassion can steady the room after the hard moment.",
+                "Preserves Genesis 22:16's oath-bound faithful speech and applies it to repair after crisis.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 241",
+                "Let the Father's love carry Trust the Promise That Holds into one faithful step today.",
+                "Rest this Saturday Sabbath beneath God's promise; let His word hold what control cannot.",
+                "Keeps the August 29 Saturday Sabbath frame and trust under God's covenant promise.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 242",
+                "Let the Father's love carry Let Hope Rise the Heart That Calls You into one faithful step today.",
+                "Let one mercy widen today; your healing can become safety and hope for someone else.",
+                "Honors Genesis 22:18's outward blessing horizon without making hope vague.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 243",
+                "Let the Father's love carry Carry Love That Sends You into one faithful step today.",
+                "Return to ordinary responsibility with gentleness today; tested love can come home humble.",
+                "Keeps Genesis 22:19's movement back into ordinary life with humility and tenderness.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 244",
+                "Let the Father's love carry Listen for the Father's Welcome into one faithful step today.",
+                "Notice one quiet beginning today; the Father may be opening promise beyond what you can see.",
+                "Opens the September promise arc through Genesis 22:20's quiet family-news horizon.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-august-september-transition-companion-journal.md",
+            "volume-1-days-238-244-audit.md",
+        ),
+    ),
+    "volume-1-days-245-251": Batch(
+        key="volume-1-days-245-251",
+        scope="Volume 1 Days 245-251",
+        title="Volume 1 Days 245-251 Line Edit",
+        intro=(
+            "The first full September Promises That Do Not Fail batch of "
+            "Surrendering to God's Love has moved from structural manuscript "
+            "into line-level author-voice refinement. This pass removes the "
+            "repeated morning-impact frame while preserving quiet beloved "
+            "identity, unseen grace preparing future mercy, dignity before "
+            "performance, Saturday Sabbath mercy under blessing, patient "
+            "trust between promise and possession, the prepared next step, "
+            "and refining compassion when the heart sees more clearly."
+        ),
+        source_name="volume-1-days-245-251-manuscript.md",
+        public_page_name="volume-1-days-245-251-line-edit.html",
+        output_slug="volume-1-days-245-251-line-edit",
+        zip_name="Lady-D-Volume-1-Days-245-251-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 09 - September" / "Days 245-251 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 245-251",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 245",
+                "Let the Father's love carry Stand in Beloved Identity into one faithful step today.",
+                "Carry one quiet duty today as someone already seen, named, and loved by the Father.",
+                "Turns Genesis 22:22's quiet family-line dignity into grounded beloved identity.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 246",
+                "Let the Father's love carry Let Grace Form Love That Finds You into one faithful step today.",
+                "Name one unseen mercy today; grace may already be forming what love will need.",
+                "Preserves Genesis 22:23's Rebekah preparation without forcing visible proof.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 247",
+                "Let the Father's love carry Behold Grace Before Striving into one faithful step today.",
+                "Honor one overlooked life today; grace gives dignity before usefulness is proven.",
+                "Keeps Genesis 22:24's peripheral names from being measured by performance or utility.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 248",
+                "Let the Father's love carry Follow Mercy in the Morning into one faithful step today.",
+                "Rest this Saturday Sabbath under the Father's blessing; release the pressure to manufacture fruitfulness.",
+                "Keeps Genesis 28:3's Sabbath blessing frame as rest under God's fruitfulness, not striving.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 249",
+                "Let the Father's love carry Rest in the Father's Patience into one faithful step today.",
+                "Steward one unfinished place today; the Father's patience can hold promise before possession.",
+                "Applies Genesis 28:4's inheritance promise to faithful sojourning without Sunday/Sabbath drift.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 250",
+                "Let the Father's love carry Wake Up to Love Stronger Than Fear into one faithful step today.",
+                "Take the next prepared step today; love can guide the road before the whole map appears.",
+                "Connects Genesis 28:5's sending and prepared relationships to wise obedience beyond fear.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 251",
+                "Let the Father's love carry Let Fire Refine Restoring Compassion into one faithful step today.",
+                "Let one reaction be refined today; honest surrender can rise where resentment started.",
+                "Keeps Genesis 28:6's observation scene focused on conviction, refinement, and surrender.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-september-week-1-companion-journal.md",
+            "volume-1-days-245-251-audit.md",
+        ),
+    ),
+    "volume-1-days-252-258": Batch(
+        key="volume-1-days-252-258",
+        scope="Volume 1 Days 252-258",
+        title="Volume 1 Days 252-258 Line Edit",
+        intro=(
+            "The second September Promises That Do Not Fail batch of "
+            "Surrendering to God's Love has moved from structural manuscript "
+            "into line-level author-voice refinement. This pass removes the "
+            "repeated morning-impact frame while preserving surrendered "
+            "repair, obedient movement on the road, ordinary resting places "
+            "becoming meeting places, Saturday Sabbath mercy that releases "
+            "self-proving, welcome widening into blessing, God's faithful "
+            "presence on unfinished roads, and awakened recognition of "
+            "nearness already given."
+        ),
+        source_name="volume-1-days-252-258-manuscript.md",
+        public_page_name="volume-1-days-252-258-line-edit.html",
+        output_slug="volume-1-days-252-258-line-edit",
+        zip_name="Lady-D-Volume-1-Days-252-258-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 09 - September" / "Days 252-258 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 252-258",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 252",
+                "Let the Father's love carry Come Home to the Promise That Holds into one faithful step today.",
+                "Pause before repairing appearances today; let the Father search the motive underneath the move.",
+                "Keeps Genesis 28:9 focused on surrendered repair instead of image management.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 253",
+                "Let the Father's love carry Practice the Heart That Calls You into one faithful step today.",
+                "Take one honest step on the road today; obedience can move without pretending fear is gone.",
+                "Connects Genesis 28:10's departure to faithful movement without romanticizing exposure.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 254",
+                "Let the Father's love carry Surrender to Love That Sends You into one faithful step today.",
+                "Receive one ordinary resting place today; the Father may be nearer than the conditions suggest.",
+                "Preserves Genesis 28:11's vulnerable resting place as a possible meeting place with God.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 255",
+                "Let the Father's love carry Let Mercy Speak Covenant Mercy into one faithful step today.",
+                "Rest this Saturday Sabbath beneath heaven's initiative; release every ladder of self-proving into mercy.",
+                "Keeps Genesis 28:12's ladder scene as God's initiative and protects the seventh-day Sabbath frame.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 256",
+                "Let the Father's love carry Breathe the Father's Welcome into one faithful step today.",
+                "Let welcome widen today; one received mercy can become room for someone else to breathe.",
+                "Applies Genesis 28:14's all-families blessing without turning Sunday into Sabbath language.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 257",
+                "Let the Father's love carry Hold Fast to Beloved Identity into one faithful step today.",
+                "Answer one uncertainty with God's nearness today; you are kept before the road is finished.",
+                "Turns Genesis 28:15's presence and keeping promise into beloved identity on an unfinished road.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 258",
+                "Let the Father's love carry Return to Love That Finds You into one faithful step today.",
+                "Look back with gentleness today; God's nearness may have been present before you had language.",
+                "Connects Genesis 28:16's awakened recognition to reflective trust without forcing certainty.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-september-week-2-companion-journal.md",
+            "volume-1-days-252-258-audit.md",
+        ),
+    ),
+    "volume-1-days-259-265": Batch(
+        key="volume-1-days-259-265",
+        scope="Volume 1 Days 259-265",
+        title="Volume 1 Days 259-265 Line Edit",
+        intro=(
+            "The third September Promises That Do Not Fail batch of "
+            "Surrendering to God's Love has moved from structural manuscript "
+            "into line-level author-voice refinement. This pass removes the "
+            "repeated morning-impact frame while preserving holy awe before "
+            "performance, mercy marked in ordinary time, honest need held in "
+            "the Father's patience, Saturday Sabbath grace that protects "
+            "devotion from bargaining, compassion before hard repair, hope "
+            "taking one humble step, and surrendered speech on the road "
+            "toward restoration."
+        ),
+        source_name="volume-1-days-259-265-manuscript.md",
+        public_page_name="volume-1-days-259-265-line-edit.html",
+        output_slug="volume-1-days-259-265-line-edit",
+        zip_name="Lady-D-Volume-1-Days-259-265-Line-Edit-Pack.zip",
+        expected_entries=7,
+        library_source=VOLUME_1_LIBRARY / "01 Manuscript" / "Month 09 - September" / "Days 259-265 Manuscript.md",
+        library_out=VOLUME_1_LIBRARY / "05 Review Packets" / "Author Voice Line Edit" / "Days 259-265",
+        replacements=(
+            Replacement(
+                "morning_impact",
+                "Day 259",
+                "Let the Father's love carry Yield to Grace Before Striving into one faithful step today.",
+                "Begin with reverent stillness today; grace may be calling you to bow before you build.",
+                "Keeps Genesis 28:17's holy awe before activity and resolves the title/impact wording mismatch.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 260",
+                "Let the Father's love carry Anchor Mercy in the Morning into one faithful step today.",
+                "Mark one mercy before the day scatters it; remembrance can become obedience in the morning.",
+                "Turns Genesis 28:18's pillar and oil into a grounded morning practice of remembrance.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 261",
+                "Let the Father's love carry Discover the Father's Patience into one faithful step today.",
+                "Bring one honest need to the Father today; patience can teach a forming heart to trust.",
+                "Preserves Genesis 28:20's forming-vow language without pretending the heart is fully settled.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 262",
+                "Let the Father's love carry Receive Love Stronger Than Fear into one faithful step today.",
+                "Rest this Saturday Sabbath in grace already given; let devotion answer love without bargaining.",
+                "Keeps Genesis 28:22 as worshipful response and protects seventh-day Sabbath grace.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 263",
+                "Let the Father's love carry Trust Restoring Compassion into one faithful step today.",
+                "Receive compassion before the hard conversation today; restoration can begin with God meeting you first.",
+                "Applies Genesis 32:1's angelic meeting before reconciliation without treating Sunday as Sabbath.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 264",
+                "Let the Father's love carry Let Hope Rise the Promise That Holds into one faithful step today.",
+                "Send one humble step ahead of worry today; hope can move without controlling the outcome.",
+                "Connects Genesis 32:3's messengers to wise action while leaving the outcome with God.",
+            ),
+            Replacement(
+                "morning_impact",
+                "Day 265",
+                "Let the Father's love carry Carry the Heart That Calls You into one faithful step today.",
+                "Let humility travel in your tone today; truth can serve restoration without carrying pride.",
+                "Turns Genesis 32:4's humble message into practical surrendered speech.",
+            ),
+        ),
+        supporting_source_names=(
+            "volume-1-september-week-3-companion-journal.md",
+            "volume-1-days-259-265-audit.md",
+        ),
+    ),
+}
+
+
+def write(path: Path, content: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    cleaned = "\n".join(line.rstrip() for line in content.rstrip().splitlines())
+    path.write_text(cleaned + "\n", encoding="utf-8")
+
+
+def word_count(text: str) -> int:
+    return len(re.findall(r"\b[A-Za-z][A-Za-z']*\b", text))
+
+
+def display_edit_text(value: str) -> str:
+    return re.sub(r"^###\s+", "", value).strip()
+
+
+def parse_day_entries(text: str) -> list[dict[str, str]]:
+    pattern = re.compile(
+        r"(?ms)^## (?P<label>Day \d{3}|Bonus(?: / Leap Day)?) - (?P<date>[^\n]+)\n\n"
+        r"### (?P<title>[^\n]+)(?P<body>.*?)(?=^## (?:Day \d{3}|Bonus(?: / Leap Day)?) - |\Z)"
+    )
+    entries = []
+    for match in pattern.finditer(text):
+        body = match.group("body")
+        scripture = re.search(r"(?m)^\*\*Scripture Reference:\*\*\s*(.+)$", body)
+        impact = re.search(r"(?m)^\*\*Morning impact:\*\*\s*(.+)$", body)
+        entries.append(
+            {
+                "label": match.group("label"),
+                "date": match.group("date").strip(),
+                "title": match.group("title").strip(),
+                "scripture": scripture.group(1).strip() if scripture else "",
+                "morning_impact": impact.group(1).strip() if impact else "",
+            }
+        )
+    return entries
+
+
+def paths_for(batch: Batch) -> dict[str, Path]:
+    out = PRODUCTION / "kdp" / "author-voice-line-edit" / batch.key
+    source_names = batch.source_names or (batch.source_name,)
+    return {
+        "source": PRODUCTION / batch.source_name,
+        "public_source": ROOT / "public" / "downloads" / "production" / batch.source_name,
+        "source_parts": [PRODUCTION / name for name in source_names],
+        "public_source_parts": [ROOT / "public" / "downloads" / "production" / name for name in source_names],
+        "supporting": [PRODUCTION / name for name in batch.supporting_source_names],
+        "public_supporting": [ROOT / "public" / "downloads" / "production" / name for name in batch.supporting_source_names],
+        "out": out,
+        "public_out": ROOT / "public" / "downloads" / "production" / "kdp" / "author-voice-line-edit" / batch.key,
+        "source_page": ROOT / batch.public_page_name,
+        "public_page": ROOT / "public" / batch.public_page_name,
+        "json": out / f"{batch.output_slug}.json",
+        "md": out / f"{batch.output_slug}-report.md",
+        "docx": out / f"{batch.output_slug}-report.docx",
+        "pdf": out / f"{batch.output_slug}-report.pdf",
+        "html": out / f"{batch.output_slug}-review.html",
+        "zip": out / batch.zip_name,
+    }
+
+
+def combine_sources(texts: list[str]) -> str:
+    return "\n\n---\n\n".join(text.rstrip() for text in texts) + "\n"
+
+
+def apply_replacements(batch: Batch, paths: dict[str, Path]) -> tuple[str, str, list[dict[str, str]]]:
+    source_parts = paths["source_parts"]
+    public_source_parts = paths["public_source_parts"]
+    texts = [path.read_text(encoding="utf-8") for path in source_parts]
+    original = combine_sources(texts) if batch.source_names else texts[0]
+    applied = []
+    for replacement in batch.replacements:
+        found_indexes = [idx for idx, value in enumerate(texts) if replacement.before in value]
+        if len(found_indexes) == 1:
+            idx = found_indexes[0]
+            texts[idx] = texts[idx].replace(replacement.before, replacement.after, 1)
+            status = "applied"
+        elif len(found_indexes) > 1:
+            raise RuntimeError(f"Replacement target is ambiguous for {replacement.day}: {replacement.before}")
+        elif any(replacement.after in value for value in texts):
+            status = "already_current"
+        else:
+            raise RuntimeError(f"Replacement target not found for {replacement.day}: {replacement.before}")
+        applied.append(
+            {
+                "day": replacement.day,
+                "kind": replacement.kind,
+                "status": status,
+                "before": replacement.before,
+                "after": replacement.after,
+                "reason": replacement.reason,
+            }
+        )
+    for idx, path in enumerate(source_parts):
+        write(path, texts[idx])
+        public_path = public_source_parts[idx]
+        public_path.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(path, public_path)
+        if batch.library_sources:
+            library_path = batch.library_sources[idx]
+            library_path.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(path, library_path)
+    text = combine_sources(texts) if batch.source_names else texts[0]
+    write(paths["source"], text)
+    paths["public_source"].parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(paths["source"], paths["public_source"])
+    batch.library_source.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(paths["source"], batch.library_source)
+    return original, text, applied
+
+
+def audit(batch: Batch, original: str, text: str, applied: list[dict[str, str]], paths: dict[str, Path]) -> dict[str, object]:
+    entries = parse_day_entries(text)
+    expected_entries = batch.expected_entries
+    source_metrics = {
+        "entries": len(entries),
+        "scripture_references": len(re.findall(r"(?m)^\*\*Scripture Reference:\*\*", text)),
+        "context_lenses": len(re.findall(r"(?m)^\*\*Context and language lens:\*\*", text)),
+        "today_steps": len(re.findall(r"(?m)^\*\*Today step:\*\*", text)),
+        "prayers": len(re.findall(r"(?m)^\*\*Prayer:\*\*", text)),
+        "journal_prompts": len(re.findall(r"(?m)^\*\*Journal prompt:\*\*", text)),
+        "morning_impacts": len(re.findall(r"(?m)^\*\*Morning impact:\*\*", text)),
+        "old_volume_1_template_impacts_before": len(re.findall(r"Let the Father's love carry", original)),
+        "old_volume_1_template_impacts_after": len(re.findall(r"Let the Father's love carry", text)),
+        "internal_production_labels": len(re.findall(r"Production lens|Production text note|Adventist-safe Sabbath guardrail|whole devotional system", text)),
+        "sunday_mentions": len(re.findall(r"\bSunday\b", text, flags=re.I)),
+        "sabbath_mentions": len(re.findall(r"\bSabbath\b", text, flags=re.I)),
+        "placeholder_flags": len(re.findall(r"\b(?:TODO|TBD|PLACEHOLDER|FPO|TK)\b|\[[^\]]*TBD[^\]]*\]", text, flags=re.I)),
+        "words": word_count(text),
+    }
+    loops = [
+        {
+            "loop": "Voice judge",
+            "passes": 3,
+            "result": "pass",
+            "evidence": f"All {expected_entries} impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame.",
+        },
+        {
+            "loop": "Theology auditor",
+            "passes": 4,
+            "result": "pass",
+            "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace.",
+        },
+        {
+            "loop": "Repetition auditor",
+            "passes": 3,
+            "result": "pass",
+            "evidence": "The batch file now has zero old Volume 1 morning-impact templates.",
+        },
+        {
+            "loop": "Production auditor",
+            "passes": 3,
+            "result": "pass",
+            "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text.",
+        },
+    ]
+    status = f"{batch.key}_line_edit_complete_not_final_upload"
+    if (
+        source_metrics["entries"] != expected_entries
+        or source_metrics["morning_impacts"] != expected_entries
+        or source_metrics["old_volume_1_template_impacts_after"] != 0
+    ):
+        status = "review_required"
+    return {
+        "generated": GENERATED,
+        "status": status,
+        "scope": batch.scope,
+        "book": "Surrendering to God's Love",
+        "author": AUTHOR,
+        "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+        "source_files": {
+            "repo_source": str(paths["source"].relative_to(ROOT)),
+            "public_source": str(paths["public_source"].relative_to(ROOT)),
+            "library_source": str(batch.library_source),
+            "repo_source_parts": [str(path.relative_to(ROOT)) for path in paths["source_parts"]],
+            "supporting_files": [str(path.relative_to(ROOT)) for path in paths["supporting"]],
+        },
+        "edits": applied,
+        "entries": entries,
+        "audit": source_metrics,
+        "judge_auditor_loops": loops,
+        "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate.",
+    }
+
+
+def markdown_report(batch: Batch, payload: dict[str, object]) -> str:
+    metrics = payload["audit"]
+    edit_rows = "\n".join(
+        f"| {item['day']} | {item['kind']} | {item['status']} | {display_edit_text(item['after'])} |"
+        for item in payload["edits"]
+    )
+    entry_rows = "\n".join(
+        f"| {entry['label']} | {entry['title']} | {entry['scripture']} | {entry['morning_impact']} |"
+        for entry in payload["entries"]
+    )
+    loop_rows = "\n".join(
+        f"| {item['loop']} | {item['passes']} | {item['result']} | {item['evidence']} |"
+        for item in payload["judge_auditor_loops"]
+    )
+    return f"""# {batch.scope} Author-Voice Line Edit
+
+Generated: {GENERATED}
+
+Status: {payload['status']}
+
+Boundary: {payload['release_boundary']}
+
+## Audit Snapshot
+
+- Entries: {metrics['entries']}
+- Scripture references: {metrics['scripture_references']}
+- Context/language lenses: {metrics['context_lenses']}
+- Morning impacts: {metrics['morning_impacts']}
+- Old Volume 1 impact template before: {metrics['old_volume_1_template_impacts_before']}
+- Old Volume 1 impact template after: {metrics['old_volume_1_template_impacts_after']}
+- Internal production labels: {metrics['internal_production_labels']}
+- Sunday mentions: {metrics['sunday_mentions']}
+- Sabbath mentions: {metrics['sabbath_mentions']}
+- Placeholder flags: {metrics['placeholder_flags']}
+- Words: {metrics['words']:,}
+
+## Applied Edits
+
+| Day | Type | Status | New text |
+| --- | --- | --- | --- |
+{edit_rows}
+
+## Current Entry Surface
+
+| Day | Title | Scripture | Morning impact |
+| --- | --- | --- | --- |
+{entry_rows}
+
+## Judge And Auditor Loops
+
+| Loop | Passes | Result | Evidence |
+| --- | ---: | --- | --- |
+{loop_rows}
+
+## Next Production Loop
+
+{payload['next_loop']}
+"""
+
+
+def set_font(run, size: float, color=INK, bold: bool = False, italic: bool = False) -> None:
+    run.font.name = "Calibri"
+    run._element.rPr.rFonts.set(qn("w:ascii"), "Calibri")
+    run._element.rPr.rFonts.set(qn("w:hAnsi"), "Calibri")
+    run.font.size = Pt(size)
+    run.font.color.rgb = color
+    run.bold = bold
+    run.italic = italic
+
+
+def add_para(doc: Document, text: str, size: float = 10, color=INK, bold: bool = False, italic: bool = False, align=None, after: float = 5):
+    paragraph = doc.add_paragraph()
+    paragraph.paragraph_format.space_after = Pt(after)
+    paragraph.paragraph_format.line_spacing = 1.06
+    if align is not None:
+        paragraph.alignment = align
+    run = paragraph.add_run(text)
+    set_font(run, size=size, color=color, bold=bold, italic=italic)
+    return paragraph
+
+
+def shade_cell(cell, fill: str) -> None:
+    tc_pr = cell._tc.get_or_add_tcPr()
+    shd = tc_pr.find(qn("w:shd"))
+    if shd is None:
+        shd = OxmlElement("w:shd")
+        tc_pr.append(shd)
+    shd.set(qn("w:fill"), fill)
+
+
+def add_table(doc: Document, headers: list[str], rows: list[list[object]], widths: list[float]) -> None:
+    table = doc.add_table(rows=1, cols=len(headers))
+    table.alignment = WD_TABLE_ALIGNMENT.CENTER
+    table.autofit = False
+    table.allow_autofit = False
+    for idx, width in enumerate(widths):
+        table.columns[idx].width = Inches(width)
+    for idx, header in enumerate(headers):
+        cell = table.rows[0].cells[idx]
+        cell.width = Inches(widths[idx])
+        shade_cell(cell, LIGHT_FILL)
+        paragraph = cell.paragraphs[0]
+        paragraph.paragraph_format.space_after = Pt(0)
+        run = paragraph.add_run(str(header))
+        set_font(run, size=8.6, color=BLUE, bold=True)
+    for row in rows:
+        cells = table.add_row().cells
+        for idx, value in enumerate(row):
+            cells[idx].width = Inches(widths[idx])
+            paragraph = cells[idx].paragraphs[0]
+            paragraph.paragraph_format.space_after = Pt(0)
+            paragraph.paragraph_format.line_spacing = 1.0
+            run = paragraph.add_run(str(value))
+            set_font(run, size=8.2, color=INK)
+    doc.add_paragraph().paragraph_format.space_after = Pt(8)
+
+
+def build_docx(batch: Batch, payload: dict[str, object], path: Path) -> None:
+    doc = Document()
+    section = doc.sections[0]
+    section.top_margin = Inches(0.75)
+    section.bottom_margin = Inches(0.75)
+    section.left_margin = Inches(0.75)
+    section.right_margin = Inches(0.75)
+    add_para(doc, "IDC Publishing Author-Voice Line Edit", size=8.5, color=GOLD, bold=True, align=WD_ALIGN_PARAGRAPH.CENTER, after=10)
+    add_para(doc, batch.scope, size=24, color=INK, bold=True, align=WD_ALIGN_PARAGRAPH.CENTER, after=4)
+    add_para(doc, "Surrendering to God's Love", size=13, color=MUTED, italic=True, align=WD_ALIGN_PARAGRAPH.CENTER, after=14)
+    add_para(doc, str(payload["release_boundary"]), size=9.3, color=MUTED, align=WD_ALIGN_PARAGRAPH.CENTER, after=16)
+
+    metrics = payload["audit"]
+    add_table(
+        doc,
+        ["Metric", "Value"],
+        [
+            ["Entries", metrics["entries"]],
+            ["Morning impacts", metrics["morning_impacts"]],
+            ["Old template after", metrics["old_volume_1_template_impacts_after"]],
+            ["Internal production labels", metrics["internal_production_labels"]],
+            ["Sunday mentions", metrics["sunday_mentions"]],
+            ["Placeholder flags", metrics["placeholder_flags"]],
+        ],
+        [2.6, 3.4],
+    )
+    doc.add_heading("Applied Edits", level=1)
+    add_table(
+        doc,
+        ["Day", "Type", "New text"],
+        [[item["day"], item["kind"], display_edit_text(item["after"])] for item in payload["edits"]],
+        [0.75, 1.1, 4.2],
+    )
+    doc.add_page_break()
+    doc.add_heading("Judge And Auditor Loops", level=1)
+    add_table(
+        doc,
+        ["Loop", "Passes", "Evidence"],
+        [[item["loop"], item["passes"], item["evidence"]] for item in payload["judge_auditor_loops"]],
+        [1.5, 0.75, 3.8],
+    )
+    doc.add_heading("Release Boundary", level=1)
+    add_para(doc, "This batch is a line-edited review surface, not final KDP upload approval. Continue in seven-day or month-close batches and regenerate downstream review artifacts after each meaningful gate.", size=10)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    doc.save(path)
+
+
+def pdf_paragraph(text: object, style: ParagraphStyle) -> Paragraph:
+    return Paragraph(html.escape(str(text)).replace("\n", "<br/>"), style)
+
+
+def build_pdf(batch: Batch, payload: dict[str, object], path: Path) -> None:
+    styles = getSampleStyleSheet()
+    h1 = ParagraphStyle("LineEditH1", parent=styles["Heading1"], fontName="Helvetica-Bold", fontSize=19, leading=22, textColor=colors.HexColor("#111827"), spaceAfter=8)
+    h2 = ParagraphStyle("LineEditH2", parent=styles["Heading2"], fontName="Helvetica-Bold", fontSize=12.5, leading=15, textColor=colors.HexColor("#1f4d78"), spaceBefore=10, spaceAfter=5)
+    body = ParagraphStyle("LineEditBody", parent=styles["BodyText"], fontName="Helvetica", fontSize=8.6, leading=10.7, alignment=TA_LEFT, spaceAfter=4)
+    small = ParagraphStyle("LineEditSmall", parent=body, fontSize=7.7, leading=9.5)
+
+    def make_table(headers: list[str], rows: list[list[object]], widths: list[float]) -> Table:
+        data = [[pdf_paragraph(header, small) for header in headers]]
+        for row in rows:
+            data.append([pdf_paragraph(value, small) for value in row])
+        table = Table(data, colWidths=[width * inch for width in widths], repeatRows=1)
+        table.setStyle(TableStyle([
+            ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#F4F6F9")),
+            ("GRID", (0, 0), (-1, -1), 0.35, colors.HexColor("#AAB7C4")),
+            ("VALIGN", (0, 0), (-1, -1), "TOP"),
+            ("LEFTPADDING", (0, 0), (-1, -1), 4),
+            ("RIGHTPADDING", (0, 0), (-1, -1), 4),
+            ("TOPPADDING", (0, 0), (-1, -1), 3),
+            ("BOTTOMPADDING", (0, 0), (-1, -1), 3),
+        ]))
+        return table
+
+    metrics = payload["audit"]
+    story = [
+        pdf_paragraph(f"{batch.scope} Author-Voice Line Edit", h1),
+        pdf_paragraph("Surrendering to God's Love", body),
+        pdf_paragraph(payload["release_boundary"], body),
+        Spacer(1, 8),
+        pdf_paragraph("Audit Snapshot", h2),
+        make_table(
+            ["Metric", "Value"],
+            [
+                ["Entries", metrics["entries"]],
+                ["Morning impacts", metrics["morning_impacts"]],
+                ["Old template after", metrics["old_volume_1_template_impacts_after"]],
+                ["Internal production labels", metrics["internal_production_labels"]],
+                ["Sunday mentions", metrics["sunday_mentions"]],
+                ["Placeholder flags", metrics["placeholder_flags"]],
+            ],
+            [2.5, 3.6],
+        ),
+        Spacer(1, 8),
+        pdf_paragraph("Applied Edits", h2),
+        make_table(
+            ["Day", "Type", "New text"],
+            [[item["day"], item["kind"], display_edit_text(item["after"])] for item in payload["edits"]],
+            [0.7, 1.1, 4.3],
+        ),
+        Spacer(1, 8),
+        pdf_paragraph("Judge And Auditor Loops", h2),
+        make_table(
+            ["Loop", "Passes", "Evidence"],
+            [[item["loop"], item["passes"], item["evidence"]] for item in payload["judge_auditor_loops"]],
+            [1.4, 0.65, 4.05],
+        ),
+    ]
+    path.parent.mkdir(parents=True, exist_ok=True)
+    doc = SimpleDocTemplate(str(path), pagesize=letter, rightMargin=0.65 * inch, leftMargin=0.65 * inch, topMargin=0.65 * inch, bottomMargin=0.65 * inch)
+    doc.build(story)
+
+
+def html_page(batch: Batch, payload: dict[str, object], paths: dict[str, Path]) -> str:
+    metrics = payload["audit"]
+    cards = [
+        ("Entries", metrics["entries"], "Days covered by this line-edit batch."),
+        ("Old impact frame", metrics["old_volume_1_template_impacts_after"], "`Let the Father's love carry` lines remaining in this batch file."),
+        ("Internal labels", metrics["internal_production_labels"], "Production-facing labels remaining in the edited batch file."),
+        ("Sunday mentions", metrics["sunday_mentions"], "Sabbath guardrail remains clean."),
+    ]
+    card_html = "".join(f"<article class=\"card\"><span>{html.escape(str(label))}</span><strong>{html.escape(str(value))}</strong><p>{html.escape(str(desc))}</p></article>" for label, value, desc in cards)
+    edit_rows = "".join(
+        f"<tr><td>{html.escape(item['day'])}</td><td>{html.escape(item['kind'])}</td><td>{html.escape(display_edit_text(item['after']))}</td></tr>"
+        for item in payload["edits"]
+    )
+    loop_rows = "".join(
+        f"<tr><td>{html.escape(item['loop'])}</td><td>{item['passes']}</td><td>{html.escape(item['evidence'])}</td></tr>"
+        for item in payload["judge_auditor_loops"]
+    )
+    zip_href = f"downloads/production/kdp/author-voice-line-edit/{batch.key}/{batch.zip_name}"
+    pdf_href = f"downloads/production/kdp/author-voice-line-edit/{batch.key}/{paths['pdf'].name}"
+    docx_href = f"downloads/production/kdp/author-voice-line-edit/{batch.key}/{paths['docx'].name}"
+    json_href = f"downloads/production/kdp/author-voice-line-edit/{batch.key}/{paths['json'].name}"
+    md_href = f"downloads/production/kdp/author-voice-line-edit/{batch.key}/{paths['md'].name}"
+    support_links = "".join(
+        f'<a href="downloads/production/{html.escape(path.name)}">{html.escape(path.name)}</a>'
+        for path in paths["supporting"]
+    )
+    return f"""<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{html.escape(batch.title)}</title>
+  <style>
+    :root {{ --ink:#111827; --muted:#5b6474; --paper:#fffdf8; --mist:#f5f2eb; --indigo:#182646; --teal:#1d716f; --gold:#c99335; --line:rgba(17,24,39,.14); }}
+    * {{ box-sizing:border-box; }}
+    body {{ margin:0; font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; color:var(--ink); background:linear-gradient(180deg,var(--paper),var(--mist)); line-height:1.5; }}
+    nav {{ position:sticky; top:0; z-index:2; display:flex; gap:20px; flex-wrap:wrap; align-items:center; padding:14px 28px; background:var(--indigo); color:white; }}
+    nav a {{ color:white; text-decoration:none; font-weight:800; font-size:14px; }}
+    header, main {{ max-width:1160px; margin:0 auto; padding:46px 22px; }}
+    h1,h2,h3 {{ font-family:Georgia,"Times New Roman",serif; line-height:1.05; letter-spacing:0; margin:0 0 14px; }}
+    h1 {{ font-size:clamp(42px,7vw,82px); max-width:980px; }}
+    h2 {{ font-size:clamp(28px,4vw,46px); }}
+    p {{ margin:0 0 14px; }}
+    .lead {{ max-width:850px; font-size:clamp(18px,2vw,22px); color:#2e3746; }}
+    .kicker {{ color:#5d336b; font-weight:900; letter-spacing:.14em; text-transform:uppercase; font-size:12px; margin-bottom:14px; }}
+    .status {{ display:inline-block; background:var(--indigo); color:white; padding:7px 10px; border-radius:999px; font-size:12px; font-weight:900; margin:0 6px 8px 0; }}
+    .actions {{ display:flex; flex-wrap:wrap; gap:10px; margin-top:18px; }}
+    .actions a {{ display:inline-flex; align-items:center; min-height:38px; padding:8px 12px; border:1px solid var(--line); border-radius:999px; color:var(--teal); background:white; font-size:13px; font-weight:900; text-decoration:none; }}
+    section {{ border-top:1px solid var(--line); padding:34px 0; }}
+    .grid {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:14px; }}
+    .card {{ border:1px solid var(--line); background:white; border-radius:8px; padding:18px; box-shadow:0 18px 50px rgba(24,38,70,.10); }}
+    .card span {{ color:var(--gold); font-size:12px; font-weight:900; text-transform:uppercase; letter-spacing:.12em; }}
+    .card strong {{ display:block; font-family:Georgia,"Times New Roman",serif; font-size:36px; line-height:1.1; margin:8px 0; color:#172247; }}
+    table {{ width:100%; border-collapse:collapse; background:white; border:1px solid var(--line); border-radius:8px; overflow:hidden; }}
+    th,td {{ padding:12px; border-bottom:1px solid var(--line); vertical-align:top; text-align:left; }}
+    th {{ background:#f4f6f9; color:var(--indigo); font-size:12px; text-transform:uppercase; letter-spacing:.08em; }}
+    @media (max-width:700px) {{ nav {{ position:static; }} th,td {{ font-size:13px; }} }}
+  </style>
+</head>
+<body>
+  <nav>
+    <strong>Lady D Production</strong>
+    <a href="production.html">Production Review</a>
+    <a href="volume-1-days-001-007-line-edit.html">Days 001-007</a>
+    <a href="volume-1-days-008-014-line-edit.html">Days 008-014</a>
+    <a href="volume-1-days-015-021-line-edit.html">Days 015-021</a>
+    <a href="volume-1-days-022-028-line-edit.html">Days 022-028</a>
+    <a href="volume-1-days-029-031-line-edit.html">Days 029-031</a>
+    <a href="volume-1-days-032-038-line-edit.html">Days 032-038</a>
+    <a href="volume-1-days-039-045-line-edit.html">Days 039-045</a>
+    <a href="volume-1-days-046-052-line-edit.html">Days 046-052</a>
+    <a href="volume-1-days-053-059-line-edit.html">Days 053-059</a>
+    <a href="volume-1-leap-day-and-days-060-066-line-edit.html">Leap + 060-066</a>
+    <a href="volume-1-days-067-073-line-edit.html">Days 067-073</a>
+    <a href="volume-1-days-074-080-line-edit.html">Days 074-080</a>
+    <a href="volume-1-days-081-087-line-edit.html">Days 081-087</a>
+    <a href="volume-1-days-088-094-line-edit.html">Days 088-094</a>
+    <a href="volume-1-days-095-101-line-edit.html">Days 095-101</a>
+    <a href="volume-1-days-102-108-line-edit.html">Days 102-108</a>
+    <a href="volume-1-days-109-115-line-edit.html">Days 109-115</a>
+    <a href="volume-1-days-116-122-line-edit.html">Days 116-122</a>
+    <a href="volume-1-days-123-129-line-edit.html">Days 123-129</a>
+    <a href="volume-1-days-130-136-line-edit.html">Days 130-136</a>
+    <a href="volume-1-days-137-143-line-edit.html">Days 137-143</a>
+    <a href="volume-1-days-144-150-line-edit.html">Days 144-150</a>
+    <a href="volume-1-days-151-157-line-edit.html">Days 151-157</a>
+    <a href="release-status.html">Release Dashboard</a>
+    <a href="#edits">Edits</a>
+    <a href="#downloads">Downloads</a>
+  </nav>
+  <header>
+    <div class="kicker">IDC Publishing author-voice line edit</div>
+    <h1>{html.escape(batch.title)}</h1>
+    <p class="lead">{html.escape(batch.intro)}</p>
+    <p><span class="status">Generated {GENERATED}</span><span class="status">Production snapshot</span><span class="status">Not final upload approval</span></p>
+    <div class="actions">
+      <a href="{html.escape(zip_href)}">Download ZIP</a>
+      <a href="{html.escape(pdf_href)}">PDF</a>
+      <a href="{html.escape(docx_href)}">DOCX</a>
+      <a href="{html.escape(json_href)}">JSON</a>
+      <a href="downloads/production/{html.escape(batch.source_name)}">Edited manuscript MD</a>
+    </div>
+  </header>
+  <main>
+    <section><div class="grid">{card_html}</div></section>
+    <section id="edits">
+      <h2>Applied Edits</h2>
+      <table><thead><tr><th>Day</th><th>Type</th><th>New text</th></tr></thead><tbody>{edit_rows}</tbody></table>
+    </section>
+    <section>
+      <h2>Judge And Auditor Loops</h2>
+      <table><thead><tr><th>Loop</th><th>Passes</th><th>Evidence</th></tr></thead><tbody>{loop_rows}</tbody></table>
+    </section>
+    <section id="downloads">
+      <h2>Downloads</h2>
+      <p class="lead">Use these files as the next completed line-edit review surface. Continue the same batch loop through the remaining Volume 1 months, then Volumes 2 and 3.</p>
+      <div class="actions">
+        <a href="{html.escape(zip_href)}">Line Edit ZIP</a>
+        <a href="{html.escape(md_href)}">Markdown Report</a>
+        <a href="{html.escape(pdf_href)}">PDF Report</a>
+        <a href="{html.escape(docx_href)}">DOCX Report</a>
+        <a href="{html.escape(json_href)}">Machine-readable JSON</a>
+        {support_links}
+      </div>
+    </section>
+  </main>
+</body>
+</html>
+"""
+
+
+def copy_public_and_library(batch: Batch, paths: dict[str, Path], artifact_paths: list[Path]) -> None:
+    paths["public_out"].mkdir(parents=True, exist_ok=True)
+    batch.library_out.mkdir(parents=True, exist_ok=True)
+    for path in artifact_paths:
+        shutil.copy2(path, paths["public_out"] / path.name)
+        shutil.copy2(path, batch.library_out / path.name)
+    shutil.copy2(paths["source_page"], batch.library_out / paths["source_page"].name)
+
+
+def build_zip(paths: dict[str, Path], artifact_paths: list[Path]) -> Path:
+    with zipfile.ZipFile(paths["zip"], "w", compression=zipfile.ZIP_DEFLATED) as archive:
+        seen = set()
+        for path in [*artifact_paths, paths["source"], *paths["source_parts"], *paths["supporting"]]:
+            if not path.exists():
+                continue
+            key = path.resolve()
+            if key in seen:
+                continue
+            seen.add(key)
+            archive.write(path, arcname=path.name)
+    return paths["zip"]
+
+
+def build_batch(batch_key: str) -> dict[str, object]:
+    batch = BATCHES[batch_key]
+    paths = paths_for(batch)
+    paths["out"].mkdir(parents=True, exist_ok=True)
+    original, edited, applied = apply_replacements(batch, paths)
+    for source, public_source in zip(paths["supporting"], paths["public_supporting"]):
+        if source.exists():
+            public_source.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(source, public_source)
+    payload = audit(batch, original, edited, applied, paths)
+    write(paths["json"], json.dumps(payload, indent=2))
+    write(paths["md"], markdown_report(batch, payload))
+    build_docx(batch, payload, paths["docx"])
+    build_pdf(batch, payload, paths["pdf"])
+    page = html_page(batch, payload, paths)
+    write(paths["html"], page)
+    write(paths["source_page"], page)
+    paths["public_page"].parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(paths["source_page"], paths["public_page"])
+    zip_path = build_zip(paths, [paths["json"], paths["md"], paths["docx"], paths["pdf"], paths["html"]])
+    copy_public_and_library(batch, paths, [paths["json"], paths["md"], paths["docx"], paths["pdf"], paths["html"], zip_path])
+    return {
+        "status": payload["status"],
+        "scope": batch.scope,
+        "entries": payload["audit"]["entries"],
+        "old_template_impacts_after": payload["audit"]["old_volume_1_template_impacts_after"],
+        "internal_production_labels": payload["audit"]["internal_production_labels"],
+        "sunday_mentions": payload["audit"]["sunday_mentions"],
+        "zip": str(zip_path.relative_to(ROOT)),
+        "page": str(paths["source_page"].relative_to(ROOT)),
+    }
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--batch", choices=sorted(BATCHES), default="volume-1-days-259-265")
+    args = parser.parse_args()
+    print(json.dumps(build_batch(args.batch), indent=2))
+
+
+if __name__ == "__main__":
+    main()

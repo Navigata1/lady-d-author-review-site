@@ -1,0 +1,38 @@
+{
+  "generated": "2026-07-19",
+  "state": "lady-d-enhanced-state-of-the-union-2026-07-19.html",
+  "plan": "lady-d-enhanced-plan-of-attack-2026-07-19.html",
+  "package_total": 2000,
+  "paid_total": 600,
+  "balance_due": 1400,
+  "stats": {
+    "products": 6,
+    "words": 369564,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 1322,
+    "placeholder_markers": 0,
+    "decision_items": 0,
+    "review_required_contexts": 0
+  },
+  "line_edit_stats": {
+    "batch_files": 39,
+    "edited_entries": 266,
+    "stale_volume1_impact_templates": 100
+  },
+  "benchmark": {
+    "dir": "/tmp/lady-d-template-benchmark-1784420945307",
+    "checks": 10,
+    "all_200": true,
+    "console_errors": 0,
+    "missing_images": 0,
+    "overflow_total": 0,
+    "titles": [
+      "Joyce Ann Ashford Finalization Package",
+      "Lady D Devotional Library \u2014 Author Review Portal",
+      "Oakwood AI Lab \u2014 IDC Proposal Package",
+      "Susan Damon Publishing Hub",
+      "Susan Damon Publishing Proposal & Execute-Ready Invoice"
+    ]
+  },
+  "tier": "Tier B browser-rich enhanced report, no video rendered"
+}

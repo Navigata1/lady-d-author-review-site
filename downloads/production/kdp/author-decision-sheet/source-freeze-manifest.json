@@ -1,0 +1,134 @@
+{
+  "generated": "2026-07-08",
+  "commit": "55a6f74",
+  "status": "source_freeze_manifest_for_review_not_final_upload",
+  "freeze_boundary": "These hashes describe the current review surfaces only. Final freeze happens after author decisions, Bible policy, final copyedit, cover lock, KDP Previewer, and physical proof.",
+  "files": [
+    {
+      "path": "downloads/production/master/volume-1-master-interior-manuscript.md",
+      "exists": true,
+      "bytes": 785562,
+      "sha256": "67738c55a02bc45d21e4e30adbd3348d01657213641ddb1dc36e0631bfa5807e",
+      "word_count": 128276
+    },
+    {
+      "path": "downloads/production/master/volume-2-master-interior-manuscript.md",
+      "exists": true,
+      "bytes": 602832,
+      "sha256": "b41bff9329d4989e25845ec7fba237b642f68472fafcd2e3a8611e4ccade42e9",
+      "word_count": 95114
+    },
+    {
+      "path": "downloads/production/master/volume-3-master-interior-manuscript.md",
+      "exists": true,
+      "bytes": 576827,
+      "sha256": "97fa781cf0e4a237e3e7e2ab150d92a41e3eda8acad024bed54872d66a28fb94",
+      "word_count": 91521
+    },
+    {
+      "path": "downloads/production/master/volume-1-master-companion-journal.md",
+      "exists": true,
+      "bytes": 131758,
+      "sha256": "48fbf32d67f70f06178356abaf42054c68beef5abc9898b5d98b5b39f21e4ac8",
+      "word_count": 19854
+    },
+    {
+      "path": "downloads/production/master/volume-2-master-companion-journal.md",
+      "exists": true,
+      "bytes": 112931,
+      "sha256": "a611a6eda81ad758c132c948a0733061fa0a2632661321e3d13783ea7dc69be8",
+      "word_count": 17134
+    },
+    {
+      "path": "downloads/production/master/volume-3-master-companion-journal.md",
+      "exists": true,
+      "bytes": 117300,
+      "sha256": "505e92e6676b1d27c19ef829be093899e81da8d5fb86ed336a963d39e8ab7369",
+      "word_count": 17665
+    },
+    {
+      "path": "downloads/production/kdp/interior-drafts/volume-1/volume-1-full-6x9-interior-draft.pdf",
+      "exists": true,
+      "bytes": 1642158,
+      "sha256": "feb14859dc292a2a0c885e682547579a899d1f34277916224f0e31e0e60d6d6a",
+      "word_count": null
+    },
+    {
+      "path": "downloads/production/kdp/interior-drafts/volume-2/volume-2-full-6x9-interior-draft.pdf",
+      "exists": true,
+      "bytes": 1405179,
+      "sha256": "019a85ab3257a8b89336b124195b04990098d72a2ca403b8c01ba43d3c714dcd",
+      "word_count": null
+    },
+    {
+      "path": "downloads/production/kdp/interior-drafts/volume-3/volume-3-full-6x9-interior-draft.pdf",
+      "exists": true,
+      "bytes": 1628589,
+      "sha256": "a1ae0bea9ebaf985f0e4c35f7d879fffbb766f6efa3dbf96e1b4b1882e619d04",
+      "word_count": null
+    },
+    {
+      "path": "downloads/production/kdp/companion-journal-drafts/volume-1/volume-1-companion-journal-6x9-draft.pdf",
+      "exists": true,
+      "bytes": 983685,
+      "sha256": "97e800d1951c8bfc1b6e6824879c6d6724a918a463a8607f49eb95138e6a2725",
+      "word_count": null
+    },
+    {
+      "path": "downloads/production/kdp/companion-journal-drafts/volume-2/volume-2-companion-journal-6x9-draft.pdf",
+      "exists": true,
+      "bytes": 943804,
+      "sha256": "54323dcbd2951d4cdf9607a17ce385843b6bf575b18c318ea55b07219b9189dd",
+      "word_count": null
+    },
+    {
+      "path": "downloads/production/kdp/companion-journal-drafts/volume-3/volume-3-companion-journal-6x9-draft.pdf",
+      "exists": true,
+      "bytes": 951019,
+      "sha256": "0d882796ce880cb53fb47614aafab9324bc367773f698d42c44b1fdd9c1e5b77",
+      "word_count": null
+    },
+    {
+      "path": "downloads/production/kdp/full-wrap-drafts/volume-1-path-route-white-paper-full-wrap-draft.pdf",
+      "exists": true,
+      "bytes": 719342,
+      "sha256": "f8840b1e54c81d051e81a340d64f31f38b810fa4255c88e006374b82db58c8ba",
+      "word_count": null
+    },
+    {
+      "path": "downloads/production/kdp/full-wrap-drafts/volume-2-path-route-white-paper-full-wrap-draft.pdf",
+      "exists": true,
+      "bytes": 878866,
+      "sha256": "72bc8192f154115be7c30bc9d7fcc7f089db6a5e90058fdfb6d328470fbff774",
+      "word_count": null
+    },
+    {
+      "path": "downloads/production/kdp/full-wrap-drafts/volume-3-path-route-white-paper-full-wrap-draft.pdf",
+      "exists": true,
+      "bytes": 761132,
+      "sha256": "aeaad97814ac97aeccca6aaee155ea0e158f34ae929c6bb6da7fe1ad913790e2",
+      "word_count": null
+    },
+    {
+      "path": "downloads/production/kdp/companion-journal-full-wrap-drafts/volume-1-companion-journal-path-route-white-paper-full-wrap-draft.pdf",
+      "exists": true,
+      "bytes": 702215,
+      "sha256": "c03d8e80b71106cc8c86003dbd380fc58cf1c038b88241497596365f5e08ff8e",
+      "word_count": null
+    },
+    {
+      "path": "downloads/production/kdp/companion-journal-full-wrap-drafts/volume-2-companion-journal-path-route-white-paper-full-wrap-draft.pdf",
+      "exists": true,
+      "bytes": 866858,
+      "sha256": "d0d78f9c6e6bc264a513869a6dd6046b8f031e96747bc659f74a408d82978315",
+      "word_count": null
+    },
+    {
+      "path": "downloads/production/kdp/companion-journal-full-wrap-drafts/volume-3-companion-journal-path-route-white-paper-full-wrap-draft.pdf",
+      "exists": true,
+      "bytes": 757150,
+      "sha256": "5055a5952d70e7a8703e016fe83c4bbf0ad91242f75d799e1b36d53d8a299a3e",
+      "word_count": null
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "generated": "2026-07-08",
+  "status": "volume-1-days-151-157_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Days 151-157",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/volume-1-days-151-157-manuscript.md",
+    "public_source": "public/downloads/production/volume-1-days-151-157-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/01 Manuscript/Month 06 - June/Days 151-157 Manuscript.md",
+    "repo_source_parts": [
+      "downloads/production/volume-1-days-151-157-manuscript.md"
+    ],
+    "supporting_files": [
+      "downloads/production/volume-1-may-close-and-june-week-1-companion-journal.md",
+      "downloads/production/volume-1-days-151-157-audit.md"
+    ]
+  },
+  "edits": [
+    {
+      "day": "Day 151",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Embrace Covenant Mercy into one faithful step today.",
+      "after": "Trust the Father with the calendar today; covenant mercy can hold the season you cannot hurry.",
+      "reason": "Turns Genesis 1:14's appointed times into surrendered trust over today's faithful action."
+    },
+    {
+      "day": "Day 152",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Rest in Beloved Identity into one faithful step today.",
+      "after": "Receive the light God gives today; beloved identity does not need to manufacture its own brightness.",
+      "reason": "Keeps Genesis 1:15's appointed light as received gift rather than self-made identity."
+    },
+    {
+      "day": "Day 153",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Wake Up to Love That Finds You into one faithful step today.",
+      "after": "Honor your assigned measure today; the Father's love frees you to shine without comparison.",
+      "reason": "Preserves Genesis 1:16's distinct lights and assignments without rivalry."
+    },
+    {
+      "day": "Day 154",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Fire Refine Grace Before Striving into one faithful step today.",
+      "after": "Receive your placement today; grace can make service useful without asking visibility to prove your worth.",
+      "reason": "Connects Genesis 1:17's God-set placement to service free from performance pressure."
+    },
+    {
+      "day": "Day 155",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Come Home to Mercy in the Morning into one faithful step today.",
+      "after": "Let mercy govern the mixture today; the Father can separate light from darkness without shaming you.",
+      "reason": "Keeps Genesis 1:18's ordered rule and separation pastoral and practical."
+    },
+    {
+      "day": "Day 156",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Practice the Father's Patience into one faithful step today.",
+      "after": "Close this day with the Father's patience; faithful boundaries can leave tomorrow in His hands.",
+      "reason": "Turns Genesis 1:19's evening-morning rhythm into a concrete boundary and trust line."
+    },
+    {
+      "day": "Day 157",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Surrender to Love Stronger Than Fear into one faithful step today.",
+      "after": "Rest this Saturday Sabbath before you move; love restores living motion without fear's pressure.",
+      "reason": "Keeps the Adventist seventh-day Sabbath frame and Genesis 1:20's living movement from God."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Day 151",
+      "date": "May 31",
+      "title": "Embrace Covenant Mercy",
+      "scripture": "Genesis 1:14",
+      "morning_impact": "Trust the Father with the calendar today; covenant mercy can hold the season you cannot hurry."
+    },
+    {
+      "label": "Day 152",
+      "date": "June 1",
+      "title": "Rest in Beloved Identity",
+      "scripture": "Genesis 1:15",
+      "morning_impact": "Receive the light God gives today; beloved identity does not need to manufacture its own brightness."
+    },
+    {
+      "label": "Day 153",
+      "date": "June 2",
+      "title": "Wake Up to Love That Finds You",
+      "scripture": "Genesis 1:16",
+      "morning_impact": "Honor your assigned measure today; the Father's love frees you to shine without comparison."
+    },
+    {
+      "label": "Day 154",
+      "date": "June 3",
+      "title": "Let Fire Refine Grace Before Performance",
+      "scripture": "Genesis 1:17",
+      "morning_impact": "Receive your placement today; grace can make service useful without asking visibility to prove your worth."
+    },
+    {
+      "label": "Day 155",
+      "date": "June 4",
+      "title": "Come Home to Mercy in the Morning",
+      "scripture": "Genesis 1:18",
+      "morning_impact": "Let mercy govern the mixture today; the Father can separate light from darkness without shaming you."
+    },
+    {
+      "label": "Day 156",
+      "date": "June 5",
+      "title": "Practice the Father's Patience",
+      "scripture": "Genesis 1:19",
+      "morning_impact": "Close this day with the Father's patience; faithful boundaries can leave tomorrow in His hands."
+    },
+    {
+      "label": "Day 157",
+      "date": "June 6",
+      "title": "Surrender to Love Stronger Than Fear",
+      "scripture": "Genesis 1:20",
+      "morning_impact": "Rest this Saturday Sabbath before you move; love restores living motion without fear's pressure."
+    }
+  ],
+  "audit": {
+    "entries": 7,
+    "scripture_references": 7,
+    "context_lenses": 7,
+    "today_steps": 7,
+    "prayers": 7,
+    "journal_prompts": 7,
+    "morning_impacts": 7,
+    "old_volume_1_template_impacts_before": 7,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 7,
+    "placeholder_flags": 0,
+    "words": 2496
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "All 7 impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The batch file now has zero old Volume 1 morning-impact templates."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate."
+}

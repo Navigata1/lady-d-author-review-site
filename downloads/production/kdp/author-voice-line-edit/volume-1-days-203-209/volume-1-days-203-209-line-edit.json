@@ -1,0 +1,172 @@
+{
+  "generated": "2026-07-09",
+  "status": "volume-1-days-203-209_line_edit_complete_not_final_upload",
+  "scope": "Volume 1 Days 203-209",
+  "book": "Surrendering to God's Love",
+  "author": "Susan \"Lady D\" Damon",
+  "release_boundary": "Line-edited review batch. This is not final KDP upload approval.",
+  "source_files": {
+    "repo_source": "downloads/production/volume-1-days-203-209-manuscript.md",
+    "public_source": "public/downloads/production/volume-1-days-203-209-manuscript.md",
+    "library_source": "/Users/IDC2.5/Documents/LADY D/Production Library/01 Surrendering to God's Love/01 Manuscript/Month 07 - July/Days 203-209 Manuscript.md",
+    "repo_source_parts": [
+      "downloads/production/volume-1-days-203-209-manuscript.md"
+    ],
+    "supporting_files": [
+      "downloads/production/volume-1-july-week-4-companion-journal.md",
+      "downloads/production/volume-1-days-203-209-audit.md"
+    ]
+  },
+  "edits": [
+    {
+      "day": "Day 203",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Behold the Father's Patience into one faithful step today.",
+      "after": "Honor one clear detail today; the Father's patience is specific even while the promise is still future.",
+      "reason": "Keeps Genesis 15:19's named promise specificity while making waiting a faithful, concrete practice."
+    },
+    {
+      "day": "Day 204",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Follow Love Stronger Than Fear into one faithful step today.",
+      "after": "Name the hard place before God today; His promise can hold what fear keeps vague.",
+      "reason": "Preserves Genesis 15:20's contested-place realism while putting fear under God's named promise."
+    },
+    {
+      "day": "Day 205",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Rest in Restoring Compassion into one faithful step today.",
+      "after": "Give the overwhelming concern a boundary today; God's compassion is larger than what surrounds you.",
+      "reason": "Connects Genesis 15:21's completed land-list boundary to practical rest under God's compassion."
+    },
+    {
+      "day": "Day 206",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Wake Up to the Promise That Holds into one faithful step today.",
+      "after": "Rest this Saturday Sabbath under El Shaddai; time has not weakened the promise God holds.",
+      "reason": "Keeps the July 25 Saturday Sabbath frame and Genesis 17:1's Almighty self-revelation before obedience."
+    },
+    {
+      "day": "Day 207",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Let Fire Refine the Heart That Calls You into one faithful step today.",
+      "after": "Receive God's promise before striving today; covenant mercy can refine fear's small expectations.",
+      "reason": "Keeps Genesis 17:2's covenant initiative and fruitfulness grounded in reception before striving."
+    },
+    {
+      "day": "Day 208",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Come Home to Love That Sends You into one faithful step today.",
+      "after": "Bow without defensiveness today; the Father can speak tenderly to a surrendered heart.",
+      "reason": "Preserves Genesis 17:3's reverent posture as safe surrender before the God who speaks."
+    },
+    {
+      "day": "Day 209",
+      "kind": "morning_impact",
+      "status": "applied",
+      "before": "Let the Father's love carry Practice Covenant Mercy into one faithful step today.",
+      "after": "Plant one small mercy today; God can multiply fruit you cannot yet measure.",
+      "reason": "Connects Genesis 17:6's future fruitfulness to a small covenant-mercy practice without forcing outcomes."
+    }
+  ],
+  "entries": [
+    {
+      "label": "Day 203",
+      "date": "July 22",
+      "title": "Behold the Father's Patience",
+      "scripture": "Genesis 15:19",
+      "morning_impact": "Honor one clear detail today; the Father's patience is specific even while the promise is still future."
+    },
+    {
+      "label": "Day 204",
+      "date": "July 23",
+      "title": "Follow Love Stronger Than Fear",
+      "scripture": "Genesis 15:20",
+      "morning_impact": "Name the hard place before God today; His promise can hold what fear keeps vague."
+    },
+    {
+      "label": "Day 205",
+      "date": "July 24",
+      "title": "Rest in Restoring Compassion",
+      "scripture": "Genesis 15:21",
+      "morning_impact": "Give the overwhelming concern a boundary today; God's compassion is larger than what surrounds you."
+    },
+    {
+      "label": "Day 206",
+      "date": "July 25",
+      "title": "Wake Up to the Promise That Holds",
+      "scripture": "Genesis 17:1",
+      "morning_impact": "Rest this Saturday Sabbath under El Shaddai; time has not weakened the promise God holds."
+    },
+    {
+      "label": "Day 207",
+      "date": "July 26",
+      "title": "Let Fire Refine the Heart That Calls You",
+      "scripture": "Genesis 17:2",
+      "morning_impact": "Receive God's promise before striving today; covenant mercy can refine fear's small expectations."
+    },
+    {
+      "label": "Day 208",
+      "date": "July 27",
+      "title": "Come Home to Love That Sends You",
+      "scripture": "Genesis 17:3",
+      "morning_impact": "Bow without defensiveness today; the Father can speak tenderly to a surrendered heart."
+    },
+    {
+      "label": "Day 209",
+      "date": "July 28",
+      "title": "Practice Covenant Mercy",
+      "scripture": "Genesis 17:6",
+      "morning_impact": "Plant one small mercy today; God can multiply fruit you cannot yet measure."
+    }
+  ],
+  "audit": {
+    "entries": 7,
+    "scripture_references": 7,
+    "context_lenses": 7,
+    "today_steps": 7,
+    "prayers": 7,
+    "journal_prompts": 7,
+    "morning_impacts": 7,
+    "old_volume_1_template_impacts_before": 7,
+    "old_volume_1_template_impacts_after": 0,
+    "internal_production_labels": 0,
+    "sunday_mentions": 0,
+    "sabbath_mentions": 8,
+    "placeholder_flags": 0,
+    "words": 2779
+  },
+  "judge_auditor_loops": [
+    {
+      "loop": "Voice judge",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "All 7 impact lines now vary by entry theme and avoid the repeated `Let the Father's love carry` frame."
+    },
+    {
+      "loop": "Theology auditor",
+      "passes": 4,
+      "result": "pass",
+      "evidence": "Sabbath remains seventh-day/Saturday; commandment-keeping and obedience stay framed as response to grace."
+    },
+    {
+      "loop": "Repetition auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "The batch file now has zero old Volume 1 morning-impact templates."
+    },
+    {
+      "loop": "Production auditor",
+      "passes": 3,
+      "result": "pass",
+      "evidence": "Repo source, public mirror, and Production Library manuscript receive the same edited text."
+    }
+  ],
+  "next_loop": "Continue author-voice line edits in seven-day or month-close batches, then regenerate masters/interiors and update the review site after each meaningful gate."
+}
