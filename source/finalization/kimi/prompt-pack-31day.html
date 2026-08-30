@@ -1,0 +1,2162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Thirty-One Mornings of Light — 31-Day Visual Devotional Generation Spec · Lady D Command Suite</title>
+<meta name="description" content="The complete 31-day visual devotional generation spec for Susan “Lady D” Damon: four movements, thirty-one fully-specced days — scripture anchors, reflections, environments, palettes, type moods, motion notes, and copy-ready image prompts.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Pinyon+Script&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+--ink:#0f1b2e; --ink-2:#0b1626; --indigo:#1c3a5e; --linen:#f2ead9; --linen-dim:#cdc3b0;
+--paper:#f6efe2; --gold:#cb9a4c; --gold-soft:#e0bd7f; --madder:#a8392b; --willow:#6f8a66;
+--v1-rose:#c98aa8; --v1-lavender:#9d7fc4; --v1-sunrise:#e8a35c;
+--v2-olive:#7d9263; --v2-gold:#d3ac5e; --v3-blue:#5b87c7; --v3-ray:#f0c869;
+--ok:#5f9e6e; --warn:#d9a441; --wait:#c96f5a;
+--lavender:#b48ac2; --royal:#5d3f82; --sunrise:#e8a35c;
+--gold-deep:#a67c2e; --cardline:#e4d8bf; --cardbg:#fffdf7; --bodytext:#3c3428;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Spectral",Georgia,serif;font-size:18px;line-height:1.7;overflow-x:hidden}
+::selection{background:rgba(203,154,76,.35)}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+.eyebrow{font-family:"Inter",sans-serif;font-size:.72rem;font-weight:600;letter-spacing:.3em;text-transform:uppercase;color:var(--gold);margin:0}
+h1,h2,h3{font-family:"Fraunces",serif}
+
+/* ---------- NAV ---------- */
+.nav{position:fixed;top:0;left:0;right:0;z-index:60;border-bottom:1px solid transparent;transition:background .35s ease,border-color .35s ease}
+.nav.scrolled{background:rgba(11,22,38,.85);-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);border-bottom-color:rgba(203,154,76,.25)}
+.nav-inner{max-width:1180px;margin:0 auto;padding:14px 28px;display:flex;align-items:center;justify-content:space-between;gap:18px}
+.brand{display:flex;align-items:center;gap:12px;text-decoration:none}
+.brand svg{flex:none}
+.brand-name{font-family:"Fraunces",serif;font-weight:600;font-size:1.14rem;color:var(--linen);line-height:1.1;display:block}
+.brand-sub{font-family:"Inter",sans-serif;font-size:.56rem;font-weight:600;letter-spacing:.3em;text-transform:uppercase;color:var(--linen-dim);display:block;margin-top:2px}
+.nav-links{display:flex;align-items:center;gap:2px}
+.nav-links a{font-family:"Inter",sans-serif;font-size:.74rem;font-weight:500;letter-spacing:.07em;color:var(--linen-dim);text-decoration:none;padding:8px 11px;border-radius:999px;white-space:nowrap;transition:color .2s}
+.nav-links a:hover{color:var(--gold-soft)}
+.nav-links a[aria-current="page"]{color:var(--gold);box-shadow:inset 0 0 0 1px rgba(203,154,76,.45)}
+.nav-links a.ext{color:var(--gold-soft)}
+.menu-btn{display:none;background:none;border:1.5px solid rgba(224,189,127,.5);border-radius:999px;color:var(--gold-soft);font-family:"Inter",sans-serif;font-size:.68rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;padding:8px 16px;cursor:pointer}
+@media(max-width:940px){
+.menu-btn{display:inline-block}
+.nav-links{position:absolute;top:100%;left:0;right:0;display:none;flex-direction:column;align-items:stretch;background:rgba(11,22,38,.97);padding:10px 28px 20px;border-bottom:1px solid rgba(203,154,76,.25)}
+.nav-links.open{display:flex}
+.nav-links a{padding:12px 4px;border-bottom:1px solid rgba(242,234,217,.08);border-radius:0}
+}
+
+/* ---------- HERO ---------- */
+.hero{position:relative;background-color:var(--ink-2);color:var(--linen);padding:172px 0 92px;overflow:hidden;
+background-image:radial-gradient(130% 90% at 50% 34%,rgba(28,58,94,.55) 0%,rgba(15,27,46,.15) 46%,rgba(11,22,38,.95) 100%)}
+.hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:1px;background:linear-gradient(90deg,transparent,rgba(203,154,76,.55),transparent)}
+.hero .watermark{position:absolute;top:52%;left:50%;transform:translate(-50%,-50%);font-family:"Pinyon Script",cursive;font-size:clamp(7rem,20vw,17rem);color:rgba(180,138,194,.055);white-space:nowrap;pointer-events:none;line-height:1}
+.hero-inner{position:relative;max-width:1180px;margin:0 auto;padding:0 28px}
+.hero h1{font-size:clamp(2.7rem,6.2vw,4.7rem);font-weight:600;line-height:1.05;letter-spacing:-.01em;margin:.4em 0 .45em;color:var(--linen)}
+.hero .lede{font-size:clamp(1.06rem,1.6vw,1.26rem);line-height:1.75;color:var(--linen);opacity:.93;max-width:58ch;margin:0 0 18px}
+.hero .note{font-size:.98rem;color:var(--linen-dim);border-left:2px solid var(--gold);padding-left:16px;max-width:60ch;margin:0 0 34px}
+.hero-ctas{display:flex;flex-wrap:wrap;gap:14px;align-items:center}
+.btn{display:inline-flex;align-items:center;gap:8px;border-radius:999px;font-family:"Inter",sans-serif;font-size:.78rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;padding:14px 27px;transition:transform .25s ease,background .25s ease,box-shadow .25s ease;cursor:pointer}
+.btn:hover{transform:translateY(-2px)}
+.btn-primary{background:var(--gold);color:var(--ink)}
+.btn-primary:hover{background:var(--gold-soft);box-shadow:0 12px 28px rgba(203,154,76,.25)}
+.btn-ghost{border:1.5px solid rgba(224,189,127,.55);color:var(--gold-soft);background:transparent}
+.btn-ghost:hover{background:rgba(203,154,76,.12)}
+.hero-stats{display:flex;flex-wrap:wrap;margin-top:52px;padding-top:26px;border-top:1px solid rgba(203,154,76,.25);gap:10px 0}
+.hero-stats .stat{padding-right:30px;margin-right:30px;border-right:1px solid rgba(242,234,217,.14)}
+.hero-stats .stat:last-child{border-right:0}
+.hero-stats b{display:block;font-family:"Fraunces",serif;font-weight:600;font-size:1.55rem;color:var(--gold-soft);line-height:1.15}
+.hero-stats span{font-family:"Inter",sans-serif;font-size:.6rem;font-weight:600;letter-spacing:.24em;text-transform:uppercase;color:var(--linen-dim)}
+@media(max-width:640px){.hero{padding:136px 0 72px}.hero-stats .stat{padding-right:18px;margin-right:18px}}
+
+/* ---------- SECTIONS ---------- */
+.sec{padding:96px 0}
+.sec.paper{background:var(--paper)}
+.sec.ink{background:linear-gradient(180deg,var(--ink-2) 0%,var(--ink) 100%);color:var(--linen)}
+.sec-head{max-width:780px;margin-bottom:52px}
+.sec-head h2{font-size:clamp(2rem,3.8vw,3.05rem);font-weight:600;line-height:1.08;margin:.35em 0 .4em;color:inherit}
+.sec-head .sec-lede{font-size:1.06rem;line-height:1.75;max-width:62ch;margin:0;color:inherit;opacity:.88}
+section,div.mv-band{scroll-margin-top:88px}
+
+/* ---------- DESIGN SYSTEM CARDS ---------- */
+.ds-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(252px,1fr));gap:22px}
+.ds-card{background:var(--cardbg);border:1px solid var(--cardline);border-radius:14px;padding:clamp(22px,3vw,32px);box-shadow:0 10px 30px rgba(15,27,46,.08)}
+.ds-card .ds-num{font-family:"Inter",sans-serif;font-size:.62rem;font-weight:600;letter-spacing:.26em;color:var(--gold-deep);text-transform:uppercase}
+.ds-card h3{font-size:1.34rem;font-weight:600;margin:.5em 0 .55em;color:var(--ink)}
+.ds-card p{margin:0 0 12px;font-size:.98rem;color:var(--bodytext)}
+.ds-card ul{margin:0;padding:0;list-style:none}
+.ds-card li{position:relative;padding-left:18px;margin-bottom:9px;font-size:.94rem;color:var(--bodytext)}
+.ds-card li::before{content:"";position:absolute;left:0;top:.66em;width:9px;height:1.5px;background:var(--gold)}
+.ds-card code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.82em;background:#f2ead9;border:1px solid var(--cardline);border-radius:5px;padding:1px 6px;color:var(--royal)}
+.brand-bar{height:16px;border-radius:999px;background:linear-gradient(90deg,var(--lavender),var(--royal));margin:16px 0 12px;position:relative}
+.brand-bar::after{content:"";position:absolute;right:-4px;top:-4px;width:22px;height:22px;border-radius:50%;background:var(--sunrise);border:3px solid var(--cardbg)}
+.brand-codes{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+.chip{display:inline-flex;align-items:center;gap:7px;background:#fbf6ea;border:1px solid #e8dcc0;border-radius:999px;padding:5px 12px 5px 6px;font-family:"Inter",sans-serif;font-size:.72rem;font-weight:500;color:#5a4f3c}
+.chip i{width:16px;height:16px;border-radius:50%;border:1px solid rgba(15,27,46,.18);flex:none}
+.chip b{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-weight:600;color:#3c3428}
+
+/* ---------- MOVEMENT CARDS ---------- */
+.mv-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(246px,1fr));gap:22px}
+.mv-card{position:relative;border:1px solid rgba(203,154,76,.22);border-radius:14px;padding:clamp(24px,3vw,34px);background:linear-gradient(180deg,rgba(28,58,94,.28),rgba(11,22,38,.18));overflow:hidden}
+.mv-card .rn{font-family:"Fraunces",serif;font-size:2.7rem;font-weight:400;line-height:1;color:rgba(203,154,76,.35)}
+.mv-card h3{font-size:1.52rem;font-weight:600;color:var(--gold-soft);margin:.35em 0 .3em}
+.mv-days{display:inline-block;font-family:"Inter",sans-serif;font-size:.62rem;font-weight:600;letter-spacing:.24em;text-transform:uppercase;color:var(--linen);border:1px solid rgba(242,234,217,.3);border-radius:999px;padding:5px 13px;margin-bottom:16px}
+.mv-arc{font-style:italic;color:var(--linen);opacity:.92;margin:0 0 14px;font-size:1rem}
+.mv-desc{font-size:.93rem;color:var(--linen-dim);margin:0 0 16px}
+.mv-scenes{font-family:"Inter",sans-serif;font-size:.68rem;font-weight:500;letter-spacing:.12em;text-transform:uppercase;color:rgba(224,189,127,.85);border-top:1px solid rgba(203,154,76,.22);padding-top:14px;line-height:1.9}
+.mv-link{display:inline-block;margin-top:16px;font-family:"Inter",sans-serif;font-size:.72rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-soft);text-decoration:none;border-bottom:1px solid rgba(224,189,127,.4);padding-bottom:2px}
+.mv-link:hover{color:var(--gold)}
+
+/* ---------- DAY CARDS ---------- */
+.jump{display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0}
+.jump a{font-family:"Inter",sans-serif;font-size:.72rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;text-decoration:none;color:var(--ink);background:var(--cardbg);border:1px solid var(--cardline);border-radius:999px;padding:9px 18px;box-shadow:0 4px 14px rgba(15,27,46,.05);transition:transform .2s,border-color .2s}
+.jump a:hover{transform:translateY(-2px);border-color:var(--gold)}
+.mv-band{margin:70px 0 30px;border-bottom:1px solid var(--cardline);padding-bottom:20px;max-width:780px}
+.mv-band:first-of-type{margin-top:44px}
+.mv-band h3{font-size:clamp(1.6rem,2.8vw,2.15rem);font-weight:600;margin:.3em 0 .25em;color:var(--ink)}
+.mv-band .mv-arc2{font-style:italic;color:var(--bodytext);opacity:.85;margin:0;font-size:1.02rem}
+.day-card{background:var(--cardbg);border:1px solid var(--cardline);border-radius:14px;box-shadow:0 10px 30px rgba(15,27,46,.08);margin:0 0 32px;overflow:hidden}
+.pal-bar{display:flex;height:6px}
+.pal-bar i{flex:1}
+.day-body{padding:clamp(22px,3.2vw,38px)}
+.day-head{display:flex;justify-content:space-between;align-items:flex-start;gap:20px;border-bottom:1px solid #eee3c9;padding-bottom:20px;margin-bottom:26px}
+.day-eyebrow{font-family:"Inter",sans-serif;font-size:.68rem;font-weight:600;letter-spacing:.28em;text-transform:uppercase;color:var(--gold-deep);margin:0}
+.day-title{font-family:"Pinyon Script",cursive;font-weight:400;font-size:clamp(2.35rem,4.2vw,3.05rem);line-height:1.18;color:var(--royal);margin:.06em 0 0}
+.day-num{flex:none;font-family:"Fraunces",serif;font-weight:600;font-size:clamp(2rem,3.4vw,2.7rem);line-height:1;color:#e6d8b8;border:1px solid var(--cardline);border-radius:12px;width:76px;height:76px;display:flex;align-items:center;justify-content:center;background:#fbf6ea}
+.day-grid{display:grid;grid-template-columns:1.04fr .96fr;gap:36px}
+@media(max-width:880px){.day-grid{grid-template-columns:1fr}}
+.field{margin-bottom:20px}
+.field:last-child{margin-bottom:0}
+.flabel{display:block;font-family:"Inter",sans-serif;font-size:.62rem;font-weight:600;letter-spacing:.26em;text-transform:uppercase;color:var(--gold-deep);margin:0 0 7px}
+.field p{margin:0;font-size:.99rem;color:var(--bodytext)}
+.anchor .ref{font-family:"Fraunces",serif;font-weight:600;font-size:1rem;color:var(--ink)}
+.anchor .trans{font-family:"Inter",sans-serif;font-size:.62rem;font-weight:600;letter-spacing:.18em;color:var(--linen);background:var(--royal);border-radius:5px;padding:2.5px 8px;margin-left:9px;vertical-align:2px}
+.excerpt{font-style:italic;font-size:1.07rem;line-height:1.65;color:var(--bodytext);border-left:2px solid var(--gold);padding-left:15px;margin:10px 0 0}
+.brush{display:inline-block;background:rgba(246,239,226,.94);border:1px solid var(--cardline);color:var(--ink);font-weight:600;font-size:1rem;padding:13px 18px;border-radius:255px 25px 225px 25px/25px 225px 25px 255px;box-shadow:0 6px 18px rgba(15,27,46,.06)}
+.swatches{display:flex;flex-wrap:wrap;gap:8px}
+.typemood{font-style:italic}
+.motion{list-style:none;margin:0;padding:0}
+.motion li{position:relative;padding-left:19px;margin-bottom:8px;font-size:.93rem;color:var(--bodytext)}
+.motion li:last-child{margin-bottom:0}
+.motion li::before{content:"";position:absolute;left:0;top:.66em;width:9px;height:1.5px;background:var(--gold)}
+.prompt-block{background:var(--ink-2);border-radius:12px;padding:20px 22px 22px;margin-top:8px}
+.prompt-head{display:flex;justify-content:space-between;align-items:center;gap:14px;margin-bottom:13px;flex-wrap:wrap}
+.prompt-head .flabel{color:var(--gold-soft);margin:0}
+.prompt-meta{font-family:"Inter",sans-serif;font-size:.64rem;font-weight:500;letter-spacing:.16em;text-transform:uppercase;color:#9aa7b8}
+.copy-btn{border:1.5px solid rgba(224,189,127,.5);background:transparent;color:var(--gold-soft);font-family:"Inter",sans-serif;font-size:.66rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;padding:8px 16px;border-radius:999px;cursor:pointer;transition:transform .2s,background .2s,color .2s}
+.copy-btn:hover{background:rgba(203,154,76,.15);transform:translateY(-2px)}
+.copy-btn.done{background:var(--gold);border-color:var(--gold);color:var(--ink)}
+.prompt-text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.81rem;line-height:1.78;color:#d9d3c1;margin:0;overflow-wrap:break-word}
+
+/* ---------- RUN STEPS ---------- */
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:22px}
+.step{border:1px solid rgba(203,154,76,.22);border-radius:14px;padding:clamp(24px,3vw,32px);background:linear-gradient(180deg,rgba(28,58,94,.28),rgba(11,22,38,.18))}
+.step .n{font-family:"Fraunces",serif;font-size:2.1rem;font-weight:600;color:var(--gold);line-height:1}
+.step h3{font-size:1.22rem;font-weight:600;color:var(--linen);margin:.55em 0 .45em}
+.step p{margin:0;font-size:.95rem;color:var(--linen-dim)}
+
+/* ---------- FOOTER ---------- */
+.footer{background:var(--ink-2);color:var(--linen-dim);border-top:1px solid rgba(203,154,76,.3);padding:36px 0 40px}
+.footer-inner{max-width:1180px;margin:0 auto;padding:0 28px;display:flex;justify-content:space-between;gap:12px 32px;flex-wrap:wrap;font-family:"Inter",sans-serif;font-size:.82rem}
+.footer .f-left{color:var(--linen)}
+.footer .f-right{text-align:right}
+@media(max-width:640px){.footer .f-right{text-align:left}}
+
+/* ---------- REVEAL ---------- */
+.reveal{opacity:0;transform:translateY(18px);transition:opacity .7s ease,transform .7s ease}
+.reveal.in{opacity:1;transform:none}
+.ds-grid .reveal:nth-child(2),.mv-grid .reveal:nth-child(2),.steps .reveal:nth-child(2){transition-delay:.08s}
+.ds-grid .reveal:nth-child(3),.mv-grid .reveal:nth-child(3),.steps .reveal:nth-child(3){transition-delay:.16s}
+.ds-grid .reveal:nth-child(4),.mv-grid .reveal:nth-child(4){transition-delay:.24s}
+@media(prefers-reduced-motion:reduce){
+html{scroll-behavior:auto}
+.reveal{opacity:1;transform:none;transition:none}
+.btn,.jump a,.copy-btn{transition:none}
+}
+
+/* ---------- PRINT ---------- */
+@media print{
+body{background:#fff;color:#000;font-size:11pt}
+.nav,.hero-ctas,.jump,.copy-btn,.pal-bar,.hero .watermark{display:none!important}
+.hero{background:#fff;color:#000;padding:12pt 0}
+.hero h1,.hero .lede,.hero .note{color:#000}
+.hero .note{border-left-color:#999}
+.hero-stats{border-top-color:#999}
+.hero-stats b,.hero-stats span{color:#000}
+.sec,.sec.ink{background:#fff;color:#000;padding:18pt 0}
+.sec-head h2{color:#000}
+.ds-card,.mv-card,.step,.day-card{box-shadow:none;border:1px solid #999;background:#fff;color:#000;page-break-inside:avoid;break-inside:avoid}
+.mv-card .rn,.step .n{color:#555}
+.mv-card h3,.step h3,.mv-days,.day-title,.day-num{color:#000}
+.mv-arc,.mv-desc,.mv-scenes,.step p,.day-eyebrow,.flabel,.ds-card .ds-num{color:#222}
+.day-head,.mv-band{border-color:#999}
+.field p,.ds-card p,.ds-card li,.motion li,.typemood,.excerpt{color:#000}
+.excerpt{border-left-color:#999}
+.prompt-block{background:#fff;border:1px solid #999}
+.prompt-head .flabel,.prompt-meta,.prompt-text{color:#000}
+.brush{background:#fff;border-color:#999;box-shadow:none}
+.chip{border-color:#999;background:#fff;color:#000}
+.chip i{border:1px solid #666}
+.anchor .trans{background:#fff;color:#000;border:1px solid #666}
+.footer{background:#fff;color:#000;border-top:1px solid #999}
+.footer .f-left,.footer .f-right{color:#000}
+a{text-decoration:none;color:#000}
+.reveal{opacity:1!important;transform:none!important}
+.day-grid{grid-template-columns:1fr 1fr}
+}
+</style>
+</head>
+<body>
+<header class="nav" id="nav">
+<div class="nav-inner">
+<a class="brand" href="index.html"><svg width="30" height="30" viewBox="0 0 32 32" fill="none" aria-hidden="true"><path d="M6 7c3.5-2 7-2 10 0v18c-3-2-6.5-2-10 0V7z" stroke="#cb9a4c" stroke-width="1.6" stroke-linejoin="round"/><path d="M26 7c-3.5-2-7-2-10 0v18c3-2 6.5-2 10 0V7z" stroke="#cb9a4c" stroke-width="1.6" stroke-linejoin="round"/></svg><span><span class="brand-name">Lady D</span><span class="brand-sub">Devotional Library · IDC Publishing</span></span></a>
+<button class="menu-btn" id="menuBtn" aria-expanded="false" aria-controls="navLinks">Menu</button>
+<nav class="nav-links" id="navLinks" aria-label="Suite navigation">
+<a href="index.html">Command Suite</a>
+<a href="state-of-the-union.html">State of the Union</a>
+<a href="plan-of-attack.html">Plan of Attack</a>
+<a href="prompt-pack-31day.html" aria-current="page">31-Day Prompt Pack</a>
+<a href="master-sample.html">Master Sample</a>
+<a class="ext" href="https://lady-d-author-review-site.vercel.app/" target="_blank" rel="noopener">Live Portal ↗</a>
+</nav>
+</div>
+</header>
+
+<section class="hero">
+<div class="watermark" aria-hidden="true">mornings</div>
+<div class="hero-inner">
+<p class="eyebrow">31-Day Visual Devotional · Generation Spec v1</p>
+<h1>Thirty-One Mornings of Light.</h1>
+<p class="lede">The complete build sheet for Lady D’s image-led devotional: one verse, one scene, one light condition per morning, across four movements — Awakening, Depths, Wonders, and Kingdom Light. Every day below is copy-ready for image generation and app assembly: scripture anchor, reflection, affirmation, environment, palette, type mood, motion notes, and a generation prompt that carries its own composition guards.</p>
+<p class="note">This pack follows the reference-image DNA — full-bleed HDR nature, a woman seen from behind placed small in the lower third, script-and-serif typography, and brush-stroke blocks for the day label, the scripture, and the closing affirmation. Nothing here is a mock-up: it is a mechanical specification, ready to run.</p>
+<div class="hero-ctas">
+<a class="btn btn-primary" href="#days">Browse the 31 days</a>
+<a class="btn btn-ghost" href="covers/31day-hero.png">View the north-star key art ↗</a>
+</div>
+<div class="hero-stats">
+<div class="stat"><b>31</b><span>Fully-specced days</span></div>
+<div class="stat"><b>4</b><span>Movements</span></div>
+<div class="stat"><b>31</b><span>Copy-ready prompts</span></div>
+<div class="stat"><b>9:16</b><span>Portrait · 4K</span></div>
+<div class="stat"><b>KJV · NKJV</b><span>Alternating anchors</span></div>
+</div>
+</div>
+</section>
+
+<section class="sec paper" id="design">
+<div class="wrap">
+<div class="sec-head reveal">
+<p class="eyebrow">Section 01 · The Design System</p>
+<h2>One System, Thirty-One Skies.</h2>
+<p class="sec-lede">Four rules hold every morning together, no matter how far the environments wander — from fjord mist to firefly meadow. If a generated frame breaks one of these, it does not ship.</p>
+</div>
+<div class="ds-grid">
+<div class="ds-card reveal">
+<p class="ds-num">Rule 01</p>
+<h3>Composition</h3>
+<ul>
+<li>The woman is always seen from behind — identification without likeness — placed in the lower third, small against grandeur.</li>
+<li>Rule of thirds: horizon and figure share the lower two bands; the upper 40% stays brush-block-safe negative space for type.</li>
+<li>Full-bleed HDR nature or wonder background; portrait 9:16 framing, generated at 4K, social-friendly at first glance.</li>
+<li>One scene, one light condition, one weather per day — never a collage.</li>
+</ul>
+</div>
+<div class="ds-card reveal">
+<p class="ds-num">Rule 02</p>
+<h3>Type</h3>
+<ul>
+<li>Pinyon Script carries the day title — large, emotional, ≥ 90pt at the 1080×1350 working size.</li>
+<li>Fraunces carries the scripture excerpt — 40–48pt, tight leading, roman or italic as the day’s type mood directs.</li>
+<li>Inter carries labels: DAY 10 · DEPTHS, references, affirmations — 600 weight, letterspaced, uppercase.</li>
+<li>Never more than three voices on one card; script and serif do the feeling, Inter does the filing.</li>
+</ul>
+</div>
+<div class="ds-card reveal">
+<p class="ds-num">Rule 03</p>
+<h3>Blocks</h3>
+<ul>
+<li>Brush-stroke chips hold the words, with a torn-edge mask and 18px inner padding — never hard rectangles.</li>
+<li>Royal purple <code>rgba(93,63,130,.92)</code> holds the DAY label and the scripture excerpt, set in linen.</li>
+<li>Cream <code>rgba(246,239,226,.94)</code> holds the closing affirmation, set in ink.</li>
+<li>Blocks sit inside the negative space the prompt reserves — never over the figure’s face line or the light source.</li>
+</ul>
+</div>
+<div class="ds-card reveal">
+<p class="ds-num">Rule 04</p>
+<h3>Brand Thread</h3>
+<p>One purple thread runs through all thirty-one mornings — lavender into royal — with sunrise gold as the accent that means “light arriving.” Each day’s palette below ends with the brand chip so the set reads as one family.</p>
+<div class="brand-bar" aria-hidden="true"></div>
+<div class="brand-codes">
+<span class="chip"><i style="background:#b48ac2"></i><b>#b48ac2</b>lavender</span>
+<span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>royal</span>
+<span class="chip"><i style="background:#e8a35c"></i><b>#e8a35c</b>sunrise gold</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="sec ink" id="movements">
+<div class="wrap">
+<div class="sec-head reveal">
+<p class="eyebrow">Section 02 · The Four Movements</p>
+<h2>An Arc of Thirty-One Mornings.</h2>
+<p class="sec-lede">The pack escalates emotionally on purpose: gentle invitation, then deep trust, then awe, then settled kingdom confidence. Day 31 is the crescendo — the city with its lights on.</p>
+</div>
+<div class="mv-grid">
+<div class="mv-card reveal">
+<div class="rn">I</div>
+<h3>Awakening</h3>
+<span class="mv-days">Days 1–8</span>
+<p class="mv-arc">The soul wakes to love.</p>
+<p class="mv-desc">Dawn, mountains, alpine light. Eight mornings of gentle invitation — first mercies, still water, singing fields, and a lamp lit for the road ahead.</p>
+<p class="mv-scenes">Alpine sunrise · Still lake · Lavender rows · Blossom riverbank · Highland mist · Snow pines · Lotus pond · Lighthouse dawn</p>
+<a class="mv-link" href="#mv-1">Open the days 1–8 set</a>
+</div><div class="mv-card reveal">
+<div class="rn">II</div>
+<h3>Depths</h3>
+<span class="mv-days">Days 9–16</span>
+<p class="mv-arc">Trust in deep places.</p>
+<p class="mv-desc">Oceans, lakes, rivers, canyons. Eight mornings that go down on purpose — deep calling to deep, storms that answer to Jesus, light that gets through.</p>
+<p class="mv-scenes">Misty fjord · Red-rock canyon · Coral shallows · Night sea · Storm plains · Bioluminescent shore · Cypress sunbeams · Black-sand beach</p>
+<a class="mv-link" href="#mv-2">Open the days 9–16 set</a>
+</div><div class="mv-card reveal">
+<div class="rn">III</div>
+<h3>Wonders</h3>
+<span class="mv-days">Days 17–24</span>
+<p class="mv-arc">Awe reorders the heart.</p>
+<p class="mv-desc">Deserts, aurora, waterfalls, forests. Eight mornings that lift the chin — let creation preach until explanations run out and only worship is left.</p>
+<p class="mv-scenes">Blue-hour dunes · Aurora · Rainforest falls · Redwood cathedral · Maple tunnel · Golden aspens · Iceberg lagoon · Stormlit sunflowers</p>
+<a class="mv-link" href="#mv-3">Open the days 17–24 set</a>
+</div><div class="mv-card reveal">
+<div class="rn">IV</div>
+<h3>Kingdom Light</h3>
+<span class="mv-days">Days 25–31</span>
+<p class="mv-arc">Walking in what you’ve received.</p>
+<p class="mv-desc">Golden fields, stars, gardens, the city of light. Seven mornings of settled confidence — harvest kept, promises counted, and the porch light of home left on.</p>
+<p class="mv-scenes">Moonlit wheat · Terraced hills · Garden after rain · Firefly meadow · Salt-flat mirror · Star-trail desert · The city of light</p>
+<a class="mv-link" href="#mv-4">Open the days 25–31 set</a>
+</div>
+</div>
+</div>
+</section>
+
+<section class="sec paper" id="days">
+<div class="wrap">
+<div class="sec-head reveal">
+<p class="eyebrow">Section 03 · The Thirty-One Days</p>
+<h2>Every Morning, Fully Specced.</h2>
+<p class="sec-lede">KJV and NKJV alternate day by day; excerpts stay under twenty-five words, drawn from the verses the church knows by heart. No two days share an environment, a palette, or a light condition.</p>
+<div class="jump">
+<a href="#mv-1">I · Awakening</a>
+<a href="#mv-2">II · Depths</a>
+<a href="#mv-3">III · Wonders</a>
+<a href="#mv-4">IV · Kingdom Light</a>
+</div>
+</div>
+<div class="mv-band reveal" id="mv-1">
+<p class="eyebrow">Movement I · Days 1–8</p>
+<h3>Awakening — the soul wakes to love</h3>
+<p class="mv-arc2">Eight mornings from alpine sunrise to lighthouse dawn — gentle invitation, first mercies, and a lamp for the road.</p>
+</div>
+<article class="day-card reveal" id="day-01" data-mv="1">
+<div class="pal-bar" aria-hidden="true"><i style="background:#3b4d6b"></i><i style="background:#e8a35c"></i><i style="background:#f4d9a8"></i><i style="background:#8fa3c4"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 01 · Awakening</p>
+<h3 class="day-title">The Morning Keeps Its Promise</h3>
+</div>
+<div class="day-num" aria-hidden="true">01</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Lamentations 3:23</span><span class="trans">KJV</span></p>
+<p class="excerpt">“They are new every morning: great is thy faithfulness.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, before your feet find the floor, His mercy is already waiting like light at the kitchen window — new again.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">I receive mercy made new this morning.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>High alpine ridge above a sea of peaks — spring dawn, clear air after night frost, low rose-gold sun fanning across melt grass and first wildflowers.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#3b4d6b"></i><b>#3b4d6b</b>pre-dawn blue</span><span class="chip"><i style="background:#e8a35c"></i><b>#e8a35c</b>sunrise gold</span><span class="chip"><i style="background:#f4d9a8"></i><b>#f4d9a8</b>first light</span><span class="chip"><i style="background:#8fa3c4"></i><b>#8fa3c4</b>ridge haze</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon at its largest and brightest; Fraunces 600 for the promise — first light earns the loudest script in the pack.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Parallax: snowline peaks recede at 0.4× scroll while the figure and foreground grass hold still.</li><li>Sun rays breathe ±5% brightness on an 8s loop; wildflower pollen drifts right at 3px/s.</li><li>Reduced motion: one static golden frame, light held at full.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-01" aria-label="Copy the image prompt for day 1">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-01">A woman seen from behind in a flowing cream dress standing on a high alpine ridge at sunrise, vast sea of snow-dusted peaks below her, low rose-gold sun fanning light across spring melt grass and first wildflowers, crisp clear air after night frost, small hopeful figure against immense grandeur, generous negative space in the glowing upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-02" data-mv="1">
+<div class="pal-bar" aria-hidden="true"><i style="background:#2f4858"></i><i style="background:#9db8c9"></i><i style="background:#e9c98f"></i><i style="background:#eef2f0"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 02 · Awakening</p>
+<h3 class="day-title">Be Still, Beloved</h3>
+</div>
+<div class="day-num" aria-hidden="true">02</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 46:10</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“Be still, and know that I am God.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Sit down by the water, dear one — you do not have to fix today; be still and let God be God.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">I am still, and He is God.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Still mountain lake at dawn — high summer, mirror-calm water doubling a single peak, one thin ribbon of mist on the surface, pale gold light.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#2f4858"></i><b>#2f4858</b>lake depth</span><span class="chip"><i style="background:#9db8c9"></i><b>#9db8c9</b>dawn silver</span><span class="chip"><i style="background:#e9c98f"></i><b>#e9c98f</b>soft gold</span><span class="chip"><i style="background:#eef2f0"></i><b>#eef2f0</b>mist white</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon whisper-light with wide tracking; Fraunces italic — the mirror lake asks for near-silence.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Mist ribbon slides across the lake at 4px/s on its own layer.</li><li>Reflection ripple loops at ±2px over 7s; the figure’s hem sways gently with it.</li><li>Reduced motion: the mirror holds perfectly still.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-02" aria-label="Copy the image prompt for day 2">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-02">A woman seen from behind in a soft lavender dress standing at the shore of a perfectly still mountain lake at dawn, mirror-calm water doubling a single snow-touched peak, one thin ribbon of mist floating on the surface, pale gold summer light, profound quiet, small peaceful figure against vast reflected grandeur, generous negative space in the luminous upper sky and its reflection for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-03" data-mv="1">
+<div class="pal-bar" aria-hidden="true"><i style="background:#6b4f8e"></i><i style="background:#b48ac2"></i><i style="background:#e6d3ee"></i><i style="background:#c9a86a"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 03 · Awakening</p>
+<h3 class="day-title">The Field Is Singing</h3>
+</div>
+<div class="day-num" aria-hidden="true">03</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Song of Solomon 2:12</span><span class="trans">KJV</span></p>
+<p class="excerpt">“The flowers appear on the earth; the time of the singing of birds is come.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, the Lord plants singing seasons right where your winter stood — watch the field; the flowers kept your place.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">My winter is over; my singing season has come.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Provence lavender field in full July bloom — early morning, sun low through purple rows toward a distant stone farmhouse, warm hazy light.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#6b4f8e"></i><b>#6b4f8e</b>lavender deep</span><span class="chip"><i style="background:#b48ac2"></i><b>#b48ac2</b>lavender bloom</span><span class="chip"><i style="background:#e6d3ee"></i><b>#e6d3ee</b>pale bloom</span><span class="chip"><i style="background:#c9a86a"></i><b>#c9a86a</b>farmhouse stone</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon loose and floral; Fraunces regular — the field is already singing, the type just hums along.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Lavender rows sway in a staggered 6s wave, front rows first.</li><li>Warm haze breathes ±6% opacity; a few seeds drift at 2px/s.</li><li>Reduced motion: rows held mid-sway in full light.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-03" aria-label="Copy the image prompt for day 3">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-03">A woman seen from behind in a flowing white summer dress walking between endless rows of blooming lavender in Provence, early morning sun angling low through purple rows toward a distant stone farmhouse, warm hazy light, bees in the air, gentle hills on the horizon, small serene figure inside a sea of violet, generous negative space in the soft upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-04" data-mv="1">
+<div class="pal-bar" aria-hidden="true"><i style="background:#e8b7c8"></i><i style="background:#f6e3ea"></i><i style="background:#7fae9f"></i><i style="background:#4a5d58"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 04 · Awakening</p>
+<h3 class="day-title">Roots by the River</h3>
+</div>
+<div class="day-num" aria-hidden="true">04</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 1:3</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“He shall be like a tree planted by the rivers of water, that brings forth its fruit in its season.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Sweetheart, a tree does not rush the river; sink your roots deep in Jesus and let fruit come in season.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">I am planted, and I will bear fruit.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Cherry-blossom riverbank in April — soft spring morning, petals drifting onto slow jade water, diffused pearl light through the bloom canopy.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#e8b7c8"></i><b>#e8b7c8</b>blossom pink</span><span class="chip"><i style="background:#f6e3ea"></i><b>#f6e3ea</b>petal pale</span><span class="chip"><i style="background:#7fae9f"></i><b>#7fae9f</b>river jade</span><span class="chip"><i style="background:#4a5d58"></i><b>#4a5d58</b>bark shade</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon soft with long descenders; Fraunces regular — petals fall slowly and so should the letters.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Petals fall on independent 6–9s loops from separate canopy points.</li><li>River jade shimmer scrolls at 3px/s; canopy light dapples ±4%.</li><li>Reduced motion: petals suspended mid-air over still water.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-04" aria-label="Copy the image prompt for day 4">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-04">A woman seen from behind in a pale rose dress standing beneath a canopy of cherry blossoms on a quiet riverbank in April, petals drifting down onto slow jade-green water, soft diffused pearl light of a spring morning, branches arching overhead like a vaulted ceiling, small reflective figure framed by bloom and river, generous negative space in the misty upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-05" data-mv="1">
+<div class="pal-bar" aria-hidden="true"><i style="background:#5c6b73"></i><i style="background:#a8b0a9"></i><i style="background:#d9c58f"></i><i style="background:#403d39"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 05 · Awakening</p>
+<h3 class="day-title">Held in Perfect Peace</h3>
+</div>
+<div class="day-num" aria-hidden="true">05</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Isaiah 26:3</span><span class="trans">KJV</span></p>
+<p class="excerpt">“Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>When mist hides the road, beloved, keep your mind on Jesus; His peace drives slower and surer than your fear.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">Perfect peace keeps my mind today.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Highland moor at autumn daybreak — low mist pooling between heather rises, the sun a pale silver-gold coin burning through.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#5c6b73"></i><b>#5c6b73</b>moor mist</span><span class="chip"><i style="background:#a8b0a9"></i><b>#a8b0a9</b>heather grey</span><span class="chip"><i style="background:#d9c58f"></i><b>#d9c58f</b>pale sun</span><span class="chip"><i style="background:#403d39"></i><b>#403d39</b>peat shadow</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon airy, slightly smaller; Fraunces 500 — the mist wants the words to emerge, not arrive.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Mist pools drift left at 5px/s; far hills stay fixed for depth.</li><li>The pale sun pulses ±5% brightness on an 8s loop; heather trembles faintly.</li><li>Reduced motion: mist held, sun steady.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-05" aria-label="Copy the image prompt for day 5">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-05">A woman seen from behind in a warm rust-colored coat and scarf standing on a highland moor at daybreak, low autumn mist pooling between heather-covered rises, the sun a pale silver-gold coin burning through the fog, distant hills dissolving into light, quiet wool-colored air, small steady figure inside vast soft emptiness, generous negative space in the luminous misty upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-06" data-mv="1">
+<div class="pal-bar" aria-hidden="true"><i style="background:#e8eef5"></i><i style="background:#aebfd0"></i><i style="background:#2e4a3f"></i><i style="background:#e8b06a"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 06 · Awakening</p>
+<h3 class="day-title">Whiter Than the Snowfall</h3>
+</div>
+<div class="day-num" aria-hidden="true">06</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Isaiah 1:18</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“Though your sins are like scarlet, they shall be as white as snow.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, what feels like a stain on the tablecloth of your life, Jesus washes whiter than fresh snow.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">I am washed whiter than snow.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Snow-globe pine forest in deep winter — just after sunrise, fresh powder on every bough, blue shadows, low amber spangling light.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#e8eef5"></i><b>#e8eef5</b>snowlight</span><span class="chip"><i style="background:#aebfd0"></i><b>#aebfd0</b>blue shadow</span><span class="chip"><i style="background:#2e4a3f"></i><b>#2e4a3f</b>pine deep</span><span class="chip"><i style="background:#e8b06a"></i><b>#e8b06a</b>low amber</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon crisp and bright; Fraunces 600 — cold air makes every stroke sparkle.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Snow-glitter particles twinkle on a staggered 8s cycle.</li><li>Low sun flares breathe ±6%; powder slips from one bough every 12s.</li><li>Reduced motion: a single still sparkle frame.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-06" aria-label="Copy the image prompt for day 6">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-06">A woman seen from behind in a deep plum winter coat standing among snow-laden pine trees just after sunrise, fresh powder glowing on every bough like a snow globe, long blue shadows across untouched drifts, low amber sun spangling the snowfall, breath visible in the cold quiet air, small wonder-filled figure inside a hushed white cathedral of trees, generous negative space in the bright upper canopy light for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-07" data-mv="1">
+<div class="pal-bar" aria-hidden="true"><i style="background:#d97b96"></i><i style="background:#f2c9d4"></i><i style="background:#4f7d5a"></i><i style="background:#f4e2c8"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 07 · Awakening</p>
+<h3 class="day-title">Morning Hears Your Voice</h3>
+</div>
+<div class="day-num" aria-hidden="true">07</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 5:3</span><span class="trans">KJV</span></p>
+<p class="excerpt">“My voice shalt thou hear in the morning, O LORD; in the morning will I direct my prayer unto thee, and will look up.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, talk to Jesus before the house wakes; first words to Him season the whole day like salt.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">My first words belong to the Lord.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Lotus pond at first light, late summer — dew-beaded leaves, pink blooms opening, glassy water, soft rose-pearl haze.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#d97b96"></i><b>#d97b96</b>lotus pink</span><span class="chip"><i style="background:#f2c9d4"></i><b>#f2c9d4</b>bloom pale</span><span class="chip"><i style="background:#4f7d5a"></i><b>#4f7d5a</b>leaf green</span><span class="chip"><i style="background:#f4e2c8"></i><b>#f4e2c8</b>dawn gold</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon rounded and unhurried; Fraunces italic — the pond opens slowly, so does the script.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Dew glints fade in and out on a 7s loop across the leaves.</li><li>Pond rings expand from a fallen petal every 8s; blooms breathe 2% scale.</li><li>Reduced motion: blooms held open, water glass.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-07" aria-label="Copy the image prompt for day 7">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-07">A woman seen from behind in a soft blush-pink dress kneeling at the edge of a lotus pond at first light, great round leaves beaded with dew, pink blooms opening over glassy still water, soft rose and pearl haze of late summer, distant temple pines barely visible, small reverent figure beside the awakening flowers, generous negative space in the glowing misty upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-08" data-mv="1">
+<div class="pal-bar" aria-hidden="true"><i style="background:#274054"></i><i style="background:#e78f8f"></i><i style="background:#f6efe2"></i><i style="background:#8b8f98"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 08 · Awakening</p>
+<h3 class="day-title">A Lamp for the Road</h3>
+</div>
+<div class="day-num" aria-hidden="true">08</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 119:105</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“Your word is a lamp to my feet and a light to my path.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>You only need light for the next step, dear one — His word is a porch lamp, not a spotlight.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">His word lights my next step.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Cliffside lighthouse at dawn, early autumn — calm sea below granite, the lamp still glowing as coral-rose light crests the horizon.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#274054"></i><b>#274054</b>sea slate</span><span class="chip"><i style="background:#e78f8f"></i><b>#e78f8f</b>dawn rose</span><span class="chip"><i style="background:#f6efe2"></i><b>#f6efe2</b>lamp cream</span><span class="chip"><i style="background:#8b8f98"></i><b>#8b8f98</b>granite</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon tall and steady; Fraunces 600 with small-caps labels — a lighthouse day calls for vertical confidence.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>The lamp beam sweeps a slow 20° arc on an 8s cycle.</li><li>Horizon rose deepens ±5%; gulls drift right at 4px/s on the far layer.</li><li>Reduced motion: lamp lit, beam held toward the sea.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-08" aria-label="Copy the image prompt for day 8">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-08">A woman seen from behind in a long cream cardigan and dress standing on a granite headland beside a white lighthouse at dawn, calm autumn sea below, the lamp still glowing as coral-rose light crests the horizon, gulls drifting in the salt air, weathered path winding up through coastal grass, small hopeful figure between sea and sky, generous negative space in the rose-gold upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><div class="mv-band reveal" id="mv-2">
+<p class="eyebrow">Movement II · Days 9–16</p>
+<h3>Depths — trust in deep places</h3>
+<p class="mv-arc2">Eight mornings from fjord mist to black-sand surf — deep calls to deep, and the Lord is mightier than the noise.</p>
+</div>
+<article class="day-card reveal" id="day-09" data-mv="2">
+<div class="pal-bar" aria-hidden="true"><i style="background:#1f2f38"></i><i style="background:#4a6157"></i><i style="background:#aebfc4"></i><i style="background:#d9c58f"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 09 · Depths</p>
+<h3 class="day-title">When Deep Calls to Deep</h3>
+</div>
+<div class="day-num" aria-hidden="true">09</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 42:7</span><span class="trans">KJV</span></p>
+<p class="excerpt">“Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, when sorrow runs deeper than words, let it call down to where His love runs deeper still.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">His love runs deeper than my deepest.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Misty fjord in late spring — sheer green-black walls rising from still steel water, low cloud combing the cliffs, one pale sun shaft, cool silver light.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#1f2f38"></i><b>#1f2f38</b>fjord steel</span><span class="chip"><i style="background:#4a6157"></i><b>#4a6157</b>cliff green</span><span class="chip"><i style="background:#aebfc4"></i><b>#aebfc4</b>mist silver</span><span class="chip"><i style="background:#d9c58f"></i><b>#d9c58f</b>sun shaft</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon low-contrast and quiet; Fraunces 500 — the fjord swallows loud type.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Cloud combs the cliff tops at 6px/s on the far layer.</li><li>The lone sun shaft brightens ±6% over 8s; water mirror drifts ±1px.</li><li>Reduced motion: mist frozen mid-cliff, shaft lit.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-09" aria-label="Copy the image prompt for day 9">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-09">A woman seen from behind in a slate-blue rain jacket standing at the edge of a misty fjord in late spring, sheer green-black cliff walls rising into low combing cloud, still steel-colored water holding a perfect reflection, one pale shaft of sun breaking through, cool silver light, tiny rowboat pulled ashore, small hushed figure beneath immense stone, generous negative space in the bright misty upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-10" data-mv="2">
+<div class="pal-bar" aria-hidden="true"><i style="background:#2e3a52"></i><i style="background:#b4694e"></i><i style="background:#e8a35c"></i><i style="background:#f2ead9"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 10 · Depths</p>
+<h3 class="day-title">The Valley Sings Back</h3>
+</div>
+<div class="day-num" aria-hidden="true">10</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 23:4</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“Yea, though I walk through the valley of the shadow of death, I will fear no evil; for You are with me.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, the valley was never your address — it was only ever a road, and He walks it with you.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">I am accompanied, even here.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Red-rock canyon at first light — sun striking the rim while the floor stays in blue shadow, one winding stream catching gold.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#2e3a52"></i><b>#2e3a52</b>canyon shadow</span><span class="chip"><i style="background:#b4694e"></i><b>#b4694e</b>rock warmth</span><span class="chip"><i style="background:#e8a35c"></i><b>#e8a35c</b>rim light</span><span class="chip"><i style="background:#f2ead9"></i><b>#f2ead9</b>stream gold</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon large and unhurried; Fraunces regular for the psalm — the canyon already whispers.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Canyon mist drifts left at 4px/s on its own layer.</li><li>Stream shimmer loops 7s; rim light breathes ±6% opacity.</li><li>Reduced motion: a static golden frame.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-10" aria-label="Copy the image prompt for day 10">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-10">A woman seen from behind in a flowing dress standing at the floor of a majestic red-rock canyon at first light, golden sun striking the canyon rim while blue shadow fills the depths, a winding stream catching gold light, vast towering walls, small hopeful figure, generous negative space in the upper sky for typography, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-11" data-mv="2">
+<div class="pal-bar" aria-hidden="true"><i style="background:#2e8fa3"></i><i style="background:#7fd4d1"></i><i style="background:#f4efe0"></i><i style="background:#d97b6c"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 11 · Depths</p>
+<h3 class="day-title">Mightier Than the Waves</h3>
+</div>
+<div class="day-num" aria-hidden="true">11</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 93:4</span><span class="trans">KJV</span></p>
+<p class="excerpt">“The LORD on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, the loudest thing in your house tonight is not louder than Jesus — He is mightier than the noise of many waters.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">The Lord is mightier than my noise.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Coral-turquoise shallows over white sand — late tropical morning, sun overhead turning water to glass, coral gardens below, caustic light dancing.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#2e8fa3"></i><b>#2e8fa3</b>turquoise deep</span><span class="chip"><i style="background:#7fd4d1"></i><b>#7fd4d1</b>shallow glass</span><span class="chip"><i style="background:#f4efe0"></i><b>#f4efe0</b>sand white</span><span class="chip"><i style="background:#d97b6c"></i><b>#d97b6c</b>coral blush</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon buoyant and bright; Fraunces 500 italic — sunlight through water wants lift, not weight.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Caustic light ripples across the sand on a 6s loop.</li><li>Tiny silver fish drift through at 5px/s; surface dapple breathes ±5%.</li><li>Reduced motion: caustics stilled at full sparkle.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-11" aria-label="Copy the image prompt for day 11">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-11">A woman seen from behind in a white cotton dress wading through crystal coral-turquoise shallows over white sand, late tropical morning sun overhead turning the water to rippling glass, coral gardens and tiny silver fish below the surface, gentle horizon of deep blue sea, caustic light dancing everywhere, small joyful figure inside luminous water, generous negative space in the clear bright upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-12" data-mv="2">
+<div class="pal-bar" aria-hidden="true"><i style="background:#0c1c33"></i><i style="background:#274b73"></i><i style="background:#c8d4e6"></i><i style="background:#f2e3b3"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 12 · Depths</p>
+<h3 class="day-title">The Night Is Not Empty</h3>
+</div>
+<div class="day-num" aria-hidden="true">12</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 8:3</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“When I consider Your heavens, the work of Your fingers, the moon and the stars, which You have ordained.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>When you cannot sleep, beloved, look out at the stars — the God who hung them is mindful of you tonight.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">The God of stars is mindful of me.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Night sea under stars, warm summer midnight — velvet constellations, a moonpath silvering gentle swells, starlight the only lamp.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#0c1c33"></i><b>#0c1c33</b>midnight blue</span><span class="chip"><i style="background:#274b73"></i><b>#274b73</b>swell navy</span><span class="chip"><i style="background:#c8d4e6"></i><b>#c8d4e6</b>starlight</span><span class="chip"><i style="background:#f2e3b3"></i><b>#f2e3b3</b>moonpath</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon at its most delicate, moonlit; Fraunces 400 — starlight reads best in a hush.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Stars twinkle on staggered 7s cycles; the Milky Way stays fixed.</li><li>Moonpath shimmer scrolls 3px/s; swells lift the hemline reflection ±2px.</li><li>Reduced motion: stars fixed, sea held mid-swell.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-12" aria-label="Copy the image prompt for day 12">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-12">A woman seen from behind in a flowing indigo dress standing on a warm summer beach at midnight, velvet sky crowded with constellations, a bright moonpath silvering the gentle swells, the Milky Way arching overhead, waves folding softly at her feet, starlight the only lamp, small contemplative figure beneath the whole arc of heaven, generous negative space in the star-filled upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-13" data-mv="2">
+<div class="pal-bar" aria-hidden="true"><i style="background:#1e2430"></i><i style="background:#4b5568"></i><i style="background:#e3b34e"></i><i style="background:#f6d98f"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 13 · Depths</p>
+<h3 class="day-title">The Storm Knows His Voice</h3>
+</div>
+<div class="day-num" aria-hidden="true">13</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Mark 4:39</span><span class="trans">KJV</span></p>
+<p class="excerpt">“Peace, be still. And the wind ceased, and there was a great calm.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, the thunder is not in charge — one word from Jesus, and the storm in your kitchen goes still.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">Peace has the final word in me.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Thunderstorm edge over wheat plains, late afternoon — half the sky black-blue with rain curtains, half blazing low gold, wind rolling through the grain.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#1e2430"></i><b>#1e2430</b>storm slate</span><span class="chip"><i style="background:#4b5568"></i><b>#4b5568</b>rain curtain</span><span class="chip"><i style="background:#e3b34e"></i><b>#e3b34e</b>field gold</span><span class="chip"><i style="background:#f6d98f"></i><b>#f6d98f</b>break of sun</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon held calm against the storm; Fraunces 700 for “Peace, be still” — the command carries the card.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Rain curtains advance at 4px/s on the far layer; the gold break holds.</li><li>Soft distant lightning flickers on a 9s cycle — glow only, never a flash; wheat rolls on a 6s wave.</li><li>Reduced motion: storm held at the horizon break.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-13" aria-label="Copy the image prompt for day 13">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-13">A woman seen from behind in a wheat-toned dress standing at the edge of a golden wheat plain in late afternoon, half the sky black-blue with advancing rain curtains and distant lightning, the other half blazing with low gold sun, wind rolling through the grain in waves, a lone farmhouse far away, small courageous figure beneath a divided sky, generous negative space in the dramatic upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-14" data-mv="2">
+<div class="pal-bar" aria-hidden="true"><i style="background:#0a1420"></i><i style="background:#123a52"></i><i style="background:#35e0d0"></i><i style="background:#9ff5ea"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 14 · Depths</p>
+<h3 class="day-title">The Light Gets Through</h3>
+</div>
+<div class="day-num" aria-hidden="true">14</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">John 1:5</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“And the light shines in the darkness, and the darkness did not comprehend it.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Dear one, darkness has never once won against light — strike one small match of faith and watch the room give way.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">His light shines, and my darkness cannot stop it.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Bioluminescent shore at midnight — folding waves glowing electric blue, footprints sparking on wet sand, moonless sky full of stars.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#0a1420"></i><b>#0a1420</b>night sand</span><span class="chip"><i style="background:#123a52"></i><b>#123a52</b>dark surf</span><span class="chip"><i style="background:#35e0d0"></i><b>#35e0d0</b>biolume blue</span><span class="chip"><i style="background:#9ff5ea"></i><b>#9ff5ea</b>spark pale</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon glowing, high-contrast; Fraunces 500 — biolume nights want the script to feel lit from within.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Biolume pulses where the waves fold, on a 6s glow loop.</li><li>Foam edge creeps at 3px/s; footprints spark once then fade over 8s.</li><li>Reduced motion: the shore glows at full, static.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-14" aria-label="Copy the image prompt for day 14">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-14">A woman seen from behind in a dark flowing dress walking along a bioluminescent shore at midnight, every folding wave glowing electric blue, wet sand sparkling with each footprint, moonless sky full of stars, dark headlands framing the glittering bay, the surf line pulsing with cold fire, small awestruck figure wading through living light, generous negative space in the starry upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-15" data-mv="2">
+<div class="pal-bar" aria-hidden="true"><i style="background:#1c2b24"></i><i style="background:#5c6e4f"></i><i style="background:#e3c16f"></i><i style="background:#f4e9c8"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 15 · Depths</p>
+<h3 class="day-title">Light Finds You in the Shadows</h3>
+</div>
+<div class="day-num" aria-hidden="true">15</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 139:11</span><span class="trans">KJV</span></p>
+<p class="excerpt">“If I say, Surely the darkness shall cover me; even the night shall be light about me.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, when you feel hidden in shadow, remember — even your darkest hallway is bright noon to the Lord who loves you.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">Even my shadows are light to Him.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Cypress swamp at mid-morning — black tea-still water among knees and Spanish moss, hard golden sunbeams cutting canopy to the dark surface.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#1c2b24"></i><b>#1c2b24</b>swamp deep</span><span class="chip"><i style="background:#5c6e4f"></i><b>#5c6e4f</b>moss grey</span><span class="chip"><i style="background:#e3c16f"></i><b>#e3c16f</b>sun shaft</span><span class="chip"><i style="background:#f4e9c8"></i><b>#f4e9c8</b>light pool</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon warm and shaded; Fraunces 500 — sunbeams through moss ask for amber, not glare.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Sun shafts breathe ±7% opacity on an 8s loop.</li><li>Motes drift down at 2px/s; one ripple crosses the black water every 10s.</li><li>Reduced motion: shafts lit steady, water still.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-15" aria-label="Copy the image prompt for day 15">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-15">A woman seen from behind in an olive-green dress standing on a wooden boardwalk through a cypress swamp at mid-morning, black tea-colored water perfectly still among knees and Spanish moss, hard shafts of golden sunlight cutting down through the canopy to the dark surface, egret feathers and drifting motes in the beams, small still figure inside shadow and gold, generous negative space in the glowing upper canopy light for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-16" data-mv="2">
+<div class="pal-bar" aria-hidden="true"><i style="background:#171a1f"></i><i style="background:#3d4856"></i><i style="background:#c9d3d8"></i><i style="background:#e0bd7f"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 16 · Depths</p>
+<h3 class="day-title">A Very Present Help</h3>
+</div>
+<div class="day-num" aria-hidden="true">16</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 46:1–2</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“God is our refuge and strength, a very present help in trouble. Therefore we will not fear, even though the earth be removed.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>When the ground under your plans shakes like wet sand, beloved, run to the Refuge — He is very present, not far away.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">God is my refuge, right here, right now.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Volcanic black-sand beach in winter — powerful white surf, sea stacks offshore, a clearing sky breaking into silver-gold shafts, cold salt wind.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#171a1f"></i><b>#171a1f</b>black sand</span><span class="chip"><i style="background:#3d4856"></i><b>#3d4856</b>winter sea</span><span class="chip"><i style="background:#c9d3d8"></i><b>#c9d3d8</b>foam silver</span><span class="chip"><i style="background:#e0bd7f"></i><b>#e0bd7f</b>clearing gold</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon strong with full pressure; Fraunces 700 — black sand and white surf take a firm hand.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Surf rolls in on an 8s loop, the foam edge advancing 6px each pass.</li><li>Salt spray drifts left at 4px/s; clearing-sky gold brightens ±5%.</li><li>Reduced motion: a wave held mid-break, sky lit.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-16" aria-label="Copy the image prompt for day 16">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-16">A woman seen from behind in a charcoal-grey winter coat standing on a volcanic black-sand beach as powerful white surf rolls in, dramatic winter sky clearing into shafts of silver-gold light, dark sea stacks rising offshore, foam patterns racing up the glittering black sand, cold wind carrying salt spray, small steadfast figure before the roaring sea, generous negative space in the breaking-cloud upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><div class="mv-band reveal" id="mv-3">
+<p class="eyebrow">Movement III · Days 17–24</p>
+<h3>Wonders — awe reorders the heart</h3>
+<p class="mv-arc2">Eight mornings from blue-hour dunes to stormlit sunflowers — let creation preach until the heart stands up.</p>
+</div>
+<article class="day-card reveal" id="day-17" data-mv="3">
+<div class="pal-bar" aria-hidden="true"><i style="background:#2c2a4a"></i><i style="background:#6a5a8e"></i><i style="background:#d9a05b"></i><i style="background:#efe4cf"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 17 · Wonders</p>
+<h3 class="day-title">Rivers in Your Desert</h3>
+</div>
+<div class="day-num" aria-hidden="true">17</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Isaiah 43:19</span><span class="trans">KJV</span></p>
+<p class="excerpt">“I will even make a way in the wilderness, and rivers in the desert.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, God is not studying your desert for an exit — He is about to run a river through the middle of it.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">A river is coming through my desert.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Desert dunes at blue hour, high summer — long violet shadows in the ripples, the last amber band on the western crest, first stars overhead.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#2c2a4a"></i><b>#2c2a4a</b>blue hour</span><span class="chip"><i style="background:#6a5a8e"></i><b>#6a5a8e</b>dune violet</span><span class="chip"><i style="background:#d9a05b"></i><b>#d9a05b</b>last amber</span><span class="chip"><i style="background:#efe4cf"></i><b>#efe4cf</b>sand pale</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon cool and spacious; Fraunces 500 — blue hour wants room between every letter.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Ripple shadows lengthen 3% over an 8s dusk loop.</li><li>First stars fade in staggered; the violet wash deepens ±5%.</li><li>Reduced motion: blue hour held at its peak.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-17" aria-label="Copy the image prompt for day 17">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-17">A woman seen from behind in a flowing dusty-rose dress standing on the crest of a vast desert dune at blue hour, long violet shadows filling the sand ripples below, the last amber band of sun burning along the western horizon, first stars appearing overhead, wind combing the ridge line, small peaceful figure inside waves of cooling sand, generous negative space in the deep violet upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-18" data-mv="3">
+<div class="pal-bar" aria-hidden="true"><i style="background:#0e2233"></i><i style="background:#2e7d6b"></i><i style="background:#9d7fc4"></i><i style="background:#e8f0f4"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 18 · Wonders</p>
+<h3 class="day-title">The Sky Is Preaching</h3>
+</div>
+<div class="day-num" aria-hidden="true">18</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 19:1</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“The heavens declare the glory of God; and the firmament shows His handiwork.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Look up from the dishes tonight, beloved — the heavens are still preaching, and every color in the sky says glory.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">The heavens preach, and my heart agrees.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Aurora over snow, subarctic winter night — green and violet curtains folding over a frozen river valley, snow faintly glowing, profound silence.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#0e2233"></i><b>#0e2233</b>polar night</span><span class="chip"><i style="background:#2e7d6b"></i><b>#2e7d6b</b>aurora green</span><span class="chip"><i style="background:#9d7fc4"></i><b>#9d7fc4</b>aurora violet</span><span class="chip"><i style="background:#e8f0f4"></i><b>#e8f0f4</b>snow glow</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon luminous with long flourishes; Fraunces 400 — the sky is moving; the type should float.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Aurora curtains fold slowly on an 8s loop, never repeating exactly.</li><li>Snow glow pulses ±4% beneath the lights; stars stay fixed.</li><li>Reduced motion: the aurora held mid-curtain.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-18" aria-label="Copy the image prompt for day 18">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-18">A woman seen from behind in a white winter parka standing in a frozen subarctic river valley at night, great curtains of green and violet aurora folding across the entire sky, fresh snow glowing faintly under the lights, black spruce silhouettes along the ridge, breath rising in the profound silence, small wonder-struck figure beneath the dancing heavens, generous negative space among the aurora-lit upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-19" data-mv="3">
+<div class="pal-bar" aria-hidden="true"><i style="background:#14402e"></i><i style="background:#3e7d4f"></i><i style="background:#a8c69f"></i><i style="background:#f0ead2"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 19 · Wonders</p>
+<h3 class="day-title">Look What His Hands Have Made</h3>
+</div>
+<div class="day-num" aria-hidden="true">19</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 104:24</span><span class="trans">KJV</span></p>
+<p class="excerpt">“O LORD, how manifold are thy works! In wisdom hast thou made them all.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, a God wise enough to weave ten thousand greens into one forest can be trusted with your one life.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">His wisdom holds my one life.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Rainforest waterfall in the wet season, late morning — a white ribbon falling into an emerald gorge, mist rising through sun shafts, rain-jeweled leaves.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#14402e"></i><b>#14402e</b>rainforest deep</span><span class="chip"><i style="background:#3e7d4f"></i><b>#3e7d4f</b>leaf lit</span><span class="chip"><i style="background:#a8c69f"></i><b>#a8c69f</b>mist green</span><span class="chip"><i style="background:#f0ead2"></i><b>#f0ead2</b>falls white-gold</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon lush and green-warm; Fraunces 600 — abundance can carry a little weight.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Mist rises from the gorge at 5px/s on its own layer.</li><li>Sun shafts sway 4° over 8s; leaf-drip glints twinkle on a 6s cycle.</li><li>Reduced motion: falls rendered as a painted shimmer.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-19" aria-label="Copy the image prompt for day 19">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-19">A woman seen from behind in a moss-green dress standing on mossy rocks beside a towering rainforest waterfall in the wet season, a tall white ribbon of water falling into an emerald gorge, mist rising through shafts of late morning sun, every leaf jeweled with rain, butterflies drifting through the spray, small exhilarated figure before thundering abundance, generous negative space in the bright misty upper falls for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-20" data-mv="3">
+<div class="pal-bar" aria-hidden="true"><i style="background:#4a2e22"></i><i style="background:#8a5a3a"></i><i style="background:#d9b25c"></i><i style="background:#3f5a3a"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 20 · Wonders</p>
+<h3 class="day-title">When the Trees Rejoice</h3>
+</div>
+<div class="day-num" aria-hidden="true">20</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 96:12</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“Let the field be joyful, and all that is in it. Then all the trees of the woods will rejoice.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Walk slow among the tall trees, dear one — if the woods can keep their praise this long, so can you.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">I keep my praise like the trees keep theirs.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Redwood cathedral at golden hour, late summer — colossal trunks, god-rays through the high canopy onto fern and sorrel, motes drifting in amber light.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#4a2e22"></i><b>#4a2e22</b>redwood bark</span><span class="chip"><i style="background:#8a5a3a"></i><b>#8a5a3a</b>trunk light</span><span class="chip"><i style="background:#d9b25c"></i><b>#d9b25c</b>god-ray gold</span><span class="chip"><i style="background:#3f5a3a"></i><b>#3f5a3a</b>fern floor</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon reverent and tall; Fraunces 500 — cathedral light wants ascenders like trunks.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>God-rays breathe ±6% and rotate 2° on an 8s loop.</li><li>Spores drift down at 2px/s; sorrel leaves tremble faintly.</li><li>Reduced motion: rays fixed at full warmth.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-20" aria-label="Copy the image prompt for day 20">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-20">A woman seen from behind in a rust-orange dress standing among colossal redwood trunks at golden hour, great god-rays slanting through the high cathedral canopy onto ferns and redwood sorrel, dust motes drifting in the amber light, the forest floor soft and shadowed, immense scale dwarfing everything, small reverent figure inside living pillars, generous negative space in the glowing upper canopy for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-21" data-mv="3">
+<div class="pal-bar" aria-hidden="true"><i style="background:#a8392b"></i><i style="background:#d97b3f"></i><i style="background:#f0c869"></i><i style="background:#4a3527"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 21 · Wonders</p>
+<h3 class="day-title">Beautiful in His Time</h3>
+</div>
+<div class="day-num" aria-hidden="true">21</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Ecclesiastes 3:11</span><span class="trans">KJV</span></p>
+<p class="excerpt">“He hath made every thing beautiful in his time.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, the maple does not mourn its turning — let God make this season beautiful right on time, even the letting go.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">He makes my season beautiful on time.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Autumn maple path in October, mid-afternoon — a tunnel of scarlet and copper, warm low sun, leaves falling one by one onto the carpeted path.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#a8392b"></i><b>#a8392b</b>maple scarlet</span><span class="chip"><i style="background:#d97b3f"></i><b>#d97b3f</b>copper orange</span><span class="chip"><i style="background:#f0c869"></i><b>#f0c869</b>fallen gold</span><span class="chip"><i style="background:#4a3527"></i><b>#4a3527</b>path umber</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon russet and relaxed; Fraunces italic — falling leaves set an easy tempo.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Leaves fall one by one on staggered 7s loops.</li><li>Path light dapples ±4%; the far blue end of the tunnel holds still.</li><li>Reduced motion: leaves suspended above the path.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-21" aria-label="Copy the image prompt for day 21">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-21">A woman seen from behind in a long cream coat walking down a path beneath a tunnel of October maple trees, scarlet and copper leaves still falling one by one, warm low afternoon sun pouring through the canopy, the path carpeted in red and gold, cool blue distance at the end of the tunnel, small unhurried figure inside a corridor of fire, generous negative space in the glowing upper canopy for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-22" data-mv="3">
+<div class="pal-bar" aria-hidden="true"><i style="background:#e8c56a"></i><i style="background:#f6e7b8"></i><i style="background:#f4efe2"></i><i style="background:#7a6a4f"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 22 · Wonders</p>
+<h3 class="day-title">Sun Above, Shield Beside</h3>
+</div>
+<div class="day-num" aria-hidden="true">22</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 84:11</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“For the LORD God is a sun and shield; the LORD will give grace and glory.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, the Lord is your sun overhead and your shield beside — you walk golden and guarded at the same time.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">The Lord is my sun and my shield.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Golden aspen tunnel in late September, morning — quaking leaves lit like coins, white trunks in pale rows, cool mountain air, spiraling gold.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#e8c56a"></i><b>#e8c56a</b>aspen gold</span><span class="chip"><i style="background:#f6e7b8"></i><b>#f6e7b8</b>leaf pale</span><span class="chip"><i style="background:#f4efe2"></i><b>#f4efe2</b>trunk white</span><span class="chip"><i style="background:#7a6a4f"></i><b>#7a6a4f</b>forest shade</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon golden, quick and light; Fraunces 600 — trembling leaves want a trembling script.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Aspen leaves tremble on a quick 6s shimmer.</li><li>Gold light breathes ±5%; a few leaves detach and spiral down over 8s.</li><li>Reduced motion: leaves held mid-tremble.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-22" aria-label="Copy the image prompt for day 22">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-22">A woman seen from behind in a soft caramel coat standing inside a golden aspen tunnel in late September, quaking leaves overhead lit like a thousand trembling coins, white trunks rising in pale rows, cool mountain morning air, coins of light scattered across the path, a few leaves drifting down in slow spirals, small delighted figure inside trembling gold, generous negative space in the bright upper canopy for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-23" data-mv="3">
+<div class="pal-bar" aria-hidden="true"><i style="background:#a8d0e0"></i><i style="background:#e3eef2"></i><i style="background:#1d3040"></i><i style="background:#f0b7a8"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 23 · Wonders</p>
+<h3 class="day-title">Wonders Too Great to Count</h3>
+</div>
+<div class="day-num" aria-hidden="true">23</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Job 37:5–6</span><span class="trans">KJV</span></p>
+<p class="excerpt">“Great things doeth he, which we cannot comprehend. For he saith to the snow, Be thou on the earth.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, some things God does will not fit your explanations — receive them like snowfall: quietly, with your face turned up.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">I receive wonders I cannot explain.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Iceberg lagoon at first light, deep winter — blue-glass bergs drifting on black still water, pale pink sunrise behind the ice, crystalline air.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#a8d0e0"></i><b>#a8d0e0</b>ice blue</span><span class="chip"><i style="background:#e3eef2"></i><b>#e3eef2</b>berg white</span><span class="chip"><i style="background:#1d3040"></i><b>#1d3040</b>lagoon black</span><span class="chip"><i style="background:#f0b7a8"></i><b>#f0b7a8</b>sunrise pink</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon crystalline, minimal flourish; Fraunces 400 — ice asks the letters to keep their edges.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Bergs drift at 1px/s on black glass water.</li><li>Sunrise pink deepens ±4% over 8s; berg edges glint on a 7s twinkle.</li><li>Reduced motion: the lagoon frozen in first light.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-23" aria-label="Copy the image prompt for day 23">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-23">A woman seen from behind in a deep navy parka standing at the edge of an iceberg lagoon at first light, great blue-glass bergs drifting on black still water, pale pink sunrise glowing behind the ice, crystalline air so clear the world feels newly made, a few seabirds crossing the light, small wondering figure before slow ancient ice, generous negative space in the pale rose upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-24" data-mv="3">
+<div class="pal-bar" aria-hidden="true"><i style="background:#3c4048"></i><i style="background:#e8b93f"></i><i style="background:#8a6d2f"></i><i style="background:#d9d2c0"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 24 · Wonders</p>
+<h3 class="day-title">Rejoice Anyway, Beloved</h3>
+</div>
+<div class="day-num" aria-hidden="true">24</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Habakkuk 3:18</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“Yet I will rejoice in the LORD, I will joy in the God of my salvation.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, when the field has no bloom and the sky looks like trouble, lift your face anyway — joy is a decision.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">Yet will I rejoice in the Lord.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Sunflower field under stormlight, high summer — silver thunderheads overhead with one break of low gold igniting a thousand upturned faces.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#3c4048"></i><b>#3c4048</b>storm silver</span><span class="chip"><i style="background:#e8b93f"></i><b>#e8b93f</b>sunflower gold</span><span class="chip"><i style="background:#8a6d2f"></i><b>#8a6d2f</b>stalk umber</span><span class="chip"><i style="background:#d9d2c0"></i><b>#d9d2c0</b>break of light</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon defiant and bright; Fraunces 700 for the vow — stormlight is for standing firm.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Thunderheads slide at 5px/s across the upper frame.</li><li>The gold break pulses ±7%; sunflower heads nod on a 6s wave.</li><li>Reduced motion: the break of light held open.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-24" aria-label="Copy the image prompt for day 24">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-24">A woman seen from behind in a denim jacket and floral dress standing in a vast sunflower field under stormlight, dark silver thunderheads overhead while a single break of low golden sun ignites thousands of upturned faces, wind bending the stalks in waves, rain smell in the air, light breaking against the coming weather, small radiant figure inside a field of gold, generous negative space in the storm-bright upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><div class="mv-band reveal" id="mv-4">
+<p class="eyebrow">Movement IV · Days 25–31</p>
+<h3>Kingdom Light — walking in what you’ve received</h3>
+<p class="mv-arc2">Seven mornings from moonlit wheat to the city of light — the harvest, the promise, and the porch light of home.</p>
+</div>
+<article class="day-card reveal" id="day-25" data-mv="4">
+<div class="pal-bar" aria-hidden="true"><i style="background:#c9a24b"></i><i style="background:#8a6f3a"></i><i style="background:#f0d49a"></i><i style="background:#232c47"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 25 · Kingdom Light</p>
+<h3 class="day-title">Your Tears Are Seeds</h3>
+</div>
+<div class="day-num" aria-hidden="true">25</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 126:6</span><span class="trans">KJV</span></p>
+<p class="excerpt">“He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, every tear you have sown into that pillow is a seed — God keeps the rows, and the sheaves are coming.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">I will come home carrying sheaves.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Moonlit wheat field, late summer — a huge amber harvest moon rising over ripe grain, silver-gold light, warm wind moving in slow waves.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#c9a24b"></i><b>#c9a24b</b>wheat gold</span><span class="chip"><i style="background:#8a6f3a"></i><b>#8a6f3a</b>straw shade</span><span class="chip"><i style="background:#f0d49a"></i><b>#f0d49a</b>moon amber</span><span class="chip"><i style="background:#232c47"></i><b>#232c47</b>night blue</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon mellow and low; Fraunces 500 italic — moonrise slows every stroke down.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Wheat heads roll in slow 8s waves across the field.</li><li>The moon’s halo breathes ±4%; warm-wind streaks drift faintly.</li><li>Reduced motion: the field held mid-wave under a steady moon.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-25" aria-label="Copy the image prompt for day 25">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-25">A woman seen from behind in a simple linen dress standing in a moonlit wheat field in late summer, a huge amber harvest moon rising over ripe grain, silver-gold light washing the rolling heads, warm wind moving through the field in slow waves, the farmhouse far behind her, small grateful figure inside a sea of gold at night, generous negative space in the deep indigo upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-26" data-mv="4">
+<div class="pal-bar" aria-hidden="true"><i style="background:#b98a3e"></i><i style="background:#e3c27a"></i><i style="background:#5f7a4a"></i><i style="background:#7a5a3a"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 26 · Kingdom Light</p>
+<h3 class="day-title">The Year Wears a Crown</h3>
+</div>
+<div class="day-num" aria-hidden="true">26</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Psalm 65:11</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“You crown the year with Your goodness, and Your paths drip with abundance.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Dear one, goodness is not behind you — it drips from His path onto yours, step after terraced step, all year long.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">Goodness crowns my year and my path.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Terraced rice hills at golden hour, early autumn — flooded gold terraces stair-stepping into a valley of evening haze, long warm light.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#b98a3e"></i><b>#b98a3e</b>terrace gold</span><span class="chip"><i style="background:#e3c27a"></i><b>#e3c27a</b>haze gold</span><span class="chip"><i style="background:#5f7a4a"></i><b>#5f7a4a</b>seedling green</span><span class="chip"><i style="background:#7a5a3a"></i><b>#7a5a3a</b>earth wall</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon generous and golden; Fraunces 600 — harvest plenty carries a full, round hand.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Terrace glints scroll at 3px/s down the stair-steps.</li><li>Evening haze drifts at 4px/s; the gold deepens ±5% over 8s.</li><li>Reduced motion: terraces glowing steady at golden hour.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-26" aria-label="Copy the image prompt for day 26">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-26">A woman seen from behind in a terracotta dress standing on the ridge of terraced rice hills at golden hour, flooded gold terraces stair-stepping down into a valley of soft evening haze, low warm sun glinting off a hundred small mirrors of water, distant wooden village roofs, the whole hillside glowing like poured honey, small content figure above the shining steps, generous negative space in the hazy amber upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-27" data-mv="4">
+<div class="pal-bar" aria-hidden="true"><i style="background:#4f7350"></i><i style="background:#a8c4a0"></i><i style="background:#d9a1b6"></i><i style="background:#f2ead9"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 27 · Kingdom Light</p>
+<h3 class="day-title">He Comes Like the Rain</h3>
+</div>
+<div class="day-num" aria-hidden="true">27</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Hosea 6:3</span><span class="trans">KJV</span></p>
+<p class="excerpt">“He shall come unto us as the rain, as the latter and former rain unto the earth.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, after the rain the garden smells like mercy — that is how Jesus comes to a heart that has been stormed on.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">Jesus comes to me like the rain.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>English walled garden just after summer rain, morning — roses and delphiniums heavy with drops, gravel glistening, sun breaking through, everything glazed.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#4f7350"></i><b>#4f7350</b>leaf wet</span><span class="chip"><i style="background:#a8c4a0"></i><b>#a8c4a0</b>rain-washed green</span><span class="chip"><i style="background:#d9a1b6"></i><b>#d9a1b6</b>rose wet</span><span class="chip"><i style="background:#f2ead9"></i><b>#f2ead9</b>sun break</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon fresh and rain-washed; Fraunces 500 — the garden after rain wants clean, dewy strokes.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Drops glint and fall from petals on staggered 6s loops.</li><li>The sun break breathes ±6%; faint steam rises at 2px/s.</li><li>Reduced motion: every drop jeweled in place.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-27" aria-label="Copy the image prompt for day 27">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-27">A woman seen from behind in a sage-green dress walking through an English walled garden just after summer rain, roses and delphiniums heavy with drops, gravel path glistening, morning sun breaking through and turning every leaf to glass, soft steam rising from the warmed beds, an old wooden gate half open, small refreshed figure inside washed green light, generous negative space in the bright rain-cleared upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-28" data-mv="4">
+<div class="pal-bar" aria-hidden="true"><i style="background:#25284a"></i><i style="background:#6a5a8e"></i><i style="background:#e8e36a"></i><i style="background:#7a8a5a"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 28 · Kingdom Light</p>
+<h3 class="day-title">Your Small Light Matters</h3>
+</div>
+<div class="day-num" aria-hidden="true">28</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Matthew 5:16</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“Let your light so shine before men, that they may see your good works and glorify your Father in heaven.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, you do not have to be a lighthouse — be a firefly; somebody’s whole evening turns on your small yes.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">My small light matters to God.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Firefly meadow at midsummer dusk — long grass and wild carrot, hundreds of lanterns rising as the sky fades from violet to indigo.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#25284a"></i><b>#25284a</b>dusk indigo</span><span class="chip"><i style="background:#6a5a8e"></i><b>#6a5a8e</b>meadow violet</span><span class="chip"><i style="background:#e8e36a"></i><b>#e8e36a</b>firefly glow</span><span class="chip"><i style="background:#7a8a5a"></i><b>#7a8a5a</b>grass dusk</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon playful, small sparks of flourish; Fraunces 400 — fireflies ask the script to blink, not blaze.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Fireflies rise on independent 6–9s loops with a soft blink.</li><li>Sky violet deepens ±4%; grass sways gently at the figure’s hem.</li><li>Reduced motion: fireflies lit and held mid-rise.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-28" aria-label="Copy the image prompt for day 28">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-28">A woman seen from behind in a simple white dress standing in a midsummer meadow at dusk, hundreds of fireflies rising from long grass and wild carrot as the sky fades from violet to indigo, warm dark air, the first stars overhead, tiny lanterns drifting around her like a blessing, small wonder-lit figure inside a field of living sparks, generous negative space in the deep violet upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-29" data-mv="4">
+<div class="pal-bar" aria-hidden="true"><i style="background:#e78f8f"></i><i style="background:#f0c869"></i><i style="background:#9d7fc4"></i><i style="background:#f6efe2"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 29 · Kingdom Light</p>
+<h3 class="day-title">Soon, Face to Face</h3>
+</div>
+<div class="day-num" aria-hidden="true">29</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">1 Corinthians 13:12</span><span class="trans">KJV</span></p>
+<p class="excerpt">“For now we see through a glass, darkly; but then face to face.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, what you see now is sky in a mirror — one day soon, face to face, and no more squinting.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">Soon I will see Him face to face.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Salt-flat mirror at dusk after rain — a thin sheet of water doubling the burning rose-and-gold sky, horizonless, one breeze streaking the surface.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#e78f8f"></i><b>#e78f8f</b>dusk rose</span><span class="chip"><i style="background:#f0c869"></i><b>#f0c869</b>burning gold</span><span class="chip"><i style="background:#9d7fc4"></i><b>#9d7fc4</b>mirror violet</span><span class="chip"><i style="background:#f6efe2"></i><b>#f6efe2</b>salt white</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon mirrored and serene; Fraunces 500 — a sky under your feet wants perfect poise.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>The mirrored sky ripples ±2px around her steps.</li><li>Rose-gold burn deepens ±5% over 8s; one breeze streaks the surface per loop.</li><li>Reduced motion: the mirror held perfect.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-29" aria-label="Copy the image prompt for day 29">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-29">A woman seen from behind in a flowing pale-gold dress walking across a vast salt flat covered by a thin sheet of water at dusk, the whole burning rose-and-gold sky perfectly mirrored under her feet, horizonless world of light, her reflection walking beneath her, absolute stillness except one breeze streaking the surface, small serene figure stepping through the sky itself, generous negative space in the luminous mirrored upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-30" data-mv="4">
+<div class="pal-bar" aria-hidden="true"><i style="background:#101a33"></i><i style="background:#27406b"></i><i style="background:#c8b06a"></i><i style="background:#8a4a3a"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 30 · Kingdom Light</p>
+<h3 class="day-title">Count the Stars, Beloved</h3>
+</div>
+<div class="day-num" aria-hidden="true">30</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Genesis 15:5</span><span class="trans">NKJV</span></p>
+<p class="excerpt">“Look now toward heaven, and count the stars if you are able to number them.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, step outside and count the stars like Abraham — God’s promises outnumber every reason you have for worry tonight.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">His promises outnumber my worries.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>Star-trail desert night, autumn midnight — the Milky Way wheeling in great arcs over a lone juniper and sandstone hoodoos, deep indigo silence.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#101a33"></i><b>#101a33</b>deep night</span><span class="chip"><i style="background:#27406b"></i><b>#27406b</b>milky-way blue</span><span class="chip"><i style="background:#c8b06a"></i><b>#c8b06a</b>star gold</span><span class="chip"><i style="background:#8a4a3a"></i><b>#8a4a3a</b>hoodoo red</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon midnight-quiet; Fraunces 600 — star trails want a steady hand and a patient eye.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>Star trails rotate almost imperceptibly on an 8s loop.</li><li>Milky Way dust twinkles staggered; the juniper silhouette never moves.</li><li>Reduced motion: trails painted and fixed.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-30" aria-label="Copy the image prompt for day 30">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-30">A woman seen from behind in a warm wool shawl and long dress standing beside a lone juniper in the high desert at moonless midnight, the Milky Way wheeling in great arcs of star trails over red sandstone hoodoos, deep indigo silence, the earth cool and ancient beneath her, promise as wide as the sky, small faithful figure beneath ten thousand circling lights, generous negative space in the star-wheeled upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article><article class="day-card reveal" id="day-31" data-mv="4">
+<div class="pal-bar" aria-hidden="true"><i style="background:#f0d9a0"></i><i style="background:#e8a35c"></i><i style="background:#fdf6e3"></i><i style="background:#9d7fc4"></i><i style="background:#5d3f82"></i></div>
+<div class="day-body">
+<div class="day-head">
+<div>
+<p class="day-eyebrow">Day 31 · Kingdom Light</p>
+<h3 class="day-title">Home Has Its Lights On</h3>
+</div>
+<div class="day-num" aria-hidden="true">31</div>
+</div>
+<div class="day-grid">
+<div class="day-col">
+<div class="field anchor">
+<span class="flabel">Anchor</span>
+<p><span class="ref">Revelation 21:23</span><span class="trans">KJV</span></p>
+<p class="excerpt">“The city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it.”</p>
+</div>
+<div class="field">
+<span class="flabel">Reflection</span>
+<p>Beloved, the porch light of heaven never goes out — the Father has left the city shining for your homecoming.</p>
+</div>
+<div class="field">
+<span class="flabel">Affirmation · cream brush block</span>
+<p class="brush">I am walking home to the city of light.</p>
+</div>
+</div>
+<div class="day-col">
+<div class="field">
+<span class="flabel">Environment</span>
+<p>A city of light on a high hill at eternal dawn — New Jerusalem-inspired: jasper and gold walls glowing from within, open gates, a river of light, no night anywhere.</p>
+</div>
+<div class="field">
+<span class="flabel">Palette</span>
+<div class="swatches"><span class="chip"><i style="background:#f0d9a0"></i><b>#f0d9a0</b>city gold</span><span class="chip"><i style="background:#e8a35c"></i><b>#e8a35c</b>gate amber</span><span class="chip"><i style="background:#fdf6e3"></i><b>#fdf6e3</b>glory white</span><span class="chip"><i style="background:#9d7fc4"></i><b>#9d7fc4</b>dawn violet</span><span class="chip"><i style="background:#5d3f82"></i><b>#5d3f82</b>brand</span></div>
+</div>
+<div class="field">
+<span class="flabel">Type mood</span>
+<p class="typemood">Pinyon radiant at full size; Fraunces 700 for the crescendo — the last morning gets the brightest letters.</p>
+</div>
+<div class="field">
+<span class="flabel">Motion notes</span>
+<ul class="motion"><li>The river of light flows through the streets at 4px/s.</li><li>The gates’ glow breathes ±5% over 8s; light motes ascend at 3px/s.</li><li>Reduced motion: the city radiant and still.</li></ul>
+</div>
+</div>
+</div>
+<div class="prompt-block">
+<div class="prompt-head">
+<span class="flabel">Image prompt · copy-ready</span>
+<span class="prompt-meta">9:16 portrait · 4K · HDR</span>
+<button class="copy-btn" type="button" data-target="prompt-31" aria-label="Copy the image prompt for day 31">Copy prompt</button>
+</div>
+<p class="prompt-text" id="prompt-31">A woman seen from behind in a radiant white and gold dress standing on a hill path before a magnificent city of light at eternal dawn, jasper and gold walls glowing from within, gates standing open, a river of light running through the streets, no night anywhere, the whole horizon radiant with welcome, small homecoming figure before the holy city, generous negative space in the glory-bright upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed</p>
+</div>
+</div>
+</article></div>
+</section>
+
+<section class="sec ink" id="run">
+<div class="wrap">
+<div class="sec-head reveal">
+<p class="eyebrow">Section 04 · How to Run This Pack</p>
+<h2>From Spec to Keepsake.</h2>
+<p class="sec-lede">Three steps, in order. The prompts are final-draft quality: they already carry the woman-from-behind composition, the brush-block-safe negative space, and the no-text guards.</p>
+</div>
+<div class="steps">
+<div class="step reveal">
+<div class="n">1</div>
+<h3>Approve or adjust any day</h3>
+<p>Lady D reviews titles, scriptures, and palettes first. A day is locked only after she approves it — swap a verse or a scene here, on paper, before anything is generated.</p>
+</div>
+<div class="step reveal">
+<div class="n">2</div>
+<h3>Generate the 31 visuals</h3>
+<p>Run each copy-ready prompt verbatim at 9:16 portrait, 4K, HDR. Keep the upper negative space clean for the brush blocks, and regenerate any frame that adds text, watermark, or a visible face.</p>
+</div>
+<div class="step reveal">
+<div class="n">3</div>
+<h3>Assemble keepsake + social set</h3>
+<p>Compose the day label, scripture, and affirmation over each visual using the Type and Blocks rules, then export the keepsake PDF and the social set. The motion notes become the app layer in a later session.</p>
+</div>
+</div>
+</div>
+</section>
+
+<footer class="footer">
+<div class="footer-inner">
+<div class="f-left">Island Development Crew LLC — IDC Publishing</div>
+<div class="f-right">Prepared for Susan “Lady D” Damon · July 2026 · Review copy — not for public distribution</div>
+</div>
+</footer>
+
+<script>
+(function(){
+"use strict";
+var nav=document.getElementById("nav");
+function onScroll(){if(nav){nav.classList.toggle("scrolled",window.scrollY>40)}}
+onScroll();
+window.addEventListener("scroll",onScroll,{passive:true});
+
+var menuBtn=document.getElementById("menuBtn");
+var navLinks=document.getElementById("navLinks");
+if(menuBtn&&navLinks){
+menuBtn.addEventListener("click",function(){
+var open=navLinks.classList.toggle("open");
+menuBtn.setAttribute("aria-expanded",open?"true":"false");
+});
+navLinks.addEventListener("click",function(e){
+if(e.target&&e.target.tagName==="A"){navLinks.classList.remove("open");menuBtn.setAttribute("aria-expanded","false")}
+});
+}
+
+var reduce=window.matchMedia&&window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+var els=document.querySelectorAll(".reveal");
+if(reduce||!("IntersectionObserver" in window)){
+for(var i=0;i<els.length;i++){els[i].classList.add("in")}
+}else{
+var io=new IntersectionObserver(function(entries){
+entries.forEach(function(en){
+if(en.isIntersecting){en.target.classList.add("in");io.unobserve(en.target)}
+});
+},{threshold:.1,rootMargin:"0px 0px -36px 0px"});
+for(var j=0;j<els.length;j++){io.observe(els[j])}
+}
+
+function flash(btn,ok){
+var label=btn.getAttribute("data-label")||"Copy prompt";
+btn.classList.add("done");
+btn.textContent=ok?"Copied":"Select + Ctrl-C";
+window.setTimeout(function(){btn.classList.remove("done");btn.textContent=label},1900);
+}
+var btns=document.querySelectorAll(".copy-btn");
+for(var k=0;k<btns.length;k++){
+(function(btn){
+btn.setAttribute("data-label",btn.textContent);
+btn.addEventListener("click",function(){
+var target=document.getElementById(btn.getAttribute("data-target"));
+if(!target){return}
+var text=target.textContent;
+function legacy(){
+var ta=document.createElement("textarea");
+ta.value=text;
+ta.setAttribute("readonly","");
+ta.style.position="fixed";
+ta.style.top="0";
+ta.style.left="0";
+ta.style.opacity="0";
+document.body.appendChild(ta);
+ta.focus();
+ta.select();
+var ok=false;
+try{ok=document.execCommand("copy")}catch(err){ok=false}
+document.body.removeChild(ta);
+flash(btn,ok);
+}
+if(navigator.clipboard&&navigator.clipboard.writeText){
+navigator.clipboard.writeText(text).then(function(){flash(btn,true)}).catch(legacy);
+}else{legacy()}
+});
+})(btns[k])
+}
+})();
+</script>
+</body>
+</html>

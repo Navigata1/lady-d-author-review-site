@@ -1,0 +1,225 @@
+{
+  "status": "passed",
+  "authority": "advisory",
+  "interpretation": "Lower is fewer measured AI-writing tells; the score is not a theological or literary verdict.",
+  "scores": {
+    "vol1": {
+      "before": 28,
+      "after": 27,
+      "delta": -1,
+      "before_pattern_score": 23,
+      "after_pattern_score": 22,
+      "before_uniformity_score": 40,
+      "after_uniformity_score": 40,
+      "after_top_findings": [
+        {
+          "id": 4,
+          "category": "content",
+          "weight": 3,
+          "matchCount": 3
+        },
+        {
+          "id": 7,
+          "category": "language",
+          "weight": 5,
+          "matchCount": 6
+        },
+        {
+          "id": 9,
+          "category": "language",
+          "weight": 3,
+          "matchCount": 11
+        },
+        {
+          "id": 10,
+          "category": "language",
+          "weight": 2,
+          "matchCount": 1
+        },
+        {
+          "id": 22,
+          "category": "filler",
+          "weight": 3,
+          "matchCount": 8
+        },
+        {
+          "id": 23,
+          "category": "filler",
+          "weight": 3,
+          "matchCount": 1
+        }
+      ]
+    },
+    "vol2": {
+      "before": 30,
+      "after": 29,
+      "delta": -1,
+      "before_pattern_score": 25,
+      "after_pattern_score": 24,
+      "before_uniformity_score": 40,
+      "after_uniformity_score": 40,
+      "after_top_findings": [
+        {
+          "id": 4,
+          "category": "content",
+          "weight": 3,
+          "matchCount": 1
+        },
+        {
+          "id": 7,
+          "category": "language",
+          "weight": 5,
+          "matchCount": 5
+        },
+        {
+          "id": 8,
+          "category": "language",
+          "weight": 3,
+          "matchCount": 7
+        },
+        {
+          "id": 9,
+          "category": "language",
+          "weight": 3,
+          "matchCount": 13
+        },
+        {
+          "id": 12,
+          "category": "language",
+          "weight": 2,
+          "matchCount": 1
+        },
+        {
+          "id": 22,
+          "category": "filler",
+          "weight": 3,
+          "matchCount": 7
+        },
+        {
+          "id": 23,
+          "category": "filler",
+          "weight": 3,
+          "matchCount": 1
+        }
+      ]
+    },
+    "vol3": {
+      "before": 30,
+      "after": 29,
+      "delta": -1,
+      "before_pattern_score": 26,
+      "after_pattern_score": 24,
+      "before_uniformity_score": 40,
+      "after_uniformity_score": 40,
+      "after_top_findings": [
+        {
+          "id": 4,
+          "category": "content",
+          "weight": 3,
+          "matchCount": 3
+        },
+        {
+          "id": 7,
+          "category": "language",
+          "weight": 5,
+          "matchCount": 4
+        },
+        {
+          "id": 8,
+          "category": "language",
+          "weight": 3,
+          "matchCount": 4
+        },
+        {
+          "id": 9,
+          "category": "language",
+          "weight": 3,
+          "matchCount": 14
+        },
+        {
+          "id": 10,
+          "category": "language",
+          "weight": 2,
+          "matchCount": 1
+        },
+        {
+          "id": 22,
+          "category": "filler",
+          "weight": 3,
+          "matchCount": 6
+        },
+        {
+          "id": 23,
+          "category": "filler",
+          "weight": 3,
+          "matchCount": 1
+        }
+      ]
+    },
+    "all-volumes": {
+      "before": 32,
+      "after": 32,
+      "delta": 0,
+      "before_pattern_score": 27,
+      "after_pattern_score": 26,
+      "before_uniformity_score": 45,
+      "after_uniformity_score": 45,
+      "after_top_findings": [
+        {
+          "id": 4,
+          "category": "content",
+          "weight": 3,
+          "matchCount": 7
+        },
+        {
+          "id": 7,
+          "category": "language",
+          "weight": 5,
+          "matchCount": 15
+        },
+        {
+          "id": 8,
+          "category": "language",
+          "weight": 3,
+          "matchCount": 11
+        },
+        {
+          "id": 9,
+          "category": "language",
+          "weight": 3,
+          "matchCount": 38
+        },
+        {
+          "id": 10,
+          "category": "language",
+          "weight": 2,
+          "matchCount": 2
+        },
+        {
+          "id": 12,
+          "category": "language",
+          "weight": 2,
+          "matchCount": 1
+        },
+        {
+          "id": 22,
+          "category": "filler",
+          "weight": 3,
+          "matchCount": 21
+        },
+        {
+          "id": 23,
+          "category": "filler",
+          "weight": 3,
+          "matchCount": 3
+        }
+      ]
+    }
+  },
+  "requirements": {
+    "no_volume_regression": true,
+    "each_volume_strict_drop": true,
+    "full_corpus_no_regression": true,
+    "note": "The aggregate score is rounded to an integer; each separately scored book drops by one point while the combined rounded score remains flat."
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "status": "passed",
+  "authority": "deterministic editorial judge, not an independent model review",
+  "rubric": {
+    "human pressure hook": 15,
+    "textual teaching observation": 20,
+    "concrete lived struggle": 15,
+    "direct reader address": 10,
+    "confidence cadence": 15,
+    "lived response": 10,
+    "full prayer": 10,
+    "reflection plus action": 5
+  },
+  "volumes": {
+    "1": {
+      "entries": 366,
+      "average": 99.36,
+      "median": 100.0,
+      "minimum": 85,
+      "entries_below_90": 13,
+      "lowest_samples": [
+        {
+          "day": 56,
+          "score": 85,
+          "reasons": [
+            "third paragraph could name the reader's lived struggle more concretely"
+          ]
+        },
+        {
+          "day": 57,
+          "score": 85,
+          "reasons": [
+            "third paragraph could name the reader's lived struggle more concretely"
+          ]
+        },
+        {
+          "day": 130,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 139,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 152,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 199,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 282,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 285,
+          "score": 85,
+          "reasons": [
+            "closing paragraph lacks a memorable confidence cadence"
+          ]
+        },
+        {
+          "day": 293,
+          "score": 85,
+          "reasons": [
+            "closing paragraph lacks a memorable confidence cadence"
+          ]
+        },
+        {
+          "day": 296,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 304,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 315,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 334,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "entries": 366,
+      "average": 99.23,
+      "median": 100.0,
+      "minimum": 80,
+      "entries_below_90": 16,
+      "lowest_samples": [
+        {
+          "day": 73,
+          "score": 80,
+          "reasons": [
+            "second paragraph lacks an explicit textual teaching turn"
+          ]
+        },
+        {
+          "day": 9,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 12,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 46,
+          "score": 85,
+          "reasons": [
+            "third paragraph could name the reader's lived struggle more concretely"
+          ]
+        },
+        {
+          "day": 50,
+          "score": 85,
+          "reasons": [
+            "third paragraph could name the reader's lived struggle more concretely"
+          ]
+        },
+        {
+          "day": 54,
+          "score": 85,
+          "reasons": [
+            "third paragraph could name the reader's lived struggle more concretely"
+          ]
+        },
+        {
+          "day": 56,
+          "score": 85,
+          "reasons": [
+            "third paragraph could name the reader's lived struggle more concretely"
+          ]
+        },
+        {
+          "day": 66,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 76,
+          "score": 85,
+          "reasons": [
+            "third paragraph could name the reader's lived struggle more concretely"
+          ]
+        },
+        {
+          "day": 118,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 167,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 178,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 253,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 319,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 335,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 344,
+          "score": 85,
+          "reasons": [
+            "closing paragraph lacks a memorable confidence cadence"
+          ]
+        }
+      ]
+    },
+    "3": {
+      "entries": 366,
+      "average": 99.28,
+      "median": 100.0,
+      "minimum": 85,
+      "entries_below_90": 14,
+      "lowest_samples": [
+        {
+          "day": 73,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 164,
+          "score": 85,
+          "reasons": [
+            "closing paragraph lacks a memorable confidence cadence"
+          ]
+        },
+        {
+          "day": 223,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 227,
+          "score": 85,
+          "reasons": [
+            "third paragraph could name the reader's lived struggle more concretely"
+          ]
+        },
+        {
+          "day": 238,
+          "score": 85,
+          "reasons": [
+            "closing paragraph lacks a memorable confidence cadence"
+          ]
+        },
+        {
+          "day": 239,
+          "score": 85,
+          "reasons": [
+            "third paragraph could name the reader's lived struggle more concretely"
+          ]
+        },
+        {
+          "day": 287,
+          "score": 85,
+          "reasons": [
+            "closing paragraph lacks a memorable confidence cadence"
+          ]
+        },
+        {
+          "day": 294,
+          "score": 85,
+          "reasons": [
+            "closing paragraph lacks a memorable confidence cadence"
+          ]
+        },
+        {
+          "day": 315,
+          "score": 85,
+          "reasons": [
+            "opening needs a fuller human-pressure hook"
+          ]
+        },
+        {
+          "day": 344,
+          "score": 85,
+          "reasons": [
+            "third paragraph could name the reader's lived struggle more concretely"
+          ]
+        },
+        {
+          "day": 352,
+          "score": 85,
+          "reasons": [
+            "third paragraph could name the reader's lived struggle more concretely"
+          ]
+        },
+        {
+          "day": 355,
+          "score": 85,
+          "reasons": [
+            "third paragraph could name the reader's lived struggle more concretely"
+          ]
+        },
+        {
+          "day": 357,
+          "score": 85,
+          "reasons": [
+            "third paragraph could name the reader's lived struggle more concretely"
+          ]
+        },
+        {
+          "day": 359,
+          "score": 85,
+          "reasons": [
+            "third paragraph could name the reader's lived struggle more concretely"
+          ]
+        }
+      ]
+    }
+  },
+  "overall": {
+    "entries": 1098,
+    "average": 99.29,
+    "median": 100.0,
+    "minimum": 80,
+    "entries_below_80": 0
+  },
+  "failures": []
+}

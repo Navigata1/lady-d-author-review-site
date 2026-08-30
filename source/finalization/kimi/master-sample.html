@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lady D Command Suite — Master Sample: One Day, Done Right</title>
+<meta name="description" content="The new devotional page format, proven: one full sample day per volume — full scripture text, correlative thread, fuller body, fused journal prompt, quiet language lens, glossary hook. Prepared by Island Development Crew LLC — IDC Publishing.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Pinyon+Script&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#0f1b2e; --ink-2:#0b1626; --indigo:#1c3a5e; --linen:#f2ead9; --linen-dim:#cdc3b0;
+  --paper:#f6efe2; --gold:#cb9a4c; --gold-soft:#e0bd7f; --madder:#a8392b; --willow:#6f8a66;
+  --v1-rose:#c98aa8; --v1-lavender:#9d7fc4; --v1-sunrise:#e8a35c;
+  --v2-olive:#7d9263; --v2-gold:#d3ac5e; --v3-blue:#5b87c7; --v3-ray:#f0c869;
+  --ok:#5f9e6e; --warn:#d9a441; --wait:#c96f5a;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:"Spectral",Georgia,serif;font-size:18px;line-height:1.7;background:var(--ink);color:var(--linen);overflow-x:hidden;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+img{display:block;max-width:100%}
+a{color:inherit;text-decoration:none}
+::selection{background:rgba(203,154,76,.4);color:#fff}
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+h1,h2,h3{font-family:"Fraunces",Georgia,serif;line-height:1.08;letter-spacing:-.01em}
+.eyebrow{font-family:"Inter",sans-serif;font-size:.72rem;font-weight:600;letter-spacing:.3em;text-transform:uppercase;color:var(--gold)}
+.sec{padding:clamp(72px,8vw,116px) 0;position:relative}
+.paper{background:var(--paper);color:var(--ink)}
+.ink-sec{background:radial-gradient(1000px 560px at 50% -10%,rgba(28,58,94,.55),transparent 64%),var(--ink)}
+.gold-rule{width:64px;height:1px;background:linear-gradient(90deg,transparent,var(--gold),transparent);margin:26px auto 0}
+a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offset:3px;border-radius:6px}
+section[id]{scroll-margin-top:88px}
+
+/* ————— Nav ————— */
+.nav{position:fixed;inset:0 0 auto 0;z-index:60;border-bottom:1px solid transparent;transition:background .35s ease,border-color .35s ease}
+.nav.scrolled{background:rgba(11,22,38,.84);-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);border-bottom-color:rgba(203,154,76,.18)}
+.nav-inner{max-width:1180px;margin:0 auto;padding:15px 28px;display:flex;align-items:center;justify-content:space-between;gap:22px}
+.brand{display:flex;align-items:center;gap:12px;flex:none}
+.brand svg{flex:none}
+.brand-name{font-family:"Fraunces",serif;font-weight:600;font-size:1.22rem;color:var(--linen);line-height:1.1;display:block}
+.brand-sub{font-family:"Inter",sans-serif;font-size:.56rem;font-weight:500;letter-spacing:.3em;text-transform:uppercase;color:var(--linen-dim);display:block;margin-top:3px}
+.nav-links{display:flex;align-items:center;gap:26px}
+.nav-links a{font-family:"Inter",sans-serif;font-size:.78rem;font-weight:500;letter-spacing:.07em;color:var(--linen-dim);transition:color .25s ease;white-space:nowrap}
+.nav-links a:hover{color:var(--gold-soft)}
+.nav-links a.active{color:var(--gold)}
+.nav-links .nav-ext{border:1px solid rgba(203,154,76,.42);border-radius:999px;padding:8px 16px;color:var(--gold-soft)}
+.nav-links .nav-ext:hover{border-color:var(--gold);background:rgba(203,154,76,.1)}
+.nav-toggle{display:none;flex-direction:column;justify-content:center;gap:5px;width:42px;height:42px;background:none;border:1px solid rgba(203,154,76,.35);border-radius:10px;cursor:pointer;padding:10px}
+.nav-toggle span{display:block;height:1.5px;background:var(--gold-soft);border-radius:2px;transition:transform .3s ease,opacity .3s ease}
+.nav-toggle[aria-expanded="true"] span:nth-child(1){transform:translateY(6.5px) rotate(45deg)}
+.nav-toggle[aria-expanded="true"] span:nth-child(2){opacity:0}
+.nav-toggle[aria-expanded="true"] span:nth-child(3){transform:translateY(-6.5px) rotate(-45deg)}
+@media (max-width:960px){
+  .nav-toggle{display:flex}
+  .nav-links{position:fixed;top:72px;left:16px;right:16px;flex-direction:column;align-items:stretch;gap:0;background:rgba(11,22,38,.97);-webkit-backdrop-filter:blur(16px);backdrop-filter:blur(16px);border:1px solid rgba(203,154,76,.25);border-radius:14px;padding:10px;opacity:0;visibility:hidden;transform:translateY(-10px);transition:opacity .3s ease,transform .3s ease,visibility .3s;box-shadow:0 24px 60px rgba(0,0,0,.5)}
+  .nav-links.open{opacity:1;visibility:visible;transform:none}
+  .nav-links a{padding:13px 14px;border-radius:8px;font-size:.85rem}
+  .nav-links a:hover{background:rgba(203,154,76,.08)}
+  .nav-links .nav-ext{margin:8px 6px 4px;text-align:center}
+}
+
+/* ————— Hero ————— */
+.hero{position:relative;min-height:92vh;display:flex;flex-direction:column;overflow:hidden;background:radial-gradient(1100px 640px at 50% 28%,rgba(28,58,94,.6),rgba(15,27,46,.2) 55%,transparent 78%),var(--ink)}
+.hero::before{content:"";position:absolute;inset:0;background:radial-gradient(ellipse at center,rgba(15,27,46,.15) 0%,rgba(11,22,38,.95) 82%);pointer-events:none;z-index:1}
+.hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:160px;background:linear-gradient(180deg,transparent,rgba(11,22,38,.6));pointer-events:none;z-index:1}
+.hero-inner{position:relative;z-index:2;flex:1;display:flex;flex-direction:column;justify-content:center;text-align:center;padding:150px 28px 70px;max-width:1000px;margin:0 auto;width:100%}
+.kicker{display:flex;align-items:center;justify-content:center;gap:18px}
+.kicker::before,.kicker::after{content:"";width:52px;height:1px;background:linear-gradient(90deg,transparent,rgba(203,154,76,.7))}
+.kicker::after{background:linear-gradient(90deg,rgba(203,154,76,.7),transparent)}
+.hero h1{font-size:clamp(2.5rem,5.6vw,4.4rem);font-weight:700;color:var(--linen);margin:22px 0 22px}
+.hero .lede{max-width:700px;margin:0 auto;color:var(--linen-dim);font-size:clamp(1rem,1.4vw,1.14rem);line-height:1.8}
+.hero .lede b{color:var(--gold-soft);font-weight:500}
+.chip-row{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:36px;max-width:820px;margin-left:auto;margin-right:auto}
+.chip{font-family:"Inter",sans-serif;font-size:.68rem;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:var(--linen-dim);border:1px solid rgba(203,154,76,.34);border-radius:999px;padding:9px 16px;display:inline-flex;align-items:center;gap:9px;background:rgba(11,22,38,.35)}
+.chip::before{content:"";width:5px;height:5px;border-radius:50%;background:var(--gold);flex:none}
+.hero-lanes{position:relative;z-index:2;border-top:1px solid rgba(203,154,76,.22);display:flex;justify-content:center;flex-wrap:wrap;background:rgba(11,22,38,.35)}
+.lane{flex:1 1 240px;max-width:393px;padding:22px 28px;display:flex;align-items:center;gap:16px;border-left:1px solid rgba(203,154,76,.18);transition:background .3s ease}
+.lane:first-child{border-left:none}
+.lane:hover{background:rgba(203,154,76,.07)}
+.lane i{width:9px;height:9px;border-radius:50%;flex:none}
+.lane-v1 i{background:var(--v1-lavender)}.lane-v2 i{background:var(--v2-olive)}.lane-v3 i{background:var(--v3-blue)}
+.lane b{display:block;font-family:"Fraunces",serif;font-weight:600;font-size:1.02rem;color:var(--linen);line-height:1.3}
+.lane span{font-family:"Inter",sans-serif;font-size:.62rem;font-weight:500;letter-spacing:.2em;text-transform:uppercase;color:var(--linen-dim);display:block;margin-top:3px}
+@media (max-width:860px){
+  .lane{border-left:none;border-top:1px solid rgba(203,154,76,.16);max-width:none}
+  .lane:first-child{border-top:none}
+}
+</style>
+<style>
+/* ————— Sample-day sections ————— */
+.v1{--acc:#9d7fc4;--acc2:#c98aa8;--acc-ink:#8768b0;--acc-soft:#cdb4e2}
+.v2{--acc:#7d9263;--acc2:#d3ac5e;--acc-ink:#637a4a;--acc-soft:#c3d3a6}
+.v3{--acc:#5b87c7;--acc2:#f0c869;--acc-ink:#3f6aa5;--acc-soft:#a8c3e6}
+.sample-head{display:flex;align-items:flex-end;justify-content:space-between;gap:36px;max-width:980px;margin:0 auto 44px}
+.sh-kicker{display:flex;align-items:center;gap:14px}
+.sh-kicker::before{content:"";width:34px;height:1px;background:var(--gold)}
+.paper .sh-kicker{color:#8a6a25}
+.ink-sec .sh-kicker{color:var(--acc-soft)}
+.sh-title{font-size:clamp(2rem,4vw,3rem);font-weight:700;margin:16px 0 14px}
+.paper .sh-title{color:var(--ink)}
+.ink-sec .sh-title{color:var(--linen)}
+.sh-meta{font-size:1rem;line-height:1.65}
+.paper .sh-meta{color:rgba(15,27,46,.68)}
+.ink-sec .sh-meta{color:var(--linen-dim)}
+.sh-meta b{font-weight:600}
+.paper .sh-meta b{color:var(--acc-ink)}
+.ink-sec .sh-meta b{color:var(--acc-soft)}
+.sh-meta .sep{color:var(--gold);padding:0 6px}
+.sh-cover{flex:none;width:118px}
+.sh-cover .cv{position:relative;aspect-ratio:2/3;border-radius:8px;overflow:hidden;border:1px solid rgba(203,154,76,.5);box-shadow:0 16px 36px rgba(15,27,46,.28);transform:rotate(2.5deg);transition:transform .35s ease}
+.sh-cover:hover .cv{transform:rotate(0)}
+.sh-cover img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+@media (max-width:680px){
+  .sample-head{flex-direction:column;align-items:flex-start;gap:22px}
+  .sh-cover{width:96px}
+}
+
+/* ————— The printed page ————— */
+.daypage{max-width:880px;margin:0 auto;background:#fdf8ec;border:1px solid #e4d8bf;border-radius:14px;box-shadow:0 24px 60px rgba(15,27,46,.22);padding:clamp(26px,4.5vw,58px) clamp(22px,5vw,64px) clamp(24px,3.5vw,44px);position:relative;color:var(--ink)}
+.daypage::before{content:"";position:absolute;top:0;left:0;right:0;height:5px;border-radius:14px 14px 0 0;background:linear-gradient(90deg,var(--acc),var(--acc2))}
+.paper .daypage{box-shadow:0 18px 44px rgba(15,27,46,.14)}
+.dp-top{display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;font-family:"Inter",sans-serif;font-size:.64rem;font-weight:600;letter-spacing:.26em;text-transform:uppercase;color:rgba(15,27,46,.5);padding-bottom:20px;margin-bottom:8px;border-bottom:1px solid #e9ddc3;text-align:center}
+.dp-top i{width:4px;height:4px;border-radius:50%;background:var(--acc);flex:none}
+.dp-top b{color:var(--acc-ink);font-weight:600}
+
+/* component labels */
+.comp{margin-top:clamp(26px,3.4vw,40px)}
+.comp-label{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;font-family:"Inter",sans-serif;font-size:.66rem;font-weight:600;letter-spacing:.24em;text-transform:uppercase;color:rgba(15,27,46,.55);margin-bottom:14px}
+.comp-label b{font-family:"Fraunces",serif;font-weight:700;font-size:1.05rem;letter-spacing:0;color:var(--acc-ink)}
+.comp-label span{font-weight:500;letter-spacing:.14em;text-transform:none;font-size:.72rem;color:rgba(15,27,46,.42)}
+.comp-label::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,#e4d8bf,transparent);align-self:center;min-width:40px}
+
+/* anchor scripture card */
+.anchor{position:relative;background:#fff;border:1px solid #e4d8bf;border-left:4px solid var(--acc);border-radius:12px;box-shadow:0 10px 30px rgba(15,27,46,.08);padding:clamp(24px,3.4vw,38px) clamp(22px,3.4vw,40px)}
+.anchor-text{font-family:"Fraunces",serif;font-weight:500;font-size:clamp(1.28rem,2.5vw,1.68rem);line-height:1.5;color:var(--ink)}
+.anchor-text .lord{letter-spacing:.04em}
+.anchor-ref{display:flex;align-items:center;gap:14px;margin-top:18px;font-family:"Inter",sans-serif;font-size:.7rem;font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--acc-ink)}
+.anchor-ref::before{content:"";width:30px;height:1px;background:var(--acc)}
+.ttag{position:absolute;top:-11px;right:22px;font-family:"Inter",sans-serif;font-size:.62rem;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:#fff;background:var(--acc-ink);border-radius:999px;padding:5px 13px;box-shadow:0 4px 12px rgba(15,27,46,.18)}
+
+/* the thread */
+.thread{position:relative;background:linear-gradient(160deg,rgba(203,154,76,.09),rgba(203,154,76,.03) 60%),#fbf4e3;border:1px dashed rgba(138,106,37,.42);border-radius:12px;padding:clamp(22px,3vw,32px) clamp(20px,3vw,34px);margin-left:clamp(0px,3vw,34px)}
+.thread::before{content:"";position:absolute;left:-18px;top:34px;width:18px;height:1px;background:var(--acc)}
+.thread::after{content:"";position:absolute;left:-21px;top:31px;width:6px;height:6px;border-radius:50%;background:var(--acc)}
+@media (max-width:680px){.thread::before,.thread::after{display:none}}
+.thread-text{font-size:1.04rem;line-height:1.75;color:rgba(15,27,46,.88);font-style:italic}
+.thread-ref{display:flex;align-items:center;gap:12px;margin-top:14px;font-family:"Inter",sans-serif;font-size:.66rem;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:var(--acc-ink)}
+.thread-ref::before{content:"";width:24px;height:1px;background:var(--acc)}
+.thread .ttag{background:#8a6a25}
+.thread-note{margin-top:16px;padding-top:14px;border-top:1px solid rgba(138,106,37,.22);font-size:.98rem;line-height:1.7;color:rgba(15,27,46,.72)}
+.thread-note b{color:var(--acc-ink);font-weight:600}
+
+/* devotional body */
+.dbody{font-size:1.05rem;line-height:1.78;color:rgba(15,27,46,.9)}
+.dbody p{margin-bottom:1.15em}
+.dbody p:last-child{margin-bottom:0}
+.dbody .dcap::first-letter{font-family:"Fraunces",serif;font-weight:600;font-size:3.3em;line-height:.82;float:left;padding:.08em .14em 0 0;color:var(--acc-ink)}
+.dbody .verse-q{font-style:italic;color:rgba(15,27,46,.78)}
+.carryline{font-weight:600;color:var(--acc-ink);border-bottom:1.5px solid var(--acc2);padding-bottom:1px}
+.prayer{margin-top:26px;padding:20px 24px;border-left:3px solid var(--acc2);background:rgba(203,154,76,.07);border-radius:0 10px 10px 0;font-style:italic;font-size:1rem;line-height:1.75;color:rgba(15,27,46,.82)}
+.prayer b{display:block;font-style:normal;font-family:"Inter",sans-serif;font-size:.62rem;font-weight:600;letter-spacing:.26em;text-transform:uppercase;color:var(--acc-ink);margin-bottom:8px}
+
+/* language lens */
+.lens{margin-top:clamp(26px,3.4vw,40px);display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;padding:14px 20px;border-top:1px solid #e9ddc3;border-bottom:1px solid #e9ddc3;font-size:.95rem;color:rgba(15,27,46,.66)}
+.lens-label{font-family:"Inter",sans-serif;font-size:.6rem;font-weight:600;letter-spacing:.26em;text-transform:uppercase;color:var(--acc-ink);flex:none}
+.lens p{font-style:italic}
+.lens .g{font-style:normal;font-weight:600;color:rgba(15,27,46,.85)}
+
+/* carry it with you — journal card */
+.journal{background:#fff;border:1px solid #e4d8bf;border-radius:12px;box-shadow:0 10px 30px rgba(15,27,46,.08);overflow:hidden}
+.journal-head{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:18px 26px;background:linear-gradient(90deg,var(--acc),var(--acc2));color:#fff}
+.journal-head h3{font-size:1.28rem;font-weight:600;color:#fff}
+.journal-head span{font-family:"Inter",sans-serif;font-size:.6rem;font-weight:600;letter-spacing:.24em;text-transform:uppercase;color:rgba(255,255,255,.85);white-space:nowrap}
+.journal-body{padding:clamp(20px,3vw,30px) clamp(20px,3vw,30px)}
+.j-q{display:flex;gap:14px;margin-bottom:16px;align-items:flex-start}
+.j-q:last-of-type{margin-bottom:0}
+.j-n{flex:none;width:26px;height:26px;border-radius:50%;border:1.5px solid var(--acc);color:var(--acc-ink);font-family:"Fraunces",serif;font-weight:600;font-size:.82rem;display:flex;align-items:center;justify-content:center;margin-top:3px}
+.j-q p{font-size:1rem;line-height:1.65;color:rgba(15,27,46,.88)}
+.j-row{margin-top:18px;padding-top:16px;border-top:1px solid #eee2c6;font-size:.98rem;line-height:1.65;color:rgba(15,27,46,.8)}
+.j-row b{font-family:"Inter",sans-serif;font-size:.62rem;font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--acc-ink);display:block;margin-bottom:6px}
+.j-row .ps{font-style:italic}
+
+/* glossary hook */
+.gloss{margin-top:clamp(24px,3vw,34px);display:flex;align-items:center;gap:12px;flex-wrap:wrap;font-family:"Inter",sans-serif;font-size:.7rem;font-weight:500;letter-spacing:.08em;color:rgba(15,27,46,.52)}
+.gloss b{font-family:"Fraunces",serif;font-weight:700;font-size:.95rem;color:var(--acc-ink);letter-spacing:0}
+.gloss .g-sep{color:var(--gold)}
+.gloss .g-arrow{color:var(--acc-ink);font-weight:600}
+
+/* ————— Codified table ————— */
+.cod-head{max-width:760px;margin:0 auto 46px;text-align:center}
+.cod-head h2{font-size:clamp(2rem,4vw,2.9rem);font-weight:700;color:var(--linen);margin:16px 0 16px}
+.cod-head .lede{color:var(--linen-dim);font-size:1.02rem;line-height:1.75}
+.table-wrap{max-width:980px;margin:0 auto;border:1px solid rgba(203,154,76,.24);border-radius:14px;overflow:hidden;background:rgba(11,22,38,.4)}
+table.cod{width:100%;border-collapse:collapse}
+table.cod th{font-family:"Inter",sans-serif;font-size:.68rem;font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);text-align:left;padding:16px 22px;border-bottom:1px solid rgba(203,154,76,.3);background:rgba(203,154,76,.06)}
+table.cod td{padding:18px 22px;border-bottom:1px solid rgba(203,154,76,.14);vertical-align:top;font-size:.94rem;line-height:1.6;color:var(--linen-dim)}
+table.cod tr:last-child td{border-bottom:none}
+table.cod tbody tr{transition:background .25s ease}
+table.cod tbody tr:hover{background:rgba(203,154,76,.05)}
+td.cod-n{font-family:"Fraunces",serif;font-weight:600;color:var(--gold-soft);white-space:nowrap}
+td.cod-c{font-family:"Fraunces",serif;font-weight:600;color:var(--linen);font-size:1.02rem;white-space:nowrap}
+@media (max-width:760px){
+  .table-wrap{overflow-x:auto}
+  table.cod{min-width:660px}
+}
+.perm{max-width:980px;margin:22px auto 0;font-size:.88rem;font-style:italic;color:var(--linen-dim);text-align:center;line-height:1.7}
+.perm b{color:var(--gold-soft);font-weight:500}
+
+/* ————— Reveal / footer ————— */
+.rv{opacity:0;transform:translateY(18px);transition:opacity .75s ease,transform .75s cubic-bezier(.22,.61,.36,1)}
+.rv.in{opacity:1;transform:none}
+.rv-d1{transition-delay:.08s}.rv-d2{transition-delay:.16s}.rv-d3{transition-delay:.24s}
+@media (prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  .rv{opacity:1;transform:none;transition:none}
+  .lane,.sh-cover .cv{transition:none}
+}
+footer{background:var(--ink-2);border-top:1px solid rgba(203,154,76,.28);padding:36px 0}
+.foot-inner{max-width:1180px;margin:0 auto;padding:0 28px;display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap}
+.foot-left{display:flex;align-items:center;gap:12px;font-family:"Inter",sans-serif;font-size:.76rem;letter-spacing:.08em;color:var(--linen-dim)}
+.foot-right{font-family:"Inter",sans-serif;font-size:.72rem;letter-spacing:.06em;color:rgba(205,195,176,.7)}
+@media (max-width:760px){.foot-inner{justify-content:center;text-align:center}}
+
+/* ————— Print ————— */
+@media print{
+  *,*::before,*::after{background:#fff!important;color:#000!important;box-shadow:none!important;text-shadow:none!important}
+  .nav,.nav-toggle,.hero::before,.hero::after,.hero-lanes{display:none!important}
+  body{font-size:11pt;line-height:1.5}
+  .hero{min-height:0;padding:0}
+  .hero-inner{padding:24px 0}
+  .chip{border:1pt solid #999}
+  .rv{opacity:1!important;transform:none!important}
+  .daypage,.anchor,.thread,.journal,.table-wrap{border:1pt solid #999}
+  .anchor,.thread,.journal,.prayer,.lens,table.cod tr{break-inside:avoid;page-break-inside:avoid}
+  .journal-head h3,.journal-head span{color:#000!important}
+  .thread{border-style:dashed}
+  a[href^="http"]::after{content:""}
+}
+</style>
+</head>
+<body>
+
+<header class="nav" id="topnav">
+  <div class="nav-inner">
+    <a class="brand" href="index.html" aria-label="Lady D Command Suite — home">
+      <svg width="30" height="30" viewBox="0 0 32 32" fill="none" aria-hidden="true"><path d="M6 7c3.5-2 7-2 10 0v18c-3-2-6.5-2-10 0V7z" stroke="#cb9a4c" stroke-width="1.6" stroke-linejoin="round"/><path d="M26 7c-3.5-2-7-2-10 0v18c3-2 6.5-2 10 0V7z" stroke="#cb9a4c" stroke-width="1.6" stroke-linejoin="round"/></svg>
+      <span><span class="brand-name">Lady D</span><span class="brand-sub">Devotional Library · IDC Publishing</span></span>
+    </a>
+    <nav class="nav-links" id="navlinks" aria-label="Suite navigation">
+      <a href="index.html">Gateway</a>
+      <a href="state-of-the-union.html">State of the Union</a>
+      <a href="plan-of-attack.html">Plan of Attack</a>
+      <a href="prompt-pack-31day.html">31-Day Pack</a>
+      <a href="master-sample.html" class="active" aria-current="page">Master Sample</a>
+      <a class="nav-ext" href="https://lady-d-author-review-site.vercel.app/" target="_blank" rel="noopener">Live Portal ↗</a>
+    </nav>
+    <button class="nav-toggle" id="navtoggle" aria-label="Open menu" aria-expanded="false" aria-controls="navlinks"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<main>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <p class="eyebrow kicker rv">Master Sample · The New Format</p>
+      <h1 class="rv rv-d1">One Day, Done Right.</h1>
+      <p class="lede rv rv-d2">This is the page every one of the <b>1,098 entries</b> now follows — fuller, warmer, woven across the whole counsel of God. Below: one complete sample day per volume, every July&nbsp;6 decision visible on the page, exactly as it will read in print.</p>
+      <div class="chip-row rv rv-d3">
+        <span class="chip">NKJV/KJV text on page</span>
+        <span class="chip">Correlative thread</span>
+        <span class="chip">Fuller body</span>
+        <span class="chip">Fused journal prompt</span>
+        <span class="chip">Quiet language lens</span>
+        <span class="chip">Glossary-linked</span>
+      </div>
+    </div>
+    <div class="hero-lanes">
+      <a class="lane lane-v1 rv" href="#sample-1"><i></i><div><b>Loved Before You Were Looking</b><span>Volume I · Day 47 · Beloved Identity</span></div></a>
+      <a class="lane lane-v2 rv rv-d1" href="#sample-2"><i></i><div><b>The Branch That Stopped Striving</b><span>Volume II · Day 112 · Abiding</span></div></a>
+      <a class="lane lane-v3 rv rv-d2" href="#sample-3"><i></i><div><b>Wind You Cannot Schedule</b><span>Volume III · Day 203 · Spirit-Led Living</span></div></a>
+    </div>
+  </section>
+
+  <!-- SAMPLE 1 — VOLUME I -->
+  <section class="sec paper v1" id="sample-1">
+    <div class="wrap">
+      <div class="sample-head rv">
+        <div class="sh-text">
+          <p class="eyebrow sh-kicker">Sample Day 01 · Volume I</p>
+          <h2 class="sh-title">Loved Before You Were Looking</h2>
+          <p class="sh-meta"><b>Surrendering to God’s Love</b><span class="sep">·</span>Day 47<span class="sep">·</span>Theme: Beloved Identity</p>
+        </div>
+        <div class="sh-cover">
+          <div class="cv"><img src="covers/cover-vol1-surrendering.png" alt="Cover of Surrendering to God’s Love — A 365-Day Devotional Journey into the Father’s Heart" onerror="this.closest('.sh-cover').style.display='none'"></div>
+        </div>
+      </div>
+
+      <article class="daypage rv rv-d1">
+        <div class="dp-top"><b>Day 47</b><i></i><span>Beloved Identity</span><i></i><span>Surrendering to God’s Love</span></div>
+
+        <div class="comp">
+          <p class="comp-label"><b>01</b> Anchor scripture <span>full text on the page · translation tagged</span></p>
+          <blockquote class="anchor">
+            <span class="ttag">KJV</span>
+            <p class="anchor-text">The <span class="lord">LORD</span> thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.</p>
+            <p class="anchor-ref">Zephaniah 3:17 · King James Version</p>
+          </blockquote>
+        </div>
+
+        <div class="comp">
+          <p class="comp-label"><b>02</b> The Thread <span>a correlative from another region of Scripture</span></p>
+          <div class="thread">
+            <span class="ttag">NKJV</span>
+            <p class="thread-text">just as He chose us in Him before the foundation of the world, that we should be holy and without blame before Him in love, having predestined us to adoption as sons by Jesus Christ to Himself, according to the good pleasure of His will,</p>
+            <p class="thread-ref">Ephesians 1:4–5 · New King James Version</p>
+            <p class="thread-note"><b>Two passages, two Testaments, one promise.</b> Zephaniah hears God singing over a worn-out Zion; Paul tells us the song began before the world did. Zephaniah is the sound; Ephesians is the blueprint.</p>
+          </div>
+        </div>
+
+        <div class="comp">
+          <p class="comp-label"><b>03</b> Devotional body <span>fuller · reveal-before-ask · one carry-line</span></p>
+          <div class="dbody">
+            <p class="dcap">Sit down for a minute, sweetheart, because I want you to hear this the way it was written to be heard: God is not waiting for you to impress Him. He is already singing.</p>
+            <p>Zephaniah preached to a people who had worn themselves out — a nation that had failed, been disciplined, and was limping home. And right there, into their exhaustion, the prophet says the most astonishing thing: <span class="verse-q">the LORD will rejoice over thee with joy; He will rest in His love; He will joy over thee with singing.</span> Not after they cleaned themselves up. Not once they finally got consistent. Over them, tired as they were, God opened His mouth and sang.</p>
+            <p>Then Paul pulls the curtain all the way back. That song did not begin the day you came back to church, or the day you prayed through, or the day you finally got serious. <span class="verse-q">He chose you in Him before the foundation of the world.</span> Before your first breath, before your worst decision, before the morning you are having right now — the Father looked down the whole corridor of time, saw you, and set His love on you on purpose. Adoption was never God’s plan B. It was <span class="verse-q">the good pleasure of His will.</span></p>
+            <p>Some of you have walked with the Lord for years and still live like applicants instead of daughters. You read your Bible to stay on His good side. You serve and secretly hope it keeps the account balanced. Oh, honey — hear your mother in the faith: the account was settled at the cross. Jesus did not die to make you tolerable to God. He died to bring you home to a Father who already wanted you.</p>
+            <p>Look at the verse once more: <span class="verse-q">He will rest in His love.</span> Do you know what that means? God is not wringing His hands over you. He is not pacing heaven’s floor wondering whether you will measure up. He rests — He quiets Himself — in the love He has for you. The only One whose opinion of you is flawless is not anxious about you at all.</p>
+            <p>So today, stop auditioning. Let the performance slide off your shoulders like a coat you were never asked to wear. Belonging comes before behaving; the behaving grows out of the belonging, never the other way around. <span class="carryline">You were not found today; you were remembered.</span> And the God who remembered you before the world began is singing over you still.</p>
+          </div>
+          <p class="prayer"><b>A short prayer</b>Father, let me hear the song today. Quiet the striving that says I must earn what You already gave. Thank You for choosing me before I ever looked for You. Teach my heart to rest where You rest — in love. In Jesus’ name, amen.</p>
+        </div>
+
+        <div class="lens rv">
+          <span class="lens-label">04 · Language lens</span>
+          <p><span class="g">ʾahavah</span> (Hebrew) — a chosen love that moves toward the beloved and then rests there.</p>
+        </div>
+
+        <div class="comp">
+          <p class="comp-label"><b>05</b> Carry It With You <span>journal · two questions, one step, one written line</span></p>
+          <div class="journal">
+            <div class="journal-head"><h3>Carry It With You</h3><span>Fused prompt</span></div>
+            <div class="journal-body">
+              <div class="j-q"><span class="j-n">1</span><p>Where did you start earning what God already gave? Name the exact place — the habit, the relationship, the quiet transaction.</p></div>
+              <div class="j-q"><span class="j-n">2</span><p>What would today look like if you began from beloved instead of behind? Write down the first two things that would change.</p></div>
+              <div class="j-row"><b>One small step today</b>Tonight, read Zephaniah 3:17 aloud once — slowly — putting your own name where “thee” stands. Then sit quiet for one full minute and let it land before you answer it.</div>
+              <div class="j-row"><b>Written-prayer starter</b><span class="ps">“Father, today I stop auditioning. I begin from beloved, because You sang first —”</span> finish the line in your own words.</div>
+            </div>
+          </div>
+        </div>
+
+        <p class="gloss"><b>06</b> Glossary&nbsp;· Zephaniah 3:17 <span class="g-arrow">→</span> Day 47 · p. 94 <span class="g-sep">|</span> Ephesians 1:4–5 <span class="g-arrow">→</span> Day 47 · p. 94</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- SAMPLE 2 — VOLUME II -->
+  <section class="sec ink-sec v2" id="sample-2">
+    <div class="wrap">
+      <div class="sample-head rv">
+        <div class="sh-text">
+          <p class="eyebrow sh-kicker">Sample Day 02 · Volume II</p>
+          <h2 class="sh-title">The Branch That Stopped Striving</h2>
+          <p class="sh-meta"><b>Walking with Jesus</b><span class="sep">·</span>Day 112<span class="sep">·</span>Theme: Abiding, Not Striving</p>
+        </div>
+        <div class="sh-cover">
+          <div class="cv"><img src="covers/cover-vol2-walking.png" alt="Cover of Walking with Jesus — A 365-Day Devotional Journey of Daily Discipleship" onerror="this.closest('.sh-cover').style.display='none'"></div>
+        </div>
+      </div>
+
+      <article class="daypage rv rv-d1">
+        <div class="dp-top"><b>Day 112</b><i></i><span>Abiding, Not Striving</span><i></i><span>Walking with Jesus</span></div>
+
+        <div class="comp">
+          <p class="comp-label"><b>01</b> Anchor scripture <span>full text on the page · translation tagged</span></p>
+          <blockquote class="anchor">
+            <span class="ttag">NKJV</span>
+            <p class="anchor-text">Abide in Me, and I in you. As the branch cannot bear fruit of itself, unless it abides in the vine, neither can you, unless you abide in Me. I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing.</p>
+            <p class="anchor-ref">John 15:4–5 · New King James Version</p>
+          </blockquote>
+        </div>
+
+        <div class="comp">
+          <p class="comp-label"><b>02</b> The Thread <span>a correlative from another region of Scripture</span></p>
+          <div class="thread">
+            <span class="ttag">KJV</span>
+            <p class="thread-text">Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.</p>
+            <p class="thread-ref">Psalm 46:10 · King James Version</p>
+            <p class="thread-note"><b>An upper room and a songbook, saying one thing.</b> Jesus says fruit comes from abiding; the psalmist says stillness is how knowing begins. Put them together and the branch’s whole job description fits in one word: stay.</p>
+          </div>
+        </div>
+
+        <div class="comp">
+          <p class="comp-label"><b>03</b> Devotional body <span>fuller · reveal-before-ask · one carry-line</span></p>
+          <div class="dbody">
+            <p class="dcap">Let me tell you about a branch that finally got some rest.</p>
+            <p>For years she measured her worth in clusters — how much fruit, how fast, how visible. She watched the other branches and compared. She strained and pushed, as if grapes came from effort, and do you know what she grew? Very little, and none of it sweet. Because a branch was never made to produce. A branch was made to stay.</p>
+            <p>Jesus says it as plainly as anything He ever said: <span class="verse-q">Abide in Me, and I in you.</span> He does not say strive in Me. He does not say sprint for Me. He says abide — the way you abide in a house, the way you settle into a chair by the fire and stop thinking about leaving. Then He tells the truth that humbles every striver among us: <span class="verse-q">without Me you can do nothing.</span> Not “not much.” Nothing.</p>
+            <p>Think about how Jesus discipled. For three years, twelve men walked with Him at the pace of feet. He could have downloaded the whole lesson in an afternoon; instead He gave them seasons. He let them watch Him pray. He let them fail in public and come back to the table. He was never in a hurry, and He never once called their slowness failure. That is still His pace with you, beloved. Discipleship is not a crash course. It is a long walk with a patient Lord.</p>
+            <p>The psalmist puts the same truth in God’s own voice: <span class="verse-q">Be still, and know that I am God.</span> Stillness is not the absence of activity; it is the doorway to knowing. This is why your quiet morning matters more than your busy afternoon. That unhurried half hour with your Bible open and your coffee going cold is not the warm-up for the work — it is the workplace. That is where the sap rises, where fruit no striving could manufacture begins to form on a branch that simply stayed.</p>
+            <p>So stop grading your devotion by its output. You are not a factory; you are a branch, and <span class="carryline">fruit is not achieved; it is remained into.</span> Stay in the Word when it feels dry. Stay in prayer when it feels quiet. Stay when hurry tells you to go prove something. The Vine has never once failed a branch that stayed.</p>
+          </div>
+          <p class="prayer"><b>A short prayer</b>Lord Jesus, teach me the strength of staying. Forgive me for every time I sprinted past You. Let my stillness become knowing, and my knowing become fruit. I am the branch; You are everything else. Amen.</p>
+        </div>
+
+        <div class="lens rv">
+          <span class="lens-label">04 · Language lens</span>
+          <p><span class="g">menō</span> (Greek) — to remain, to dwell, to make yourself at home.</p>
+        </div>
+
+        <div class="comp">
+          <p class="comp-label"><b>05</b> Carry It With You <span>journal · two questions, one step, one written line</span></p>
+          <div class="journal">
+            <div class="journal-head"><h3>Carry It With You</h3><span>Fused prompt</span></div>
+            <div class="journal-body">
+              <div class="j-q"><span class="j-n">1</span><p>Where have you been trying to produce what only abiding can grow? Be honest about the cluster you keep squeezing.</p></div>
+              <div class="j-q"><span class="j-n">2</span><p>What would “staying” look like tomorrow morning — in your actual house, at your actual table, before anything with a screen?</p></div>
+              <div class="j-row"><b>One small step today</b>Keep a fifteen-minute appointment with Jesus tomorrow morning before any screen turns on. Bring nothing to prove; bring a branch’s only offering — presence.</div>
+              <div class="j-row"><b>Written-prayer starter</b><span class="ps">“Lord Jesus, I am staying. Teach me the pace of the Vine —”</span> finish the line in your own words.</div>
+            </div>
+          </div>
+        </div>
+
+        <p class="gloss"><b>06</b> Glossary&nbsp;· John 15:4–5 <span class="g-arrow">→</span> Day 112 · p. 224 <span class="g-sep">|</span> Psalm 46:10 <span class="g-arrow">→</span> Day 112 · p. 224</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- SAMPLE 3 — VOLUME III -->
+  <section class="sec paper v3" id="sample-3">
+    <div class="wrap">
+      <div class="sample-head rv">
+        <div class="sh-text">
+          <p class="eyebrow sh-kicker">Sample Day 03 · Volume III</p>
+          <h2 class="sh-title">Wind You Cannot Schedule</h2>
+          <p class="sh-meta"><b>Filled with the Holy Spirit</b><span class="sep">·</span>Day 203<span class="sep">·</span>Theme: Spirit-Led Living</p>
+        </div>
+        <div class="sh-cover">
+          <div class="cv"><img src="covers/cover-vol3-filled.png" alt="Cover of Filled with the Holy Spirit — A 365-Day Devotional Journey in Spirit-Led Living" onerror="this.closest('.sh-cover').style.display='none'"></div>
+        </div>
+      </div>
+
+      <article class="daypage rv rv-d1">
+        <div class="dp-top"><b>Day 203</b><i></i><span>Spirit-Led Living</span><i></i><span>Filled with the Holy Spirit</span></div>
+
+        <div class="comp">
+          <p class="comp-label"><b>01</b> Anchor scripture <span>full text on the page · translation tagged</span></p>
+          <blockquote class="anchor">
+            <span class="ttag">KJV</span>
+            <p class="anchor-text">And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.</p>
+            <p class="anchor-ref">Acts 2:2–4 · King James Version</p>
+          </blockquote>
+        </div>
+
+        <div class="comp">
+          <p class="comp-label"><b>02</b> The Thread <span>a correlative from another region of Scripture</span></p>
+          <div class="thread">
+            <span class="ttag">NKJV</span>
+            <p class="thread-text">The wind blows where it wishes, and you hear the sound of it, but cannot tell where it comes from and where it goes. So is everyone who is born of the Spirit.</p>
+            <p class="thread-ref">John 3:8 · New King James Version</p>
+            <p class="thread-note"><b>A midnight conversation meets a morning miracle.</b> The wind Jesus promised Nicodemus in the dark is the wind that filled the house at Pentecost — what could not be scheduled could suddenly not be stopped.</p>
+          </div>
+        </div>
+
+        <div class="comp">
+          <p class="comp-label"><b>03</b> Devotional body <span>fuller · reveal-before-ask · one carry-line</span></p>
+          <div class="dbody">
+            <p class="dcap">I have a confession, honey: I used to plan my days so tightly that if God had wanted to interrupt, He would have needed an appointment.</p>
+            <p>Maybe you know the feeling. The calendar is full, the list is color-coded, and somewhere under all that order sits a quiet fear — that if you loosen your grip, everything will fall apart. And then Acts chapter two walks in the door. The disciples are sitting in a house, doing the one thing Jesus told them to do — waiting, of all unproductive things — when <span class="verse-q">suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting.</span> No agenda. No warning. The Spirit arrived on His own timetable and rearranged everything, and by sundown three thousand people belonged to Jesus.</p>
+            <p>Notice who the wind came to: not the polished, not the platform-ready — the waiting. Ordinary people who had left a margin. Pentecost was not the church’s one spectacular exception; it was her introduction to a new normal. The God of wind had moved in permanently.</p>
+            <p>Jesus tried to prepare us for this. In the dark, He told Nicodemus: <span class="verse-q">The wind blows where it wishes … so is everyone who is born of the Spirit.</span> You cannot chart wind on a map. You cannot pencil it in for Tuesday at ten. The Spirit is not an employee of your plans, beloved; He is the weather of the kingdom, and He blows where He wishes. The question is never whether He is moving. The question is whether we have left any opening for Him to move through.</p>
+            <p>So here is my motherly counsel: leave a margin. Build one honest gap into today — a commute without the podcast, a lunch you keep unbooked, a walk where you simply say, “Holy Spirit, interrupt me if You like.” Then watch. The nudge to call your sister. The urge to sit with the stranger. The scripture that will not leave you alone. That is wind. Say yes faster than you argue.</p>
+            <p><span class="carryline">You cannot schedule wind, but you can open a window.</span> Pentecost began in a house full of people with nothing on the calendar but God. Give Him one open space today, and do not be surprised when the house starts to fill.</p>
+          </div>
+          <p class="prayer"><b>A short prayer</b>Holy Spirit, I make room. Blow through the parts of my day I have sealed shut. Give me ears for the sound and courage for the sudden. Interrupt me, Lord — I am listening. In Jesus’ name, amen.</p>
+        </div>
+
+        <div class="lens rv">
+          <span class="lens-label">04 · Language lens</span>
+          <p><span class="g">ruach</span> (Hebrew) / <span class="g">pneuma</span> (Greek) — breath, wind, Spirit: one word for the God who moves.</p>
+        </div>
+
+        <div class="comp">
+          <p class="comp-label"><b>05</b> Carry It With You <span>journal · two questions, one step, one written line</span></p>
+          <div class="journal">
+            <div class="journal-head"><h3>Carry It With You</h3><span>Fused prompt</span></div>
+            <div class="journal-body">
+              <div class="j-q"><span class="j-n">1</span><p>Where has your calendar left no room for the Holy Spirit to interrupt? Find the hour you have sealed tightest.</p></div>
+              <div class="j-q"><span class="j-n">2</span><p>When was the last time you obeyed a nudge quickly — and what happened? What kept you from saying yes sooner?</p></div>
+              <div class="j-row"><b>One small step today</b>Open one window: leave one hour unplanned, hold it loosely, and say aloud, “Holy Spirit, this hour is Yours if You want it.” Write down what He does with it.</div>
+              <div class="j-row"><b>Written-prayer starter</b><span class="ps">“Holy Spirit, here is my margin. Blow where You wish —”</span> finish the line in your own words.</div>
+            </div>
+          </div>
+        </div>
+
+        <p class="gloss"><b>06</b> Glossary&nbsp;· Acts 2:2–4 <span class="g-arrow">→</span> Day 203 · p. 406 <span class="g-sep">|</span> John 3:8 <span class="g-arrow">→</span> Day 203 · p. 406</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- THE FORMAT, CODIFIED -->
+  <section class="sec ink-sec" id="codified">
+    <div class="wrap">
+      <div class="cod-head rv">
+        <p class="eyebrow">04 · Locked for Production</p>
+        <h2>The Format, Codified.</h2>
+        <p class="lede">Six decisions, proven above and locked below. Every day in all three volumes — all 1,098 entries — builds on exactly these six components, in this order, with no drift.</p>
+        <div class="gold-rule"></div>
+      </div>
+      <div class="table-wrap rv rv-d1">
+        <table class="cod">
+          <thead>
+            <tr><th scope="col">#</th><th scope="col">Component</th><th scope="col">Production rule</th><th scope="col">Why it earns the space</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="cod-n">01</td>
+              <td class="cod-c">Scripture block</td>
+              <td>Full NKJV or KJV text printed on the page, translation tagged, chosen per page for clarity and depth.</td>
+              <td>The Word does the work. The reader never has to look away from the page to meet God.</td>
+            </tr>
+            <tr>
+              <td class="cod-n">02</td>
+              <td class="cod-c">The Thread</td>
+              <td>One correlative passage from a different region of Scripture, with a 1–2 sentence connection.</td>
+              <td>Two Testaments answering each other — no mechanical Genesis-to-Revelation march.</td>
+            </tr>
+            <tr>
+              <td class="cod-n">03</td>
+              <td class="cod-c">Devotional body</td>
+              <td>350–450 words in Lady D’s voice — reveal before ask, exactly one carry-line, one short prayer.</td>
+              <td>God moves first on the page; the heart opens before the hands are asked to do anything.</td>
+            </tr>
+            <tr>
+              <td class="cod-n">04</td>
+              <td class="cod-c">Language lens</td>
+              <td>One quiet line, Hebrew or Greek, only when the scripture is visible and the page is uncrowded.</td>
+              <td>Depth without clutter — a window into the text, never a lecture over it.</td>
+            </tr>
+            <tr>
+              <td class="cod-n">05</td>
+              <td class="cod-c">Carry It With You</td>
+              <td>Fused journal card: 2 questions + 1 small action + 1 written-prayer starter.</td>
+              <td>“Today’s step” and “morning impact” are no longer separate boxes — one card, carried all day.</td>
+            </tr>
+            <tr>
+              <td class="cod-n">06</td>
+              <td class="cod-c">Glossary hook</td>
+              <td>Every passage mapped to day and page, back matter in biblical order.</td>
+              <td>Any verse in the library can be traced home in seconds — 1,098 entries, zero orphans.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="perm rv rv-d2">Permissions: <b>KJV is public domain; NKJV © Thomas Nelson</b> — the print run verifies quotation limits per translation policy.</p>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="foot-inner">
+    <div class="foot-left">
+      <svg width="22" height="22" viewBox="0 0 32 32" fill="none" aria-hidden="true"><path d="M6 7c3.5-2 7-2 10 0v18c-3-2-6.5-2-10 0V7z" stroke="#cb9a4c" stroke-width="1.6" stroke-linejoin="round"/><path d="M26 7c-3.5-2-7-2-10 0v18c3-2 6.5-2 10 0V7z" stroke="#cb9a4c" stroke-width="1.6" stroke-linejoin="round"/></svg>
+      Island Development Crew LLC — IDC Publishing
+    </div>
+    <div class="foot-right">Prepared for Susan “Lady D” Damon · July 2026 · Review copy — not for public distribution</div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  "use strict";
+  var nav=document.getElementById('topnav');
+  var onScroll=function(){ if(nav){ nav.classList.toggle('scrolled',window.scrollY>24); } };
+  window.addEventListener('scroll',onScroll,{passive:true});
+  onScroll();
+
+  var toggle=document.getElementById('navtoggle');
+  var links=document.getElementById('navlinks');
+  if(toggle&&links){
+    toggle.addEventListener('click',function(){
+      var open=links.classList.toggle('open');
+      toggle.setAttribute('aria-expanded',open?'true':'false');
+      toggle.setAttribute('aria-label',open?'Close menu':'Open menu');
+    });
+    links.querySelectorAll('a').forEach(function(a){
+      a.addEventListener('click',function(){
+        links.classList.remove('open');
+        toggle.setAttribute('aria-expanded','false');
+        toggle.setAttribute('aria-label','Open menu');
+      });
+    });
+    window.addEventListener('resize',function(){
+      if(window.innerWidth>960){ links.classList.remove('open'); toggle.setAttribute('aria-expanded','false'); }
+    });
+  }
+
+  var reduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var items=document.querySelectorAll('.rv');
+  if(reduced||!('IntersectionObserver' in window)){
+    items.forEach(function(el){ el.classList.add('in'); });
+  }else{
+    var io=new IntersectionObserver(function(entries){
+      entries.forEach(function(e){
+        if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); }
+      });
+    },{threshold:.12,rootMargin:'0px 0px -40px 0px'});
+    items.forEach(function(el){ io.observe(el); });
+  }
+})();
+</script>
+</body>
+</html>

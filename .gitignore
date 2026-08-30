@@ -2,3 +2,11 @@
 .DS_Store
 **/__pycache__/
 *.pyc
+
+# Lady D finalization generated workspace mirrors and proof renders.
+output/
+tmp/
+public/covers/lady-d-finalization/
+public/downloads/lady-d-finalization/
+public/lady-d-cover-decision-deck.html
+public/lady-d-finalization-review.html

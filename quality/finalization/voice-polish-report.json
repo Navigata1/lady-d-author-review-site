@@ -1,0 +1,436 @@
+{
+  "volumes": {
+    "1": {
+      "entries": 366,
+      "changed_entries": 57,
+      "changed_fields": 58,
+      "replacement_frames": {
+        "v1:d123:body:0:father": 1,
+        "v1:d139:body:0:god": 1,
+        "v1:d160:body:3:as-you": 1,
+        "v1:d1:body:0:by": 1,
+        "v1:d360:body:0:by": 1,
+        "v1:d361:body:0:by": 1,
+        "v1:d362:body:0:by": 1,
+        "v1:d363:body:0:by": 1,
+        "v1:d364:body:0:by": 1,
+        "v1:d60:body:0:means": 1,
+        "v1:d61:body:0:means": 1,
+        "v1:d62:body:0:means": 1,
+        "v1:d63:body:0:means": 1,
+        "v1:d64:body:0:means": 1,
+        "v1:d65:body:0:means": 1,
+        "v1:d66:body:0:means": 1,
+        "v1:d67:body:0:means": 1,
+        "v1:d68:body:0:means": 1,
+        "v1:d69:body:0:means": 1,
+        "v1:d70:body:0:means": 1,
+        "v1:d71:body:0:means": 1,
+        "v1:d72:body:0:means": 1,
+        "v1:d73:body:0:means": 1,
+        "v1:d74:body:0:means": 1,
+        "v1:d75:body:0:means": 1,
+        "v1:d76:body:0:means": 1,
+        "v1:d77:body:0:means": 1,
+        "v1:d78:body:0:means": 1,
+        "v1:d79:body:0:means": 1,
+        "v1:d80:body:0:our-part-to": 1,
+        "v1:d82:body:0:our-part": 1,
+        "v1:d83:body:0:our-part-to": 1,
+        "v1:d84:body:0:our-part": 1,
+        "v1:d85:body:0:our-part": 1,
+        "v1:d86:body:0:our-part-to": 1,
+        "v1:d87:body:0:our-part-to": 1,
+        "v1:d88:body:0:our-part": 1,
+        "v1:d89:body:0:our-part": 1,
+        "v1:d90:body:0:our-part": 1,
+        "v1:d91:body:0:our-part-to": 1,
+        "v1:d92:body:0:our-part-to": 1,
+        "v1:d93:body:0:our-part-to": 1,
+        "v1:d94:body:0:our-part": 1,
+        "v1:d95:body:0:our-part-to": 1,
+        "v1:d96:body:0:our-part": 1,
+        "v1:d97:body:0:our-part": 1,
+        "v1:d98:body:0:our-part-to": 1,
+        "v1:d99:body:0:our-part": 1
+      },
+      "examples": [
+        {
+          "day": 1,
+          "field": "body[0]",
+          "before": "There are seasons when everyone expects you to smile and say the Lord is good, while inside you carry a question that will not sit down. Abram knew that place. God had just spoken to him about reward, yet Abram answered with the ache he could not hide: what will You give me, seeing I go childless? He did not dress it up in church language. He held out the empty place in his life and named it before the Lord, and heaven did not turn away. The Father is not looking for a rehearsed child, but an honest one. Surrender to His love by bringing the real thing.",
+          "after": "There are seasons when everyone expects you to smile and say the Lord is good, while inside you carry a question that will not sit down. Abram knew that place. God had just spoken to him about reward, yet Abram answered with the ache he could not hide: what will You give me, seeing I go childless? He did not dress it up in church language. He held out the empty place in his life and named it before the Lord, and heaven did not turn away. The Father is not looking for a rehearsed child, but an honest one. Place yourself in His care by bringing the real thing."
+        },
+        {
+          "day": 23,
+          "field": "body[1]",
+          "before": "Notice that Joseph did not simply tell his brothers he forgave them and send them off empty into the wilderness. He measured the miles they had to travel and loaded the wagons accordingly. This is how the Father loves. He thinks ahead to the road you must walk and provides for the way before the whole way is behind you. He does not wait until you have proven you can make it. He supplies you for the journey while the journey is still ahead of you.",
+          "after": "Notice that Joseph did not simply tell his brothers he forgave them and send them off empty into the wilderness. He measured the miles they had to travel and loaded the wagons for the road ahead. This is how the Father loves. He thinks ahead to the road you must walk and provides for the way before the whole way is behind you. He does not wait until you have proven you can make it. He supplies you for the journey while the journey is still ahead of you."
+        },
+        {
+          "day": 60,
+          "field": "body[0]",
+          "before": "There are seasons when God finally speaks, and the word is so full that our first instinct is to jump up and do something. We hear a promise, a correction, a calling, and we rush to prove we heard it right. But Genesis 17:22 tells us something quiet and holy: when God had finished, He went up from Abraham. God Himself closed the conversation. Abraham did not have to end it, chase it, or fill the silence. What God started, God finished, and He rose in His own good time. Surrender to His love means trusting that He knows when a holy moment is complete.",
+          "after": "There are seasons when God finally speaks, and the word is so full that our first instinct is to jump up and do something. We hear a promise, a correction, a calling, and we rush to prove we heard it right. But Genesis 17:22 tells us something quiet and holy: when God had finished, He went up from Abraham. God Himself closed the conversation. Abraham did not have to end it, chase it, or fill the silence. What God started, God finished, and He rose in His own good time. Here is the response His love makes possible: trusting that He knows when a holy moment is complete."
+        },
+        {
+          "day": 61,
+          "field": "body[0]",
+          "before": "There are places along the road where you finally reach water, and it is bitter. You were thirsty for relief, and what you found only deepened the ache. The heart can taste that bitterness and decide it is the whole truth, that what is bitter today will be bitter forever. But Exodus 15:25 shows us something better. When Moses cried to the Lord, the Lord showed him a tree, and when it was cast into the waters, the waters were made sweet. God did not call the bitterness imaginary. He met it, and He changed it. Surrender to His love means bringing your bitter water to Him before you build a whole life around the taste.",
+          "after": "There are places along the road where you finally reach water, and it is bitter. You were thirsty for relief, and what you found only deepened the ache. The heart can taste that bitterness and decide it is the whole truth, that what is bitter today will be bitter forever. But Exodus 15:25 shows us something better. When Moses cried to the Lord, the Lord showed him a tree, and when it was cast into the waters, the waters were made sweet. God did not call the bitterness imaginary. He met it, and He changed it. The release He invites looks like bringing your bitter water to Him before you build a whole life around the taste."
+        },
+        {
+          "day": 62,
+          "field": "body[0]",
+          "before": "There are nights when the sun goes down on everything you hoped for, and the darkness makes you certain that if the promise is going to happen, you must make it happen. You brace yourself, you strive, you try to hold the whole covenant together with your own trembling hands. But Genesis 15:17 shows us a holy mystery. When the sun went down and it was dark, a smoking furnace and a burning lamp passed between the pieces Abram had prepared. Abram did not pass through. God did. The Father took the covenant upon Himself. Surrender to His love means letting Him carry a promise you were never strong enough to secure.",
+          "after": "There are nights when the sun goes down on everything you hoped for, and the darkness makes you certain that if the promise is going to happen, you must make it happen. You brace yourself, you strive, you try to hold the whole covenant together with your own trembling hands. But Genesis 15:17 shows us a holy mystery. When the sun went down and it was dark, a smoking furnace and a burning lamp passed between the pieces Abram had prepared. Abram did not pass through. God did. The Father took the covenant upon Himself. In this moment, surrender means letting Him carry a promise you were never strong enough to secure."
+        },
+        {
+          "day": 63,
+          "field": "body[0]",
+          "before": "There are people who can do all the right things, show up, say the right words, keep the outward rules, while the heart stays locked behind a wall. Fear can obey on the outside and still hide on the inside. You can go through the motions of faith and still feel numb, guarded, or unable to love the way you once did. But Deuteronomy 30:6 promises something deeper than surface repair: the Lord thy God will circumcise thine heart to love Him with all your heart and soul, that you may live. God Himself does the inward work. Surrender to His love means letting Him reach the place you have kept protected.",
+          "after": "There are people who can do all the right things, show up, say the right words, keep the outward rules, while the heart stays locked behind a wall. Fear can obey on the outside and still hide on the inside. You can go through the motions of faith and still feel numb, guarded, or unable to love the way you once did. But Deuteronomy 30:6 promises something deeper than surface repair: the Lord thy God will circumcise thine heart to love Him with all your heart and soul, that you may live. God Himself does the inward work. Here, surrender looks like letting Him reach the place you have kept protected."
+        },
+        {
+          "day": 63,
+          "field": "journal_act",
+          "before": "Name one wall you have built to protect yourself, and today invite God specifically into that place, asking Him to soften what you cannot.",
+          "after": "Name one wall you have built to protect yourself, and today invite God into that place, asking Him to soften what you cannot."
+        },
+        {
+          "day": 64,
+          "field": "body[0]",
+          "before": "There are moments when we suddenly see clearly what God is doing, and what we may have missed. Genesis 28:6 says Esau saw that Isaac had blessed Jacob, saw that he was sent to find a wife the right way, saw the charge that came with the blessing. The verse is full of noticing. Seeing is not the same as surrender, but it can become the doorway to it. What the heart does with what it sees decides everything. Surrender to His love means letting honest seeing become honest conviction instead of bitter grievance.",
+          "after": "There are moments when we suddenly see clearly what God is doing, and what we may have missed. Genesis 28:6 says Esau saw that Isaac had blessed Jacob, saw that he was sent to find a wife the right way, saw the charge that came with the blessing. The verse is full of noticing. Seeing is not the same as surrender, but it can become the doorway to it. What the heart does with what it sees decides everything. In this moment, surrender means letting honest seeing become honest conviction instead of bitter grievance."
+        },
+        {
+          "day": 65,
+          "field": "body[0]",
+          "before": "There is a particular weariness that comes when a hard season will not end on your schedule. You want someone to tell you it is almost over. But Genesis 45:6 gives us a different kind of comfort. Joseph looks at his family and says plainly: the famine has been in the land two years, and there are still five years to come in which there will be neither plowing nor harvest. He does not pretend the pressure away. He tells the honest truth about the road ahead. And there is mercy in honest naming. Surrender to His love means trusting God inside a season that has both history behind it and distance still ahead.",
+          "after": "There is a particular weariness that comes when a hard season will not end on your schedule. You want someone to tell you it is almost over. But Genesis 45:6 gives us a different kind of comfort. Joseph looks at his family and says plainly: the famine has been in the land two years, and there are still five years to come in which there will be neither plowing nor harvest. He does not pretend the pressure away. He tells the honest truth about the road ahead. And there is mercy in honest naming. This is the trust His love invites: trusting God inside a season that has both history behind it and distance still ahead."
+        },
+        {
+          "day": 66,
+          "field": "body[0]",
+          "before": "Many of us fight our battles by trying to be impressive. We reason that if we can just be useful enough, spiritual enough, steady enough, and strong enough, we can outrun our own insecurity and defeat whatever rises against us. But Exodus 15:7 sings a different song. In the greatness of His excellency, God overthrew those who rose up against Him; He sent forth His wrath and consumed them like stubble. The victory belongs to His majesty, not to human striving. Surrender to His love means letting His greatness, not your performance, be the first thing your heart trusts.",
+          "after": "Many of us fight our battles by trying to be impressive. We reason that if we can just be useful enough, spiritual enough, steady enough, and strong enough, we can outrun our own insecurity and defeat whatever rises against us. But Exodus 15:7 sings a different song. In the greatness of His excellency, God overthrew those who rose up against Him; He sent forth His wrath and consumed them like stubble. The victory belongs to His majesty, not to human striving. The release He invites looks like letting His greatness, not your performance, be the first thing your heart trusts."
+        },
+        {
+          "day": 67,
+          "field": "body[0]",
+          "before": "Sometimes the news is too good, and the heart cannot open to it all at once. After years of grief, Jacob hears that Joseph is alive and ruling over all of Egypt, and Genesis 45:26 says his heart fainted, for he believed them not. Notice how tender the Bible is here. It does not rush Jacob into joy. It does not scold him for freezing. When hope arrives after long sorrow, the soul sometimes goes numb before it can rejoice. Surrender to His love means trusting that God is patient with a heart still learning to believe good news.",
+          "after": "Sometimes the news is too good, and the heart cannot open to it all at once. After years of grief, Jacob hears that Joseph is alive and ruling over all of Egypt, and Genesis 45:26 says his heart fainted, for he believed them not. Notice how tender the Bible is here. It does not rush Jacob into joy. It does not scold him for freezing. When hope arrives after long sorrow, the soul sometimes goes numb before it can rejoice. Here, surrender looks like trusting that God is patient with a heart still learning to believe good news."
+        },
+        {
+          "day": 68,
+          "field": "body[0]",
+          "before": "There is a particular loneliness in feeling like you do not belong, like everyone else fits and you are the outsider looking in. Ruth knew that feeling. She was a foreigner in a strange land, and in Ruth 2:13 she says as much: she has been comforted and spoken to kindly, though she is not even like one of the handmaidens. She did not count herself among the servants, yet kindness reached her anyway. Fear expected harshness; grace gave comfort instead. Surrender to His love means letting His kindness reach the place where you feel you do not belong.",
+          "after": "There is a particular loneliness in feeling like you do not belong, like everyone else fits and you are the outsider looking in. Ruth knew that feeling. She was a foreigner in a strange land, and in Ruth 2:13 she says as much: she has been comforted and spoken to kindly, though she is not even like one of the handmaidens. She did not count herself among the servants, yet kindness reached her anyway. Fear expected harshness; grace gave comfort instead. Here, surrender looks like letting His kindness reach the place where you feel you do not belong."
+        }
+      ]
+    },
+    "2": {
+      "entries": 366,
+      "changed_entries": 52,
+      "changed_fields": 54,
+      "replacement_frames": {
+        "v2:d160:body:0:means": 1,
+        "v2:d180:body:0:residual-his": 1,
+        "v2:d200:body:1:when-we": 1,
+        "v2:d200:body:3:as-you": 1,
+        "v2:d201:body:3:as-you": 1,
+        "v2:d202:body:3:as-you": 1,
+        "v2:d203:body:3:as-you": 1,
+        "v2:d204:body:3:as-you": 1,
+        "v2:d205:body:3:as-you": 1,
+        "v2:d206:body:3:as-you": 1,
+        "v2:d207:body:3:as-you": 1,
+        "v2:d208:body:3:as-you": 1,
+        "v2:d209:body:3:as-you": 1,
+        "v2:d210:body:3:as-you": 1,
+        "v2:d211:body:3:as-you": 1,
+        "v2:d212:body:3:as-you": 1,
+        "v2:d213:body:3:as-you": 1,
+        "v2:d214:body:3:as-you": 1,
+        "v2:d215:body:3:as-you": 1,
+        "v2:d216:body:3:as-you": 1,
+        "v2:d217:body:3:as-you": 1,
+        "v2:d218:body:3:as-you": 1,
+        "v2:d219:body:3:as-you": 1,
+        "v2:d225:body:0:means": 1,
+        "v2:d24:body:0:residual-his": 1,
+        "v2:d262:body:0:when-we": 1,
+        "v2:d263:body:0:when-we": 1,
+        "v2:d264:body:0:when-we": 1,
+        "v2:d265:body:0:when-we": 1,
+        "v2:d266:body:0:when-we": 1,
+        "v2:d267:body:0:when-we": 1,
+        "v2:d268:body:0:when-we": 1,
+        "v2:d269:body:0:when-we": 1,
+        "v2:d270:body:0:when-we": 1,
+        "v2:d271:body:0:when-we": 1,
+        "v2:d272:body:0:when-we": 1,
+        "v2:d273:body:0:when-we": 1,
+        "v2:d274:body:0:when-we": 1,
+        "v2:d275:body:0:when-we": 1,
+        "v2:d276:body:0:when-we": 1,
+        "v2:d277:body:0:when-we": 1,
+        "v2:d278:body:0:when-we": 1,
+        "v2:d279:body:0:when-we": 1,
+        "v2:d28:body:0:residual-his": 1,
+        "v2:d33:body:0:residual-his": 1,
+        "v2:d36:body:0:residual-his": 1,
+        "v2:d80:body:3:as-you": 1
+      },
+      "examples": [
+        {
+          "day": 24,
+          "field": "body[0]",
+          "before": "We would love to believe that everything gathered into our lives belongs there — that every voice, habit, and pursuit is good simply because it is close. But Jesus tells a different truth. In Matthew 13:48 He pictures a net drawn to shore when it is full, and then fishermen sit down and gather the good into vessels, casting the bad away. The road with Jesus is merciful, but it is never careless. He loves us too much to let everything stay just because it came in with the catch. Surrender to His love, and let Him teach your heart to tell the difference.",
+          "after": "We would love to believe that everything gathered into our lives belongs there — that every voice, habit, and pursuit is good simply because it is close. But Jesus tells a different truth. In Matthew 13:48 He pictures a net drawn to shore when it is full, and then fishermen sit down and gather the good into vessels, casting the bad away. The road with Jesus is merciful, but it is never careless. He loves us too much to let everything stay just because it came in with the catch. place yourself in His care, and let Him teach your heart to tell the difference."
+        },
+        {
+          "day": 28,
+          "field": "body[0]",
+          "before": "There is a grief particular to the word \"afterward\" — the ache of arriving one moment too late for something that mattered. In Matthew 25:11 the other virgins come knocking after the door has closed, crying, \"Lord, Lord, open to us.\" They were not wicked. They simply were not ready, and readiness could not be borrowed once the hour arrived. The road with Jesus is not walked on someone else's oil, someone else's prayers, or someone else's history with God. Following has to become personal before the urgent moment comes. Surrender to His love now, while the door still stands open wide.",
+          "after": "There is a grief particular to the word \"afterward\" — the ache of arriving one moment too late for something that mattered. In Matthew 25:11 the other virgins come knocking after the door has closed, crying, \"Lord, Lord, open to us.\" They were not wicked. They simply were not ready, and readiness could not be borrowed once the hour arrived. The road with Jesus is not walked on someone else's oil, someone else's prayers, or someone else's history with God. Following has to become personal before the urgent moment comes. bring the whole matter into His care now, while the door still stands open wide."
+        },
+        {
+          "day": 33,
+          "field": "body[0]",
+          "before": "Not everything that carries God's name carries God's heart. Some of the voices that sound the most spiritual are the ones we most need to test. In Mark 13:6 Jesus warns His disciples, \"For many shall come in my name, saying, I am Christ; and shall deceive many.\" He does not say this to make you suspicious of everyone or to shrink your heart with fear. He says it because love tells the truth before harm grows. Staying close to the real Jesus is your protection. Surrender to His love, and let His voice grow so familiar that you know the counterfeit the moment it speaks.",
+          "after": "Not everything that carries God's name carries God's heart. Some of the voices that sound the most spiritual are the ones we most need to test. In Mark 13:6 Jesus warns His disciples, \"For many shall come in my name, saying, I am Christ; and shall deceive many.\" He does not say this to make you suspicious of everyone or to shrink your heart with fear. He says it because love tells the truth before harm grows. Staying close to the real Jesus is your protection. yield to His loving care, and let His voice grow so familiar that you know the counterfeit the moment it speaks."
+        },
+        {
+          "day": 36,
+          "field": "body[0]",
+          "before": "There are verses that make a tender heart tremble, and this is one of them. In Mark 3:29 Jesus speaks soberly: \"he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation.\" It is a real warning — but hear who it is for. Jesus was answering men who watched Him heal by God's power and called it the devil's work, hearts hardened enough to name light as darkness. The warning is not given to send tender souls spiraling; it is given so hardened ones will stop resisting the Spirit. Surrender to His love, and keep your heart soft enough to hear.",
+          "after": "There are verses that make a tender heart tremble, and this is one of them. In Mark 3:29 Jesus speaks soberly: \"he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation.\" It is a real warning — but hear who it is for. Jesus was answering men who watched Him heal by God's power and called it the devil's work, hearts hardened enough to name light as darkness. The warning is not given to send tender souls spiraling; it is given so hardened ones will stop resisting the Spirit. place yourself in His care, and keep your heart soft enough to hear."
+        },
+        {
+          "day": 80,
+          "field": "body[3]",
+          "before": "Today, lay your dearest loves at His feet before you understand how He will hold them. No affection is too precious for His care, no relationship too fragile for His keeping, no heart too full to make room for the King. As you surrender to His love, your smaller loves grow stronger, never weaker. Give Jesus the throne, and watch Him prove worthy of every seat in the house of your heart.",
+          "after": "Today, lay your dearest loves at His feet before you understand how He will hold them. No affection is too precious for His care, no relationship too fragile for His keeping, no heart too full to make room for the King. As you stop carrying this alone, your smaller loves grow stronger, never weaker. Give Jesus the throne, and watch Him prove worthy of every seat in the house of your heart."
+        },
+        {
+          "day": 141,
+          "field": "journal_act",
+          "before": "Take one 'desert place' shortage in your life and pray over it specifically, handing Him the little you do have.",
+          "after": "Take one 'desert place' shortage in your life and pray over it, handing Him the little you do have."
+        },
+        {
+          "day": 160,
+          "field": "body[0]",
+          "before": "There are seasons when life turns too bright to take in — glory on one side, grief on the other, and a heart so full it starts talking just to fill the silence. That is where Peter stood on the mountain, offering to build three tents while God's own Son shone before him. But heaven did not need his busy plans. A cloud came down and covered them all, and out of it came a Voice. What Peter tried to manage, the Father simply interrupted. Surrender to His love means letting Him quiet you.",
+          "after": "There are seasons when life turns too bright to take in — glory on one side, grief on the other, and a heart so full it starts talking just to fill the silence. That is where Peter stood on the mountain, offering to build three tents while God's own Son shone before him. But heaven did not need his busy plans. A cloud came down and covered them all, and out of it came a Voice. What Peter tried to manage, the Father simply interrupted. Here is the response His love makes possible: letting Him quiet you."
+        },
+        {
+          "day": 180,
+          "field": "body[0]",
+          "before": "There comes a season when the assignments pile up faster than our strength can carry them — a family to hold together, a job that keeps asking for more, a ministry that never sleeps. We start running before we are ready, and soon we are running on empty. But look at what Jesus does in this verse. Before He ever sends the twelve out, He calls them unto Himself. Mission does not begin in the noise; it begins in nearness. Surrender to His love, and let Him call you close first.",
+          "after": "There comes a season when the assignments pile up faster than our strength can carry them — a family to hold together, a job that keeps asking for more, a ministry that never sleeps. We start running before we are ready, and soon we are running on empty. But look at what Jesus does in this verse. Before He ever sends the twelve out, He calls them unto Himself. Mission does not begin in the noise; it begins in nearness. place yourself in His care, and let Him call you close first."
+        },
+        {
+          "day": 184,
+          "field": "journal_act",
+          "before": "Name one conversation or task you are dreading, and before it comes, ask the Spirit specifically to speak through you instead of rehearsing your fear.",
+          "after": "Name one conversation or task you are dreading, and before it comes, ask the Spirit to speak through you instead of rehearsing your fear."
+        },
+        {
+          "day": 200,
+          "field": "body[1]",
+          "before": "Notice the master did not lower a single wage — he simply refused to shrink his generosity to fit anyone's comparison. Every penny promised was a penny placed in the hand. The trouble was never the pay; it was the eye that kept watching the neighbor's palm. God's goodness to another takes nothing away from you. When we surrender to His love, we lay down the ruler and lift up gratitude instead.",
+          "after": "Notice the master did not lower a single wage — he simply refused to shrink his generosity to fit anyone's comparison. Every penny promised was a penny placed in the hand. The trouble was never the pay; it was the eye that kept watching the neighbor's palm. God's goodness to another takes nothing away from you. When we let His love hold the outcome, we lay down the ruler and lift up gratitude instead."
+        },
+        {
+          "day": 200,
+          "field": "body[3]",
+          "before": "Today, choose to bless what God is doing in another's field before you see the fullness of your own. No blessing given nearby empties your account, no kindness poured out beside you drains your well, and no season of waiting cancels the wage He promised. As you surrender to His love, envy loosens its grip and thanksgiving takes its place. Take what is yours, child, and go your way in peace.",
+          "after": "Today, choose to bless what God is doing in another's field before you see the fullness of your own. No blessing given nearby empties your account, no kindness poured out beside you drains your well, and no season of waiting cancels the wage He promised. As you let His love steady you, envy loosens its grip and thanksgiving takes its place. Take what is yours, child, and go your way in peace."
+        },
+        {
+          "day": 201,
+          "field": "body[3]",
+          "before": "Today, hand Him the thing you have been afraid to release. No sacrifice made for His name is forgotten, no home left for the gospel is lost, and no love laid down for Jesus goes unrewarded by heaven. As you surrender to His love, fear of the empty hand gives way to trust in the faithful Lord. Leave what He asks, and walk on — for the One who counts the cost will never be in your debt.",
+          "after": "Today, hand Him the thing you have been afraid to release. No sacrifice made for His name is forgotten, no home left for the gospel is lost, and no love laid down for Jesus goes unrewarded by heaven. With this held in His loving care, fear of the empty hand gives way to trust in the faithful Lord. Leave what He asks, and walk on — for the One who counts the cost will never be in your debt."
+        }
+      ]
+    },
+    "3": {
+      "entries": 366,
+      "changed_entries": 111,
+      "changed_fields": 123,
+      "replacement_frames": {
+        "v3:d100:body:0:means": 1,
+        "v3:d101:body:0:means": 1,
+        "v3:d102:body:0:means": 1,
+        "v3:d103:body:0:residual-his": 1,
+        "v3:d104:body:0:means": 1,
+        "v3:d105:body:0:residual-his": 1,
+        "v3:d106:body:0:means": 1,
+        "v3:d107:body:0:means": 1,
+        "v3:d108:body:0:means": 1,
+        "v3:d109:body:0:means": 1,
+        "v3:d10:body:0:means": 1,
+        "v3:d110:body:0:means": 1,
+        "v3:d111:body:0:means": 1,
+        "v3:d112:body:0:means": 1,
+        "v3:d113:body:0:means": 1,
+        "v3:d114:body:0:means": 1,
+        "v3:d115:body:0:means": 1,
+        "v3:d116:body:0:means": 1,
+        "v3:d117:body:0:means": 1,
+        "v3:d118:body:0:means": 1,
+        "v3:d119:body:0:means": 1,
+        "v3:d11:body:0:means": 1,
+        "v3:d120:body:3:god": 1,
+        "v3:d12:body:0:means": 1,
+        "v3:d13:body:0:means": 1,
+        "v3:d140:body:0:residual-his": 1,
+        "v3:d141:body:0:means": 1,
+        "v3:d142:body:0:means": 1,
+        "v3:d143:body:0:means": 1,
+        "v3:d144:body:0:means": 1,
+        "v3:d145:body:0:means": 1,
+        "v3:d146:body:0:means": 1,
+        "v3:d147:body:0:means": 1,
+        "v3:d148:body:0:means": 1,
+        "v3:d149:body:0:means": 1,
+        "v3:d14:body:0:means": 1,
+        "v3:d150:body:0:means": 1,
+        "v3:d151:body:0:means": 1,
+        "v3:d152:body:0:means": 1,
+        "v3:d153:body:0:means": 1,
+        "v3:d154:body:0:means": 1,
+        "v3:d155:body:0:means": 1,
+        "v3:d156:body:0:means": 1,
+        "v3:d157:body:0:means": 1,
+        "v3:d158:body:0:means": 1,
+        "v3:d159:body:0:means": 1,
+        "v3:d15:body:0:means": 1,
+        "v3:d162:body:0:residual-his": 1,
+        "v3:d163:body:0:our-part": 1,
+        "v3:d165:body:0:gerund": 1,
+        "v3:d168:body:0:our-part": 1,
+        "v3:d169:body:0:our-part": 1,
+        "v3:d16:body:0:means": 1,
+        "v3:d173:body:0:our-part": 1,
+        "v3:d175:body:0:our-part": 1,
+        "v3:d177:body:0:our-part": 1,
+        "v3:d178:body:0:residual-his": 1,
+        "v3:d179:body:0:our-part": 1,
+        "v3:d17:body:0:means": 1,
+        "v3:d18:body:0:means": 1,
+        "v3:d19:body:0:means": 1,
+        "v3:d1:body:0:means": 1,
+        "v3:d200:body:0:our-part-to": 1,
+        "v3:d20:body:0:means": 1,
+        "v3:d21:body:0:our-part-to": 1,
+        "v3:d221:body:0:residual-his": 1,
+        "v3:d240:body:0:when-we": 1,
+        "v3:d242:body:0:when-we": 1,
+        "v3:d243:body:0:when-we": 1,
+        "v3:d244:body:0:god": 1,
+        "v3:d245:body:0:when-we": 1,
+        "v3:d246:body:0:when-we": 1,
+        "v3:d247:body:0:when-we": 1,
+        "v3:d248:body:0:when-we": 1,
+        "v3:d249:body:0:when-we": 1,
+        "v3:d250:body:0:when-we": 1,
+        "v3:d251:body:0:god": 1,
+        "v3:d252:body:0:when-we": 1,
+        "v3:d253:body:0:when-we": 1,
+        "v3:d254:body:0:when-we": 1,
+        "v3:d255:body:0:when-we": 1,
+        "v3:d256:body:0:when-we": 1,
+        "v3:d257:body:0:when-we": 1,
+        "v3:d258:body:0:when-we": 1,
+        "v3:d259:body:0:god": 1,
+        "v3:d321:body:0:when-we": 1,
+        "v3:d322:body:0:residual-his": 1,
+        "v3:d340:body:0:residual-his": 1,
+        "v3:d4:body:0:means": 1,
+        "v3:d5:body:0:means": 1,
+        "v3:d6:body:0:means": 1,
+        "v3:d7:body:0:means": 1,
+        "v3:d8:body:0:means": 1
+      },
+      "examples": [
+        {
+          "day": 1,
+          "field": "body[0]",
+          "before": "There are moments in life when the trouble is so loud our hands do not know what to do first. We want the whole plan, the whole answer, and we want it now. But look how God met Gideon. He did not hand that frightened man a strategy for the war. He simply said, lay the flesh and the cakes upon this rock, and pour out the broth. One instruction. One rock. One next step. That is often how the Spirit draws near to a worried heart, not with the whole future, but with the very next faithful thing. Surrender to His love means trusting that the God who gives the next step already knows the whole road.",
+          "after": "There are moments in life when the trouble is so loud our hands do not know what to do first. We want the whole plan, the whole answer, and we want it now. But look how God met Gideon. He did not hand that frightened man a strategy for the war. He simply said, lay the flesh and the cakes upon this rock, and pour out the broth. One instruction. One rock. One next step. That is often how the Spirit draws near to a worried heart, not with the whole future, but with the very next faithful thing. Love asks for something concrete: trusting that the God who gives the next step already knows the whole road."
+        },
+        {
+          "day": 4,
+          "field": "body[0]",
+          "before": "There are moments in life when a conversation looms so large that fear empties us of every word. We rehearse and still come up blank, terrified we will fumble it or say the wrong thing at the worst time. Into exactly that fear Jesus speaks a promise: it is not you that speak, but the Spirit of your Father which speaketh in you. When panic has emptied your mouth, the Father's own breath is near enough to fill it. Surrender to His love means walking into the hard place trusting that you will not have to find the words alone.",
+          "after": "There are moments in life when a conversation looms so large that fear empties us of every word. We rehearse and still come up blank, terrified we will fumble it or say the wrong thing at the worst time. Into exactly that fear Jesus speaks a promise: it is not you that speak, but the Spirit of your Father which speaketh in you. When panic has emptied your mouth, the Father's own breath is near enough to fill it. Here, surrender looks like walking into the hard place trusting that you will not have to find the words alone."
+        },
+        {
+          "day": 5,
+          "field": "body[0]",
+          "before": "There are seasons when the soul grows bone-tired from trying to prove it is good enough, holy enough, worthy enough to be loved. We strain to earn a place we already have. Then God speaks over His people a word that lifts the weight: keep My sabbaths as a sign, He says, that ye may know that I am the LORD that doth sanctify you. Did you catch it? He is the One doing the making-holy. Surrender to His love means laying down the exhausting work of trying to sanctify yourself and trusting the One who already has.",
+          "after": "There are seasons when the soul grows bone-tired from trying to prove it is good enough, holy enough, worthy enough to be loved. We strain to earn a place we already have. Then God speaks over His people a word that lifts the weight: keep My sabbaths as a sign, He says, that ye may know that I am the LORD that doth sanctify you. Did you catch it? He is the One doing the making-holy. In this moment, surrender means laying down the exhausting work of trying to sanctify yourself and trusting the One who already has."
+        },
+        {
+          "day": 6,
+          "field": "body[0]",
+          "before": "There are moments when a calling feels desperately lonely, as if God has asked something of you that no one else understands and you must carry it entirely alone. But look at the day Saul went home to step into all God had for him. He did not walk that road by himself. There went with him a band of men whose hearts God had touched. The Lord who calls you also knows how to send companions. Surrender to His love means trusting that He will not leave your calling to walk unaccompanied.",
+          "after": "There are moments when a calling feels desperately lonely, as if God has asked something of you that no one else understands and you must carry it entirely alone. But look at the day Saul went home to step into all God had for him. He did not walk that road by himself. There went with him a band of men whose hearts God had touched. The Lord who calls you also knows how to send companions. Here, surrender looks like trusting that He will not leave your calling to walk unaccompanied."
+        },
+        {
+          "day": 7,
+          "field": "body[0]",
+          "before": "There are moments in life when something catches our eye and, almost without deciding, we begin to move toward it, one small step at a time. Scripture watches Samson do exactly that. He went down, he talked with the woman, and she pleased him well. In the Hebrew, she was right in his own eyes, the very habit the whole book of Judges mourns. The Spirit's nearness matters most in that quiet moment when attraction first becomes conversation. Surrender to His love means letting God near the things that please you before they master you.",
+          "after": "There are moments in life when something catches our eye and, almost without deciding, we begin to move toward it, one small step at a time. Scripture watches Samson do exactly that. He went down, he talked with the woman, and she pleased him well. In the Hebrew, she was right in his own eyes, the very habit the whole book of Judges mourns. The Spirit's nearness matters most in that quiet moment when attraction first becomes conversation. Here, surrender looks like letting God near the things that please you before they master you."
+        },
+        {
+          "day": 8,
+          "field": "body[0]",
+          "before": "There are moments when the truth has stung us so deeply that everything in us wants to stop listening. We have been corrected, our pride has been exposed, and we would rather close the ear than hear another hard word. Yet even at the end of a searching message, the Spirit says, he that hath an ear, let him hear what the Spirit saith unto the churches. He does not go silent when the word gets hard. Surrender to His love means keeping your ear open to the God who loves you enough to tell you the truth.",
+          "after": "There are moments when the truth has stung us so deeply that everything in us wants to stop listening. We have been corrected, our pride has been exposed, and we would rather close the ear than hear another hard word. Yet even at the end of a searching message, the Spirit says, he that hath an ear, let him hear what the Spirit saith unto the churches. He does not go silent when the word gets hard. This is the trust His love invites: keeping your ear open to the God who loves you enough to tell you the truth."
+        },
+        {
+          "day": 10,
+          "field": "body[0]",
+          "before": "There are moments when we stare down a dark road and demand that God light every mile before we take a single step. We want the whole journey illuminated now. But look at how God works in the very beginning. He set the lights in the firmament of the heaven to give light upon the earth, placed, positioned, deliberate. His provision was never random. It was set exactly where it was needed. Surrender to His love means trusting the God who knows precisely where to place the light your feet require.",
+          "after": "There are moments when we stare down a dark road and demand that God light every mile before we take a single step. We want the whole journey lit now. But look at how God works in the very beginning. He set the lights in the firmament of the heaven to give light upon the earth, placed, positioned, deliberate. His provision was never random. It was set exactly where it was needed. Here, surrender looks like trusting the God who knows precisely where to place the light your feet require."
+        },
+        {
+          "day": 10,
+          "field": "journal_act",
+          "before": "Name one placed light God has already given you for today, a word, a person, a strength, and thank Him specifically for it before asking for more.",
+          "after": "Name one placed light God has already given you for today, a word, a person, a strength, and thank Him for it before asking for more."
+        },
+        {
+          "day": 11,
+          "field": "body[0]",
+          "before": "There are moments when we come back to a door we were sure would still be open, and find it shut in our faces. We had counted on it. We had every reason to expect it. Samson knew that sting. He returned expecting to walk straight in to his wife, and her father would not suffer him to go in. The way he assumed was his had quietly been closed. The Comforter draws near in exactly that place, where a delayed return meets an unexpected no. Surrender to His love means bringing the disappointment to God instead of forcing the door.",
+          "after": "There are moments when we come back to a door we were sure would still be open, and find it shut in our faces. We had counted on it. We had every reason to expect it. Samson knew that sting. He returned expecting to walk straight in to his wife, and her father would not suffer him to go in. The way he assumed was his had quietly been closed. The Comforter draws near in exactly that place, where a delayed return meets an unexpected no. The release He invites looks like bringing the disappointment to God instead of forcing the door."
+        },
+        {
+          "day": 12,
+          "field": "body[0]",
+          "before": "There are mornings when the soul needs to remember that God is not far away, that His presence is as near as breath. And there are mornings when we have grown so casual with Him that we have quietly made Him small. Look at how carefully the tabernacle was furnished: the incense altar, the anointing oil, the sweet incense, and the hanging for the door at the entering in. God made a real way to draw near, and it was holy ground. Surrender to His love means coming close with both confidence and reverence.",
+          "after": "There are mornings when the soul needs to remember that God is not far away, that His presence is as near as breath. And there are mornings when we have grown so casual with Him that we have quietly made Him small. Look at how carefully the tabernacle was furnished: the incense altar, the anointing oil, the sweet incense, and the hanging for the door at the entering in. God made a real way to draw near, and it was holy ground. Here, surrender looks like coming close with both confidence and reverence."
+        },
+        {
+          "day": 13,
+          "field": "body[0]",
+          "before": "There is a particular kind of pain that cuts deeper than all the rest, the pain that comes from the very people who were supposed to be safest. When the wound is inflicted at home, by our own, it can leave us feeling utterly alone. Jesus did not shy away from that grief. He said it plainly: a man's foes shall be they of his own household. He named the ache of home out loud, and He named it without despair. Surrender to His love means bringing even that hidden pain into His care.",
+          "after": "There is a particular kind of pain that cuts deeper than all the rest, the pain that comes from the very people who were supposed to be safest. When the wound is inflicted at home, by our own, it can leave us feeling utterly alone. Jesus did not shy away from that grief. He said it plainly: a man's foes shall be they of his own household. He named the ache of home out loud, and He named it without despair. Here, surrender looks like bringing even that hidden pain into His care."
+        },
+        {
+          "day": 14,
+          "field": "body[0]",
+          "before": "There are seasons when we assume that if God were truly near, the trouble would ease, and then, instead, the pressure gathers again. In Gideon's day the Midianites, the Amalekites, and the children of the east came together, crossed over, and pitched camp right in the valley of Jezreel. The enemy set up in plain sight. But their gathering was not proof that God had gone. The Comforter's nearness is not measured by the absence of pressure. Surrender to His love means trusting Him even as the armies pitch their tents in your valley.",
+          "after": "There are seasons when we assume that if God were truly near, the trouble would ease, and then, instead, the pressure gathers again. In Gideon's day the Midianites, the Amalekites, and the children of the east came together, crossed over, and pitched camp right in the valley of Jezreel. The enemy set up in plain sight. But their gathering was not proof that God had gone. The Comforter's nearness is not measured by the absence of pressure. Here, surrender looks like trusting Him even as the armies pitch their tents in your valley."
+        }
+      ]
+    }
+  },
+  "total_changed_entries": 220
+}

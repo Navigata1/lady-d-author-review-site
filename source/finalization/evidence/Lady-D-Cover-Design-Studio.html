@@ -1,0 +1,1114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lady D Cover Studio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=Spectral:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#f8f2e4; --paper-2:#fbf6ea; --card:#fffdf8;
+  --ink:#26201a; --ink-soft:#564a3c; --ink-mut:#8a7c68;
+  --gold:#b5872f; --gold-deep:#8f6a20; --gold-soft:#e7c884;
+  --wine:#7a2e2e; --heart:#c0392b;
+  --good:#4c7a4f; --bad:#a2402f; --rule:#e6d9bc; --rule-2:#efe6d1;
+  --shadow:rgba(70,52,22,.18);
+  --disp:"Fraunces","Iowan Old Style",Georgia,serif;
+  --script:"Cormorant Garamond","Fraunces",Georgia,serif;
+  --body:"Spectral","Iowan Old Style",Georgia,serif;
+  --sans:"Inter","Helvetica Neue",Arial,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#1b160f; --paper-2:#221b12; --card:#282017;
+    --ink:#f1e6d2; --ink-soft:#cdbfa5; --ink-mut:#9a8c73;
+    --rule:#3a3020; --rule-2:#332a1c; --shadow:rgba(0,0,0,.5);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#1b160f; --paper-2:#221b12; --card:#282017;
+  --ink:#f1e6d2; --ink-soft:#cdbfa5; --ink-mut:#9a8c73;
+  --rule:#3a3020; --rule-2:#332a1c; --shadow:rgba(0,0,0,.5);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--body);background:var(--paper);color:var(--ink);line-height:1.6;font-size:16.5px;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+.eyebrow{font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:.26em;text-transform:uppercase;color:var(--gold-deep)}
+h1,h2,h3,h4{font-family:var(--disp);font-weight:600;line-height:1.12;text-wrap:balance;color:var(--ink)}
+a{color:var(--wine)}
+.mono{font-family:var(--mono);font-size:11.5px;color:var(--ink-mut);word-break:break-all}
+
+header{padding:70px 0 46px;background:
+  radial-gradient(110% 80% at 80% 0%, rgba(231,200,132,.4), transparent 55%),
+  linear-gradient(180deg,var(--paper-2),var(--paper));border-bottom:1px solid var(--rule)}
+header h1{font-size:clamp(32px,5vw,54px)}
+header h1 em{font-family:var(--script);font-style:italic;color:var(--gold-deep)}
+header .lede{margin-top:16px;max-width:64ch;font-size:18px;color:var(--ink-soft)}
+.srcline{margin-top:22px;display:flex;flex-wrap:wrap;gap:8px}
+.tag{font-family:var(--sans);font-size:11.5px;color:var(--ink-soft);background:var(--card);
+  border:1px solid var(--rule);border-radius:999px;padding:5px 11px}
+.tag b{color:var(--good)}
+
+.gatebar{background:var(--card);border:1px solid var(--rule);border-left:4px solid var(--gold);
+  border-radius:10px;padding:16px 20px;margin-top:26px;font-family:var(--sans);font-size:13.5px;color:var(--ink-soft)}
+.gatebar b{color:var(--ink)}
+.gatebar .q{font-family:var(--disp);font-style:italic;font-size:15px;color:var(--ink)}
+
+section.book{padding:52px 0;border-bottom:1px solid var(--rule)}
+.bhead h2{font-size:clamp(24px,3.4vw,36px);margin-top:4px}
+.bhead .concept{margin-top:6px;font-family:var(--sans);font-size:13px;color:var(--ink-mut)}
+.bgrid{display:grid;grid-template-columns:1fr;gap:28px;margin-top:22px}
+@media(min-width:860px){.bgrid{grid-template-columns:380px 1fr;align-items:start}}
+
+.cover-cq{container-type:inline-size}
+.cover{position:relative;aspect-ratio:2/3;border-radius:6px;overflow:hidden;isolation:isolate;
+  box-shadow:0 26px 50px -18px var(--shadow),0 4px 10px rgba(0,0,0,.15);background:#e9d9b8}
+.cover .scrim{position:absolute;inset:0;z-index:1;background:
+  linear-gradient(180deg,rgba(40,22,6,.30),rgba(40,22,6,.06) 26%,transparent 40%,transparent 68%,rgba(40,22,6,.34) 100%)}
+.plate{position:absolute;left:0;right:0;z-index:2;text-align:center;padding:7% 8%}
+.plate.top{top:0}
+.plate.bottom{bottom:0}
+.ct{font-family:var(--disp);font-weight:600;color:#fff8ea;line-height:1.05;font-size:clamp(22px,8.4cqw,34px);
+  text-shadow:0 2px 16px rgba(30,15,3,.75),0 1px 3px rgba(30,15,3,.6)}
+.ct .em{display:block;font-family:var(--script);font-style:italic;font-weight:600;color:#f6d387;font-size:1.22em;
+  text-shadow:0 2px 18px rgba(40,20,4,.8)}
+.ch{display:inline-block;width:.5em;height:.5em;margin-top:.35em;background:var(--heart);
+  clip-path:path("M7 13C7 13 0.5 8.7 0.5 4.4C0.5 2 2.3 0.6 4 0.6C5.3 0.6 6.5 1.4 7 2.6C7.5 1.4 8.7 0.6 10 0.6C11.7 0.6 13.5 2 13.5 4.4C13.5 8.7 7 13 7 13Z")}
+.csub{font-family:var(--sans);font-size:9px;letter-spacing:.16em;text-transform:uppercase;color:rgba(255,252,240,.95);
+  text-shadow:0 1px 8px rgba(30,15,3,.8)}
+.cauth{font-family:var(--script);font-style:italic;font-size:clamp(13px,4cqw,18px);color:#fff;
+  margin-top:5px;text-shadow:0 2px 10px rgba(30,15,3,.7)}
+
+.gate{margin-top:12px;display:flex;flex-wrap:wrap;align-items:center;gap:8px 16px;font-family:var(--sans);font-size:12px;
+  border:1px solid var(--rule);border-radius:9px;padding:10px 14px;background:var(--card);color:var(--ink-soft)}
+.gate b{font-size:12.5px;letter-spacing:.08em}
+.gate.pass b{color:var(--good)}
+.gate.fail b{color:var(--bad)}
+
+.bnotes{display:flex;flex-direction:column;gap:14px}
+.ncard{background:var(--card);border:1px solid var(--rule);border-radius:10px;padding:16px 20px}
+.ncard h4{font-size:15px;margin-bottom:6px}
+.ncard p{font-size:14.5px;color:var(--ink-soft);margin-top:6px}
+.ncard.note{border-style:dashed;border-color:var(--gold)}
+.ncard.note p{font-family:var(--disp);font-style:italic;font-size:15.5px;color:var(--ink)}
+.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}
+.chip{display:inline-flex;align-items:center;gap:7px;font-family:var(--sans);font-size:11.5px;
+  color:var(--ink-soft);background:var(--paper-2);border:1px solid var(--rule);border-radius:999px;padding:4px 10px}
+.chip i{width:12px;height:12px;border-radius:50%;flex:none;box-shadow:inset 0 0 0 1px rgba(0,0,0,.1)}
+
+section.plain{padding:52px 0;border-bottom:1px solid var(--rule)}
+.sec-head h2{font-size:clamp(22px,3vw,32px)}
+.sec-head p{margin-top:10px;color:var(--ink-soft);max-width:70ch}
+table.concepts{width:100%;border-collapse:collapse;margin-top:18px}
+table.concepts th{font-family:var(--sans);font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink-mut);text-align:left;padding:7px 8px;border-bottom:1.5px solid var(--gold)}
+table.concepts td{padding:8px;border-bottom:1px solid var(--rule);font-size:14px;color:var(--ink-soft);vertical-align:top}
+table.concepts .cname{font-family:var(--disp);font-weight:600;color:var(--ink);white-space:nowrap}
+table.concepts .score{font-family:var(--sans);font-size:12px;color:var(--gold-deep)}
+
+.lumstrip{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-top:18px}
+.lumcell{background:var(--card);border:1px solid var(--rule);border-radius:9px;padding:12px 14px;font-family:var(--sans)}
+.lumcell .who{font-size:11px;color:var(--ink-mut);letter-spacing:.06em;text-transform:uppercase}
+.lumcell .val{font-family:var(--disp);font-weight:600;font-size:22px;margin-top:2px}
+.lumcell .val.bad{color:var(--bad)}
+.lumcell .val.good{color:var(--good)}
+.lumcell .bar{margin-top:8px;height:6px;border-radius:99px;background:var(--rule-2);overflow:hidden}
+.lumcell .bar i{display:block;height:100%;background:linear-gradient(90deg,var(--bad),var(--gold),var(--good))}
+
+.linkrow{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;margin-top:18px}
+.linkcard{display:block;background:var(--card);border:1px solid var(--rule);border-radius:10px;padding:14px 18px;text-decoration:none}
+.linkcard b{font-family:var(--disp);color:var(--ink);font-size:15px}
+.linkcard span{display:block;font-family:var(--sans);font-size:12px;color:var(--ink-mut);margin-top:4px}
+
+footer{padding:44px 0 70px;text-align:center}
+footer p{font-family:var(--sans);font-size:12.5px;color:var(--ink-mut)}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <span class="eyebrow">Lady D Devotional Library · Cover Direction v2</span>
+    <h1>Cover Studio, <em>grounded in the real packs</em></h1>
+    <p class="lede">Rebuilt from the four 10-concept prompt packs that already live in the project — one Fable demo render per book, each held to the same measured brightness gate her feedback demands. These demos show the corrected direction; Codex generates the photoreal finals from the same specs.</p>
+    <div class="srcline">
+      <span class="tag">Source: the 4 real <b>10-Cover-Prompts</b> packs</span>
+      <span class="tag">Palettes corrected per the Vision Brief</span>
+      <span class="tag">Every render measured, not eyeballed</span>
+    </div>
+    <div class="gatebar">
+      <span class="q">&ldquo;If they were all sitting on the shelf, they just look dark&hellip; They're not bright.&rdquo;</span> — Lady D, Jul 6 recording.
+      <b>The gate:</b> average luminance &ge; 160/255, shadow mass &le; 25%. Every demo below wears its measured score.
+    </div>
+  </div>
+</header>
+
+
+<section class="book">
+  <div class="wrap">
+    <div class="bhead">
+      <div>
+        <span class="eyebrow">Volume I · God the Father</span>
+        <h2>Surrendering to God&rsquo;s Love </h2>
+        <p class="concept">Fable demo render · The Path of Surrender · corrected-bright</p>
+      </div>
+    </div>
+    <div class="bgrid">
+      <div class="cover-cq">
+        <div class="cover">
+          <svg preserveAspectRatio="xMidYMid slice" style="position:absolute;inset:0;width:100%;height:100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3d4bc"/>
+      <stop offset=".28" stop-color="#fbe6c9"/>
+      <stop offset=".55" stop-color="#fdf3dc"/>
+      <stop offset=".82" stop-color="#fae3a9"/>
+      <stop offset="1" stop-color="#f6d68e"/>
+    </linearGradient>
+    <linearGradient id="indigo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7a7fae" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#7a7fae" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fffbee" stop-opacity=".95"/>
+      <stop offset=".35" stop-color="#ffefc0" stop-opacity=".72"/>
+      <stop offset=".7" stop-color="#f9dc9a" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#f9dc9a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hillfar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f8dd9c"/>
+      <stop offset="1" stop-color="#d5bd7c"/>
+    </linearGradient>
+    <linearGradient id="hillmid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0d48d"/>
+      <stop offset="1" stop-color="#b3bf7e"/>
+    </linearGradient>
+    <linearGradient id="meadow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dce0a2"/>
+      <stop offset=".45" stop-color="#bcc994"/>
+      <stop offset="1" stop-color="#a2b681"/>
+    </linearGradient>
+    <linearGradient id="pathg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f8e5b4"/>
+      <stop offset=".4" stop-color="#ecc98c"/>
+      <stop offset="1" stop-color="#e0b070"/>
+    </linearGradient>
+    <filter id="soft" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <ellipse id="pe" cx="0" cy="-4.3" rx="2.1" ry="4.1"/>
+    <g id="pr">
+      <use href="#pe"/>
+      <use href="#pe" transform="rotate(72)"/>
+      <use href="#pe" transform="rotate(144)"/>
+      <use href="#pe" transform="rotate(216)"/>
+      <use href="#pe" transform="rotate(288)"/>
+    </g>
+    <g id="flo">
+      <use href="#pr"/>
+      <circle r="1.8" fill="#c8913f"/>
+    </g>
+    <g id="tuft" fill="none" stroke-linecap="round">
+      <path d="M0 0 C-1 -6 -5 -9 -7 -13"/>
+      <path d="M0 0 C0 -7 -1 -11 1 -16"/>
+      <path d="M0 0 C1 -6 5 -8 7 -12"/>
+      <path d="M0 0 C-2 -5 -4 -6 -6 -8"/>
+    </g>
+  </defs>
+
+  <!-- LAYER 1: luminous sky -->
+  <rect width="400" height="382" fill="url(#sky)"/>
+  <rect width="400" height="44" fill="url(#indigo)"/>
+
+  <!-- LAYER 2: sun halo + god-rays + sun -->
+  <circle cx="200" cy="318" r="155" fill="url(#halo)"/>
+  <g fill="#fff5d8">
+    <path d="M200 322 L96 152 L128 142 Z" opacity=".13"/>
+    <path d="M200 322 L168 128 L196 126 Z" opacity=".16"/>
+    <path d="M200 322 L236 130 L262 140 Z" opacity=".15"/>
+    <path d="M200 322 L318 168 L340 190 Z" opacity=".12"/>
+    <path d="M200 322 L60 210 L74 186 Z" opacity=".10"/>
+    <path d="M200 322 L332 236 L344 258 Z" opacity=".10"/>
+  </g>
+  <circle cx="200" cy="318" r="46" fill="#ffe9ae" filter="url(#soft)" opacity=".9"/>
+  <circle cx="200" cy="318" r="30" fill="#fff6dc"/>
+  <circle cx="200" cy="318" r="21" fill="#fffdf3"/>
+
+  <!-- LAYER 3: far hills, tops lit gold -->
+  <path d="M0 356 C50 334 110 328 168 338 C186 341 214 341 232 338 C290 328 350 334 400 354 L400 420 L0 420 Z" fill="url(#hillfar)"/>
+  <path d="M0 356 C50 334 110 328 168 338 C186 341 214 341 232 338 C290 328 350 334 400 354" fill="none" stroke="#fff3c8" stroke-width="3" opacity=".9"/>
+  <ellipse cx="200" cy="352" rx="235" ry="15" fill="#fdf0cd" opacity=".3" filter="url(#soft)"/>
+
+  <!-- LAYER 4: rolling inner mounds + mid hills, lit crests -->
+  <path d="M0 382 C55 362 105 358 162 370 C120 388 58 394 0 394 Z" fill="#e6d089" opacity=".95"/>
+  <path d="M0 382 C55 362 105 358 162 370" fill="none" stroke="#fdedb4" stroke-width="2" opacity=".8"/>
+  <path d="M400 380 C350 362 298 360 246 372 C292 388 352 392 400 392 Z" fill="#e6d089" opacity=".95"/>
+  <path d="M400 380 C350 362 298 360 246 372" fill="none" stroke="#fdedb4" stroke-width="2" opacity=".8"/>
+  <path d="M0 402 C70 368 148 360 210 374 C270 387 332 372 400 396 L400 460 L0 460 Z" fill="url(#hillmid)"/>
+  <path d="M0 402 C70 368 148 360 210 374 C270 387 332 372 400 396" fill="none" stroke="#fbe8ab" stroke-width="2.8" opacity=".85"/>
+
+  <!-- LAYER 5: sunlit meadow -->
+  <path d="M0 600 L0 408 C80 382 178 376 240 388 C308 400 358 392 400 404 L400 600 Z" fill="url(#meadow)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M60 442 C140 426 224 424 302 436" stroke="#e9e6a8" stroke-width="5" opacity=".5"/>
+    <path d="M18 470 C90 452 156 448 188 456" stroke="#93a878" stroke-width="3" opacity=".3"/>
+    <path d="M226 468 C284 458 336 460 386 474" stroke="#93a878" stroke-width="3" opacity=".28"/>
+    <path d="M28 532 C104 510 148 508 178 518" stroke="#8ea274" stroke-width="4" opacity=".26"/>
+    <path d="M248 530 C308 514 352 518 396 534" stroke="#8ea274" stroke-width="4" opacity=".26"/>
+    <path d="M40 494 C110 478 150 476 174 482" stroke="#e6e3a4" stroke-width="4" opacity=".4"/>
+    <path d="M240 498 C300 486 348 490 390 502" stroke="#e6e3a4" stroke-width="4" opacity=".4"/>
+  </g>
+  <g fill="#fff5d8">
+    <path d="M200 336 L96 470 L142 486 Z" opacity=".1"/>
+    <path d="M200 336 L262 482 L308 462 Z" opacity=".1"/>
+  </g>
+
+  <!-- LAYER 6: winding amber path -->
+  <path d="M138 600 C160 552 212 532 220 502 C228 474 168 458 172 434 C176 410 190 394 196 378 L205 378 C209 394 199 410 203 434 C207 460 268 472 277 498 C286 526 238 558 262 600 Z" fill="url(#pathg)"/>
+  <path d="M138 600 C160 552 212 532 220 502 C228 474 168 458 172 434 C176 410 190 394 196 378" fill="none" stroke="#fdf0ce" stroke-width="2" opacity=".55"/>
+  <path d="M205 378 C209 394 199 410 203 434 C207 460 268 472 277 498 C286 526 238 558 262 600" fill="none" stroke="#fdf0ce" stroke-width="2" opacity=".45"/>
+  <g fill="none" stroke="#cf9d60" stroke-linecap="round">
+    <path d="M186 560 C196 522 212 506 218 496" stroke-width="2" opacity=".28"/>
+    <path d="M214 566 C228 534 238 516 242 502" stroke-width="1.8" opacity=".22"/>
+    <path d="M186 452 C182 440 186 420 192 404" stroke-width="1.5" opacity=".26"/>
+  </g>
+  <ellipse cx="200" cy="382" rx="30" ry="10" fill="#fff4d2" opacity=".85" filter="url(#soft)"/>
+  <circle cx="200" cy="342" r="80" fill="url(#halo)" opacity=".35"/>
+
+  <!-- LAYER 7: sage grasses, per-tuft variation -->
+  <g stroke-width="1.5">
+    <use href="#tuft" transform="translate(40 560) scale(1.4)" stroke="#8aa46d" opacity=".9"/>
+    <use href="#tuft" transform="translate(70 596) scale(1.6)" stroke="#97ad76" opacity=".95"/>
+    <use href="#tuft" transform="translate(120 556) scale(1.2) rotate(-6)" stroke="#a3b884" opacity=".9"/>
+    <use href="#tuft" transform="translate(300 560) scale(1.3) rotate(5)" stroke="#8aa46d" opacity=".9"/>
+    <use href="#tuft" transform="translate(336 596) scale(1.7)" stroke="#90a973" opacity=".95"/>
+    <use href="#tuft" transform="translate(362 548) scale(1.2) rotate(8)" stroke="#a3b884" opacity=".85"/>
+    <use href="#tuft" transform="translate(270 540) scale(1.1) rotate(-4)" stroke="#97ad76" opacity=".85"/>
+    <use href="#tuft" transform="translate(150 522) scale(1)" stroke="#a3b884" opacity=".85"/>
+    <use href="#tuft" transform="translate(240 516) scale(.95) rotate(7)" stroke="#97ad76" opacity=".8"/>
+    <use href="#tuft" transform="translate(110 500) scale(.9) rotate(-8)" stroke="#a3b884" opacity=".8"/>
+    <use href="#tuft" transform="translate(288 492) scale(.85)" stroke="#9db27f" opacity=".8"/>
+    <use href="#tuft" transform="translate(178 470) scale(.8) rotate(4)" stroke="#a3b884" opacity=".75"/>
+    <use href="#tuft" transform="translate(224 442) scale(.7) rotate(-5)" stroke="#a3b884" opacity=".75"/>
+    <use href="#tuft" transform="translate(158 430) scale(.7)" stroke="#9db27f" opacity=".7"/>
+    <use href="#tuft" transform="translate(302 452) scale(.8) rotate(6)" stroke="#a3b884" opacity=".75"/>
+    <use href="#tuft" transform="translate(130 420) scale(.6)" stroke="#a9bc8a" opacity=".7"/>
+    <use href="#tuft" transform="translate(262 424) scale(.6) rotate(-7)" stroke="#a9bc8a" opacity=".7"/>
+  </g>
+
+  <!-- LAYER 8: wildflowers — gold, cream, rose, all sunlit -->
+  <g fill="none" stroke="#8aa46d" stroke-width="1.8" stroke-linecap="round" opacity=".85">
+    <path d="M84 556 C82 570 80 584 82 598"/>
+    <path d="M316 552 C318 566 320 582 318 596"/>
+    <path d="M124 584 C123 592 122 597 123 600"/>
+    <path d="M288 588 C289 594 290 598 290 600"/>
+    <path d="M56 594 C55 597 55 599 56 600"/>
+    <path d="M346 582 C347 590 348 596 348 600"/>
+  </g>
+  <g>
+    <use href="#flo" transform="translate(150 398) scale(.55)" fill="#f2c14e" opacity=".85"/>
+    <use href="#flo" transform="translate(208 390) scale(.5) rotate(12)" fill="#f6e7c8" opacity=".8"/>
+    <use href="#flo" transform="translate(246 400) scale(.6) rotate(-9)" fill="#e8a998" opacity=".85"/>
+    <use href="#flo" transform="translate(176 404) scale(.5)" fill="#f0cd74" opacity=".8"/>
+    <use href="#flo" transform="translate(230 412) scale(.62) rotate(6)" fill="#f6e7c8" opacity=".85"/>
+    <use href="#flo" transform="translate(122 414) scale(.6) rotate(-14)" fill="#e8a998" opacity=".85"/>
+    <use href="#flo" transform="translate(276 418) scale(.58)" fill="#f2c14e" opacity=".85"/>
+    <use href="#flo" transform="translate(142 448) scale(.85) rotate(10)" fill="#f2c14e" opacity=".92"/>
+    <use href="#flo" transform="translate(250 452) scale(.9) rotate(-8)" fill="#f6e7c8" opacity=".92"/>
+    <use href="#flo" transform="translate(294 468) scale(.95) rotate(6)" fill="#e8a998" opacity=".92"/>
+    <use href="#flo" transform="translate(118 484) scale(1) rotate(-12)" fill="#f0cd74" opacity=".92"/>
+    <use href="#flo" transform="translate(264 502) scale(.9) rotate(14)" fill="#f2c14e" opacity=".92"/>
+    <use href="#flo" transform="translate(96 516) scale(1.05) rotate(-6)" fill="#e8a998" opacity=".92"/>
+    <use href="#flo" transform="translate(306 524) scale(1) rotate(9)" fill="#f6e7c8" opacity=".92"/>
+    <use href="#flo" transform="translate(84 552) scale(1.3) rotate(-10)" fill="#f2c14e" opacity=".97"/>
+    <use href="#flo" transform="translate(316 548) scale(1.35) rotate(8)" fill="#e8a998" opacity=".97"/>
+    <use href="#flo" transform="translate(124 580) scale(1.5) rotate(5)" fill="#f6e7c8" opacity=".97"/>
+    <use href="#flo" transform="translate(288 584) scale(1.45) rotate(-7)" fill="#f2c14e" opacity=".97"/>
+    <use href="#flo" transform="translate(56 590) scale(1.6) rotate(12)" fill="#e8a998" opacity=".97"/>
+    <use href="#flo" transform="translate(346 578) scale(1.5) rotate(-14)" fill="#f0cd74" opacity=".97"/>
+    <use href="#flo" transform="translate(136 564) scale(1.15) rotate(9)" fill="#f2c14e" opacity=".95"/>
+    <use href="#flo" transform="translate(66 468) scale(.8) rotate(-11)" fill="#f6e7c8" opacity=".9"/>
+    <use href="#flo" transform="translate(338 498) scale(.85) rotate(7)" fill="#f2c14e" opacity=".9"/>
+  </g>
+
+  <!-- LAYER 9: drifting light motes -->
+  <g fill="#fffdf2">
+    <circle cx="160" cy="300" r="3" opacity=".35"/>
+    <circle cx="258" cy="288" r="2.4" opacity=".3"/>
+    <circle cx="136" cy="356" r="2.6" opacity=".3"/>
+    <circle cx="282" cy="372" r="3.4" opacity=".28"/>
+    <circle cx="224" cy="452" r="2.8" opacity=".25"/>
+    <circle cx="120" cy="448" r="2.2" opacity=".25"/>
+    <circle cx="330" cy="330" r="2.6" opacity=".28"/>
+  </g>
+</svg>
+          <div class="scrim"></div>
+          <div class="plate top"><div class="ct">Surrendering<span class="em">to God&rsquo;s Love</span><span class="ch"></span></div></div>
+          <div class="plate bottom"><div class="csub">A 365-Day Devotional Journey into the Father&rsquo;s Heart</div><div class="cauth">by Susan Damon</div></div>
+        </div>
+        <div class="gate pass"><b>PASSES the gate</b><span>luminance 222/255 · floor 160</span><span>shadow mass 0% · cap 25%</span></div>
+      </div>
+      <div class="bnotes">
+        <div class="ncard"><h4>From the real pack</h4>
+          <p class="mono">Surrendering-to-Gods-Love-10-Cover-Prompts.md</p>
+          <p><b>Symbol bank:</b> open hands · golden sunrise · warm mantle · quiet path · fatherly shelter</p>
+          <div class="chips"><span class="chip"><i style="background:#f2c14e"></i>sunrise gold</span><span class="chip"><i style="background:#fdf3dc"></i>warm cream</span><span class="chip"><i style="background:#e8a998"></i>soft rose</span><span class="chip"><i style="background:#a8bb8a"></i>sage green</span></div>
+        </div>
+        <div class="ncard note"><p>Path scored 9.1/10 on the candidate board — the primary KDP retail route</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="book">
+  <div class="wrap">
+    <div class="bhead">
+      <div>
+        <span class="eyebrow">Volume II · Jesus the Son</span>
+        <h2>Walking with Jesus </h2>
+        <p class="concept">Fable demo render · The Footstep Road · her praised element</p>
+      </div>
+    </div>
+    <div class="bgrid">
+      <div class="cover-cq">
+        <div class="cover">
+          <svg preserveAspectRatio="xMidYMid slice" style="position:absolute;inset:0;width:100%;height:100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdf8ec"/>
+      <stop offset=".35" stop-color="#fcf0d4"/>
+      <stop offset=".68" stop-color="#fae3ae"/>
+      <stop offset="1" stop-color="#f6d488"/>
+    </linearGradient>
+    <radialGradient id="halo" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fffef7" stop-opacity=".95"/>
+      <stop offset=".45" stop-color="#fff3cf" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#fff3cf" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="sun" cx=".5" cy=".45" r=".55">
+      <stop offset="0" stop-color="#fffef8"/>
+      <stop offset=".55" stop-color="#ffeeb4"/>
+      <stop offset="1" stop-color="#f9cf6a"/>
+    </radialGradient>
+    <linearGradient id="field" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f5dda1"/>
+      <stop offset=".5" stop-color="#eccb85"/>
+      <stop offset="1" stop-color="#e3b975"/>
+    </linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3d69c"/>
+      <stop offset=".45" stop-color="#e6c084"/>
+      <stop offset="1" stop-color="#d9ab72"/>
+    </linearGradient>
+    <linearGradient id="bank" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cbd193"/>
+      <stop offset="1" stop-color="#a8b571"/>
+    </linearGradient>
+    <radialGradient id="warm" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fff6d9" stop-opacity=".3"/>
+      <stop offset=".5" stop-color="#fff6d9" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#fff6d9" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <g id="fp">
+      <ellipse cx="1.4" cy="-4.4" rx="6.6" ry="9.6" fill="#f2ddb0" opacity=".85"/>
+      <ellipse cx="1.3" cy="9.6" rx="5.2" ry="5.7" fill="#f2ddb0" opacity=".85"/>
+      <ellipse cx="0" cy="-6" rx="6.4" ry="9.4" fill="#b07f4e"/>
+      <ellipse cx="0" cy="8" rx="5" ry="5.4" fill="#b07f4e"/>
+      <ellipse cx="-.9" cy="-7.4" rx="3.6" ry="5.8" fill="#a4744a" opacity=".55"/>
+    </g>
+    <g id="lc">
+      <ellipse rx="5" ry="3" fill="#e7ecd6"/>
+      <ellipse cx="6" cy="2" rx="4" ry="2.5" fill="#dbe3c2"/>
+      <ellipse cx="-5" cy="3" rx="3.5" ry="2.2" fill="#eef2e0"/>
+    </g>
+    <g id="mt">
+      <path d="M-1,4 L1,4 L.5,-1 L-.5,-1 Z" fill="#bb9160"/>
+      <ellipse cy="-4.5" rx="6" ry="4.6" fill="#a3b173"/>
+      <ellipse cx="-1.6" cy="-6" rx="3.2" ry="2.3" fill="#c9d29c"/>
+    </g>
+    <g id="gr" fill="none" stroke-width="2" stroke-linecap="round">
+      <path d="M0,0 C-1,-8 -4,-14 -7,-18" stroke="#9db06d"/>
+      <path d="M2,0 C2,-9 1,-16 3,-22" stroke="#aabb79"/>
+      <path d="M4,0 C6,-8 9,-13 12,-16" stroke="#b7c489"/>
+      <path d="M-2,0 C-4,-7 -3,-12 -1,-15" stroke="#c2cd92"/>
+    </g>
+    <g id="fl">
+      <g fill="#fffdf6">
+        <ellipse cy="-4" rx="2.2" ry="3.8"/>
+        <ellipse cy="-4" rx="2.2" ry="3.8" transform="rotate(72)"/>
+        <ellipse cy="-4" rx="2.2" ry="3.8" transform="rotate(144)"/>
+        <ellipse cy="-4" rx="2.2" ry="3.8" transform="rotate(216)"/>
+        <ellipse cy="-4" rx="2.2" ry="3.8" transform="rotate(288)"/>
+      </g>
+      <circle r="2.2" fill="#f2c24e"/>
+    </g>
+  </defs>
+
+  <!-- layer 1: dawn sky (title zone stays calm and light) -->
+  <rect width="400" height="345" fill="url(#sky)"/>
+  <path d="M0,0 L46,0 C28,6 10,22 0,52 Z" fill="#5a6591" opacity=".15"/>
+  <path d="M400,0 L354,0 C372,6 390,22 400,52 Z" fill="#5a6591" opacity=".15"/>
+
+  <!-- layer 2: sun halo and god-rays -->
+  <circle cx="200" cy="328" r="170" fill="url(#halo)"/>
+  <g fill="#fffbe9">
+    <path d="M200,330 L120,152 L158,148 Z" opacity=".1"/>
+    <path d="M200,330 L186,128 L216,128 Z" opacity=".13"/>
+    <path d="M200,330 L250,150 L284,162 Z" opacity=".1"/>
+    <path d="M200,330 L60,212 L84,192 Z" opacity=".08"/>
+    <path d="M200,330 L318,192 L342,214 Z" opacity=".08"/>
+  </g>
+
+  <!-- layer 3: distant landforms, tops lit by the dawn -->
+  <path d="M0,346 L0,338 C55,323 118,320 172,337 L172,346 Z" fill="#f0d493"/>
+  <path d="M228,337 C288,319 350,324 400,340 L400,346 L228,346 Z" fill="#f0d493"/>
+  <path d="M0,338 C55,323 118,320 172,337" fill="none" stroke="#fff6da" stroke-width="2.5" opacity=".85"/>
+  <path d="M228,337 C288,319 350,324 400,340" fill="none" stroke="#fff6da" stroke-width="2.5" opacity=".85"/>
+
+  <!-- layer 4: low dawn sun with soft glow -->
+  <circle cx="200" cy="322" r="52" fill="#ffe6a0" opacity=".8" filter="url(#glow)"/>
+  <circle cx="200" cy="322" r="38" fill="#fff3c8" opacity=".9" filter="url(#glow)"/>
+  <circle cx="200" cy="322" r="34" fill="url(#sun)"/>
+
+  <!-- layer 5: open gold fields -->
+  <path d="M0,341 C60,335 130,339 200,337 C270,339 340,334 400,340 L400,600 L0,600 Z" fill="url(#field)"/>
+  <g fill="none" stroke="#f8e6b6" stroke-width="2.5" opacity=".45">
+    <path d="M0,404 C55,388 115,372 178,360"/>
+    <path d="M0,452 C60,430 118,404 172,382"/>
+    <path d="M400,398 C348,384 292,370 226,358"/>
+    <path d="M400,448 C345,426 290,402 230,380"/>
+  </g>
+  <path d="M200,336 L46,600 L128,600 Z" fill="#fff6d9" opacity=".09"/>
+  <path d="M200,336 L272,600 L356,600 Z" fill="#fff6d9" opacity=".09"/>
+
+  <!-- olive-grove rows along both sides -->
+  <path d="M0,352 C50,346 100,350 150,356 L150,368 L0,370 Z" fill="#c3cc90" opacity=".5"/>
+  <path d="M250,356 C300,350 355,346 400,352 L400,370 L250,368 Z" fill="#c3cc90" opacity=".5"/>
+  <use href="#mt" transform="translate(155 344) scale(.55)"/>
+  <use href="#mt" transform="translate(135 350) scale(.75)" opacity=".95"/>
+  <use href="#mt" transform="translate(108 357)"/>
+  <use href="#mt" transform="translate(262 346) scale(.6)"/>
+  <use href="#mt" transform="translate(283 351) scale(.8)" opacity=".95"/>
+  <use href="#mt" transform="translate(306 357) scale(1.05)"/>
+
+  <!-- layer 6: the footstep road -->
+  <path d="M196,333 C185,380 150,440 118,510 C100,548 88,575 78,600 L330,600 C312,560 290,505 260,440 C240,390 214,360 204,333 Z" fill="url(#road)"/>
+  <path d="M200,336 C190,420 176,500 162,600 L258,600 C240,500 216,420 204,336 Z" fill="#f7e0ab" opacity=".5"/>
+  <path d="M196,333 C185,380 150,440 118,510 C100,548 88,575 78,600" fill="none" stroke="#f2d9a4" stroke-width="3" opacity=".7"/>
+  <path d="M204,333 C214,360 240,390 260,440 C290,505 312,560 330,600" fill="none" stroke="#f2d9a4" stroke-width="3" opacity=".7"/>
+  <path d="M190,352 C176,398 152,452 130,516" fill="none" stroke="#c79a63" stroke-width="2" opacity=".22"/>
+  <path d="M212,354 C228,400 252,458 276,524" fill="none" stroke="#c79a63" stroke-width="2" opacity=".22"/>
+  <g fill="#c89e69">
+    <ellipse cx="122" cy="584" rx="6" ry="3.6"/>
+    <ellipse cx="284" cy="568" rx="5" ry="3"/>
+    <ellipse cx="212" cy="594" rx="4.4" ry="2.6"/>
+  </g>
+  <g fill="#ecd3a2">
+    <ellipse cx="121" cy="582.6" rx="4" ry="1.7"/>
+    <ellipse cx="283" cy="566.8" rx="3.2" ry="1.4"/>
+    <ellipse cx="211" cy="593" rx="2.8" ry="1.2"/>
+  </g>
+
+  <!-- the trail of sandal footprints, walking toward the sunrise -->
+  <use href="#fp" transform="translate(233 552) rotate(-8) scale(1.15)"/>
+  <use href="#fp" transform="translate(171 508) rotate(7) scale(1.02)"/>
+  <use href="#fp" transform="translate(221 468) rotate(-6) scale(.9)"/>
+  <use href="#fp" transform="translate(178 432) rotate(5) scale(.78)"/>
+  <use href="#fp" transform="translate(214 402) rotate(-5) scale(.66)"/>
+  <use href="#fp" transform="translate(185 378) rotate(4) scale(.55)" opacity=".95"/>
+  <use href="#fp" transform="translate(208 360) rotate(-3) scale(.44)" opacity=".9"/>
+  <use href="#fp" transform="translate(194 348) rotate(3) scale(.34)" opacity=".85"/>
+  <use href="#fp" transform="translate(202 340) rotate(-2) scale(.25)" opacity=".8"/>
+
+  <!-- layer 7: sunlit olive trees flanking the road -->
+  <g>
+    <path d="M44,452 C40,420 38,392 46,368 C50,380 54,410 58,452 Z" fill="#b98d5c"/>
+    <path d="M47,446 C45,418 44,396 48,376" fill="none" stroke="#e3c693" stroke-width="1.6" opacity=".8"/>
+    <ellipse cx="52" cy="340" rx="34" ry="26" fill="#9fae6e"/>
+    <ellipse cx="30" cy="352" rx="26" ry="20" fill="#a9b877"/>
+    <ellipse cx="78" cy="352" rx="28" ry="21" fill="#a9b877"/>
+    <ellipse cx="56" cy="322" rx="26" ry="19" fill="#b8c284"/>
+    <ellipse cx="62" cy="332" rx="18" ry="12" fill="#ccd5a2"/>
+    <use href="#lc" transform="translate(40 326) rotate(-10)"/>
+    <use href="#lc" transform="translate(70 336) scale(1.2)"/>
+    <use href="#lc" transform="translate(52 352) rotate(15)" opacity=".9"/>
+    <use href="#lc" transform="translate(84 344) scale(.9)"/>
+    <use href="#lc" transform="translate(26 344) scale(.8) rotate(24)" opacity=".85"/>
+  </g>
+  <g>
+    <path d="M352,470 C356,436 358,405 350,382 C346,398 342,430 338,470 Z" fill="#b98d5c"/>
+    <path d="M349,464 C351,434 351,410 348,390" fill="none" stroke="#e3c693" stroke-width="1.6" opacity=".8"/>
+    <ellipse cx="348" cy="352" rx="32" ry="24" fill="#9fae6e"/>
+    <ellipse cx="322" cy="362" rx="24" ry="18" fill="#a9b877"/>
+    <ellipse cx="372" cy="360" rx="26" ry="19" fill="#a9b877"/>
+    <ellipse cx="344" cy="336" rx="24" ry="17" fill="#b8c284"/>
+    <ellipse cx="338" cy="346" rx="16" ry="11" fill="#ccd5a2"/>
+    <use href="#lc" transform="translate(334 340)"/>
+    <use href="#lc" transform="translate(362 348) scale(1.1) rotate(-12)"/>
+    <use href="#lc" transform="translate(346 364) scale(.85)" opacity=".9"/>
+    <use href="#lc" transform="translate(324 352) rotate(20)" opacity=".9"/>
+  </g>
+
+  <!-- layer 8: sunlit foreground banks with grasses and blossoms -->
+  <path d="M0,600 L0,505 C30,515 62,545 98,600 Z" fill="url(#bank)"/>
+  <path d="M0,505 C30,515 62,545 98,600" fill="none" stroke="#d8dda6" stroke-width="3" opacity=".8"/>
+  <path d="M400,600 L400,495 C365,508 335,542 300,600 Z" fill="url(#bank)"/>
+  <path d="M400,495 C365,508 335,542 300,600" fill="none" stroke="#d8dda6" stroke-width="3" opacity=".8"/>
+  <use href="#gr" transform="translate(22 560)"/>
+  <use href="#gr" transform="translate(50 586) scale(1.2)"/>
+  <use href="#gr" transform="translate(76 598) scale(.9) rotate(-6)"/>
+  <use href="#gr" transform="translate(8 530) scale(.8) rotate(8)" opacity=".9"/>
+  <use href="#gr" transform="translate(378 552) scale(1.1) rotate(4)"/>
+  <use href="#gr" transform="translate(350 580) scale(.95) rotate(-8)"/>
+  <use href="#gr" transform="translate(322 598) scale(1.25)"/>
+  <use href="#gr" transform="translate(394 522) scale(.75)" opacity=".9"/>
+  <use href="#gr" transform="translate(104 596) scale(.7) rotate(10)" opacity=".85"/>
+  <use href="#gr" transform="translate(298 594) scale(.7) rotate(-10)" opacity=".85"/>
+  <use href="#fl" transform="translate(32 546)"/>
+  <use href="#fl" transform="translate(58 574) scale(.8) rotate(20)" opacity=".95"/>
+  <use href="#fl" transform="translate(14 588) scale(1.15) rotate(-15)"/>
+  <use href="#fl" transform="translate(368 540) scale(.9) rotate(30)" opacity=".95"/>
+  <use href="#fl" transform="translate(344 572) scale(1.1) rotate(-24)"/>
+  <use href="#fl" transform="translate(386 588) scale(.8) rotate(12)" opacity=".9"/>
+
+  <!-- layer 9: warm unifying dawn light -->
+  <circle cx="200" cy="330" r="320" fill="url(#warm)"/>
+</svg>
+          <div class="scrim"></div>
+          <div class="plate top"><div class="ct">Walking with<span class="em">Jesus</span><span class="ch"></span></div></div>
+          <div class="plate bottom"><div class="csub">A 365-Day Devotional Journey with the Son</div><div class="cauth">by Susan Damon</div></div>
+        </div>
+        <div class="gate pass"><b>PASSES the gate</b><span>luminance 224/255 · floor 160</span><span>shadow mass 0% · cap 25%</span></div>
+      </div>
+      <div class="bnotes">
+        <div class="ncard"><h4>From the real pack</h4>
+          <p class="mono">Walking-with-Jesus-10-Cover-Prompts.md</p>
+          <p><b>Symbol bank:</b> road toward sunrise · sandaled path · open Bible · shepherd imagery · table fellowship</p>
+          <div class="chips"><span class="chip"><i style="background:#f4c85f"></i>dawn gold</span><span class="chip"><i style="background:#f7ecd6"></i>warm parchment</span><span class="chip"><i style="background:#9fae6e"></i>sunlit olive</span><span class="chip"><i style="background:#ffffff"></i>clean white</span></div>
+        </div>
+        <div class="ncard note"><p>&ldquo;I like the Jesus one. You can see the footsteps&hellip; it is nice.&rdquo; — Lady D, Jul 6</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="book">
+  <div class="wrap">
+    <div class="bhead">
+      <div>
+        <span class="eyebrow">Volume III · The Holy Spirit</span>
+        <h2>Filled with the Holy Spirit </h2>
+        <p class="concept">Fable demo render · Breaking Light · corrected-bright</p>
+      </div>
+    </div>
+    <div class="bgrid">
+      <div class="cover-cq">
+        <div class="cover">
+          <svg preserveAspectRatio="xMidYMid slice" style="position:absolute;inset:0;width:100%;height:100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="skyG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fb4d2"/>
+      <stop offset="0.25" stop-color="#a9cbe8"/>
+      <stop offset="0.55" stop-color="#cfe3f2"/>
+      <stop offset="0.8" stop-color="#f2f2e2"/>
+      <stop offset="1" stop-color="#fdf1d6"/>
+    </linearGradient>
+    <linearGradient id="tealG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5d8a8a" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#5d8a8a" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="haloG" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fffef7" stop-opacity="0.95"/>
+      <stop offset="0.45" stop-color="#fdf0c8" stop-opacity="0.8"/>
+      <stop offset="0.75" stop-color="#f8e3a6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#f8e3a6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rayG" x1="0" y1="230" x2="0" y2="590" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6d88a" stop-opacity="0.55"/>
+      <stop offset="0.55" stop-color="#f3c452" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#f3c452" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="cloudG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e8e3d8"/>
+    </linearGradient>
+    <linearGradient id="hillG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e9f2cf"/>
+      <stop offset="1" stop-color="#bdd697"/>
+    </linearGradient>
+    <linearGradient id="midG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b4d492"/>
+      <stop offset="1" stop-color="#9cc27e"/>
+    </linearGradient>
+    <linearGradient id="foreG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c2dc9b"/>
+      <stop offset="1" stop-color="#a6c981"/>
+    </linearGradient>
+    <linearGradient id="doveG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f4ead2"/>
+    </linearGradient>
+    <linearGradient id="flameG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fbe49a"/>
+      <stop offset="0.5" stop-color="#f3c452"/>
+      <stop offset="1" stop-color="#e8a93e"/>
+    </linearGradient>
+    <radialGradient id="flhaloG" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fbe9ad" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#fbe9ad" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+    <g id="fl">
+      <path d="M0 3 C2 10 -2 16 0 24" stroke="#a4c47c" stroke-width="1.7" fill="none"/>
+      <g fill="#fffdf6">
+        <circle cx="0" cy="-4.2" r="3.1"/>
+        <circle cx="4" cy="-1.3" r="3.1"/>
+        <circle cx="2.5" cy="3.4" r="3.1"/>
+        <circle cx="-2.5" cy="3.4" r="3.1"/>
+        <circle cx="-4" cy="-1.3" r="3.1"/>
+      </g>
+      <circle r="1.9" fill="#f3c452"/>
+    </g>
+    <path id="dr" d="M0 -5 C2.4 -1.6 4 1 4 3.2 A4 4 0 1 1 -4 3.2 C-4 1 -2.4 -1.6 0 -5 Z"/>
+    <path id="sp" d="M0 -7 L1.6 -1.6 L7 0 L1.6 1.6 L0 7 L-1.6 1.6 L-7 0 L-1.6 -1.6 Z"/>
+  </defs>
+
+  <!-- L1: luminous sky -->
+  <rect width="400" height="440" fill="url(#skyG)"/>
+  <rect width="400" height="64" fill="url(#tealG)"/>
+
+  <!-- L2: radiant cloud-opening halo -->
+  <ellipse cx="200" cy="240" rx="195" ry="135" fill="url(#haloG)"/>
+
+  <!-- L3: distant landforms, lit tops -->
+  <path d="M0 412 C60 398 120 396 180 406 C240 414 300 400 400 408 L400 448 L0 448 Z" fill="url(#hillG)"/>
+  <path d="M0 424 C80 414 150 420 220 426 C290 432 340 424 400 420 L400 456 L0 456 Z" fill="#c2da9e"/>
+  <ellipse cx="200" cy="416" rx="240" ry="26" fill="#fdf5df" opacity="0.6" filter="url(#glow)"/>
+
+  <!-- L4: rain-freshed meadow -->
+  <path d="M0 430 C70 420 150 426 230 434 C310 442 360 434 400 428 L400 600 L0 600 Z" fill="url(#midG)"/>
+  <path d="M0 512 C60 496 140 492 210 502 C290 514 340 508 400 496 L400 600 L0 600 Z" fill="url(#foreG)"/>
+  <ellipse cx="200" cy="472" rx="150" ry="40" fill="#ffe9a8" opacity="0.35"/>
+  <ellipse cx="200" cy="545" rx="195" ry="52" fill="#ffe9a8" opacity="0.28"/>
+
+  <!-- L5: god-rays from the opening -->
+  <path d="M200 240 L-40 600 L440 600 Z" fill="url(#rayG)" opacity="0.5"/>
+  <g opacity="0.55">
+    <path d="M192 238 L10 600 L-60 600 Z" fill="url(#rayG)"/>
+    <path d="M196 240 L120 600 L52 600 Z" fill="url(#rayG)"/>
+    <path d="M200 242 L212 600 L156 600 Z" fill="url(#rayG)"/>
+    <path d="M204 240 L300 600 L244 600 Z" fill="url(#rayG)"/>
+    <path d="M208 238 L392 600 L330 600 Z" fill="url(#rayG)"/>
+  </g>
+
+  <!-- L6: sun core -->
+  <ellipse cx="200" cy="238" rx="62" ry="34" fill="#fffdf0" opacity="0.9" filter="url(#glow)"/>
+  <ellipse cx="200" cy="238" rx="27" ry="16" fill="#ffffff" filter="url(#glow)"/>
+
+  <!-- L7: receding pearl wisps, edges only -->
+  <g>
+    <path d="M-30 210 C10 196 48 200 74 216 C96 212 116 222 118 238 C104 254 70 260 42 254 C14 262 -14 256 -30 244 Z" fill="url(#cloudG)" opacity="0.95"/>
+    <path d="M-20 206 C12 196 46 200 68 213 C46 209 12 209 -20 219 Z" fill="#ffffff" opacity="0.85"/>
+    <path d="M-30 288 C-4 278 26 282 42 292 C26 301 -6 303 -30 297 Z" fill="url(#cloudG)" opacity="0.7"/>
+    <path d="M430 200 C392 190 356 196 332 212 C310 208 292 218 292 234 C306 250 340 256 366 250 C394 258 420 252 430 240 Z" fill="url(#cloudG)" opacity="0.95"/>
+    <path d="M424 196 C392 188 358 192 336 205 C360 201 394 201 424 210 Z" fill="#ffffff" opacity="0.85"/>
+    <path d="M430 300 C404 291 374 294 358 304 C374 313 406 315 430 309 Z" fill="url(#cloudG)" opacity="0.7"/>
+  </g>
+
+  <!-- L8: foreground grasses, sunlit -->
+  <g>
+    <path d="M8 600 C12 566 6 544 14 522 C22 548 18 576 16 600 Z" fill="#b5d489"/>
+    <path d="M30 600 C36 570 30 546 40 528 C46 552 40 578 38 600 Z" fill="#c6de9b"/>
+    <path d="M52 600 C56 574 50 556 60 538 C66 560 60 582 58 600 Z" fill="#98c076" opacity="0.9"/>
+    <path d="M74 600 C76 570 72 552 78 534" stroke="#c9d896" stroke-width="2" fill="none"/>
+    <ellipse cx="78" cy="530" rx="3.4" ry="6" fill="#ecdfa0" transform="rotate(8 78 530)"/>
+    <path d="M392 600 C388 566 394 544 386 524 C378 550 382 576 384 600 Z" fill="#b5d489"/>
+    <path d="M368 600 C362 572 368 548 358 530 C352 554 358 578 360 600 Z" fill="#c6de9b"/>
+    <path d="M344 600 C340 576 346 558 336 540 C330 562 336 582 338 600 Z" fill="#98c076" opacity="0.9"/>
+    <path d="M322 600 C320 572 324 554 318 536" stroke="#c9d896" stroke-width="2" fill="none"/>
+    <ellipse cx="318" cy="532" rx="3.4" ry="6" fill="#ecdfa0" transform="rotate(-9 318 532)"/>
+    <path d="M182 600 C186 580 180 566 188 552 C194 568 190 584 188 600 Z" fill="#c6de9b" opacity="0.95"/>
+    <path d="M208 600 C212 582 206 570 214 558 C220 572 216 586 214 600 Z" fill="#aecd85"/>
+    <path d="M132 600 C136 584 130 572 138 560 C144 574 140 588 138 600 Z" fill="#b5d489" opacity="0.9"/>
+    <path d="M262 600 C266 584 260 572 268 560 C274 574 270 588 268 600 Z" fill="#c0da96" opacity="0.9"/>
+  </g>
+
+  <!-- L9: wildflowers with slight variation -->
+  <use href="#fl" transform="translate(58 540) scale(1.15)"/>
+  <use href="#fl" transform="translate(96 566) scale(0.9) rotate(-14)"/>
+  <use href="#fl" transform="translate(150 552) scale(0.75) rotate(9)" opacity="0.9"/>
+  <use href="#fl" transform="translate(250 548) scale(1.05) rotate(-8)"/>
+  <use href="#fl" transform="translate(300 566) scale(0.85) rotate(15)"/>
+  <use href="#fl" transform="translate(348 542) scale(1.2) rotate(-5)"/>
+  <use href="#fl" transform="translate(200 576) scale(0.7) rotate(20)" opacity="0.85"/>
+  <use href="#fl" transform="translate(28 576) scale(0.95) rotate(-18)"/>
+  <g fill="#f3c452" opacity="0.9">
+    <circle cx="120" cy="520" r="2.3"/>
+    <circle cx="228" cy="512" r="2"/>
+    <circle cx="322" cy="522" r="2.3"/>
+    <circle cx="178" cy="500" r="1.8"/>
+  </g>
+
+  <!-- L10: sparkling rain droplets over the meadow -->
+  <g fill="#eaf4fd">
+    <use href="#dr" transform="translate(95 432) scale(0.9)" opacity="0.8"/>
+    <use href="#dr" transform="translate(140 398) scale(0.7)" opacity="0.65"/>
+    <use href="#dr" transform="translate(262 420) scale(0.8)" opacity="0.75"/>
+    <use href="#dr" transform="translate(312 452)" opacity="0.85"/>
+    <use href="#dr" transform="translate(70 470) scale(0.75)" opacity="0.7"/>
+    <use href="#dr" transform="translate(330 392) scale(0.65)" opacity="0.6"/>
+  </g>
+  <g fill="#ffffff">
+    <circle cx="96.5" cy="430" r="1.1"/>
+    <circle cx="313.5" cy="450" r="1.2"/>
+    <circle cx="263.2" cy="418.4" r="1"/>
+  </g>
+  <g fill="#fffdf0">
+    <use href="#sp" transform="translate(150 368) scale(0.8)" opacity="0.9"/>
+    <use href="#sp" transform="translate(255 350) scale(0.6)" opacity="0.8"/>
+    <use href="#sp" transform="translate(108 302) scale(0.5)" opacity="0.7"/>
+    <use href="#sp" transform="translate(295 395) scale(0.7)" opacity="0.8"/>
+    <use href="#sp" transform="translate(186 406) scale(0.5)" opacity="0.75"/>
+  </g>
+
+  <!-- L11: gentle flame motif -->
+  <circle cx="200" cy="452" r="32" fill="url(#flhaloG)"/>
+  <path d="M200 430 C206 441 212 450 212 458 C212 466 207 471 200 471 C193 471 188 466 188 458 C188 450 194 441 200 430 Z" fill="url(#flameG)"/>
+  <path d="M200 444 C203 450 206 455 206 459 C206 464 203 466 200 466 C197 466 194 464 194 459 C194 455 197 450 200 444 Z" fill="#fdf0c4"/>
+
+  <!-- L12: the dove, brightest object -->
+  <ellipse cx="200" cy="320" rx="58" ry="42" fill="#ffffff" opacity="0.85" filter="url(#glow)"/>
+  <path d="M198 326 C188 302 170 284 140 274 C164 272 190 282 204 302 C206 310 204 320 198 326 Z" fill="#f7eed9"/>
+  <path d="M206 330 C204 302 214 280 244 266 C238 284 234 300 236 316 C230 326 220 332 206 330 Z" fill="#ffffff"/>
+  <path d="M160 340 C146 336 132 338 122 346 C132 348 136 354 132 362 C144 360 154 352 162 346 Z" fill="url(#doveG)"/>
+  <path d="M158 344 C170 330 186 322 204 322 C220 322 232 328 238 336 C242 342 240 348 232 350 C214 356 188 356 172 352 C164 350 158 348 158 344 Z" fill="url(#doveG)"/>
+  <path d="M240 337 L251 341 L239 345 Z" fill="#f0b24c"/>
+  <circle cx="232" cy="335" r="1.4" fill="#c9a86a"/>
+  <path d="M214 320 C220 302 230 288 242 272" stroke="#f1e6cc" stroke-width="1.6" fill="none" opacity="0.8"/>
+  <path d="M196 322 C190 306 178 292 158 280" stroke="#efe4ca" stroke-width="1.4" fill="none" opacity="0.7"/>
+</svg>
+          <div class="scrim"></div>
+          <div class="plate top"><div class="ct">Filled with the<span class="em">Holy Spirit</span><span class="ch"></span></div></div>
+          <div class="plate bottom"><div class="csub">A 365-Day Devotional Journey of Power, Comfort, and Fire</div><div class="cauth">by Susan Damon</div></div>
+        </div>
+        <div class="gate pass"><b>PASSES the gate</b><span>luminance 220/255 · floor 160</span><span>shadow mass 0% · cap 25%</span></div>
+      </div>
+      <div class="bnotes">
+        <div class="ncard"><h4>From the real pack</h4>
+          <p class="mono">Filled-with-the-Holy-Spirit-10-Cover-Prompts.md</p>
+          <p><b>Symbol bank:</b> dove · gentle flame · rain on water · oil lamp · wind over field</p>
+          <div class="chips"><span class="chip"><i style="background:#f3c452"></i>flame gold</span><span class="chip"><i style="background:#fdf8ec"></i>dove white</span><span class="chip"><i style="background:#a9cbe8"></i>sunlit sky blue</span><span class="chip"><i style="background:#9cc27e"></i>fresh green</span></div>
+        </div>
+        <div class="ncard note"><p>Path route scored 9.3/10 for Vol III — strongest retail drama; this render keeps the drama, drops the dark</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="book">
+  <div class="wrap">
+    <div class="bhead">
+      <div>
+        <span class="eyebrow">Testimony Lane · Future release</span>
+        <h2>Being Covered Through the Storm </h2>
+        <p class="concept">Fable demo render · Red Umbrella · storm parting, bright hope</p>
+      </div>
+    </div>
+    <div class="bgrid">
+      <div class="cover-cq">
+        <div class="cover">
+          <svg preserveAspectRatio="xMidYMid slice" style="position:absolute;inset:0;width:100%;height:100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e9e3d4"/>
+      <stop offset="0.45" stop-color="#f4ead2"/>
+      <stop offset="0.75" stop-color="#f9efd6"/>
+      <stop offset="1" stop-color="#f7e6be"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fffdf0" stop-opacity="0.95"/>
+      <stop offset="0.45" stop-color="#fbeec6" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#fbeec6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cloudg" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#d8d2c6" stop-opacity="0.85"/>
+      <stop offset="0.7" stop-color="#cfc9bd" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#cfc9bd" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hill1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f8e7ba"/>
+      <stop offset="1" stop-color="#e9d09e"/>
+    </linearGradient>
+    <linearGradient id="hill2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2dca8"/>
+      <stop offset="1" stop-color="#dfc191"/>
+    </linearGradient>
+    <linearGradient id="groundg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ecd5a9"/>
+      <stop offset="0.5" stop-color="#ddc094"/>
+      <stop offset="1" stop-color="#cfae7e"/>
+    </linearGradient>
+    <linearGradient id="pathg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdf3d2"/>
+      <stop offset="0.4" stop-color="#f0d8a8"/>
+      <stop offset="1" stop-color="#ddbd8c"/>
+    </linearGradient>
+    <linearGradient id="canopy" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#ef7657"/>
+      <stop offset="0.45" stop-color="#d24a37"/>
+      <stop offset="1" stop-color="#b23026"/>
+    </linearGradient>
+    <linearGradient id="coat" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0b87e"/>
+      <stop offset="1" stop-color="#c9834f"/>
+    </linearGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <filter id="soft2" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <!-- LAYER 1: luminous sky -->
+  <rect x="0" y="0" width="400" height="360" fill="url(#sky)"/>
+
+  <!-- pearl cloud wisps, upper corners only -->
+  <g>
+    <ellipse cx="8" cy="32" rx="72" ry="34" fill="url(#cloudg)"/>
+    <ellipse cx="58" cy="16" rx="60" ry="26" fill="url(#cloudg)"/>
+    <ellipse cx="28" cy="74" rx="55" ry="21" fill="url(#cloudg)" opacity="0.8"/>
+    <ellipse cx="392" cy="40" rx="74" ry="34" fill="url(#cloudg)"/>
+    <ellipse cx="344" cy="18" rx="58" ry="24" fill="url(#cloudg)"/>
+    <ellipse cx="374" cy="84" rx="52" ry="20" fill="url(#cloudg)" opacity="0.75"/>
+    <ellipse cx="200" cy="10" rx="120" ry="16" fill="#d9d3c7" opacity="0.3"/>
+    <ellipse cx="56" cy="148" rx="42" ry="10" fill="#d5cfc2" opacity="0.4"/>
+    <ellipse cx="348" cy="162" rx="40" ry="9" fill="#d5cfc2" opacity="0.38"/>
+  </g>
+
+  <!-- LAYER 2: distant landforms with LIT tops -->
+  <path d="M0 340 C60 326 120 332 200 336 C280 332 340 324 400 338 L400 360 L0 360 Z" fill="url(#hill1)"/>
+  <path d="M0 350 C70 340 150 346 230 348 C310 346 362 342 400 348 L400 366 L0 366 Z" fill="url(#hill2)"/>
+  <circle cx="52" cy="342" r="9" fill="#ecd3a0"/>
+  <circle cx="66" cy="345" r="6.5" fill="#e6c992"/>
+  <circle cx="342" cy="340" r="8" fill="#ecd3a0"/>
+  <circle cx="356" cy="344" r="6" fill="#e6c992"/>
+
+  <!-- LAYER 3: warm ground and light-flooded path -->
+  <rect x="0" y="356" width="400" height="244" fill="url(#groundg)"/>
+  <ellipse cx="80" cy="450" rx="92" ry="26" fill="#f2ddad" opacity="0.35" filter="url(#soft2)"/>
+  <ellipse cx="330" cy="482" rx="88" ry="28" fill="#f2ddad" opacity="0.32" filter="url(#soft2)"/>
+  <path d="M186 348 L222 348 C258 430 306 520 356 600 L52 600 C96 516 152 434 186 348 Z" fill="url(#pathg)"/>
+
+  <!-- LAYER 4: golden opening, halo glow, god-rays -->
+  <ellipse cx="203" cy="292" rx="150" ry="112" fill="url(#halo)" filter="url(#soft)"/>
+  <ellipse cx="203" cy="296" rx="72" ry="54" fill="#fffaea" opacity="0.85" filter="url(#soft)"/>
+  <ellipse cx="202" cy="352" rx="132" ry="26" fill="#fbe9bb" opacity="0.8" filter="url(#soft2)"/>
+  <polygon points="196,236 214,236 300,600 250,600" fill="#fdf2d3" opacity="0.16"/>
+  <polygon points="190,238 202,238 132,600 88,600" fill="#fdf2d3" opacity="0.18"/>
+  <polygon points="199,236 209,236 192,600 158,600" fill="#fdf2d3" opacity="0.12"/>
+  <polygon points="193,240 200,240 60,560 36,540" fill="#fbeec6" opacity="0.12"/>
+  <polygon points="208,240 215,240 372,548 350,566" fill="#fbeec6" opacity="0.12"/>
+
+  <!-- wet-shine streaks on the path -->
+  <polygon points="195,352 203,352 214,600 186,600" fill="#fdf1cf" opacity="0.55"/>
+  <polygon points="170,356 175,356 152,600 138,600" fill="#f9e7bb" opacity="0.4"/>
+  <polygon points="231,356 236,356 262,600 276,600" fill="#f9e7bb" opacity="0.38"/>
+  <ellipse cx="200" cy="368" rx="36" ry="2" fill="#fff3d2" opacity="0.6"/>
+  <ellipse cx="200" cy="430" rx="58" ry="2.5" fill="#fff3d2" opacity="0.45"/>
+  <ellipse cx="198" cy="470" rx="70" ry="3" fill="#fff3d2" opacity="0.4"/>
+  <ellipse cx="202" cy="515" rx="86" ry="3.5" fill="#fff3d2" opacity="0.35"/>
+  <ellipse cx="198" cy="560" rx="100" ry="4" fill="#fff3d2" opacity="0.3"/>
+
+  <!-- light motes drifting in the opening -->
+  <g fill="#fff6dd">
+    <circle cx="150" cy="330" r="2.6" opacity="0.55"/>
+    <circle cx="262" cy="312" r="3.2" opacity="0.5"/>
+    <circle cx="228" cy="282" r="2" opacity="0.45"/>
+    <circle cx="174" cy="296" r="2.4" opacity="0.5"/>
+    <circle cx="248" cy="352" r="2" opacity="0.4"/>
+  </g>
+
+  <!-- mid-distance sunlit verge grasses -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M142 502 C141 492 144 486 148 481" stroke="#d2ab6a" stroke-width="1.6" opacity="0.8"/>
+    <path d="M148 503 C149 494 147 488 143 483" stroke="#c69d5c" stroke-width="1.4" opacity="0.7"/>
+    <path d="M266 490 C266 481 269 475 273 471" stroke="#d2ab6a" stroke-width="1.5" opacity="0.8"/>
+    <path d="M272 491 C273 483 271 477 267 473" stroke="#dcb877" stroke-width="1.3" opacity="0.7"/>
+  </g>
+
+  <!-- reflections beneath the walker -->
+  <ellipse cx="199" cy="492" rx="34" ry="7" fill="#b28756" opacity="0.4" filter="url(#soft2)"/>
+  <ellipse cx="199" cy="514" rx="12" ry="26" fill="#a97a4b" opacity="0.18" filter="url(#soft2)"/>
+  <path d="M186 498 C184 520 188 546 192 560 L204 558 C206 540 204 516 208 498 Z" fill="#c0392b" opacity="0.13" filter="url(#soft2)"/>
+
+  <!-- LAYER 5: the woman, seen from behind, with the red umbrella -->
+  <g>
+    <!-- shaft and ferrule -->
+    <line x1="206" y1="252" x2="206" y2="262" stroke="#6f4630" stroke-width="2.2"/>
+    <circle cx="206" cy="250" r="2.4" fill="#e8b25c"/>
+    <line x1="207" y1="320" x2="215" y2="384" stroke="#6f4630" stroke-width="2.4"/>
+    <!-- canopy -->
+    <path d="M138 328 Q156 312 174 322 Q190 310 207 320 Q223 310 240 321 Q257 311 274 326 C268 284 242 262 206 262 C170 262 144 286 138 328 Z" fill="url(#canopy)"/>
+    <ellipse cx="176" cy="290" rx="20" ry="11" fill="#f08a68" opacity="0.5" transform="rotate(-32 176 290)"/>
+    <g fill="none" stroke="#8e2a1f" stroke-width="1" opacity="0.45">
+      <path d="M206 264 C186 282 158 302 141 325"/>
+      <path d="M206 264 C198 286 182 304 175 320"/>
+      <path d="M206 264 L207 318"/>
+      <path d="M206 264 C214 286 232 304 239 319"/>
+      <path d="M206 264 C226 282 254 302 271 323"/>
+    </g>
+    <path d="M144 310 C158 276 180 263 206 262" fill="none" stroke="#ffdf9e" stroke-width="2.4" opacity="0.8"/>
+    <path d="M268 310 C258 280 236 264 210 262" fill="none" stroke="#f6c675" stroke-width="1.8" opacity="0.4"/>
+    <!-- head, hair, neck -->
+    <circle cx="198" cy="369" r="10.5" fill="#543a29"/>
+    <ellipse cx="198" cy="380" rx="6.5" ry="5.5" fill="#4a3123"/>
+    <path d="M190 364 C193 360 202 359 206 363" fill="none" stroke="#7a5136" stroke-width="1.8" opacity="0.8"/>
+    <rect x="194" y="382" width="8" height="8" rx="3" fill="#9c6644"/>
+    <!-- flowing coat -->
+    <path d="M182 397 C182 391 189 387 198 387 C208 387 215 391 214 397 C224 420 230 446 225 464 C212 473 184 473 171 462 C173 442 177 417 182 397 Z" fill="url(#coat)"/>
+    <path d="M182 397 C182 391 189 387 198 387" fill="none" stroke="#ffd9a4" stroke-width="2" opacity="0.85"/>
+    <path d="M196 400 C194 424 196 446 198 464" fill="none" stroke="#f6cd97" stroke-width="1.6" opacity="0.6"/>
+    <path d="M209 402 C212 428 214 446 211 462" fill="none" stroke="#f6cd97" stroke-width="1.4" opacity="0.5"/>
+    <!-- raised arm and hand on the handle -->
+    <path d="M209 399 C216 396 216 391 214 387" fill="none" stroke="#cf8a52" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="215.5" cy="385" r="4.2" fill="#9c6644"/>
+    <!-- stepping legs -->
+    <line x1="187" y1="466" x2="185" y2="485" stroke="#6b452c" stroke-width="6" stroke-linecap="round"/>
+    <line x1="206" y1="466" x2="210" y2="489" stroke="#7a5138" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- LAYER 6: soft rain at the edges, easing near the light -->
+  <g stroke="#a9b4c0" stroke-width="1.4" stroke-linecap="round" fill="none">
+    <line x1="20" y1="146" x2="12" y2="180" opacity="0.4"/>
+    <line x1="48" y1="196" x2="40" y2="232" opacity="0.35"/>
+    <line x1="14" y1="256" x2="6" y2="292" opacity="0.4"/>
+    <line x1="62" y1="286" x2="54" y2="318" opacity="0.28"/>
+    <line x1="30" y1="342" x2="22" y2="376" opacity="0.34"/>
+    <line x1="70" y1="398" x2="62" y2="430" opacity="0.24"/>
+    <line x1="18" y1="440" x2="10" y2="476" opacity="0.3"/>
+    <line x1="52" y1="500" x2="44" y2="534" opacity="0.22"/>
+    <line x1="382" y1="150" x2="374" y2="184" opacity="0.4"/>
+    <line x1="352" y1="204" x2="344" y2="238" opacity="0.34"/>
+    <line x1="390" y1="266" x2="382" y2="300" opacity="0.38"/>
+    <line x1="340" y1="298" x2="332" y2="330" opacity="0.26"/>
+    <line x1="372" y1="352" x2="364" y2="386" opacity="0.32"/>
+    <line x1="336" y1="410" x2="328" y2="442" opacity="0.22"/>
+    <line x1="386" y1="452" x2="378" y2="488" opacity="0.3"/>
+    <line x1="350" y1="512" x2="342" y2="544" opacity="0.2"/>
+    <line x1="112" y1="228" x2="106" y2="256" opacity="0.12"/>
+    <line x1="292" y1="238" x2="286" y2="266" opacity="0.12"/>
+  </g>
+
+  <!-- LAYER 7: sunlit foreground flora -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M22 600 C20 572 26 552 38 538" stroke="#caa25e" stroke-width="2.4"/>
+    <path d="M34 600 C34 574 40 558 52 546" stroke="#dfbe7f" stroke-width="2"/>
+    <path d="M46 600 C48 578 44 560 34 548" stroke="#b98f4e" stroke-width="2" opacity="0.85"/>
+    <path d="M14 600 C10 578 12 566 20 552" stroke="#d4ad6a" stroke-width="1.8"/>
+    <path d="M382 600 C384 570 376 550 362 538" stroke="#caa25e" stroke-width="2.4"/>
+    <path d="M368 600 C366 572 358 556 344 546" stroke="#dfbe7f" stroke-width="2"/>
+    <path d="M356 600 C356 578 362 562 372 550" stroke="#c19553" stroke-width="2" opacity="0.85"/>
+    <path d="M390 600 C392 576 388 560 380 548" stroke="#d4ad6a" stroke-width="1.8" opacity="0.9"/>
+  </g>
+  <g>
+    <g transform="translate(44 560)">
+      <g fill="#d0604a"><circle cx="0" cy="-4" r="3"/><circle cx="4" cy="-1" r="3"/><circle cx="2.5" cy="4" r="3"/><circle cx="-2.5" cy="4" r="3"/><circle cx="-4" cy="-1" r="3"/></g>
+      <circle r="2.2" fill="#f0c46a"/>
+    </g>
+    <g transform="translate(20 578) scale(0.8) rotate(15)">
+      <g fill="#e2795f"><circle cx="0" cy="-4" r="3"/><circle cx="4" cy="-1" r="3"/><circle cx="2.5" cy="4" r="3"/><circle cx="-2.5" cy="4" r="3"/><circle cx="-4" cy="-1" r="3"/></g>
+      <circle r="2.2" fill="#f0c46a"/>
+    </g>
+    <g transform="translate(358 556)">
+      <g fill="#d0604a"><circle cx="0" cy="-4" r="3"/><circle cx="4" cy="-1" r="3"/><circle cx="2.5" cy="4" r="3"/><circle cx="-2.5" cy="4" r="3"/><circle cx="-4" cy="-1" r="3"/></g>
+      <circle r="2.2" fill="#f0c46a"/>
+    </g>
+    <g transform="translate(378 584) scale(0.9) rotate(-8)">
+      <g fill="#f4e2c2"><circle cx="0" cy="-4" r="3"/><circle cx="4" cy="-1" r="3"/><circle cx="2.5" cy="4" r="3"/><circle cx="-2.5" cy="4" r="3"/><circle cx="-4" cy="-1" r="3"/></g>
+      <circle r="2.2" fill="#e8b25c"/>
+    </g>
+    <g transform="translate(340 588) scale(0.7) rotate(-12)">
+      <g fill="#db6a50"><circle cx="0" cy="-4" r="3"/><circle cx="4" cy="-1" r="3"/><circle cx="2.5" cy="4" r="3"/><circle cx="-2.5" cy="4" r="3"/><circle cx="-4" cy="-1" r="3"/></g>
+      <circle r="2.2" fill="#f0c46a"/>
+    </g>
+  </g>
+</svg>
+          <div class="scrim"></div>
+          <div class="plate top"><div class="ct">Being Covered<span class="em">Through the Storm</span><span class="ch"></span></div></div>
+          <div class="plate bottom"><div class="csub">A testimony of protection and grace in the rain</div><div class="cauth">by Susan Damon</div></div>
+        </div>
+        <div class="gate pass"><b>PASSES the gate</b><span>luminance 219/255 · floor 160</span><span>shadow mass 0% · cap 25%</span></div>
+      </div>
+      <div class="bnotes">
+        <div class="ncard"><h4>From the real pack</h4>
+          <p class="mono">Being-Covered-Through-the-Storm-10-Cover-Prompts.md</p>
+          <p><b>Symbol bank:</b> red umbrella · woman from behind · rainfall · covered path · storm clouds parting</p>
+          <div class="chips"><span class="chip"><i style="background:#f0c46a"></i>streetlight gold</span><span class="chip"><i style="background:#faf0d8"></i>warm opening</span><span class="chip"><i style="background:#cfc9bd"></i>pearl storm grey</span><span class="chip"><i style="background:#c0392b"></i>umbrella red</span></div>
+        </div>
+        <div class="ncard note"><p>Her red-umbrella-in-rain image from the Jun 14 meeting — rendered luminous, not moody</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="plain">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="eyebrow">Why the gate exists</span>
+      <h2>Every previous round, measured</h2>
+      <p>Average luminance of all prior generated cover art (floor: 160). Only Kimi&rsquo;s linen journal treatment ever passed.</p>
+    </div>
+    <div class="lumstrip">
+      <div class="lumcell"><div class="who">Prod · V1 sanctuary</div><div class="val bad">139</div><div class="bar"><i style="width:54%"></i></div></div>
+      <div class="lumcell"><div class="who">Prod · V1 path</div><div class="val bad">117</div><div class="bar"><i style="width:46%"></i></div></div>
+      <div class="lumcell"><div class="who">Prod · V1 minimal</div><div class="val bad">70</div><div class="bar"><i style="width:27%"></i></div></div>
+      <div class="lumcell"><div class="who">Prod · V2 path</div><div class="val bad">87</div><div class="bar"><i style="width:34%"></i></div></div>
+      <div class="lumcell"><div class="who">Prod · V3 path</div><div class="val bad">88</div><div class="bar"><i style="width:35%"></i></div></div>
+      <div class="lumcell"><div class="who">Kimi · V1 cover</div><div class="val bad">139</div><div class="bar"><i style="width:54%"></i></div></div>
+      <div class="lumcell"><div class="who">Kimi · V2 cover</div><div class="val bad">58</div><div class="bar"><i style="width:23%"></i></div></div>
+      <div class="lumcell"><div class="who">Kimi · V3 cover</div><div class="val bad">98</div><div class="bar"><i style="width:38%"></i></div></div>
+      <div class="lumcell"><div class="who">Kimi · V1 journal</div><div class="val good">179</div><div class="bar"><i style="width:70%"></i></div></div>
+    </div>
+  </div>
+</section>
+
+<section class="plain">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="eyebrow">The shared framework</span>
+      <h2>The ten concepts, from the packs themselves</h2>
+      <p>All four packs share these ten concepts — each book differentiates by palette and symbol bank. Candidate-board scores shown where the July round judged them.</p>
+    </div>
+    <table class="concepts">
+      <tr><th>Concept</th><th>Pack description</th><th>Board / status</th></tr>
+      <tr><td class="cname">Sanctuary of Sunrise</td><td>quiet cinematic sunrise, open hands, linen texture</td><td class="score">8.6–8.8 · author-heart route</td></tr><tr><td class="cname">The Path of Surrender</td><td>winding road through warm hills toward light</td><td class="score">9.1–9.3 · primary retail route</td></tr><tr><td class="cname">Modern Sacred Minimal</td><td>elegant type-led cover, subtle symbol, premium spacing</td><td class="score">9.0–9.1 · premium series route</td></tr><tr><td class="cname">Painterly Worship</td><td>oil-paint devotional cover, layered brush texture, human warmth</td><td class="score"></td></tr><tr><td class="cname">Journal Luxe</td><td>clothbound journal aesthetic, embossed symbol, gold foil</td><td class="score">only art to pass the gate so far (journal, 179/255)</td></tr><tr><td class="cname">Church Table Bestseller</td><td>bold readable title, strong central image, retail contrast</td><td class="score"></td></tr><tr><td class="cname">Scripture Garden</td><td>botanical garden metaphor, light filtering through leaves</td><td class="score"></td></tr><tr><td class="cname">Night to Morning</td><td>deep night gradient opening to dawn — use with care under the brightness gate</td><td class="score"></td></tr><tr><td class="cname">Hands and Heaven</td><td>hands lifted or open, no stock-photo look</td><td class="score"></td></tr><tr><td class="cname">Abstract Sacred Motion</td><td>nonliteral layered light, water, wind, fire per book</td><td class="score"></td></tr>
+    </table>
+  </div>
+</section>
+
+<section class="plain">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="eyebrow">The paper trail</span>
+      <h2>Companion documents</h2>
+    </div>
+    <div class="linkrow">
+      <a class="linkcard" href="Lady-D-Cover-Vision-Brief.html"><b>Cover Vision Brief</b><span>Her verbatim feedback, measured darkness, corrected specs</span></a>
+      <a class="linkcard" href="Lady-D-Cover-Codex-Handoff.md"><b>Codex Generation Handoff</b><span>Generate &rarr; qualify (brightness gate) &rarr; rank &rarr; decide</span></a>
+      <a class="linkcard" href="kimi-suite/index.html"><b>Kimi Command Suite</b><span>Kimi&rsquo;s full deliverable — gateway, samples, 31-day pack, covers</span></a>
+      <a class="linkcard" href="kimi-suite/master-sample.html"><b>Kimi Master Sample</b><span>The format sample our locked page anatomy grew from</span></a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap"><p>IDC Publishing · Island Development Crew · Fable demo renders, measured against the gate — photoreal finals via the Codex handoff</p></div>
+</footer>
+</body>
+</html>

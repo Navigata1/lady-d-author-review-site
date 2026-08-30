@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "mission": {
+    "name": "Lady D Trilogy Finalization",
+    "tagline": "Let every page sound lived, every cover feel luminous, and every companion deepen the journey.",
+    "repo": "Navigata1/lady-d-author-review-site",
+    "repoPath": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site",
+    "defaultBranch": "main",
+    "planDoc": "/Users/IDC2.5/Documents/LADY D/_synthesis-2026-07-19/Lady-D-Cover-Codex-Handoff.md",
+    "northStar": "Three Scripture-faithful devotionals in Susan 'Lady D' Damon's lived preaching voice, paired with useful journals and a luminous, coherent cover family ready for author review and KDP production.",
+    "status": "review_ready",
+    "started": "2026-08-30",
+    "updated": "2026-08-30T23:05:32Z",
+    "sessionCount": 1
+  },
+  "policies": {
+    "merge": "review",
+    "branchPrefix": "codex/",
+    "maxPrLines": 400,
+    "notes": "Production artifacts remain on the dedicated finalization branch until manuscript, PDF, cover, and site gates all pass. Existing unrelated untracked July files are excluded."
+  },
+  "phases": [
+    {
+      "id": "P0",
+      "title": "Source Reconciliation",
+      "goal": "Lock the August author exemplar, transcript-derived cover brief, current 1,098-day voice corpus, protected Scripture data, and Kimi journal strengths as a reproducible baseline.",
+      "status": "done",
+      "sessionsEstimate": "1",
+      "gates": [
+        {
+          "id": "P0-G1",
+          "title": "Source inventory and hashes validate",
+          "command": "python3 scripts/lady_d_finalization/verify_sources.py",
+          "status": "passed",
+          "evidence": "ops/mission/evidence/P0-G1-2026-08-30.json",
+          "lastRun": "2026-08-30T23:05:32Z",
+          "notes": ""
+        }
+      ],
+      "tasks": [
+        {
+          "id": "P0-T1",
+          "title": "Inventory manuscripts, exemplar, cover evidence, and journal sources",
+          "status": "done",
+          "dependsOn": [],
+          "pr": null,
+          "notes": "Lady D's August 3 Exodus 15:4 email is the voice calibration target; her bright golden wraparound example is the cover calibration target."
+        },
+        {
+          "id": "P0-T2",
+          "title": "Record protected fields and baseline language metrics",
+          "status": "done",
+          "dependsOn": [
+            "P0-T1"
+          ],
+          "pr": null,
+          "notes": "Scripture, translation label, root/language lens, and correlative thread are immutable during prose polish."
+        }
+      ]
+    },
+    {
+      "id": "P1",
+      "title": "Voice Polish",
+      "goal": "Remove mechanical surrender phrasing and template residue across all 1,098 entries while preserving Lady D's warm, direct, Scripture-led preaching voice.",
+      "status": "done",
+      "sessionsEstimate": "1-2",
+      "gates": [
+        {
+          "id": "P1-G1",
+          "title": "Voice corpus invariants and repetition checks pass",
+          "command": "python3 scripts/lady_d_finalization/audit_voice.py",
+          "status": "passed",
+          "evidence": "ops/mission/evidence/P1-G1-2026-08-30.json",
+          "lastRun": "2026-08-30T23:05:32Z",
+          "notes": ""
+        },
+        {
+          "id": "P1-G2",
+          "title": "Humanizer delta report shows no corpus regression",
+          "command": "bash scripts/lady_d_finalization/run_humanizer_gate.sh",
+          "status": "passed",
+          "evidence": "ops/mission/evidence/P1-G2-2026-08-30.json",
+          "lastRun": "2026-08-30T23:05:32Z",
+          "notes": "Humanizer is advisory evidence; theological and author-voice review remain primary."
+        }
+      ],
+      "tasks": [
+        {
+          "id": "P1-T1",
+          "title": "Polish surrender language and sentence cadence across three volumes",
+          "status": "done",
+          "dependsOn": [
+            "P0-T2"
+          ],
+          "pr": null,
+          "notes": "Protect Volume I Day 2 as the gold exemplar."
+        },
+        {
+          "id": "P1-T2",
+          "title": "Run deterministic judge and targeted editorial audit",
+          "status": "done",
+          "dependsOn": [
+            "P1-T1"
+          ],
+          "pr": null,
+          "notes": "No claim of cross-family review unless a genuinely different model family performs it."
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "title": "Interior Rebuild",
+      "goal": "Rebuild three 6x9 devotionals and three paired journals from the polished voice corpus, with optional monthly deep-dive pages and clean print behavior.",
+      "status": "done",
+      "sessionsEstimate": "1-2",
+      "gates": [
+        {
+          "id": "P2-G1",
+          "title": "All six PDFs have expected page counts and dimensions",
+          "command": "python3 scripts/lady_d_finalization/audit_pdfs.py",
+          "status": "passed",
+          "evidence": "ops/mission/evidence/P2-G1-2026-08-30.json",
+          "lastRun": "2026-08-30T23:05:32Z",
+          "notes": ""
+        },
+        {
+          "id": "P2-G2",
+          "title": "Rendered PDF visual and overflow audit passes",
+          "command": "python3 scripts/lady_d_finalization/visual_audit.py",
+          "status": "passed",
+          "evidence": "ops/mission/evidence/P2-G2-2026-08-30.json",
+          "lastRun": "2026-08-30T23:05:32Z",
+          "notes": ""
+        }
+      ],
+      "tasks": [
+        {
+          "id": "P2-T1",
+          "title": "Inject polished voice into devotional and journal interiors",
+          "status": "done",
+          "dependsOn": [
+            "P1-T2"
+          ],
+          "pr": null,
+          "notes": "Preserve verified Scripture architecture and page anatomy."
+        },
+        {
+          "id": "P2-T2",
+          "title": "Add monthly Correlative Weave deep-dive review spreads",
+          "status": "done",
+          "dependsOn": [
+            "P2-T1"
+          ],
+          "pr": null,
+          "notes": "Depth lives in monthly review pages, not as daily-page clutter."
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "title": "Luminous Cover Family",
+      "goal": "Generate real bright cover art from Lady D's own descriptions, qualify it objectively, and present a ranked decision deck with matched journal directions.",
+      "status": "done",
+      "sessionsEstimate": "1-2",
+      "gates": [
+        {
+          "id": "P3-G1",
+          "title": "Cover manifest, luminance, and thumbnail gates pass",
+          "command": "python3 scripts/lady_d_finalization/audit_covers.py",
+          "status": "passed",
+          "evidence": "ops/mission/evidence/P3-G1-2026-08-30.json",
+          "lastRun": "2026-08-30T23:05:32Z",
+          "notes": "Average luminance target is at least 160/255; strategic shadows may support the light but may not dominate."
+        },
+        {
+          "id": "P3-G2",
+          "title": "Cover decision deck browser smoke test passes",
+          "command": "node scripts/lady_d_finalization/smoke_cover_deck.mjs",
+          "status": "passed",
+          "evidence": "ops/mission/evidence/P3-G2-2026-08-30.json",
+          "lastRun": "2026-08-30T23:05:32Z",
+          "notes": ""
+        }
+      ],
+      "tasks": [
+        {
+          "id": "P3-T1",
+          "title": "Generate bright no-text cover candidates for all three volumes",
+          "status": "done",
+          "dependsOn": [
+            "P0-T2"
+          ],
+          "pr": null,
+          "notes": "Prompts derive from Lady D's transcript and emailed reference, not generic SVG concepts."
+        },
+        {
+          "id": "P3-T2",
+          "title": "Rank candidates and build author selection deck",
+          "status": "done",
+          "dependsOn": [
+            "P3-T1"
+          ],
+          "pr": null,
+          "notes": "Real image renders only; typography remains an overlay after selection."
+        }
+      ]
+    },
+    {
+      "id": "P4",
+      "title": "Release Package",
+      "goal": "Publish review artifacts, provide an audiobook-ready narration blueprint, and ship a checksum-verified master ZIP.",
+      "status": "done",
+      "sessionsEstimate": "1",
+      "gates": [
+        {
+          "id": "P4-G1",
+          "title": "Static site and download links pass",
+          "command": "node scripts/lady_d_finalization/smoke_release.mjs",
+          "status": "passed",
+          "evidence": "ops/mission/evidence/P4-G1-2026-08-30.json",
+          "lastRun": "2026-08-30T23:05:32Z",
+          "notes": ""
+        },
+        {
+          "id": "P4-G2",
+          "title": "Master ZIP manifest and checksums validate",
+          "command": "python3 scripts/lady_d_finalization/verify_package.py",
+          "status": "passed",
+          "evidence": "ops/mission/evidence/P4-G2-2026-08-30.json",
+          "lastRun": "2026-08-30T23:05:32Z",
+          "notes": ""
+        }
+      ],
+      "tasks": [
+        {
+          "id": "P4-T1",
+          "title": "Build audiobook chunking and pronunciation handoff",
+          "status": "done",
+          "dependsOn": [
+            "P2-T2"
+          ],
+          "pr": null,
+          "notes": "Provider-neutral manifest supports GPT Voice, Gemini Live, Grok Voice, Hermes, or OpenClaw stitching."
+        },
+        {
+          "id": "P4-T2",
+          "title": "Update live review site and create final ZIP",
+          "status": "done",
+          "dependsOn": [
+            "P2-T2",
+            "P3-T2",
+            "P4-T1"
+          ],
+          "pr": null,
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Devotional entries polished",
+      "baseline": "0",
+      "current": "1098",
+      "target": "1098",
+      "direction": "up"
+    },
+    {
+      "label": "Exact mechanical surrender phrases",
+      "baseline": "154",
+      "current": "0",
+      "target": "0",
+      "direction": "down"
+    },
+    {
+      "label": "Print-ready paired books",
+      "baseline": "0",
+      "current": "6",
+      "target": "6",
+      "direction": "up"
+    },
+    {
+      "label": "Qualified real cover candidates",
+      "baseline": "0",
+      "current": "10",
+      "target": "10",
+      "direction": "up"
+    },
+    {
+      "label": "Audiobook chapter manifests",
+      "baseline": "0",
+      "current": "3",
+      "target": "3",
+      "direction": "up"
+    }
+  ],
+  "risks": [
+    {
+      "title": "Humanizer score can reward oversimplification",
+      "severity": "medium",
+      "note": "Mitigated: the humanizer remained advisory; the August authored exemplar, protected fields, and deterministic editorial evidence outranked the style score."
+    },
+    {
+      "title": "Longer natural prose can overflow 6x9 interiors",
+      "severity": "high",
+      "note": "Mitigated: all six PDFs passed exact 6x9 geometry, expected page counts, text-marker checks, representative renders, and automated overflow checks."
+    },
+    {
+      "title": "Generated cover imagery can drift dark or embed malformed text",
+      "severity": "high",
+      "note": "Mitigated for author selection: ten no-text raster candidates passed luminance and dark-mass gates; final typography waits for Susan's selection and locked wrap dimensions."
+    },
+    {
+      "title": "External author and KDP gates remain",
+      "severity": "high",
+      "note": "Susan's voice and theological approval, front matter, selected-cover wrap assembly, KDP Previewer, and a physical proof are required before public release."
+    }
+  ],
+  "prLog": [],
+  "resume": {
+    "activePhase": "author-review",
+    "nextActions": [
+      "Ask Susan to review representative days from every month in all three devotionals and journals.",
+      "Record Susan's ranked cover selection, then assemble exact KDP wraps after page count and paper choice are locked.",
+      "Complete theological and permissions review, KDP Previewer, and a photographed physical proof.",
+      "Use the audiobook manifests only with human narration or a provider workflow explicitly authorized for the intended distributor."
+    ],
+    "blockers": [
+      "Final author voice and theological approval has not yet been recorded.",
+      "Final cover typography, spine width, back matter, barcode, and KDP physical proof depend on author selection and production metadata."
+    ],
+    "conventions": [
+      "Lady D's August 3 Exodus 15:4 email is the gold voice exemplar and must remain unchanged.",
+      "Scripture text, translation labels, root/language lenses, and correlative threads are immutable during voice polish.",
+      "Do not claim independent or cross-family review without a genuinely separate reviewer.",
+      "Every generated cover candidate must be real raster art with no baked title text."
+    ]
+  }
+}
