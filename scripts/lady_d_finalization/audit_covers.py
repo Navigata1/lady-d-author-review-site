@@ -67,7 +67,7 @@ EDITORIAL = {
         "thumbnail_clarity": 25,
         "brief_fidelity": 25,
         "distinction": 20,
-        "rationale": "The most complete Son-lane story: two walkers' trails run side by side, one stops at mid-path, and the carried figure resolves why one full trail continues.",
+        "rationale": "The complete Son-lane story now reads naturally: two restrained parallel gaits, one trail ending without convergence, and the distant carrier resolving the surviving trail.",
     },
     "v3-a-dove-opening-sky": {
         "genre_fit": 28,

@@ -63,7 +63,7 @@ try {
       images: [...document.images].map((image) => ({ src: image.getAttribute("src"), complete: image.complete, width: image.naturalWidth })),
       overflow: document.documentElement.scrollWidth > document.documentElement.clientWidth + 1,
       links: [...document.querySelectorAll("a[href]")].map((link) => link.getAttribute("href")),
-      hasFootprintsLock: document.body.textContent.includes("two complete walkers’ trails"),
+      hasFootprintsLock: document.body.textContent.includes("two different adults leave two close"),
     }));
     if (response?.status() !== 200) errors.push(`document status ${response?.status()}`);
     if (snapshot.bookRows !== 3) errors.push(`expected 3 book rows, got ${snapshot.bookRows}`);

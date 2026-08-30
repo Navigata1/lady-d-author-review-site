@@ -79,25 +79,28 @@ of Jesus.
 3. **Beside the Open Field** - footprints along a bright field road, with a
    distant, non-identifiable companion silhouette used only if it remains
    reverent and anatomically natural.
-4. **Carried on the Way** - a Sea of Galilee-era shoreline path. The lower half
-   shows two complete walkers' trails side by side; each trail alternates left
-   and right first-century sandal impressions. At the halfway point, one whole
-   trail stops suddenly. One complete alternating trail continues toward a
-   distant man in a simple period tunic carrying another adult safely in his
-   arms. This fuses the daily-walk theme with the central revelation of the
-   familiar Footprints poem without reproducing any existing illustration.
+4. **Carried on the Way** - a Sea of Galilee-era shoreline path. From the lower
+   foreground to the midpoint, two different adults leave two narrow, natural,
+   alternating left-right sandal trails close beside one another. They do not
+   curve together, converge, cross, or form a Y. At the halfway point, one
+   person's whole trail simply stops. The other person's alternating trail
+   continues toward a distant man in a simple period tunic carrying another
+   adult safely in his arms. This fuses the daily-walk theme with the central
+   revelation of the familiar Footprints poem without reproducing an existing
+   illustration.
 
-Production language is deliberately precise: "one pair" means one walker's
-ongoing left-right trail, not two isolated sole marks. The transition happens
-at the middle of the image rather than gradually blending the two trails.
+Production language is deliberately precise: the two walkers have ordinary
+adult gaits, not one wide waddling gait. The marks are reduced to roughly 70
+percent of the earlier foreground scale and remain shallow, dusty, and quiet.
+The transition happens at the middle of the image without merging the trails.
 
 Palette: dawn gold, parchment, clean white, sunlit olive green, and a thin
 midnight-blue rim. Average luminance target: at least 160/255.
 
 Historical reference note: first-century BCE/CE sandals preserved at Masada and
 other Judean Desert sites use simple flat leather soles and narrow straps. The
-cover therefore uses elongated sole impressions with restrained strap marks,
-not bare toes or modern athletic tread.
+cover therefore uses small, worn, lightly irregular pressure marks with at most
+a faint strap impression, not bare toes, boots, or modern athletic tread.
 
 ## Volume III: Filled with the Holy Spirit
 

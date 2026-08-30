@@ -14,3 +14,10 @@
 - Built a 50-entry complete master ZIP and a 36-entry web review ZIP, then verified every manifested byte and checksum.
 - Browser-smoked the author finalization page and cover deck at desktop and mobile widths with no console errors, broken images, failed links, or horizontal overflow.
 - Internal build phases are complete. External author voice/theology, selected wrap typography, KDP Previewer, and physical proof gates remain open.
+
+## 2026-08-30 - Volume II Footprints refinement
+- Replaced the oversized, boot-like, wide-gait Footprints treatment after author-side review.
+- The corrected art uses two close, natural alternating adult trails at roughly 70 percent of the former visual scale; the trails never merge or form a Y.
+- One complete trail now disappears at the midpoint while the remaining trail continues toward the distant carrying figure.
+- The new marks are shallow and dusty, with restrained worn-leather sandal character rather than modern tread or deep stamped outlines.
+- Re-ran cover luminance/dark-mass qualification and desktop/mobile browser gates; all ten candidates and the revised review page pass.

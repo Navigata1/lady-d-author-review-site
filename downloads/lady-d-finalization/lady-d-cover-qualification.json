@@ -1,6 +1,6 @@
 {
   "schema": "lady-d.cover-qualification/v1",
-  "generated_at": "2026-08-30T22:59:48.818990+00:00",
+  "generated_at": "2026-08-30T23:24:17.337362+00:00",
   "gate": "PASS",
   "rubric": {
     "genre_fit": 30,
@@ -85,20 +85,20 @@
       "volume": 2,
       "direction": "Carried on the Way",
       "luminance_floor": 160,
-      "prompt": "Create a premium 6x9 devotional cover scene along a luminous first-century Judean shoreline path by the Sea of Galilee. In the entire lower half, show TWO COMPLETE WALKERS' TRAILS side by side. Each walker's trail alternates clear left-right impressions from simple ancient leather sandals. Exactly at the halfway point, one whole trail stops suddenly; it does not blend into the other trail. From that transition onward, ONE COMPLETE WALKER'S alternating left-right sandal trail continues toward the horizon. Far ahead and faint in the bright atmosphere, a dignified first-century Jewish man in a cream tunic and mantle carries another fully clothed adult man safely in both arms. Use historically plausible flat leather sole impressions with restrained strap marks, no bare toes and no modern tread. 'One pair' means one walker's ongoing left-right trail, not two isolated prints. The image embodies divine companionship, endurance, and the revelation that Christ carried the traveler through the hardest ground. Bright cream-gold sand, pale blue water, fresh olive green, warm dawn, premium cinematic photographic realism, calm upper sky for typography. No halo, no crucifixion imagery, no text, letters, logos, watermark, border, or mockup.",
+      "prompt": "Create a premium 6x9 devotional cover scene along a luminous first-century Judean shoreline path by the Sea of Galilee. Treat the footprints at roughly 70 percent of the visual scale used in a typical foreground-footprint cover so the path feels long and the marks remain subtle. From the lower foreground to the midpoint, show TWO DIFFERENT ADULTS' NARROW NATURAL WALKING TRAILS running close and parallel. Each person leaves an ordinary alternating gait: left sandal, then right sandal, with realistic forward spacing. The two trails do not curve together, cross, merge, converge, or form a Y. Exactly at the midpoint, one person's entire trail simply stops and disappears as if that traveler was lifted up. The other person's single alternating left-right trail continues toward the horizon. Far ahead and faint in the bright atmosphere, a dignified first-century Jewish man in a cream tunic and mantle carries another fully clothed adult safely in both arms. Use shallow, dusty pressure marks from simple ancient leather sandals: thin flat soles, slightly irregular worn edges, and at most a faint narrow strap impression. Keep every print small, lightly defined, and subordinate to the journey. No bare toes, modern tread, boots, sneakers, giant soles, deep stamped outlines, hopping pairs, or wide waddling gait. The image embodies divine companionship and the revelation that Christ carried the traveler through the hardest ground. Bright cream-gold earth, pale blue water, fresh olive green, warm dawn, premium cinematic photographic realism, calm upper sky for typography. No halo, crucifixion imagery, text, letters, logos, watermark, border, or mockup.",
       "file": "/covers/lady-d-finalization/v2-d-carried-on-the-way.png",
-      "sha256": "2e3842484d7927870b5a5bdea4c59b3e980b95c4a5e69876025117dab8386389",
+      "sha256": "5ee0d4947e3e0a67d6e8bf10dfa3db84d4556d27ef95208da7daf3e44899003d",
       "width": 1024,
       "height": 1536,
-      "average_luminance": 179.79,
-      "dark_mass_percent": 1.43,
+      "average_luminance": 164.3,
+      "dark_mass_percent": 3.34,
       "qualification": "PASS",
       "score": 100,
       "genre_fit": 30,
       "thumbnail_clarity": 25,
       "brief_fidelity": 25,
       "distinction": 20,
-      "rationale": "The most complete Son-lane story: two walkers' trails run side by side, one stops at mid-path, and the carried figure resolves why one full trail continues.",
+      "rationale": "The complete Son-lane story now reads naturally: two restrained parallel gaits, one trail ending without convergence, and the distant carrier resolving the surviving trail.",
       "volume_rank": 1
     },
     {

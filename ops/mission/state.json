@@ -10,7 +10,7 @@
     "northStar": "Three Scripture-faithful devotionals in Susan 'Lady D' Damon's lived preaching voice, paired with useful journals and a luminous, coherent cover family ready for author review and KDP production.",
     "status": "review_ready",
     "started": "2026-08-30",
-    "updated": "2026-08-30T23:05:32Z",
+    "updated": "2026-08-30T23:24:42Z",
     "sessionCount": 1
   },
   "policies": {
@@ -33,7 +33,7 @@
           "command": "python3 scripts/lady_d_finalization/verify_sources.py",
           "status": "passed",
           "evidence": "ops/mission/evidence/P0-G1-2026-08-30.json",
-          "lastRun": "2026-08-30T23:05:32Z",
+          "lastRun": "2026-08-30T23:24:42Z",
           "notes": ""
         }
       ],
@@ -71,7 +71,7 @@
           "command": "python3 scripts/lady_d_finalization/audit_voice.py",
           "status": "passed",
           "evidence": "ops/mission/evidence/P1-G1-2026-08-30.json",
-          "lastRun": "2026-08-30T23:05:32Z",
+          "lastRun": "2026-08-30T23:24:42Z",
           "notes": ""
         },
         {
@@ -80,7 +80,7 @@
           "command": "bash scripts/lady_d_finalization/run_humanizer_gate.sh",
           "status": "passed",
           "evidence": "ops/mission/evidence/P1-G2-2026-08-30.json",
-          "lastRun": "2026-08-30T23:05:32Z",
+          "lastRun": "2026-08-30T23:24:42Z",
           "notes": "Humanizer is advisory evidence; theological and author-voice review remain primary."
         }
       ],
@@ -120,7 +120,7 @@
           "command": "python3 scripts/lady_d_finalization/audit_pdfs.py",
           "status": "passed",
           "evidence": "ops/mission/evidence/P2-G1-2026-08-30.json",
-          "lastRun": "2026-08-30T23:05:32Z",
+          "lastRun": "2026-08-30T23:24:42Z",
           "notes": ""
         },
         {
@@ -129,7 +129,7 @@
           "command": "python3 scripts/lady_d_finalization/visual_audit.py",
           "status": "passed",
           "evidence": "ops/mission/evidence/P2-G2-2026-08-30.json",
-          "lastRun": "2026-08-30T23:05:32Z",
+          "lastRun": "2026-08-30T23:24:42Z",
           "notes": ""
         }
       ],
@@ -169,7 +169,7 @@
           "command": "python3 scripts/lady_d_finalization/audit_covers.py",
           "status": "passed",
           "evidence": "ops/mission/evidence/P3-G1-2026-08-30.json",
-          "lastRun": "2026-08-30T23:05:32Z",
+          "lastRun": "2026-08-30T23:24:42Z",
           "notes": "Average luminance target is at least 160/255; strategic shadows may support the light but may not dominate."
         },
         {
@@ -178,7 +178,7 @@
           "command": "node scripts/lady_d_finalization/smoke_cover_deck.mjs",
           "status": "passed",
           "evidence": "ops/mission/evidence/P3-G2-2026-08-30.json",
-          "lastRun": "2026-08-30T23:05:32Z",
+          "lastRun": "2026-08-30T23:24:42Z",
           "notes": ""
         }
       ],
@@ -218,7 +218,7 @@
           "command": "node scripts/lady_d_finalization/smoke_release.mjs",
           "status": "passed",
           "evidence": "ops/mission/evidence/P4-G1-2026-08-30.json",
-          "lastRun": "2026-08-30T23:05:32Z",
+          "lastRun": "2026-08-30T23:24:42Z",
           "notes": ""
         },
         {
@@ -227,7 +227,7 @@
           "command": "python3 scripts/lady_d_finalization/verify_package.py",
           "status": "passed",
           "evidence": "ops/mission/evidence/P4-G2-2026-08-30.json",
-          "lastRun": "2026-08-30T23:05:32Z",
+          "lastRun": "2026-08-30T23:24:42Z",
           "notes": ""
         }
       ],
