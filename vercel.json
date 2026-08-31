@@ -1,15 +1,18 @@
 {
-  "redirects": [
+  "routes": [
     {
-      "source": "/index.html",
-      "destination": "/",
-      "permanent": true
-    }
-  ],
-  "rewrites": [
+      "src": "^/index\\.html$",
+      "headers": {
+        "Location": "/"
+      },
+      "status": 308
+    },
     {
-      "source": "/",
-      "destination": "/susan-damon-hub.html"
+      "src": "^/$",
+      "dest": "/susan-damon-hub.html"
+    },
+    {
+      "handle": "filesystem"
     }
   ]
 }
