@@ -1,0 +1,18 @@
+{
+  "schema": "idc.lady_d_31_day_content_audit/v1",
+  "generatedAt": "2026-08-31T23:02:53.506923+00:00",
+  "status": "PASS",
+  "days": 31,
+  "volumeCounts": {
+    "0": 1,
+    "1": 10,
+    "2": 10,
+    "3": 10
+  },
+  "errors": [],
+  "warnings": [
+    "31 final scene renders remain pending; movement key art is directional fallback only",
+    "1 creative-direction draft is available but remains outside the print-final asset path"
+  ],
+  "sourceSha256": "4c6324a64442edf4b6f6baaa9aa78f52f5a2392349469dc4db1763d204b451e7"
+}

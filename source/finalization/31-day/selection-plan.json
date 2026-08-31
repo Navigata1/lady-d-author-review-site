@@ -1,0 +1,68 @@
+{
+  "schema": "idc.lady_d_31_day_selection/v1",
+  "title": "Thirty-One Mornings of Light",
+  "subtitle": "A Visual Devotional Journey with the Father, the Son, and the Holy Spirit",
+  "selectionRule": "Ten polished days from each devotional volume, followed by one new trinitarian culmination.",
+  "movements": [
+    {
+      "id": 1,
+      "days": "1-8",
+      "title": "Awakening",
+      "promise": "The soul wakes to the Father's love."
+    },
+    {
+      "id": 2,
+      "days": "9-16",
+      "title": "Depths",
+      "promise": "The heart discovers that Jesus meets and carries us in deep water."
+    },
+    {
+      "id": 3,
+      "days": "17-24",
+      "title": "Wonders",
+      "promise": "The road with Jesus opens into the Spirit's living wonder."
+    },
+    {
+      "id": 4,
+      "days": "25-31",
+      "title": "Kingdom Light",
+      "promise": "The Spirit fills ordinary lives until the love of God becomes visible."
+    }
+  ],
+  "days": [
+    {"targetDay": 1, "volume": 1, "sourceDay": 1, "reason": "Lady D opens the journey with honest pain held inside the Father's promise."},
+    {"targetDay": 2, "volume": 1, "sourceDay": 2, "reason": "Lady D's authored Exodus 15:4 calibration day anchors the whole voice standard."},
+    {"targetDay": 3, "volume": 1, "sourceDay": 4, "reason": "The Father's love moves before performance and gives the visual journey its foundation."},
+    {"targetDay": 4, "volume": 1, "sourceDay": 45, "reason": "The Father answers relationship before explanation, a strong invitation into trust."},
+    {"targetDay": 5, "volume": 1, "sourceDay": 92, "reason": "Reconciliation becomes visible through Joseph's first movement of mercy."},
+    {"targetDay": 6, "volume": 1, "sourceDay": 120, "reason": "God names Himself healer and meets the reader in embodied need."},
+    {"targetDay": 7, "volume": 1, "sourceDay": 219, "reason": "Provision arrives on the mountain where surrender felt most costly."},
+    {"targetDay": 8, "volume": 1, "sourceDay": 252, "reason": "Mercy leads the rescued forward instead of only describing where they have been."},
+    {"targetDay": 9, "volume": 1, "sourceDay": 324, "reason": "The Father gives grief room to breathe, adding emotional honesty to the visual book."},
+    {"targetDay": 10, "volume": 1, "sourceDay": 338, "reason": "The name I AM steadies the reader at the threshold of the Son's movement."},
+
+    {"targetDay": 11, "volume": 2, "sourceDay": 3, "reason": "Jesus names and claims His people before heaven, making discipleship personal."},
+    {"targetDay": 12, "volume": 2, "sourceDay": 13, "reason": "The call to take up the cross keeps the visual devotional from becoming shallow inspiration."},
+    {"targetDay": 13, "volume": 2, "sourceDay": 25, "reason": "Christ's patient knock creates an intimate scene of invitation and response."},
+    {"targetDay": 14, "volume": 2, "sourceDay": 65, "reason": "Peter's courage waits for Jesus to say come before stepping onto impossible water."},
+    {"targetDay": 15, "volume": 2, "sourceDay": 100, "reason": "Compassion for the crowd reveals how Jesus sees need before demanding strength."},
+    {"targetDay": 16, "volume": 2, "sourceDay": 134, "reason": "The hand and voice of Jesus answer fear with nearness."},
+    {"targetDay": 17, "volume": 2, "sourceDay": 158, "reason": "Jesus walks into the storm in the dark, an ideal hinge from depths into wonder."},
+    {"targetDay": 18, "volume": 2, "sourceDay": 199, "reason": "Seventy-times-seven forgiveness makes Christ's kingdom practical and costly."},
+    {"targetDay": 19, "volume": 2, "sourceDay": 209, "reason": "Jesus immediately reaches for the sinking disciple rather than watching from safety."},
+    {"targetDay": 20, "volume": 2, "sourceDay": 280, "reason": "Resurrection hope stretches beyond the categories that once contained the reader."},
+
+    {"targetDay": 21, "volume": 3, "sourceDay": 42, "reason": "God's breath entering dust is the clearest opening image for the Spirit's movement."},
+    {"targetDay": 22, "volume": 3, "sourceDay": 41, "reason": "The Spirit rests on many shoulders, replacing isolated striving with shared strength."},
+    {"targetDay": 23, "volume": 3, "sourceDay": 87, "reason": "Visible fruit keeps spiritual experience accountable to transformed living."},
+    {"targetDay": 24, "volume": 3, "sourceDay": 89, "reason": "Moses' wish that all God's people receive the Spirit widens the invitation."},
+    {"targetDay": 25, "volume": 3, "sourceDay": 162, "reason": "The Spirit fills a craftsperson's hands, honoring faithful work as sacred."},
+    {"targetDay": 26, "volume": 3, "sourceDay": 179, "reason": "Jesus calls the disciples near before giving power, keeping witness rooted in relationship."},
+    {"targetDay": 27, "volume": 3, "sourceDay": 220, "reason": "The listening ear makes room for the Spirit's present-tense guidance."},
+    {"targetDay": 28, "volume": 3, "sourceDay": 332, "reason": "The hovering Spirit brings hope to places that do not yet have shape."},
+    {"targetDay": 29, "volume": 3, "sourceDay": 342, "reason": "Another heart embodies renewal as more than a temporary emotional lift."},
+    {"targetDay": 30, "volume": 3, "sourceDay": 359, "reason": "God speaks peace before sending, closing the trilogy selections with calm courage."},
+
+    {"targetDay": 31, "volume": 0, "sourceDay": 0, "reason": "A new culmination gathers the Father's family, Christ's immeasurable love, and the Spirit's inner strengthening into the fullness of God."}
+  ]
+}

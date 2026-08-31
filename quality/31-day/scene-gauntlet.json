@@ -1,0 +1,151 @@
+{
+  "schema": "idc.lady_d_31_day_scene_gauntlet/v1",
+  "generatedAt": "2026-08-31T23:02:53.507163+00:00",
+  "status": "PENDING_ASSETS",
+  "threshold": 88,
+  "rubric": {
+    "scriptureAndMessageFidelity": 20,
+    "visualStorytelling": 20,
+    "LadyDBrightnessAndWarmth": 15,
+    "TypographySafeComposition": 10,
+    "AnatomyAndHistoricalCoherence": 10,
+    "DistinctiveBeauty": 10,
+    "MotionLayerPotential": 5,
+    "TechnicalQuality": 10
+  },
+  "hardRejects": [
+    "baked text, watermark, or malformed lettering",
+    "scene contradicts the selected Scripture or devotional message",
+    "distorted anatomy, demeaning depiction, or careless historical treatment",
+    "no clean typography zone",
+    "darkness overwhelms the intended light without narrative purpose",
+    "scene cannot be separated into foreground, subject, atmosphere, and light layers for motion"
+  ],
+  "records": [
+    {
+      "day": 1,
+      "status": "pending-generation"
+    },
+    {
+      "day": 2,
+      "status": "pending-generation"
+    },
+    {
+      "day": 3,
+      "status": "pending-generation"
+    },
+    {
+      "day": 4,
+      "status": "pending-generation"
+    },
+    {
+      "day": 5,
+      "status": "pending-generation"
+    },
+    {
+      "day": 6,
+      "status": "pending-generation"
+    },
+    {
+      "day": 7,
+      "status": "pending-generation"
+    },
+    {
+      "day": 8,
+      "status": "pending-generation"
+    },
+    {
+      "day": 9,
+      "status": "pending-generation"
+    },
+    {
+      "day": 10,
+      "status": "pending-generation"
+    },
+    {
+      "day": 11,
+      "status": "pending-generation"
+    },
+    {
+      "day": 12,
+      "status": "pending-generation"
+    },
+    {
+      "day": 13,
+      "status": "pending-generation"
+    },
+    {
+      "day": 14,
+      "status": "pending-generation"
+    },
+    {
+      "day": 15,
+      "status": "pending-generation"
+    },
+    {
+      "day": 16,
+      "status": "pending-generation"
+    },
+    {
+      "day": 17,
+      "status": "pending-generation"
+    },
+    {
+      "day": 18,
+      "status": "pending-generation"
+    },
+    {
+      "day": 19,
+      "status": "pending-generation"
+    },
+    {
+      "day": 20,
+      "status": "pending-generation"
+    },
+    {
+      "day": 21,
+      "status": "pending-generation"
+    },
+    {
+      "day": 22,
+      "status": "pending-generation"
+    },
+    {
+      "day": 23,
+      "status": "pending-generation"
+    },
+    {
+      "day": 24,
+      "status": "pending-generation"
+    },
+    {
+      "day": 25,
+      "status": "pending-generation"
+    },
+    {
+      "day": 26,
+      "status": "pending-generation"
+    },
+    {
+      "day": 27,
+      "status": "pending-generation"
+    },
+    {
+      "day": 28,
+      "status": "pending-generation"
+    },
+    {
+      "day": 29,
+      "status": "pending-generation"
+    },
+    {
+      "day": 30,
+      "status": "pending-generation"
+    },
+    {
+      "day": 31,
+      "status": "draft-print-hold",
+      "sha256": "b431c0ee06f0ef9abc5dc46b333081add54f5e5d64360dcbcd1858fc818ad58a"
+    }
+  ]
+}

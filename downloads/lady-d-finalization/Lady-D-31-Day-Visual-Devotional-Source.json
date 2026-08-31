@@ -1,0 +1,1709 @@
+{
+  "schema": "idc.lady_d_31_day_visual_devotional/v1",
+  "title": "Thirty-One Mornings of Light",
+  "subtitle": "A Visual Devotional Journey with the Father, the Son, and the Holy Spirit",
+  "scripturePolicy": "KJV throughout this production corpus; generated art contains no baked Scripture text.",
+  "artPolicy": "Final scene art is qualified separately. Movement key art is a directional fallback, not a claim that all 31 scene renders are complete.",
+  "movements": [
+    {
+      "id": 1,
+      "days": "1-8",
+      "title": "Awakening",
+      "promise": "The soul wakes to the Father's love."
+    },
+    {
+      "id": 2,
+      "days": "9-16",
+      "title": "Depths",
+      "promise": "The heart discovers that Jesus meets and carries us in deep water."
+    },
+    {
+      "id": 3,
+      "days": "17-24",
+      "title": "Wonders",
+      "promise": "The road with Jesus opens into the Spirit's living wonder."
+    },
+    {
+      "id": 4,
+      "days": "25-31",
+      "title": "Kingdom Light",
+      "promise": "The Spirit fills ordinary lives until the love of God becomes visible."
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "movement": 1,
+      "movementTitle": "Awakening",
+      "movementPromise": "The soul wakes to the Father's love.",
+      "volume": 1,
+      "volumeTitle": "Surrendering to God's Love",
+      "sourceDay": 1,
+      "selectionReason": "Lady D opens the journey with honest pain held inside the Father's promise.",
+      "sourceMeta": "Day 1 · January 1 · Loved Before You Perform",
+      "title": "The God Who Lets You Say What Hurts",
+      "scripture": {
+        "reference": "Genesis 15:2",
+        "translation": "KJV",
+        "text": "And Abram said, Lord GOD, what wilt thou give me, seeing I go childless, and the steward of my house is this Eliezer of Damascus?"
+      },
+      "lens": "Root Word ariri · עֲרִירִי (Hebrew) — stripped, childless — the bare word Abram hands to God, naming the ache without dressing it up.",
+      "thread": {
+        "reference": "1 Samuel 1:11",
+        "text": "And she vowed a vow, and said, O LORD of hosts, if thou wilt indeed look on the affliction of thine handmaid, and remember me, and not forget thine handmaid, but wilt give unto thine handmaid a man child, then I will give him unto the LORD all the days of his life, and there shall no razor come upon his head."
+      },
+      "body": [
+        "There are seasons when everyone expects you to smile and say the Lord is good, while inside you carry a question that will not sit down. Abram knew that place. God had just spoken to him about reward, yet Abram answered with the ache he could not hide: what will You give me, seeing I go childless? He did not dress it up in church language. He held out the empty place in his life and named it before the Lord, and heaven did not turn away. The Father is not looking for a rehearsed child, but an honest one. Place yourself in His care by bringing the real thing.",
+        "Notice that Abram spoke his question after God had already spoken comfort. The promise was on the table, and the ache was still in his chest, and both were true at once. God did not make him choose between faith and honesty. He let His servant hold the promise in one hand and the pain in the other and speak them both. When you tell God the truth about what still hurts, you are not failing to believe. You are believing enough to bring it to the only One who can carry it.",
+        "Maybe today you carry a prayer you have stopped saying out loud. Empty arms, a silent phone, a marriage that will not heal, a dream that keeps slipping past its season. Beloved, you do not have to edit your sorrow before you come close. The Father is not fragile, and neither is your place at His side. He can hold the question and hold you at the same time.",
+        "So say the honest thing today, before you see one thing change. No question is too raw for His ear, no ache too heavy for His arms, no delay too long for His faithfulness. The God who let Abram ask is the same God bending down to hear you now. Bring Him the childless place, and let Him keep His word."
+      ],
+      "closing": "Your honest ache is not the end of your faith — it is faith knocking on the only door that opens.",
+      "prayer": "Heavenly Father, thank You that I can come to You with the ache I usually hide. Like Abram, I bring You the empty place and the question I have carried too long. Teach me that honesty is not the end of my faith but the proof of it. Hold what I cannot fix, and remind me that my place at Your side is secure. In Jesus' name, Amen.",
+      "journalReflect": "What honest question or ache have you stopped bringing to God because you thought faith meant staying quiet about it?",
+      "journalAct": "Today, speak that unspoken prayer out loud to the Father in plain words, exactly as it feels, without dressing it up.",
+      "visual": {
+        "sceneFamily": "intimate-devotional-portrait",
+        "environment": "High alpine ridge above a sea of peaks — spring dawn, clear air after night frost, low rose-gold sun fanning across melt grass and first wildflowers.",
+        "palette": [
+          "#3b4d6b",
+          "#e8a35c",
+          "#f4d9a8",
+          "#8fa3c4",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon at its largest and brightest; Fraunces 600 for the promise — first light earns the loudest script in the pack.",
+        "motion": [
+          "Parallax: snowline peaks recede at 0.4× scroll while the figure and foreground grass hold still.",
+          "Sun rays breathe ±5% brightness on an 8s loop; wildflower pollen drifts right at 3px/s.",
+          "Reduced motion: one static golden frame, light held at full."
+        ],
+        "prompt": "A woman seen from behind in a flowing cream dress standing on a high alpine ridge at sunrise, vast sea of snow-dusted peaks below her, low rose-gold sun fanning light across spring melt grass and first wildflowers, crisp clear air after night frost, small hopeful figure against immense grandeur, generous negative space in the glowing upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The God Who Lets You Say What Hurts\": Your honest ache is not the end of your faith — it is faith knocking on the only door that opens. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-01.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-1.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 2,
+      "movement": 1,
+      "movementTitle": "Awakening",
+      "movementPromise": "The soul wakes to the Father's love.",
+      "volume": 1,
+      "volumeTitle": "Surrendering to God's Love",
+      "sourceDay": 2,
+      "selectionReason": "Lady D's authored Exodus 15:4 calibration day anchors the whole voice standard.",
+      "sourceMeta": "Day 2 · January 2 · Loved Before You Perform",
+      "title": "The Love That Sank Pharaoh's Best",
+      "scripture": {
+        "reference": "Exodus 15:4",
+        "translation": "KJV",
+        "text": "Pharaoh’s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea."
+      },
+      "lens": "Root Word yarah · יָרָה (Hebrew) — to hurl, to cast — one decisive throw of the Lord's arm, flinging oppression's whole arsenal into the deep.",
+      "thread": {
+        "reference": "Isaiah 43:17",
+        "text": "Which bringeth forth the chariot and horse, the army and the power; they shall lie down together, they shall not rise: they are extinct, they are quenched as tow."
+      },
+      "body": [
+        "Some mornings the trouble against you looks organized and sure of itself, like an army with chariots and captains, while your own faith feels like a barefoot people standing at the edge of a sea. That was exactly Israel's morning. But the song they sang remembers what the Lord did with all that certainty: Pharaoh's chariots and his host He cast into the sea. The love of God did not tremble before Egypt's strength. It moved with power greater than Pharaoh's confidence, straight toward His people. Surrender to a love like that. It is not the nervous affection of a distant ruler. It is your Father, coming for you.",
+        "Notice the verse does not say only the weak of Egypt fell. It says his chosen captains also are drowned in the Red Sea. The very best the enemy had, the picked men, the finest chariots, went down together. What terrified Israel for four hundred years could not stand for one hour when God rose up. The strongest thing set against your life is not the strongest thing in the story. God's love outranks it, and His arm never loses.",
+        "Perhaps you have spent years surrounded by voices that named you small — a childhood that shamed you, a habit that keeps returning, a failure people will not let you bury, a fear dressed up like a general. Beloved, none of it gets to define what love is allowed to do now. The chariots that chased you do not set the limit on the Father who is drowning them.",
+        "So praise Him before the water closes. No captain is too chosen for His arm, no chariot too fast for His judgment, no bondage too old for His deliverance. The same Lord who sank Pharaoh's finest is moving toward you today, and His welcome will not break. Walk out of Egypt and let the sea keep what tried to keep you."
+      ],
+      "closing": "The best the enemy has still sinks like a stone before the love that is coming for you.",
+      "prayer": "Heavenly Father, thank You that Your love is not fragile or afraid. When trouble lines up against me like chariots and captains, remind me that You cast the strongest of them into the sea. Silence every voice that called me small, and teach me to trust the power that moves toward me instead of the forces that chase me. I praise You before I see the victory. In Jesus' name, Amen.",
+      "journalReflect": "What 'chosen captain' — the strongest fear or accusation against you — have you assumed is too powerful for God to overcome?",
+      "journalAct": "Name that fear out loud today, declare that God's love outranks it, and take one forward step you have been too afraid to take.",
+      "visual": {
+        "sceneFamily": "wonder-landscape",
+        "environment": "Still mountain lake at dawn — high summer, mirror-calm water doubling a single peak, one thin ribbon of mist on the surface, pale gold light.",
+        "palette": [
+          "#2f4858",
+          "#9db8c9",
+          "#e9c98f",
+          "#eef2f0",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon whisper-light with wide tracking; Fraunces italic — the mirror lake asks for near-silence.",
+        "motion": [
+          "Mist ribbon slides across the lake at 4px/s on its own layer.",
+          "Reflection ripple loops at ±2px over 7s; the figure’s hem sways gently with it.",
+          "Reduced motion: the mirror holds perfectly still."
+        ],
+        "prompt": "A woman seen from behind in a soft lavender dress standing at the shore of a perfectly still mountain lake at dawn, mirror-calm water doubling a single snow-touched peak, one thin ribbon of mist floating on the surface, pale gold summer light, profound quiet, small peaceful figure against vast reflected grandeur, generous negative space in the luminous upper sky and its reflection for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Love That Sank Pharaoh's Best\": The best the enemy has still sinks like a stone before the love that is coming for you. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-02.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-1.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 3,
+      "movement": 1,
+      "movementTitle": "Awakening",
+      "movementPromise": "The soul wakes to the Father's love.",
+      "volume": 1,
+      "volumeTitle": "Surrendering to God's Love",
+      "sourceDay": 4,
+      "selectionReason": "The Father's love moves before performance and gives the visual journey its foundation.",
+      "sourceMeta": "Day 4 · January 4 · Loved Before You Perform",
+      "title": "He Brought You Out Because He Loved You",
+      "scripture": {
+        "reference": "Deuteronomy 7:8",
+        "translation": "KJV",
+        "text": "But because the LORD loved you, and because he would keep the oath which he had sworn unto your fathers, hath the LORD brought you out with a mighty hand, and redeemed you out of the house of bondmen, from the hand of Pharaoh king of Egypt."
+      },
+      "lens": "Root Word ahavah · אַהֲבָה (Hebrew) — love — named as the only reason for redemption; covenant affection that moves before any performance exists.",
+      "thread": {
+        "reference": "Ephesians 2:4",
+        "text": "But God, who is rich in mercy, for his great love wherewith he loved us,"
+      },
+      "body": [
+        "A lot of us wake up already bargaining with shame. We promise to be more disciplined, more patient, more spiritual, more useful, and then we hope God will be pleased enough to stay close. But hear what Moses told Israel: the Lord brought you out with a mighty hand because He loved you, and because He would keep the oath He swore to your fathers. Not because they were impressive. Not because they had earned rescue. Love came first, and the mighty hand followed. The Father's love is not a paycheck waiting at the finish line. Surrender the bargaining. You were loved before you were useful.",
+        "Notice the reason the verse gives for the whole exodus. It does not say God redeemed them because they were faithful, strong, or worthy. It says because the Lord loved you. The mighty hand that broke Egypt was set in motion by affection, not by achievement. God's rescue was the evidence of His love, not the reward for their performance. Everything they became, they became as already-loved people who had been carried out.",
+        "Maybe you are the one still trying to earn what is already yours — reading more, serving more, apologizing more, hoping to finally be worth keeping close. Beloved, put the ledger down. The Father did not fall in love with a finished version of you. He set His heart on you while you were still in the house of bondage, with nothing in your hands to show.",
+        "So receive His love today before you improve one thing. No failure outvotes His oath, no weakness disqualifies His affection, no past keeps His mighty hand from reaching. The Lord who brought Israel out because He loved them is the same Lord holding you now. You are not being tolerated. You are being loved."
+      ],
+      "closing": "The mighty hand moved because of love, not because you earned it — and it still does.",
+      "prayer": "Heavenly Father, thank You that You loved Your people out of Egypt before they ever proved themselves. I confess I keep bargaining with shame, trying to earn what You have already given. Teach me to lay down the ledger and receive Your love as the reason for everything, not the reward for anything. Let Your mighty hand of affection settle my striving heart today. In Jesus' name, Amen.",
+      "journalReflect": "In what ways are you still trying to earn God's nearness through performance, as if His love waits at the finish line?",
+      "journalAct": "Today, before you accomplish anything, tell God you receive His love as a gift already given, and let that settle your first hour.",
+      "visual": {
+        "sceneFamily": "power-of-God",
+        "environment": "Provence lavender field in full July bloom — early morning, sun low through purple rows toward a distant stone farmhouse, warm hazy light.",
+        "palette": [
+          "#6b4f8e",
+          "#b48ac2",
+          "#e6d3ee",
+          "#c9a86a",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon loose and floral; Fraunces regular — the field is already singing, the type just hums along.",
+        "motion": [
+          "Lavender rows sway in a staggered 6s wave, front rows first.",
+          "Warm haze breathes ±6% opacity; a few seeds drift at 2px/s.",
+          "Reduced motion: rows held mid-sway in full light."
+        ],
+        "prompt": "A woman seen from behind in a flowing white summer dress walking between endless rows of blooming lavender in Provence, early morning sun angling low through purple rows toward a distant stone farmhouse, warm hazy light, bees in the air, gentle hills on the horizon, small serene figure inside a sea of violet, generous negative space in the soft upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"He Brought You Out Because He Loved You\": The mighty hand moved because of love, not because you earned it — and it still does. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-03.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-1.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 4,
+      "movement": 1,
+      "movementTitle": "Awakening",
+      "movementPromise": "The soul wakes to the Father's love.",
+      "volume": 1,
+      "volumeTitle": "Surrendering to God's Love",
+      "sourceDay": 45,
+      "selectionReason": "The Father answers relationship before explanation, a strong invitation into trust.",
+      "sourceMeta": "Day 45 · February 14 · Trusting the Father's Heart",
+      "title": "The Father Who Answers 'Here I Am' Before He Explains",
+      "scripture": {
+        "reference": "Genesis 22:7",
+        "translation": "KJV",
+        "text": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?"
+      },
+      "lens": "Root Word hinneni · הִנֵּנִי (Hebrew) — 'Here I am' — presence offered before explanation; a father's first gift to a questioning child is himself",
+      "thread": {
+        "reference": "John 1:29",
+        "text": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world."
+      },
+      "body": [
+        "Faith sometimes walks with a question it cannot answer. You are moving forward, you are still obeying, but there is something you can see and something you cannot, and the gap between them aches. That was Isaac on the mountain. He turned to his father and simply said, my father. And before one word of explanation, Abraham answered, here am I, my son. Presence came before the answer. That is how the Father meets a questioning heart.",
+        "Notice the tender order of it. Isaac names what he can see, behold the fire and the wood, and then asks about what he cannot see: but where is the lamb? He does not hide the question, and he is not scolded for asking it. His father simply stays close. Beloved, honest questions are not the enemy of faith. The Father does not require you to pretend you understand. He gives you Himself before He gives you the explanation.",
+        "You may be carrying that same kind of question today. You can see the fire and the wood plainly enough, the bills on the table, the name of the diagnosis, the tension in the home, the empty chair, the responsibility that will not lift. And you keep asking, but where is the lamb? Where is the provision? Where is the answer? Bring both to the Father: the facts you can see and the piece that is still missing.",
+        "Then rest in the answer He gives first, Himself. No question is too honest for Him to hear, no doubt is too raw for Him to hold, and no gap is too wide for His presence to fill. The Father who stood beside Isaac stands beside you, saying here I am before He ever says here is why. Surrender the question into His nearness, and keep walking."
+      ],
+      "closing": "Before the Father explains anything, He answers the deepest question with 'Here I am.'",
+      "prayer": "Heavenly Father, thank You that You make room for my honest questions and answer with Your presence before You give the reason. When I can see the fire and the wood but not the lamb, help me bring both the facts and the missing piece to You. Teach me to rest in Your nearness even while the answer is still unfolding. You are here, and that is enough. In Jesus' name, Amen.",
+      "journalReflect": "What honest question have I been afraid to bring to God, and what would it mean to hear Him answer 'Here I am' before He answers 'here is why'?",
+      "journalAct": "Speak your real question to the Father today, naming both what you can see and what you cannot, then sit quietly in His presence afterward.",
+      "visual": {
+        "sceneFamily": "nature-symbol",
+        "environment": "Cherry-blossom riverbank in April — soft spring morning, petals drifting onto slow jade water, diffused pearl light through the bloom canopy.",
+        "palette": [
+          "#e8b7c8",
+          "#f6e3ea",
+          "#7fae9f",
+          "#4a5d58",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon soft with long descenders; Fraunces regular — petals fall slowly and so should the letters.",
+        "motion": [
+          "Petals fall on independent 6–9s loops from separate canopy points.",
+          "River jade shimmer scrolls at 3px/s; canopy light dapples ±4%.",
+          "Reduced motion: petals suspended mid-air over still water."
+        ],
+        "prompt": "A woman seen from behind in a pale rose dress standing beneath a canopy of cherry blossoms on a quiet riverbank in April, petals drifting down onto slow jade-green water, soft diffused pearl light of a spring morning, branches arching overhead like a vaulted ceiling, small reflective figure framed by bloom and river, generous negative space in the misty upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Father Who Answers 'Here I Am' Before He Explains\": Before the Father explains anything, He answers the deepest question with 'Here I am.' Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-04.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-1.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 5,
+      "movement": 1,
+      "movementTitle": "Awakening",
+      "movementPromise": "The soul wakes to the Father's love.",
+      "volume": 1,
+      "volumeTitle": "Surrendering to God's Love",
+      "sourceDay": 92,
+      "selectionReason": "Reconciliation becomes visible through Joseph's first movement of mercy.",
+      "sourceMeta": "Day 91 · April 1 · Mercy That Restores",
+      "title": "Mercy Kisses First, Then the Words Can Come",
+      "scripture": {
+        "reference": "Genesis 45:15",
+        "translation": "KJV",
+        "text": "Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him."
+      },
+      "lens": "Root Word nashaq · נָשַׁק (Hebrew) — to kiss — the sign of peace given before the brothers can find words; affection opens the door that speech walks through.",
+      "thread": {
+        "reference": "Luke 15:20",
+        "text": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."
+      },
+      "body": [
+        "There are moments in life when a relationship falls into a silence so heavy that no one knows how to speak again; fear and guilt seal the mouth shut. Genesis 45:15 shows what finally breaks it: \"Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him.\" Joseph's affection reached beyond Benjamin to all of them, and only then did words return. The turn is beautiful and simple: mercy touches first, and that is what makes speech possible again. Our faithful response is to trust the God who restores broken conversation.",
+        "Notice that the kiss came before the conversation. The brothers who had wronged him could not find a single word until mercy had already moved. The sign of peace opened the door that speech then walked through. This is how the Father restores—not by demanding the perfect apology before He offers affection, but by offering affection that finally makes the apology possible. Mercy always goes first.",
+        "Perhaps there is a silence in your life so old you have stopped believing words could ever return—a rift with family, a friendship guilt has muted, a prayer you cannot bring yourself to pray. Hear it: the Father is patient enough to wait for restored speech, and tender enough to touch you before you can talk.",
+        "Today, trust the mercy that moves first. No silence is too long for His healing, no guilt is too heavy for His tenderness, and no rift is beyond the reach of His kiss of peace. The God who restored the words between Joseph and his brothers can restore yours—let mercy touch the frozen place, and watch the conversation begin again."
+      ],
+      "closing": "Mercy touches before it talks—the God who kissed the silence away can give back the words fear froze shut.",
+      "prayer": "Heavenly Father, thank You for a mercy that touches before it asks for words. Where guilt and fear have sealed a silence in my life, move first with Your tenderness and make speech possible again. Give me courage to receive Your affection before I have the perfect words. Restore the conversations I thought were lost forever. I trust the mercy that goes ahead of me. In Jesus' name, Amen.",
+      "journalReflect": "Where has a silence grown so long I have stopped believing words could return, and how might God's mercy be waiting to move first?",
+      "journalAct": "Take one small step toward a frozen relationship today—a text, a call, a prayer—trusting that mercy, not the perfect speech, opens the door.",
+      "visual": {
+        "sceneFamily": "biblical-symbol",
+        "environment": "Highland moor at autumn daybreak — low mist pooling between heather rises, the sun a pale silver-gold coin burning through.",
+        "palette": [
+          "#5c6b73",
+          "#a8b0a9",
+          "#d9c58f",
+          "#403d39",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon airy, slightly smaller; Fraunces 500 — the mist wants the words to emerge, not arrive.",
+        "motion": [
+          "Mist pools drift left at 5px/s; far hills stay fixed for depth.",
+          "The pale sun pulses ±5% brightness on an 8s loop; heather trembles faintly.",
+          "Reduced motion: mist held, sun steady."
+        ],
+        "prompt": "A woman seen from behind in a warm rust-colored coat and scarf standing on a highland moor at daybreak, low autumn mist pooling between heather-covered rises, the sun a pale silver-gold coin burning through the fog, distant hills dissolving into light, quiet wool-colored air, small steady figure inside vast soft emptiness, generous negative space in the luminous misty upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"Mercy Kisses First, Then the Words Can Come\": Mercy touches before it talks—the God who kissed the silence away can give back the words fear froze shut. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-05.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-1.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 6,
+      "movement": 1,
+      "movementTitle": "Awakening",
+      "movementPromise": "The soul wakes to the Father's love.",
+      "volume": 1,
+      "volumeTitle": "Surrendering to God's Love",
+      "sourceDay": 120,
+      "selectionReason": "God names Himself healer and meets the reader in embodied need.",
+      "sourceMeta": "Day 119 · April 29 · Mercy That Restores",
+      "title": "The God Who Named Himself Your Healer",
+      "scripture": {
+        "reference": "Exodus 15:26",
+        "translation": "KJV",
+        "text": "And said, If thou wilt diligently hearken to the voice of the LORD thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the LORD that healeth thee."
+      },
+      "lens": "Root Word rapha · רָפָא (Hebrew) — to heal, mend, stitch back together — here folded into God's own name: the LORD your Healer.",
+      "thread": {
+        "reference": "Matthew 8:16",
+        "text": "When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:"
+      },
+      "body": [
+        "Sometimes we split God's love from God's healing, as though His care were one thing and His mending were a reward we had to earn on the side. Exodus 15:26 will not let those two stay apart. There, beside the bitter waters, the Lord calls His people to listen, to do what is right, to keep His commandments — and then He reveals the name behind it all: for I am the LORD that healeth thee. This is not a bargain where people buy His care with obedience. It is covenant compassion teaching the beloved how to live close to the Healer.",
+        "Notice that God folds healing right into His own name. He does not merely say He performs healings; He says healing is who He is. The Hebrew word means to mend, to stitch back together what has been torn. And notice the listening He asks for — not the price of a transaction, but the posture of a child learning to stay near the One who heals. That is the principle: His covenant love is not sentimental. It restores, it instructs, it corrects, and it heals, because it cares enough to form a life that can actually receive wholeness.",
+        "Maybe you keep returning to the very thing that wounds you — the habit, the relationship, the pattern that leaves you torn again and again. Or maybe you carry a hurt in your body, your grief, or your family that has ached so long you have stopped expecting it to mend. Beloved, the Lord who named Himself your Healer has not lost interest in your wholeness. He does not separate His love from His healing. He wants to stitch back together what has been coming apart in you.",
+        "So draw near to the Healer today and stay near. No wound is too old for the God who mends, no tearing is beyond His thread, and no bitter water is too deep for the One who makes it sweet. He has written healing into His very name. The same Lord who met His people at the bitter waters and every sick soul who was ever carried to Him is standing near you now, and He is the LORD that healeth you."
+      ],
+      "closing": "God did not just perform a healing — He wrote Healer into His own name, and that name is standing near you.",
+      "prayer": "Heavenly Father, thank You that healing is not a reward I must earn but part of who You are — the LORD that healeth me. Forgive me for splitting Your love from Your mending, and for returning again to the things that wound me. Teach me to listen and stay close to You, the Healer. Stitch back together what has been torn in my body, my heart, and my home. In Jesus' name, Amen.",
+      "journalReflect": "Where have I separated God's love from His healing, or stopped expecting Him to mend a wound that has ached too long?",
+      "journalAct": "Bring one torn place — in your body, your grief, or a relationship — to the Healer today, and take one step away from what keeps wounding you.",
+      "visual": {
+        "sceneFamily": "storm-to-peace",
+        "environment": "Snow-globe pine forest in deep winter — just after sunrise, fresh powder on every bough, blue shadows, low amber spangling light.",
+        "palette": [
+          "#e8eef5",
+          "#aebfd0",
+          "#2e4a3f",
+          "#e8b06a",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon crisp and bright; Fraunces 600 — cold air makes every stroke sparkle.",
+        "motion": [
+          "Snow-glitter particles twinkle on a staggered 8s cycle.",
+          "Low sun flares breathe ±6%; powder slips from one bough every 12s.",
+          "Reduced motion: a single still sparkle frame."
+        ],
+        "prompt": "A woman seen from behind in a deep plum winter coat standing among snow-laden pine trees just after sunrise, fresh powder glowing on every bough like a snow globe, long blue shadows across untouched drifts, low amber sun spangling the snowfall, breath visible in the cold quiet air, small wonder-filled figure inside a hushed white cathedral of trees, generous negative space in the bright upper canopy light for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The God Who Named Himself Your Healer\": God did not just perform a healing — He wrote Healer into His own name, and that name is standing near you. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-06.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-1.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 7,
+      "movement": 1,
+      "movementTitle": "Awakening",
+      "movementPromise": "The soul wakes to the Father's love.",
+      "volume": 1,
+      "volumeTitle": "Surrendering to God's Love",
+      "sourceDay": 219,
+      "selectionReason": "Provision arrives on the mountain where surrender felt most costly.",
+      "sourceMeta": "Day 218 · August 6 · Courage to Be Known",
+      "title": "The Mountain Named for the God Who Provides",
+      "scripture": {
+        "reference": "Genesis 22:14",
+        "translation": "KJV",
+        "text": "And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the LORD it shall be seen."
+      },
+      "lens": "Root Word raʾah · רָאָה (Hebrew) — to see, and therefore to provide — on Moriah God's look becomes supply, and the place bears His name.",
+      "thread": {
+        "reference": "Judges 6:24",
+        "text": "Then Gideon built an altar there unto the LORD, and called it Jehovah-shalom: unto this day it is yet in Ophrah of the Abi-ezrites."
+      },
+      "body": [
+        "There are places in our lives we would rather leave unnamed, the hard mountains, the seasons of testing we do not like to revisit. But Abraham did something different on Moriah. Genesis 22:14 says, 'Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the LORD it shall be seen.' He had come to the very edge of what he could understand, and God met him there with provision. So Abraham named the mountain, not for his fear, but for the God who saw and provided. Surrender your hard places to the God who is seen there.",
+        "Notice what Abraham named the place after. Not his own obedience, not his ordeal, but the Lord's seeing and providing. The word means to see, and therefore to provide; on that mountain God's look became His supply. Abraham turned a frightening place into a permanent testimony, a memory marker that would preach 'the LORD provides' to everyone who came after. Grace forms our identity by teaching us who God is on the mountain, not only what He hands us there.",
+        "Perhaps you have a mountain you refuse to name, a place of loss, of testing, of a fear so sharp you would rather not speak of it. You leave it unmarked because naming it means remembering. Beloved, in the hands of God even that place can become testimony. He sees you at the edge of what you can bear. He provides where you cannot. The hard place does not have to keep the fear's name; it can carry His.",
+        "So name your mountain for the faithfulness of God. Praise the One who is seen and known in the very places that frightened you. No testing is beyond His provision, no edge is past His sight, and no hard place has to keep the name your fear gave it. Abraham walked down Moriah with a testimony instead of a scar. Give your mountain His name, beloved, for in the place where you were most afraid, the Lord will be seen."
+      ],
+      "closing": "The hard place does not have to keep the fear's name; it can carry the name of the God who provides.",
+      "prayer": "Father, thank You that You see me at the very edge of what I can bear and provide where I cannot. Where I have left hard places unnamed because remembering hurts, meet me there. Turn my mountains of testing into markers of Your faithfulness, and let me name them for who You are, the God who is seen and who provides. In Jesus' name, Amen.",
+      "journalReflect": "What hard place in my story have I left unnamed, and how might it change if I marked it for God's provision instead of my fear?",
+      "journalAct": "Name one difficult season for God's faithfulness today, writing down where and how He saw and provided, and let it become your testimony.",
+      "visual": {
+        "sceneFamily": "light-and-darkness",
+        "environment": "Lotus pond at first light, late summer — dew-beaded leaves, pink blooms opening, glassy water, soft rose-pearl haze.",
+        "palette": [
+          "#d97b96",
+          "#f2c9d4",
+          "#4f7d5a",
+          "#f4e2c8",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon rounded and unhurried; Fraunces italic — the pond opens slowly, so does the script.",
+        "motion": [
+          "Dew glints fade in and out on a 7s loop across the leaves.",
+          "Pond rings expand from a fallen petal every 8s; blooms breathe 2% scale.",
+          "Reduced motion: blooms held open, water glass."
+        ],
+        "prompt": "A woman seen from behind in a soft blush-pink dress kneeling at the edge of a lotus pond at first light, great round leaves beaded with dew, pink blooms opening over glassy still water, soft rose and pearl haze of late summer, distant temple pines barely visible, small reverent figure beside the awakening flowers, generous negative space in the glowing misty upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Mountain Named for the God Who Provides\": The hard place does not have to keep the fear's name; it can carry the name of the God who provides. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-07.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-1.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 8,
+      "movement": 1,
+      "movementTitle": "Awakening",
+      "movementPromise": "The soul wakes to the Father's love.",
+      "volume": 1,
+      "volumeTitle": "Surrendering to God's Love",
+      "sourceDay": 252,
+      "selectionReason": "Mercy leads the rescued forward instead of only describing where they have been.",
+      "sourceMeta": "Day 251 · September 8 · Love That Changes How We Live",
+      "title": "The God Whose Mercy Leads You Out",
+      "scripture": {
+        "reference": "Exodus 15:13",
+        "translation": "KJV",
+        "text": "Thou in thy mercy hast led forth the people which thou hast redeemed: thou hast guided them in thy strength unto thy holy habitation."
+      },
+      "lens": "Root Word ḥesed · חֶסֶד (Hebrew) — steadfast covenant love — not a passing mood but a bound promise, strong enough to lead a whole people home.",
+      "thread": {
+        "reference": "1 Peter 1:5",
+        "text": "Who are kept by the power of God through faith unto salvation ready to be revealed in the last time."
+      },
+      "body": [
+        "It is possible, beloved, to be led out of a place before your mind has learned how to be free. Israel sang about it on the far shore of the Red Sea. They did not sing, look how clever we were to escape. They sang, Thou in thy mercy hast led forth the people which thou hast redeemed. Mercy led them. Strength guided them. And it was carrying them somewhere, toward God's own holy dwelling. The Father does not just crack the door and wish you well. He leads. Surrender the whole journey to His love.",
+        "Notice that this song ties three things together: mercy, strength, and a destination. His mercy led them out, His strength guided them, and both were aimed at His holy habitation. The word for that mercy means covenant love, not a passing mood that might change tomorrow, but a bound promise, strong enough to lead a whole nation home. That is the love that leads you, too. It is not fickle. It does not open the door and abandon you in the wilderness. It walks you all the way.",
+        "Maybe God has already brought you out of something, an addiction, a toxic room, a season of shame, and yet you still feel the pull of the old country. Old fears follow you across the water. Old habits whisper that you belong back there. Old identities try to reattach themselves the moment you relax. Beloved, freedom is not only a door opened; it is a God who keeps leading. Let Him guide the part of you that has not yet learned it is free.",
+        "So follow the One who led you out, one step at a time. No wilderness between here and home is beyond His guidance. No old identity can reclaim what His mercy has redeemed. No strength is greater than the covenant love that leads you. Keep walking toward the holy habitation, trusting the God who never brings His people out only to leave them wandering."
+      ],
+      "closing": "The mercy that led you out is the strength that will lead you all the way home.",
+      "prayer": "Heavenly Father, thank You that Your mercy does not merely open the door but leads me through. Where You have brought me out, guide the part of me that has not yet learned it is free. Silence the old fears and habits that still whisper I belong back there. Lead me by Your covenant love, and walk me all the way to Your holy dwelling. In Jesus' name, Amen.",
+      "journalReflect": "What has God led me out of that still keeps calling me back, and where do I need Him to lead the part of me that hasn't learned it is free?",
+      "journalAct": "Name one old country habit or fear that still pulls at you, and take one concrete step today that walks toward freedom instead of back toward it.",
+      "visual": {
+        "sceneFamily": "intimate-devotional-portrait",
+        "environment": "Cliffside lighthouse at dawn, early autumn — calm sea below granite, the lamp still glowing as coral-rose light crests the horizon.",
+        "palette": [
+          "#274054",
+          "#e78f8f",
+          "#f6efe2",
+          "#8b8f98",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon tall and steady; Fraunces 600 with small-caps labels — a lighthouse day calls for vertical confidence.",
+        "motion": [
+          "The lamp beam sweeps a slow 20° arc on an 8s cycle.",
+          "Horizon rose deepens ±5%; gulls drift right at 4px/s on the far layer.",
+          "Reduced motion: lamp lit, beam held toward the sea."
+        ],
+        "prompt": "A woman seen from behind in a long cream cardigan and dress standing on a granite headland beside a white lighthouse at dawn, calm autumn sea below, the lamp still glowing as coral-rose light crests the horizon, gulls drifting in the salt air, weathered path winding up through coastal grass, small hopeful figure between sea and sky, generous negative space in the rose-gold upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The God Whose Mercy Leads You Out\": The mercy that led you out is the strength that will lead you all the way home. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-08.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-1.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 9,
+      "movement": 2,
+      "movementTitle": "Depths",
+      "movementPromise": "The heart discovers that Jesus meets and carries us in deep water.",
+      "volume": 1,
+      "volumeTitle": "Surrendering to God's Love",
+      "sourceDay": 324,
+      "selectionReason": "The Father gives grief room to breathe, adding emotional honesty to the visual book.",
+      "sourceMeta": "Day 323 · November 19 · Held Through the Storm",
+      "title": "The Father Who Gives Grief Time to Breathe",
+      "scripture": {
+        "reference": "Genesis 50:10",
+        "translation": "KJV",
+        "text": "And they came to the threshingfloor of Atad, which is beyond Jordan, and there they mourned with a great and very sore lamentation: and he made a mourning for his father seven days."
+      },
+      "lens": "Root Word saphad · סָפַד (Hebrew) — to lament aloud — chest-beating grief given voice and time; sorrow allowed to breathe instead of being rushed.",
+      "thread": {
+        "reference": "Job 2:13",
+        "text": "So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that his grief was very great."
+      },
+      "body": [
+        "There are moments in life when the world expects us to grieve quickly and get back to being useful. This verse refuses that pressure. Joseph and his family reach the threshing floor of Atad, and there they stop and mourn with a great and very heavy lamentation, seven full days given to sorrow over a father. No one rushes them along, no one shames the tears, no one calls the weeping weakness. Even a man as powerful and busy as Joseph, second only to Pharaoh, halts the machinery of Egypt to let his grief have its time. Beloved, the Father who ordained the seasons is not frightened by yours. When sorrow presses on you, surrender the timeline to the God who gives grief room to breathe.",
+        "Notice that the mourning here is loud and full, a great and very sore lamentation, not a quiet, tidy sadness managed behind closed doors. Scripture gives grief a voice and a calendar. That is mercy. Some healing simply cannot be rushed, because rushing it only makes it shallow. The Father does not measure your faith by how fast you stop hurting. He can hold your sorrow for as long as it takes without ever letting go of your future.",
+        "Maybe you have been apologizing for grief that has lasted longer than other people are comfortable with. Maybe you have turned your pain into busyness so no one sees the tremble. Maybe you have told yourself a woman of faith should be over this by now. Hear the mercy in this verse: sorrow is allowed to take its time in the presence of a patient God.",
+        "So give your grief to the Father and let Him set the pace. No sorrow is too heavy for Him to carry, no lament too loud for Him to hear, and no season of mourning too long for His patience. Sit under the weight if you must, but sit there with Him. The God of Atad's threshing floor is sitting with you, unhurried, until the morning comes."
+      ],
+      "closing": "Grief is not weak faith; it is love with a voice, and your Father gives it both room and time.",
+      "prayer": "Heavenly Father, thank You that You are not frightened by my sorrow and never rush me past it. When grief presses heavy on my chest, remind me that You give mourning room to breathe. Forgive me for hiding my tears or shaming myself for still hurting. Sit with me in the weight of loss, and hold my future safely even while I weep. In Jesus' name, Amen.",
+      "journalReflect": "What grief have I been rushing myself through, or apologizing for, that God is actually giving me permission to feel?",
+      "journalAct": "Set aside honest, unhurried time today to bring one loss before God in words, without editing the sorrow to sound stronger than it is.",
+      "visual": {
+        "sceneFamily": "wonder-landscape",
+        "environment": "Misty fjord in late spring — sheer green-black walls rising from still steel water, low cloud combing the cliffs, one pale sun shaft, cool silver light.",
+        "palette": [
+          "#1f2f38",
+          "#4a6157",
+          "#aebfc4",
+          "#d9c58f",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon low-contrast and quiet; Fraunces 500 — the fjord swallows loud type.",
+        "motion": [
+          "Cloud combs the cliff tops at 6px/s on the far layer.",
+          "The lone sun shaft brightens ±6% over 8s; water mirror drifts ±1px.",
+          "Reduced motion: mist frozen mid-cliff, shaft lit."
+        ],
+        "prompt": "A woman seen from behind in a slate-blue rain jacket standing at the edge of a misty fjord in late spring, sheer green-black cliff walls rising into low combing cloud, still steel-colored water holding a perfect reflection, one pale shaft of sun breaking through, cool silver light, tiny rowboat pulled ashore, small hushed figure beneath immense stone, generous negative space in the bright misty upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Father Who Gives Grief Time to Breathe\": Grief is not weak faith; it is love with a voice, and your Father gives it both room and time. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-09.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-2.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 10,
+      "movement": 2,
+      "movementTitle": "Depths",
+      "movementPromise": "The heart discovers that Jesus meets and carries us in deep water.",
+      "volume": 1,
+      "volumeTitle": "Surrendering to God's Love",
+      "sourceDay": 338,
+      "selectionReason": "The name I AM steadies the reader at the threshold of the Son's movement.",
+      "sourceMeta": "Day 337 · December 3 · Love Made Visible",
+      "title": "The Name That Steadies a Shaking World",
+      "scripture": {
+        "reference": "Exodus 3:14",
+        "translation": "KJV",
+        "text": "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you."
+      },
+      "lens": "Root Word ehyeh · אֶהְיֶה (Hebrew) — \"I am\" or \"I will be\" — the ever-present One whose being does not fluctuate with any unstable circumstance.",
+      "thread": {
+        "reference": "John 8:58",
+        "text": "Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am."
+      },
+      "body": [
+        "There are moments when everything around us seems to be shifting at once, people's reactions change, resources change, energy changes, plans change, and the ground feels like it is moving under our feet. Into that kind of instability, God gives Moses His name at the burning bush: I AM THAT I AM. Not I was, and not merely I will be, but I AM, the ever-present, ever-existing One whose being does not rise and fall with circumstances. He tells Moses to go and say, I AM hath sent me. Beloved, this name is not a slogan for us to wield for control; it is holy ground for us to stand on in trust. When your world is shaking, surrender your scattered places to the God who simply, unshakably, is.",
+        "Notice that God does not answer Moses with a résumé of His accomplishments or a promise to gather enough strength for the task. He answers with His being. He is faithful not because He is assembling power to keep His word, but because He is the living One whose presence is never borrowed from circumstances. The Father is not becoming enough for you day by day. He already is enough, and He always will be.",
+        "Maybe your days feel unstable because so much keeps changing that you cannot find your footing. Maybe you have been trying to steady yourself on things that shift, other people's moods, your bank balance, your own fluctuating strength. But none of those were made to hold you. Only the great I AM does not move.",
+        "So anchor your shaking places in the One who does not change. No circumstance can shift His being, no season can drain His presence, and no shaking is strong enough to move the God who simply is. Stop trying to steady your life on things that fluctuate. Stand on the great I AM, the same presence that steadied a shepherd at the bush will steady you today."
+      ],
+      "closing": "When everything around you shifts, stand on the one thing that never does, the great I AM.",
+      "prayer": "Heavenly Father, thank You that You are the great I AM, the ever-present One whose being never rises or falls with my circumstances. When my world keeps shifting and I cannot find my footing, teach me to stand on Your unchanging presence. Forgive me for steadying my life on things that move. You are enough, and You always will be. Anchor my scattered places in You today. In Jesus' name, Amen.",
+      "journalReflect": "What shifting things have I been trying to steady my life on instead of the unchanging presence of God?",
+      "journalAct": "When something unsettles you today, pause and name one truth about who God simply is, and anchor yourself there.",
+      "visual": {
+        "sceneFamily": "power-of-God",
+        "environment": "Red-rock canyon at first light — sun striking the rim while the floor stays in blue shadow, one winding stream catching gold.",
+        "palette": [
+          "#2e3a52",
+          "#b4694e",
+          "#e8a35c",
+          "#f2ead9",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon large and unhurried; Fraunces regular for the psalm — the canyon already whispers.",
+        "motion": [
+          "Canyon mist drifts left at 4px/s on its own layer.",
+          "Stream shimmer loops 7s; rim light breathes ±6% opacity.",
+          "Reduced motion: a static golden frame."
+        ],
+        "prompt": "A woman seen from behind in a flowing dress standing at the floor of a majestic red-rock canyon at first light, golden sun striking the canyon rim while blue shadow fills the depths, a winding stream catching gold light, vast towering walls, small hopeful figure, generous negative space in the upper sky for typography, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Name That Steadies a Shaking World\": When everything around you shifts, stand on the one thing that never does, the great I AM. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-10.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-2.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 11,
+      "movement": 2,
+      "movementTitle": "Depths",
+      "movementPromise": "The heart discovers that Jesus meets and carries us in deep water.",
+      "volume": 2,
+      "volumeTitle": "Walking with Jesus",
+      "sourceDay": 3,
+      "selectionReason": "Jesus names and claims His people before heaven, making discipleship personal.",
+      "sourceMeta": "Day 3 · January 3 · The Invitation to Follow",
+      "title": "The Lord Who Speaks Your Name Before the Angels",
+      "scripture": {
+        "reference": "Luke 12:8",
+        "translation": "KJV",
+        "text": "Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:"
+      },
+      "lens": "Root Word homologeō · ὁμολογέω (Greek) — to say the same thing, to agree aloud — confession is letting your public voice match what your heart knows of Jesus.",
+      "thread": {
+        "reference": "Revelation 3:5",
+        "text": "He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels."
+      },
+      "body": [
+        "There are moments when acknowledging Jesus out loud feels like stepping into a cold wind. A question comes up at the family table, a conversation shifts at work, and the safest thing seems to be silence. Yet in Luke 12:8 Jesus makes a stunning promise: whosoever shall confess Him before men, him shall the Son of man confess before the angels of God. What feels like a small, risky word down here echoes all the way into heaven. You never confess Him alone. Surrender your fear of faces to His love, and let Him be worth naming.",
+        "Notice that confession here is not a performance on a stage. To confess simply means to say the same thing, to let your public voice agree aloud with what your heart already knows about Jesus. And notice the beautiful exchange: your earthly word receives a heavenly answer. You name Him before people who may shrug, and He names you before angels who rejoice. That is no small trade. Faithful allegiance, however quiet, is never lost on the Lord.",
+        "Maybe today the pressure is not persecution but embarrassment, the fear of being thought strange, the worry of losing approval, the temptation to keep your faith folded up and private. Beloved, following Jesus lets belonging become visible in grief, in the workplace, in prayer, in how you treat people. It may look like refusing shame, speaking truth kindly, or letting your values show without apology. Worry asks how people will respond. Jesus simply asks whether you will follow.",
+        "So choose one honest place to acknowledge Him today, before you know how it lands. No faithful word is ever wasted; no quiet confession goes unheard; no name spoken for Christ is forgotten by Christ. Lift your head and speak, knowing the One you name is naming you in glory. The Savior who stands for you before the angels is more than able to stand with you before people. Walk out and let Him be seen."
+      ],
+      "closing": "Name Him before people who may shrug, and He names you before angels who rejoice.",
+      "prayer": "Lord Jesus, thank You that when I confess You before others, You confess me before the angels of God. Free me from the fear of faces and the hunger for approval. Give me courage to let my belonging to You be seen in ordinary places, spoken kindly and without shame. Help me choose You out loud today, trusting that You are naming me in glory. In Jesus' name, Amen.",
+      "journalReflect": "Where in my life have I kept my faith folded up and private because I feared what people would think?",
+      "journalAct": "Choose one honest place today, a conversation, a decision, or a kindness, to let your belonging to Jesus be visible, and follow through on it.",
+      "visual": {
+        "sceneFamily": "nature-symbol",
+        "environment": "Coral-turquoise shallows over white sand — late tropical morning, sun overhead turning water to glass, coral gardens below, caustic light dancing.",
+        "palette": [
+          "#2e8fa3",
+          "#7fd4d1",
+          "#f4efe0",
+          "#d97b6c",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon buoyant and bright; Fraunces 500 italic — sunlight through water wants lift, not weight.",
+        "motion": [
+          "Caustic light ripples across the sand on a 6s loop.",
+          "Tiny silver fish drift through at 5px/s; surface dapple breathes ±5%.",
+          "Reduced motion: caustics stilled at full sparkle."
+        ],
+        "prompt": "A woman seen from behind in a white cotton dress wading through crystal coral-turquoise shallows over white sand, late tropical morning sun overhead turning the water to rippling glass, coral gardens and tiny silver fish below the surface, gentle horizon of deep blue sea, caustic light dancing everywhere, small joyful figure inside luminous water, generous negative space in the clear bright upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Lord Who Speaks Your Name Before the Angels\": Name Him before people who may shrug, and He names you before angels who rejoice. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-11.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-2.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 12,
+      "movement": 2,
+      "movementTitle": "Depths",
+      "movementPromise": "The heart discovers that Jesus meets and carries us in deep water.",
+      "volume": 2,
+      "volumeTitle": "Walking with Jesus",
+      "sourceDay": 13,
+      "selectionReason": "The call to take up the cross keeps the visual devotional from becoming shallow inspiration.",
+      "sourceMeta": "Day 13 · January 13 · The Invitation to Follow",
+      "title": "The Lord Who Calls Us to Take Up the Cross and Follow",
+      "scripture": {
+        "reference": "Matthew 10:38",
+        "translation": "KJV",
+        "text": "And he that taketh not his cross, and followeth after me, is not worthy of me."
+      },
+      "lens": "Root Word stauros · σταυρός (Greek) — the cross, an execution stake — Jesus names the instrument of dying as the daily shape of following Him.",
+      "thread": {
+        "reference": "Luke 9:23",
+        "text": "And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me."
+      },
+      "body": [
+        "It is possible to admire Jesus from a safe and comfortable distance, to love the idea of Him while quietly keeping our own life under our own control. But Matthew 10:38 will not let us stay there. Jesus says plainly that he that taketh not his cross, and followeth after Him, is not worthy of Him. That sounds severe until you see what it frees us from. The cross-shaped road is not punishment for beloved people; it is the way His love pries our fingers off comfort, approval, and control. Surrender the driving seat to His love, and follow.",
+        "Notice that Jesus ties two things together, taking up the cross, and following after Him. The word 'cross' meant an execution stake, the end of self-rule. He is naming the daily shape of discipleship: a heart that stops crowning its own comfort king. This is not God being cruel to His children. It is God setting them free, because a life ruled by fear, approval, and self-protection is a heavy, anxious way to live. The cross lays that burden down.",
+        "Perhaps today the real weight you carry is not a literal cross but a life bent on protecting itself, chasing approval, avoiding risk, needing control, managing everyone's opinion of you. Beloved, Jesus offers a better authority than fear. He does not ask you to strive your way to worthiness. He asks you to lay down the exhausting rule of self and follow the One who is trustworthy with your whole life.",
+        "And here is the rest beneath the call: Jesus carries His cross first. We follow from rest, not from panic. No surrender you make to Him is a loss you will regret; no comfort laid down for Christ is comfort truly lost; no cross taken up in His steps is carried alone. Praise the Lord who leads the way to Calvary and back. Take up your cross today, not in dread but in freedom, and follow the One already carrying yours."
+      ],
+      "closing": "The cross is not punishment for beloved people, it is how His love sets the heart free.",
+      "prayer": "Lord Jesus, You call me to take up my cross and follow, and I confess how often I would rather admire You from a comfortable distance. Free me from the exhausting rule of self-protection, approval, and control. Teach me that the cross-shaped road is Your love setting me free, not punishing me. Because You carried Yours first, help me follow from rest and not from fear. In Jesus' name, Amen.",
+      "journalReflect": "What comfort, approval, or control is quietly ruling my heart and keeping me at an admiring distance from truly following Jesus?",
+      "journalAct": "Name one 'cross', a self-protective habit or comfort, that Jesus is asking you to lay down today, and take one concrete step to follow Him instead.",
+      "visual": {
+        "sceneFamily": "biblical-symbol",
+        "environment": "Night sea under stars, warm summer midnight — velvet constellations, a moonpath silvering gentle swells, starlight the only lamp.",
+        "palette": [
+          "#0c1c33",
+          "#274b73",
+          "#c8d4e6",
+          "#f2e3b3",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon at its most delicate, moonlit; Fraunces 400 — starlight reads best in a hush.",
+        "motion": [
+          "Stars twinkle on staggered 7s cycles; the Milky Way stays fixed.",
+          "Moonpath shimmer scrolls 3px/s; swells lift the hemline reflection ±2px.",
+          "Reduced motion: stars fixed, sea held mid-swell."
+        ],
+        "prompt": "A woman seen from behind in a flowing indigo dress standing on a warm summer beach at midnight, velvet sky crowded with constellations, a bright moonpath silvering the gentle swells, the Milky Way arching overhead, waves folding softly at her feet, starlight the only lamp, small contemplative figure beneath the whole arc of heaven, generous negative space in the star-filled upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Lord Who Calls Us to Take Up the Cross and Follow\": The cross is not punishment for beloved people, it is how His love sets the heart free. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-12.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-2.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 13,
+      "movement": 2,
+      "movementTitle": "Depths",
+      "movementPromise": "The heart discovers that Jesus meets and carries us in deep water.",
+      "volume": 2,
+      "volumeTitle": "Walking with Jesus",
+      "sourceDay": 25,
+      "selectionReason": "Christ's patient knock creates an intimate scene of invitation and response.",
+      "sourceMeta": "Day 25 · January 25 · The Invitation to Follow",
+      "title": "The Christ Who Stands and Knocks",
+      "scripture": {
+        "reference": "Revelation 3:20",
+        "translation": "KJV",
+        "text": "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me."
+      },
+      "lens": "Root Word krouō · κρούω (Greek) — to knock — present tense, a continuing knock; Jesus will not force the door He died to open, so He keeps knocking.",
+      "thread": {
+        "reference": "Song of Solomon 5:2",
+        "text": "I sleep, but my heart waketh: it is the voice of my beloved that knocketh, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night."
+      },
+      "body": [
+        "There is a particular ache in being left on the outside—standing on a porch, knuckles raised, wondering if anyone within will answer. What steals the breath about this verse is who is doing the standing. It is not us knocking to get into heaven; it is the Lord Jesus, standing at a door and knocking to be let in. He first spoke these words to a church grown comfortable and lukewarm, so busy with its own affairs that it had, without meaning to, left Him outside. Even there, He did not walk away. He knocked.",
+        "Hear everything the verse says He is doing. He stands—patient, not barging through. He knocks—persistent, unwilling to be forgotten. And He speaks, for He says, 'if any man hear my voice'; His knock is never silent, it carries a call meant for your ears. Then notice what He asks for once the door swings wide: not an inspection, not a lecture, but a meal. 'I will sup with him, and he with me.' The Savior of the world wants to sit at your table. That is what He is after—nearness and company.",
+        "Maybe you recognize yourself in that lukewarm church—still religious, but the fire has cooled, and worship has become routine. Or maybe you simply feel far from Him and assume He has moved on. Beloved, listen: the knocking has not stopped. That restlessness you feel, that quiet tug during a song or in the dark of the night, may be the sound of His voice at the door. He is not pounding in anger; He is calling you to come and stay.",
+        "So do not wait until you feel worthy to answer—hear His voice and open today. Open before the house is tidy, open before you understand it all, open while the knock is still sounding. No lukewarm season is beyond His patience, no closed door outlasts His knocking, and no one who opens is ever turned away. He is standing there still, longing to come in and sup with you."
+      ],
+      "closing": "Christ is not knocking to inspect your house—He is knocking to share your table.",
+      "prayer": "Lord Jesus, thank You that You are still standing at the door, still knocking, still calling my name when I have grown cold. Forgive me for the times I left You waiting outside my own busy life. I hear Your voice today, and I open the door. Come in. Sit with me, sup with me, and make Your home in my heart. In Jesus' name, Amen.",
+      "journalReflect": "Where have I, like the lukewarm church, quietly left Christ standing outside a room of my life?",
+      "journalAct": "Name one 'closed room' you have kept Him out of, and today speak a simple prayer opening that door and inviting Him to sit with you there.",
+      "visual": {
+        "sceneFamily": "storm-to-peace",
+        "environment": "Thunderstorm edge over wheat plains, late afternoon — half the sky black-blue with rain curtains, half blazing low gold, wind rolling through the grain.",
+        "palette": [
+          "#1e2430",
+          "#4b5568",
+          "#e3b34e",
+          "#f6d98f",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon held calm against the storm; Fraunces 700 for “Peace, be still” — the command carries the card.",
+        "motion": [
+          "Rain curtains advance at 4px/s on the far layer; the gold break holds.",
+          "Soft distant lightning flickers on a 9s cycle — glow only, never a flash; wheat rolls on a 6s wave.",
+          "Reduced motion: storm held at the horizon break."
+        ],
+        "prompt": "A woman seen from behind in a wheat-toned dress standing at the edge of a golden wheat plain in late afternoon, half the sky black-blue with advancing rain curtains and distant lightning, the other half blazing with low gold sun, wind rolling through the grain in waves, a lone farmhouse far away, small courageous figure beneath a divided sky, generous negative space in the dramatic upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Christ Who Stands and Knocks\": Christ is not knocking to inspect your house—He is knocking to share your table. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-13.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-2.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 14,
+      "movement": 2,
+      "movementTitle": "Depths",
+      "movementPromise": "The heart discovers that Jesus meets and carries us in deep water.",
+      "volume": 2,
+      "volumeTitle": "Walking with Jesus",
+      "sourceDay": 65,
+      "selectionReason": "Peter's courage waits for Jesus to say come before stepping onto impossible water.",
+      "sourceMeta": "Day 64 · March 5 · The Way of the Kingdom",
+      "title": "The Courage That Waits for Jesus to Say Come",
+      "scripture": {
+        "reference": "Matthew 14:28",
+        "translation": "KJV",
+        "text": "And Peter answered him and said, Lord, if it be thou, bid me come unto thee on the water."
+      },
+      "lens": "Root Word keleuō · κελεύω (Greek) — to command, to give the word — Peter will not step onto the sea without an order from Jesus' own mouth",
+      "thread": {
+        "reference": "John 6:68",
+        "text": "Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life."
+      },
+      "body": [
+        "There is a kind of courage that is really just impulse, jumping because the moment is dramatic, forcing a door because we cannot bear to wait, moving fast so people will call us brave. When Peter saw Jesus walking on the storm-tossed sea, he felt that pull too. But watch what he did. He did not simply fling himself over the side. He said, \"Lord, if it be thou, bid me come.\" He wanted the water, but only if Jesus said the word. That small sentence is the whole difference between faith and foolishness.",
+        "Notice that Peter tied his boldness to the command of Christ. He was willing to do the impossible, but he would not take a single step until it came from Jesus' own mouth. Faith is not the same thing as nerve. Faith listens first. It waits for the voice, and then it moves without hesitation. The bravest thing Peter did that night was not walking on water; it was refusing to walk until his Lord said come.",
+        "Maybe you feel the pressure to prove your courage right now, to make a big move, force an answer, or jump before you have heard from God. Or maybe fear has frozen you at the edge of the boat, sure that stepping out means sinking. Hear this: you do not have to manufacture bravery, and you do not have to stay stuck. You only have to listen for Jesus and obey the word when it comes.",
+        "So bring your next step to Him before you take it. No storm can drown the word of Christ, no wave is stronger than His command, and no faith rooted in His voice is ever misplaced. Wait for Him to say come, and when He does, step out onto the impossible without fear."
+      ],
+      "closing": "Faith is not the leap; faith is waiting for Jesus to say come, then going.",
+      "prayer": "Lord Jesus, teach me the difference between faith and impulse. Keep me from jumping just to prove I am brave, and keep me from freezing when You call me to move. I want to hear Your voice before I take my next step. Command my courage, steady my feet, and let me walk toward You even over deep water. In Jesus' name, Amen.",
+      "journalReflect": "Where am I tempted to move on impulse to prove myself, instead of waiting to hear from Jesus?",
+      "journalAct": "Bring one pending decision to God today and ask Him for His word before you act on it.",
+      "visual": {
+        "sceneFamily": "light-and-darkness",
+        "environment": "Bioluminescent shore at midnight — folding waves glowing electric blue, footprints sparking on wet sand, moonless sky full of stars.",
+        "palette": [
+          "#0a1420",
+          "#123a52",
+          "#35e0d0",
+          "#9ff5ea",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon glowing, high-contrast; Fraunces 500 — biolume nights want the script to feel lit from within.",
+        "motion": [
+          "Biolume pulses where the waves fold, on a 6s glow loop.",
+          "Foam edge creeps at 3px/s; footprints spark once then fade over 8s.",
+          "Reduced motion: the shore glows at full, static."
+        ],
+        "prompt": "A woman seen from behind in a dark flowing dress walking along a bioluminescent shore at midnight, every folding wave glowing electric blue, wet sand sparkling with each footprint, moonless sky full of stars, dark headlands framing the glittering bay, the surf line pulsing with cold fire, small awestruck figure wading through living light, generous negative space in the starry upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Courage That Waits for Jesus to Say Come\": Faith is not the leap; faith is waiting for Jesus to say come, then going. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-14.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-2.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 15,
+      "movement": 2,
+      "movementTitle": "Depths",
+      "movementPromise": "The heart discovers that Jesus meets and carries us in deep water.",
+      "volume": 2,
+      "volumeTitle": "Walking with Jesus",
+      "sourceDay": 100,
+      "selectionReason": "Compassion for the crowd reveals how Jesus sees need before demanding strength.",
+      "sourceMeta": "Day 99 · April 9 · Mercy at the Table",
+      "title": "The Shepherd Moved With Compassion for the Crowd",
+      "scripture": {
+        "reference": "Mark 6:34",
+        "translation": "KJV",
+        "text": "And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things."
+      },
+      "lens": "Root Word poimēn · ποιμήν (Greek) — shepherd — the presence that turns a scattered crowd back into a flock; Jesus sees the lack and answers it with Himself.",
+      "thread": {
+        "reference": "Numbers 27:17",
+        "text": "Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the LORD be not as sheep which have no shepherd."
+      },
+      "body": [
+        "When you are tired and stretched thin, people can start to feel like interruptions—one more demand, one more voice, one more need pulling at you. It is a very human way to grow numb. But watch Jesus in Mark 6:34. He is weary, He has come away to rest, and a great crowd finds Him anyway. And what rises in Him is not irritation—it is compassion. He looks at the multitude and is moved to the depths, because they were as sheep without a shepherd. He did not see interruptions. He saw people who had no one to lead them home.",
+        "Notice what His compassion did. He saw the lack—shepherdless sheep, scattered and unguided—and He answered it with Himself: He began to teach them many things. He did not merely feel sorry; He stepped into the empty place they had been longing for. And notice what this means for us. Following Jesus is not only about believing the right things; it is about learning how He sees. The disciple cannot stay close to this Lord and remain untouched. His compassion begins to reshape what we notice and what we refuse to dismiss.",
+        "Perhaps your own heart has grown numb, and people have become a blur of demands. Ask Jesus to give you His eyes again. Or perhaps you are the one who feels like a sheep without a shepherd—unled, unguided, wondering if anyone truly sees you. Beloved, look at this verse and let it settle deep. The very thing that moved Jesus was a crowd exactly like you. He is not too tired for you, not too busy for you. He sees your lack, and He answers it by giving you Himself.",
+        "So come to the Shepherd today, and let His compassion move you too. No crowd is too large for His tender eyes, no person too small to be seen, no weary heart too numb for Him to soften. The One who was moved for the shepherdless is moved for you, and He is teaching you to see the way He sees. Let Him shepherd you—then go and let His compassion flow through you to the next sheep who needs a shepherd."
+      ],
+      "closing": "Jesus never saw a crowd of interruptions—He saw sheep who needed a Shepherd, and He still does.",
+      "prayer": "Lord Jesus, Good Shepherd, forgive me for the numbness that turns people into interruptions. Give me Your eyes to see them with compassion. And where I myself feel scattered and shepherdless, thank You that I am exactly the kind of soul that moves Your heart. Shepherd me, teach me, and let Your compassion flow through me to others who need leading home. In Jesus' name, Amen.",
+      "journalReflect": "Have people become interruptions to me lately, or am I the one feeling shepherdless—and how does Jesus' compassion meet me right there?",
+      "journalAct": "Ask Jesus for His eyes today, then truly see and show compassion to one person you would normally overlook.",
+      "visual": {
+        "sceneFamily": "intimate-devotional-portrait",
+        "environment": "Cypress swamp at mid-morning — black tea-still water among knees and Spanish moss, hard golden sunbeams cutting canopy to the dark surface.",
+        "palette": [
+          "#1c2b24",
+          "#5c6e4f",
+          "#e3c16f",
+          "#f4e9c8",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon warm and shaded; Fraunces 500 — sunbeams through moss ask for amber, not glare.",
+        "motion": [
+          "Sun shafts breathe ±7% opacity on an 8s loop.",
+          "Motes drift down at 2px/s; one ripple crosses the black water every 10s.",
+          "Reduced motion: shafts lit steady, water still."
+        ],
+        "prompt": "A woman seen from behind in an olive-green dress standing on a wooden boardwalk through a cypress swamp at mid-morning, black tea-colored water perfectly still among knees and Spanish moss, hard shafts of golden sunlight cutting down through the canopy to the dark surface, egret feathers and drifting motes in the beams, small still figure inside shadow and gold, generous negative space in the glowing upper canopy light for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Shepherd Moved With Compassion for the Crowd\": Jesus never saw a crowd of interruptions—He saw sheep who needed a Shepherd, and He still does. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-15.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-2.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 16,
+      "movement": 2,
+      "movementTitle": "Depths",
+      "movementPromise": "The heart discovers that Jesus meets and carries us in deep water.",
+      "volume": 2,
+      "volumeTitle": "Walking with Jesus",
+      "sourceDay": 134,
+      "selectionReason": "The hand and voice of Jesus answer fear with nearness.",
+      "sourceMeta": "Day 133 · May 13 · Faith That Reaches for Jesus",
+      "title": "The Hand That Touches and Says, Do Not Be Afraid",
+      "scripture": {
+        "reference": "Matthew 17:7",
+        "translation": "KJV",
+        "text": "And Jesus came and touched them, and said, Arise, and be not afraid."
+      },
+      "lens": "Root Word haptomai · ἅπτομαι (Greek) — to touch, take hold of — the Gospels' word for Jesus' healing contact; glory bends down and steadies trembling shoulders.",
+      "thread": {
+        "reference": "Daniel 10:18",
+        "text": "Then there came again and touched me one like the appearance of a man, and he strengthened me,"
+      },
+      "body": [
+        "Fear has a way of putting us flat on the ground. On the mountain, when the glory blazed and the voice spoke from the cloud, the disciples fell on their faces, undone and afraid. And what did the Lord of that glory do? Matthew 17:7 tells us: 'And Jesus came and touched them, and said, Arise, and be not afraid.' He did not thunder at them from a distance. He came near. He reached down. He touched trembling shoulders and called them up out of their fear. His authority did not crush them; His presence lifted them. And that same gentle nearness is what our fearful hearts can surrender to today.",
+        "Notice the order of things. First He came—He closed the distance. Then He touched—the same hand that healed the sick and raised the dead now steadying frightened disciples. Then He spoke—'Arise, and be not afraid.' Jesus does not separate His command from His touch. He never tells us to rise without also reaching down to lift us. That is the kind of Lord He is: glory that bends low, majesty that steadies shaking hands, holy nearness that can be trusted.",
+        "Perhaps today fear has put you face-down—dread about tomorrow, grief that pins you where you lie, shame that whispers you should stay down. Hear the tenderness in His command. He is not standing over you, impatient. He is kneeling beside you, His hand already on your shoulder, saying 'Arise.' You are not being scolded up; you are being lifted up.",
+        "Today, let the hand of Jesus raise you, and rise. No fear is stronger than His touch, no dread can hold you down when He says arise, and no darkness can keep you on the ground once His hand is on your shoulder. He leads not by intimidation but by holy nearness. Feel His touch, hear His voice, and get up—you have nothing to fear with His hand on you."
+      ],
+      "closing": "He does not scold you up—He kneels beside you, touches your shoulder, and says, Arise, and be not afraid.",
+      "prayer": "Lord Jesus, when fear has put me face-down, thank You that You come near, You touch, and You lift. I feel Your hand on my shoulder even now. Give me courage to answer Your command—Arise, and be not afraid. Let me trust the tenderness of Your authority, the majesty that bends low to steady me. Raise me up, and lead me forward by Your holy nearness. In Jesus' name, Amen.",
+      "journalReflect": "What fear has me 'face-down' right now, and can I picture Jesus kneeling beside me with His hand on my shoulder, saying 'Arise'?",
+      "journalAct": "Name one fear you have been lying under and take one concrete step of obedience today as your answer to His 'Arise, and be not afraid.'",
+      "visual": {
+        "sceneFamily": "wonder-landscape",
+        "environment": "Volcanic black-sand beach in winter — powerful white surf, sea stacks offshore, a clearing sky breaking into silver-gold shafts, cold salt wind.",
+        "palette": [
+          "#171a1f",
+          "#3d4856",
+          "#c9d3d8",
+          "#e0bd7f",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon strong with full pressure; Fraunces 700 — black sand and white surf take a firm hand.",
+        "motion": [
+          "Surf rolls in on an 8s loop, the foam edge advancing 6px each pass.",
+          "Salt spray drifts left at 4px/s; clearing-sky gold brightens ±5%.",
+          "Reduced motion: a wave held mid-break, sky lit."
+        ],
+        "prompt": "A woman seen from behind in a charcoal-grey winter coat standing on a volcanic black-sand beach as powerful white surf rolls in, dramatic winter sky clearing into shafts of silver-gold light, dark sea stacks rising offshore, foam patterns racing up the glittering black sand, cold wind carrying salt spray, small steadfast figure before the roaring sea, generous negative space in the breaking-cloud upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Hand That Touches and Says, Do Not Be Afraid\": He does not scold you up—He kneels beside you, touches your shoulder, and says, Arise, and be not afraid. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-16.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-2.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 17,
+      "movement": 3,
+      "movementTitle": "Wonders",
+      "movementPromise": "The road with Jesus opens into the Spirit's living wonder.",
+      "volume": 2,
+      "volumeTitle": "Walking with Jesus",
+      "sourceDay": 158,
+      "selectionReason": "Jesus walks into the storm in the dark, an ideal hinge from depths into wonder.",
+      "sourceMeta": "Day 157 · June 6 · Prayer and Abiding",
+      "title": "He Comes Walking on the Storm in the Dark",
+      "scripture": {
+        "reference": "Mark 6:48",
+        "translation": "KJV",
+        "text": "And he saw them toiling in rowing; for the wind was contrary unto them: and about the fourth watch of the night he cometh unto them, walking upon the sea, and would have passed by them."
+      },
+      "lens": "Root Word peripateō · περιπατέω (Greek) — to walk about — the ordinary word for walking, here done on storm water, as though the sea were a road.",
+      "thread": {
+        "reference": "Job 9:8",
+        "text": "Which alone spreadeth out the heavens, and treadeth upon the waves of the sea."
+      },
+      "body": [
+        "Anyone who has rowed against a contrary wind knows the exhaustion of it. You pull and pull and the shore never gets closer. The night drags on, your arms give out, and there is no sign the struggle will ever end. That was the disciples' long night on the sea. Mark 6:48 says Jesus saw them toiling in rowing; for the wind was contrary unto them, and it was the fourth watch, the darkest, latest hour before dawn, when He came to them walking on the water. Beloved, notice that He did not wait for the wind to die down before He came. His nearness did not require calm water. Abiding in a storm does not mean pretending the wind is gentle. It means staying with Christ when He comes near in the very hour you thought you were alone. Surrender the long night to His love.",
+        "Notice where Jesus chose to walk. He came striding across the very sea that was fighting His friends. The waves that threatened to swallow them became the road under His feet. To walk upon the sea is something only God can do, and here He does it in the dark, moving straight toward frightened, worn-out people. That tells you something about how Christ comes. He does not always still the storm before He shows up. Sometimes He walks in on top of it, turning the thing that terrifies you into the pathway of His arrival. So watch for Him inside the hour you would most like to skip.",
+        "Perhaps you are in a fourth-watch season right now. You have been straining against something for so long that you are bone-tired, and the wind has not shifted, and dawn feels like a rumor. And the temptation is to believe that because the storm has not stopped, the Lord is nowhere near. Hear me, child: Christ's peace under pressure is not first the absence of waves. It is the presence of Jesus coming toward you across them. He sees you toiling. He always has. And He is nearer in the dark watch than your tired eyes can yet make out.",
+        "So keep watching for Him before the wind lays down. No storm is too fierce to be His road. No watch of the night is too dark for Him to cross. No struggle has hidden you from the One who saw you toiling all along. Let His nearness, not the calm, be the thing that steadies you, and hold on until the God who walks on water reaches your boat."
+      ],
+      "closing": "He does not always still the storm before He comes; sometimes He walks in on top of it.",
+      "prayer": "Lord Jesus, thank You that You saw the disciples toiling in the dark and came to them across the very sea that fought them. When my night is long and the wind will not turn, remind me that Your nearness does not wait for calm water. Help me watch for You in the hour I would rather skip. Let Your presence steady me before the storm ever stops. Come to my boat. In Jesus' name, Amen.",
+      "journalReflect": "In what long, exhausting 'fourth watch' am I assuming Jesus is absent because the storm has not calmed?",
+      "journalAct": "Instead of waiting for your circumstance to change, watch for Jesus in it today, naming one way He is drawing near right now.",
+      "visual": {
+        "sceneFamily": "power-of-God",
+        "environment": "Desert dunes at blue hour, high summer — long violet shadows in the ripples, the last amber band on the western crest, first stars overhead.",
+        "palette": [
+          "#2c2a4a",
+          "#6a5a8e",
+          "#d9a05b",
+          "#efe4cf",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon cool and spacious; Fraunces 500 — blue hour wants room between every letter.",
+        "motion": [
+          "Ripple shadows lengthen 3% over an 8s dusk loop.",
+          "First stars fade in staggered; the violet wash deepens ±5%.",
+          "Reduced motion: blue hour held at its peak."
+        ],
+        "prompt": "A woman seen from behind in a flowing dusty-rose dress standing on the crest of a vast desert dune at blue hour, long violet shadows filling the sand ripples below, the last amber band of sun burning along the western horizon, first stars appearing overhead, wind combing the ridge line, small peaceful figure inside waves of cooling sand, generous negative space in the deep violet upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"He Comes Walking on the Storm in the Dark\": He does not always still the storm before He comes; sometimes He walks in on top of it. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-17.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-3.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 18,
+      "movement": 3,
+      "movementTitle": "Wonders",
+      "movementPromise": "The road with Jesus opens into the Spirit's living wonder.",
+      "volume": 2,
+      "volumeTitle": "Walking with Jesus",
+      "sourceDay": 199,
+      "selectionReason": "Seventy-times-seven forgiveness makes Christ's kingdom practical and costly.",
+      "sourceMeta": "Day 198 · July 17 · The Cross-Shaped Life",
+      "title": "Forgive Until Seventy Times Seven",
+      "scripture": {
+        "reference": "Matthew 18:22",
+        "translation": "KJV",
+        "text": "Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven."
+      },
+      "lens": "Root Word hebdomēkontakis · ἑβδομηκοντάκις (Greek) — seventy times — a number built to break the counting habit, carrying mercy past the last edge of arithmetic.",
+      "thread": {
+        "reference": "Genesis 4:24",
+        "text": "If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold."
+      },
+      "body": [
+        "When someone wounds us, the heart wants to keep count. We remember the offenses, we tally the hurts, we decide how much mercy a person has left before we cut them off. Peter thought he was being generous when he offered to forgive seven times. But in this verse Jesus answers, I say not unto thee, Until seven times, but, Until seventy times seven. He is not raising the limit. He is tearing up the ledger altogether.",
+        "Notice that Jesus is not handing out a bigger number to count to. The number He gives is built to break the counting habit, to carry mercy past the last edge of arithmetic. This matters because forgiveness reveals who is really ruling the inner life. Hurt wants to keep score. Pride wants to measure. Fear wants to tally offenses for protection. Jesus, as Lord, leads the heart out of the tyranny of the ledger.",
+        "Maybe you are holding a record right now — the things said, the promises broken, the ways you were wronged. You have every human reason to keep it. Beloved, Jesus is not asking you to pretend the harm did not happen or to abandon wisdom. He is asking to be Lord even over the place where you keep accounts, because carrying that ledger is quietly ruling you, and He wants to set you free.",
+        "So hand Him the record you have been guarding. No offense is beyond the mercy He pours through a surrendered heart, no wound is too deep for His healing, and no ledger is worth the freedom you lose by keeping it. The way of Jesus multiplies mercy where the world multiplies revenge. The Lord who said seventy times seven is ready to be Lord over your counting today — and to trade your ledger for His peace."
+      ],
+      "closing": "Jesus did not raise the limit on forgiveness; He tore up the ledger.",
+      "prayer": "Lord Jesus, thank You for tearing up the ledger I keep so carefully. When I have been wronged, my heart wants to count and measure and keep score. Be Lord even over that hidden place where I hold accounts. You are not asking me to deny the harm, only to stop letting it rule me. Trade my counting for Your peace, and multiply Your mercy through my surrendered heart. In Jesus' name, Amen.",
+      "journalReflect": "What record of wrongs am I still keeping, and how is holding that ledger quietly ruling my inner life instead of Jesus?",
+      "journalAct": "Name one person you have been keeping score against, and take one step today to release the ledger to Jesus — in prayer, a word, or an act of mercy.",
+      "visual": {
+        "sceneFamily": "nature-symbol",
+        "environment": "Aurora over snow, subarctic winter night — green and violet curtains folding over a frozen river valley, snow faintly glowing, profound silence.",
+        "palette": [
+          "#0e2233",
+          "#2e7d6b",
+          "#9d7fc4",
+          "#e8f0f4",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon luminous with long flourishes; Fraunces 400 — the sky is moving; the type should float.",
+        "motion": [
+          "Aurora curtains fold slowly on an 8s loop, never repeating exactly.",
+          "Snow glow pulses ±4% beneath the lights; stars stay fixed.",
+          "Reduced motion: the aurora held mid-curtain."
+        ],
+        "prompt": "A woman seen from behind in a white winter parka standing in a frozen subarctic river valley at night, great curtains of green and violet aurora folding across the entire sky, fresh snow glowing faintly under the lights, black spruce silhouettes along the ridge, breath rising in the profound silence, small wonder-struck figure beneath the dancing heavens, generous negative space among the aurora-lit upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"Forgive Until Seventy Times Seven\": Jesus did not raise the limit on forgiveness; He tore up the ledger. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-18.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-3.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 19,
+      "movement": 3,
+      "movementTitle": "Wonders",
+      "movementPromise": "The road with Jesus opens into the Spirit's living wonder.",
+      "volume": 2,
+      "volumeTitle": "Walking with Jesus",
+      "sourceDay": 209,
+      "selectionReason": "Jesus immediately reaches for the sinking disciple rather than watching from safety.",
+      "sourceMeta": "Day 208 · July 27 · The Cross-Shaped Life",
+      "title": "Immediately Jesus Stretched Forth His Hand",
+      "scripture": {
+        "reference": "Matthew 14:31",
+        "translation": "KJV",
+        "text": "And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?"
+      },
+      "lens": "Root Word oligopistos · ὀλιγόπιστος (Greek) — little-faith — Jesus' tender nickname for a held disciple; the correction comes after the rescue, spoken inside His grip.",
+      "thread": {
+        "reference": "Psalm 138:7",
+        "text": "Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me."
+      },
+      "body": [
+        "There are moments when we feel ourselves going under — the waves rise higher than our faith, the wind drowns out our courage, and we sink in the very place we were just walking. Peter knew that terror on the water. But look how fast the rescue came: \"immediately Jesus stretched forth his hand, and caught him.\" Not after a lecture, not after Peter proved himself, not after the storm was scolded quiet — immediately. Jesus saves first and teaches second. When you are sinking, His hand is already reaching. Surrender your fear to a Lord who catches before He corrects.",
+        "Notice the order of that verse: the hand comes first, then the question. \"O thou of little faith, wherefore didst thou doubt?\" is spoken not from the shore but from within His grip, with Peter already safe in His hold. Jesus does not withhold rescue until faith is perfect. He catches, and then He teaches, and even His correction is tender, spoken to a disciple He is holding above the water.",
+        "Perhaps today you feel like you are going under — a fear you cannot master, a circumstance pulling you down, a sense that you cried out too late for help. Beloved, sinking is not the end of your story. The same hand that caught Peter is stretched toward you, and it is quick. You do not have to tread water until you deserve rescue. Reach for Him in the middle of the sinking, and feel how immediately He takes hold.",
+        "Today, cry out to Jesus right in the place you feel yourself going down. No wave is high enough to keep His hand from reaching you, no sinking is so fast that His grip cannot catch you, and no doubt disqualifies you from His rescue. With this held in His loving care, panic gives way to the peace of being held. Stretch out your hand, dear heart, for He is already stretching out His."
+      ],
+      "closing": "He catches before He corrects — the hand reaches you the very moment you begin to sink.",
+      "prayer": "Lord Jesus, thank You for reaching out immediately when I begin to sink. When fear pulls me under and I feel I cried too late, remind me that Your hand is already stretched toward me. Catch me, hold me, and let even Your correction come from within Your grip. Teach me to reach for You in the middle of the storm instead of waiting until I am strong. Thank You for saving me. In Jesus' name, Amen.",
+      "journalReflect": "Where do I feel myself sinking right now, and do I believe Jesus reaches to catch me immediately — before I have proven myself or calmed the storm?",
+      "journalAct": "Today, cry out to Jesus in one specific 'sinking' moment instead of trying to save yourself first.",
+      "visual": {
+        "sceneFamily": "biblical-symbol",
+        "environment": "Rainforest waterfall in the wet season, late morning — a white ribbon falling into an emerald gorge, mist rising through sun shafts, rain-jeweled leaves.",
+        "palette": [
+          "#14402e",
+          "#3e7d4f",
+          "#a8c69f",
+          "#f0ead2",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon lush and green-warm; Fraunces 600 — abundance can carry a little weight.",
+        "motion": [
+          "Mist rises from the gorge at 5px/s on its own layer.",
+          "Sun shafts sway 4° over 8s; leaf-drip glints twinkle on a 6s cycle.",
+          "Reduced motion: falls rendered as a painted shimmer."
+        ],
+        "prompt": "A woman seen from behind in a moss-green dress standing on mossy rocks beside a towering rainforest waterfall in the wet season, a tall white ribbon of water falling into an emerald gorge, mist rising through shafts of late morning sun, every leaf jeweled with rain, butterflies drifting through the spray, small exhilarated figure before thundering abundance, generous negative space in the bright misty upper falls for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"Immediately Jesus Stretched Forth His Hand\": He catches before He corrects — the hand reaches you the very moment you begin to sink. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-19.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-3.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 20,
+      "movement": 3,
+      "movementTitle": "Wonders",
+      "movementPromise": "The road with Jesus opens into the Spirit's living wonder.",
+      "volume": 2,
+      "volumeTitle": "Walking with Jesus",
+      "sourceDay": 280,
+      "selectionReason": "Resurrection hope stretches beyond the categories that once contained the reader.",
+      "sourceMeta": "Day 279 · October 6 · Life Together in Christ",
+      "title": "The Resurrection Too Large for Our Categories",
+      "scripture": {
+        "reference": "Matthew 22:28",
+        "translation": "KJV",
+        "text": "Therefore in the resurrection whose wife shall she be of the seven? for they all had her."
+      },
+      "lens": "Root Word anastasis · ἀνάστασις (Greek) — a standing up again — resurrection; a life too large for this age's categories, and no less certain for it.",
+      "thread": {
+        "reference": "Isaiah 55:8",
+        "text": "For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD."
+      },
+      "body": [
+        "There are moments in life when we try to shrink God's promises down to fit the size of our own understanding. We take His future and force it into the frame of our past fears, then decide it cannot possibly work. That is exactly what happens in this verse. Some skeptics ask Jesus whose wife a woman will be in the resurrection, since seven brothers had married her—trying to make the promise of resurrection look absurd by trapping it inside a broken earthly picture. But peace does not require you to master every mystery before you trust God. When we let His love hold the outcome, we let Him be larger than the categories our anxiety keeps reusing.",
+        "Notice what the question does: it folds a glorious, world-to-come promise into small, this-world arithmetic. And the answer is not more clever math—it is a bigger God. Peace begins where our neat categories end and His larger mind is trusted. Resurrection is a standing-up-again into a life too large for this age—no less certain for being beyond our grasp. You do not have to understand exactly how God will keep His promise in order to rest in the God who makes it.",
+        "Perhaps today your anxiety keeps trying to solve tomorrow with yesterday's fears. Maybe you turn people into puzzles to figure out, threats to manage, or obligations to control. Maybe you cannot trust what you cannot fully explain, so you stay tense, guarding a future you were never meant to command. Beloved, an unsettled heart shrinks everything down to what it can control. Jesus invites you into something deeper—a trust that rests in His greatness even when the answers do not fit inside your frame.",
+        "Today, let God be bigger than your categories. No promise of His is limited by your ability to explain it, no future is too large for the God who holds it, and no mystery you cannot solve can shake the One who has already settled it. Stop trying to control tomorrow with the fears of yesterday. The same Jesus who answered the skeptics with a greater vision of God is inviting you to rest—so loosen your grip on needing to understand, and trust the God whose ways are higher than yours."
+      ],
+      "closing": "Peace begins where your categories end and His larger mind is trusted.",
+      "prayer": "Heavenly Father, thank You that You are always larger than the frames I try to fit You into. When my anxiety shrinks Your promises down to what I can explain, forgive me and lift my eyes. Teach me to trust Your greatness even when the answers do not fit my understanding. Free me from controlling tomorrow with yesterday's fears, and help me rest in the God whose ways are higher than mine. In Jesus' name, Amen.",
+      "journalReflect": "Where am I refusing to trust God because His promise will not fit inside my understanding, and what would it look like to let Him be larger than my categories?",
+      "journalAct": "Identify one worry where you are trying to control tomorrow with yesterday's fear, and surrender it to God today, choosing to trust His greatness over your need to understand.",
+      "visual": {
+        "sceneFamily": "storm-to-peace",
+        "environment": "Redwood cathedral at golden hour, late summer — colossal trunks, god-rays through the high canopy onto fern and sorrel, motes drifting in amber light.",
+        "palette": [
+          "#4a2e22",
+          "#8a5a3a",
+          "#d9b25c",
+          "#3f5a3a",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon reverent and tall; Fraunces 500 — cathedral light wants ascenders like trunks.",
+        "motion": [
+          "God-rays breathe ±6% and rotate 2° on an 8s loop.",
+          "Spores drift down at 2px/s; sorrel leaves tremble faintly.",
+          "Reduced motion: rays fixed at full warmth."
+        ],
+        "prompt": "A woman seen from behind in a rust-orange dress standing among colossal redwood trunks at golden hour, great god-rays slanting through the high cathedral canopy onto ferns and redwood sorrel, dust motes drifting in the amber light, the forest floor soft and shadowed, immense scale dwarfing everything, small reverent figure inside living pillars, generous negative space in the glowing upper canopy for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Resurrection Too Large for Our Categories\": Peace begins where your categories end and His larger mind is trusted. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-20.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-3.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 21,
+      "movement": 3,
+      "movementTitle": "Wonders",
+      "movementPromise": "The road with Jesus opens into the Spirit's living wonder.",
+      "volume": 3,
+      "volumeTitle": "Filled with the Holy Spirit",
+      "sourceDay": 42,
+      "selectionReason": "God's breath entering dust is the clearest opening image for the Spirit's movement.",
+      "sourceMeta": "Day 42 · February 11 · Open Hands, Filled Life",
+      "title": "The God Who Breathes Life Into Dust",
+      "scripture": {
+        "reference": "Genesis 2:7",
+        "translation": "KJV",
+        "text": "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."
+      },
+      "lens": "Root Word neshamah · נְשָׁמָה (Hebrew) — breath — the intimate breath God lends His creatures; every inhale is a reminder that life is received, not manufactured.",
+      "thread": {
+        "reference": "John 20:22",
+        "text": "And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:"
+      },
+      "body": [
+        "There are days when you feel about as valuable as a handful of dirt — used up, ordinary, formed for work but running on empty. Genesis 2:7 meets you right there in the dust. The Lord God formed man from the ground, but the man did not become a living soul until God leaned close and breathed into his nostrils the breath of life. The body was shaped, but life was given. Whatever tiredness you brought into this morning, hear it: your life is not something you manufacture. It is breath God still chooses to give.",
+        "Notice that Adam did nothing to earn the first breath. He did not prove his worth, produce a single thing, or win anyone's approval before he was alive. Life came as pure gift, breathed in by God Himself. That is a word for every heart trying to justify its own existence by staying busy. Before your usefulness, before your striving, before you got one thing right, the Giver of breath decided you should live. Every inhale since has been the same mercy repeating.",
+        "Perhaps you are carrying a weary body — the aching, the sleeplessness, the healing that comes slow, the fear of getting older. The Comforter is not far from any of that. The same Spirit who hovered over creation is near your frame, your tears, your need for rest. He does not despise your weakness; He knows you are dust, and He keeps breathing life into it anyway. You do not have to gasp your way through this day proving you are alive.",
+        "So breathe today with gratitude instead of panic. No morning is too dry for His breath to reach, no body too worn for His life to fill, and no soul too ordinary for Him to call it living. Receive your life again as the gift it has always been, and let the One who breathed into dust carry you through everything this day holds."
+      ],
+      "closing": "Your very breath is God's gift, given again with every rising of the sun.",
+      "prayer": "Heavenly Father, thank You for breathing life into dust and for keeping me alive by that same mercy every day. Forgive me for trying to prove I am alive through busyness and approval. Teach me to receive my life as Your gift and to rest in Your nearness. Breathe Your Spirit into my weary places, and let gratitude replace my panic. In Jesus' name, Amen.",
+      "journalReflect": "Where have I been trying to prove I deserve to exist — through productivity, usefulness, or approval — instead of receiving my life as a gift God freely breathed into me?",
+      "journalAct": "Before you rush into today's tasks, pause for one full minute, breathe slowly, and thank God for the life He is still giving you right now.",
+      "visual": {
+        "sceneFamily": "light-and-darkness",
+        "environment": "Autumn maple path in October, mid-afternoon — a tunnel of scarlet and copper, warm low sun, leaves falling one by one onto the carpeted path.",
+        "palette": [
+          "#a8392b",
+          "#d97b3f",
+          "#f0c869",
+          "#4a3527",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon russet and relaxed; Fraunces italic — falling leaves set an easy tempo.",
+        "motion": [
+          "Leaves fall one by one on staggered 7s loops.",
+          "Path light dapples ±4%; the far blue end of the tunnel holds still.",
+          "Reduced motion: leaves suspended above the path."
+        ],
+        "prompt": "A woman seen from behind in a long cream coat walking down a path beneath a tunnel of October maple trees, scarlet and copper leaves still falling one by one, warm low afternoon sun pouring through the canopy, the path carpeted in red and gold, cool blue distance at the end of the tunnel, small unhurried figure inside a corridor of fire, generous negative space in the glowing upper canopy for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The God Who Breathes Life Into Dust\": Your very breath is God's gift, given again with every rising of the sun. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-21.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-3.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 22,
+      "movement": 3,
+      "movementTitle": "Wonders",
+      "movementPromise": "The road with Jesus opens into the Spirit's living wonder.",
+      "volume": 3,
+      "volumeTitle": "Filled with the Holy Spirit",
+      "sourceDay": 41,
+      "selectionReason": "The Spirit rests on many shoulders, replacing isolated striving with shared strength.",
+      "sourceMeta": "Day 41 · February 10 · Open Hands, Filled Life",
+      "title": "The God Who Lays His Spirit on Many Shoulders",
+      "scripture": {
+        "reference": "Numbers 11:25",
+        "translation": "KJV",
+        "text": "And the LORD came down in a cloud, and spake unto him, and took of the spirit that was upon him, and gave it unto the seventy elders: and it came to pass, that, when the spirit rested upon them, they prophesied, and did not cease."
+      },
+      "lens": "Root Word nuach · נוּחַ (Hebrew) — to rest, settle upon — the Spirit settled on seventy shoulders at once; God's power comes to rest where burdens are shared.",
+      "thread": {
+        "reference": "Joel 2:28",
+        "text": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:"
+      },
+      "body": [
+        "There are seasons when the load of caring for everybody around you settles on one set of shoulders — yours. Like Moses, worn thin by a people who needed more than he had, you may feel that if you set the weight down for one moment, everything falls. But watch what God does in Numbers 11:25. He comes down in a cloud, and He takes of the same Spirit already resting on Moses and lays it on seventy others. What one servant could not carry, God spread across many. Surrender that impossible load to His love today.",
+        "Notice that God did not simply hand Moses more strength to grip the burden tighter. He shared the Spirit. The very anointing on one weary leader became rain for seventy dry places, and when the Spirit rested on them, they prophesied and did not cease. That is the Spirit's way — He is never a private possession to be hoarded. He is poured out for the life of the whole camp, so that no one shoulder breaks under what was always meant to be carried together.",
+        "Maybe today you feel the ache of doing it alone — the exhaustion, the resentment you will not say out loud, the fear that asking for help means you have failed. Beloved, the God who filled seventy elders has not left you to prophesy by yourself. He has help already resting on the shoulders of somebody near you, and He has placed something in you that is rain for somebody else. Let Him distribute the weight.",
+        "So today, praise God before the burden lifts. No load is heavier than His Spirit is able to spread, no servant is too spent for Him to renew, and no camp is too weary for Him to fill. Stop striving to carry alone what He came down in a cloud to share. The God who anointed seventy is anointing you and the ones He set beside you."
+      ],
+      "closing": "The Spirit He puts on many shoulders was never meant to break one.",
+      "prayer": "Heavenly Father, thank You for coming down in the cloud to share Your Spirit when one servant could carry no more. I confess I have gripped my burdens alone. Teach me to surrender them to Your love and to receive the help You have placed around me. Fill me by Your Spirit, and let me be rain for someone else's dry place. In Jesus' name, Amen.",
+      "journalReflect": "What burden have I been carrying alone as if setting it down would make everything collapse, and what would it look like to let God spread that weight to the people He has already placed beside me?",
+      "journalAct": "Name one person today and either ask them for the specific help you need, or offer them the specific encouragement, prayer, or service that could be rain for their dry place.",
+      "visual": {
+        "sceneFamily": "intimate-devotional-portrait",
+        "environment": "Golden aspen tunnel in late September, morning — quaking leaves lit like coins, white trunks in pale rows, cool mountain air, spiraling gold.",
+        "palette": [
+          "#e8c56a",
+          "#f6e7b8",
+          "#f4efe2",
+          "#7a6a4f",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon golden, quick and light; Fraunces 600 — trembling leaves want a trembling script.",
+        "motion": [
+          "Aspen leaves tremble on a quick 6s shimmer.",
+          "Gold light breathes ±5%; a few leaves detach and spiral down over 8s.",
+          "Reduced motion: leaves held mid-tremble."
+        ],
+        "prompt": "A woman seen from behind in a soft caramel coat standing inside a golden aspen tunnel in late September, quaking leaves overhead lit like a thousand trembling coins, white trunks rising in pale rows, cool mountain morning air, coins of light scattered across the path, a few leaves drifting down in slow spirals, small delighted figure inside trembling gold, generous negative space in the bright upper canopy for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The God Who Lays His Spirit on Many Shoulders\": The Spirit He puts on many shoulders was never meant to break one. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-22.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-3.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 23,
+      "movement": 3,
+      "movementTitle": "Wonders",
+      "movementPromise": "The road with Jesus opens into the Spirit's living wonder.",
+      "volume": 3,
+      "volumeTitle": "Filled with the Holy Spirit",
+      "sourceDay": 87,
+      "selectionReason": "Visible fruit keeps spiritual experience accountable to transformed living.",
+      "sourceMeta": "Day 86 · March 27 · Fruit That Can Be Seen",
+      "title": "What Your Fruit Says About Your Root",
+      "scripture": {
+        "reference": "Matthew 12:33",
+        "translation": "KJV",
+        "text": "Either make the tree good, and his fruit good; or else make the tree corrupt, and his fruit corrupt: for the tree is known by his fruit."
+      },
+      "lens": "Root Word karpos · καρπός (Greek) — fruit — the visible yield of a hidden life; what a tree actually produces, and the truest testimony about its root.",
+      "thread": {
+        "reference": "Ezekiel 18:31",
+        "text": "Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?"
+      },
+      "body": [
+        "How much of our energy goes into decorating the branches—managing our behavior, looking the part, keeping the outside presentable—while the root stays untended? Jesus cuts straight through it: make the tree good, and his fruit good, for the tree is known by his fruit. You cannot fake fruit. Sooner or later, what grows tells the truth about what is planted underneath. That could feel like a threat, but it is really an invitation. Real change was never meant to happen on the branches. It begins at the root, where only God can reach. Surrender that hidden place to His love.",
+        "Notice the order Jesus gives. Make the tree good first, and then the fruit will be good. He does not say polish the fruit and hope the tree improves. He starts underground, at the source. This is exactly where the Holy Spirit loves to work. His oil goes beneath our self-display, down to the root system of the heart, forming the inner life so the outer fruit can finally come clean. You cannot argue bad fruit into good, but you can bring the root to God.",
+        "So look honestly at what has been growing. Peace, or agitation? Mercy, or contempt? Patience, or pressure? Truth, or avoidance? This is not condemnation—it is the loving diagnosis of a Gardener who means to heal you. You are not examining your fruit in order to earn God's love; you already have it. You are letting Him show you where the root needs His tending, so that what grows next actually tastes like Him.",
+        "Today, stop straining over the branches and give God the root. No tree is too corrupted for Him to make good, no fruit so bitter that grace cannot sweeten its source, no heart so hardened that the Spirit cannot soften the ground. The tree is known by its fruit—and fruit changes the moment God is allowed at the root. Let Him plant Himself deep in you, and trust the harvest to His hands."
+      ],
+      "closing": "You cannot argue bad fruit into good—but you can bring the root to God, and let Him change what grows.",
+      "prayer": "Heavenly Father, I have spent too long decorating my branches while the root went untended. Thank You that You start underground, where only You can reach. Holy Spirit, go beneath my self-display to the source of my heart and make the tree good, so the fruit can finally be good. I am not earning Your love; I am opening the root to Your care. In Jesus' name, Amen.",
+      "journalReflect": "What fruit has honestly been growing in me lately—and what does it reveal about the root God wants to tend?",
+      "journalAct": "Name one recurring bad fruit, and instead of managing the behavior, bring its root to God in prayer today.",
+      "visual": {
+        "sceneFamily": "wonder-landscape",
+        "environment": "Iceberg lagoon at first light, deep winter — blue-glass bergs drifting on black still water, pale pink sunrise behind the ice, crystalline air.",
+        "palette": [
+          "#a8d0e0",
+          "#e3eef2",
+          "#1d3040",
+          "#f0b7a8",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon crystalline, minimal flourish; Fraunces 400 — ice asks the letters to keep their edges.",
+        "motion": [
+          "Bergs drift at 1px/s on black glass water.",
+          "Sunrise pink deepens ±4% over 8s; berg edges glint on a 7s twinkle.",
+          "Reduced motion: the lagoon frozen in first light."
+        ],
+        "prompt": "A woman seen from behind in a deep navy parka standing at the edge of an iceberg lagoon at first light, great blue-glass bergs drifting on black still water, pale pink sunrise glowing behind the ice, crystalline air so clear the world feels newly made, a few seabirds crossing the light, small wondering figure before slow ancient ice, generous negative space in the pale rose upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"What Your Fruit Says About Your Root\": You cannot argue bad fruit into good—but you can bring the root to God, and let Him change what grows. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-23.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-3.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 24,
+      "movement": 3,
+      "movementTitle": "Wonders",
+      "movementPromise": "The road with Jesus opens into the Spirit's living wonder.",
+      "volume": 3,
+      "volumeTitle": "Filled with the Holy Spirit",
+      "sourceDay": 89,
+      "selectionReason": "Moses' wish that all God's people receive the Spirit widens the invitation.",
+      "sourceMeta": "Day 88 · March 29 · Fruit That Can Be Seen",
+      "title": "Moses Wished the Spirit Upon Everyone",
+      "scripture": {
+        "reference": "Numbers 11:29",
+        "translation": "KJV",
+        "text": "And Moses said unto him, Enviest thou for my sake? would God that all the LORD’s people were prophets, and that the LORD would put his spirit upon them!"
+      },
+      "lens": "Root Word qānāʾ · קָנָא (Hebrew) — to burn with jealousy or zeal — the possessive fire Moses refuses, so the Spirit's gift can be wished onto everyone.",
+      "thread": {
+        "reference": "1 Corinthians 14:5",
+        "text": "I would that ye all spake with tongues, but rather that ye prophesied: for greater is he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying."
+      },
+      "body": [
+        "Something in us stirs when another person receives the very gift we thought was ours—the calling, the recognition, the anointing. Jealousy rises quietly and whispers that our importance is under threat. In the camp of Israel, Joshua felt it and wanted Moses to silence the others who had begun to prophesy. But Moses answered, would God that all the LORD's people were prophets, and that the LORD would put his spirit upon them. He refused the jealousy and opened his hands instead. Surrender that grasping instinct to God's love, and rest in how freely He gives.",
+        "Notice how easily Moses could have guarded his position. He was the one God spoke with; no one would have blamed him for protecting that place. Yet instead of clutching the gift, he wished it multiplied onto everyone. That is leadership with open hands—and it is the very shape of the Spirit's fruit. What the Spirit grows in us is generous, not possessive. He does not need us to ration His supply, as though blessing given to another means less left for us.",
+        "Perhaps you have felt the sting of watching someone else be chosen, praised, or used in a way you longed for. Comparison tells you their rising is your shrinking, that you must protect your importance or lose it. But that fear is a lie. The Spirit can call, fill, and use another person without ever taking anything from you. Your belonging to God is not measured against anyone else's gift. There is room at His table for you both.",
+        "Today, bless what God is doing in someone else. No gift He gives to another diminishes what He has given you, no calling multiplied leaves you with less, no outpouring of His Spirit ever runs His supply dry. Open your hands the way Moses did, wanting the gift spread wide rather than guarded close. When you can rejoice at another's anointing, you prove the Spirit's own generosity has taken root in you."
+      ],
+      "closing": "Another's gift is never your loss—open your hands like Moses and wish the Spirit multiplied, not guarded.",
+      "prayer": "Heavenly Father, forgive me for the jealousy that rises when You bless someone else. Thank You that Your Spirit is never in short supply. Make me like Moses, with open hands, wishing Your gift multiplied across all Your people. Root out my need to protect my own importance, and teach me to rejoice at another's anointing as proof that Your generosity lives in me. In Jesus' name, Amen.",
+      "journalReflect": "Whose gift or calling have I quietly resented, as though their rising somehow shrinks mine?",
+      "journalAct": "Reach out to one person whose gift you have envied and sincerely encourage or celebrate them today.",
+      "visual": {
+        "sceneFamily": "power-of-God",
+        "environment": "Sunflower field under stormlight, high summer — silver thunderheads overhead with one break of low gold igniting a thousand upturned faces.",
+        "palette": [
+          "#3c4048",
+          "#e8b93f",
+          "#8a6d2f",
+          "#d9d2c0",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon defiant and bright; Fraunces 700 for the vow — stormlight is for standing firm.",
+        "motion": [
+          "Thunderheads slide at 5px/s across the upper frame.",
+          "The gold break pulses ±7%; sunflower heads nod on a 6s wave.",
+          "Reduced motion: the break of light held open."
+        ],
+        "prompt": "A woman seen from behind in a denim jacket and floral dress standing in a vast sunflower field under stormlight, dark silver thunderheads overhead while a single break of low golden sun ignites thousands of upturned faces, wind bending the stalks in waves, rain smell in the air, light breaking against the coming weather, small radiant figure inside a field of gold, generous negative space in the storm-bright upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"Moses Wished the Spirit Upon Everyone\": Another's gift is never your loss—open your hands like Moses and wish the Spirit multiplied, not guarded. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-24.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-3.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 25,
+      "movement": 4,
+      "movementTitle": "Kingdom Light",
+      "movementPromise": "The Spirit fills ordinary lives until the love of God becomes visible.",
+      "volume": 3,
+      "volumeTitle": "Filled with the Holy Spirit",
+      "sourceDay": 162,
+      "selectionReason": "The Spirit fills a craftsperson's hands, honoring faithful work as sacred.",
+      "sourceMeta": "Day 161 · June 10 · Gifts for Faithful Work",
+      "title": "The Spirit in the Craftsman's Hands",
+      "scripture": {
+        "reference": "Exodus 31:4",
+        "translation": "KJV",
+        "text": "To devise cunning works, to work in gold, and in silver, and in brass,"
+      },
+      "lens": "Root Word ḥāšaḇ · חָשַׁב (Hebrew) — to devise, to design — Spirit-filled thinking; holy imagination bent over gold, silver, and brass.",
+      "thread": {
+        "reference": "1 Kings 7:14",
+        "text": "He was a widow’s son of the tribe of Naphtali, and his father was a man of Tyre, a worker in brass: and he was filled with wisdom, and understanding, and cunning to work all works in brass. And he came to king Solomon, and wrought all his work."
+      },
+      "body": [
+        "There are moments when we imagine God only shows up in the prayer meeting, only cares about the things that look religious on the surface. Then we open Exodus 31:4 and find the Spirit of God filling a man to devise cunning works, to shape gold, to hammer silver, to bend brass into beauty for God's house. Beloved, the anointing is not confined to the pulpit. The same Spirit who moves in worship once moved in a workshop. What you make with your hands is not beneath God's notice; He is the one who gave the skill in the first place. Our part is to bring the work back to Him, surrendering our talent to His love instead of using it to prove that we matter.",
+        "Notice the word the text uses, to devise. That is holy imagination, a mind bent low over materials, planning what is not yet formed. God did not only inspire the singing; He inspired the designing, the measuring, the crafting. The Spirit fills our thinking, not just our feeling. He can purify motives in a meeting, steady the hands in a task, and make ordinary planning obedient to Him. Nothing done in gold or silver or brass was too common for the breath of God to rest upon.",
+        "Maybe today your struggle is that your gift feels too ordinary to be holy. You build, you organize, you cook, you repair, you write, and it never feels spiritual enough to count. Or maybe the quieter battle is using your skill to prove your worth instead of offering it as worship. The Spirit will not shame your labor. He comes to consecrate it and to remind you that faithful hands are one of the ways He builds His house.",
+        "Today, bring one practical skill under holy fire. No task is too ordinary for His anointing, no craft is too small for His purpose, and no offered work is ever wasted in His hands. Give Him the gold and silver and brass of your everyday and watch Him make it worship. The Spirit who filled the craftsman of the tabernacle is filling you at your own workbench today."
+      ],
+      "closing": "Your workbench becomes an altar the moment the Spirit takes hold of your hands.",
+      "prayer": "Holy Spirit, thank You for caring about the work of my hands and not only the words of my mouth. Fill my ordinary skill the way You filled the craftsmen of old. Purify my motives, steady my hands, and let everything I make be offered back to You. Teach me to work as an act of worship, not as a way to prove myself. In Jesus' name, Amen.",
+      "journalReflect": "Where have I decided that my everyday work is too ordinary for God to fill and use for His glory?",
+      "journalAct": "Take one practical skill today, something you build, organize, or repair, and consciously offer it to God as worship before you begin.",
+      "visual": {
+        "sceneFamily": "nature-symbol",
+        "environment": "Moonlit wheat field, late summer — a huge amber harvest moon rising over ripe grain, silver-gold light, warm wind moving in slow waves.",
+        "palette": [
+          "#c9a24b",
+          "#8a6f3a",
+          "#f0d49a",
+          "#232c47",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon mellow and low; Fraunces 500 italic — moonrise slows every stroke down.",
+        "motion": [
+          "Wheat heads roll in slow 8s waves across the field.",
+          "The moon’s halo breathes ±4%; warm-wind streaks drift faintly.",
+          "Reduced motion: the field held mid-wave under a steady moon."
+        ],
+        "prompt": "A woman seen from behind in a simple linen dress standing in a moonlit wheat field in late summer, a huge amber harvest moon rising over ripe grain, silver-gold light washing the rolling heads, warm wind moving through the field in slow waves, the farmhouse far behind her, small grateful figure inside a sea of gold at night, generous negative space in the deep indigo upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Spirit in the Craftsman's Hands\": Your workbench becomes an altar the moment the Spirit takes hold of your hands. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-25.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-4.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 26,
+      "movement": 4,
+      "movementTitle": "Kingdom Light",
+      "movementPromise": "The Spirit fills ordinary lives until the love of God becomes visible.",
+      "volume": 3,
+      "volumeTitle": "Filled with the Holy Spirit",
+      "sourceDay": 179,
+      "selectionReason": "Jesus calls the disciples near before giving power, keeping witness rooted in relationship.",
+      "sourceMeta": "Day 178 · June 27 · Gifts for Faithful Work",
+      "title": "Called Near, Then Given Power",
+      "scripture": {
+        "reference": "Matthew 10:1",
+        "translation": "KJV",
+        "text": "And when he had called unto him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease."
+      },
+      "lens": "Root Word exousia · ἐξουσία (Greek) — authority — the delegated right to act, always handed down from Jesus, never worked up from within.",
+      "thread": {
+        "reference": "Acts 1:8",
+        "text": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth."
+      },
+      "body": [
+        "We spend so much energy trying to manufacture our own strength, talking ourselves into confidence, working up enough power to face whatever is in front of us. Matthew 10:1 shows a completely different source. Jesus called the twelve to Himself, and then He gave them power over unclean spirits and to heal all manner of sickness and disease. Beloved, they did not invent a ministry out of their own boldness. They were called near, and out of that nearness they received authority for work they could never have done in their own strength. That matters for every one of us who longs to live filled with the Spirit. Spiritual power is not a possession we generate; it is entrusted authority under the Lordship of Christ. Our part is to draw near and let His love become your resting place.",
+        "Notice the order Jesus keeps. First He called them to Himself; then He gave them power. The nearness came before the authority, and that order never changes. The Spirit's power is always delegated, handed down from Jesus, never worked up from within us. And notice the character of that power, authority to cast out what harms and to heal what is broken. Spiritual power in His hands is always aimed at mercy and never at display.",
+        "Perhaps today you are exhausted from trying to be enough on your own, straining for a strength that will not come because you are trying to generate it instead of receive it. Or perhaps you have been tempted to use spiritual things to look impressive to others. The Spirit gently pulls you back to the beginning: come close to Jesus. He never leads you away from Christ's character; He empowers His mercy, His truth, and His healing in you.",
+        "Today, come near before you go out. No authority is real that is worked up from within, no power is safe that is aimed at display, and no calling stands apart from the One who gives it. Draw close to Jesus and receive what only He can hand you. The Lord who called the twelve near is calling you near still."
+      ],
+      "closing": "Nobody works up their own anointing; you receive it, close to Him.",
+      "prayer": "Lord Jesus, forgive me for trying to manufacture strength I was meant to receive. You called the twelve near before You gave them power, and I come near to You now. Fill me with entrusted authority under Your Lordship, aimed at mercy and not display. Keep me close, and let Your character shape everything You strengthen in me. In Jesus' name, Amen.",
+      "journalReflect": "Where am I trying to work up my own strength instead of drawing near to Jesus to receive it?",
+      "journalAct": "Before any demanding task today, come near to Jesus in prayer first and consciously receive His authority rather than relying on your own.",
+      "visual": {
+        "sceneFamily": "biblical-symbol",
+        "environment": "Terraced rice hills at golden hour, early autumn — flooded gold terraces stair-stepping into a valley of evening haze, long warm light.",
+        "palette": [
+          "#b98a3e",
+          "#e3c27a",
+          "#5f7a4a",
+          "#7a5a3a",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon generous and golden; Fraunces 600 — harvest plenty carries a full, round hand.",
+        "motion": [
+          "Terrace glints scroll at 3px/s down the stair-steps.",
+          "Evening haze drifts at 4px/s; the gold deepens ±5% over 8s.",
+          "Reduced motion: terraces glowing steady at golden hour."
+        ],
+        "prompt": "A woman seen from behind in a terracotta dress standing on the ridge of terraced rice hills at golden hour, flooded gold terraces stair-stepping down into a valley of soft evening haze, low warm sun glinting off a hundred small mirrors of water, distant wooden village roofs, the whole hillside glowing like poured honey, small content figure above the shining steps, generous negative space in the hazy amber upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"Called Near, Then Given Power\": Nobody works up their own anointing; you receive it, close to Him. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-26.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-4.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 27,
+      "movement": 4,
+      "movementTitle": "Kingdom Light",
+      "movementPromise": "The Spirit fills ordinary lives until the love of God becomes visible.",
+      "volume": 3,
+      "volumeTitle": "Filled with the Holy Spirit",
+      "sourceDay": 220,
+      "selectionReason": "The listening ear makes room for the Spirit's present-tense guidance.",
+      "sourceMeta": "Day 219 · August 7 · Freedom and Healing",
+      "title": "The God the Jawbone Could Not Replace",
+      "scripture": {
+        "reference": "Judges 15:16",
+        "translation": "KJV",
+        "text": "And Samson said, With the jawbone of an ass, heaps upon heaps, with the jaw of an ass have I slain a thousand men."
+      },
+      "lens": "Root Word lechi · לְחִי (Hebrew) — jawbone — also the place-name Lehi; Samson's boast rhymes over the weapon until thirst teaches him the Giver.",
+      "thread": {
+        "reference": "Psalm 115:1",
+        "text": "Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake."
+      },
+      "body": [
+        "There is a danger that comes not during the struggle but right after the victory — the moment we open our mouths to explain what just happened. Judges 15:16 catches Samson in that moment. Fresh off a stunning deliverance, he lifts his voice: with the jawbone of an ass, heaps upon heaps, with the jaw of an ass have I slain a thousand men. Freedom in the Spirit is needed after a win as much as during a battle. Surrender your victories to the God who actually won them.",
+        "Notice who is missing from Samson's song. He rhymes over the weapon and over himself — have I slain — but the God who gave the strength goes unnamed. The mouth loves to interpret a win in its own favor. The Holy Spirit breathes a witness that tells the truth without turning deliverance into self-display. A free heart can give testimony and still keep itself out of the center, handing the glory straight back to God.",
+        "Perhaps you have noticed how your words after a success grow louder than your gratitude — the promotion you keep mentioning, the problem you solved and cannot stop retelling, the look-what-I-did that slips out before look-what-God-did. Hear this gently: it is not wrong to testify. It is only dangerous when the testimony becomes a monument to you. The Spirit frees you to tell it true and give the credit where it belongs.",
+        "So when the victory comes today, watch your mouth and lift your praise. No heap you pile up was won by your strength alone, no weapon delivers without the God who guides it, and no success is a monument to self when the Spirit fills the telling. Give the glory back. The same God who delivered Samson is the God the jawbone could never replace — and He alone deserves the song."
+      ],
+      "closing": "Gratitude spoken first keeps a victory from becoming a monument to yourself.",
+      "prayer": "Heavenly Father, thank You for the victories You win on my behalf. Forgive me for the times my words after a success grew louder than my gratitude, crediting my own hand instead of Yours. By Your Spirit, free me to testify honestly while keeping myself out of the center. Let every story I tell of deliverance give the glory straight back to You. In Jesus' name, Amen.",
+      "journalReflect": "Where do my words after a success grow louder than my gratitude, quietly crediting my own strength instead of God's?",
+      "journalAct": "The next time you share a recent win today, name what God did before you name what you did.",
+      "visual": {
+        "sceneFamily": "storm-to-peace",
+        "environment": "English walled garden just after summer rain, morning — roses and delphiniums heavy with drops, gravel glistening, sun breaking through, everything glazed.",
+        "palette": [
+          "#4f7350",
+          "#a8c4a0",
+          "#d9a1b6",
+          "#f2ead9",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon fresh and rain-washed; Fraunces 500 — the garden after rain wants clean, dewy strokes.",
+        "motion": [
+          "Drops glint and fall from petals on staggered 6s loops.",
+          "The sun break breathes ±6%; faint steam rises at 2px/s.",
+          "Reduced motion: every drop jeweled in place."
+        ],
+        "prompt": "A woman seen from behind in a sage-green dress walking through an English walled garden just after summer rain, roses and delphiniums heavy with drops, gravel path glistening, morning sun breaking through and turning every leaf to glass, soft steam rising from the warmed beds, an old wooden gate half open, small refreshed figure inside washed green light, generous negative space in the bright rain-cleared upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The God the Jawbone Could Not Replace\": Gratitude spoken first keeps a victory from becoming a monument to yourself. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-27.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-4.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 28,
+      "movement": 4,
+      "movementTitle": "Kingdom Light",
+      "movementPromise": "The Spirit fills ordinary lives until the love of God becomes visible.",
+      "volume": 3,
+      "volumeTitle": "Filled with the Holy Spirit",
+      "sourceDay": 332,
+      "selectionReason": "The hovering Spirit brings hope to places that do not yet have shape.",
+      "sourceMeta": "Day 331 · November 27 · Comfort for the Long Night",
+      "title": "The Spirit Who Hovers Over What Has No Shape Yet",
+      "scripture": {
+        "reference": "Genesis 1:2",
+        "translation": "KJV",
+        "text": "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters."
+      },
+      "lens": "Root Word rachaph · רָחַף (Hebrew) — to hover, brood — a mother-bird word; the Spirit stays over what is unformed until it is ready to live.",
+      "thread": {
+        "reference": "Psalm 104:30",
+        "text": "Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth."
+      },
+      "body": [
+        "Before a single thing had form, before there was light or land or order, the earth was without form, and void, and darkness was upon the face of the deep. It was the picture of chaos, unshaped, unfinished, dark. And yet the verse does not end in the dark. And the Spirit of God moved upon the face of the waters. God was not absent from the formless place. He was hovering right over it, present before anything came together. That is mercy for every soul in an unformed season: the absence of shape is not the absence of God. He is already there, moving over the deep.",
+        "Notice the word for how the Spirit moved. He brooded, He hovered, the way a mother bird settles over the nest, staying close over what is not yet ready to live. He did not stand back and wait for the chaos to organize itself before drawing near. He came near first, and out of His nearness, order and life began. The Comforter does not require you to have your life sorted before He shows up. He hovers over the mess, and from that hovering He brings forth what is good.",
+        "Perhaps some place in your life feels exactly like that deep, grief you cannot put into words, a calling with no clear shape, a relationship without resolution, a decision with not enough light to act. It is tempting to read the formlessness as proof that God has left. Refuse that lie. The Spirit is not intimidated by what has not come together. He is hovering over your unformed places right now.",
+        "Today, refuse to call the unformed place abandoned. No darkness is too deep for His presence, no chaos is too tangled for His creative mercy, and no formless season is beyond His power to shape. The same Spirit who brooded over the waters at the beginning is hovering over your unfinished places, and in His time He will speak them into form. What feels abandoned is being attended."
+      ],
+      "closing": "The formless place is not the forsaken place; the Spirit hovers over your unfinished deep, and from His nearness, form and life will come.",
+      "prayer": "Heavenly Father, thank You that Your Spirit hovered over the darkness before anything had shape, and that He hovers over my unformed places still. Where my life feels chaotic, unfinished, or dark, help me refuse the lie that You have left. Brood over my deep, bring order in Your time, and let me rest knowing what feels abandoned is truly being attended by You. In Jesus' name, Amen.",
+      "journalReflect": "What formless and void place in my life have I been tempted to call abandoned, and how does it change things to know the Spirit is hovering right over it?",
+      "journalAct": "Name one unformed area today, a grief, a decision, a calling, and instead of forcing it into shape, invite the Spirit to hover over it in prayer and wait on Him.",
+      "visual": {
+        "sceneFamily": "light-and-darkness",
+        "environment": "Firefly meadow at midsummer dusk — long grass and wild carrot, hundreds of lanterns rising as the sky fades from violet to indigo.",
+        "palette": [
+          "#25284a",
+          "#6a5a8e",
+          "#e8e36a",
+          "#7a8a5a",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon playful, small sparks of flourish; Fraunces 400 — fireflies ask the script to blink, not blaze.",
+        "motion": [
+          "Fireflies rise on independent 6–9s loops with a soft blink.",
+          "Sky violet deepens ±4%; grass sways gently at the figure’s hem.",
+          "Reduced motion: fireflies lit and held mid-rise."
+        ],
+        "prompt": "A woman seen from behind in a simple white dress standing in a midsummer meadow at dusk, hundreds of fireflies rising from long grass and wild carrot as the sky fades from violet to indigo, warm dark air, the first stars overhead, tiny lanterns drifting around her like a blessing, small wonder-lit figure inside a field of living sparks, generous negative space in the deep violet upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Spirit Who Hovers Over What Has No Shape Yet\": The formless place is not the forsaken place; the Spirit hovers over your unfinished deep, and from His nearness, form and life will come. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-28.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-4.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 29,
+      "movement": 4,
+      "movementTitle": "Kingdom Light",
+      "movementPromise": "The Spirit fills ordinary lives until the love of God becomes visible.",
+      "volume": 3,
+      "volumeTitle": "Filled with the Holy Spirit",
+      "sourceDay": 342,
+      "selectionReason": "Another heart embodies renewal as more than a temporary emotional lift.",
+      "sourceMeta": "Day 341 · December 7 · Renewed for What Comes Next",
+      "title": "The God Who Gives You Another Heart",
+      "scripture": {
+        "reference": "1 Samuel 10:9",
+        "translation": "KJV",
+        "text": "And it was so, that when he had turned his back to go from Samuel, God gave him another heart: and all those signs came to pass that day."
+      },
+      "lens": "Root Word hāphak · הָפַךְ (Hebrew) — to turn, overturn, transform — God literally turned Saul another heart; real change is His inward turning before any outward sign.",
+      "thread": {
+        "reference": "Ezekiel 36:26",
+        "text": "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh."
+      },
+      "body": [
+        "Have you ever longed to be different than you are — softer where you have grown hard, braver where you have grown timid — but felt trapped inside the same heart you woke up with? Saul knew that feeling. He was an ordinary man handed an assignment far bigger than himself. Yet Scripture says that when he simply turned his back to go from Samuel, God gave him another heart. He did not manufacture the change. He did not strive for it on the road. God gave it. That is the mercy your tired soul has been reaching for — a heart you could never produce, handed to you by grace.",
+        "Notice where the change happened. Not on a stage, not in front of a crowd, but in the plain motion of turning to walk home. And notice the order: God gave him another heart first, and then all those signs came to pass that day. The inward gift came before the outward confirmation. The Spirit's deepest work always begins under the skin, in the quiet, before anyone else can see a difference. God overturns the heart, and life catches up to what He has already done inside.",
+        "Perhaps you have been asking God for proof before surrender — a feeling, a sign, an open door — when what He wants to give you first is a new heart. Maybe you are weary of trying to behave your way into inward change while the inside stays the same. Stop straining. The Holy Spirit is not waiting for you to become better; He is offering to change you from within. Let Him have the hidden places. Renewal for what comes next always begins right there.",
+        "So turn toward Him, and trust the God who changes hearts. No habit is too old for His hand, no coldness too deep for His fire, and no soul too far gone for His fresh work of grace. The God who gave Saul another heart on an ordinary road is ready to give you one today. Receive it, and let the signs of new life follow after."
+      ],
+      "closing": "You cannot manufacture a new heart, but you can receive the One who gives it.",
+      "prayer": "Heavenly Father, thank You for being the God who gives another heart to those who cannot change themselves. I confess how often I chase outward proof instead of inward surrender. Overturn what has grown cold and hard in me, and do Your quiet work under the surface before anyone else can see it. I trust You to change me from within. In Jesus' name, Amen.",
+      "journalReflect": "Where have you been trying to behave your way into a change that only God can give from the inside?",
+      "journalAct": "Bring one specific inward area — an attitude, a fear, a hardness — to God today, and ask Him for a new heart there rather than more willpower.",
+      "visual": {
+        "sceneFamily": "intimate-devotional-portrait",
+        "environment": "Salt-flat mirror at dusk after rain — a thin sheet of water doubling the burning rose-and-gold sky, horizonless, one breeze streaking the surface.",
+        "palette": [
+          "#e78f8f",
+          "#f0c869",
+          "#9d7fc4",
+          "#f6efe2",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon mirrored and serene; Fraunces 500 — a sky under your feet wants perfect poise.",
+        "motion": [
+          "The mirrored sky ripples ±2px around her steps.",
+          "Rose-gold burn deepens ±5% over 8s; one breeze streaks the surface per loop.",
+          "Reduced motion: the mirror held perfect."
+        ],
+        "prompt": "A woman seen from behind in a flowing pale-gold dress walking across a vast salt flat covered by a thin sheet of water at dusk, the whole burning rose-and-gold sky perfectly mirrored under her feet, horizonless world of light, her reflection walking beneath her, absolute stillness except one breeze streaking the surface, small serene figure stepping through the sky itself, generous negative space in the luminous mirrored upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The God Who Gives You Another Heart\": You cannot manufacture a new heart, but you can receive the One who gives it. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-29.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-4.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 30,
+      "movement": 4,
+      "movementTitle": "Kingdom Light",
+      "movementPromise": "The Spirit fills ordinary lives until the love of God becomes visible.",
+      "volume": 3,
+      "volumeTitle": "Filled with the Holy Spirit",
+      "sourceDay": 359,
+      "selectionReason": "God speaks peace before sending, closing the trilogy selections with calm courage.",
+      "sourceMeta": "Day 358 · December 24 · Renewed for What Comes Next",
+      "title": "The God Who Speaks Peace Before He Sends",
+      "scripture": {
+        "reference": "Judges 6:23",
+        "translation": "KJV",
+        "text": "And the LORD said unto him, Peace be unto thee; fear not: thou shalt not die."
+      },
+      "lens": "Root Word shālôm · שָׁלוֹם (Hebrew) — peace, wholeness — not the absence of Midian but the presence of God settling a shaking heart before any assignment begins.",
+      "thread": {
+        "reference": "John 20:26",
+        "text": "And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you."
+      },
+      "body": [
+        "Some of us have been living braced — shoulders tight, heart ready for the next blow, half-expecting that if God draws near it must mean trouble. Gideon felt that way. When he realized he had seen the angel of the LORD face to face, he was terrified he would die. And into that fear God spoke words that still steady trembling people today: peace be unto thee; fear not; thou shalt not die. Before God gave Gideon a single instruction, He gave him peace.",
+        "Notice the order, because it is everything. God did not lead with the assignment, the battle, or the demand. His first word to a frightened servant was peace. The word is shalom, and it does not mean the enemy had left or the danger was gone. It means the presence of God came and settled a shaking heart while the trouble was still all around. That is how the Spirit works. He does not wait for your circumstances to calm down before He gives you His peace; He gives peace first, and the assignment follows.",
+        "So what part of your heart has been living braced for the worst? Maybe you have learned to expect disappointment, to flinch before the phone even rings, to keep your guard up even with God. Hear the same word He spoke to Gideon: peace be unto you; fear not. The Spirit can soften that hard, watchful ground without making you careless or naive. And peace received in the secret place becomes the very steadiness you will carry into the public places where He sends you.",
+        "So let Him speak peace to you first. No fear is too deep for His shalom, no braced heart is beyond His settling, and no assignment He gives comes without the peace to carry it. The God who steadied Gideon speaks the same word over you tonight. Receive His peace in the quiet, and let it become your strength when He sends you out."
+      ],
+      "closing": "God gives His peace before the assignment — receive it in the quiet, and carry it into the sending.",
+      "prayer": "Heavenly Father, thank You that Your first word to a frightened heart is peace. I have been living braced for trouble, guarded even with You. Speak Your shalom over the shaking places in me, and settle my heart with Your presence while the trouble is still around me. Let the peace I receive in the quiet become my strength when You send me out. In Jesus' name, Amen.",
+      "journalReflect": "In what area of your life have you been living braced for trouble, guarded even toward God?",
+      "journalAct": "Sit in quiet before God today and receive His word of peace over one specific fear, letting Him settle your heart before you act.",
+      "visual": {
+        "sceneFamily": "wonder-landscape",
+        "environment": "Star-trail desert night, autumn midnight — the Milky Way wheeling in great arcs over a lone juniper and sandstone hoodoos, deep indigo silence.",
+        "palette": [
+          "#101a33",
+          "#27406b",
+          "#c8b06a",
+          "#8a4a3a",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon midnight-quiet; Fraunces 600 — star trails want a steady hand and a patient eye.",
+        "motion": [
+          "Star trails rotate almost imperceptibly on an 8s loop.",
+          "Milky Way dust twinkles staggered; the juniper silhouette never moves.",
+          "Reduced motion: trails painted and fixed."
+        ],
+        "prompt": "A woman seen from behind in a warm wool shawl and long dress standing beside a lone juniper in the high desert at moonless midnight, the Milky Way wheeling in great arcs of star trails over red sandstone hoodoos, deep indigo silence, the earth cool and ancient beneath her, promise as wide as the sky, small faithful figure beneath ten thousand circling lights, generous negative space in the star-wheeled upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The God Who Speaks Peace Before He Sends\": God gives His peace before the assignment — receive it in the quiet, and carry it into the sending. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-30.png",
+        "draftArt": null,
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-4.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    },
+    {
+      "day": 31,
+      "movement": 4,
+      "movementTitle": "Kingdom Light",
+      "movementPromise": "The Spirit fills ordinary lives until the love of God becomes visible.",
+      "volume": 0,
+      "volumeTitle": "Trilogy Culmination",
+      "sourceDay": 0,
+      "selectionReason": "A new culmination gathers the Father's family, Christ's immeasurable love, and the Spirit's inner strengthening into the fullness of God.",
+      "sourceMeta": "Day 31 · Kingdom Light · Trilogy Culmination",
+      "title": "The Love That Brings Us Into Fullness",
+      "scripture": {
+        "reference": "Ephesians 3:19",
+        "translation": "KJV",
+        "text": "And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God."
+      },
+      "lens": "pleroma · Greek · fullness — not a thin spiritual moment, but a life increasingly occupied and shaped by all that God gives of Himself.",
+      "thread": {
+        "reference": "2 Corinthians 13:14",
+        "text": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen."
+      },
+      "body": [
+        "There are seasons when you can name what is missing faster than you can name what God has already poured in. You see the empty chair, the unfinished answer, the tired place, the prayer that still has not opened into daylight. Paul does not finish this prayer by asking God to make His children better at hiding their emptiness. He asks that they would know the love of Christ and be filled with all the fulness of God.",
+        "Notice how the whole family of God is gathered inside this prayer. Paul bows before the Father. He asks for strength through the Spirit in the inner person. He prays for Christ to dwell in the heart by faith. Then he reaches for a love so wide, so long, so deep, and so high that knowledge alone cannot hold it. The Father receives you, the Son comes near, and the Spirit makes room in you for what grace has already given.",
+        "Maybe these thirty mornings have touched the place where fear, grief, shame, weariness, disappointment, or old self-protection still tries to tell you that you are empty and alone. Beloved, fullness is not pretending those places never existed. It is discovering that none of them is large enough to keep God out. His love can meet the wound without becoming wounded by it. His presence can enter the room you thought would always stay closed.",
+        "So carry this journey forward as one who is received, accompanied, and filled. Let the Father's love steady you. Let the footsteps of Jesus lead you. Let the Holy Spirit breathe courage into the next faithful step. No ache is too deep for His love, no road too long for His presence, and no surrendered life too ordinary for His glory. Walk into the morning knowing that the God who brought you this far is still making His home in you."
+      ],
+      "closing": "I am received by the Father, accompanied by Jesus, and filled by the Holy Spirit for the next faithful step.",
+      "prayer": "Heavenly Father, thank You for receiving me into Your family. Lord Jesus, root me more deeply in the love that passes knowledge. Holy Spirit, strengthen my inner life and fill every surrendered place with the presence of God. Carry what I have learned into the way I speak, serve, forgive, rest, and hope. Make my ordinary life a dwelling place for Your love. In Jesus' name, Amen.",
+      "journalReflect": "Where have I mistaken an unfinished place for an empty place, and how have the Father, Son, and Holy Spirit already been meeting me there?",
+      "journalAct": "Write three sentences beginning with: 'Father, I receive...'; 'Jesus, I will follow...'; and 'Holy Spirit, fill...'. Keep them where you will see them tomorrow morning.",
+      "visual": {
+        "sceneFamily": "power-of-God",
+        "environment": "A city of light on a high hill at eternal dawn — New Jerusalem-inspired: jasper and gold walls glowing from within, open gates, a river of light, no night anywhere.",
+        "palette": [
+          "#f0d9a0",
+          "#e8a35c",
+          "#fdf6e3",
+          "#9d7fc4",
+          "#5d3f82"
+        ],
+        "typeMood": "Pinyon radiant at full size; Fraunces 700 for the crescendo — the last morning gets the brightest letters.",
+        "motion": [
+          "The river of light flows through the streets at 4px/s.",
+          "The gates’ glow breathes ±5% over 8s; light motes ascend at 3px/s.",
+          "Reduced motion: the city radiant and still."
+        ],
+        "prompt": "A woman seen from behind in a radiant white and gold dress standing on a hill path before a magnificent city of light at eternal dawn, jasper and gold walls glowing from within, gates standing open, a river of light running through the streets, no night anywhere, the whole horizon radiant with welcome, small homecoming figure before the holy city, generous negative space in the glory-bright upper sky for typography, vertical portrait composition, painterly photographic realism, no text, no words, no watermark, high dynamic range, ultra detailed The emotional and theological center is \"The Love That Brings Us Into Fullness\": I am received by the Father, accompanied by Jesus, and filled by the Holy Spirit for the next faithful step. Keep the human figure dignified, modestly clothed, anatomically natural, and secondary to the spiritual landscape. Reserve clean negative space for separately typeset Scripture and title. Do not render typography inside the image.",
+        "art": "assets/lady-d-31-day/scenes/day-31.png",
+        "draftArt": "assets/lady-d-31-day/drafts/day-31-v1.png",
+        "fallbackArt": "assets/lady-d-31-day/movements/movement-4.jpg",
+        "status": "awaiting-generated-scene"
+      }
+    }
+  ]
+}

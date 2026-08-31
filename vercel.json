@@ -12,6 +12,10 @@
       "dest": "/susan-damon-hub.html"
     },
     {
+      "src": "^/(?:ops|source|quality|scripts|tmp)(?:/.*)?$",
+      "status": 404
+    },
+    {
       "handle": "filesystem"
     }
   ]

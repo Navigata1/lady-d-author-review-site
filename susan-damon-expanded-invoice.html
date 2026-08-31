@@ -1,269 +1,43 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Susan Damon Corrected Publishing Invoice</title><style>
-:root{
-  --ink:#173334; --muted:#667776; --paper:#f6faf7; --card:#fff;
-  --teal:#087b74; --deep:#123747; --aqua:#0c9eb6; --gold:#c48b19;
-  --coral:#df654d; --line:#d9e4df; --cream:#fff9ec;
-  --shadow:0 22px 70px rgba(10,45,48,.12);
-}
-*{box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{margin:0;background:#eef7f4;color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.55}
-a{color:var(--teal);font-weight:850}
-.nav{position:sticky;top:0;z-index:15;background:rgba(18,55,71,.96);backdrop-filter:blur(16px);display:flex;gap:10px;flex-wrap:wrap;align-items:center;padding:12px 18px}
-.nav a,.nav span{color:white;text-decoration:none;font-size:13px;font-weight:850;padding:8px 11px;border-radius:999px;background:rgba(255,255,255,.09)}
-.nav .brand{background:transparent;color:#f7d58f}
-.wrap{max-width:1120px;margin:auto;padding:34px 18px 78px}
-.hero{display:grid;grid-template-columns:1fr 190px;gap:26px;align-items:center;background:var(--deep);color:white;border:1px solid #365969;border-bottom:5px solid var(--gold);border-radius:8px;padding:42px;box-shadow:var(--shadow);overflow:hidden}
-.hero-logo{width:160px;max-width:100%;border-radius:28px;filter:drop-shadow(0 18px 35px rgba(0,0,0,.22))}
-.kicker{text-transform:uppercase;letter-spacing:0;color:var(--gold);font-size:12px;font-weight:950}
-.hero .kicker{color:#f9dda2}
-h1,h2,h3{line-height:1.06;margin:0 0 14px}
-h1{font-size:clamp(34px,5.8vw,70px);letter-spacing:0}
-h2{font-size:clamp(27px,3.2vw,42px);letter-spacing:0}
-h3{font-size:21px}
-p{margin:0 0 12px}
-.lead{font-size:clamp(18px,2vw,22px);max-width:900px}
-.hero .lead{color:#f1fffb}
-.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:18px;margin-top:22px}
-.card{grid-column:span 6;background:rgba(255,255,255,.98);border:1px solid var(--line);border-radius:8px;padding:24px;box-shadow:var(--shadow)}
-.third{grid-column:span 4}.mini{grid-column:span 3}.full{grid-column:1/-1}
-.gold-top{border-top:7px solid var(--gold)}.teal-top{border-top:7px solid var(--teal)}.coral-top{border-top:7px solid var(--coral)}
-.badge,.chip{display:inline-flex;align-items:center;border-radius:999px;background:#eaf5f2;color:#07524f;border:1px solid #cae0db;padding:7px 10px;font-size:12px;font-weight:900;text-transform:uppercase;letter-spacing:0;margin:3px}
-.btn{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;border:1px solid var(--line);border-radius:8px;padding:13px 18px;margin:6px 8px 6px 0;color:#122c2d;background:white;font-weight:950;min-width:150px}
-.btn.gold{background:var(--gold);color:#102b2d;border:0}.btn.teal{background:var(--teal);color:white;border:0}.btn.dark{background:var(--deep);color:white;border:0}.btn.coral{background:var(--coral);color:white;border:0}
-.muted{color:var(--muted)}.stat strong{display:block;font-size:43px;line-height:1;color:var(--deep);font-weight:650}
-.book{display:grid;grid-template-columns:126px 1fr;gap:18px;align-items:center}
-.book img{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:6px;box-shadow:0 16px 38px rgba(10,45,48,.18)}
-.cover-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
-.cover-card{border:1px solid var(--line);border-radius:8px;background:#fff;padding:12px;break-inside:avoid}
-.cover-card img{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:6px;box-shadow:0 12px 28px rgba(10,45,48,.14)}
-.table{width:100%;border-collapse:separate;border-spacing:0;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#fff}
-.table th,.table td{text-align:left;vertical-align:top;padding:12px 13px;border-bottom:1px solid var(--line)}
-.table th{background:var(--deep);color:white;text-transform:uppercase;font-size:.78rem;letter-spacing:0}
-.table tr:last-child td{border-bottom:0}
-.callout{border-left:6px solid var(--teal);background:#f2faf7;border-radius:8px;padding:16px 18px}
-.warning{border-left-color:var(--coral);background:#fff5ef}
-.money{background:var(--deep);color:white;border-radius:8px;padding:26px}
-.money .big{font-size:58px;line-height:1;font-weight:450}
-.paybox{background:#fff7ea;border:1px solid #ecd6b3;border-radius:8px;padding:22px}
-.page{max-width:1120px;margin:22px auto;background:white;border:1px solid var(--line);box-shadow:0 18px 55px rgba(10,45,48,.08);padding:38px 46px;border-radius:8px;break-after:page}
-.page:last-child{break-after:auto}
-.page-header{display:grid;grid-template-columns:1fr 250px;gap:20px;border-bottom:5px solid var(--teal);padding-bottom:18px;margin-bottom:20px}
-.brand-lockup{display:grid;grid-template-columns:78px 1fr;gap:16px;align-items:center}
-.logo-img{width:72px;height:72px;object-fit:cover;border-radius:15px;box-shadow:0 10px 28px rgba(18,55,71,.22)}
-.two{display:grid;grid-template-columns:1fr 1fr;gap:16px}
-.footer{display:flex;justify-content:space-between;border-top:1px solid var(--line);padding-top:14px;margin-top:28px;font-size:12px;color:#697675}
-.sig{height:70px;border-bottom:1px solid #9ca7a5;margin-top:20px}
-.print-only{display:none}
-@media(max-width:820px){
-  .card,.third,.mini{grid-column:1/-1}.hero{grid-template-columns:1fr;padding:28px 22px}.wrap{padding:22px 12px 58px}.book{grid-template-columns:1fr}.book img{max-width:190px}.two,.page-header,.cover-grid{grid-template-columns:1fr}.page{padding:25px 18px;overflow:hidden}.table{display:block;max-width:100%;overflow-x:auto;font-size:.92rem;-webkit-overflow-scrolling:touch}.table tbody{display:table;width:100%}.btn{width:100%;margin-right:0}.money .big{font-size:44px}.brand-lockup{grid-template-columns:58px 1fr}.logo-img{width:54px;height:54px}
-}
-@media print{
-  @page{size:Letter;margin:.36in}
-  body{background:white;font-size:11.5px}.nav,.wrap,.screen-only{display:none}.print-only{display:block}
-  .page{box-shadow:none;border:0;border-radius:0;max-width:none;min-height:9.95in;page-break-after:always;margin:0;padding:0;break-after:page}
-  .page:last-child{page-break-after:auto;break-after:auto}.page h1{font-size:28px!important}.page h2{font-size:21px}.page h3{font-size:15px}.page p{margin:.28rem 0}.page-header{grid-template-columns:1fr 230px;padding-bottom:10px;margin-bottom:12px}.logo-img{width:55px;height:55px}.brand-lockup{grid-template-columns:62px 1fr}.chip{padding:4px 8px;margin:2px}.money{padding:15px}.money .big{font-size:40px}.paybox{padding:13px}.table th,.table td{padding:7px 8px}.btn{display:none}a{color:#07524f}.footer{position:absolute;left:0;right:0;bottom:0}.page{position:relative}.table th,.money{print-color-adjust:exact;-webkit-print-color-adjust:exact}.cover-grid{grid-template-columns:repeat(3,1fr);gap:10px}.cover-card{padding:8px}
-}
-</style></head><body><nav class="nav"><span class="brand">Lady D Publishing Hub</span><a href="susan-damon-hub.html">Hub</a><a href="susan-damon-publishing-proposal.html">Proposal/Invoice</a><a href="lady-d-project-dashboard.html">Dashboard</a><a href="lady-d-enhanced-state-of-the-union-2026-07-19.html">Enhanced State</a><a href="lady-d-enhanced-plan-of-attack-2026-07-19.html">Enhanced Plan</a><a href="index.html">Author Review</a><a href="lady-d-author-site.html">Lady D Site</a></nav>
-<main class="print-only">
-<section class="page">
-  <div class="page-header">
-    <div class="brand-lockup">
-      <img class="logo-img" src="assets/idc-palm-logo.png" alt="Island Development Crew palm logo">
-      <div>
-        <div class="kicker">Island Dev Crew Consulting - Publishing Systems</div>
-        <h1 style="font-size:34px">Susan "Lady D" Damon Publishing Package</h1>
-        <p>Corrected agreement, proposal, and execute-ready invoice for the current devotional publishing package.</p>
-      </div>
-    </div>
-    <div style="text-align:right;font-size:13px">
-      <strong>Prepared:</strong> July 8, 2026<br>
-      <strong>Client:</strong> Susan "Lady D" Damon<br>1ladysd23@gmail.com<br>
-      <strong>Provider:</strong> Jonathan Isaac<br>Island Development Crew LLC<br>jon-isaac@islanddevcrew.com
-    </div>
-  </div>
-  <div class="callout"><strong>Current correction.</strong> This package now reflects the updated payment facts: current package total $2,000, $600 already paid ($200 prior payment + $400 check), and $1,400 remaining balance. Juan Damon testimony work has been separated from this invoice and should be scoped separately if/when approved.</div>
-  <div class="chips"><span class="chip">3 devotional books</span><span class="chip">3 companion journals</span><span class="chip">31-day visual devotional</span><span class="chip">KDP + digital prep</span><span class="chip">Author review hub</span><span class="chip">Juan testimony separate</span></div>
-  <div class="two">
-    <div class="money"><div>CURRENT PACKAGE TOTAL</div><div class="big">$2,000</div><p>$600 paid to date - $1,400 remaining balance.</p></div>
-    <div class="paybox"><p><strong>Payment status:</strong> The verified Stripe checkout is active for the corrected $1,400 remaining balance.</p><p><a href="https://buy.stripe.com/fZu28t5WpchE73EbnA0VO0a"><strong>Pay $1,400 securely with Stripe</strong></a></p><p class="muted">Automatic tax is off; this checkout applies only to the balance shown in this proposal.</p></div>
-  </div>
-  <div class="footer"><span>Island Dev Crew Consulting - jon-isaac@islanddevcrew.com</span><span>Lady D Publishing Proposal - Page 1 of 8</span></div>
-</section>
-<section class="page">
-  <h2>1 - Executive Summary</h2>
-  <p>This proposal covers the current Lady D devotional publishing package as a professional, proof-gated publishing system. It keeps the strength of the original agreement while reflecting the expanded devotional-library work that now exists: a three-volume devotional series, companion journals, a visual devotional lane, review portal, dashboard, and KDP/digital publishing preparation.</p>
-  <table class="table"><tr><th>Track</th><th>Scope</th><th>Current status</th></tr>
-  <tr><td><strong>Devotional Trilogy</strong></td><td>Three 365-day devotional books with author-review HTML editions and proof-PDF lanes.</td><td>Assembled for author/publisher review; not final KDP upload files yet.</td></tr>
-  <tr><td><strong>Companion Journals</strong></td><td>Three paired journals aligned with the devotional books.</td><td>Draft/proof lanes staged; final print locks pending.</td></tr>
-  <tr><td><strong>Visual Devotional</strong></td><td>31-day visual devotional lane from the earlier devotional concept.</td><td>Included in current package as a product lane.</td></tr>
-  <tr><td><strong>Publishing System</strong></td><td>Hub, invoice, dashboard, author-review site, Lady D site shell, and payment-link status.</td><td>Built into the review package and ready for corrected payment link.</td></tr>
-  <tr><td><strong>Juan Damon testimony</strong></td><td>Testimony/autobiography/memorial concept.</td><td><strong>Separated from this invoice.</strong> Future scope only unless separately approved.</td></tr>
-  </table>
-  <h2>2 - Recommended Execution</h2>
-  <div class="two"><div class="callout"><strong>Finalize first.</strong><br>Freeze scope and source files before producing more assets. The project has enough material to move into proof discipline.</div><div class="callout"><strong>Publish with proof.</strong><br>Move from review HTML/PDF drafts into KDP-ready interiors, final cover wraps, Previewer checks, and physical proof review.</div></div>
-  <div class="footer"><span>Corrected package supersedes the prior balance language.</span><span>Page 2 of 8</span></div>
-</section>
-<section class="page">
-  <h2>3 - Execute-Ready Invoice</h2>
-  <table class="table"><tr><th>Line</th><th>Description</th><th>Amount</th></tr>
-  <tr><td>1</td><td>Three-book devotional library development, structuring, formatting, and author-review delivery.</td><td>$800</td></tr>
-  <tr><td>2</td><td>Three companion journals aligned to the devotional collection.</td><td>$400</td></tr>
-  <tr><td>3</td><td>31-day visual devotional product lane adapted from the earlier devotional concept.</td><td>$250</td></tr>
-  <tr><td>4</td><td>Author review hub, progress dashboard, corrected proposal/invoice, Lady D website shell, and client navigation.</td><td>$250</td></tr>
-  <tr><td>5</td><td>KDP/digital publishing prep, cover/interior coordination, proof workflow, rights/scripture/provenance support.</td><td>$300</td></tr>
-  <tr><td colspan="2"><strong>Current package total</strong></td><td><strong>$2,000</strong></td></tr>
-  <tr><td colspan="2">Paid credit already received ($200 prior payment + $400 check)</td><td>- $600</td></tr>
-  <tr><td colspan="2"><strong>Remaining balance due</strong></td><td><strong>$1,400</strong></td></tr>
-  </table>
-  <div class="paybox" style="margin-top:18px"><h3>Secure Payment</h3><p>The verified Stripe checkout is active for the <strong>$1,400</strong> remaining balance.</p><p><a href="https://buy.stripe.com/fZu28t5WpchE73EbnA0VO0a"><strong>Pay $1,400 securely with Stripe</strong></a></p></div>
-  <div class="footer"><span>Do not send the retired checkout for this corrected invoice.</span><span>Page 3 of 8</span></div>
-</section>
-<section class="page">
-  <h2>4 - Product Exhibit</h2>
-  <p>The invoice now carries visual proof of what is being produced, not just a list of words. These covers represent the active author-review devotional lanes.</p>
-  <div class="cover-grid"><article class="cover-card"><img src="production-assets/author-review-covers/volume-1-author-review-cover.png" alt="Surrendering to God's Love cover"><h3>Volume 1</h3><p><strong>Surrendering to God's Love</strong></p><p class="muted">A 365-day devotional journey into the Father's heart.</p></article><article class="cover-card"><img src="production-assets/author-review-covers/volume-2-author-review-cover.png" alt="Walking with Jesus cover"><h3>Volume 2</h3><p><strong>Walking with Jesus</strong></p><p class="muted">A 365-day devotional journey of daily discipleship.</p></article><article class="cover-card"><img src="production-assets/author-review-covers/volume-3-author-review-cover.png" alt="Filled with the Holy Spirit cover"><h3>Volume 3</h3><p><strong>Filled with the Holy Spirit</strong></p><p class="muted">A 365-day devotional journey in Spirit-led living.</p></article></div>
-  <div class="callout" style="margin-top:16px"><strong>Why this matters.</strong> The customer can see the tangible publishing package: devotional volumes, companion-journal pairings, and a live review system that makes approval easier.</div>
-  <div class="footer"><span>Cover art remains subject to author approval and KDP wrap locks.</span><span>Page 4 of 8</span></div>
-</section>
-<section class="page">
-  <h2>5 - Deliverables & Success Criteria</h2>
-  <table class="table"><tr><th>Deliverable</th><th>Success criteria</th></tr>
-  <tr><td>Three devotional books</td><td>Each book has a reviewable HTML edition, final proof PDF lane, cover direction, front matter plan, and KDP-ready path.</td></tr>
-  <tr><td>Three companion journals</td><td>Each journal pairs with its devotional volume and can stand as a reflective product.</td></tr>
-  <tr><td>31-day visual devotional</td><td>Visual devotional lane remains included as a product expansion from the original 31-day work.</td></tr>
-  <tr><td>Author hub + dashboard</td><td>One review site contains proposal/invoice, PDF, payment-link status, books, journals, dashboard, State of the Union, and Plan of Attack.</td></tr>
-  <tr><td>Juan Damon testimony</td><td>Not part of this current $2,000 package. A separate testimony package can be scoped later with intake boundaries, approvals, and its own payment terms.</td></tr>
-  </table>
-  <h2>6 - Current Client Review Links</h2>
-  <p><a href="susan-damon-hub.html">Publishing hub</a> - <a href="index.html">Author review portal</a> - <a href="lady-d-project-dashboard.html">Live dashboard</a> - <a href="lady-d-author-site.html">Lady D website shell</a></p>
-  <div class="footer"><span>Review links are part of the client-facing package.</span><span>Page 5 of 8</span></div>
-</section>
-<section class="page">
-  <h2>7 - Publishing Timeline & Production Gates</h2>
-  <table class="table"><tr><th>Gate</th><th>Purpose</th><th>Evidence</th></tr>
-  <tr><td>Source freeze</td><td>Name canonical sources for all six core products and the visual devotional lane.</td><td>Book registry / source manifest.</td></tr>
-  <tr><td>Author decisions</td><td>Approve titles, cover direction, Bible policy, author bio, dedication, acknowledgments, and launch sequence.</td><td>Decision sheet and author approval.</td></tr>
-  <tr><td>Editorial + theology proof</td><td>Protect Lady D's voice, Sabbath accuracy, scripture policy, and devotional usefulness.</td><td>Proof report and decision log.</td></tr>
-  <tr><td>KDP interior export</td><td>Move from review HTML/PDF drafts to upload candidates.</td><td>Final print PDFs with checksums.</td></tr>
-  <tr><td>Cover wrap lock</td><td>Finalize full cover PDFs after page count, trim, bleed, paper, ISBN/barcode decisions.</td><td>KDP cover calculator outputs.</td></tr>
-  <tr><td>Physical proof</td><td>Validate readability, margins, cover alignment, paper feel, and author satisfaction.</td><td>Proof photos / approval notes.</td></tr>
-  </table>
-  <div class="footer"><span>Final publication remains proof-gated.</span><span>Page 6 of 8</span></div>
-</section>
-<section class="page">
-  <h2>8 - Terms, Responsibilities, and Safeguards</h2>
-  <div class="two"><div><h3>Provider Responsibilities</h3><ul><li>Preserve Susan Damon's devotional voice.</li><li>Maintain the author review hub and progress dashboard.</li><li>Prepare publishing-ready files after proof gates are passed.</li><li>Keep private source material out of public-facing pages unless approved.</li></ul></div><div><h3>Client Responsibilities</h3><ul><li>Review draft pages and consolidate feedback.</li><li>Confirm author bio, dedication, acknowledgments, cover choice, and Bible policy.</li><li>Confirm final publishing format and distribution direction.</li><li>Approve any separate testimony scope before testimony work is priced or included.</li></ul></div></div>
-  <h3>Out of scope unless separately approved</h3><p>Paid marketing campaigns, live seminar coordination, full audiobook narration/production, foreign-language translation, book tour management, products beyond the listed current package, and Juan Damon testimony/autobiography work.</p>
-  <div class="footer"><span>Confidentiality and rights language follows the original agreement.</span><span>Page 7 of 8</span></div>
-</section>
-<section class="page">
-  <h2>Acceptance & Payment Instructions</h2>
-  <p>By approving this corrected proposal/invoice, the parties acknowledge the current $2,000 package total, $600 paid to date, and $1,400 remaining balance.</p>
-  <div class="two"><div><h3>Provider</h3><p>Jonathan Isaac<br>Island Development Crew LLC / Island Dev Crew Consulting<br>jon-isaac@islanddevcrew.com</p><div class="sig"></div><p class="muted">Signature / Date</p></div><div><h3>Client</h3><p>Susan "Lady D" Damon<br>1ladysd23@gmail.com</p><div class="sig"></div><p class="muted">Signature / Date</p></div></div>
-  <div class="paybox"><h3>Payment Instructions</h3><ol><li>Review this proposal/invoice and the live author review hub.</li><li>Pay the $1,400 remaining balance through the verified Stripe checkout above.</li><li>Use the author review hub for project status and approval gates.</li><li>Final upload/publishing occurs only after author approval and proof validation.</li></ol></div>
-  <div class="footer"><span>Signature-ready PDF; e-sign platform optional if audit trail is required.</span><span>Page 8 of 8</span></div>
-</section>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Susan Lady D Damon's current publishing proposal and invoice for her devotional library.">
+<link rel="canonical" href="https://lady-d-author-review-site.vercel.app/susan-damon-publishing-proposal.html">
+<title>Susan "Lady D" Damon | Publishing Proposal &amp; Invoice</title>
+<style>
+:root{--ink:#202621;--muted:#68716a;--paper:#fffefd;--wash:#f3f5f0;--forest:#153f34;--deep:#102d27;--green:#28604e;--gold:#b88a39;--gold-soft:#e9d39e;--wine:#7b3444;--line:#d9dfd9;--cream:#f6ecdf;--white:#fff;--shadow:0 18px 52px rgba(24,43,35,.14)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;color:var(--ink);background:var(--paper);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.55}img{display:block;max-width:100%}a{color:inherit}h1,h2,h3{margin:0;font-family:Georgia,"Times New Roman",serif;line-height:1.08;letter-spacing:0}p{margin:0}.shell{width:min(1160px,calc(100% - 40px));margin:auto}
+.topbar{position:sticky;top:0;z-index:30;background:rgba(255,254,253,.96);border-bottom:1px solid var(--line);backdrop-filter:blur(14px)}.topbar .shell{min-height:68px;display:flex;align-items:center;gap:18px}.brand{display:flex;align-items:center;gap:10px;margin-right:auto;color:var(--deep);font-weight:850;text-decoration:none}.brand img{width:36px;height:36px;object-fit:contain}.brand span{line-height:1.05}.nav{display:flex;align-items:center;gap:4px}.nav a{padding:9px 10px;border-radius:6px;color:#445049;text-decoration:none;font-size:13px;font-weight:750}.nav a:hover,.nav a:focus-visible{background:var(--wash);color:var(--forest);outline:none}.top-action{display:inline-flex;align-items:center;justify-content:center;min-height:40px;padding:8px 13px;border-radius:6px;background:var(--forest);color:#fff;text-decoration:none;font-size:13px;font-weight:850}
+.hero{position:relative;min-height:590px;display:flex;align-items:end;overflow:hidden;background:var(--deep);color:#fff}.hero>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:54% 50%}.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(9,29,24,.94),rgba(13,39,31,.76) 45%,rgba(13,39,31,.14) 80%)}.hero .shell{position:relative;z-index:2;padding-block:88px 72px}.hero-copy{max-width:760px}.eyebrow{margin:0 0 14px;color:var(--green);font-size:12px;font-weight:900;letter-spacing:.1em;text-transform:uppercase}.hero .eyebrow{color:#f0d795}h1{font-size:clamp(46px,6.4vw,78px)}.hero .lead{max-width:700px;margin-top:21px;color:#eef4ef;font-size:clamp(18px,2vw,22px)}.actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:28px}.button{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:10px 15px;border:1px solid var(--forest);border-radius:6px;background:var(--forest);color:#fff;text-decoration:none;font-size:13px;font-weight:850}.button.gold{border-color:var(--gold);background:var(--gold);color:#1f2018}.button.secondary{border-color:#bfc8c1;background:transparent;color:#34453d}.hero .button.secondary{border-color:rgba(255,255,255,.68);color:#fff;background:rgba(15,40,32,.18)}.button:hover,.button:focus-visible{filter:brightness(1.08);outline:3px solid rgba(184,138,57,.24);outline-offset:2px}
+.truth-band{border-block:1px solid var(--line);background:var(--wash)}.truth{display:grid;grid-template-columns:1.15fr repeat(3,1fr)}.truth>div{min-height:142px;padding:27px 25px;border-right:1px solid var(--line)}.truth>div:last-child{border-right:0}.truth h2{font-size:28px}.truth p,.truth span{display:block;margin-top:9px;color:var(--muted);font-size:14px}.truth strong{display:block;color:var(--forest);font-family:Georgia,serif;font-size:39px;line-height:1}
+.document{padding:72px 0}.proposal-page{position:relative;padding:54px 0;border-top:1px solid var(--line)}.proposal-page:first-child{border-top:0;padding-top:0}.page-head{display:grid;grid-template-columns:80px 1fr auto;gap:20px;align-items:center;margin-bottom:28px}.page-num{color:var(--gold);font-family:Georgia,serif;font-size:46px}.page-head h2{font-size:clamp(29px,3.5vw,43px)}.page-label{color:var(--muted);font-size:12px;font-weight:850;text-transform:uppercase}.intro{max-width:850px;color:var(--muted);font-size:17px}.notice{margin-top:22px;padding:18px 20px;border-left:4px solid var(--gold);background:#fbf7ee}.notice strong{color:var(--forest)}.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:20px}.chip{display:inline-flex;padding:6px 9px;border:1px solid var(--line);border-radius:4px;background:#fff;color:#4f5b53;font-size:11px;font-weight:850;text-transform:uppercase}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:24px}.money{padding:28px;background:var(--deep);color:#fff}.money span{color:#d6e0da;font-size:12px;font-weight:800;text-transform:uppercase}.money strong{display:block;margin-top:9px;color:#f0d795;font-family:Georgia,serif;font-size:58px;line-height:1}.money p{margin-top:10px;color:#d5dfd9}.paybox{padding:27px;border:1px solid #ddcfb8;background:var(--cream)}.paybox h3{font-size:25px}.paybox p{margin-top:11px;color:#615b52}.paybox .button{margin-top:15px}
+.table-wrap{margin-top:24px;overflow-x:auto}table{width:100%;border-collapse:collapse;background:#fff}th,td{padding:13px 14px;border:1px solid var(--line);text-align:left;vertical-align:top}th{background:var(--deep);color:#fff;font-size:12px;text-transform:uppercase}td{color:#4c554f}td strong{color:var(--ink)}.covers{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:28px}.cover{border:1px solid var(--line);background:#fff;box-shadow:0 12px 32px rgba(24,43,35,.08)}.cover img{width:100%;aspect-ratio:2/3;object-fit:cover}.cover-copy{padding:19px}.cover-copy h3{font-size:23px}.cover-copy p{margin-top:8px;color:var(--muted);font-size:14px}.responsibilities{display:grid;grid-template-columns:1fr 1fr;gap:30px;margin-top:25px}.responsibilities h3{font-size:25px}ul,ol{margin:12px 0 0;padding-left:20px}li+li{margin-top:8px}li{color:#4d5851}.signature{display:grid;grid-template-columns:1fr 1fr;gap:42px;margin-top:28px}.sig-line{height:74px;border-bottom:1px solid #838e87}.signature p{margin-top:8px;color:var(--muted)}.page-foot{display:flex;justify-content:space-between;gap:16px;margin-top:32px;padding-top:15px;border-top:1px solid var(--line);color:var(--muted);font-size:12px}
+.closing{padding:55px 0;background:var(--forest);color:#fff}.closing .shell{display:grid;grid-template-columns:1fr auto;gap:30px;align-items:center}.closing h2{font-size:38px}.closing p{max-width:700px;margin-top:10px;color:#d1ddd6}.footer{padding:28px 0 44px;color:var(--muted);font-size:13px}.footer .shell{display:flex;align-items:center;gap:12px}.footer img{width:30px;height:30px;object-fit:contain}
+@media(max-width:860px){.nav{display:none}.truth{grid-template-columns:1fr 1fr}.truth>div:first-child{grid-column:1/-1;border-bottom:1px solid var(--line)}.truth>div:nth-child(3){border-right:0}.truth>div:last-child{grid-column:1/-1;border-top:1px solid var(--line)}.page-head{grid-template-columns:55px 1fr}.page-label{grid-column:2}.two,.responsibilities{grid-template-columns:1fr}.covers{gap:12px}.closing .shell{grid-template-columns:1fr}}
+@media(max-width:620px){.shell{width:min(100% - 26px,1160px)}.top-action{font-size:0}.top-action::after{content:"Review";font-size:13px}.hero{min-height:610px}.hero::after{background:rgba(13,39,31,.72)}h1{font-size:45px}.actions .button{flex:1 1 100%}.truth{grid-template-columns:1fr}.truth>div,.truth>div:first-child,.truth>div:last-child{grid-column:1;border-right:0;border-top:0;border-bottom:1px solid var(--line)}.truth>div:last-child{border-bottom:0}.document{padding:55px 0}.proposal-page{padding:44px 0}.page-head{grid-template-columns:1fr;gap:5px}.page-label{grid-column:1}.covers{grid-template-columns:1fr}.cover{display:grid;grid-template-columns:42% 1fr}.cover img{height:100%}.signature{grid-template-columns:1fr}.page-foot{display:block}.page-foot span{display:block;margin-top:4px}}
+@media print{@page{size:Letter;margin:.42in}body{background:#fff;font-size:10.5px;print-color-adjust:exact;-webkit-print-color-adjust:exact}.topbar,.hero,.truth-band,.closing,.footer{display:none}.document{padding:0}.shell{width:auto}.proposal-page{min-height:9.95in;padding:.08in 0 .42in!important;border:0;break-after:page;page-break-after:always}.proposal-page:last-child{break-after:auto;page-break-after:auto}.page-head{grid-template-columns:48px 1fr auto;gap:10px;margin-bottom:14px}.page-num{font-size:34px}.page-head h2{font-size:23px}.intro{font-size:11px}.notice{margin-top:12px;padding:10px 12px}.chips{margin-top:10px}.chip{font-size:8px;padding:3px 6px}.two{gap:10px;margin-top:12px}.money,.paybox{padding:14px}.money strong{font-size:36px}.paybox h3{font-size:17px}.button{display:none}.table-wrap{margin-top:12px}th,td{padding:7px 8px}.covers{gap:10px;margin-top:14px}.cover-copy{padding:9px}.cover-copy h3{font-size:15px}.cover-copy p{font-size:9px}.responsibilities,.signature{gap:18px;margin-top:14px}.responsibilities h3{font-size:17px}ul,ol{margin-top:6px}li+li{margin-top:3px}.page-foot{position:absolute;left:0;right:0;bottom:0;margin-top:10px;padding-top:8px}}
+</style>
+</head>
+<body>
+<header class="topbar"><div class="shell"><a class="brand" href="/"><img src="assets/idc-palm-logo.png" alt="IDC Publishing"><span>Lady D<br>Publishing Home</span></a><nav class="nav" aria-label="Proposal navigation"><a href="/">Home</a><a href="lady-d-finalization-review.html">Review library</a><a href="lady-d-cover-decision-deck.html">Choose covers</a><a href="#invoice">Invoice</a></nav><a class="top-action" href="https://buy.stripe.com/fZu28t5WpchE73EbnA0VO0a" target="_blank" rel="noopener">Pay $1,400</a></div></header>
+<main>
+<section class="hero"><img src="covers/lady-d-finalization/v1-a-her-golden-valley.png" alt="A luminous golden valley from the Lady D devotional cover family"><div class="shell"><div class="hero-copy"><p class="eyebrow">Island Development Crew &middot; Current publishing proposal</p><h1>Susan &ldquo;Lady D&rdquo; Damon Publishing Package</h1><p class="lead">A clear account of the devotional library, the work already assembled, the author decisions still ahead, and the corrected balance that carries the collection toward print.</p><div class="actions"><a class="button gold" href="susan-damon-publishing-proposal.pdf">Download proposal PDF</a><a class="button secondary" href="/">Return to publishing home</a></div></div></div></section>
+<section class="truth-band"><div class="shell truth"><div><p class="eyebrow">Package truth</p><h2>One scope. One balance. One client path.</h2><p>Juan Damon testimony work remains separate from this agreement.</p></div><div><strong>$2,000</strong><span>current package total</span></div><div><strong>$600</strong><span>received to date</span></div><div><strong>$1,400</strong><span>remaining balance</span></div></div></section>
+<div class="document shell">
+<section class="proposal-page" id="overview"><div class="page-head"><span class="page-num">01</span><div><p class="eyebrow">Current agreement</p><h2>Publishing package overview</h2></div><span class="page-label">Updated August 31, 2026</span></div><p class="intro">This proposal preserves the current $2,000 devotional publishing agreement while reflecting the substantial library now assembled: three 366-entry devotionals, three paired companion journals, a luminous cover family, a private author review home, and the 31-day visual devotional now entering production.</p><div class="notice"><strong>Corrected account.</strong> Susan has paid $600 ($200 prior payment and $400 by check), leaving $1,400. The verified checkout below is the only active customer payment link for this balance.</div><div class="chips"><span class="chip">3 devotionals</span><span class="chip">3 companion journals</span><span class="chip">31-day visual devotional</span><span class="chip">cover selection</span><span class="chip">KDP proof path</span><span class="chip">author review home</span></div><div class="two"><div class="money"><span>Current package total</span><strong>$2,000</strong><p>$600 received &middot; $1,400 remaining</p></div><div class="paybox"><h3>Secure payment</h3><p>One-time Stripe checkout for the corrected remaining balance. Automatic tax is not added.</p><a class="button gold" href="https://buy.stripe.com/fZu28t5WpchE73EbnA0VO0a" target="_blank" rel="noopener">Pay $1,400 securely</a></div></div><div class="page-foot"><span>Island Development Crew LLC &middot; jon-isaac@islanddevcrew.com</span><span>Page 1 of 8</span></div></section>
+<section class="proposal-page"><div class="page-head"><span class="page-num">02</span><div><p class="eyebrow">Scope and status</p><h2>What the package now contains</h2></div><span class="page-label">Author review stage</span></div><div class="table-wrap"><table><thead><tr><th>Track</th><th>Included work</th><th>Current truth</th></tr></thead><tbody><tr><td><strong>Devotional trilogy</strong></td><td>Three Scripture-led, 366-entry volumes in Lady D's calibrated preaching voice.</td><td>Polished 6&times;9 review editions assembled; author and theological approval remain.</td></tr><tr><td><strong>Companion journals</strong></td><td>Three paired journals with daily practice and optional monthly deep-dive pages.</td><td>Paired interiors assembled and visually audited.</td></tr><tr><td><strong>Luminous cover family</strong></td><td>Bright, no-text candidates grounded in Lady D's own imagery and transcript guidance.</td><td>Ten qualified candidates available for her selection; final wraps wait for production metadata.</td></tr><tr><td><strong>31-day visual devotional</strong></td><td>Ten selected days from each volume plus a new trinitarian Day 31, prepared for print and motion.</td><td>Recovered source pack and scene system are now being reconciled into the shared production corpus.</td></tr><tr><td><strong>Publishing home</strong></td><td>One private client path into books, journals, cover decisions, proposal, and secure payment.</td><td>Live and unified at the main site address.</td></tr><tr><td><strong>Juan Damon testimony</strong></td><td>Potential testimony, autobiography, or memorial work.</td><td><strong>Not included.</strong> Separate future intake, approval, schedule, and pricing required.</td></tr></tbody></table></div><div class="notice"><strong>Release boundary.</strong> Review-ready does not mean published. KDP Previewer, exact wraps, a physical proof, and Susan's final approval remain required.</div><div class="page-foot"><span>Scope reflects the current devotional package only.</span><span>Page 2 of 8</span></div></section>
+<section class="proposal-page" id="invoice"><div class="page-head"><span class="page-num">03</span><div><p class="eyebrow">Execute-ready invoice</p><h2>One reconciled balance</h2></div><span class="page-label">Stripe verified</span></div><div class="table-wrap"><table><thead><tr><th>Line</th><th>Description</th><th>Amount</th></tr></thead><tbody><tr><td>1</td><td>Three-volume devotional library development, voice calibration, structuring, formatting, and author-review delivery.</td><td>$800</td></tr><tr><td>2</td><td>Three companion journals aligned to the devotional collection.</td><td>$400</td></tr><tr><td>3</td><td>31-day visual devotional print and digital product lane.</td><td>$250</td></tr><tr><td>4</td><td>Private author review home, proposal/invoice, cover decision experience, and client navigation.</td><td>$250</td></tr><tr><td>5</td><td>KDP and digital preparation, cover/interior coordination, proof workflow, and rights/provenance support.</td><td>$300</td></tr><tr><td colspan="2"><strong>Current package total</strong></td><td><strong>$2,000</strong></td></tr><tr><td colspan="2">Paid credit received</td><td>&minus; $600</td></tr><tr><td colspan="2"><strong>Remaining balance due</strong></td><td><strong>$1,400</strong></td></tr></tbody></table></div><div class="paybox"><h3>Verified secure checkout</h3><p>The active Stripe product is the Susan Damon corrected publishing-package remaining balance for $1,400 USD.</p><a class="button gold" href="https://buy.stripe.com/fZu28t5WpchE73EbnA0VO0a" target="_blank" rel="noopener">Continue to Stripe</a></div><div class="page-foot"><span>Do not use or send a retired historical checkout.</span><span>Page 3 of 8</span></div></section>
+<section class="proposal-page"><div class="page-head"><span class="page-num">04</span><div><p class="eyebrow">Product exhibit</p><h2>The luminous devotional family</h2></div><span class="page-label">Current cover leaders</span></div><p class="intro">The package is now represented by the bright, image-led family Lady D asked to see. These are active author-review directions; final title typography, backs, spines, barcode placement, and exact KDP wraps remain proof-gated.</p><div class="covers"><article class="cover"><img src="covers/lady-d-finalization/v1-a-her-golden-valley.png" alt="Surrendering to God's Love luminous golden valley cover direction"><div class="cover-copy"><h3>Surrendering to God's Love</h3><p>Volume I &middot; the Father's expansive, faithful love.</p></div></article><article class="cover"><img src="covers/lady-d-finalization/v2-d-carried-on-the-way.png" alt="Walking with Jesus carried on the way cover direction"><div class="cover-copy"><h3>Walking with Jesus</h3><p>Volume II &middot; companionship, discipleship, and being carried.</p></div></article><article class="cover"><img src="covers/lady-d-finalization/v3-c-after-rain.png" alt="Filled with the Holy Spirit bright after rain cover direction"><div class="cover-copy"><h3>Filled with the Holy Spirit</h3><p>Volume III &middot; comfort, courage, renewal, and light.</p></div></article></div><div class="page-foot"><span>Cover selection remains Susan Damon's decision.</span><span>Page 4 of 8</span></div></section>
+<section class="proposal-page"><div class="page-head"><span class="page-num">05</span><div><p class="eyebrow">Deliverables</p><h2>What success looks like</h2></div><span class="page-label">Client-facing path</span></div><div class="table-wrap"><table><thead><tr><th>Deliverable</th><th>Completion standard</th></tr></thead><tbody><tr><td><strong>Three devotional books</strong></td><td>Lady D approves representative readings, front matter, Scripture treatment, final interiors, and physical proofs.</td></tr><tr><td><strong>Three companion journals</strong></td><td>Each journal remains useful on its own while deepening the paired devotional without daily-page overload.</td></tr><tr><td><strong>31-day visual devotional</strong></td><td>Thirty selected trilogy days and one new culmination share an audited message source, approved scene art, print layout, and motion-safe digital treatment.</td></tr><tr><td><strong>Cover family</strong></td><td>Susan selects the visual direction; exact title design and wraps pass thumbnail, luminance, KDP, and physical-proof checks.</td></tr><tr><td><strong>Publishing home</strong></td><td>The main URL remains the single client entrance with no internal planning documents in primary navigation.</td></tr></tbody></table></div><h3 style="margin-top:26px">Current review links</h3><div class="actions"><a class="button" href="/">Publishing home</a><a class="button secondary" href="lady-d-finalization-review.html">Review the books</a><a class="button secondary" href="lady-d-cover-decision-deck.html">Choose the covers</a></div><div class="page-foot"><span>Internal production reports are intentionally excluded from client navigation.</span><span>Page 5 of 8</span></div></section>
+<section class="proposal-page"><div class="page-head"><span class="page-num">06</span><div><p class="eyebrow">Production gates</p><h2>The path from review to release</h2></div><span class="page-label">Proof before publication</span></div><div class="table-wrap"><table><thead><tr><th>Gate</th><th>Purpose</th><th>Evidence required</th></tr></thead><tbody><tr><td><strong>Author voice and theology</strong></td><td>Confirm the books sound like Lady D and teach each anchor passage faithfully.</td><td>Recorded author decisions and resolved proof notes.</td></tr><tr><td><strong>Front matter</strong></td><td>Approve acknowledgments, foreword, dedication, bio, Scripture notice, and launch order.</td><td>Signed decision sheet and final supplied copy.</td></tr><tr><td><strong>31-day scene gauntlet</strong></td><td>Prevent beautiful but off-message imagery from entering print or motion.</td><td>Thirty-one scene scorecards, prompt provenance, and author shortlist.</td></tr><tr><td><strong>KDP interiors and wraps</strong></td><td>Lock trim, bleed, paper, page count, spine, title treatment, ISBN, and barcode.</td><td>Checksummed upload candidates and KDP Previewer record.</td></tr><tr><td><strong>Physical proof</strong></td><td>Validate readability, color, margins, alignment, paper feel, and overall dignity.</td><td>Proof photographs, notes, corrections, and final author approval.</td></tr></tbody></table></div><div class="page-foot"><span>Nothing is represented as published before these gates close.</span><span>Page 6 of 8</span></div></section>
+<section class="proposal-page"><div class="page-head"><span class="page-num">07</span><div><p class="eyebrow">Responsibilities and safeguards</p><h2>A beautiful result with clear boundaries</h2></div><span class="page-label">Current package terms</span></div><div class="responsibilities"><div><h3>IDC responsibilities</h3><ul><li>Preserve Susan Damon's voice and protected Scripture fields.</li><li>Maintain the unified publishing home and current payment path.</li><li>Prepare proof-gated print and digital deliverables.</li><li>Keep raw transcripts, internal reports, and production notes outside client navigation.</li><li>Record generated-image prompts, qualification results, and final asset provenance.</li></ul></div><div><h3>Client responsibilities</h3><ul><li>Review representative readings and consolidate feedback.</li><li>Approve cover direction, acknowledgments, foreword, bio, dedication, and Bible policy.</li><li>Confirm print format, paper, ISBN, barcode, and release order.</li><li>Approve a physical proof before public release.</li><li>Authorize any separate testimony or audiobook production before it begins.</li></ul></div></div><div class="notice"><strong>Outside this package unless separately approved:</strong> Juan Damon testimony work, full audiobook narration and distribution, paid advertising, book tours, translation, and products beyond the listed devotional lanes.</div><div class="page-foot"><span>Confidentiality and rights follow the original agreement.</span><span>Page 7 of 8</span></div></section>
+<section class="proposal-page"><div class="page-head"><span class="page-num">08</span><div><p class="eyebrow">Acceptance</p><h2>Approval and payment instructions</h2></div><span class="page-label">Signature-ready</span></div><p class="intro">Approval acknowledges the current $2,000 package total, $600 paid to date, $1,400 remaining balance, and the proof-gated path described in this proposal. Juan Damon testimony work is not included.</p><div class="signature"><div><h3>Provider</h3><p>Jonathan Isaac<br>Island Development Crew LLC<br>jon-isaac@islanddevcrew.com</p><div class="sig-line"></div><p>Signature / Date</p></div><div><h3>Client</h3><p>Susan &ldquo;Lady D&rdquo; Damon<br>1ladysd23@gmail.com</p><div class="sig-line"></div><p>Signature / Date</p></div></div><div class="paybox"><h3>Next steps</h3><ol><li>Review this proposal and the publishing home.</li><li>Pay the $1,400 remaining balance through the verified Stripe checkout.</li><li>Use the author review and cover decision pages to record approvals.</li><li>Complete final KDP and physical-proof gates before release.</li></ol><a class="button gold" href="https://buy.stripe.com/fZu28t5WpchE73EbnA0VO0a" target="_blank" rel="noopener">Pay $1,400 securely</a></div><div class="page-foot"><span>Electronic signature platform may be used when an audit trail is required.</span><span>Page 8 of 8</span></div></section>
+</div>
+<section class="closing"><div class="shell"><div><h2>The library is substantial. The next steps are clear.</h2><p>Return to Lady D's publishing home to review the trilogy, compare the luminous cover family, and prepare the collection for its final passage into print.</p></div><a class="button gold" href="/">Open publishing home</a></div></section>
 </main>
-<main class="wrap screen-only"><header class="hero"><div><div class="kicker">Island Development Crew - Proposal & Execute-Ready Invoice</div><h1>Susan "Lady D" Damon Publishing Package</h1><p class="lead">A corrected, PDF-ready client package with IDC branding, product-cover exhibits, author-review links, and the updated $2,000 / $600 paid / $1,400 remaining payment structure.</p><p><a class="btn gold" href="susan-damon-publishing-proposal.pdf">Download PDF</a><a class="btn teal" href="https://buy.stripe.com/fZu28t5WpchE73EbnA0VO0a">Pay $1,400 securely</a><a class="btn" href="susan-damon-hub.html">Back to hub</a></p></div><img class="hero-logo" src="assets/idc-palm-logo.png" alt="Island Development Crew palm logo"></header></main>
-<main class="screen-only">
-<section class="page">
-  <div class="page-header">
-    <div class="brand-lockup">
-      <img class="logo-img" src="assets/idc-palm-logo.png" alt="Island Development Crew palm logo">
-      <div>
-        <div class="kicker">Island Dev Crew Consulting - Publishing Systems</div>
-        <h1 style="font-size:34px">Susan "Lady D" Damon Publishing Package</h1>
-        <p>Corrected agreement, proposal, and execute-ready invoice for the current devotional publishing package.</p>
-      </div>
-    </div>
-    <div style="text-align:right;font-size:13px">
-      <strong>Prepared:</strong> July 8, 2026<br>
-      <strong>Client:</strong> Susan "Lady D" Damon<br>1ladysd23@gmail.com<br>
-      <strong>Provider:</strong> Jonathan Isaac<br>Island Development Crew LLC<br>jon-isaac@islanddevcrew.com
-    </div>
-  </div>
-  <div class="callout"><strong>Current correction.</strong> This package now reflects the updated payment facts: current package total $2,000, $600 already paid ($200 prior payment + $400 check), and $1,400 remaining balance. Juan Damon testimony work has been separated from this invoice and should be scoped separately if/when approved.</div>
-  <div class="chips"><span class="chip">3 devotional books</span><span class="chip">3 companion journals</span><span class="chip">31-day visual devotional</span><span class="chip">KDP + digital prep</span><span class="chip">Author review hub</span><span class="chip">Juan testimony separate</span></div>
-  <div class="two">
-    <div class="money"><div>CURRENT PACKAGE TOTAL</div><div class="big">$2,000</div><p>$600 paid to date - $1,400 remaining balance.</p></div>
-    <div class="paybox"><p><strong>Payment status:</strong> The verified Stripe checkout is active for the corrected $1,400 remaining balance.</p><p><a href="https://buy.stripe.com/fZu28t5WpchE73EbnA0VO0a"><strong>Pay $1,400 securely with Stripe</strong></a></p><p class="muted">Automatic tax is off; this checkout applies only to the balance shown in this proposal.</p></div>
-  </div>
-  <div class="footer"><span>Island Dev Crew Consulting - jon-isaac@islanddevcrew.com</span><span>Lady D Publishing Proposal - Page 1 of 8</span></div>
-</section>
-<section class="page">
-  <h2>1 - Executive Summary</h2>
-  <p>This proposal covers the current Lady D devotional publishing package as a professional, proof-gated publishing system. It keeps the strength of the original agreement while reflecting the expanded devotional-library work that now exists: a three-volume devotional series, companion journals, a visual devotional lane, review portal, dashboard, and KDP/digital publishing preparation.</p>
-  <table class="table"><tr><th>Track</th><th>Scope</th><th>Current status</th></tr>
-  <tr><td><strong>Devotional Trilogy</strong></td><td>Three 365-day devotional books with author-review HTML editions and proof-PDF lanes.</td><td>Assembled for author/publisher review; not final KDP upload files yet.</td></tr>
-  <tr><td><strong>Companion Journals</strong></td><td>Three paired journals aligned with the devotional books.</td><td>Draft/proof lanes staged; final print locks pending.</td></tr>
-  <tr><td><strong>Visual Devotional</strong></td><td>31-day visual devotional lane from the earlier devotional concept.</td><td>Included in current package as a product lane.</td></tr>
-  <tr><td><strong>Publishing System</strong></td><td>Hub, invoice, dashboard, author-review site, Lady D site shell, and payment-link status.</td><td>Built into the review package and ready for corrected payment link.</td></tr>
-  <tr><td><strong>Juan Damon testimony</strong></td><td>Testimony/autobiography/memorial concept.</td><td><strong>Separated from this invoice.</strong> Future scope only unless separately approved.</td></tr>
-  </table>
-  <h2>2 - Recommended Execution</h2>
-  <div class="two"><div class="callout"><strong>Finalize first.</strong><br>Freeze scope and source files before producing more assets. The project has enough material to move into proof discipline.</div><div class="callout"><strong>Publish with proof.</strong><br>Move from review HTML/PDF drafts into KDP-ready interiors, final cover wraps, Previewer checks, and physical proof review.</div></div>
-  <div class="footer"><span>Corrected package supersedes the prior balance language.</span><span>Page 2 of 8</span></div>
-</section>
-<section class="page">
-  <h2>3 - Execute-Ready Invoice</h2>
-  <table class="table"><tr><th>Line</th><th>Description</th><th>Amount</th></tr>
-  <tr><td>1</td><td>Three-book devotional library development, structuring, formatting, and author-review delivery.</td><td>$800</td></tr>
-  <tr><td>2</td><td>Three companion journals aligned to the devotional collection.</td><td>$400</td></tr>
-  <tr><td>3</td><td>31-day visual devotional product lane adapted from the earlier devotional concept.</td><td>$250</td></tr>
-  <tr><td>4</td><td>Author review hub, progress dashboard, corrected proposal/invoice, Lady D website shell, and client navigation.</td><td>$250</td></tr>
-  <tr><td>5</td><td>KDP/digital publishing prep, cover/interior coordination, proof workflow, rights/scripture/provenance support.</td><td>$300</td></tr>
-  <tr><td colspan="2"><strong>Current package total</strong></td><td><strong>$2,000</strong></td></tr>
-  <tr><td colspan="2">Paid credit already received ($200 prior payment + $400 check)</td><td>- $600</td></tr>
-  <tr><td colspan="2"><strong>Remaining balance due</strong></td><td><strong>$1,400</strong></td></tr>
-  </table>
-  <div class="paybox" style="margin-top:18px"><h3>Secure Payment</h3><p>The verified Stripe checkout is active for the <strong>$1,400</strong> remaining balance.</p><p><a href="https://buy.stripe.com/fZu28t5WpchE73EbnA0VO0a"><strong>Pay $1,400 securely with Stripe</strong></a></p></div>
-  <div class="footer"><span>Do not send the retired checkout for this corrected invoice.</span><span>Page 3 of 8</span></div>
-</section>
-<section class="page">
-  <h2>4 - Product Exhibit</h2>
-  <p>The invoice now carries visual proof of what is being produced, not just a list of words. These covers represent the active author-review devotional lanes.</p>
-  <div class="cover-grid"><article class="cover-card"><img src="production-assets/author-review-covers/volume-1-author-review-cover.png" alt="Surrendering to God's Love cover"><h3>Volume 1</h3><p><strong>Surrendering to God's Love</strong></p><p class="muted">A 365-day devotional journey into the Father's heart.</p></article><article class="cover-card"><img src="production-assets/author-review-covers/volume-2-author-review-cover.png" alt="Walking with Jesus cover"><h3>Volume 2</h3><p><strong>Walking with Jesus</strong></p><p class="muted">A 365-day devotional journey of daily discipleship.</p></article><article class="cover-card"><img src="production-assets/author-review-covers/volume-3-author-review-cover.png" alt="Filled with the Holy Spirit cover"><h3>Volume 3</h3><p><strong>Filled with the Holy Spirit</strong></p><p class="muted">A 365-day devotional journey in Spirit-led living.</p></article></div>
-  <div class="callout" style="margin-top:16px"><strong>Why this matters.</strong> The customer can see the tangible publishing package: devotional volumes, companion-journal pairings, and a live review system that makes approval easier.</div>
-  <div class="footer"><span>Cover art remains subject to author approval and KDP wrap locks.</span><span>Page 4 of 8</span></div>
-</section>
-<section class="page">
-  <h2>5 - Deliverables & Success Criteria</h2>
-  <table class="table"><tr><th>Deliverable</th><th>Success criteria</th></tr>
-  <tr><td>Three devotional books</td><td>Each book has a reviewable HTML edition, final proof PDF lane, cover direction, front matter plan, and KDP-ready path.</td></tr>
-  <tr><td>Three companion journals</td><td>Each journal pairs with its devotional volume and can stand as a reflective product.</td></tr>
-  <tr><td>31-day visual devotional</td><td>Visual devotional lane remains included as a product expansion from the original 31-day work.</td></tr>
-  <tr><td>Author hub + dashboard</td><td>One review site contains proposal/invoice, PDF, payment-link status, books, journals, dashboard, State of the Union, and Plan of Attack.</td></tr>
-  <tr><td>Juan Damon testimony</td><td>Not part of this current $2,000 package. A separate testimony package can be scoped later with intake boundaries, approvals, and its own payment terms.</td></tr>
-  </table>
-  <h2>6 - Current Client Review Links</h2>
-  <p><a href="susan-damon-hub.html">Publishing hub</a> - <a href="index.html">Author review portal</a> - <a href="lady-d-project-dashboard.html">Live dashboard</a> - <a href="lady-d-author-site.html">Lady D website shell</a></p>
-  <div class="footer"><span>Review links are part of the client-facing package.</span><span>Page 5 of 8</span></div>
-</section>
-<section class="page">
-  <h2>7 - Publishing Timeline & Production Gates</h2>
-  <table class="table"><tr><th>Gate</th><th>Purpose</th><th>Evidence</th></tr>
-  <tr><td>Source freeze</td><td>Name canonical sources for all six core products and the visual devotional lane.</td><td>Book registry / source manifest.</td></tr>
-  <tr><td>Author decisions</td><td>Approve titles, cover direction, Bible policy, author bio, dedication, acknowledgments, and launch sequence.</td><td>Decision sheet and author approval.</td></tr>
-  <tr><td>Editorial + theology proof</td><td>Protect Lady D's voice, Sabbath accuracy, scripture policy, and devotional usefulness.</td><td>Proof report and decision log.</td></tr>
-  <tr><td>KDP interior export</td><td>Move from review HTML/PDF drafts to upload candidates.</td><td>Final print PDFs with checksums.</td></tr>
-  <tr><td>Cover wrap lock</td><td>Finalize full cover PDFs after page count, trim, bleed, paper, ISBN/barcode decisions.</td><td>KDP cover calculator outputs.</td></tr>
-  <tr><td>Physical proof</td><td>Validate readability, margins, cover alignment, paper feel, and author satisfaction.</td><td>Proof photos / approval notes.</td></tr>
-  </table>
-  <div class="footer"><span>Final publication remains proof-gated.</span><span>Page 6 of 8</span></div>
-</section>
-<section class="page">
-  <h2>8 - Terms, Responsibilities, and Safeguards</h2>
-  <div class="two"><div><h3>Provider Responsibilities</h3><ul><li>Preserve Susan Damon's devotional voice.</li><li>Maintain the author review hub and progress dashboard.</li><li>Prepare publishing-ready files after proof gates are passed.</li><li>Keep private source material out of public-facing pages unless approved.</li></ul></div><div><h3>Client Responsibilities</h3><ul><li>Review draft pages and consolidate feedback.</li><li>Confirm author bio, dedication, acknowledgments, cover choice, and Bible policy.</li><li>Confirm final publishing format and distribution direction.</li><li>Approve any separate testimony scope before testimony work is priced or included.</li></ul></div></div>
-  <h3>Out of scope unless separately approved</h3><p>Paid marketing campaigns, live seminar coordination, full audiobook narration/production, foreign-language translation, book tour management, products beyond the listed current package, and Juan Damon testimony/autobiography work.</p>
-  <div class="footer"><span>Confidentiality and rights language follows the original agreement.</span><span>Page 7 of 8</span></div>
-</section>
-<section class="page">
-  <h2>Acceptance & Payment Instructions</h2>
-  <p>By approving this corrected proposal/invoice, the parties acknowledge the current $2,000 package total, $600 paid to date, and $1,400 remaining balance.</p>
-  <div class="two"><div><h3>Provider</h3><p>Jonathan Isaac<br>Island Development Crew LLC / Island Dev Crew Consulting<br>jon-isaac@islanddevcrew.com</p><div class="sig"></div><p class="muted">Signature / Date</p></div><div><h3>Client</h3><p>Susan "Lady D" Damon<br>1ladysd23@gmail.com</p><div class="sig"></div><p class="muted">Signature / Date</p></div></div>
-  <div class="paybox"><h3>Payment Instructions</h3><ol><li>Review this proposal/invoice and the live author review hub.</li><li>Pay the $1,400 remaining balance through the verified Stripe checkout above.</li><li>Use the author review hub for project status and approval gates.</li><li>Final upload/publishing occurs only after author approval and proof validation.</li></ol></div>
-  <div class="footer"><span>Signature-ready PDF; e-sign platform optional if audit trail is required.</span><span>Page 8 of 8</span></div>
-</section>
-</main>
-</body></html>
+<footer class="footer"><div class="shell"><img src="assets/idc-palm-logo.png" alt=""><span>IDC Publishing &middot; Island Development Crew LLC &middot; Private author review edition</span></div></footer>
+</body>
+</html>

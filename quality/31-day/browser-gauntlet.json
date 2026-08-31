@@ -1,0 +1,14 @@
+{
+  "schema": "idc.lady_d_client_and_31_day_browser_gauntlet/v1",
+  "status": "PASS",
+  "base": "http://127.0.0.1:8792",
+  "viewports": [
+    1440,
+    390
+  ],
+  "hub": "reconciled",
+  "proposalPages": 8,
+  "devotionalLeaves": 95,
+  "sceneCards": 31,
+  "webgl": "full-bleed"
+}

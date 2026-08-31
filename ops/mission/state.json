@@ -8,10 +8,10 @@
     "defaultBranch": "main",
     "planDoc": "/Users/IDC2.5/Documents/LADY D/_synthesis-2026-07-19/Lady-D-Cover-Codex-Handoff.md",
     "northStar": "Three Scripture-faithful devotionals in Susan 'Lady D' Damon's lived preaching voice, paired with useful journals and a luminous, coherent cover family ready for author review and KDP production.",
-    "status": "review_ready",
+    "status": "in_progress",
     "started": "2026-08-30",
-    "updated": "2026-08-30T23:24:42Z",
-    "sessionCount": 1
+    "updated": "2026-08-31T22:50:00Z",
+    "sessionCount": 2
   },
   "policies": {
     "merge": "review",
@@ -255,6 +255,153 @@
           "notes": ""
         }
       ]
+    },
+    {
+      "id": "P5",
+      "title": "Client Surface Reconciliation",
+      "goal": "Bring the proposal, invoice, root route, hub, current payment truth, and client navigation into one luminous and consistent experience while keeping operational reports private.",
+      "status": "done",
+      "sessionsEstimate": "1",
+      "gates": [
+        {
+          "id": "P5-G1",
+          "title": "Proposal and client-surface browser gauntlet passes",
+          "command": "node scripts/lady_d_finalization/smoke_client_proposal_and_31_day.cjs",
+          "status": "passed",
+          "evidence": "quality/31-day/browser-gauntlet.json",
+          "lastRun": "2026-08-31T22:46:52Z",
+          "notes": "Eight proposal pages, current $1,400 Stripe link, luminous covers, desktop/mobile overflow checks, and no old internal State or Plan links."
+        },
+        {
+          "id": "P5-G2",
+          "title": "Operational report paths are denied in production",
+          "command": "curl production routes for /ops, /source, /quality, /scripts, and /tmp",
+          "status": "pending",
+          "evidence": null,
+          "lastRun": null,
+          "notes": "Vercel deny routes are authored; live verification follows deployment."
+        }
+      ],
+      "tasks": [
+        {
+          "id": "P5-T1",
+          "title": "Rebuild proposal and invoice in the luminous client theme",
+          "status": "done",
+          "dependsOn": [
+            "P4-T2"
+          ],
+          "pr": null,
+          "notes": "Current agreement remains $2,000 total, $600 received, and $1,400 remaining through the reconciled Stripe checkout."
+        },
+        {
+          "id": "P5-T2",
+          "title": "Remove internal report links and reconcile the public navigation",
+          "status": "done",
+          "dependsOn": [
+            "P5-T1"
+          ],
+          "pr": null,
+          "notes": "Private enhanced reports live outside the deployed repository."
+        }
+      ]
+    },
+    {
+      "id": "P6",
+      "title": "31-Day Message and Product Architecture",
+      "goal": "Create one flowing visual devotional from ten high-meaning selections in each volume plus a new trinitarian Day 31, then express it as a readable print book and living digital edition.",
+      "status": "done",
+      "sessionsEstimate": "1",
+      "gates": [
+        {
+          "id": "P6-G1",
+          "title": "31-day content corpus and source split validate",
+          "command": "python3 scripts/lady_d_finalization/audit_31_day_visual_devotional.py",
+          "status": "passed",
+          "evidence": "quality/31-day/content-audit.json",
+          "lastRun": "2026-08-31T22:46:52Z",
+          "notes": "Thirty-one complete records; source split is 10 + 10 + 10 + one trilogy culmination; KJV remains visible and separately typeset."
+        },
+        {
+          "id": "P6-G2",
+          "title": "Print, motion, and scene-review browser gauntlet passes",
+          "command": "node scripts/lady_d_finalization/smoke_client_proposal_and_31_day.cjs",
+          "status": "passed",
+          "evidence": "quality/31-day/browser-gauntlet.json",
+          "lastRun": "2026-08-31T22:46:52Z",
+          "notes": "The 95-page 6x9 proof, 31-card scene console, mobile controls, four-paragraph reader, and full-bleed WebGL canvas pass."
+        }
+      ],
+      "tasks": [
+        {
+          "id": "P6-T1",
+          "title": "Recover and reconcile the original 31-day visual prompt architecture",
+          "status": "done",
+          "dependsOn": [
+            "P4-T2"
+          ],
+          "pr": null,
+          "notes": "Four movements and seven scene families are preserved; all generated art remains text-free."
+        },
+        {
+          "id": "P6-T2",
+          "title": "Build the 95-page print proof and full-screen motion reader",
+          "status": "done",
+          "dependsOn": [
+            "P6-T1"
+          ],
+          "pr": null,
+          "notes": "Each day has a visual page, devotional page, and Carry It With You response page with language lens, correlative Scripture, prayer, reflection, action, and writing space."
+        }
+      ]
+    },
+    {
+      "id": "P7",
+      "title": "31-Scene Art Production",
+      "goal": "Generate, qualify, rank, and approve one high-quality text-free visual scene for every day before either the print or motion edition is described as visually final.",
+      "status": "in_progress",
+      "sessionsEstimate": "2-4",
+      "gates": [
+        {
+          "id": "P7-G1",
+          "title": "Every scene clears the 88-point image gauntlet",
+          "command": "python3 scripts/lady_d_finalization/audit_31_day_visual_devotional.py",
+          "status": "pending",
+          "evidence": "quality/31-day/scene-gauntlet.json",
+          "lastRun": "2026-08-31T22:46:52Z",
+          "notes": "Current status is PENDING_ASSETS: 31 final scene renders remain missing. Directional movement key art is not accepted as final evidence."
+        },
+        {
+          "id": "P7-G2",
+          "title": "Author scene decisions and final spread review are recorded",
+          "command": "review lady-d-31-day-scene-review.html and render final spreads",
+          "status": "pending",
+          "evidence": null,
+          "lastRun": null,
+          "notes": "Prompt approval precedes generation; scene approval follows anatomy, composition, contrast, faithfulness, and print checks."
+        }
+      ],
+      "tasks": [
+        {
+          "id": "P7-T1",
+          "title": "Generate and score all 31 final text-free scenes",
+          "status": "in_progress",
+          "dependsOn": [
+            "P6-T2"
+          ],
+          "pr": null,
+          "notes": "Use the scene console as the controlled prompt and decision surface."
+        },
+        {
+          "id": "P7-T2",
+          "title": "Replace movement fallbacks and rebuild final print and motion editions",
+          "status": "todo",
+          "dependsOn": [
+            "P7-T1"
+          ],
+          "pr": null,
+          "notes": "No final visual claim until all 31 assets and representative printed spreads pass."
+        }
+      ]
     }
   ],
   "metrics": [
@@ -292,6 +439,20 @@
       "current": "3",
       "target": "3",
       "direction": "up"
+    },
+    {
+      "label": "31-day message records",
+      "baseline": "0",
+      "current": "31",
+      "target": "31",
+      "direction": "up"
+    },
+    {
+      "label": "Final-qualified 31-day scenes",
+      "baseline": "0",
+      "current": "0",
+      "target": "31",
+      "direction": "up"
     }
   ],
   "risks": [
@@ -314,18 +475,27 @@
       "title": "External author and KDP gates remain",
       "severity": "high",
       "note": "Susan's voice and theological approval, front matter, selected-cover wrap assembly, KDP Previewer, and a physical proof are required before public release."
+    },
+    {
+      "title": "31-day movement art can be mistaken for final scene art",
+      "severity": "high",
+      "note": "Open: the message, 95-page layout, prompt corpus, and motion framework are complete, but all 31 final visual scenes remain pending and must clear the 88-point gauntlet."
     }
   ],
   "prLog": [],
   "resume": {
-    "activePhase": "author-review",
+    "activePhase": "P7",
     "nextActions": [
+      "Approve or revise the 31 scene prompts in the scene gauntlet before image generation.",
+      "Generate the 31 text-free scenes, reject failures, and require at least 88/100 for every accepted render.",
+      "Replace movement key art with qualified scenes, rebuild the 95-page PDF and motion edition, and re-run the desktop, mobile, and PDF gauntlets.",
       "Ask Susan to review representative days from every month in all three devotionals and journals.",
       "Record Susan's ranked cover selection, then assemble exact KDP wraps after page count and paper choice are locked.",
       "Complete theological and permissions review, KDP Previewer, and a photographed physical proof.",
       "Use the audiobook manifests only with human narration or a provider workflow explicitly authorized for the intended distributor."
     ],
     "blockers": [
+      "Thirty-one final visual scenes have not yet been generated or qualified; the 31-day editions are production proofs, not visual finals.",
       "Final author voice and theological approval has not yet been recorded.",
       "Final cover typography, spine width, back matter, barcode, and KDP physical proof depend on author selection and production metadata."
     ],

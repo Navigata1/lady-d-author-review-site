@@ -1,0 +1,31 @@
+{
+  "schema": "idc.lady_d_scene_candidate_review/v1",
+  "day": 31,
+  "candidate": "assets/lady-d-31-day/drafts/day-31-v1.png",
+  "sha256": "b431c0ee06f0ef9abc5dc46b333081add54f5e5d64360dcbcd1858fc818ad58a",
+  "dimensions": {
+    "width": 1024,
+    "height": 1536,
+    "targetWidth": 1800,
+    "targetHeight": 2700
+  },
+  "scores": {
+    "messageFidelity": 24,
+    "compositionAndTypeZone": 19,
+    "luminousColorAndDepth": 15,
+    "anatomyAndHumanDignity": 15,
+    "printReadiness": 6,
+    "distinction": 9,
+    "total": 88
+  },
+  "hardGates": {
+    "noBakedText": "PASS",
+    "noWatermark": "PASS",
+    "anatomy": "PASS",
+    "verticalRatio": "PASS",
+    "nativePrintResolution": "HOLD"
+  },
+  "verdict": "DIRECTION_ACCEPTED_PRINT_HOLD",
+  "rationale": "The luminous city, open gates, river, dignified figure, and clear upper title zone carry Day 31 with unusual warmth and welcome. The candidate is approved as a creative-direction anchor, but its 1024x1536 native resolution does not satisfy the 1800x2700 full-page production target.",
+  "nextAction": "Regenerate or professionally upscale from an approved source before this candidate can replace the movement fallback in the print or motion final."
+}
