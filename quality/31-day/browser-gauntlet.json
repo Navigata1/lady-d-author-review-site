@@ -1,7 +1,7 @@
 {
   "schema": "idc.lady_d_client_and_31_day_browser_gauntlet/v1",
   "status": "PASS",
-  "base": "http://127.0.0.1:8792",
+  "base": "https://lady-d-author-review-site.vercel.app",
   "viewports": [
     1440,
     390

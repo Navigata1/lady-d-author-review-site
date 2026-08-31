@@ -1,0 +1,41 @@
+{
+  "schema": "idc.lady_d_production_privacy_gate/v1",
+  "status": "PASS",
+  "verifiedAt": "2026-08-31T23:11:20Z",
+  "commit": "59e7c7b",
+  "deployment": {
+    "id": "dpl_5sqqz27qL3H5GgqM7s8DWbFjtRhr",
+    "candidate": "https://lady-d-author-review-site-8fhj0m7m9-islanddevcrew.vercel.app",
+    "production": "https://lady-d-author-review-site.vercel.app"
+  },
+  "publicRoutes": {
+    "/": 200,
+    "/susan-damon-publishing-proposal.html": 200,
+    "/susan-damon-publishing-proposal.pdf": 200,
+    "/lady-d-31-day-visual-devotional.html": 200,
+    "/lady-d-31-day-motion.html": 200,
+    "/lady-d-31-day-scene-review.html": 200,
+    "/downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Print-Proof.pdf": 200,
+    "/downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Production-Proof-2026-08-31.zip": 200
+  },
+  "deniedRoutes": {
+    "/ops/mission/state.json": 404,
+    "/source/finalization/31-day/visual-devotional.json": 404,
+    "/quality/31-day/content-audit.json": 404,
+    "/scripts/lady_d_finalization/build_31_day_visual_devotional.py": 404,
+    "/tmp/internal-reports/hero.jpg": 404
+  },
+  "downloadIntegrity": {
+    "pdfSha256": "36bf455f1e578597194dbb884cb9c441f5370cdf98b5ea606d899ac7f9381ab1",
+    "zipSha256": "c30162976ec56a87d4fb5c0554dc067ba6c7ecf992c1b38f433fd853e9548250",
+    "zipTest": "PASS"
+  },
+  "browserGauntlet": {
+    "status": "PASS",
+    "viewports": [1440, 390],
+    "proposalPages": 8,
+    "devotionalLeaves": 95,
+    "sceneCards": 31,
+    "webgl": "full-bleed"
+  }
+}

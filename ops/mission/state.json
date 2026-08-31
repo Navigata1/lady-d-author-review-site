@@ -10,7 +10,7 @@
     "northStar": "Three Scripture-faithful devotionals in Susan 'Lady D' Damon's lived preaching voice, paired with useful journals and a luminous, coherent cover family ready for author review and KDP production.",
     "status": "in_progress",
     "started": "2026-08-30",
-    "updated": "2026-08-31T22:50:00Z",
+    "updated": "2026-08-31T23:11:20Z",
     "sessionCount": 2
   },
   "policies": {
@@ -276,10 +276,10 @@
           "id": "P5-G2",
           "title": "Operational report paths are denied in production",
           "command": "curl production routes for /ops, /source, /quality, /scripts, and /tmp",
-          "status": "pending",
-          "evidence": null,
-          "lastRun": null,
-          "notes": "Vercel deny routes are authored; live verification follows deployment."
+          "status": "passed",
+          "evidence": "ops/mission/evidence/P5-G2-2026-08-31.json",
+          "lastRun": "2026-08-31T23:11:20Z",
+          "notes": "The exact production deployment returns 404 for /ops, /source, /quality, /scripts, and /tmp while every intended client page, proof PDF, and production ZIP returns 200."
         }
       ],
       "tasks": [

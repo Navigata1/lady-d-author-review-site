@@ -80,17 +80,17 @@ body.motion-paused #mission-story canvas{opacity:.12}
 <div id="mission-story" aria-hidden="true"><canvas></canvas><div class="glow a"></div><div class="glow b"></div><span id="mission-story-label">01 &middot; Mission</span></div><button id="mission-motion" type="button" aria-pressed="false">Pause motion</button>
 <main>
   <header class="hero">
-    <p class="eyebrow">Mission Control &middot; State of the Union &middot; generated 2026-08-31 22:48Z</p>
+    <p class="eyebrow">Mission Control &middot; State of the Union &middot; generated 2026-08-31 23:11Z</p>
     <h1>Lady D Trilogy Finalization</h1>
     <p class="tagline">Let every page sound lived, every cover feel luminous, and every companion deepen the journey.</p>
     <div style="margin-top:14px">
       <span class="chip blue">mission: in_progress</span>
       <span class="chip green">active phase: P7</span>
       <span class="chip blue">14/16 tasks</span>
-      <span class="chip amber">12/15 gates passed</span>
+      <span class="chip amber">13/15 gates passed</span>
       <span class="chip ">0 PRs merged</span>
       <span class="chip ">sessions: 2</span>
-      <span class="chip ">updated: 2026-08-31T22:50:00Z</span>
+      <span class="chip ">updated: 2026-08-31T23:11:20Z</span>
     </div>
     <div class="bar big" role="img" aria-label="Overall progress 88%"><div class="fill" style="width:88%"></div></div>
     <p class="small muted" style="margin-top:6px">Overall: 88% of tasks complete &middot; repo Navigata1/lady-d-author-review-site &middot; plan: /Users/IDC2.5/Documents/LADY D/_synthesis-2026-07-19/Lady-D-Cover-Codex-Handoff.md</p>
@@ -361,13 +361,13 @@ Operating procedure:
       <td><span class="chip green">passed</span></td>
       <td><b>Proposal and client-surface browser gauntlet passes</b><br><span class="small">Eight proposal pages, current $1,400 Stripe link, luminous covers, desktop/mobile overflow checks, and no old internal State or Plan links.</span></td>
       <td><code>node scripts/lady_d_finalization/smoke_client_proposal_and_31_day.cjs</code></td>
-      <td>quality/visual-proof/31-day/</td>
+      <td>quality/31-day/browser-gauntlet.json</td>
       <td>2026-08-31T22:46:52Z</td></tr><tr>
-      <td><span class="chip ">pending</span></td>
-      <td><b>Operational report paths are denied in production</b><br><span class="small">Vercel deny routes are authored; live verification follows deployment.</span></td>
+      <td><span class="chip green">passed</span></td>
+      <td><b>Operational report paths are denied in production</b><br><span class="small">The exact production deployment returns 404 for /ops, /source, /quality, /scripts, and /tmp while every intended client page, proof PDF, and production ZIP returns 200.</span></td>
       <td><code>curl production routes for /ops, /source, /quality, /scripts, and /tmp</code></td>
-      <td>&mdash;</td>
-      <td>&mdash;</td></tr></tbody></table></div>
+      <td>ops/mission/evidence/P5-G2-2026-08-31.json</td>
+      <td>2026-08-31T23:11:20Z</td></tr></tbody></table></div>
       <details class="resume"><summary>Resume prompt for P5 (copy into a fresh session)</summary>
         <div class="prompt-box"><button class="copy" type="button">Copy</button><pre>You are resuming the &quot;Lady D Trilogy Finalization&quot; mission at phase P5: Client Surface Reconciliation.
 
@@ -378,8 +378,7 @@ Governing plan: /Users/IDC2.5/Documents/LADY D/_synthesis-2026-07-19/Lady-D-Cove
 
 Phase goal: Bring the proposal, invoice, root route, hub, current payment truth, and client navigation into one luminous and consistent experience while keeping operational reports private.
 All tasks in this phase are done.
-Gates not yet passed:
-  - [pending] Operational report paths are denied in production  -&gt;  curl production routes for /ops, /source, /quality, /scripts, and /tmp
+All gates passed — close the phase and advance.
 Mission conventions:
   - Lady D's August 3 Exodus 15:4 email is the gold voice exemplar and must remain unchanged.
   - Scripture text, translation labels, root/language lenses, and correlative threads are immutable during voice polish.
@@ -412,7 +411,7 @@ Operating procedure:
       <td><span class="chip green">passed</span></td>
       <td><b>Print, motion, and scene-review browser gauntlet passes</b><br><span class="small">The 95-page 6x9 proof, 31-card scene console, mobile controls, four-paragraph reader, and full-bleed WebGL canvas pass.</span></td>
       <td><code>node scripts/lady_d_finalization/smoke_client_proposal_and_31_day.cjs</code></td>
-      <td>quality/visual-proof/31-day/</td>
+      <td>quality/31-day/browser-gauntlet.json</td>
       <td>2026-08-31T22:46:52Z</td></tr></tbody></table></div>
       <details class="resume"><summary>Resume prompt for P6 (copy into a fresh session)</summary>
         <div class="prompt-box"><button class="copy" type="button">Copy</button><pre>You are resuming the &quot;Lady D Trilogy Finalization&quot; mission at phase P6: 31-Day Message and Product Architecture.
