@@ -170,7 +170,7 @@ def delivery_files() -> list[DeliveryFile]:
         "susan-damon-expanded-invoice.pdf",
         "lady-d-enhanced-state-of-the-union-2026-07-19.html",
         "lady-d-enhanced-plan-of-attack-2026-07-19.html",
-        "stripe-payment-link-pending-1400.html",
+        "STRIPE_1400_PAYMENT_LINK_INSTRUCTIONS.md",
     )
     for source in client_review_files:
         add_file(files, source, f"08-CLIENT-REVIEW/{Path(source).name}", "client_review")

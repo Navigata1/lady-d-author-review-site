@@ -7,6 +7,7 @@ const { chromium } = require('playwright');
 const root = path.resolve(__dirname, '..', '..');
 const pagePath = path.join(root, 'susan-damon-hub.html');
 const captureDir = path.join(root, 'tmp', 'hub-revamp');
+const stripeUrl = 'https://buy.stripe.com/fZu28t5WpchE73EbnA0VO0a';
 const forbidden = [
   'Enhanced State',
   'Plan of Attack',
@@ -40,6 +41,8 @@ async function inspect(browser, name, viewport) {
     books: document.querySelectorAll('.book-card').length,
     brokenImages: [...document.images].filter((image) => !image.complete || image.naturalWidth === 0).map((image) => image.src),
     pendingLinks: document.querySelectorAll('a[href*="stripe-payment-link-pending"]').length,
+    stripeLinks: [...document.querySelectorAll('a[href^="https://buy.stripe.com/"]')].map((link) => link.href),
+    pendingCopy: document.body.textContent.includes('Secure payment link being confirmed'),
     h1: document.querySelector('h1')?.textContent.trim(),
   }));
   await page.close();
@@ -71,6 +74,8 @@ async function inspect(browser, name, viewport) {
     if (view.books !== 3) failures.push(`${view.name}: expected 3 books, got ${view.books}`);
     if (view.brokenImages.length) failures.push(`${view.name}: broken images ${view.brokenImages.join(', ')}`);
     if (view.pendingLinks !== 0) failures.push(`${view.name}: retired payment placeholder is linked`);
+    if (view.pendingCopy) failures.push(`${view.name}: pending payment copy remains`);
+    if (view.stripeLinks.length !== 1 || view.stripeLinks[0] !== stripeUrl) failures.push(`${view.name}: expected one verified Stripe link`);
     if (view.errors.length) failures.push(`${view.name}: browser errors ${view.errors.join(' | ')}`);
   }
   const report = { status: failures.length ? 'FAIL' : 'PASS', forbiddenHits, missingLinks, views, failures };

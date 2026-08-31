@@ -15,9 +15,10 @@ PRIOR_PAID = 200
 CHECK_PAID = 400
 PAID_TOTAL = PRIOR_PAID + CHECK_PAID
 BALANCE_DUE = PACKAGE_TOTAL - PAID_TOTAL
-PAYMENT_LINK = "stripe-payment-link-pending-1400.html"
+PAYMENT_LINK = "https://buy.stripe.com/fZu28t5WpchE73EbnA0VO0a"
+PAYMENT_LINK_STATUS = "active_verified_2026-08-30"
 OLD_PAYMENT_LINK_STATUS = "retired_checkout_do_not_send"
-STRIPE_PERMISSION_STATUS = "live restricted key cannot create prices/payment links"
+STRIPE_PERMISSION_STATUS = "created in live owner Dashboard session"
 PROVIDER_EMAIL = "jon-isaac@islanddevcrew.com"
 CLIENT_EMAIL = "1ladysd23@gmail.com"
 LOGO = "assets/idc-palm-logo.png"
@@ -259,7 +260,7 @@ proposal_pages = f"""
   <div class="chips"><span class="chip">3 devotional books</span><span class="chip">3 companion journals</span><span class="chip">31-day visual devotional</span><span class="chip">KDP + digital prep</span><span class="chip">Author review hub</span><span class="chip">Juan testimony separate</span></div>
   <div class="two">
     <div class="money"><div>CURRENT PACKAGE TOTAL</div><div class="big">{money(PACKAGE_TOTAL)}</div><p>{money(PAID_TOTAL)} paid to date - {money(BALANCE_DUE)} remaining balance.</p></div>
-    <div class="paybox"><p><strong>Payment status:</strong> A new Stripe payment link must be created for the corrected {money(BALANCE_DUE)} remaining balance.</p><p><strong>Payment-link status page:</strong><br><a href="{PAYMENT_LINK}">{PAYMENT_LINK}</a></p><p class="muted">The retired checkout should not be used for this corrected invoice.</p></div>
+    <div class="paybox"><p><strong>Payment status:</strong> The verified Stripe checkout is active for the corrected {money(BALANCE_DUE)} remaining balance.</p><p><a href="{PAYMENT_LINK}"><strong>Pay {money(BALANCE_DUE)} securely with Stripe</strong></a></p><p class="muted">Automatic tax is off; this checkout applies only to the balance shown in this proposal.</p></div>
   </div>
   <div class="footer"><span>Island Dev Crew Consulting - {PROVIDER_EMAIL}</span><span>Lady D Publishing Proposal - Page 1 of 8</span></div>
 </section>
@@ -289,7 +290,7 @@ proposal_pages = f"""
   <tr><td colspan="2">Paid credit already received ({money(PRIOR_PAID)} prior payment + {money(CHECK_PAID)} check)</td><td>- {money(PAID_TOTAL)}</td></tr>
   <tr><td colspan="2"><strong>Remaining balance due</strong></td><td><strong>{money(BALANCE_DUE)}</strong></td></tr>
   </table>
-  <div class="paybox" style="margin-top:18px"><h3>Payment Link Status</h3><p>The corrected Stripe checkout should be created for <strong>{money(BALANCE_DUE)}</strong>. Until that new link exists, this proposal points to a status page instead of the old checkout.</p><p><a href="{PAYMENT_LINK}"><strong>Open {money(BALANCE_DUE)} payment-link status</strong></a></p></div>
+  <div class="paybox" style="margin-top:18px"><h3>Secure Payment</h3><p>The verified Stripe checkout is active for the <strong>{money(BALANCE_DUE)}</strong> remaining balance.</p><p><a href="{PAYMENT_LINK}"><strong>Pay {money(BALANCE_DUE)} securely with Stripe</strong></a></p></div>
   <div class="footer"><span>Do not send the retired checkout for this corrected invoice.</span><span>Page 3 of 8</span></div>
 </section>
 <section class="page">
@@ -334,21 +335,21 @@ proposal_pages = f"""
   <h2>Acceptance & Payment Instructions</h2>
   <p>By approving this corrected proposal/invoice, the parties acknowledge the current {money(PACKAGE_TOTAL)} package total, {money(PAID_TOTAL)} paid to date, and {money(BALANCE_DUE)} remaining balance.</p>
   <div class="two"><div><h3>Provider</h3><p>Jonathan Isaac<br>Island Development Crew LLC / Island Dev Crew Consulting<br>{PROVIDER_EMAIL}</p><div class="sig"></div><p class="muted">Signature / Date</p></div><div><h3>Client</h3><p>Susan "Lady D" Damon<br>{CLIENT_EMAIL}</p><div class="sig"></div><p class="muted">Signature / Date</p></div></div>
-  <div class="paybox"><h3>Payment Instructions</h3><ol><li>Review this proposal/invoice and the live author review hub.</li><li>Create or insert the corrected Stripe checkout for {money(BALANCE_DUE)} before sending the payment button externally.</li><li>Use the dashboard for project status and approval gates.</li><li>Final upload/publishing occurs only after author approval and proof validation.</li></ol></div>
+  <div class="paybox"><h3>Payment Instructions</h3><ol><li>Review this proposal/invoice and the live author review hub.</li><li>Pay the {money(BALANCE_DUE)} remaining balance through the verified Stripe checkout above.</li><li>Use the author review hub for project status and approval gates.</li><li>Final upload/publishing occurs only after author approval and proof validation.</li></ol></div>
   <div class="footer"><span>Signature-ready PDF; e-sign platform optional if audit trail is required.</span><span>Page 8 of 8</span></div>
 </section>
 """
 
 proposal_body = f"""
 <main class="print-only">{proposal_pages}</main>
-<main class="wrap screen-only"><header class="hero"><div><div class="kicker">Island Development Crew - Proposal & Execute-Ready Invoice</div><h1>Susan "Lady D" Damon Publishing Package</h1><p class="lead">A corrected, PDF-ready client package with IDC branding, product-cover exhibits, author-review links, and the updated {money(PACKAGE_TOTAL)} / {money(PAID_TOTAL)} paid / {money(BALANCE_DUE)} remaining payment structure.</p><p><a class="btn gold" href="susan-damon-publishing-proposal.pdf">Download PDF</a><a class="btn teal" href="{PAYMENT_LINK}">Prepare {money(BALANCE_DUE)} Stripe link</a><a class="btn" href="susan-damon-hub.html">Back to hub</a></p></div><img class="hero-logo" src="{LOGO}" alt="Island Development Crew palm logo"></header></main>
+<main class="wrap screen-only"><header class="hero"><div><div class="kicker">Island Development Crew - Proposal & Execute-Ready Invoice</div><h1>Susan "Lady D" Damon Publishing Package</h1><p class="lead">A corrected, PDF-ready client package with IDC branding, product-cover exhibits, author-review links, and the updated {money(PACKAGE_TOTAL)} / {money(PAID_TOTAL)} paid / {money(BALANCE_DUE)} remaining payment structure.</p><p><a class="btn gold" href="susan-damon-publishing-proposal.pdf">Download PDF</a><a class="btn teal" href="{PAYMENT_LINK}">Pay {money(BALANCE_DUE)} securely</a><a class="btn" href="susan-damon-hub.html">Back to hub</a></p></div><img class="hero-logo" src="{LOGO}" alt="Island Development Crew palm logo"></header></main>
 <main class="screen-only">{proposal_pages}</main>
 """
 
 hub_body = f"""
 <main class="wrap"><header class="hero"><div><div class="kicker">Lady D - IDC Publishing Command Hub</div><h1>Susan Damon Publishing Hub</h1><p class="lead">One clean place for Mrs. Susan Damon to access the corrected invoice/proposal, author-review portal, live project dashboard, State of the Union, Plan of Attack, devotional books, companion journals, and future Lady D product website.</p></div><img class="hero-logo" src="{LOGO}" alt="Island Development Crew palm logo"></header>
 <section class="grid"><article class="card third stat"><strong>{money(PACKAGE_TOTAL)}</strong><span>Current package</span></article><article class="card third stat"><strong>{money(PAID_TOTAL)}</strong><span>Paid to date</span></article><article class="card third stat"><strong>{money(BALANCE_DUE)}</strong><span>Remaining balance</span></article></section>
-<section class="grid"><article class="card gold-top"><h2>Proposal & Execute-Ready Invoice</h2><p>The corrected proposal/invoice: updated scope, {money(PACKAGE_TOTAL)} package total, {money(PAID_TOTAL)} paid credit, {money(BALANCE_DUE)} remaining balance, product-cover exhibits, separated testimony lane, terms, signatures, and payment-link status.</p><a class="btn gold" href="susan-damon-publishing-proposal.html">View proposal</a><a class="btn" href="susan-damon-publishing-proposal.pdf">Download PDF</a><a class="btn teal" href="{PAYMENT_LINK}">Prepare {money(BALANCE_DUE)} link</a><p class="muted">Also: <a href="susan-damon-expanded-invoice.html">invoice mirror</a> - <a href="susan-damon-expanded-invoice.pdf">invoice PDF mirror</a></p></article><article class="card teal-top"><h2>Enhanced State & Plan</h2><p>The new enhanced artifacts absorb the latest July 6 guidance: better devotional depth, scripture visibility, KJV/NKJV policy, less mechanical scripture order, cover upgrades, 31-day visual devotional prompt lane, and a reusable client package template.</p><a class="btn dark" href="{ENHANCED_STATE_REPORT}">Enhanced State</a><a class="btn" href="{ENHANCED_PLAN_REPORT}">Enhanced Plan</a><p class="muted">Prior correction pages remain available: <a href="lady-d-state-of-the-union-2026-07-08.html">July 8 State</a> - <a href="lady-d-plan-of-attack-2026-07-08.html">July 8 Plan</a></p></article></section>
+<section class="grid"><article class="card gold-top"><h2>Proposal & Execute-Ready Invoice</h2><p>The corrected proposal/invoice: updated scope, {money(PACKAGE_TOTAL)} package total, {money(PAID_TOTAL)} paid credit, {money(BALANCE_DUE)} remaining balance, product-cover exhibits, separated testimony lane, terms, signatures, and verified Stripe checkout.</p><a class="btn gold" href="susan-damon-publishing-proposal.html">View proposal</a><a class="btn" href="susan-damon-publishing-proposal.pdf">Download PDF</a><a class="btn teal" href="{PAYMENT_LINK}">Pay {money(BALANCE_DUE)} securely</a><p class="muted">Also: <a href="susan-damon-expanded-invoice.html">invoice mirror</a> - <a href="susan-damon-expanded-invoice.pdf">invoice PDF mirror</a></p></article><article class="card teal-top"><h2>Enhanced State & Plan</h2><p>The new enhanced artifacts absorb the latest July 6 guidance: better devotional depth, scripture visibility, KJV/NKJV policy, less mechanical scripture order, cover upgrades, 31-day visual devotional prompt lane, and a reusable client package template.</p><a class="btn dark" href="{ENHANCED_STATE_REPORT}">Enhanced State</a><a class="btn" href="{ENHANCED_PLAN_REPORT}">Enhanced Plan</a><p class="muted">Prior correction pages remain available: <a href="lady-d-state-of-the-union-2026-07-08.html">July 8 State</a> - <a href="lady-d-plan-of-attack-2026-07-08.html">July 8 Plan</a></p></article></section>
 <section class="grid"><article class="card full teal-top"><div class="kicker">Transcript-directed rewrite</div><h2>Revised Reader Edition</h2><p class="lead">All three 366-reading devotionals and all three matching companion journals have been rebuilt from the July 6 author guidance with full KJV Scripture, stronger devotional movement, fused daily response, and true 6 x 9 review proofs.</p><p><span class="badge">1,098 devotionals</span><span class="badge">1,098 journal units</span><span class="badge">{QUALITY_BADGE}</span><span class="badge">Judge {QUALITY['judge_verdict']} {QUALITY['judge_score']}/100</span><span class="badge">Auditor {QUALITY['auditor_verdict']} {QUALITY['auditor_score']}/100</span></p><a class="btn gold" href="{MASTER_DELIVERY_PACKAGE}">Download complete delivery package</a><a class="btn" href="lady-d-revised-trilogy.html">Open revised trilogy</a><a class="btn" href="downloads/production/revised-reader-edition/interiors/Lady-D-Revised-Reader-Edition-Interiors.zip">Download six-interior proof pack</a><a class="btn" href="downloads/production/revised-reader-edition/quality/independent-editorial-judgment.md">Read judge report</a><a class="btn" href="downloads/production/revised-reader-edition/quality/independent-manuscript-audit.md">Read auditor report</a><p class="muted">Review proof only. Public/KDP release remains on hold until Lady D gives final author approval, KDP Previewer is documented, and an approved physical proof is on file, even though the manuscript gates pass.</p></article></section>
 <section class="grid"><article class="card full"><h2>Devotional Library</h2><p class="lead">Open the current revised HTML reader editions or the matching 6 x 9 devotional and journal proofs.</p><div class="grid">{book_cards()}</div></article></section>
 <section class="grid"><article class="card coral-top"><h2>Separated Testimony Lane</h2><p>Juan Damon testimony/autobiography work is no longer included in the current {money(PACKAGE_TOTAL)} invoice. It remains valuable, but it needs separate intake, family/content boundaries, approval checkpoints, and pricing.</p><a class="btn" href="lady-d-project-dashboard.html#testimony">View separated lane</a></article><article class="card"><h2>Lady D Website</h2><p>A public-facing product website shell is attached for future books, journals, KDP/Gumroad links, devotional samples, and ministry products.</p><a class="btn gold" href="lady-d-author-site.html">Open Lady D site</a></article></section></main>
@@ -366,7 +367,7 @@ author_site_body = f"""
 """
 
 payment_status_body = f"""
-<main class="wrap"><header class="hero"><div><div class="kicker">Payment Link Status - Corrected Invoice</div><h1>{money(BALANCE_DUE)} Stripe Link Needed</h1><p class="lead">The customer-facing package has been corrected to the {money(PACKAGE_TOTAL)} total, {money(PAID_TOTAL)} paid, and {money(BALANCE_DUE)} remaining balance. The retired checkout should not be sent.</p><a class="btn gold" href="susan-damon-publishing-proposal.html">Back to proposal</a></div><img class="hero-logo" src="{LOGO}" alt="Island Development Crew palm logo"></header><section class="grid"><article class="card full warning"><h2>Action Required Before Sending Payment Button</h2><p>Create a new live Stripe payment link for <strong>{money(BALANCE_DUE)} USD</strong> and replace this status page link in the package.</p><table class="table"><tr><th>Field</th><th>Correct value</th></tr><tr><td>Product/name</td><td>Susan Damon - Corrected Publishing Package Remaining Balance</td></tr><tr><td>Amount</td><td>{money(BALANCE_DUE)}.00 USD</td></tr><tr><td>Description</td><td>Remaining balance for current Lady D publishing package: 3 devotional books, 3 companion journals, 31-day visual devotional, author review hub, dashboard, KDP/digital preparation. Juan Damon testimony separated from current package.</td></tr><tr><td>Metadata</td><td>client=Susan Damon; package_total={PACKAGE_TOTAL}; paid_credit={PAID_TOTAL}; remaining_balance={BALANCE_DUE}; testimony_scope=separate</td></tr></table><p class="muted">Status: {OLD_PAYMENT_LINK_STATUS}.</p></article></section></main>
+<main class="wrap"><header class="hero"><div><div class="kicker">Verified Secure Checkout - Corrected Invoice</div><h1>{money(BALANCE_DUE)} Stripe Checkout Active</h1><p class="lead">The customer-facing package reflects the {money(PACKAGE_TOTAL)} total, {money(PAID_TOTAL)} paid, and {money(BALANCE_DUE)} remaining balance.</p><a class="btn gold" href="{PAYMENT_LINK}">Pay {money(BALANCE_DUE)} securely</a><a class="btn" href="susan-damon-publishing-proposal.html">Back to proposal</a></div><img class="hero-logo" src="{LOGO}" alt="Island Development Crew palm logo"></header><section class="grid"><article class="card full"><h2>Checkout Verified</h2><p>The active Stripe link is a one-time checkout for <strong>{money(BALANCE_DUE)} USD</strong>. Automatic tax, adjustable quantity, promotions, and post-payment invoice fees are off.</p><table class="table"><tr><th>Field</th><th>Verified value</th></tr><tr><td>Product/name</td><td>Susan Damon - Corrected Publishing Package Remaining Balance</td></tr><tr><td>Amount</td><td>{money(BALANCE_DUE)}.00 USD</td></tr><tr><td>Scope</td><td>3 devotional books, 3 companion journals, 31-day visual devotional, author review hub, dashboard, and KDP/digital preparation. Juan Damon testimony is separate.</td></tr><tr><td>Status</td><td>{PAYMENT_LINK_STATUS}</td></tr></table></article></section></main>
 """
 
 state_body = f"""
@@ -433,7 +434,7 @@ for idx in [ROOT / "index.html", PUBLIC / "index.html"]:
         count=1,
         flags=re.S,
     )
-    card = f"""<section id="business-hub-lane" class="card notice"><h2>Proposal & Execute-Ready Invoice</h2><p>The corrected package now has a robust proposal/invoice page like the Oakwood hub: viewable HTML proposal, downloadable PDF invoice/proposal, {money(PACKAGE_TOTAL)} package total, {money(PAID_TOTAL)} paid, {money(BALANCE_DUE)} balance due, live dashboard, enhanced State of the Union, enhanced Plan of Attack, and future Lady D product website.</p><p><a class="btn gold" href="susan-damon-publishing-proposal.html">View proposal</a><a class="btn" href="susan-damon-publishing-proposal.pdf">Download PDF</a><a class="btn" href="{PAYMENT_LINK}">Prepare {money(BALANCE_DUE)} Stripe link</a><a class="btn" href="lady-d-project-dashboard.html">Live dashboard</a><a class="btn" href="{ENHANCED_STATE_REPORT}">Enhanced State</a><a class="btn" href="{ENHANCED_PLAN_REPORT}">Enhanced Plan</a></p></section>"""
+    card = f"""<section id="business-hub-lane" class="card notice"><h2>Proposal & Execute-Ready Invoice</h2><p>The corrected package now has a robust proposal/invoice page like the Oakwood hub: viewable HTML proposal, downloadable PDF invoice/proposal, {money(PACKAGE_TOTAL)} package total, {money(PAID_TOTAL)} paid, {money(BALANCE_DUE)} balance due, live dashboard, enhanced State of the Union, enhanced Plan of Attack, and future Lady D product website.</p><p><a class="btn gold" href="susan-damon-publishing-proposal.html">View proposal</a><a class="btn" href="susan-damon-publishing-proposal.pdf">Download PDF</a><a class="btn" href="{PAYMENT_LINK}">Pay {money(BALANCE_DUE)} securely</a><a class="btn" href="lady-d-project-dashboard.html">Live dashboard</a><a class="btn" href="{ENHANCED_STATE_REPORT}">Enhanced State</a><a class="btn" href="{ENHANCED_PLAN_REPORT}">Enhanced Plan</a></p></section>"""
     old = re.search(r'<section id="business-hub-lane".*?</section>', html, flags=re.S)
     if old:
         html = html[: old.start()] + card + html[old.end() :]
@@ -489,9 +490,12 @@ Generated: {DATE}
 
 ## Current Stripe status
 
-The local package points to `{PAYMENT_LINK}` until a real live Stripe Payment Link exists.
-
-Attempted live CLI creation was blocked because the configured live restricted key lacks permission to create Stripe Prices/Payment Links. Use the Stripe Dashboard with an owner/admin session, or provide a live key with the required Product, Price, and Payment Link creation permissions.
+- Status: active and verified in the live Island Development Crew Stripe account
+- Checkout: {PAYMENT_LINK}
+- Created: 2026-08-30
+- Automatic tax: off
+- Adjustable quantity: off
+- Post-payment invoice fee: off
 
 ## Dashboard fields
 
@@ -506,9 +510,9 @@ Attempted live CLI creation was blocked because the configured live restricted k
   - remaining_balance={BALANCE_DUE}
   - testimony_scope=separate
 
-## After the link is created
+## Regeneration
 
-Update `PAYMENT_LINK` near the top of `scripts/build_lady_d_hub.py` from `{PAYMENT_LINK}` to the new live Stripe URL, then rerun:
+The verified checkout is now the `PAYMENT_LINK` source of truth. After changing proposal or hub content, rerun:
 
 ```bash
 python3 scripts/build_lady_d_hub.py
@@ -521,7 +525,7 @@ Then verify:
 rg -n "\\$2,300|\\$2,500|buy\\.stripe|Pay \\$2,300" susan-damon-publishing-proposal.html public/susan-damon-publishing-proposal.html
 ```
 
-If the real live Stripe URL intentionally begins with `https://buy.stripe.com/`, the `buy\\.stripe` check should return the new corrected link only, not the retired checkout.
+The `buy\\.stripe` check should return only the verified corrected link, never the retired checkout.
 """
 (ROOT / "STRIPE_1400_PAYMENT_LINK_INSTRUCTIONS.md").write_text(stripe_instructions, encoding="utf-8")
 
@@ -546,7 +550,8 @@ manifest = {
     "check_paid": CHECK_PAID,
     "paid_total": PAID_TOTAL,
     "remaining_balance": BALANCE_DUE,
-    "payment_link_status": PAYMENT_LINK,
+    "payment_link_status": PAYMENT_LINK_STATUS,
+    "payment_link": PAYMENT_LINK,
     "old_payment_link_status": OLD_PAYMENT_LINK_STATUS,
     "stripe_permission_status": STRIPE_PERMISSION_STATUS,
     "primary_proposal": "susan-damon-publishing-proposal.html",

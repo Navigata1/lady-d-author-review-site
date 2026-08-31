@@ -1,6 +1,6 @@
 # Lady D Corrected Stripe Payment Link Instructions
 
-Generated: 2026-07-08
+Updated: 2026-08-30
 
 ## Correct payment facts
 
@@ -13,9 +13,13 @@ Generated: 2026-07-08
 
 ## Current Stripe status
 
-The local package points to `stripe-payment-link-pending-1400.html` until a real live Stripe Payment Link exists.
-
-Attempted live CLI creation was blocked because the configured live restricted key lacks permission to create Stripe Prices/Payment Links. Use the Stripe Dashboard with an owner/admin session, or provide a live key with the required Product, Price, and Payment Link creation permissions.
+- Status: active and verified in the live Island Development Crew Stripe account
+- Checkout: https://buy.stripe.com/fZu28t5WpchE73EbnA0VO0a
+- Payment Link ID: plink_1UANGWQQMWQl4qqGNcSEzJwR
+- Created: 2026-08-30
+- Automatic tax: off
+- Adjustable quantity: off
+- Post-payment invoice fee: off
 
 ## Dashboard fields
 
@@ -30,9 +34,9 @@ Attempted live CLI creation was blocked because the configured live restricted k
   - remaining_balance=1400
   - testimony_scope=separate
 
-## After the link is created
+## Regeneration
 
-Update `PAYMENT_LINK` near the top of `scripts/build_lady_d_hub.py` from `stripe-payment-link-pending-1400.html` to the new live Stripe URL, then rerun:
+The verified checkout is the `PAYMENT_LINK` source of truth in `scripts/build_lady_d_hub.py`. After changing proposal or hub content, rerun:
 
 ```bash
 python3 scripts/build_lady_d_hub.py
@@ -45,4 +49,4 @@ Then verify:
 rg -n "\$2,300|\$2,500|buy\.stripe|Pay \$2,300" susan-damon-publishing-proposal.html public/susan-damon-publishing-proposal.html
 ```
 
-If the real live Stripe URL intentionally begins with `https://buy.stripe.com/`, the `buy\.stripe` check should return the new corrected link only, not the retired checkout.
+The `buy\.stripe` check should return only the verified corrected link, never the retired checkout.
