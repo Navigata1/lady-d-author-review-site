@@ -33,6 +33,7 @@ AUDIOBOOK = sorted((DOWNLOADS / "audiobook").glob("*"))
 POLISHED = sorted((ROOT / "source" / "finalization" / "polished").glob("*.json"))
 
 SHARED = [
+    ROOT / "susan-damon-hub.html",
     ROOT / "lady-d-finalization-review.html",
     PUBLIC / "lady-d-cover-decision-deck.html",
     DOWNLOADS / "lady-d-cover-qualification.json",
@@ -91,6 +92,8 @@ def archive_name(path: Path) -> str:
         return f"evidence/gates/{path.name}"
     if path.name == "lady-d-finalization-review.html":
         return "review/lady-d-finalization-review.html"
+    if path.name == "susan-damon-hub.html":
+        return "review/susan-damon-hub.html"
     if path.name == "lady-d-cover-decision-deck.html":
         return "review/lady-d-cover-decision-deck.html"
     if path.name == "lady-d-cover-qualification.json":
