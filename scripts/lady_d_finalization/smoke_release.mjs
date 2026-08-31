@@ -8,7 +8,7 @@ const require = createRequire(import.meta.url);
 const { chromium } = require(join(process.env.NODE_PATH, "playwright"));
 
 const root = resolve(import.meta.dirname, "../..");
-const evidencePath = join(root, "ops/mission/evidence/P4-G1-2026-08-30.json");
+const evidencePath = join(root, "ops/mission/evidence/P4-G1-2026-08-31.json");
 const screenshotDir = join(root, "tmp/finalization-release");
 const port = 18792;
 

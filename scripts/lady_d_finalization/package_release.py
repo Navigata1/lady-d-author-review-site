@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import shutil
 import zipfile
 from datetime import datetime, timezone
 from pathlib import Path
@@ -14,9 +15,10 @@ ROOT = Path(__file__).resolve().parents[2]
 PUBLIC = ROOT / "public"
 DOWNLOADS = PUBLIC / "downloads" / "lady-d-finalization"
 OUTPUT = ROOT / "output"
-DATE = "2026-08-30"
+DATE = "2026-08-31"
 MASTER = OUTPUT / f"Lady-D-Trilogy-Finalization-Master-Package-{DATE}.zip"
 WEB = DOWNLOADS / f"Lady-D-Trilogy-Web-Review-Package-{DATE}.zip"
+WEB_MIRROR = ROOT / "downloads" / "lady-d-finalization" / WEB.name
 
 PDFS = [
     DOWNLOADS / "Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf",
@@ -40,6 +42,7 @@ SHARED = [
     ROOT / "source" / "finalization" / "cover-prompts.json",
     ROOT / "source" / "finalization" / "evidence" / "lady-d-author-cover-directions.md",
     ROOT / "source" / "finalization" / "evidence" / "lady-d-august-03-voice-exemplar.md",
+    ROOT / "source" / "finalization" / "front-matter" / "lady-d-shared-front-matter.json",
     ROOT / "quality" / "finalization" / "voice-polish-report.json",
     ROOT / "ops" / "mission" / "state.json",
     ROOT / "ops" / "mission" / "journal.md",
@@ -51,19 +54,20 @@ WEB_FILES = SHARED + POLISHED
 
 NOTES = """# Lady D Trilogy Finalization Delivery
 
-Prepared for Susan \"Lady D\" Damon by IDC Publishing on August 30, 2026.
+Prepared for Susan \"Lady D\" Damon by IDC Publishing on August 31, 2026.
 
 ## Included
 
 - Three polished 366-entry devotionals and three paired deep-dive companion journals.
 - Ten real generated cover candidates and the ranked author decision deck.
 - Voice-polish evidence, protected-source exemplar, and deterministic audit records.
+- Lady D's author-supplied acknowledgments and the tracked status of her requested foreword.
 - Three 366-track audiobook manifests and a provider-neutral production blueprint.
 
 ## Release boundary
 
 These files are author-review release candidates. Final author voice and theological approval,
-front-matter and Scripture-notice approval, selected-cover wrap typography, KDP Previewer,
+the friend's approved foreword, remaining front-matter and Scripture-notice approval, selected-cover wrap typography, KDP Previewer,
 and a physical proof remain required before public release.
 
 The internal editorial judge is deterministic automation and is not represented as an
@@ -100,7 +104,7 @@ def archive_name(path: Path) -> str:
         return "evidence/lady-d-cover-qualification.json"
     if path.name == "cover-prompts.json":
         return "evidence/cover-prompts.json"
-    if path.name in {"lady-d-author-cover-directions.md", "lady-d-august-03-voice-exemplar.md"}:
+    if path.name in {"lady-d-author-cover-directions.md", "lady-d-august-03-voice-exemplar.md", "lady-d-shared-front-matter.json"}:
         return f"evidence/{path.name}"
     if path.name == "voice-polish-report.json":
         return "evidence/voice-polish-report.json"
@@ -152,6 +156,9 @@ def build(destination: Path, files: list[Path], package_kind: str) -> dict:
 def main() -> None:
     master = build(MASTER, MASTER_FILES, "complete-master")
     web = build(WEB, WEB_FILES, "web-review-without-six-large-pdfs")
+    WEB_MIRROR.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(WEB, WEB_MIRROR)
+    web["root_mirror"] = str(WEB_MIRROR)
     result = {"status": "PASS", "master": master, "web": web}
     (OUTPUT / "lady-d-package-build-report.json").write_text(json.dumps(result, indent=2) + "\n")
     print(json.dumps(result, indent=2))

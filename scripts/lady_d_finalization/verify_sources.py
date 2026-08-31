@@ -30,6 +30,7 @@ EXPECTED_HASHES = {
     "source/finalization/kimi/master-sample.html": "88540004d563303ab00afea418afb51eb85042c3991007f56c90941de3773ecc",
     "source/finalization/kimi/plan-of-attack.html": "16a426def752fedccacbf46a2952cf199a25196f135481c282c5d9ad434ad54c",
     "source/finalization/kimi/prompt-pack-31day.html": "f7c604176f2bb8e7de226337e179fc510ac70a5afc11325b21e02fc665a97dfb",
+    "source/finalization/front-matter/lady-d-shared-front-matter.json": "358c313a7b73a24ac5dbfb660ec8ae96d481c6d5c5b6d5987f1669f7c24e532c",
 }
 
 VOICE_FIELDS = {
@@ -133,6 +134,16 @@ def main() -> int:
     if "Notice the verse" not in day_two["body"][1]:
         errors.append("Volume I Day 2 lost its textual teaching observation")
 
+    front_matter = load_json("source/finalization/front-matter/lady-d-shared-front-matter.json")
+    if front_matter.get("acknowledgments", {}).get("status") != "author_supplied":
+        errors.append("Lady D acknowledgment source is not marked author supplied")
+    if front_matter.get("foreword", {}).get("status") != "pending_author_submission":
+        errors.append("Foreword status must remain pending until the contributor's text is received")
+    acknowledgment_text = " ".join(front_matter.get("acknowledgments", {}).get("paragraphs", []))
+    for marker in ("Pastor Juan Damon", "Qianna and Tianna", "Meredith Shepard", "Johnathan"):
+        if marker not in acknowledgment_text:
+            errors.append(f"Lady D acknowledgment source missing protected name marker: {marker}")
+
     report = {
         "status": "failed" if errors else "passed",
         "source_count": len(verified),
@@ -149,7 +160,7 @@ def main() -> int:
         "errors": errors,
     }
     rendered = json.dumps(report, indent=2) + "\n"
-    evidence_path = ROOT / "ops/mission/evidence/P0-G1-2026-08-30.json"
+    evidence_path = ROOT / "ops/mission/evidence/P0-G1-2026-08-31.json"
     evidence_path.parent.mkdir(parents=True, exist_ok=True)
     evidence_path.write_text(rendered, encoding="utf-8")
     print(rendered, end="")

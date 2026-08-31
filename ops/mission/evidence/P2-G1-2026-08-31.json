@@ -1,0 +1,54 @@
+{
+  "status": "passed",
+  "files": {
+    "Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf": {
+      "pages": 756,
+      "page_size": "432 x 648 pts",
+      "bytes": 49270377,
+      "sha256": "9f8eaf3d2ef9e4ecbe56cbf64cfb6e6491be462ad1331879ac8c8854c2d49b1e",
+      "text_characters": 1287415,
+      "monthly_deep_dive_markers": 0
+    },
+    "Lady-D-Volume-1-Surrendering-to-Gods-Love-Companion-Journal-Deep-Dive-6x9.pdf": {
+      "pages": 420,
+      "page_size": "432 x 648 pts",
+      "bytes": 7031534,
+      "sha256": "8e1c7691dac09586c6e99a5b30c06d713b75db302d6299443d34dfb10f254a85",
+      "text_characters": 306343,
+      "monthly_deep_dive_markers": 12
+    },
+    "Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf": {
+      "pages": 756,
+      "page_size": "432 x 648 pts",
+      "bytes": 49210323,
+      "sha256": "a679160b03fb72c176f9e6c305bad0f14eb3d6ca31647ed73bc4f44e898fde0a",
+      "text_characters": 1287852,
+      "monthly_deep_dive_markers": 0
+    },
+    "Lady-D-Volume-2-Walking-with-Jesus-Companion-Journal-Deep-Dive-6x9.pdf": {
+      "pages": 420,
+      "page_size": "432 x 648 pts",
+      "bytes": 7001254,
+      "sha256": "1e8d8409e6ad0f1596334c5426f081fa6844851cc99787777fc0f6378409b5f0",
+      "text_characters": 310865,
+      "monthly_deep_dive_markers": 12
+    },
+    "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf": {
+      "pages": 756,
+      "page_size": "432 x 648 pts",
+      "bytes": 49488117,
+      "sha256": "c766621f991a74e5c4318449eccd413ae271f77523d8e67903aa4f042091ffb4",
+      "text_characters": 1299665,
+      "monthly_deep_dive_markers": 0
+    },
+    "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Companion-Journal-Deep-Dive-6x9.pdf": {
+      "pages": 420,
+      "page_size": "432 x 648 pts",
+      "bytes": 7137370,
+      "sha256": "e0fbac71d0f5834e14843b03efbcd885650fc3265f2eef50f964ba3bd9c9896a",
+      "text_characters": 308061,
+      "monthly_deep_dive_markers": 12
+    }
+  },
+  "errors": []
+}

@@ -10,10 +10,11 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[2]
-DATE = "2026-08-30"
+DATE = "2026-08-31"
 PACKAGES = [
     ROOT / "output" / f"Lady-D-Trilogy-Finalization-Master-Package-{DATE}.zip",
     ROOT / "public" / "downloads" / "lady-d-finalization" / f"Lady-D-Trilogy-Web-Review-Package-{DATE}.zip",
+    ROOT / "downloads" / "lady-d-finalization" / f"Lady-D-Trilogy-Web-Review-Package-{DATE}.zip",
 ]
 
 
@@ -66,7 +67,7 @@ def main() -> None:
     results = [verify(path) for path in PACKAGES]
     status = "PASS" if all(item["status"] == "PASS" for item in results) else "FAIL"
     report = {"status": status, "packages": results}
-    evidence = ROOT / "ops" / "mission" / "evidence" / "P4-G2-2026-08-30.json"
+    evidence = ROOT / "ops" / "mission" / "evidence" / "P4-G2-2026-08-31.json"
     evidence.write_text(json.dumps(report, indent=2) + "\n")
     print(json.dumps(report, indent=2))
     if status != "PASS":

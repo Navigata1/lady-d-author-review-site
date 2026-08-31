@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parents[2]
 PDF_DIR = ROOT / "output/pdf"
 POLISHED_DIR = ROOT / "source/finalization/polished"
 RENDER_DIR = ROOT / "tmp/pdfs/finalization"
-EVIDENCE_PATH = ROOT / "ops/mission/evidence/P2-G2-2026-08-30.json"
+EVIDENCE_PATH = ROOT / "ops/mission/evidence/P2-G2-2026-08-31.json"
 NODE_PATH = "/Users/IDC2.5/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules"
 
 PDF_NAMES = {
@@ -127,11 +127,13 @@ def main() -> int:
             key=lambda record: sum(len(paragraph) for paragraph in record["body"]) + len(record["prayer"]),
         )
         heaviest_index = source_index_for_day(heaviest["day"])
-        heaviest_page = 2 * heaviest_index + 6
+        heaviest_page = 2 * heaviest_index + 8
         selections = [
             (PDF_DIR / devotional_name, 1, f"v{volume}-devotional-cover"),
-            (PDF_DIR / devotional_name, 9, f"v{volume}-day2-scripture"),
-            (PDF_DIR / devotional_name, 10, f"v{volume}-day2-reading"),
+            (PDF_DIR / devotional_name, 6, f"v{volume}-foreword-reserve"),
+            (PDF_DIR / devotional_name, 7, f"v{volume}-acknowledgments"),
+            (PDF_DIR / devotional_name, 11, f"v{volume}-day2-scripture"),
+            (PDF_DIR / devotional_name, 12, f"v{volume}-day2-reading"),
             (PDF_DIR / devotional_name, heaviest_page, f"v{volume}-heaviest-day-{heaviest['day']}"),
             (PDF_DIR / journal_name, 1, f"v{volume}-journal-cover"),
             (PDF_DIR / journal_name, 6, f"v{volume}-journal-day2"),

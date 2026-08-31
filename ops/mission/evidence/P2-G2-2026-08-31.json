@@ -1,0 +1,336 @@
+{
+  "status": "passed",
+  "layout": {
+    "status": "passed",
+    "files": {
+      "volume-1-surrendering-to-gods-love-polished-companion-journal.html": {
+        "pageCount": 420,
+        "dimensions": [
+          "576x864"
+        ],
+        "overflow": [],
+        "consoleErrors": [],
+        "pageErrors": []
+      },
+      "volume-1-surrendering-to-gods-love-polished-devotional.html": {
+        "pageCount": 756,
+        "dimensions": [
+          "576x864"
+        ],
+        "overflow": [],
+        "consoleErrors": [],
+        "pageErrors": []
+      },
+      "volume-2-walking-with-jesus-polished-companion-journal.html": {
+        "pageCount": 420,
+        "dimensions": [
+          "576x864"
+        ],
+        "overflow": [],
+        "consoleErrors": [],
+        "pageErrors": []
+      },
+      "volume-2-walking-with-jesus-polished-devotional.html": {
+        "pageCount": 756,
+        "dimensions": [
+          "576x864"
+        ],
+        "overflow": [],
+        "consoleErrors": [],
+        "pageErrors": []
+      },
+      "volume-3-filled-with-the-holy-spirit-polished-companion-journal.html": {
+        "pageCount": 420,
+        "dimensions": [
+          "576x864"
+        ],
+        "overflow": [],
+        "consoleErrors": [],
+        "pageErrors": []
+      },
+      "volume-3-filled-with-the-holy-spirit-polished-devotional.html": {
+        "pageCount": 756,
+        "dimensions": [
+          "576x864"
+        ],
+        "overflow": [],
+        "consoleErrors": [],
+        "pageErrors": []
+      }
+    }
+  },
+  "rendered_pages": {
+    "v1-devotional-cover": {
+      "pdf": "Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf",
+      "page": 1,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 243.39,
+      "luminance_stddev": 16.83,
+      "nonblank": true
+    },
+    "v1-foreword-reserve": {
+      "pdf": "Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf",
+      "page": 6,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 243.93,
+      "luminance_stddev": 16.37,
+      "nonblank": true
+    },
+    "v1-acknowledgments": {
+      "pdf": "Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf",
+      "page": 7,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 239.32,
+      "luminance_stddev": 27.56,
+      "nonblank": true
+    },
+    "v1-day2-scripture": {
+      "pdf": "Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf",
+      "page": 11,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 240.07,
+      "luminance_stddev": 24.75,
+      "nonblank": true
+    },
+    "v1-day2-reading": {
+      "pdf": "Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf",
+      "page": 12,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 234.95,
+      "luminance_stddev": 34.24,
+      "nonblank": true
+    },
+    "v1-heaviest-day-160": {
+      "pdf": "Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf",
+      "page": 330,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 233.98,
+      "luminance_stddev": 36.03,
+      "nonblank": true
+    },
+    "v1-journal-cover": {
+      "pdf": "Lady-D-Volume-1-Surrendering-to-Gods-Love-Companion-Journal-Deep-Dive-6x9.pdf",
+      "page": 1,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 242.54,
+      "luminance_stddev": 19.69,
+      "nonblank": true
+    },
+    "v1-journal-day2": {
+      "pdf": "Lady-D-Volume-1-Surrendering-to-Gods-Love-Companion-Journal-Deep-Dive-6x9.pdf",
+      "page": 6,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 240.72,
+      "luminance_stddev": 24.36,
+      "nonblank": true
+    },
+    "v1-january-deep-dive": {
+      "pdf": "Lady-D-Volume-1-Surrendering-to-Gods-Love-Companion-Journal-Deep-Dive-6x9.pdf",
+      "page": 36,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 238.84,
+      "luminance_stddev": 26.26,
+      "nonblank": true
+    },
+    "v1-december-deep-dive": {
+      "pdf": "Lady-D-Volume-1-Surrendering-to-Gods-Love-Companion-Journal-Deep-Dive-6x9.pdf",
+      "page": 404,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 238.3,
+      "luminance_stddev": 27.37,
+      "nonblank": true
+    },
+    "v2-devotional-cover": {
+      "pdf": "Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf",
+      "page": 1,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 243.73,
+      "luminance_stddev": 14.87,
+      "nonblank": true
+    },
+    "v2-foreword-reserve": {
+      "pdf": "Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf",
+      "page": 6,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 243.89,
+      "luminance_stddev": 16.62,
+      "nonblank": true
+    },
+    "v2-acknowledgments": {
+      "pdf": "Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf",
+      "page": 7,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 239.3,
+      "luminance_stddev": 27.63,
+      "nonblank": true
+    },
+    "v2-day2-scripture": {
+      "pdf": "Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf",
+      "page": 11,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 240.74,
+      "luminance_stddev": 23.14,
+      "nonblank": true
+    },
+    "v2-day2-reading": {
+      "pdf": "Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf",
+      "page": 12,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 235.31,
+      "luminance_stddev": 33.98,
+      "nonblank": true
+    },
+    "v2-heaviest-day-159": {
+      "pdf": "Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf",
+      "page": 328,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 233.25,
+      "luminance_stddev": 37.09,
+      "nonblank": true
+    },
+    "v2-journal-cover": {
+      "pdf": "Lady-D-Volume-2-Walking-with-Jesus-Companion-Journal-Deep-Dive-6x9.pdf",
+      "page": 1,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 242.86,
+      "luminance_stddev": 18.19,
+      "nonblank": true
+    },
+    "v2-journal-day2": {
+      "pdf": "Lady-D-Volume-2-Walking-with-Jesus-Companion-Journal-Deep-Dive-6x9.pdf",
+      "page": 6,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 240.34,
+      "luminance_stddev": 25.9,
+      "nonblank": true
+    },
+    "v2-january-deep-dive": {
+      "pdf": "Lady-D-Volume-2-Walking-with-Jesus-Companion-Journal-Deep-Dive-6x9.pdf",
+      "page": 36,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 238.68,
+      "luminance_stddev": 26.78,
+      "nonblank": true
+    },
+    "v2-december-deep-dive": {
+      "pdf": "Lady-D-Volume-2-Walking-with-Jesus-Companion-Journal-Deep-Dive-6x9.pdf",
+      "page": 404,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 238.47,
+      "luminance_stddev": 27.18,
+      "nonblank": true
+    },
+    "v3-devotional-cover": {
+      "pdf": "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf",
+      "page": 1,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 243.36,
+      "luminance_stddev": 17.04,
+      "nonblank": true
+    },
+    "v3-foreword-reserve": {
+      "pdf": "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf",
+      "page": 6,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 243.9,
+      "luminance_stddev": 16.57,
+      "nonblank": true
+    },
+    "v3-acknowledgments": {
+      "pdf": "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf",
+      "page": 7,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 239.3,
+      "luminance_stddev": 27.61,
+      "nonblank": true
+    },
+    "v3-day2-scripture": {
+      "pdf": "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf",
+      "page": 11,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 239.43,
+      "luminance_stddev": 28.5,
+      "nonblank": true
+    },
+    "v3-day2-reading": {
+      "pdf": "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf",
+      "page": 12,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 235.04,
+      "luminance_stddev": 34.25,
+      "nonblank": true
+    },
+    "v3-heaviest-day-298": {
+      "pdf": "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf",
+      "page": 606,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 233.98,
+      "luminance_stddev": 35.88,
+      "nonblank": true
+    },
+    "v3-journal-cover": {
+      "pdf": "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Companion-Journal-Deep-Dive-6x9.pdf",
+      "page": 1,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 242.48,
+      "luminance_stddev": 19.98,
+      "nonblank": true
+    },
+    "v3-journal-day2": {
+      "pdf": "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Companion-Journal-Deep-Dive-6x9.pdf",
+      "page": 6,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 240.81,
+      "luminance_stddev": 24.32,
+      "nonblank": true
+    },
+    "v3-january-deep-dive": {
+      "pdf": "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Companion-Journal-Deep-Dive-6x9.pdf",
+      "page": 36,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 238.98,
+      "luminance_stddev": 25.96,
+      "nonblank": true
+    },
+    "v3-december-deep-dive": {
+      "pdf": "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Companion-Journal-Deep-Dive-6x9.pdf",
+      "page": 404,
+      "width": 720,
+      "height": 1080,
+      "mean_luminance": 238.53,
+      "luminance_stddev": 27.0,
+      "nonblank": true
+    }
+  },
+  "contact_sheet": "tmp/pdfs/finalization/lady-d-six-book-proof-sheet.png",
+  "errors": []
+}

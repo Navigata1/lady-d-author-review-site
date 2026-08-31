@@ -14,6 +14,13 @@ TEMPLATE_DIR = ROOT / "source/finalization/templates"
 POLISHED_DIR = ROOT / "source/finalization/polished"
 ENRICHMENT_DIR = ROOT / "source/finalization/enrichment"
 OUTPUT_DIR = ROOT / "public/downloads/lady-d-finalization"
+MIRROR_DIR = ROOT / "downloads/lady-d-finalization"
+FRONT_MATTER_PATH = ROOT / "source/finalization/front-matter/lady-d-shared-front-matter.json"
+DEVOTIONAL_PAGE_SHIFT = 2
+BLANK_FRONT_MATTER_LEAF = (
+    '<section class="leaf "><div class="rh"><span></span><i></i><span></span></div>'
+    '<div class="flow"></div><div class="folio"></div></section>'
+)
 
 VOLUMES = {
     1: {
@@ -67,6 +74,20 @@ DEEP_DIVE_CSS = r"""
 .deep-prayer{margin-top:9px;padding:8px 11px;border-left:3px solid var(--acc2);background:rgba(176,134,59,.06);font-style:italic;font-size:8pt;line-height:1.42;color:var(--ink-soft)}
 """
 
+FRONT_MATTER_CSS = r"""
+.fm-copy{justify-content:flex-start;padding-top:.12in}
+.fm-copy h1{font-size:23pt;margin:8px 0 8px}
+.fm-copy .orn{margin:9px auto 12px}
+.fmtext.acknowledgments{max-width:4.5in;font-size:8.45pt;line-height:1.43;color:var(--ink)}
+.fmtext.acknowledgments p{margin-bottom:.54em}
+.fmtext.acknowledgments .salutation{font-family:var(--disp);font-weight:600;color:var(--acc-ink);margin-bottom:.75em}
+.fmtext.acknowledgments .closing{margin-top:.85em;margin-bottom:.22em;font-style:italic}
+.fmtext.acknowledgments .signature{font-family:var(--disp);font-weight:600;color:var(--acc-ink)}
+.foreword-reserve{max-width:4.15in;padding:20px 22px;border:1px solid var(--rule);border-top:3px solid var(--gold);background:#fffdf7;text-align:left}
+.foreword-reserve p{font-size:10pt;line-height:1.58;color:var(--ink-soft);margin:0 0 .85em}
+.foreword-reserve .status{font-family:var(--sans);font-size:6.4pt;line-height:1.55;letter-spacing:.12em;text-transform:uppercase;color:var(--acc-ink);padding-top:10px;border-top:1px solid var(--rule)}
+"""
+
 
 def clean_text(value: str) -> str:
     value = value.replace("\u2014", " - ").replace("\u2013", " - ").replace("\u2011", "-")
@@ -104,6 +125,59 @@ def section_pattern(identifier: str) -> re.Pattern[str]:
     )
 
 
+def load_front_matter() -> dict:
+    payload = json.loads(FRONT_MATTER_PATH.read_text(encoding="utf-8"))
+    if payload.get("schema") != "idc.lady_d_shared_front_matter/v1":
+        raise ValueError("unexpected Lady D front-matter schema")
+    if payload["acknowledgments"].get("status") != "author_supplied":
+        raise ValueError("acknowledgments must be author supplied before composition")
+    return payload
+
+
+def shared_front_matter_pages(payload: dict) -> str:
+    foreword = payload["foreword"]
+    acknowledgments = payload["acknowledgments"]
+    acknowledgment_paragraphs = "".join(
+        f"<p>{esc(paragraph)}</p>" for paragraph in acknowledgments["paragraphs"]
+    )
+    return (
+        '<section class="leaf "><div class="rh"><span></span><i></i><span></span></div>'
+        '<div class="flow fm"><div class="k">Front Matter Contribution</div>'
+        f'<h1>{esc(foreword["title"])}</h1><div class="orn"></div>'
+        '<div class="foreword-reserve">'
+        f'<p>{esc(foreword["message"])}</p>'
+        f'<div class="status"><b>{esc(foreword["reviewLabel"])}</b><br>{esc(foreword["pending"])}</div>'
+        '</div></div><div class="folio"></div></section>'
+        '<section class="leaf "><div class="rh"><span></span><i></i><span></span></div>'
+        '<div class="flow fm fm-copy">'
+        f'<div class="k">From the Author</div><h1>{esc(acknowledgments["title"])}</h1><div class="orn"></div>'
+        '<div class="fmtext acknowledgments">'
+        f'<p class="salutation">{esc(acknowledgments["salutation"])}</p>'
+        f'{acknowledgment_paragraphs}'
+        f'<p class="closing">{esc(acknowledgments["closing"])}</p>'
+        f'<p class="signature">{esc(acknowledgments["signature"])}</p>'
+        '</div></div><div class="folio"></div></section>'
+        f'{BLANK_FRONT_MATTER_LEAF}'
+    )
+
+
+def shift_devotional_page_references(document: str, shift: int) -> str:
+    return re.sub(
+        r'(<td class="pg">)(\d+)(</td>)',
+        lambda match: f'{match.group(1)}{int(match.group(2)) + shift}{match.group(3)}',
+        document,
+    )
+
+
+def shift_journal_reference(reference_html: str, shift: int) -> str:
+    return re.sub(
+        r'(see devotional p\.\s*)(\d+)',
+        lambda match: f'{match.group(1)}{int(match.group(2)) + shift}',
+        reference_html,
+        flags=re.IGNORECASE,
+    )
+
+
 def extract_outer(section: str) -> tuple[str, str]:
     running_head = re.search(r"(<div class=\"rh\">.*?</div>)", section, re.DOTALL)
     folio = re.search(r"(<div class=\"folio\">.*?</div>)</section>$", section, re.DOTALL)
@@ -116,6 +190,12 @@ def build_devotional(volume: int, records: list[dict]) -> Path:
     source_path = TEMPLATE_DIR / f"vol{volume}-devotional-source.html"
     document = source_path.read_text(encoding="utf-8")
     by_day = {record["day"]: record for record in records}
+
+    if document.count(BLANK_FRONT_MATTER_LEAF) != 1:
+        raise ValueError(f"volume {volume} devotional must contain exactly one front-matter reserve leaf")
+    document = document.replace("</style>", FRONT_MATTER_CSS + "\n</style>", 1)
+    document = document.replace(BLANK_FRONT_MATTER_LEAF, shared_front_matter_pages(load_front_matter()), 1)
+    document = shift_devotional_page_references(document, DEVOTIONAL_PAGE_SHIFT)
 
     for index in range(1, 367):
         day = voice_day_for_source_index(index)
@@ -153,6 +233,8 @@ def build_devotional(volume: int, records: list[dict]) -> Path:
     document = clean_document_dashes(document)
     output_path = OUTPUT_DIR / f"volume-{volume}-{VOLUMES[volume]['slug']}-polished-devotional.html"
     output_path.write_text(document, encoding="utf-8")
+    MIRROR_DIR.mkdir(parents=True, exist_ok=True)
+    (MIRROR_DIR / output_path.name).write_text(document, encoding="utf-8")
     return output_path
 
 
@@ -258,6 +340,7 @@ def build_journal(volume: int, records: list[dict], enrichment_records: list[dic
         if not reference:
             raise ValueError(f"journal section j{index} is missing its reference")
         reference_html = clean_document_dashes(reference.group(1))
+        reference_html = shift_journal_reference(reference_html, DEVOTIONAL_PAGE_SHIFT)
         observation = observation_questions[day]
         prayer_line = first_prayer_line(record["prayer"])
         rebuilt = (
@@ -286,6 +369,8 @@ def build_journal(volume: int, records: list[dict], enrichment_records: list[dic
     document = clean_document_dashes(document)
     output_path = OUTPUT_DIR / f"volume-{volume}-{VOLUMES[volume]['slug']}-polished-companion-journal.html"
     output_path.write_text(document, encoding="utf-8")
+    MIRROR_DIR.mkdir(parents=True, exist_ok=True)
+    (MIRROR_DIR / output_path.name).write_text(document, encoding="utf-8")
     return output_path
 
 

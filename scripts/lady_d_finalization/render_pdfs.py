@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[2]
 HTML_DIR = ROOT / "public/downloads/lady-d-finalization"
 PDF_DIR = ROOT / "output/pdf"
 PUBLIC_DIR = ROOT / "public/downloads/lady-d-finalization"
+MIRROR_DIR = ROOT / "downloads/lady-d-finalization"
 CHROME = Path("/Applications/Google Chrome.app/Contents/MacOS/Google Chrome")
 
 JOBS = [
@@ -50,6 +51,7 @@ def main() -> None:
         raise SystemExit(f"Chrome not found at {CHROME}")
     PDF_DIR.mkdir(parents=True, exist_ok=True)
     PUBLIC_DIR.mkdir(parents=True, exist_ok=True)
+    MIRROR_DIR.mkdir(parents=True, exist_ok=True)
     rendered: list[dict[str, object]] = []
 
     for html_name, pdf_name in JOBS:
@@ -71,7 +73,9 @@ def main() -> None:
             ]
             pdf_path.unlink(missing_ok=True)
             process = subprocess.Popen(command, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-            expected_pages = 420 if "journal" in html_name else 754
+            expected_pages = html_path.read_text(encoding="utf-8").count('<section class="leaf')
+            if expected_pages < 1:
+                raise SystemExit(f"could not derive page count from {html_name}")
             stable_size = -1
             stable_checks = 0
             deadline = time.monotonic() + 240
@@ -114,11 +118,14 @@ def main() -> None:
 
             public_path = PUBLIC_DIR / pdf_name
             shutil.copy2(pdf_path, public_path)
+            mirror_path = MIRROR_DIR / pdf_name
+            shutil.copy2(pdf_path, mirror_path)
             rendered.append(
                 {
                     "source": str(html_path.relative_to(ROOT)),
                     "pdf": str(pdf_path.relative_to(ROOT)),
                     "public_copy": str(public_path.relative_to(ROOT)),
+                    "root_mirror": str(mirror_path.relative_to(ROOT)),
                     "bytes": pdf_path.stat().st_size,
                 }
             )

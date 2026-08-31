@@ -1,0 +1,283 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1100
+      },
+      "title": "Lady D Trilogy Finalization | Author Review",
+      "h1": "Three journeys. One luminous devotional library.",
+      "bookRows": 3,
+      "coverChoices": 3,
+      "images": [
+        {
+          "src": "assets/idc-palm-logo.png",
+          "complete": true,
+          "width": 800
+        },
+        {
+          "src": "covers/lady-d-finalization/v1-a-her-golden-valley.png",
+          "complete": true,
+          "width": 1024
+        },
+        {
+          "src": "covers/lady-d-finalization/v2-d-carried-on-the-way.png",
+          "complete": true,
+          "width": 1024
+        },
+        {
+          "src": "covers/lady-d-finalization/v3-c-after-rain.png",
+          "complete": true,
+          "width": 1024
+        },
+        {
+          "src": "covers/lady-d-finalization/v1-a-her-golden-valley.png",
+          "complete": true,
+          "width": 1024
+        },
+        {
+          "src": "covers/lady-d-finalization/v2-d-carried-on-the-way.png",
+          "complete": true,
+          "width": 1024
+        },
+        {
+          "src": "covers/lady-d-finalization/v3-c-after-rain.png",
+          "complete": true,
+          "width": 1024
+        },
+        {
+          "src": "assets/idc-palm-logo.png",
+          "complete": true,
+          "width": 800
+        }
+      ],
+      "overflow": false,
+      "links": [
+        "susan-damon-hub.html",
+        "#books",
+        "#covers",
+        "#evidence",
+        "#gates",
+        "lady-d-cover-decision-deck.html",
+        "downloads/lady-d-finalization/Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf",
+        "downloads/lady-d-finalization/Lady-D-Volume-1-Surrendering-to-Gods-Love-Companion-Journal-Deep-Dive-6x9.pdf",
+        "downloads/lady-d-finalization/volume-1-surrendering-to-gods-love-polished-devotional.html",
+        "downloads/lady-d-finalization/Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf",
+        "downloads/lady-d-finalization/Lady-D-Volume-2-Walking-with-Jesus-Companion-Journal-Deep-Dive-6x9.pdf",
+        "downloads/lady-d-finalization/volume-2-walking-with-jesus-polished-devotional.html",
+        "downloads/lady-d-finalization/Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf",
+        "downloads/lady-d-finalization/Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Companion-Journal-Deep-Dive-6x9.pdf",
+        "downloads/lady-d-finalization/volume-3-filled-with-the-holy-spirit-polished-devotional.html",
+        "lady-d-cover-decision-deck.html",
+        "downloads/lady-d-finalization/lady-d-cover-qualification.json",
+        "downloads/lady-d-finalization/audiobook/Lady-D-Audiobook-Production-Blueprint.md",
+        "downloads/lady-d-finalization/Lady-D-Trilogy-Web-Review-Package-2026-08-31.zip",
+        "susan-damon-hub.html"
+      ],
+      "hasFootprintsLock": true,
+      "linkChecks": [
+        {
+          "href": "susan-damon-hub.html",
+          "status": 200
+        },
+        {
+          "href": "lady-d-cover-decision-deck.html",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/Lady-D-Volume-1-Surrendering-to-Gods-Love-Companion-Journal-Deep-Dive-6x9.pdf",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/volume-1-surrendering-to-gods-love-polished-devotional.html",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/Lady-D-Volume-2-Walking-with-Jesus-Companion-Journal-Deep-Dive-6x9.pdf",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/volume-2-walking-with-jesus-polished-devotional.html",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Companion-Journal-Deep-Dive-6x9.pdf",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/volume-3-filled-with-the-holy-spirit-polished-devotional.html",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/lady-d-cover-qualification.json",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/audiobook/Lady-D-Audiobook-Production-Blueprint.md",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/Lady-D-Trilogy-Web-Review-Package-2026-08-31.zip",
+          "status": 200
+        }
+      ],
+      "errors": [],
+      "status": "PASS"
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "title": "Lady D Trilogy Finalization | Author Review",
+      "h1": "Three journeys. One luminous devotional library.",
+      "bookRows": 3,
+      "coverChoices": 3,
+      "images": [
+        {
+          "src": "assets/idc-palm-logo.png",
+          "complete": true,
+          "width": 800
+        },
+        {
+          "src": "covers/lady-d-finalization/v1-a-her-golden-valley.png",
+          "complete": true,
+          "width": 1024
+        },
+        {
+          "src": "covers/lady-d-finalization/v2-d-carried-on-the-way.png",
+          "complete": true,
+          "width": 1024
+        },
+        {
+          "src": "covers/lady-d-finalization/v3-c-after-rain.png",
+          "complete": true,
+          "width": 1024
+        },
+        {
+          "src": "covers/lady-d-finalization/v1-a-her-golden-valley.png",
+          "complete": true,
+          "width": 1024
+        },
+        {
+          "src": "covers/lady-d-finalization/v2-d-carried-on-the-way.png",
+          "complete": true,
+          "width": 1024
+        },
+        {
+          "src": "covers/lady-d-finalization/v3-c-after-rain.png",
+          "complete": true,
+          "width": 1024
+        },
+        {
+          "src": "assets/idc-palm-logo.png",
+          "complete": true,
+          "width": 800
+        }
+      ],
+      "overflow": false,
+      "links": [
+        "susan-damon-hub.html",
+        "#books",
+        "#covers",
+        "#evidence",
+        "#gates",
+        "lady-d-cover-decision-deck.html",
+        "downloads/lady-d-finalization/Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf",
+        "downloads/lady-d-finalization/Lady-D-Volume-1-Surrendering-to-Gods-Love-Companion-Journal-Deep-Dive-6x9.pdf",
+        "downloads/lady-d-finalization/volume-1-surrendering-to-gods-love-polished-devotional.html",
+        "downloads/lady-d-finalization/Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf",
+        "downloads/lady-d-finalization/Lady-D-Volume-2-Walking-with-Jesus-Companion-Journal-Deep-Dive-6x9.pdf",
+        "downloads/lady-d-finalization/volume-2-walking-with-jesus-polished-devotional.html",
+        "downloads/lady-d-finalization/Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf",
+        "downloads/lady-d-finalization/Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Companion-Journal-Deep-Dive-6x9.pdf",
+        "downloads/lady-d-finalization/volume-3-filled-with-the-holy-spirit-polished-devotional.html",
+        "lady-d-cover-decision-deck.html",
+        "downloads/lady-d-finalization/lady-d-cover-qualification.json",
+        "downloads/lady-d-finalization/audiobook/Lady-D-Audiobook-Production-Blueprint.md",
+        "downloads/lady-d-finalization/Lady-D-Trilogy-Web-Review-Package-2026-08-31.zip",
+        "susan-damon-hub.html"
+      ],
+      "hasFootprintsLock": true,
+      "linkChecks": [
+        {
+          "href": "susan-damon-hub.html",
+          "status": 200
+        },
+        {
+          "href": "lady-d-cover-decision-deck.html",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/Lady-D-Volume-1-Surrendering-to-Gods-Love-Companion-Journal-Deep-Dive-6x9.pdf",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/volume-1-surrendering-to-gods-love-polished-devotional.html",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/Lady-D-Volume-2-Walking-with-Jesus-Companion-Journal-Deep-Dive-6x9.pdf",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/volume-2-walking-with-jesus-polished-devotional.html",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Companion-Journal-Deep-Dive-6x9.pdf",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/volume-3-filled-with-the-holy-spirit-polished-devotional.html",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/lady-d-cover-qualification.json",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/audiobook/Lady-D-Audiobook-Production-Blueprint.md",
+          "status": 200
+        },
+        {
+          "href": "downloads/lady-d-finalization/Lady-D-Trilogy-Web-Review-Package-2026-08-31.zip",
+          "status": 200
+        }
+      ],
+      "errors": [],
+      "status": "PASS"
+    },
+    {
+      "page": "cover-decision-deck",
+      "statusCode": 200,
+      "coverCount": 10,
+      "status": "PASS"
+    }
+  ]
+}

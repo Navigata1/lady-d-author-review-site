@@ -1,0 +1,36 @@
+{
+  "schema": "idc.lady_d_shared_front_matter/v1",
+  "source": {
+    "kind": "author_email",
+    "author": "Susan \"Lady D\" Damon",
+    "date": "2026-08-03",
+    "subject": "Not sure this is what the Acknowledgements is supposed to look like",
+    "editorialChanges": [
+      "Corrected the obvious typo 'fot' to 'for'.",
+      "Normalized paragraph spacing for book composition; names and wording otherwise remain author supplied."
+    ]
+  },
+  "foreword": {
+    "status": "pending_author_submission",
+    "title": "Foreword",
+    "reviewLabel": "Author review placeholder",
+    "message": "Lady D has invited a trusted friend to introduce this devotional journey. This page is reserved for the contributor's approved words, name, and title.",
+    "pending": "Contributor confirmation and final foreword text are still needed before the publication proof is locked."
+  },
+  "acknowledgments": {
+    "status": "author_supplied",
+    "title": "Acknowledgments",
+    "salutation": "Dear Family and Friends,",
+    "paragraphs": [
+      "I am writing to express my deepest gratitude to all of you for your unwavering support and prayers throughout my journey.",
+      "First and foremost, I give all thanks to God, for His guidance and grace, because without Him, I would not be here today. God is my foundation.",
+      "To my husband, Pastor Juan Damon, and our beautiful daughters, Qianna and Tianna: thank you for your constant encouragement and for believing in me, even during moments of self-doubt. Your love is my greatest strength.",
+      "To the wonderful women who dedicated themselves to praying with me... and for me for countless years, during our 6 AM EST daily prayer sessions, regardless of the time zone I was in - Alzie Ross, Donald Ruffin, Loretta Napier, Yvette Picard, Carla Lane, and Juanita Powers: your devotion and spiritual partnership have been absolutely invaluable.",
+      "Additionally, to my siblings, Julieth Robinson and Henry Ross, and my dear sister-friend who walked closely alongside me during my most challenging times, Meredith Shepard: I am profoundly grateful for your presence, strength, and constancy in my life.",
+      "And to Johnathan for the countless nights editing and formatting, for making this dream into reality, I don't have the words.",
+      "Thank you all from the bottom of my heart for standing by me."
+    ],
+    "closing": "With all my love,",
+    "signature": "Susan \"Lady D\" Damon"
+  }
+}

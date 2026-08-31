@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "packages": [
+    {
+      "path": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/output/Lady-D-Trilogy-Finalization-Master-Package-2026-08-31.zip",
+      "status": "PASS",
+      "manifestEntries": 56,
+      "archiveEntries": 59,
+      "errors": []
+    },
+    {
+      "path": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/public/downloads/lady-d-finalization/Lady-D-Trilogy-Web-Review-Package-2026-08-31.zip",
+      "status": "PASS",
+      "manifestEntries": 35,
+      "archiveEntries": 38,
+      "errors": []
+    },
+    {
+      "path": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/downloads/lady-d-finalization/Lady-D-Trilogy-Web-Review-Package-2026-08-31.zip",
+      "status": "PASS",
+      "manifestEntries": 35,
+      "archiveEntries": 38,
+      "errors": []
+    }
+  ]
+}

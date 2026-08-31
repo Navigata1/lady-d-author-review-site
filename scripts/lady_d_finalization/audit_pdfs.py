@@ -14,14 +14,14 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 PDF_DIR = ROOT / "output/pdf"
-EVIDENCE_PATH = ROOT / "ops/mission/evidence/P2-G1-2026-08-30.json"
+EVIDENCE_PATH = ROOT / "ops/mission/evidence/P2-G1-2026-08-31.json"
 
 EXPECTED = {
-    "Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf": (754, "The Love That Sank Pharaoh's Best"),
+    "Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf": (756, "The Love That Sank Pharaoh's Best"),
     "Lady-D-Volume-1-Surrendering-to-Gods-Love-Companion-Journal-Deep-Dive-6x9.pdf": (420, "Monthly Deep Dive"),
-    "Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf": (754, "The Lord Who Seals a Truth Until Its Hour"),
+    "Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf": (756, "The Lord Who Seals a Truth Until Its Hour"),
     "Lady-D-Volume-2-Walking-with-Jesus-Companion-Journal-Deep-Dive-6x9.pdf": (420, "Monthly Deep Dive"),
-    "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf": (754, "The Prayer That Quenched the Fire"),
+    "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf": (756, "The Prayer That Quenched the Fire"),
     "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Companion-Journal-Deep-Dive-6x9.pdf": (420, "Monthly Deep Dive"),
 }
 
@@ -66,8 +66,18 @@ def main() -> int:
             text_path = Path(temp_dir) / f"{path.stem}.txt"
             subprocess.run(["pdftotext", str(path), str(text_path)], check=True)
             text = text_path.read_text(encoding="utf-8", errors="replace")
+            normalized_text = re.sub(r"\s+", " ", text).casefold()
             if marker not in text:
                 errors.append(f"{filename}: missing text marker {marker!r}")
+            if "Companion-Journal" not in filename:
+                for front_matter_marker in [
+                    "Foreword",
+                    "Dear Family and Friends",
+                    "Susan \"Lady D\" Damon",
+                    "Contributor confirmation and final foreword text",
+                ]:
+                    if front_matter_marker.casefold() not in normalized_text:
+                        errors.append(f"{filename}: missing front-matter marker {front_matter_marker!r}")
             mechanical = len(re.findall(r"surrender to His love", text, flags=re.IGNORECASE))
             if mechanical:
                 errors.append(f"{filename}: mechanical phrase remains {mechanical} time(s)")
