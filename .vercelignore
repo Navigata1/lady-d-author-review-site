@@ -8,13 +8,16 @@ quality/
 source/
 scripts/
 tmp/
-public/
+assets/
+covers/
+downloads/
+production-assets/
 
 # Historical production batches are retained in Git but are not linked by the
 # current Lady D hub. Excluding them keeps production deployment bounded.
-downloads/production/
-downloads/lady-d-finalization/Lady-D-Trilogy-Web-Review-Package-2026-08-30.zip
-downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Print-Proof.html
-downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Print-Proof.pdf
-downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Production-Proof-2026-08-31.zip
-downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Source.json
+public/downloads/production/
+public/downloads/lady-d-finalization/Lady-D-Trilogy-Web-Review-Package-2026-08-30.zip
+public/downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Print-Proof.html
+public/downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Print-Proof.pdf
+public/downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Production-Proof-2026-08-31.zip
+public/downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Source.json
