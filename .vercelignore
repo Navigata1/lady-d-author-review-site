@@ -1,23 +1,23 @@
 # Deploy the customer-facing root tree only. These folders contain local evidence,
 # build tooling, source corpora, or mirrored copies that are not public routes.
-.git/
-.vercel/
-node_modules/
-output/
-quality/
-source/
-scripts/
-tmp/
-assets/
-covers/
-downloads/
-production-assets/
+/.git/
+/.vercel/
+/node_modules/
+/output/
+/quality/
+/source/
+/scripts/
+/tmp/
+/assets/
+/covers/
+/downloads/
+/production-assets/
 
 # Historical production batches are retained in Git but are not linked by the
 # current Lady D hub. Excluding them keeps production deployment bounded.
-public/downloads/production/
-public/downloads/lady-d-finalization/Lady-D-Trilogy-Web-Review-Package-2026-08-30.zip
-public/downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Print-Proof.html
-public/downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Print-Proof.pdf
-public/downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Production-Proof-2026-08-31.zip
-public/downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Source.json
+/public/downloads/production/
+/public/downloads/lady-d-finalization/Lady-D-Trilogy-Web-Review-Package-2026-08-30.zip
+/public/downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Print-Proof.html
+/public/downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Print-Proof.pdf
+/public/downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Production-Proof-2026-08-31.zip
+/public/downloads/lady-d-finalization/Lady-D-31-Day-Visual-Devotional-Source.json
