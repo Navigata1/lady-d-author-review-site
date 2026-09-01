@@ -1,0 +1,498 @@
+{
+  "schema": "idc.lady_d_31_day_visual_journal_audit/v2",
+  "generatedAt": "2026-09-01T05:06:12.314188+00:00",
+  "status": "PASS",
+  "product": "concise 31-page visual journal",
+  "days": 31,
+  "uniqueTitles": 31,
+  "uniqueScriptures": 31,
+  "uniqueScenes": 31,
+  "uniqueSceneFamilies": 20,
+  "imageSize": {
+    "width": 1800,
+    "height": 2700
+  },
+  "brightness": {
+    "minimum": 51.34,
+    "maximum": 164.59,
+    "average": 119.99,
+    "strategicLowLightDays": [
+      15,
+      19,
+      23
+    ]
+  },
+  "nearestPerceptualPairsUnder50": [],
+  "errors": [],
+  "warnings": [
+    "strategic low-light scenes retained for narrative contrast: [15, 19, 23]"
+  ],
+  "records": [
+    {
+      "day": 1,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-01.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 141.61,
+      "sha256": "7eed24162efac34a1ec9215cd9f3d93130c47eb2f7cd062766421f876d1d04b7",
+      "copyWordCounts": {
+        "title": 2,
+        "encouragement": 22,
+        "scripture": 6,
+        "prayer": 22,
+        "affirmation": 5
+      }
+    },
+    {
+      "day": 2,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-02.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 127.52,
+      "sha256": "f4a1ac4ec7b35207885bf6fb0319f4233109bb651eeb8866a7d26869567c4498",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 20,
+        "scripture": 8,
+        "prayer": 20,
+        "affirmation": 5
+      }
+    },
+    {
+      "day": 3,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-03.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 126.05,
+      "sha256": "fe2708e42193e6f4fc703674c94479884e995658385b910a33852f6a526d988a",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 19,
+        "scripture": 11,
+        "prayer": 20,
+        "affirmation": 6
+      }
+    },
+    {
+      "day": 4,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-04.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 121.88,
+      "sha256": "fbdcab0a205325de34119f715bfabad1b1c62b191f3b59b276c148dbceae677b",
+      "copyWordCounts": {
+        "title": 3,
+        "encouragement": 21,
+        "scripture": 8,
+        "prayer": 19,
+        "affirmation": 4
+      }
+    },
+    {
+      "day": 5,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-05.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 106.21,
+      "sha256": "eab79db05045454f5e98b4de6ed048ed5776a07a1670e4b94cc1988f7e893bc5",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 20,
+        "scripture": 15,
+        "prayer": 20,
+        "affirmation": 5
+      }
+    },
+    {
+      "day": 6,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-06.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 143.92,
+      "sha256": "6c6aa4b7baf4370f991d64dfdc0957721b4cb1068aaf233efb52c916cbc32cbb",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 22,
+        "scripture": 7,
+        "prayer": 18,
+        "affirmation": 3
+      }
+    },
+    {
+      "day": 7,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-07.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 125.61,
+      "sha256": "21ce29ed7bc4fbfc0d52d69e3a990595cbf00166ca695b441a40868ac29cac63",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 20,
+        "scripture": 10,
+        "prayer": 18,
+        "affirmation": 5
+      }
+    },
+    {
+      "day": 8,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-08.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 140.19,
+      "sha256": "c3d0253ef2f2d7e49e4c8356aa30a650799bddba80bb95a540089e312f0e2802",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 21,
+        "scripture": 13,
+        "prayer": 22,
+        "affirmation": 5
+      }
+    },
+    {
+      "day": 9,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-09.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 136.26,
+      "sha256": "75cb89d4758443dabd6918c91f3b8ff2bd4e293a082d2907eb8a5c4d2baf6924",
+      "copyWordCounts": {
+        "title": 3,
+        "encouragement": 19,
+        "scripture": 17,
+        "prayer": 19,
+        "affirmation": 6
+      }
+    },
+    {
+      "day": 10,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-10.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 126.98,
+      "sha256": "dd5b002c5afdb04d841e25c19f64dd939bbf4d5f1596910e56f4e26cec7a926e",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 19,
+        "scripture": 10,
+        "prayer": 18,
+        "affirmation": 8
+      }
+    },
+    {
+      "day": 11,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-11.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 108.48,
+      "sha256": "76cae39410556f82271cda964bc67994bc5d0e88dd8dce06ae4efebf2d7a3fdc",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 19,
+        "scripture": 11,
+        "prayer": 20,
+        "affirmation": 5
+      }
+    },
+    {
+      "day": 12,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-12.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 129.26,
+      "sha256": "155ab45d36f6ed129e7e8de23bd969ed1e0ee1c05b74135ff0d86f300b6829cc",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 22,
+        "scripture": 14,
+        "prayer": 20,
+        "affirmation": 5
+      }
+    },
+    {
+      "day": 13,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-13.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 121.16,
+      "sha256": "a8ca13dce449f983d7769e84968c39daf13b8ba37f5d6419de63a5449533f148",
+      "copyWordCounts": {
+        "title": 3,
+        "encouragement": 18,
+        "scripture": 12,
+        "prayer": 23,
+        "affirmation": 6
+      }
+    },
+    {
+      "day": 14,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-14.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 113.54,
+      "sha256": "481c972aec2f9406a99729eb28ddf3253dd4fc3e3b9be11cee29bf4ff69c231b",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 20,
+        "scripture": 10,
+        "prayer": 21,
+        "affirmation": 5
+      }
+    },
+    {
+      "day": 15,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-15.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 52.66,
+      "sha256": "8ce8f5abf9ed4be14bf869c40cf361d5bf368d6863c70e12c6120019ed92bf99",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 19,
+        "scripture": 16,
+        "prayer": 22,
+        "affirmation": 4
+      }
+    },
+    {
+      "day": 16,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-16.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 118.03,
+      "sha256": "4e099ff07b0d08b61eebe03bfeda5e53b46721595a1b3eefdfb03ff4a98efccd",
+      "copyWordCounts": {
+        "title": 2,
+        "encouragement": 21,
+        "scripture": 5,
+        "prayer": 21,
+        "affirmation": 8
+      }
+    },
+    {
+      "day": 17,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-17.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 82.38,
+      "sha256": "6e83c52cbb6a78ee28dd5c97228ab1c956ebc8ef1421afb6b2d313c37d605a40",
+      "copyWordCounts": {
+        "title": 5,
+        "encouragement": 21,
+        "scripture": 13,
+        "prayer": 20,
+        "affirmation": 6
+      }
+    },
+    {
+      "day": 18,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-18.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 151.87,
+      "sha256": "986e816297b323a7104e6c810774101c19eebdcc4eb6f1f5ba54a1dcbc2d4566",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 17,
+        "scripture": 18,
+        "prayer": 15,
+        "affirmation": 4
+      }
+    },
+    {
+      "day": 19,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-19.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 51.34,
+      "sha256": "392c413130f2e6b170ae1652415257ee0f752a0607ec82185573764d62fc0144",
+      "copyWordCounts": {
+        "title": 5,
+        "encouragement": 22,
+        "scripture": 12,
+        "prayer": 21,
+        "affirmation": 3
+      }
+    },
+    {
+      "day": 20,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-20.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 120.81,
+      "sha256": "cdb698721bfb4bc4a5c2f3d6debb385d6e4bf87b00763d5a3d6b50334d031ee6",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 22,
+        "scripture": 13,
+        "prayer": 18,
+        "affirmation": 6
+      }
+    },
+    {
+      "day": 21,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-21.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 143.81,
+      "sha256": "e3245886fee0a586207193bda9944f66a1374902f5536f65aabe4cbe6f0d6a1c",
+      "copyWordCounts": {
+        "title": 5,
+        "encouragement": 21,
+        "scripture": 20,
+        "prayer": 16,
+        "affirmation": 7
+      }
+    },
+    {
+      "day": 22,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-22.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 128.25,
+      "sha256": "0fba797576f171008d400386ab12cba7e00259d4886c467102e2c53307a8dae6",
+      "copyWordCounts": {
+        "title": 3,
+        "encouragement": 22,
+        "scripture": 15,
+        "prayer": 18,
+        "affirmation": 5
+      }
+    },
+    {
+      "day": 23,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-23.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 58.62,
+      "sha256": "6ef2aba9f5527851e2a695218f83c3dc4c1b5e6fab0a513c0528cd314d2c3e77",
+      "copyWordCounts": {
+        "title": 5,
+        "encouragement": 19,
+        "scripture": 11,
+        "prayer": 19,
+        "affirmation": 5
+      }
+    },
+    {
+      "day": 24,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-24.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 94.47,
+      "sha256": "1555cb95703e05dddadff1adc3042623d8c1c2510d79d39159e256fc002229d5",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 18,
+        "scripture": 13,
+        "prayer": 19,
+        "affirmation": 5
+      }
+    },
+    {
+      "day": 25,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-25.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 134.76,
+      "sha256": "7c0e8a8652baa6bd1cc45602dd6bbfa0327cfb07a0581bac480418ecc3309dc9",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 19,
+        "scripture": 17,
+        "prayer": 19,
+        "affirmation": 4
+      }
+    },
+    {
+      "day": 26,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-26.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 120.96,
+      "sha256": "758d49a2b47011ee15f9ebf0986a558a87e966e7f1ae106a85eb624cfb1d5a65",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 18,
+        "scripture": 12,
+        "prayer": 17,
+        "affirmation": 6
+      }
+    },
+    {
+      "day": 27,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-27.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 97.89,
+      "sha256": "0661e92080b7c0fb9d6fefe87881be38507439eef155b9358c1e3779395ac20f",
+      "copyWordCounts": {
+        "title": 5,
+        "encouragement": 20,
+        "scripture": 11,
+        "prayer": 21,
+        "affirmation": 6
+      }
+    },
+    {
+      "day": 28,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-28.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 164.59,
+      "sha256": "a8f0dcfbadfe07c940a379a48d69c04a0c10ddd417feb64768a944109fed6e1f",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 20,
+        "scripture": 12,
+        "prayer": 18,
+        "affirmation": 5
+      }
+    },
+    {
+      "day": 29,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-29.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 161.42,
+      "sha256": "e42b98b8a91c7e317bfc4895a92c0880367ded4e5cc4416d0964c49ed209c080",
+      "copyWordCounts": {
+        "title": 4,
+        "encouragement": 18,
+        "scripture": 11,
+        "prayer": 22,
+        "affirmation": 5
+      }
+    },
+    {
+      "day": 30,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-30.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 124.18,
+      "sha256": "ba60376572ea4e157522f306bba4dfb9c3c68080fd751f062eed16e9765006ce",
+      "copyWordCounts": {
+        "title": 5,
+        "encouragement": 20,
+        "scripture": 18,
+        "prayer": 18,
+        "affirmation": 6
+      }
+    },
+    {
+      "day": 31,
+      "path": "assets/lady-d-31-visual-journal-v2/scenes/day-31.jpg",
+      "width": 1800,
+      "height": 2700,
+      "brightness": 145.0,
+      "sha256": "bff0d00c628338b67680f714594b7a58640ee337b3729086e16904f6355b24ff",
+      "copyWordCounts": {
+        "title": 5,
+        "encouragement": 20,
+        "scripture": 20,
+        "prayer": 24,
+        "affirmation": 5
+      }
+    }
+  ],
+  "sourceSha256": "2c4f8797c4be0b94e1967d1bc9188bf837921f03b1f4c730351950ec93cd7f4d"
+}

@@ -1,0 +1,411 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Thirty-One Mornings of Light | Lady D</title>
+<style>
+@font-face{font-family:Fraunces;src:url('assets/fonts/fraunces-regular.ttf') format('truetype');font-weight:400;font-display:swap}@font-face{font-family:Fraunces;src:url('assets/fonts/fraunces-semibold.ttf') format('truetype');font-weight:600;font-display:swap}@font-face{font-family:Fraunces;src:url('assets/fonts/fraunces-bold.ttf') format('truetype');font-weight:700;font-display:swap}@font-face{font-family:Pinyon;src:url('assets/fonts/pinyon-script.ttf') format('truetype');font-display:swap}@font-face{font-family:Inter;src:url('assets/fonts/inter-regular.ttf') format('truetype');font-weight:400;font-display:swap}@font-face{font-family:Inter;src:url('assets/fonts/inter-semibold.ttf') format('truetype');font-weight:600;font-display:swap}@font-face{font-family:Inter;src:url('assets/fonts/inter-extrabold.ttf') format('truetype');font-weight:800;font-display:swap}
+:root{--green:#173d34;--gold:#c99a45;--paper:#f8f1e5}*{box-sizing:border-box}html{background:#17251f}body{margin:0;color:#17233d;background:#e8e3dc;font-family:Inter,Arial,sans-serif}.toolbar{position:sticky;top:0;z-index:40;display:flex;align-items:center;gap:10px;padding:11px 16px;color:#fff;background:#102d27;border-bottom:1px solid rgba(255,255,255,.15)}.toolbar strong{margin-right:auto;font-family:Fraunces,Georgia,serif}.toolbar a{color:#fff;text-decoration:none;font-size:12px;font-weight:750}.hero{display:grid;place-items:center;min-height:440px;padding:64px 24px;color:#fff;text-align:center;background:linear-gradient(135deg,rgba(17,58,47,.96),rgba(81,48,75,.82)),url('assets/lady-d-31-visual-journal-v2/scenes/day-22.jpg') center/cover}.hero-inner{max-width:790px}.hero .eyebrow{margin:0;color:#efcf87;font-size:11px;font-weight:900;text-transform:uppercase}.hero h1{margin:10px 0 14px;font:600 clamp(42px,8vw,76px)/.96 Fraunces,Georgia,serif}.hero p{margin:0 auto;max-width:680px;font:18px/1.6 Georgia,serif}.hero small{display:block;margin-top:16px;color:#dce8e2}.book{padding:28px 0 70px}.journal-page{position:relative;width:6in;height:9in;margin:20px auto;overflow:hidden;background:#1c2e29;box-shadow:0 22px 60px rgba(15,31,25,.25);break-after:page;page-break-after:always}.art{position:absolute;inset:0;background-image:var(--art);background-position:center;background-size:cover}.scrim{position:absolute;inset:0;pointer-events:none}.copy{position:absolute;z-index:3;width:3.35in;max-width:58%;padding:.24in .27in .28in}.upper-left .copy{top:.45in;left:.42in}.upper-right .copy{top:.45in;right:.42in}.upper-center .copy{top:.38in;left:50%;width:4.7in;max-width:78%;transform:translateX(-50%);text-align:center}.left .copy{top:1.32in;left:.38in}.right .copy{top:1.28in;right:.38in}.lower-left .copy{bottom:.55in;left:.4in}.dark-copy .scrim{background:linear-gradient(90deg,rgba(250,246,236,.96) 0,rgba(250,246,236,.78) 49%,rgba(250,246,236,0) 76%)}.dark-copy.upper-right .scrim,.dark-copy.right .scrim{background:linear-gradient(270deg,rgba(250,246,236,.96) 0,rgba(250,246,236,.78) 49%,rgba(250,246,236,0) 76%)}.dark-copy.upper-center .scrim{background:linear-gradient(180deg,rgba(250,246,236,.95) 0,rgba(250,246,236,.72) 38%,rgba(250,246,236,0) 68%)}.dark-copy.lower-left .scrim{background:linear-gradient(0deg,rgba(21,35,49,.92),rgba(21,35,49,.7) 43%,transparent 70%)}.light-copy .copy,.dark-copy.lower-left .copy{color:#fff;text-shadow:0 2px 14px rgba(0,0,0,.5)}.light-copy .scrim{background:linear-gradient(90deg,rgba(12,26,39,.88),rgba(12,26,39,.56) 48%,transparent 78%)}.light-copy.upper-right .scrim{background:linear-gradient(270deg,rgba(12,26,39,.88),rgba(12,26,39,.56) 48%,transparent 78%)}.light-copy.upper-center .scrim{background:linear-gradient(180deg,rgba(12,26,39,.85),rgba(12,26,39,.52) 42%,transparent 72%)}.day-label{margin:0;color:var(--accent);font-size:8pt;font-weight:900;letter-spacing:.18em;text-transform:uppercase}.copy h2{margin:.04in 0 .1in;font:600 28pt/.92 Fraunces,Georgia,serif;letter-spacing:0}.copy h2::first-line{font-style:italic}.encouragement{margin:0 0 .14in;font:10.2pt/1.42 Georgia,serif}blockquote{margin:0;padding:.12in .14in;background:color-mix(in srgb,var(--accent) 82%,#513761);color:#fff;clip-path:polygon(2% 0,99% 3%,97% 96%,0 100%);font:italic 10pt/1.35 Georgia,serif}blockquote p{margin:0}blockquote cite{display:block;margin-top:.06in;font:7pt/1.2 Inter,Arial,sans-serif;font-style:normal;font-weight:800;letter-spacing:.08em;text-transform:uppercase}blockquote cite b{color:#f4d580}.prayer{margin:.13in 0 0;font:8.2pt/1.38 Georgia,serif}.prayer span{display:block;margin-bottom:.025in;color:var(--accent);font:800 6.5pt/1 Inter,Arial,sans-serif;letter-spacing:.12em;text-transform:uppercase}.affirmation{display:inline-block;margin:.12in 0 0;padding:.06in .1in;color:#fff;background:#173d34;font:italic 9pt/1.25 Georgia,serif;clip-path:polygon(0 8%,97% 0,100% 88%,3% 100%)}footer{position:absolute;z-index:3;left:.28in;right:.28in;bottom:.17in;display:flex;justify-content:space-between;gap:12px;color:rgba(255,255,255,.86);font-size:6pt;font-weight:800;text-shadow:0 1px 5px #000;text-transform:uppercase}.proof-flag{position:absolute;z-index:6;top:.18in;right:.18in;padding:5px 8px;color:#fff;background:#8a2f3a;font-size:7pt;font-weight:900;text-transform:uppercase}@media(max-width:680px){.toolbar{font-size:11px}.toolbar a:nth-of-type(2){display:none}.hero{min-height:360px}.journal-page{width:min(calc(100vw - 20px),6in);height:auto;aspect-ratio:2/3}.journal-page .copy{max-width:76%;transform:scale(.82);transform-origin:top left}.upper-right .copy,.right .copy{transform-origin:top right}.journal-page.upper-center .copy{max-width:82%;transform:translateX(-50%) scale(.82);transform-origin:top center}}@media print{@page{size:6in 9in;margin:0}body{background:#fff;print-color-adjust:exact;-webkit-print-color-adjust:exact}.toolbar,.hero{display:none}.book{padding:0}.journal-page{width:6in;height:9in;margin:0;box-shadow:none}.proof-flag{display:none}}
+</style></head><body>
+<nav class="toolbar"><strong>Thirty-One Mornings of Light</strong><a href="/">Publishing home</a><a href="lady-d-31-day-motion.html">Motion demonstration</a><a href="lady-d-31-day-visual-journal-scene-console.html">Scene console</a></nav>
+<header class="hero"><div class="hero-inner"><p class="eyebrow">The concise visual journal</p><h1>Thirty-One Mornings of Light</h1><p>One image. One message. One Scripture. One prayer. Thirty-one distinct moments of hope designed to be felt quickly and carried all day.</p><small>This replaces the long-form proof as the intended print experience. The earlier motion edition remains available as a separate demonstration.</small></div></header>
+<main class="book"><section class="journal-page upper-left dark-copy family-intimate-faith-collage" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-01.jpg');--accent:#9a66ad;--ink:#17233d" data-day="1" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Wonderfully Made visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 01</p>
+    <h2>Wonderfully Made</h2>
+    <p class="encouragement">Before the world named your flaws, God called His workmanship wonderful. Let His voice be the loudest one in the room today.</p>
+    <blockquote><p>I am fearfully and wonderfully made</p><cite>Psalm 139:14 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Father, quiet every cruel voice in me. Teach me to see what You see and walk today as one deeply loved. Amen.</p>
+    <p class="affirmation">I agree with God&#x27;s love.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left dark-copy family-wonder-landscape" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-02.jpg');--accent:#d68c5a;--ink:#fbf7ef" data-day="2" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="You Are Not Alone visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 02</p>
+    <h2>You Are Not Alone</h2>
+    <p class="encouragement">Fear may say the road is yours to survive. God answers with His presence: I am with you, even here.</p>
+    <blockquote><p>Fear thou not; for I am with thee</p><cite>Isaiah 41:10 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Father, meet me in the place that feels too large. Steady my heart with the nearness that never leaves. Amen.</p>
+    <p class="affirmation">I do not walk alone.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-right dark-copy family-symbolic-nature" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-03.jpg');--accent:#d7a745;--ink:#2b2030" data-day="3" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="He Mends What Hurts visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 03</p>
+    <h2>He Mends What Hurts</h2>
+    <p class="encouragement">The broken place is not where God turns away. It is where His gentle hands begin their careful work.</p>
+    <blockquote><p>He healeth the broken in heart, and bindeth up their wounds.</p><cite>Psalm 147:3 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Healer, touch the ache I cannot explain. Bind what is torn and teach my heart to trust Your tenderness. Amen.</p>
+    <p class="affirmation">My wound is held with care.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-center light-copy family-light-and-darkness" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-04.jpg');--accent:#7d6c9d;--ink:#18382f" data-day="4" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Be Still Here visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 04</p>
+    <h2>Be Still Here</h2>
+    <p class="encouragement">You do not have to solve everything in this moment. Let stillness make room for the God who is already here.</p>
+    <blockquote><p>Be still, and know that I am God</p><cite>Psalm 46:10 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>God, quiet the noise within me. Help me release what I cannot control and recognize Your presence now. Amen.</p>
+    <p class="affirmation">Stillness is not abandonment.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-right dark-copy family-wonder-landscape" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-05.jpg');--accent:#dfad61;--ink:#5e315e" data-day="5" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="He Goes Before You visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 05</p>
+    <h2>He Goes Before You</h2>
+    <p class="encouragement">The next bend may be hidden from you, but it is not hidden from God. His presence is already there.</p>
+    <blockquote><p>The LORD, he it is that doth go before thee; he will be with thee</p><cite>Deuteronomy 31:8 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Lord, go before my fear. Give me grace for the next step and trust for what I cannot see. Amen.</p>
+    <p class="affirmation">The way ahead is attended.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page left dark-copy family-intimate-devotional-portrait" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-06.jpg');--accent:#b58bbb;--ink:#20352f" data-day="6" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Your Cry Is Heard visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 06</p>
+    <h2>Your Cry Is Heard</h2>
+    <p class="encouragement">The prayer that trembles on your lips still reaches heaven. You are not too tired, too late, or too much for God.</p>
+    <blockquote><p>The righteous cry, and the LORD heareth</p><cite>Psalm 34:17 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Father, receive the words and tears I cannot organize. Let Your listening presence become my first relief. Amen.</p>
+    <p class="affirmation">Heaven hears me.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left dark-copy family-biblical-symbol" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-07.jpg');--accent:#bc894a;--ink:#663b6d" data-day="7" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Provision Has a Name visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 07</p>
+    <h2>Provision Has a Name</h2>
+    <p class="encouragement">The hard place does not get the final name. God can turn this mountain into a marker of His faithfulness.</p>
+    <blockquote><p>In the mount of the LORD it shall be seen.</p><cite>Genesis 22:14 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Jehovah-jireh, meet me where my resources end. Open my eyes to the provision You have already prepared. Amen.</p>
+    <p class="affirmation">God sees what I need.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-right light-copy family-storm-to-peace" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-08.jpg');--accent:#e0a55c;--ink:#f8f4e8" data-day="8" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Mercy Leads You Home visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 08</p>
+    <h2>Mercy Leads You Home</h2>
+    <p class="encouragement">The mercy that brought you out will not leave you halfway. The same love will lead you all the way home.</p>
+    <blockquote><p>Thou in thy mercy hast led forth the people which thou hast redeemed</p><cite>Exodus 15:13 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Father, guide the part of me still learning it is free. Lead me by mercy, one faithful step at a time. Amen.</p>
+    <p class="affirmation">Mercy knows the way home.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left dark-copy family-intimate-wonder" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-09.jpg');--accent:#c2a46d;--ink:#243339" data-day="9" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Come and Rest visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 09</p>
+    <h2>Come and Rest</h2>
+    <p class="encouragement">Jesus does not shame your weariness. He welcomes it, carries it, and gives your soul room to breathe again.</p>
+    <blockquote><p>Come unto me, all ye that labour and are heavy laden, and I will give you rest.</p><cite>Matthew 11:28 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Jesus, I bring You the weight I have normalized. Teach my body and soul to receive Your rest. Amen.</p>
+    <p class="affirmation">Rest is part of being loved.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left dark-copy family-historical-biblical" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-10.jpg');--accent:#d7a25e;--ink:#6b425f" data-day="10" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Take the Next Step visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 10</p>
+    <h2>Take the Next Step</h2>
+    <p class="encouragement">You do not need the whole map to follow Jesus. Grace for the journey begins with one willing step.</p>
+    <blockquote><p>Follow me, and I will make you fishers of men.</p><cite>Matthew 4:19 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Jesus, loosen my grip on certainty. Give me courage to follow the light You have given today. Amen.</p>
+    <p class="affirmation">I can follow one step at a time.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-right light-copy family-storm-to-peace" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-11.jpg');--accent:#8b5b87;--ink:#355d55" data-day="11" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Peace for This Storm visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 11</p>
+    <h2>Peace for This Storm</h2>
+    <p class="encouragement">Christ&#x27;s peace does not wait for perfect weather. It can settle your heart while the clouds are still moving.</p>
+    <blockquote><p>Peace I leave with you, my peace I give unto you</p><cite>John 14:27 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Jesus, speak peace over the part of me braced for trouble. Let Your presence become steadier than the storm. Amen.</p>
+    <p class="affirmation">His peace is here now.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page left dark-copy family-modern-symbolic-portrait" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-12.jpg');--accent:#925f8f;--ink:#436656" data-day="12" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="He Knows Your Name visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 12</p>
+    <h2>He Knows Your Name</h2>
+    <p class="encouragement">You are not a face lost in the crowd. Jesus knows your story, your need, and the name your heart answers to.</p>
+    <blockquote><p>I am the good shepherd, and know my sheep, and am known of mine.</p><cite>John 10:14 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Good Shepherd, call me out of hiding. Help me live today as one fully known and still fully loved. Amen.</p>
+    <p class="affirmation">I am known, not overlooked.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left dark-copy family-historical-biblical" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-13.jpg');--accent:#c69658;--ink:#6a3c63" data-day="13" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Carried Home Rejoicing visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 13</p>
+    <h2>Carried Home Rejoicing</h2>
+    <p class="encouragement">Jesus does not drag the found one home in disgust. He lifts, carries, and rejoices over the rescue.</p>
+    <blockquote><p>When he hath found it, he layeth it on his shoulders, rejoicing.</p><cite>Luke 15:5 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Shepherd of my soul, find the place in me that wandered. Carry me past shame and teach me to hear Your joy. Amen.</p>
+    <p class="affirmation">He rejoices to bring me home.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-right dark-copy family-historical-biblical-intimate" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-14.jpg');--accent:#c59b65;--ink:#2c3448" data-day="14" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Whole and at Peace visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 14</p>
+    <h2>Whole and at Peace</h2>
+    <p class="encouragement">Jesus sees more than the pain that brought you near. He calls you daughter and sends you forward in peace.</p>
+    <blockquote><p>Daughter, thy faith hath made thee whole; go in peace</p><cite>Mark 5:34 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Jesus, meet me beneath the fear and fatigue. Restore my dignity, my hope, and the courage to walk in peace. Amen.</p>
+    <p class="affirmation">I can rise in peace.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left light-copy family-light-and-darkness" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-15.jpg');--accent:#235b78;--ink:#7d4d8f" data-day="15" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Walk in the Light visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 15</p>
+    <h2>Walk in the Light</h2>
+    <p class="encouragement">Darkness may describe the hour, but it does not own your direction. Keep walking toward the Light of life.</p>
+    <blockquote><p>He that followeth me shall not walk in darkness, but shall have the light of life.</p><cite>John 8:12 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Jesus, be my light where answers are thin. Show me the next true step and keep my heart close to You. Amen.</p>
+    <p class="affirmation">Light is leading me.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-right dark-copy family-symbolic-still-life" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-16.jpg');--accent:#b98b55;--ink:#263949" data-day="16" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Called Friend visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 16</p>
+    <h2>Called Friend</h2>
+    <p class="encouragement">Jesus does not keep you at the edge of the room. He draws you near and shares His heart with you.</p>
+    <blockquote><p>I have called you friends</p><cite>John 15:15 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Jesus, teach me to receive Your friendship without hiding. Let closeness with You reshape the way I face this day. Amen.</p>
+    <p class="affirmation">There is a place for me near Jesus.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page lower-left light-copy family-wonder-landscape" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-17.jpg');--accent:#4d9b83;--ink:#f7f2e7" data-day="17" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Joy Can Fill This Place visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 17</p>
+    <h2>Joy Can Fill This Place</h2>
+    <p class="encouragement">Hope is not pretending the ache is gone. It is making room for God to pour joy and peace beside it.</p>
+    <blockquote><p>The God of hope fill you with all joy and peace in believing</p><cite>Romans 15:13 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>God of hope, fill the places worry has occupied. Let joy and peace rise in me by Your Spirit. Amen.</p>
+    <p class="affirmation">Hope has room to grow here.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left dark-copy family-power-of-God" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-18.jpg');--accent:#c7894f;--ink:#eff3ef" data-day="18" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Rise on Renewed Wings visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 18</p>
+    <h2>Rise on Renewed Wings</h2>
+    <p class="encouragement">Waiting with God is not wasted time. Strength is gathering where weariness thought the story had ended.</p>
+    <blockquote><p>They that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles</p><cite>Isaiah 40:31 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Lord, renew what exhaustion has emptied. Teach me to wait without surrendering my hope. Amen.</p>
+    <p class="affirmation">New strength is gathering.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page right dark-copy family-intimate-faith-collage" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-19.jpg');--accent:#6e4b83;--ink:#52705e" data-day="19" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="The Comforter Will Teach You visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 19</p>
+    <h2>The Comforter Will Teach You</h2>
+    <p class="encouragement">You are not expected to remember every truth by yourself. The Holy Spirit meets you in the moment and brings wisdom near.</p>
+    <blockquote><p>The Comforter, which is the Holy Ghost... shall teach you all things</p><cite>John 14:26 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Holy Spirit, settle my scattered thoughts. Teach me what matters and remind me of truth when I need it most. Amen.</p>
+    <p class="affirmation">Wisdom is near.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left dark-copy family-nature-symbol" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-20.jpg');--accent:#a34f45;--ink:#673f68" data-day="20" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Let Good Fruit Grow visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 20</p>
+    <h2>Let Good Fruit Grow</h2>
+    <p class="encouragement">God is not asking you to decorate the branches. Let the Spirit tend the root, and healthy fruit will come in season.</p>
+    <blockquote><p>The fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith</p><cite>Galatians 5:22 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Holy Spirit, cultivate what I cannot manufacture. Grow love, joy, peace, and gentleness from the inside out. Amen.</p>
+    <p class="affirmation">Good fruit begins at the root.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-right dark-copy family-wonder-landscape" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-21.jpg');--accent:#d29454;--ink:#714375" data-day="21" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Fear Does Not Own You visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 21</p>
+    <h2>Fear Does Not Own You</h2>
+    <p class="encouragement">Fear may knock loudly, but it does not carry your name. Power, love, and a sound mind belong at the door.</p>
+    <blockquote><p>God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.</p><cite>2 Timothy 1:7 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Holy Spirit, replace panic with power, self-protection with love, and confusion with a sound mind. Amen.</p>
+    <p class="affirmation">Fear is a visitor, not my owner.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left dark-copy family-power-of-God" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-22.jpg');--accent:#4a936d;--ink:#6b4273" data-day="22" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Not by Might visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 22</p>
+    <h2>Not by Might</h2>
+    <p class="encouragement">You do not have to force what only God can breathe into being. Release the strain and make room for His Spirit.</p>
+    <blockquote><p>Not by might, nor by power, but by my spirit, saith the LORD of hosts.</p><cite>Zechariah 4:6 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Spirit of God, free me from striving. Accomplish in Your strength what my clenched hands cannot carry. Amen.</p>
+    <p class="affirmation">Grace is stronger than strain.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-right light-copy family-cosmic-symbolic" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-23.jpg');--accent:#326c8d;--ink:#f3eee2" data-day="23" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="The Spirit Is Here Too visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 23</p>
+    <h2>The Spirit Is Here Too</h2>
+    <p class="encouragement">The unfinished place is not the forsaken place. God&#x27;s Spirit can hover over darkness until beauty finds its form.</p>
+    <blockquote><p>The Spirit of God moved upon the face of the waters.</p><cite>Genesis 1:2 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Holy Spirit, move over what feels chaotic and unfinished. Bring patient order, light, and life in Your time. Amen.</p>
+    <p class="affirmation">Unfinished does not mean abandoned.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left dark-copy family-historical-biblical-power" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-24.jpg');--accent:#cf8a4a;--ink:#513761" data-day="24" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="A Wind from Heaven visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 24</p>
+    <h2>A Wind from Heaven</h2>
+    <p class="encouragement">God can enter an ordinary room and change its atmosphere. Stay open to the breath that awakens courage.</p>
+    <blockquote><p>Suddenly there came a sound from heaven as of a rushing mighty wind</p><cite>Acts 2:2 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Holy Spirit, breathe through every closed place in me. Awaken courage, truth, and love that cannot stay hidden. Amen.</p>
+    <p class="affirmation">Heaven can fill this room.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left dark-copy family-wonder-landscape" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-25.jpg');--accent:#758d76;--ink:#654366" data-day="25" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Peace Will Guard You visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 25</p>
+    <h2>Peace Will Guard You</h2>
+    <p class="encouragement">You do not have to understand everything before peace arrives. Let God&#x27;s presence stand watch over your heart today.</p>
+    <blockquote><p>The peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.</p><cite>Philippians 4:7 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Father, guard my thoughts from every spiral. Set Your peace at the doors of my heart and mind. Amen.</p>
+    <p class="affirmation">Peace is standing watch.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-right light-copy family-storm-to-peace" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-26.jpg');--accent:#d18f68;--ink:#4a765b" data-day="26" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Joy Comes with Morning visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 26</p>
+    <h2>Joy Comes with Morning</h2>
+    <p class="encouragement">Tears tell the truth about the night. Morning tells another truth: sorrow does not get the last word.</p>
+    <blockquote><p>Weeping may endure for a night, but joy cometh in the morning.</p><cite>Psalm 30:5 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>God of morning, meet me after the long night. Let hope rise gently, honestly, and strong. Amen.</p>
+    <p class="affirmation">Joy is still on its way.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left dark-copy family-symbolic-artisan" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-27.jpg');--accent:#325f68;--ink:#29314c" data-day="27" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="God Is Working It Together visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 27</p>
+    <h2>God Is Working It Together</h2>
+    <p class="encouragement">Some pieces still look sharp and unrelated. Trust the hands that can place even broken colors into a larger beauty.</p>
+    <blockquote><p>All things work together for good to them that love God</p><cite>Romans 8:28 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Father, hold the pieces I cannot reconcile. Work through loss, delay, and surprise without wasting any part of my story. Amen.</p>
+    <p class="affirmation">The whole picture is still forming.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left dark-copy family-nature-symbol" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-28.jpg');--accent:#d7a65a;--ink:#6d426c" data-day="28" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Something New Is Springing visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 28</p>
+    <h2>Something New Is Springing</h2>
+    <p class="encouragement">New life rarely asks permission from the old landscape. Watch for the small green evidence that God is already moving.</p>
+    <blockquote><p>Behold, I will do a new thing; now it shall spring forth</p><cite>Isaiah 43:19 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Lord, sharpen my eyes for beginnings. Give me courage to welcome the new path You are opening. Amen.</p>
+    <p class="affirmation">New life is already stirring.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left dark-copy family-historical-symbolic" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-29.jpg');--accent:#e6a96b;--ink:#f8f4ea" data-day="29" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="He Carries Me Still visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 29</p>
+    <h2>He Carries Me Still</h2>
+    <p class="encouragement">When the road grew too heavy, you were not left behind. The footprints changed because love lifted you.</p>
+    <blockquote><p>Casting all your care upon him; for he careth for you.</p><cite>1 Peter 5:7 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Jesus, receive the burden I can no longer disguise as strength. Carry me until my soul remembers how deeply You care. Amen.</p>
+    <p class="affirmation">I am carried, not forgotten.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page right dark-copy family-intimate-artisan" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-30.jpg');--accent:#bd8750;--ink:#345349" data-day="30" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="He Will Finish the Work visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 30</p>
+    <h2>He Will Finish the Work</h2>
+    <p class="encouragement">You are not a discarded draft. The God who began this work remains patient, present, and committed to its completion.</p>
+    <blockquote><p>He which hath begun a good work in you will perform it until the day of Jesus Christ</p><cite>Philippians 1:6 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Faithful God, keep shaping what is unfinished in me. Replace impatience with trust in Your steady hands. Amen.</p>
+    <p class="affirmation">God is not finished with me.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section>
+<section class="journal-page upper-left dark-copy family-kingdom-light" style="--art:url('assets/lady-d-31-visual-journal-v2/scenes/day-31.jpg');--accent:#d8a74d;--ink:#754779" data-day="31" data-art-status="internally-qualified-author-review">
+  <div class="art" role="img" aria-label="Filled for the Next Step visual scene"></div>
+  <div class="scrim"></div>
+  <article class="copy">
+    <p class="day-label">Day 31</p>
+    <h2>Filled for the Next Step</h2>
+    <p class="encouragement">You are received by the Father, accompanied by Jesus, and filled by the Holy Spirit for the next faithful step.</p>
+    <blockquote><p>To know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.</p><cite>Ephesians 3:19 <b>KJV</b></cite></blockquote>
+    <p class="prayer"><span>Prayer</span>Father, Son, and Holy Spirit, fill my ordinary life with Your love. Let every next step carry light to someone who needs it. Amen.</p>
+    <p class="affirmation">I carry His light forward.</p>
+  </article>
+  <footer><span>Thirty-One Mornings of Light</span><span>Susan &ldquo;Lady D&rdquo; Damon</span></footer>
+</section></main></body></html>

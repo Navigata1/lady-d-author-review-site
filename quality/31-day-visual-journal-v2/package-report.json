@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "path": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/output/Lady-D-Thirty-One-Mornings-of-Light-Complete-Package-2026-08-31.zip",
+  "bytes": 98217186,
+  "sha256": "148c82536efc25b5c3134dc6f1bf5fdb6956229489e75b1053a7317121e89b31",
+  "entries": 50,
+  "mirrors": [
+    "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/downloads/lady-d-finalization/Lady-D-Thirty-One-Mornings-of-Light-Complete-Package-2026-08-31.zip",
+    "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/public/downloads/lady-d-finalization/Lady-D-Thirty-One-Mornings-of-Light-Complete-Package-2026-08-31.zip"
+  ]
+}

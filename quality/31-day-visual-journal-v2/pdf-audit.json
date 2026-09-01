@@ -1,0 +1,203 @@
+{
+  "schema": "idc.lady_d_31_day_visual_journal_pdf_audit/v2",
+  "generatedAt": "2026-09-01T05:03:08.365179+00:00",
+  "status": "PASS",
+  "path": "output/pdf/Lady-D-Thirty-One-Mornings-of-Light-Visual-Journal-6x9.pdf",
+  "bytes": 49250918,
+  "sha256": "9ab1453cab1c2c8e4003f49160c044f08e8064d48e599c4f6296b89116c12776",
+  "pages": 31,
+  "trimSize": "6x9 in",
+  "mediaBoxPoints": [
+    432,
+    648
+  ],
+  "errors": [],
+  "records": [
+    {
+      "page": 1,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 545
+    },
+    {
+      "page": 2,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 511
+    },
+    {
+      "page": 3,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 903
+    },
+    {
+      "page": 4,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 1165
+    },
+    {
+      "page": 5,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 865
+    },
+    {
+      "page": 6,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 528
+    },
+    {
+      "page": 7,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 542
+    },
+    {
+      "page": 8,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 1135
+    },
+    {
+      "page": 9,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 570
+    },
+    {
+      "page": 10,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 533
+    },
+    {
+      "page": 11,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 1143
+    },
+    {
+      "page": 12,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 544
+    },
+    {
+      "page": 13,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 567
+    },
+    {
+      "page": 14,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 895
+    },
+    {
+      "page": 15,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 667
+    },
+    {
+      "page": 16,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 812
+    },
+    {
+      "page": 17,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 636
+    },
+    {
+      "page": 18,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 596
+    },
+    {
+      "page": 19,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 931
+    },
+    {
+      "page": 20,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 625
+    },
+    {
+      "page": 21,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 944
+    },
+    {
+      "page": 22,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 567
+    },
+    {
+      "page": 23,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 1174
+    },
+    {
+      "page": 24,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 574
+    },
+    {
+      "page": 25,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 617
+    },
+    {
+      "page": 26,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 1104
+    },
+    {
+      "page": 27,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 610
+    },
+    {
+      "page": 28,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 576
+    },
+    {
+      "page": 29,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 572
+    },
+    {
+      "page": 30,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 986
+    },
+    {
+      "page": 31,
+      "widthPoints": 432.0,
+      "heightPoints": 648.0,
+      "textCharacters": 657
+    }
+  ]
+}

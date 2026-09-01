@@ -1,0 +1,30 @@
+{
+  "schema": "idc.lady_d_31_day_visual_journal_browser_gauntlet/v2",
+  "status": "PASS",
+  "base": "http://127.0.0.1:8793",
+  "pageCount": 31,
+  "desktop": {
+    "viewport": [
+      1440,
+      1000
+    ],
+    "pageSize": [
+      576,
+      864
+    ]
+  },
+  "mobile": {
+    "viewport": [
+      390,
+      844
+    ],
+    "pageSize": [
+      370,
+      555
+    ]
+  },
+  "composedPageScreenshots": 31,
+  "consoleErrors": 0,
+  "brokenImages": 0,
+  "overflows": 0
+}

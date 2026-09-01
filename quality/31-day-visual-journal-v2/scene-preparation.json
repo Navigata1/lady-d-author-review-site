@@ -1,0 +1,475 @@
+{
+  "schema": "idc.lady_d_scene_preparation/v1",
+  "target": {
+    "width": 1800,
+    "height": 2700,
+    "dpi": 300
+  },
+  "days": {
+    "1": {
+      "source": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/assets/lady-d-31-visual-journal-v2/calibration/day-01-pass.png",
+      "sourceSha256": "73078801a284169b50ed0e84894b61c38e408e3ce85742b71586733f86042150",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-01.jpg",
+      "preparedSha256": "7eed24162efac34a1ec9215cd9f3d93130c47eb2f7cd062766421f876d1d04b7",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "10": {
+      "source": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/assets/lady-d-31-visual-journal-v2/calibration/day-10-pass.png",
+      "sourceSha256": "a1afa7db76a05463f260028123b1af3185563c7f0874b5a113d5b9e5c5a610cc",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-10.jpg",
+      "preparedSha256": "dd5b002c5afdb04d841e25c19f64dd939bbf4d5f1596910e56f4e26cec7a926e",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "22": {
+      "source": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/assets/lady-d-31-visual-journal-v2/calibration/day-22-pass.png",
+      "sourceSha256": "68d20acd7d76cbf7ac8c68eeccd0177ba3e7600c7dc69e0df0fe54ccb7b8df13",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-22.jpg",
+      "preparedSha256": "0fba797576f171008d400386ab12cba7e00259d4886c467102e2c53307a8dae6",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "2": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-f6a28fa2-ec6b-4a49-bd57-98b81666567c.png",
+      "sourceSha256": "4d66481fa345726f7c85efc84731a4d216a40c1507134895435834999afd1356",
+      "nativeSize": {
+        "width": 1023,
+        "height": 1537
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-02.jpg",
+      "preparedSha256": "f4a1ac4ec7b35207885bf6fb0319f4233109bb651eeb8866a7d26869567c4498",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "3": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-60bec098-1fa9-4ca8-9128-f3d80f1fcc66.png",
+      "sourceSha256": "512e025827d1466a5f345a2f76928b3a66da106b9d4e0d6717a775212ce7f25d",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-03.jpg",
+      "preparedSha256": "fe2708e42193e6f4fc703674c94479884e995658385b910a33852f6a526d988a",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "4": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-16ce2c3f-67d6-49c7-bfcc-e9ca3065ebfa.png",
+      "sourceSha256": "9e78e26d52c4debbf7b4a256da583908d5769de78f95474492cbb18dad070de6",
+      "nativeSize": {
+        "width": 1023,
+        "height": 1537
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-04.jpg",
+      "preparedSha256": "fbdcab0a205325de34119f715bfabad1b1c62b191f3b59b276c148dbceae677b",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "5": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-51dafdab-36f5-4807-9168-72089e51e751.png",
+      "sourceSha256": "4a7070673a662cced47ca9a8997f574c73f186a642d72cc31122da433f63535c",
+      "nativeSize": {
+        "width": 1023,
+        "height": 1537
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-05.jpg",
+      "preparedSha256": "eab79db05045454f5e98b4de6ed048ed5776a07a1670e4b94cc1988f7e893bc5",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "6": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-4578bf15-7002-474c-96b1-7d43f3fa4012.png",
+      "sourceSha256": "8b8647d745cd7e598dbcf0ae724c1d08d712e6dafb417ca1679bf5cb2117823e",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-06.jpg",
+      "preparedSha256": "6c6aa4b7baf4370f991d64dfdc0957721b4cb1068aaf233efb52c916cbc32cbb",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "7": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-e5251208-863a-453e-accb-d4258aa863ab.png",
+      "sourceSha256": "34470c54b0bdd62a33e4867e3f03b10472548471f0024baea4e141aad830d428",
+      "nativeSize": {
+        "width": 1023,
+        "height": 1537
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-07.jpg",
+      "preparedSha256": "21ce29ed7bc4fbfc0d52d69e3a990595cbf00166ca695b441a40868ac29cac63",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "8": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-fbdd55ce-3e9d-4244-9654-685f0d5f5593.png",
+      "sourceSha256": "3b758bfad9b384f1c54560afe3750211c68803770a848177b546ef15f16ad449",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-08.jpg",
+      "preparedSha256": "c3d0253ef2f2d7e49e4c8356aa30a650799bddba80bb95a540089e312f0e2802",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "9": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-f5bdb778-216b-4afb-9b49-a76e5f45acf3.png",
+      "sourceSha256": "e35d9c98f2b22cbf3782d1fc638f4ee31a6b866e39639c43c2a705b0a4ada2be",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-09.jpg",
+      "preparedSha256": "75cb89d4758443dabd6918c91f3b8ff2bd4e293a082d2907eb8a5c4d2baf6924",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "11": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-3018f6ba-809c-4014-9540-5526455d8177.png",
+      "sourceSha256": "24fb9e038854a50ca4819b10b32a1801c933b08a52dbfb308c8d3bdba44d9202",
+      "nativeSize": {
+        "width": 1023,
+        "height": 1537
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-11.jpg",
+      "preparedSha256": "76cae39410556f82271cda964bc67994bc5d0e88dd8dce06ae4efebf2d7a3fdc",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "12": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-1f6e3dda-4cd9-4b28-ac5d-f76577e3dd94.png",
+      "sourceSha256": "abfd7c13b6d4c1bf9d6b3170779447ec97f6a37d50d2498cb0d2c572e7c0ab59",
+      "nativeSize": {
+        "width": 1023,
+        "height": 1537
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-12.jpg",
+      "preparedSha256": "155ab45d36f6ed129e7e8de23bd969ed1e0ee1c05b74135ff0d86f300b6829cc",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "13": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-90d06c0f-0e1a-4ea3-9c93-717315374df9.png",
+      "sourceSha256": "f666887f96b62fa5c9bdd7b6a125b86a80077fc0febf9d5e4177674f659c88c8",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-13.jpg",
+      "preparedSha256": "a8ca13dce449f983d7769e84968c39daf13b8ba37f5d6419de63a5449533f148",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "14": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-b368c15b-8b84-4ee8-a6e9-e6716fdc9e21.png",
+      "sourceSha256": "9a1e13f6710e385db27258a3109bac6d83d0c09e10c1fbd20f0626318e137454",
+      "nativeSize": {
+        "width": 1023,
+        "height": 1537
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-14.jpg",
+      "preparedSha256": "481c972aec2f9406a99729eb28ddf3253dd4fc3e3b9be11cee29bf4ff69c231b",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "15": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-6ad9901c-56c4-40b0-a3f6-a2cc77416c35.png",
+      "sourceSha256": "c4da0f3402a0a1e4299121b89691c7293db52dfa7f826397b47a66721ae15320",
+      "nativeSize": {
+        "width": 1023,
+        "height": 1537
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-15.jpg",
+      "preparedSha256": "8ce8f5abf9ed4be14bf869c40cf361d5bf368d6863c70e12c6120019ed92bf99",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "16": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-3f62c3ce-8436-47c2-a802-93c89e8361b5.png",
+      "sourceSha256": "b204f7822c87acc0d784b091b703b6860fd21bf9c425957416f3e81cbc9eff2f",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-16.jpg",
+      "preparedSha256": "4e099ff07b0d08b61eebe03bfeda5e53b46721595a1b3eefdfb03ff4a98efccd",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "17": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-28cb3958-0b5e-4c11-b649-c9459c0e7d7b.png",
+      "sourceSha256": "5e711fafa6c237def75ac23f4c1d9fd7550861ff32fcaf75186401d96da01f75",
+      "nativeSize": {
+        "width": 1023,
+        "height": 1537
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-17.jpg",
+      "preparedSha256": "6e83c52cbb6a78ee28dd5c97228ab1c956ebc8ef1421afb6b2d313c37d605a40",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "18": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-44ac0b5e-6ef8-4fec-a690-4124bd5cdf3b.png",
+      "sourceSha256": "56f33c80faaf92075985d9af34096b5171486d42f1e70c6012ddc968124e72c8",
+      "nativeSize": {
+        "width": 1023,
+        "height": 1537
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-18.jpg",
+      "preparedSha256": "986e816297b323a7104e6c810774101c19eebdcc4eb6f1f5ba54a1dcbc2d4566",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "19": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-97c43897-569b-4f0a-8aa5-2cd3f0a4d1e5.png",
+      "sourceSha256": "f8205045c60d33f7653352bb3d204f537cc2eb128f513b82f0f6002493f2b55c",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-19.jpg",
+      "preparedSha256": "392c413130f2e6b170ae1652415257ee0f752a0607ec82185573764d62fc0144",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "20": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-46f63420-31dc-4be7-9568-e1641561c6a6.png",
+      "sourceSha256": "4f7062546d51772caef5cbd9f5aa59fb2d4d0fe1ef5f12c48c9c8b4f2b0ca0bc",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-20.jpg",
+      "preparedSha256": "cdb698721bfb4bc4a5c2f3d6debb385d6e4bf87b00763d5a3d6b50334d031ee6",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "21": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-bc475ec1-ab7b-46ac-865c-e1f0f1ea982d.png",
+      "sourceSha256": "325b7ad0e8a285a32fe20e40e02726e276de28649838d21b797f118717314787",
+      "nativeSize": {
+        "width": 1023,
+        "height": 1537
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-21.jpg",
+      "preparedSha256": "e3245886fee0a586207193bda9944f66a1374902f5536f65aabe4cbe6f0d6a1c",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "23": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-e6787259-a28d-448e-9838-b208fef6a252.png",
+      "sourceSha256": "1c0f9144eb7b4d6faab2f4f59d824e179f1a04e35f7490fc64b1babf67fa2593",
+      "nativeSize": {
+        "width": 1023,
+        "height": 1537
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-23.jpg",
+      "preparedSha256": "6ef2aba9f5527851e2a695218f83c3dc4c1b5e6fab0a513c0528cd314d2c3e77",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "24": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-64fad298-fe62-4499-a33b-922cc814780d.png",
+      "sourceSha256": "38f33a348e31de8edfd7bc71a36a71fb74f337b593de03d4f3f94e2ad9f26743",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-24.jpg",
+      "preparedSha256": "1555cb95703e05dddadff1adc3042623d8c1c2510d79d39159e256fc002229d5",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "25": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-c15347d4-58ce-4307-9d76-eb653799f86c.png",
+      "sourceSha256": "a9fadaa9cd910cbfc17f599ba05c731f8bf09001bc992c083e0a3f745be0566c",
+      "nativeSize": {
+        "width": 1023,
+        "height": 1537
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-25.jpg",
+      "preparedSha256": "7c0e8a8652baa6bd1cc45602dd6bbfa0327cfb07a0581bac480418ecc3309dc9",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "26": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-86bcf3a3-18ab-4fe1-84be-55d67f2b741a.png",
+      "sourceSha256": "bee94ce9551dd03d8705950331fe94f93d63b665b47ffe5e1bb87034c50dcf95",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-26.jpg",
+      "preparedSha256": "758d49a2b47011ee15f9ebf0986a558a87e966e7f1ae106a85eb624cfb1d5a65",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "27": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-18726178-2b9f-4ce2-ac35-cb4e9f748b1c.png",
+      "sourceSha256": "1f5b570d13c4633da145c9194a7cacb0d1610c7dd3d0d52d36396e3d654b9b0c",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-27.jpg",
+      "preparedSha256": "0661e92080b7c0fb9d6fefe87881be38507439eef155b9358c1e3779395ac20f",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "28": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-bbf94023-08a1-4d3b-8253-4e54cfcedd35.png",
+      "sourceSha256": "47bc7282f8a691d6d8b468687ee29289d66dc3d9abb630ed47e5fe50435ede88",
+      "nativeSize": {
+        "width": 1023,
+        "height": 1537
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-28.jpg",
+      "preparedSha256": "a8f0dcfbadfe07c940a379a48d69c04a0c10ddd417feb64768a944109fed6e1f",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "29": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-5a580bf5-d160-4f2a-9e25-bccbeb800af2.png",
+      "sourceSha256": "9c4ad267e2d615bb4838a331007483027d12bd42cd18ddec424a2d95b264d4fa",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-29.jpg",
+      "preparedSha256": "e42b98b8a91c7e317bfc4895a92c0880367ded4e5cc4416d0964c49ed209c080",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "30": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-a0a98206-1af5-4fec-974e-6b6a0685952c.png",
+      "sourceSha256": "e4d563d50d04fa4fb420246ab0fb7668b4abe970ce8253760c1b08aee4ba0cd3",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-30.jpg",
+      "preparedSha256": "ba60376572ea4e157522f306bba4dfb9c3c68080fd751f062eed16e9765006ce",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    },
+    "31": {
+      "source": "/Users/IDC2.5/.codex/generated_images/019f16c5-8dc9-7bf2-aafe-4eaa81892fd7/exec-a0c08823-6f9a-4820-b492-bc3a513448ec.png",
+      "sourceSha256": "165102781c6fabd50fc60e6a76a7817297806255c7107edcbda4543faecc2882",
+      "nativeSize": {
+        "width": 1024,
+        "height": 1536
+      },
+      "prepared": "assets/lady-d-31-visual-journal-v2/scenes/day-31.jpg",
+      "preparedSha256": "bff0d00c628338b67680f714594b7a58640ee337b3729086e16904f6355b24ff",
+      "preparedSize": {
+        "width": 1800,
+        "height": 2700
+      },
+      "status": "prepared-awaiting-visual-gauntlet"
+    }
+  }
+}
