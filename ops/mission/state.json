@@ -10,8 +10,8 @@
     "northStar": "Three Scripture-faithful devotionals in Susan 'Lady D' Damon's lived preaching voice, paired with useful journals and a luminous, coherent cover family ready for author review and KDP production.",
     "status": "in_progress",
     "started": "2026-08-30",
-    "updated": "2026-08-31T23:11:20Z",
-    "sessionCount": 2
+    "updated": "2026-09-07",
+    "sessionCount": 3
   },
   "policies": {
     "merge": "review",
@@ -357,49 +357,111 @@
     {
       "id": "P7",
       "title": "31-Scene Art Production",
-      "goal": "Generate, qualify, rank, and approve one high-quality text-free visual scene for every day before either the print or motion edition is described as visually final.",
+      "goal": "Deliver the approved concise visual-journal format using 31 distinct scenes; retain the older expanded motion edition as a demonstration.",
       "status": "in_progress",
       "sessionsEstimate": "2-4",
       "gates": [
         {
           "id": "P7-G1",
-          "title": "Every scene clears the 88-point image gauntlet",
-          "command": "python3 scripts/lady_d_finalization/audit_31_day_visual_devotional.py",
-          "status": "pending",
-          "evidence": "quality/31-day/scene-gauntlet.json",
-          "lastRun": "2026-08-31T22:46:52Z",
-          "notes": "Current status is PENDING_ASSETS: 31 final scene renders remain missing. Directional movement key art is not accepted as final evidence."
+          "title": "All 31 scene assets and Scripture excerpts validate",
+          "command": "python3 scripts/lady_d_finalization/audit_31_day_visual_journal.py",
+          "status": "passed",
+          "evidence": "quality/31-day-visual-journal-v2/content-and-scene-audit.json",
+          "lastRun": "2026-09-07",
+          "notes": "Technical checks only; not a numeric aesthetic score or author approval."
         },
         {
           "id": "P7-G2",
           "title": "Author scene decisions and final spread review are recorded",
-          "command": "review lady-d-31-day-scene-review.html and render final spreads",
+          "command": "record-author-approval",
           "status": "pending",
           "evidence": null,
           "lastRun": null,
-          "notes": "Prompt approval precedes generation; scene approval follows anatomy, composition, contrast, faithfulness, and print checks."
+          "notes": "Author approval of the concise v2 collection and a physical print proof remain pending."
         }
       ],
       "tasks": [
         {
           "id": "P7-T1",
           "title": "Generate and score all 31 final text-free scenes",
-          "status": "in_progress",
+          "status": "done",
           "dependsOn": [
             "P6-T2"
           ],
           "pr": null,
-          "notes": "Use the scene console as the controlled prompt and decision surface."
+          "notes": "31 distinct v2 scene files exist. Author approval remains separate from automated asset validation."
         },
         {
           "id": "P7-T2",
-          "title": "Replace movement fallbacks and rebuild final print and motion editions",
-          "status": "todo",
+          "title": "Deliver the concise 31-page journal and preserve the motion demonstration",
+          "status": "done",
           "dependsOn": [
             "P7-T1"
           ],
           "pr": null,
-          "notes": "No final visual claim until all 31 assets and representative printed spreads pass."
+          "notes": "The user superseded the 95-page proof as the target print lane. The concise v2 edition and existing motion demonstration are intentionally separate."
+        }
+      ]
+    },
+    {
+      "id": "P8",
+      "title": "Reader and Publishing Home Polish",
+      "goal": "Improve the approved art presentation, mobile navigation, print typography, and offline delivery without changing the devotional text or selected artwork.",
+      "status": "in_progress",
+      "sessionsEstimate": "1",
+      "gates": [
+        {
+          "id": "P8-G1",
+          "title": "31-day reader, four viewports, and print composition pass",
+          "command": "node scripts/lady_d_finalization/verify_reader_polish.cjs",
+          "status": "passed",
+          "evidence": "quality/polish-2026-09-07/reader-gauntlet.json",
+          "lastRun": "2026-09-07"
+        },
+        {
+          "id": "P8-G2",
+          "title": "Full PDF text and image embedding validate",
+          "command": "python3 scripts/lady_d_finalization/audit_31_day_visual_journal_pdf.py",
+          "status": "passed",
+          "evidence": "quality/31-day-visual-journal-v2/pdf-audit.json",
+          "lastRun": "2026-09-07"
+        },
+        {
+          "id": "P8-G3",
+          "title": "Offline package and live release verified",
+          "command": "node scripts/lady_d_finalization/verify_package_offline.cjs",
+          "status": "pending",
+          "evidence": null,
+          "lastRun": null
+        }
+      ],
+      "tasks": [
+        {
+          "id": "P8-T1",
+          "title": "Improve journal reading, typography, and gallery",
+          "status": "done",
+          "dependsOn": [],
+          "pr": null,
+          "notes": "Exact passages and all31 source images retained."
+        },
+        {
+          "id": "P8-T2",
+          "title": "Polish publishing home and mobile navigation",
+          "status": "done",
+          "dependsOn": [],
+          "pr": null,
+          "notes": "Pricing and Stripe URL unchanged."
+        },
+        {
+          "id": "P8-T3",
+          "title": "Independent review, packaging, deployment, and live verification",
+          "status": "in_progress",
+          "dependsOn": [
+            "P8-T1",
+            "P8-T2"
+          ],
+          "pr": null,
+          "notes": "Author signoff and retail print release are outside this polish completion."
         }
       ]
     }
@@ -420,7 +482,7 @@
       "direction": "down"
     },
     {
-      "label": "Print-ready paired books",
+      "label": "Paired author-review books",
       "baseline": "0",
       "current": "6",
       "target": "6",
@@ -448,9 +510,9 @@
       "direction": "up"
     },
     {
-      "label": "Final-qualified 31-day scenes",
+      "label": "Distinct generated visual-journal scenes",
       "baseline": "0",
-      "current": "0",
+      "current": "31",
       "target": "31",
       "direction": "up"
     }
@@ -479,23 +541,20 @@
     {
       "title": "31-day movement art can be mistaken for final scene art",
       "severity": "high",
-      "note": "Open: the message, 95-page layout, prompt corpus, and motion framework are complete, but all 31 final visual scenes remain pending and must clear the 88-point gauntlet."
+      "note": "The new concise visual journal contains31 distinct scene renders. The older expanded motion experience remains clearly labeled as a demonstration."
     }
   ],
   "prLog": [],
   "resume": {
-    "activePhase": "P7",
+    "activePhase": "P8",
     "nextActions": [
-      "Approve or revise the 31 scene prompts in the scene gauntlet before image generation.",
-      "Generate the 31 text-free scenes, reject failures, and require at least 88/100 for every accepted render.",
-      "Replace movement key art with qualified scenes, rebuild the 95-page PDF and motion edition, and re-run the desktop, mobile, and PDF gauntlets.",
+      "Finish independent review of reader and hub polish, build and verify portable ZIP, publish the verified public tree, then verify live routes and checksums.",
       "Ask Susan to review representative days from every month in all three devotionals and journals.",
       "Record Susan's ranked cover selection, then assemble exact KDP wraps after page count and paper choice are locked.",
       "Complete theological and permissions review, KDP Previewer, and a photographed physical proof.",
       "Use the audiobook manifests only with human narration or a provider workflow explicitly authorized for the intended distributor."
     ],
     "blockers": [
-      "Thirty-one final visual scenes have not yet been generated or qualified; the 31-day editions are production proofs, not visual finals.",
       "Final author voice and theological approval has not yet been recorded.",
       "Final cover typography, spine width, back matter, barcode, and KDP physical proof depend on author selection and production metadata."
     ],

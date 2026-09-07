@@ -1,0 +1,46 @@
+const { chromium } = require('playwright');
+const fs = require('node:fs');
+const path = require('node:path');
+const {pathToFileURL} = require('node:url');
+const {execFileSync} = require('node:child_process');
+const assert = require('node:assert/strict');
+const root=path.resolve(__dirname,'../..');
+const folder=path.join(root,'tmp/polish-offline');
+const zip=path.join(root,'output/Lady-D-Thirty-One-Mornings-of-Light-Complete-Package-2026-09-07.zip');
+fs.mkdirSync(folder,{recursive:true});
+execFileSync('unzip',['-oq',zip,'-d',folder]);
+(async()=>{
+  const browser=await chromium.launch();
+  try {
+    const page=await browser.newPage({viewport:{width:390,height:844}});
+    const external=[];
+    await page.route(/^https?:/,r=>{external.push(r.request().url());return r.abort();});
+    const errors=[];
+    page.on('pageerror',e=>errors.push(e.message));
+    const reader=pathToFileURL(path.join(folder,'lady-d-31-day-visual-journal.html')).href;
+    await page.goto(reader+'#day-29');
+    await page.evaluate(()=>document.fonts.ready);
+    assert.equal(await page.locator('.is-current').getAttribute('data-day'),'29');
+    await page.locator('#previous-day').click();
+    assert.equal(await page.locator('.is-current').getAttribute('data-day'),'28');
+    await page.keyboard.press('ArrowRight');
+    assert.equal(await page.locator('.is-current').getAttribute('data-day'),'29');
+    await page.locator('[data-view=text]').click();
+    assert(await page.locator('.reading-panel').innerText().then(t=>t.includes('Casting all your care')));
+    const pdfURL=await page.getByRole('link',{name:'Download PDF',exact:true}).getAttribute('href');
+    assert(fs.existsSync(path.resolve(folder,pdfURL)));
+    await page.getByRole('link',{name:'All 31 days',exact:true}).click();
+    await page.locator('.gallery-day').last().scrollIntoViewIfNeeded();
+    await page.locator('.gallery-day').last().locator('img').evaluate(img=>img.decode());
+    await page.locator('.gallery-day').last().locator('a').click();
+    assert.equal(await page.locator('.is-current').getAttribute('data-day'),'31');
+    assert.deepEqual(errors,[]);assert.deepEqual(external,[]);
+    const fallback=await browser.newPage({viewport:{width:320,height:844},javaScriptEnabled:false});
+    await fallback.goto(reader);
+    assert.equal(await fallback.locator('.journal-page:visible').count(),31);
+    assert(await fallback.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+    const report={status:'PASS',checkedAt:new Date().toISOString(),offlineReader:true,offlineGallery:true,pdfLinkResolves:true,externalRequests:external,keyboard:true,noJavaScriptMobileFallback:true};
+    fs.writeFileSync(path.join(root,'quality/polish-2026-09-07/offline-package.json'),JSON.stringify(report,null,2)+'\n');
+    console.log(JSON.stringify(report,null,2));
+  }finally{await browser.close();}
+})().catch(e=>{console.error(e);process.exitCode=1;});

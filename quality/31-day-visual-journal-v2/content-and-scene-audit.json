@@ -1,6 +1,6 @@
 {
   "schema": "idc.lady_d_31_day_visual_journal_audit/v2",
-  "generatedAt": "2026-09-01T05:06:12.314188+00:00",
+  "generatedAt": "2026-09-07T10:29:47.855181+00:00",
   "status": "PASS",
   "product": "concise 31-page visual journal",
   "days": 31,
@@ -494,5 +494,5 @@
       }
     }
   ],
-  "sourceSha256": "2c4f8797c4be0b94e1967d1bc9188bf837921f03b1f4c730351950ec93cd7f4d"
+  "sourceSha256": "22da81f8698857c4ba1a991a8f31d1d1f5830165db6f7269bfc499b71e8421c7"
 }

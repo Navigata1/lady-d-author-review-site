@@ -12,7 +12,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[2]
-DATE = "2026-08-31"
+DATE = "2026-09-07"
 NAME = f"Lady-D-Thirty-One-Mornings-of-Light-Complete-Package-{DATE}.zip"
 OUTPUT = ROOT / "output" / NAME
 MIRRORS = [
@@ -39,21 +39,30 @@ def main() -> None:
         (ROOT / "quality/31-day-visual-journal-v2/content-and-scene-audit.json", "evidence/content-and-scene-audit.json"),
         (ROOT / "quality/31-day-visual-journal-v2/browser-gauntlet.json", "evidence/browser-gauntlet.json"),
         (ROOT / "quality/31-day-visual-journal-v2/pdf-audit.json", "evidence/pdf-audit.json"),
-        (ROOT / "quality/31-day-visual-journal-v2/editorial-judge.json", "evidence/editorial-judge.json"),
+        (ROOT / "quality/polish-2026-09-07/reader-gauntlet.json", "evidence/reader-gauntlet.json"),
     ]
     for scene in sorted((ROOT / "assets/lady-d-31-visual-journal-v2/scenes").glob("day-*.jpg")):
         files.append((scene, f"assets/lady-d-31-visual-journal-v2/scenes/{scene.name}"))
-    for font in sorted((ROOT / "assets/fonts").glob("*.ttf")):
+    for font in sorted((ROOT / "assets/fonts").iterdir()):
+        if not font.is_file():
+            continue
         files.append((font, f"assets/fonts/{font.name}"))
+    for asset in sorted((ROOT / "assets/lady-d-reader").iterdir()):
+        if asset.is_file():
+            files.append((asset, f"assets/lady-d-reader/{asset.name}"))
 
     missing = [str(path) for path, _ in files if not path.is_file()]
     if missing:
         raise FileNotFoundError("missing package inputs:\n" + "\n".join(missing))
 
-    entries = [
-        {"path": archive_path, "bytes": path.stat().st_size, "sha256": sha256(path)}
-        for path, archive_path in files
-    ]
+    payloads = []
+    for path, archive_path in files:
+        data = path.read_bytes()
+        if path.suffix == ".html":
+            # The portable copy must link to the PDF actually inside this archive.
+            data = data.replace(b'downloads/lady-d-finalization/Lady-D-Thirty-One-Mornings-of-Light-Visual-Journal-6x9.pdf', b'print/Lady-D-Thirty-One-Mornings-of-Light-Visual-Journal-6x9.pdf')
+        payloads.append((archive_path, data))
+    entries = [{"path": name, "bytes": len(data), "sha256": hashlib.sha256(data).hexdigest()} for name, data in payloads]
     manifest = {
         "schema": "idc.lady_d_31_day_visual_journal_package/v2",
         "createdAt": datetime.now(timezone.utc).isoformat(),
@@ -67,7 +76,11 @@ def main() -> None:
 
 This is Lady D's concise 31-page visual-journal edition: one unique full-page scene, one short encouragement, one KJV Scripture excerpt, one personal prayer, and one affirmation per day.
 
-The earlier expanded devotional and motion experiences remain demonstrations. This package contains the intended concise print lane, all 31 text-free scene masters, the verified source data, and the production evidence.
+Open lady-d-31-day-visual-journal.html for the illustrated reader, or lady-d-31-day-visual-journal-scene-console.html for the day gallery. Artwork, typography, icons, and reading controls work offline. The Publishing Home link opens the live website and requires internet access. The PDF is in print/.
+
+The reader offers next/previous days, direct day links, a larger-text view, and local reading-place memory where browser storage is available. Printing always includes all 31 pages regardless of the selected day or reading view.
+
+All 31 artwork files, source data, font and icon licenses, and current technical evidence are included. Artwork is prepared at 1800x2700 from 1024x1536 generated originals; this is not a claim of native 300-dpi detail. SHA256SUMS.txt and MANIFEST.json describe the actual packaged bytes, including the offline-adjusted HTML.
 
 Final author approval and a physical print proof remain required before public release.
 """
@@ -77,8 +90,14 @@ Final author approval and a physical print proof remain required before public r
         archive.writestr("DELIVERY-NOTES.md", notes)
         archive.writestr("MANIFEST.json", json.dumps(manifest, indent=2) + "\n")
         archive.writestr("SHA256SUMS.txt", checksums)
-        for path, archive_path in files:
-            archive.write(path, archive_path)
+        for archive_path, data in payloads:
+            archive.writestr(archive_path, data)
+    with zipfile.ZipFile(OUTPUT) as archive:
+        if archive.testzip() is not None:
+            raise ValueError("package CRC verification failed")
+        for entry in entries:
+            if hashlib.sha256(archive.read(entry["path"])).hexdigest() != entry["sha256"]:
+                raise ValueError(f"package checksum failed: {entry['path']}")
     for mirror in MIRRORS:
         mirror.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(OUTPUT, mirror)

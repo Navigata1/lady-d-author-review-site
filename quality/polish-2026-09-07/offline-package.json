@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "checkedAt": "2026-09-07T10:43:07.239Z",
+  "offlineReader": true,
+  "offlineGallery": true,
+  "pdfLinkResolves": true,
+  "externalRequests": [],
+  "keyboard": true,
+  "noJavaScriptMobileFallback": true
+}

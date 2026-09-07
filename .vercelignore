@@ -1,5 +1,5 @@
-# Deploy the customer-facing root tree only. These folders contain local evidence,
-# build tooling, source corpora, or mirrored copies that are not public routes.
+# Preserve the customer-facing public tree. Exclude root source, local evidence,
+# build tooling, and mirrored copies that are not deployment output.
 /.git/
 /.vercel/
 /node_modules/
@@ -8,6 +8,7 @@
 /source/
 /scripts/
 /tmp/
+/ops/
 /assets/
 /covers/
 /downloads/

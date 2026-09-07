@@ -1,0 +1,66 @@
+{
+  "status": "passed",
+  "volumes": {
+    "1": {
+      "entries": 366,
+      "changed_entries": 57,
+      "title_hash_before": "cc37df447e28f294e6f8c81f6ae62d871b57251b66a2a366fa1a54aacb0a6e1f",
+      "title_hash_after": "cc37df447e28f294e6f8c81f6ae62d871b57251b66a2a366fa1a54aacb0a6e1f",
+      "day_two_protected": true,
+      "mechanical_pattern_counts": {
+        "surrender_to_his_love_means": 0,
+        "as_you_surrender_to_his_love": 0,
+        "when_pronoun_surrenders_to_his_love": 0,
+        "surrender_to_his_love_by": 0,
+        "residual_surrender_to_his_love": 0,
+        "our_part_is_to_surrender": 0
+      },
+      "surrender_word_count_before": 465,
+      "surrender_word_count_after": 424,
+      "body_length_ratio_min": 0.9939091915836102,
+      "body_length_ratio_max": 1.0102681118083285
+    },
+    "2": {
+      "entries": 366,
+      "changed_entries": 52,
+      "title_hash_before": "601c5aa69b1f94e3a4b252a1143f23b069cdf96a4b7050624ee04bd758808f5d",
+      "title_hash_after": "601c5aa69b1f94e3a4b252a1143f23b069cdf96a4b7050624ee04bd758808f5d",
+      "day_two_protected": true,
+      "mechanical_pattern_counts": {
+        "surrender_to_his_love_means": 0,
+        "as_you_surrender_to_his_love": 0,
+        "when_pronoun_surrenders_to_his_love": 0,
+        "surrender_to_his_love_by": 0,
+        "residual_surrender_to_his_love": 0,
+        "our_part_is_to_surrender": 0
+      },
+      "surrender_word_count_before": 375,
+      "surrender_word_count_after": 328,
+      "body_length_ratio_min": 0.9988808058198098,
+      "body_length_ratio_max": 1.010915706488781
+    },
+    "3": {
+      "entries": 366,
+      "changed_entries": 111,
+      "title_hash_before": "c7ebbe0288773df14631ca98e67964680c83d19bacc6d57bc4795e7e61826705",
+      "title_hash_after": "c7ebbe0288773df14631ca98e67964680c83d19bacc6d57bc4795e7e61826705",
+      "day_two_protected": true,
+      "mechanical_pattern_counts": {
+        "surrender_to_his_love_means": 0,
+        "as_you_surrender_to_his_love": 0,
+        "when_pronoun_surrenders_to_his_love": 0,
+        "surrender_to_his_love_by": 0,
+        "residual_surrender_to_his_love": 0,
+        "our_part_is_to_surrender": 0
+      },
+      "surrender_word_count_before": 442,
+      "surrender_word_count_after": 370,
+      "body_length_ratio_min": 0.9929039301310044,
+      "body_length_ratio_max": 1.0113564668769717
+    }
+  },
+  "exact_phrase_before": 154,
+  "exact_phrase_after": 0,
+  "errors": [],
+  "warnings": []
+}

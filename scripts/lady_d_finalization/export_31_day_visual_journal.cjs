@@ -21,6 +21,20 @@ for (const directory of [path.dirname(output), ...mirrors.map(path.dirname)]) fs
     if (!response || !response.ok()) throw new Error("visual journal route did not return 2xx");
     await page.evaluate(() => document.fonts.ready);
     await page.emulateMedia({ media: "print" });
+    // Switching from one visible day to all print pages starts new image requests.
+    // Wait for full image decoding, not just the initial reader's network idle.
+    await page.evaluate(async () => {
+      for (const art of document.querySelectorAll('.journal-page .art')) {
+        const url = art.style.backgroundImage.match(/url\(["']?(.*?)["']?\)/)?.[1];
+        if (!url) throw new Error('Missing page artwork');
+        const image = new Image();
+        image.src = url;
+        await image.decode();
+        if (image.naturalWidth < 1800 || image.naturalHeight < 2700) throw new Error('Undersized page artwork');
+      }
+      await document.fonts.ready;
+    });
+    await page.waitForLoadState('networkidle');
     await page.pdf({
       path: output,
       width: "6in",

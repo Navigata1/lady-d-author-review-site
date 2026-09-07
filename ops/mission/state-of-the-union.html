@@ -59,41 +59,26 @@ button.copy:hover{background:rgba(88,215,179,.2)}
 .footer{margin-top:40px;border-top:1px solid var(--line);padding-top:16px;color:var(--muted);font-size:.9rem}
 @media(max-width:900px){main{width:min(100% - 24px,760px)}.tl-item{grid-template-columns:56px 1fr}}
 
-#mission-story{position:fixed;z-index:0;inset:0;overflow:hidden;contain:strict;pointer-events:none}
-#mission-story canvas{position:absolute;inset:-4%;width:108%;height:108%;opacity:.6;transform:translate3d(0,var(--mission-drift,0),0) scale(1.015);will-change:transform}
-#mission-story .glow{position:absolute;width:min(54vw,720px);aspect-ratio:1;border-radius:50%;filter:blur(76px);opacity:.11}
-#mission-story .a{top:-20%;right:-14%;background:radial-gradient(circle,rgba(88,215,179,.9),transparent 68%);transform:translate3d(calc(var(--mission-scroll,0) * -8vw),calc(var(--mission-scroll,0) * 18vh),0)}
-#mission-story .b{bottom:-28%;left:-18%;background:radial-gradient(circle,rgba(255,209,102,.7),transparent 68%);transform:translate3d(calc(var(--mission-scroll,0) * 12vw),calc(var(--mission-scroll,0) * -14vh),0)}
-#mission-story-label{position:absolute;right:max(22px,calc((100vw - 1180px)/2));bottom:22px;color:rgba(169,189,211,.4);font:800 .62rem ui-monospace,Menlo,Consolas,monospace;letter-spacing:.14em;text-transform:uppercase}
-#mission-motion{position:fixed;z-index:4;right:18px;top:18px;border:1px solid var(--line);border-radius:999px;background:rgba(7,15,28,.72);color:var(--muted);padding:7px 11px;cursor:pointer;backdrop-filter:blur(12px)}
-body.enhanced main{position:relative;z-index:1}
-body.enhanced :is(.panel,.phase,.tl-item){background:linear-gradient(145deg,rgba(16,36,59,.76),rgba(7,15,28,.6));box-shadow:inset 0 1px rgba(255,255,255,.045),0 24px 70px rgba(0,0,0,.12);backdrop-filter:blur(16px) saturate(118%)}
-body.enhanced :is(.table-wrap,.prompt-box pre){background:rgba(7,15,28,.94)}
-body.motion-paused #mission-story canvas{opacity:.12}
-@media(prefers-reduced-motion:reduce){#mission-story canvas,#mission-story .glow{display:none}body.enhanced :is(.panel,.phase,.tl-item){backdrop-filter:none}}
-@media(max-width:760px){#mission-story-label{display:none}body.enhanced :is(.panel,.phase,.tl-item){backdrop-filter:blur(10px)}}
-@media print{#mission-story,#mission-motion{display:none!important}body.enhanced :is(.panel,.phase,.tl-item){background:#fff;box-shadow:none;backdrop-filter:none}}
-
 </style>
 </head>
-<body class="enhanced">
-<div id="mission-story" aria-hidden="true"><canvas></canvas><div class="glow a"></div><div class="glow b"></div><span id="mission-story-label">01 &middot; Mission</span></div><button id="mission-motion" type="button" aria-pressed="false">Pause motion</button>
+<body>
+
 <main>
   <header class="hero">
-    <p class="eyebrow">Mission Control &middot; State of the Union &middot; generated 2026-08-31 23:11Z</p>
+    <p class="eyebrow">Mission Control &middot; State of the Union &middot; generated 2026-09-07 10:37Z</p>
     <h1>Lady D Trilogy Finalization</h1>
     <p class="tagline">Let every page sound lived, every cover feel luminous, and every companion deepen the journey.</p>
     <div style="margin-top:14px">
       <span class="chip blue">mission: in_progress</span>
-      <span class="chip green">active phase: P7</span>
-      <span class="chip blue">14/16 tasks</span>
-      <span class="chip amber">13/15 gates passed</span>
+      <span class="chip green">active phase: P8</span>
+      <span class="chip blue">18/19 tasks</span>
+      <span class="chip amber">16/18 gates passed</span>
       <span class="chip ">0 PRs merged</span>
-      <span class="chip ">sessions: 2</span>
-      <span class="chip ">updated: 2026-08-31T23:11:20Z</span>
+      <span class="chip ">sessions: 3</span>
+      <span class="chip ">updated: 2026-09-07</span>
     </div>
-    <div class="bar big" role="img" aria-label="Overall progress 88%"><div class="fill" style="width:88%"></div></div>
-    <p class="small muted" style="margin-top:6px">Overall: 88% of tasks complete &middot; repo Navigata1/lady-d-author-review-site &middot; plan: /Users/IDC2.5/Documents/LADY D/_synthesis-2026-07-19/Lady-D-Cover-Codex-Handoff.md</p>
+    <div class="bar big" role="img" aria-label="Overall progress 95%"><div class="fill" style="width:95%"></div></div>
+    <p class="small muted" style="margin-top:6px">Overall: 95% of tasks complete &middot; repo Navigata1/lady-d-author-review-site &middot; plan: /Users/IDC2.5/Documents/LADY D/_synthesis-2026-07-19/Lady-D-Cover-Codex-Handoff.md</p>
   </header>
 
   <section aria-labelledby="coldstart">
@@ -103,7 +88,7 @@ body.motion-paused #mission-story canvas{opacity:.12}
 
 Local repo: /Users/IDC2.5/Documents/LADY D/lady-d-author-review-site  (Navigata1/lady-d-author-review-site, default branch main)
 Governing plan: /Users/IDC2.5/Documents/LADY D/_synthesis-2026-07-19/Lady-D-Cover-Codex-Handoff.md
-Mission status: in_progress — active phase: P7
+Mission status: in_progress — active phase: P8
 
 Mission conventions:
   - Lady D's August 3 Exodus 15:4 email is the gold voice exemplar and must remain unchanged.
@@ -121,9 +106,9 @@ Operating procedure:
   </section>
 
   <section aria-labelledby="metrics"><h2 id="metrics">Scoreboard: Baseline &rarr; Current &rarr; Target</h2>
-  <div class="table-wrap"><table><thead><tr><th>Metric</th><th>Baseline</th><th>Current</th><th>Target</th></tr></thead><tbody><tr><td><b>Devotional entries polished</b></td><td>0</td><td><span class="chip green">1098</span></td><td>1098</td></tr><tr><td><b>Exact mechanical surrender phrases</b></td><td>154</td><td><span class="chip green">0</span></td><td>0</td></tr><tr><td><b>Print-ready paired books</b></td><td>0</td><td><span class="chip green">6</span></td><td>6</td></tr><tr><td><b>Qualified real cover candidates</b></td><td>0</td><td><span class="chip green">10</span></td><td>10</td></tr><tr><td><b>Audiobook chapter manifests</b></td><td>0</td><td><span class="chip green">3</span></td><td>3</td></tr><tr><td><b>31-day message records</b></td><td>0</td><td><span class="chip green">31</span></td><td>31</td></tr><tr><td><b>Final-qualified 31-day scenes</b></td><td>0</td><td><span class="chip amber">0</span></td><td>31</td></tr></tbody></table></div>
+  <div class="table-wrap"><table><thead><tr><th>Metric</th><th>Baseline</th><th>Current</th><th>Target</th></tr></thead><tbody><tr><td><b>Devotional entries polished</b></td><td>0</td><td><span class="chip green">1098</span></td><td>1098</td></tr><tr><td><b>Exact mechanical surrender phrases</b></td><td>154</td><td><span class="chip green">0</span></td><td>0</td></tr><tr><td><b>Paired author-review books</b></td><td>0</td><td><span class="chip green">6</span></td><td>6</td></tr><tr><td><b>Qualified real cover candidates</b></td><td>0</td><td><span class="chip green">10</span></td><td>10</td></tr><tr><td><b>Audiobook chapter manifests</b></td><td>0</td><td><span class="chip green">3</span></td><td>3</td></tr><tr><td><b>31-day message records</b></td><td>0</td><td><span class="chip green">31</span></td><td>31</td></tr><tr><td><b>Distinct generated visual-journal scenes</b></td><td>0</td><td><span class="chip green">31</span></td><td>31</td></tr></tbody></table></div>
   <p class="small muted" style="margin-top:6px">green = at/past target &middot; blue = moving toward target &middot; amber = unchanged &middot; red = moving away</p></section>
-  <section aria-labelledby="risks"><h2 id="risks">Risks &amp; Blockers</h2><div class="panel"><ul class="bare"><li><span class="chip red">blocker</span> Thirty-one final visual scenes have not yet been generated or qualified; the 31-day editions are production proofs, not visual finals.</li><li><span class="chip red">blocker</span> Final author voice and theological approval has not yet been recorded.</li><li><span class="chip red">blocker</span> Final cover typography, spine width, back matter, barcode, and KDP physical proof depend on author selection and production metadata.</li><li><span class="chip amber">medium</span> <b>Humanizer score can reward oversimplification</b> &mdash; <span class="muted">Mitigated: the humanizer remained advisory; the August authored exemplar, protected fields, and deterministic editorial evidence outranked the style score.</span></li><li><span class="chip red">high</span> <b>Longer natural prose can overflow 6x9 interiors</b> &mdash; <span class="muted">Mitigated: all six PDFs passed exact 6x9 geometry, expected page counts, text-marker checks, representative renders, and automated overflow checks.</span></li><li><span class="chip red">high</span> <b>Generated cover imagery can drift dark or embed malformed text</b> &mdash; <span class="muted">Mitigated for author selection: ten no-text raster candidates passed luminance and dark-mass gates; final typography waits for Susan's selection and locked wrap dimensions.</span></li><li><span class="chip red">high</span> <b>External author and KDP gates remain</b> &mdash; <span class="muted">Susan's voice and theological approval, front matter, selected-cover wrap assembly, KDP Previewer, and a physical proof are required before public release.</span></li><li><span class="chip red">high</span> <b>31-day movement art can be mistaken for final scene art</b> &mdash; <span class="muted">Open: the message, 95-page layout, prompt corpus, and motion framework are complete, but all 31 final visual scenes remain pending and must clear the 88-point gauntlet.</span></li></ul></div></section>
+  <section aria-labelledby="risks"><h2 id="risks">Risks &amp; Blockers</h2><div class="panel"><ul class="bare"><li><span class="chip red">blocker</span> Final author voice and theological approval has not yet been recorded.</li><li><span class="chip red">blocker</span> Final cover typography, spine width, back matter, barcode, and KDP physical proof depend on author selection and production metadata.</li><li><span class="chip amber">medium</span> <b>Humanizer score can reward oversimplification</b> &mdash; <span class="muted">Mitigated: the humanizer remained advisory; the August authored exemplar, protected fields, and deterministic editorial evidence outranked the style score.</span></li><li><span class="chip red">high</span> <b>Longer natural prose can overflow 6x9 interiors</b> &mdash; <span class="muted">Mitigated: all six PDFs passed exact 6x9 geometry, expected page counts, text-marker checks, representative renders, and automated overflow checks.</span></li><li><span class="chip red">high</span> <b>Generated cover imagery can drift dark or embed malformed text</b> &mdash; <span class="muted">Mitigated for author selection: ten no-text raster candidates passed luminance and dark-mass gates; final typography waits for Susan's selection and locked wrap dimensions.</span></li><li><span class="chip red">high</span> <b>External author and KDP gates remain</b> &mdash; <span class="muted">Susan's voice and theological approval, front matter, selected-cover wrap assembly, KDP Previewer, and a physical proof are required before public release.</span></li><li><span class="chip red">high</span> <b>31-day movement art can be mistaken for final scene art</b> &mdash; <span class="muted">The new concise visual journal contains31 distinct scene renders. The older expanded motion experience remains clearly labeled as a demonstration.</span></li></ul></div></section>
 
   <section aria-labelledby="phases">
     <h2 id="phases">Phases</h2>
@@ -437,25 +422,25 @@ Operating procedure:
   Never hand-edit state-of-the-union.html. Never merge without fresh gate evidence in ops/mission/evidence/.
   End of session: update resume.nextActions for a stranger, append journal entry, render, commit.</pre></div>
       </details>
-    </article><article class="phase active">
+    </article><article class="phase">
       <header>
         <span class="chip amber">in progress</span>
         <h3>P7 &middot; 31-Scene Art Production</h3>
         <span class="muted small">est. sessions: 2-4</span>
       </header>
-      <p class="muted">Generate, qualify, rank, and approve one high-quality text-free visual scene for every day before either the print or motion edition is described as visually final.</p>
-      <div class="bar"><div class="fill" style="width:0%"></div></div>
-      <p class="small muted">0/2 tasks &middot; 0%</p>
-      <ul class="tasks"><li class="task-in_progress"><span class="mark">&#9689;</span> <b>P7-T1</b> Generate and score all 31 final text-free scenes<br><span class="muted small">Use the scene console as the controlled prompt and decision surface.</span></li><li class="task-todo"><span class="mark">&#9675;</span> <b>P7-T2</b> Replace movement fallbacks and rebuild final print and motion editions<br><span class="muted small">No final visual claim until all 31 assets and representative printed spreads pass.</span></li></ul>
+      <p class="muted">Deliver the approved concise visual-journal format using 31 distinct scenes; retain the older expanded motion edition as a demonstration.</p>
+      <div class="bar"><div class="fill" style="width:100%"></div></div>
+      <p class="small muted">2/2 tasks &middot; 100%</p>
+      <ul class="tasks"><li class="task-done"><span class="mark">&#9679;</span> <b>P7-T1</b> Generate and score all 31 final text-free scenes<br><span class="muted small">31 distinct v2 scene files exist. Author approval remains separate from automated asset validation.</span></li><li class="task-done"><span class="mark">&#9679;</span> <b>P7-T2</b> Deliver the concise 31-page journal and preserve the motion demonstration<br><span class="muted small">The user superseded the 95-page proof as the target print lane. The concise v2 edition and existing motion demonstration are intentionally separate.</span></li></ul>
       <div class="table-wrap"><table><thead><tr><th>Gate</th><th>Check</th><th>Command</th><th>Evidence</th><th>Last run</th></tr></thead><tbody><tr>
+      <td><span class="chip green">passed</span></td>
+      <td><b>All 31 scene assets and Scripture excerpts validate</b><br><span class="small">Technical checks only; not a numeric aesthetic score or author approval.</span></td>
+      <td><code>python3 scripts/lady_d_finalization/audit_31_day_visual_journal.py</code></td>
+      <td>quality/31-day-visual-journal-v2/content-and-scene-audit.json</td>
+      <td>2026-09-07</td></tr><tr>
       <td><span class="chip ">pending</span></td>
-      <td><b>Every scene clears the 88-point image gauntlet</b><br><span class="small">Current status is PENDING_ASSETS: 31 final scene renders remain missing. Directional movement key art is not accepted as final evidence.</span></td>
-      <td><code>python3 scripts/lady_d_finalization/audit_31_day_visual_devotional.py</code></td>
-      <td>quality/31-day/scene-gauntlet.json</td>
-      <td>2026-08-31T22:46:52Z</td></tr><tr>
-      <td><span class="chip ">pending</span></td>
-      <td><b>Author scene decisions and final spread review are recorded</b><br><span class="small">Prompt approval precedes generation; scene approval follows anatomy, composition, contrast, faithfulness, and print checks.</span></td>
-      <td><code>review lady-d-31-day-scene-review.html and render final spreads</code></td>
+      <td><b>Author scene decisions and final spread review are recorded</b><br><span class="small">Author approval of the concise v2 collection and a physical print proof remain pending.</span></td>
+      <td><code>record-author-approval</code></td>
       <td>&mdash;</td>
       <td>&mdash;</td></tr></tbody></table></div>
       <details class="resume"><summary>Resume prompt for P7 (copy into a fresh session)</summary>
@@ -466,23 +451,69 @@ North star: Three Scripture-faithful devotionals in Susan 'Lady D' Damon's lived
 Repo: Navigata1/lady-d-author-review-site (local: /Users/IDC2.5/Documents/LADY D/lady-d-author-review-site), default branch: main.
 Governing plan: /Users/IDC2.5/Documents/LADY D/_synthesis-2026-07-19/Lady-D-Cover-Codex-Handoff.md
 
-Phase goal: Generate, qualify, rank, and approve one high-quality text-free visual scene for every day before either the print or motion edition is described as visually final.
-Remaining tasks:
-  - [in_progress] P7-T1: Generate and score all 31 final text-free scenes (Use the scene console as the controlled prompt and decision surface.)
-  - [todo] P7-T2: Replace movement fallbacks and rebuild final print and motion editions (No final visual claim until all 31 assets and representative printed spreads pass.)
+Phase goal: Deliver the approved concise visual-journal format using 31 distinct scenes; retain the older expanded motion edition as a demonstration.
+All tasks in this phase are done.
 Gates not yet passed:
-  - [pending] Every scene clears the 88-point image gauntlet  -&gt;  python3 scripts/lady_d_finalization/audit_31_day_visual_devotional.py
-  - [pending] Author scene decisions and final spread review are recorded  -&gt;  review lady-d-31-day-scene-review.html and render final spreads
+  - [pending] Author scene decisions and final spread review are recorded  -&gt;  record-author-approval
+Mission conventions:
+  - Lady D's August 3 Exodus 15:4 email is the gold voice exemplar and must remain unchanged.
+  - Scripture text, translation labels, root/language lenses, and correlative threads are immutable during voice polish.
+  - Do not claim independent or cross-family review without a genuinely separate reviewer.
+  - Every generated cover candidate must be real raster art with no baked title text.
+
+Operating procedure:
+  Read ops/mission/state.json FIRST — it is the source of truth, not this prompt.
+  Verify reality matches state: git log --oneline -5, and re-run the active phase's gate commands.
+  Follow the loop: pick next unblocked task -&gt; branch codex/&lt;phase&gt;-&lt;slug&gt; -&gt; implement -&gt; run gates -&gt; PR -&gt; merge per policy 'review' -&gt; update state.json -&gt; node ops/mission/render-sotu.mjs -&gt; commit state+journal+html.
+  Never hand-edit state-of-the-union.html. Never merge without fresh gate evidence in ops/mission/evidence/.
+  End of session: update resume.nextActions for a stranger, append journal entry, render, commit.</pre></div>
+      </details>
+    </article><article class="phase active">
+      <header>
+        <span class="chip amber">in progress</span>
+        <h3>P8 &middot; Reader and Publishing Home Polish</h3>
+        <span class="muted small">est. sessions: 1</span>
+      </header>
+      <p class="muted">Improve the approved art presentation, mobile navigation, print typography, and offline delivery without changing the devotional text or selected artwork.</p>
+      <div class="bar"><div class="fill" style="width:67%"></div></div>
+      <p class="small muted">2/3 tasks &middot; 67%</p>
+      <ul class="tasks"><li class="task-done"><span class="mark">&#9679;</span> <b>P8-T1</b> Improve journal reading, typography, and gallery<br><span class="muted small">Exact passages and all31 source images retained.</span></li><li class="task-done"><span class="mark">&#9679;</span> <b>P8-T2</b> Polish publishing home and mobile navigation<br><span class="muted small">Pricing and Stripe URL unchanged.</span></li><li class="task-in_progress"><span class="mark">&#9689;</span> <b>P8-T3</b> Independent review, packaging, deployment, and live verification<br><span class="muted small">Author signoff and retail print release are outside this polish completion.</span></li></ul>
+      <div class="table-wrap"><table><thead><tr><th>Gate</th><th>Check</th><th>Command</th><th>Evidence</th><th>Last run</th></tr></thead><tbody><tr>
+      <td><span class="chip green">passed</span></td>
+      <td><b>31-day reader, four viewports, and print composition pass</b></td>
+      <td><code>node scripts/lady_d_finalization/verify_reader_polish.cjs</code></td>
+      <td>quality/polish-2026-09-07/reader-gauntlet.json</td>
+      <td>2026-09-07</td></tr><tr>
+      <td><span class="chip green">passed</span></td>
+      <td><b>Full PDF text and image embedding validate</b></td>
+      <td><code>python3 scripts/lady_d_finalization/audit_31_day_visual_journal_pdf.py</code></td>
+      <td>quality/31-day-visual-journal-v2/pdf-audit.json</td>
+      <td>2026-09-07</td></tr><tr>
+      <td><span class="chip ">pending</span></td>
+      <td><b>Offline package and live release verified</b></td>
+      <td><code>node scripts/lady_d_finalization/verify_package_offline.cjs</code></td>
+      <td>&mdash;</td>
+      <td>&mdash;</td></tr></tbody></table></div>
+      <details class="resume"><summary>Resume prompt for P8 (copy into a fresh session)</summary>
+        <div class="prompt-box"><button class="copy" type="button">Copy</button><pre>You are resuming the &quot;Lady D Trilogy Finalization&quot; mission at phase P8: Reader and Publishing Home Polish.
+
+Mission: Let every page sound lived, every cover feel luminous, and every companion deepen the journey.
+North star: Three Scripture-faithful devotionals in Susan 'Lady D' Damon's lived preaching voice, paired with useful journals and a luminous, coherent cover family ready for author review and KDP production.
+Repo: Navigata1/lady-d-author-review-site (local: /Users/IDC2.5/Documents/LADY D/lady-d-author-review-site), default branch: main.
+Governing plan: /Users/IDC2.5/Documents/LADY D/_synthesis-2026-07-19/Lady-D-Cover-Codex-Handoff.md
+
+Phase goal: Improve the approved art presentation, mobile navigation, print typography, and offline delivery without changing the devotional text or selected artwork.
+Remaining tasks:
+  - [in_progress] P8-T3: Independent review, packaging, deployment, and live verification (Author signoff and retail print release are outside this polish completion.)
+Gates not yet passed:
+  - [pending] Offline package and live release verified  -&gt;  node scripts/lady_d_finalization/verify_package_offline.cjs
 Next actions (from last session):
-  - Approve or revise the 31 scene prompts in the scene gauntlet before image generation.
-  - Generate the 31 text-free scenes, reject failures, and require at least 88/100 for every accepted render.
-  - Replace movement key art with qualified scenes, rebuild the 95-page PDF and motion edition, and re-run the desktop, mobile, and PDF gauntlets.
+  - Finish independent review of reader and hub polish, build and verify portable ZIP, publish the verified public tree, then verify live routes and checksums.
   - Ask Susan to review representative days from every month in all three devotionals and journals.
   - Record Susan's ranked cover selection, then assemble exact KDP wraps after page count and paper choice are locked.
   - Complete theological and permissions review, KDP Previewer, and a photographed physical proof.
   - Use the audiobook manifests only with human narration or a provider workflow explicitly authorized for the intended distributor.
 Known blockers:
-  - Thirty-one final visual scenes have not yet been generated or qualified; the 31-day editions are production proofs, not visual finals.
   - Final author voice and theological approval has not yet been recorded.
   - Final cover typography, spine width, back matter, barcode, and KDP physical proof depend on author selection and production metadata.
 Mission conventions:
@@ -517,21 +548,6 @@ document.querySelectorAll("button.copy").forEach((b) => {
   });
 });
 </script>
-<script>
-(() => {
-  const root=document.documentElement,body=document.body,canvas=document.querySelector("#mission-story canvas"),ctx=canvas.getContext("2d"),label=document.getElementById("mission-story-label"),button=document.getElementById("mission-motion");
-  const sections=[document.querySelector(".hero"),...document.querySelectorAll("main>section,article.phase")].filter(Boolean);
-  const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
-  const state={target:0,current:0,velocity:0,max:1,width:1,height:1,anchors:[],frame:0,last:performance.now(),active:-1,paused:matchMedia("(prefers-reduced-motion: reduce)").matches};
-  const measure=()=>{const rect=canvas.getBoundingClientRect(),dpr=Math.min(devicePixelRatio||1,1.5);state.width=rect.width;state.height=rect.height;canvas.width=Math.max(1,Math.floor(rect.width*dpr));canvas.height=Math.max(1,Math.floor(rect.height*dpr));ctx.setTransform(dpr,0,0,dpr,0,0);state.max=Math.max(1,document.documentElement.scrollHeight-innerHeight);state.anchors=sections.map((el,index)=>({top:el.getBoundingClientRect().top+scrollY,label:el.querySelector("h1,h2,h3")?.textContent||("Chapter "+(index+1))}));state.target=clamp(scrollY,0,state.max)};
-  const draw=(index,alpha,time,progress)=>{if(alpha<.002)return;const w=state.width,h=state.height,c=["#58d7b3","#77b7ff","#ffd166","#ff8f8f"][index%4],cx=w*(.74-progress*.12),cy=h*(.3+Math.sin(progress*Math.PI)*.2);ctx.save();ctx.globalAlpha=alpha*.22;ctx.strokeStyle=c;ctx.lineWidth=1;ctx.lineCap="round";if(index%3===0){for(let r=1;r<=7;r++){ctx.beginPath();ctx.arc(cx,cy,r*Math.min(w,h)*.045+Math.sin(time*.00008+r)*4,0,Math.PI*2);ctx.stroke()}}else if(index%3===1){for(let lane=0;lane<7;lane++){const y=h*(.14+lane*.115);ctx.beginPath();ctx.moveTo(w*.04,y);ctx.bezierCurveTo(w*.34,y,w*.54,cy+(lane-3)*28,w*.96,cy+(lane-3)*58);ctx.stroke()}}else{for(let row=0;row<11;row++){const y=h*.1+row*h*.07;ctx.beginPath();ctx.moveTo(w*.08,y);ctx.lineTo(w*.92,y+Math.sin(row+time*.00008)*7);ctx.stroke()}}ctx.restore()};
-  const render=(time=performance.now())=>{state.frame=0;const dt=clamp((time-state.last)/16.667,.25,2);state.last=time;if(state.paused){state.current=state.target;state.velocity=0}else{state.velocity+=(state.target-state.current)*.066*dt;state.velocity*=Math.pow(.8,dt);state.current=clamp(state.current+state.velocity*dt,0,state.max)}const progress=clamp(state.current/state.max,0,1),witness=state.current+innerHeight*.48;let index=0;for(let i=1;i<state.anchors.length;i++)if(state.anchors[i].top<=witness)index=i;const next=state.anchors[index+1],blend=next?clamp((witness-(next.top-260))/520,0,1):0;ctx.clearRect(0,0,state.width,state.height);draw(index,1-blend,time,progress);if(next)draw(index+1,blend,time,progress);const visible=blend>.56&&next?index+1:index;if(visible!==state.active){state.active=visible;label.textContent=String(visible+1).padStart(2,"0")+" · "+state.anchors[visible].label}root.style.setProperty("--mission-scroll",progress.toFixed(4));root.style.setProperty("--mission-drift",clamp(state.velocity*.018,-12,12).toFixed(2)+"px");if(!state.paused&&!document.hidden)state.frame=requestAnimationFrame(render)};
-  const schedule=()=>{if(!state.frame)state.frame=requestAnimationFrame(render)};
-  addEventListener("scroll",()=>{state.target=clamp(scrollY,0,state.max);schedule()},{passive:true});addEventListener("resize",()=>{measure();schedule()},{passive:true});
-  button.addEventListener("click",()=>{state.paused=!state.paused;body.classList.toggle("motion-paused",state.paused);button.setAttribute("aria-pressed",String(state.paused));button.textContent=state.paused?"Resume motion":"Pause motion";cancelAnimationFrame(state.frame);state.frame=0;schedule()});
-  document.addEventListener("visibilitychange",()=>{cancelAnimationFrame(state.frame);state.frame=0;if(!document.hidden){state.last=performance.now();schedule()}});
-  measure();state.current=state.target;body.classList.toggle("motion-paused",state.paused);button.textContent=state.paused?"Resume motion":"Pause motion";schedule();
-})();
-</script>
+
 </body>
 </html>

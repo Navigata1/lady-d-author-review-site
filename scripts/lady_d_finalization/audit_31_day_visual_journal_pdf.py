@@ -55,10 +55,15 @@ def main() -> None:
         expected = source["days"][index - 1] if index <= len(source["days"]) else {}
         if abs(width - 432) > 0.1 or abs(height - 648) > 0.1:
             errors.append(f"page {index} media box is {width}x{height} pt, expected 432x648 pt")
-        for required in (f"DAY {index:02d}", expected.get("title", ""), expected.get("reference", ""), "KJV"):
+        required_text = [f"DAY {index:02d}", "KJV"] + [expected.get(key, "") for key in ("title", "reference", "scriptureExcerpt", "encouragement", "prayer", "affirmation")]
+        for required in required_text:
             if required and normalized_text(required) not in normalized:
                 errors.append(f"page {index} is missing extracted text {required!r}")
-        records.append({"page": index, "widthPoints": width, "heightPoints": height, "textCharacters": len(text)})
+        images = page.get("/Resources", {}).get("/XObject", {}).get_object()
+        artwork = [item.get_object() for item in images.values() if item.get_object().get("/Subtype") == "/Image" and item.get_object().get("/Width", 0) >= 1800 and item.get_object().get("/Height", 0) >= 2700]
+        if not artwork:
+            errors.append(f"page {index} is missing its full-resolution embedded scene")
+        records.append({"page": index, "widthPoints": width, "heightPoints": height, "textCharacters": len(text), "fullPageArtworkEmbedded": bool(artwork)})
     result = {
         "schema": "idc.lady_d_31_day_visual_journal_pdf_audit/v2",
         "generatedAt": datetime.now(timezone.utc).isoformat(),

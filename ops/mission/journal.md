@@ -21,3 +21,12 @@
 - One complete trail now disappears at the midpoint while the remaining trail continues toward the distant carrying figure.
 - The new marks are shallow and dusty, with restrained worn-leather sandal character rather than modern tread or deep stamped outlines.
 - Re-ran cover luminance/dark-mass qualification and desktop/mobile browser gates; all ten candidates and the revised review page pass.
+
+## 2026-09-07 - reader and publishing-home polish
+- Tier 2 orchestration: a bounded hub implementation worker and a separate read-only reviewer accompanied the parent-owned journal, PDF, and package work. No cross-family or human approval claim.
+- Preserved all trilogy prose, the 31-day messages, and existing selected artwork. Improved the hub's mobile navigation and book-title presentation; financial figures and exact Stripe destination remain unchanged.
+- Replaced the production-console presentation with a reader-facing gallery. Added per-day navigation, local reading-place memory, illustrated and larger-text modes, keyboard access, and reduced-motion support.
+- Fixed mobile CSS leaking into 6x9 print typography. PDF export now waits for all artwork decodes; every page must contain its complete Scripture, message, prayer, affirmation, and embedded scene.
+- Reopened and rendered all 31 journal PDF pages; preserved six existing paired books and re-ran their PDF and voice invariants.
+- Independent review reproduced a skip-link progress reset and a text-mode viewport jump. Both were fixed and covered by regression checks. One pre-existing Volume I Day 217 disclosure/safety ambiguity is retained for author review in quality/polish-2026-09-07/independent-review.md; manuscript text was not silently changed.
+- Portable package now includes offline-safe PDF links, reader code, gallery, artwork, and font/icon licenses. Publication and final live-byte verification are recorded separately when complete.
