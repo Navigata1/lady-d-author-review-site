@@ -1,0 +1,25 @@
+{
+  "base": "https://lady-d-author-review-site.vercel.app",
+  "checkedAt": "2026-09-07T10:51:56.424Z",
+  "viewports": [
+    {
+      "width": 390,
+      "home": true,
+      "reader": true,
+      "gallery": true,
+      "skipLink": true,
+      "textFocus": true,
+      "errors": 0
+    },
+    {
+      "width": 1440,
+      "home": true,
+      "reader": true,
+      "gallery": true,
+      "skipLink": true,
+      "textFocus": true,
+      "errors": 0
+    }
+  ],
+  "status": "PASS"
+}

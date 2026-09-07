@@ -1,0 +1,135 @@
+{
+  "base": "https://lady-d-author-review-site.vercel.app",
+  "checkedAt": "2026-09-07T10:49:52.182Z",
+  "routes": [
+    {
+      "route": "/",
+      "status": 200
+    },
+    {
+      "route": "/susan-damon-hub.html",
+      "status": 200
+    },
+    {
+      "route": "/lady-d-31-day-visual-journal.html",
+      "status": 200
+    },
+    {
+      "route": "/lady-d-31-day-visual-journal-scene-console.html",
+      "status": 200
+    },
+    {
+      "route": "/assets/lady-d-hub-polish.css",
+      "status": 200
+    },
+    {
+      "route": "/assets/lady-d-reader/reader.css",
+      "status": 200
+    },
+    {
+      "route": "/assets/lady-d-reader/reader.js",
+      "status": 200
+    },
+    {
+      "route": "/assets/lady-d-reader/chevron-right.svg",
+      "status": 200
+    },
+    {
+      "route": "/assets/idc-palm-logo.png",
+      "status": 200
+    },
+    {
+      "route": "/lady-d-finalization-review.html",
+      "status": 200
+    },
+    {
+      "route": "/covers/lady-d-finalization/v1-a-her-golden-valley.png",
+      "status": 200
+    },
+    {
+      "route": "/downloads/lady-d-finalization/Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf",
+      "status": 200
+    },
+    {
+      "route": "/downloads/lady-d-finalization/Lady-D-Volume-1-Surrendering-to-Gods-Love-Companion-Journal-Deep-Dive-6x9.pdf",
+      "status": 200
+    },
+    {
+      "route": "/downloads/lady-d-finalization/volume-1-surrendering-to-gods-love-polished-devotional.html",
+      "status": 200
+    },
+    {
+      "route": "/covers/lady-d-finalization/v2-d-carried-on-the-way.png",
+      "status": 200
+    },
+    {
+      "route": "/downloads/lady-d-finalization/Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf",
+      "status": 200
+    },
+    {
+      "route": "/downloads/lady-d-finalization/Lady-D-Volume-2-Walking-with-Jesus-Companion-Journal-Deep-Dive-6x9.pdf",
+      "status": 200
+    },
+    {
+      "route": "/downloads/lady-d-finalization/volume-2-walking-with-jesus-polished-devotional.html",
+      "status": 200
+    },
+    {
+      "route": "/covers/lady-d-finalization/v3-c-after-rain.png",
+      "status": 200
+    },
+    {
+      "route": "/downloads/lady-d-finalization/Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf",
+      "status": 200
+    },
+    {
+      "route": "/downloads/lady-d-finalization/Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Companion-Journal-Deep-Dive-6x9.pdf",
+      "status": 200
+    },
+    {
+      "route": "/downloads/lady-d-finalization/volume-3-filled-with-the-holy-spirit-polished-devotional.html",
+      "status": 200
+    },
+    {
+      "route": "/lady-d-cover-decision-deck.html",
+      "status": 200
+    },
+    {
+      "route": "/assets/lady-d-31-visual-journal-v2/scenes/day-31.jpg",
+      "status": 200
+    },
+    {
+      "route": "/downloads/lady-d-finalization/Lady-D-Thirty-One-Mornings-of-Light-Visual-Journal-6x9.pdf",
+      "status": 200
+    },
+    {
+      "route": "/downloads/lady-d-finalization/Lady-D-Thirty-One-Mornings-of-Light-Complete-Package-2026-09-07.zip",
+      "status": 200
+    },
+    {
+      "route": "/lady-d-31-day-motion.html",
+      "status": 200
+    },
+    {
+      "route": "/susan-damon-publishing-proposal.pdf",
+      "status": 200
+    },
+    {
+      "route": "/downloads/lady-d-finalization/Lady-D-Trilogy-Web-Review-Package-2026-08-31.zip",
+      "status": 200
+    }
+  ],
+  "downloads": [
+    {
+      "filename": "Lady-D-Thirty-One-Mornings-of-Light-Visual-Journal-6x9.pdf",
+      "bytes": 49135490,
+      "sha256": "4c31d1db6dc7fab0142b2f0bc5a3f82fee3371434c6b783b58469272382b5700"
+    },
+    {
+      "filename": "Lady-D-Thirty-One-Mornings-of-Light-Complete-Package-2026-09-07.zip",
+      "bytes": 98185676,
+      "sha256": "adc372da3cc2d83baf22221c290ea1bf1652fc826bcbac3bc167b64dd8ccd775"
+    }
+  ],
+  "status": "PASS"
+}

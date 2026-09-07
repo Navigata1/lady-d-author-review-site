@@ -407,7 +407,7 @@
       "id": "P8",
       "title": "Reader and Publishing Home Polish",
       "goal": "Improve the approved art presentation, mobile navigation, print typography, and offline delivery without changing the devotional text or selected artwork.",
-      "status": "in_progress",
+      "status": "done",
       "sessionsEstimate": "1",
       "gates": [
         {
@@ -429,10 +429,11 @@
         {
           "id": "P8-G3",
           "title": "Offline package and live release verified",
-          "command": "node scripts/lady_d_finalization/verify_package_offline.cjs",
-          "status": "pending",
-          "evidence": null,
-          "lastRun": null
+          "command": "node scripts/lady_d_finalization/verify_polish_release.cjs",
+          "status": "passed",
+          "evidence": "quality/polish-2026-09-07/live-release.json",
+          "lastRun": "2026-09-07",
+          "notes": "29 public routes passed; full PDF and ZIP downloads match local SHA-256. Offline portability and live 390/1440px interactions passed separately in offline-package.json and live-browser.json."
         }
       ],
       "tasks": [
@@ -442,7 +443,7 @@
           "status": "done",
           "dependsOn": [],
           "pr": null,
-          "notes": "Exact passages and all31 source images retained."
+          "notes": "Exact passages and all 31 source images retained."
         },
         {
           "id": "P8-T2",
@@ -455,13 +456,13 @@
         {
           "id": "P8-T3",
           "title": "Independent review, packaging, deployment, and live verification",
-          "status": "in_progress",
+          "status": "done",
           "dependsOn": [
             "P8-T1",
             "P8-T2"
           ],
           "pr": null,
-          "notes": "Author signoff and retail print release are outside this polish completion."
+          "notes": "Implementation c18d36999a36a231c259e6f5acb7ec63a60b26d8 published as dpl_8h5HfZunvRAtidcvkfR37RvpVzB2 and verified on the main public alias. Author signoff and retail print release remain separate."
         }
       ]
     }
@@ -541,14 +542,20 @@
     {
       "title": "31-day movement art can be mistaken for final scene art",
       "severity": "high",
-      "note": "The new concise visual journal contains31 distinct scene renders. The older expanded motion experience remains clearly labeled as a demonstration."
+      "note": "The new concise visual journal contains 31 distinct scene renders. The older expanded motion experience remains clearly labeled as a demonstration."
+    },
+    {
+      "title": "Volume I Day 217 disclosure wording needs author review",
+      "severity": "medium",
+      "note": "A separate reviewer flagged a pre-existing honesty/disclosure passage that could be misapplied in an unsafe relationship. Clarify safe, confidential support before retail release. Approved manuscript text was not silently changed. Evidence: quality/polish-2026-09-07/independent-review.md."
     }
   ],
   "prLog": [],
   "resume": {
-    "activePhase": "P8",
+    "activePhase": "P7",
     "nextActions": [
-      "Finish independent review of reader and hub polish, build and verify portable ZIP, publish the verified public tree, then verify live routes and checksums.",
+      "Record Susan's author-review decisions on the concise 31-day visual journal and its refreshed print proof.",
+      "Resolve the Volume I Day 217 disclosure/safety wording with Susan before retail publication.",
       "Ask Susan to review representative days from every month in all three devotionals and journals.",
       "Record Susan's ranked cover selection, then assemble exact KDP wraps after page count and paper choice are locked.",
       "Complete theological and permissions review, KDP Previewer, and a photographed physical proof.",

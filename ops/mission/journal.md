@@ -30,3 +30,12 @@
 - Reopened and rendered all 31 journal PDF pages; preserved six existing paired books and re-ran their PDF and voice invariants.
 - Independent review reproduced a skip-link progress reset and a text-mode viewport jump. Both were fixed and covered by regression checks. One pre-existing Volume I Day 217 disclosure/safety ambiguity is retained for author review in quality/polish-2026-09-07/independent-review.md; manuscript text was not silently changed.
 - Portable package now includes offline-safe PDF links, reader code, gallery, artwork, and font/icon licenses. Publication and final live-byte verification are recorded separately when complete.
+
+## 2026-09-07 - polish published and independently checked
+- Implementation commit `c18d36999a36a231c259e6f5acb7ec63a60b26d8` pushed to `codex/lady-d-august-finalization` and verified against the remote head. Existing unrelated local files were excluded.
+- Vercel deployment `dpl_8h5HfZunvRAtidcvkfR37RvpVzB2` reached Ready, then was promoted to the main public alias. The unique staged URL required Vercel sign-in; it was not counted as a public pass, and no protection settings were weakened.
+- Public verification at `https://lady-d-author-review-site.vercel.app` passed 29 routes, exact reader/hub/source-byte comparisons, and full downloads of the refreshed PDF and ZIP. The verifier now rejects redirects to an external sign-in page.
+- PDF: 49,135,490 bytes; SHA-256 `4c31d1db6dc7fab0142b2f0bc5a3f82fee3371434c6b783b58469272382b5700`. ZIP: 98,185,676 bytes; SHA-256 `adc372da3cc2d83baf22221c290ea1bf1652fc826bcbac3bc167b64dd8ccd775`.
+- Live browser checks passed at 390px and 1440px, including day navigation, skip-link preservation, large-text focus, the 31-scene gallery, correct Stripe destination, and no runtime errors or horizontal overflow. Live screenshots wait for artwork decode.
+- Separate reviewer rechecked and closed both reader regressions. The pre-existing Volume I Day 217 editorial flag remains open for author review; no approved prose was changed.
+- P8 is complete. The overall mission remains in progress for author decisions, editorial signoff, exact retail wraps, KDP Previewer, and physical proofs. This release is a polished author-review experience, not retail-print certification.
