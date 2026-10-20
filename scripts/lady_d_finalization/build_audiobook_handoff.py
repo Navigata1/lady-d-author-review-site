@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import json
 import re
+import shutil
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
@@ -297,6 +298,7 @@ edition after pronunciation review.
 
     (OUT / "Lady-D-Audiobook-Production-Blueprint.md").write_text(blueprint)
     (SOURCE_OUT / "Lady-D-Audiobook-Production-Blueprint.md").write_text(blueprint)
+    shutil.copytree(OUT, ROOT / 'downloads/lady-d-finalization/audiobook', dirs_exist_ok=True)
     print(json.dumps({"status": "passed", "volumes": summaries}, indent=2))
 
 

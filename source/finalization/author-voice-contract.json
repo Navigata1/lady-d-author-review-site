@@ -1,0 +1,17 @@
+{
+  "schema": "lady-d.author-voice-contract/v1",
+  "updated": "2026-10-20",
+  "authority": "Direct author feedback supplied by Jon Isaac",
+  "disallowedAuthorWords": ["beloved"],
+  "verbatimScriptureExempt": true,
+  "exemplar": "source/finalization/evidence/lady-d-august-03-voice-exemplar.md",
+  "priorities": [
+    "Teach the actual anchor passage, with its context intact.",
+    "Speak warmly and confidently about recognizable struggles.",
+    "Vary sentence and paragraph entrances without replacing one template with another.",
+    "End with a clear truth or attainable response that follows from the passage.",
+    "Use personal, speakable prayers and specific journal questions.",
+    "Do not invent the author's life history or guarantee a reader's immediate outcome."
+  ],
+  "revisionEvidence": "source/finalization/editorial-2026-10-20/EDITORIAL-BRIEF.md"
+}

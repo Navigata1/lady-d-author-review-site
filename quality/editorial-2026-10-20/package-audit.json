@@ -1,0 +1,15 @@
+{
+  "master": {
+    "path": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/output/Lady-D-Trilogy-Author-Edition-Master-2026-10-20.zip",
+    "bytes": 221428429,
+    "sha256": "1b5d843d0162c4e94cf88454a1ba190adbd694e8eccb1c602a33eafc891d3c14",
+    "entries": 112
+  },
+  "web": {
+    "path": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/output/Lady-D-Trilogy-Web-Review-Package-2026-10-20.zip",
+    "bytes": 80514798,
+    "sha256": "31a373b9f23f37069931329c3ce2e10bc2da65cd0adb1a53c8f74cc475228ad3",
+    "entries": 86
+  },
+  "status": "PASS"
+}

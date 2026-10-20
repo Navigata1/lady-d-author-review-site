@@ -1,6 +1,13 @@
 {
   "routes": [
     {
+      "src": "^/downloads/lady-d-finalization/Lady-D-Trilogy-Web-Review-Package-2026-08-(?:30|31)\\.zip$",
+      "headers": {
+        "Location": "/downloads/lady-d-finalization/Lady-D-Trilogy-Web-Review-Package-2026-10-20.zip"
+      },
+      "status": 307
+    },
+    {
       "src": "^/index\\.html$",
       "headers": {
         "Location": "/"

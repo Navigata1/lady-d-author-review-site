@@ -85,7 +85,8 @@ def movement_for_day(day: int) -> int:
 
 
 def parse_source_catalog(volume: int) -> dict[int, dict]:
-    document = (TEMPLATES / f"vol{volume}-devotional-source.html").read_text(encoding="utf-8")
+    slugs = {1: "surrendering-to-gods-love", 2: "walking-with-jesus", 3: "filled-with-the-holy-spirit"}
+    document = (ROOT / f"public/downloads/lady-d-finalization/volume-{volume}-{slugs[volume]}-polished-devotional.html").read_text(encoding="utf-8")
     polished = json.loads((POLISHED / f"vol{volume}-polished-366-days.json").read_text(encoding="utf-8"))
     voice = {record["day"]: record for record in polished}
     catalog: dict[int, dict] = {}

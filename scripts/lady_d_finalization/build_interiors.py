@@ -6,6 +6,7 @@ from __future__ import annotations
 import html
 import json
 import re
+import shutil
 from pathlib import Path
 
 
@@ -16,6 +17,12 @@ ENRICHMENT_DIR = ROOT / "source/finalization/enrichment"
 OUTPUT_DIR = ROOT / "public/downloads/lady-d-finalization"
 MIRROR_DIR = ROOT / "downloads/lady-d-finalization"
 FRONT_MATTER_PATH = ROOT / "source/finalization/front-matter/lady-d-shared-front-matter.json"
+REVISION_PATH = ROOT / "source/finalization/editorial-2026-10-20/enrichment-revisions.json"
+MONTH_ART = {
+    1: [1, 3, 5, 6, 7, 8, 20, 25, 26, 27, 28, 30],
+    2: [2, 9, 10, 11, 12, 13, 14, 15, 16, 18, 29, 31],
+    3: [4, 17, 19, 21, 22, 23, 24, 26, 27, 28, 30, 31],
+}
 DEVOTIONAL_PAGE_SHIFT = 2
 BLANK_FRONT_MATTER_LEAF = (
     '<section class="leaf "><div class="rh"><span></span><i></i><span></span></div>'
@@ -125,6 +132,60 @@ def section_pattern(identifier: str) -> re.Pattern[str]:
     )
 
 
+def revised_enrichment(volume: int) -> list[dict]:
+    records = json.loads((ENRICHMENT_DIR / f"vol{volume}-enrichment-366-days.json").read_text())
+    revisions = json.loads(REVISION_PATH.read_text())[str(volume)]
+    for record in records:
+        record.update(revisions.get(str(record["day"]), {}))
+    return records
+
+
+def presentation(document: str, volume: int, records: list[dict], journal: bool) -> str:
+    # Shared screen styling stays outside print geometry; dates retain stable page IDs.
+    document = re.sub(r'<link\b[^>]*(?:fonts\.googleapis\.com|fonts\.gstatic\.com)[^>]*>', '', document)
+    document = document.replace('</head>', '<meta name="viewport" content="width=device-width,initial-scale=1">'
+        '<link rel="stylesheet" href="../../assets/lady-d-interiors/interiors.css">'
+        '<script defer src="../../assets/lady-d-interiors/interiors.js"></script></head>', 1)
+    document = document.replace('<body>', f'<body data-volume="{volume}">', 1)
+    by_day = {record["day"]: record for record in records}
+    options = []
+    prefix = 'j' if journal else 'dA'
+    for month, days, _ in MONTHS:
+        group = []
+        for date, day in enumerate(days, 1):
+            index = 60 if day == 0 else day if day < 60 else day + 1
+            group.append(f'<option value="{prefix}{index}">{month} {date} - {html.escape(by_day[day]["title"], quote=True)}</option>')
+        options.append(f'<optgroup label="{month}">{"".join(group)}</optgroup>')
+    pdf_name = {1:'Surrendering-to-Gods-Love', 2:'Walking-with-Jesus', 3:'Filled-with-the-Holy-Spirit'}[volume]
+    pdf_name = f'Lady-D-Volume-{volume}-{pdf_name}-' + ('Companion-Journal-Deep-Dive-6x9.pdf' if journal else 'Polished-6x9.pdf')
+    titles = {1:"Surrendering to God's Love", 2:'Walking with Jesus', 3:'Filled with the Holy Spirit'}
+    toolbar = ('<a class="interior-skip" href="#'+prefix+'1">Skip to the first reading</a>'
+        '<nav class="interior-toolbar" aria-label="Book navigation">'
+        f'<span class="book-name">{esc(titles[volume])}</span>'
+        '<a href="../../susan-damon-hub.html" aria-label="Publishing home" title="Publishing home"><img src="../../assets/lady-d-reader/house.svg" alt=""><span>Library</span></a>'
+        f'<label class="select-label" for="reading-day">Choose a reading</label><select id="reading-day">{"".join(options)}</select>'
+        f'<a href="{pdf_name}" aria-label="Download PDF" title="Download PDF"><img src="../../assets/lady-d-reader/download.svg" alt=""><span>PDF</span></a></nav>')
+    document = document.replace(f'<body data-volume="{volume}">', f'<body data-volume="{volume}">{toolbar}', 1)
+    if journal:
+        month_index = 0
+        def month_image(match: re.Match[str]) -> str:
+            nonlocal month_index
+            art_day = MONTH_ART[volume][month_index]
+            month_index += 1
+            # Keep faces in view when portrait scenes become landscape openings.
+            crop = {6:'25%',17:'25%',26:'25%',31:'25%'}.get(art_day, '50%')
+            return match.group(0) + f'<img class="monthly-art" style="object-position:50% {crop}" src="../../assets/lady-d-31-visual-journal-v2/scenes/day-{art_day:02d}.jpg" alt="" loading="lazy" width="1800" height="2700">'
+        document = re.sub(r'<div class="flow mdiv">', month_image, document)
+        if month_index != 12:
+            raise ValueError(f'volume {volume} journal has {month_index} month dividers, expected 12')
+    else:
+        for _, days, _ in MONTHS:
+            day = days[0]
+            index = day if day < 60 else day + 1
+            document = re.sub(rf'(<section class="leaf )([^"]*)(" id="dB{index}")', r'\1\2 month-start\3', document)
+    return document
+
+
 def load_front_matter() -> dict:
     payload = json.loads(FRONT_MATTER_PATH.read_text(encoding="utf-8"))
     if payload.get("schema") != "idc.lady_d_shared_front_matter/v1":
@@ -162,8 +223,13 @@ def shared_front_matter_pages(payload: dict) -> str:
 
 
 def shift_devotional_page_references(document: str, shift: int) -> str:
-    return re.sub(
+    document = re.sub(
         r'(<td class="pg">)(\d+)(</td>)',
+        lambda match: f'{match.group(1)}{int(match.group(2)) + shift}{match.group(3)}',
+        document,
+    )
+    return re.sub(
+        r'(<div class="folio"><b>.*?</b>\s*&nbsp;\s*·\s*&nbsp;\s*)(\d+)(</div>)',
         lambda match: f'{match.group(1)}{int(match.group(2)) + shift}{match.group(3)}',
         document,
     )
@@ -190,6 +256,7 @@ def build_devotional(volume: int, records: list[dict]) -> Path:
     source_path = TEMPLATE_DIR / f"vol{volume}-devotional-source.html"
     document = source_path.read_text(encoding="utf-8")
     by_day = {record["day"]: record for record in records}
+    enrichment_by_day = {record["day"]: record for record in revised_enrichment(volume)}
 
     if document.count(BLANK_FRONT_MATTER_LEAF) != 1:
         raise ValueError(f"volume {volume} devotional must contain exactly one front-matter reserve leaf")
@@ -208,6 +275,12 @@ def build_devotional(volume: int, records: list[dict]) -> Path:
         a_section = a_match.group(0)
         new_heading = f'<h1 class="{title_class(record["title"])}">{esc(record["title"])}</h1>'
         a_section = re.sub(r"<h1 class=\"[^\"]*\">.*?</h1>", new_heading, a_section, count=1, flags=re.DOTALL)
+        language = enrichment_by_day[day]
+        lens = (f'<div class="lens"><span class="lk">Root<br>Word</span><p><span class="g">{esc(language["lens_translit"])}</span>'
+            f' · {esc(language["lens_script"])} ({esc(language["lens_lang"])}) - {esc(language["lens_gloss"])}</p></div>')
+        a_section = re.sub(r'<div class="lens">.*?</div>', lambda _: lens, a_section, count=1, flags=re.DOTALL)
+        note = f'<p class="note"><b>{esc(language["note_title"])}</b> {esc(language["note_body"])}</p>'
+        a_section = re.sub(r'<p class="note">.*?</p>', lambda _: note, a_section, count=1, flags=re.DOTALL)
         document = document[: a_match.start()] + a_section + document[a_match.end() :]
 
         b_pattern = section_pattern(f"dB{index}")
@@ -225,12 +298,12 @@ def build_devotional(volume: int, records: list[dict]) -> Path:
             f'{running_head}<div class="flow center"><div class="body">'
             f'{"".join(paragraphs)}</div>'
             f'<p class="carry">{esc(record["closing"])}</p>'
-            f'<p class="prayer"><b>A short prayer</b>{esc(record["prayer"])}</p>'
+            f'<p class="prayer"><b>Prayer</b>{esc(record["prayer"])}</p>'
             f'<p class="contd">Carry it with you -&gt;</p></div>{folio}</section>'
         )
         document = document[: b_match.start()] + rebuilt + document[b_match.end() :]
 
-    document = clean_document_dashes(document)
+    document = presentation(clean_document_dashes(document), volume, records, journal=False)
     output_path = OUTPUT_DIR / f"volume-{volume}-{VOLUMES[volume]['slug']}-polished-devotional.html"
     output_path.write_text(document, encoding="utf-8")
     MIRROR_DIR.mkdir(parents=True, exist_ok=True)
@@ -313,7 +386,7 @@ def deep_dive_page(
         f'<h2>{esc(month)} in Conversation</h2>'
         f'<p>Pause before turning the page. Let three moments from {esc(month)} speak together, then name what God has made clearer in you.</p></div>'
         f'{"".join(rows)}<div class="review-grid">{questions_html}</div>'
-        '<div class="deep-prayer">Father, gather what You have taught me this month. Show me the thread I nearly missed, strengthen the step I have begun, and carry Your word with me into what comes next. In Jesus\' name, Amen.</div>'
+        f'<div class="deep-prayer">{esc(json.loads((REVISION_PATH.parent / "monthly-prayers.json").read_text())[str(volume)][[item[0] for item in MONTHS].index(month)])}</div>'
         f'</div><div class="folio">Monthly Deep Dive · {esc(month)}</div></section>'
     )
 
@@ -366,7 +439,7 @@ def build_journal(volume: int, records: list[dict], enrichment_records: list[dic
             raise ValueError(f"could not append {month} deep dive after j{end_index}")
         document = document[: match.end()] + page + document[match.end() :]
 
-    document = clean_document_dashes(document)
+    document = presentation(clean_document_dashes(document), volume, records, journal=True)
     output_path = OUTPUT_DIR / f"volume-{volume}-{VOLUMES[volume]['slug']}-polished-companion-journal.html"
     output_path.write_text(document, encoding="utf-8")
     MIRROR_DIR.mkdir(parents=True, exist_ok=True)
@@ -375,25 +448,31 @@ def build_journal(volume: int, records: list[dict], enrichment_records: list[dic
 
 
 def clean_document_dashes(document: str) -> str:
-    return (
-        document.replace("\u2014", " - ")
-        .replace("\u2013", " - ")
-        .replace("\u2011", "-")
-        .replace("&mdash;", "-")
-        .replace("&ndash;", "-")
-    )
+    # Scripture is an immutable source quotation, including its punctuation.
+    parts = re.split(r'(<p class="txt[^\"]*">.*?</p>)', document, flags=re.DOTALL)
+    for index in range(0, len(parts), 2):
+        parts[index] = (parts[index].replace("\u2014", " - ")
+            .replace("\u2013", " - ").replace("\u2011", "-")
+            .replace("&mdash;", "-").replace("&ndash;", "-"))
+    return ''.join(parts)
 
 
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    shutil.copytree(ROOT / 'assets/lady-d-interiors', ROOT / 'public/assets/lady-d-interiors', dirs_exist_ok=True)
+    shutil.copytree(ROOT / 'assets/fonts', ROOT / 'public/assets/fonts', dirs_exist_ok=True)
     outputs: list[str] = []
     for volume in range(1, 4):
         records = json.loads(
             (POLISHED_DIR / f"vol{volume}-polished-366-days.json").read_text(encoding="utf-8")
         )
-        enrichment = json.loads(
-            (ENRICHMENT_DIR / f"vol{volume}-enrichment-366-days.json").read_text(encoding="utf-8")
-        )
+        contract = json.loads((ROOT / 'source/finalization/author-voice-contract.json').read_text())
+        for record in records:
+            prose = '\n'.join([record['title'], *record['body'], record['closing'], record['prayer'], record['journal_reflect'], record['journal_act']])
+            for word in contract['disallowedAuthorWords']:
+                if re.search(rf'\b{re.escape(word)}\b', prose, re.I):
+                    raise ValueError(f'Author vocabulary rule failed: volume {volume}, day {record["day"]}')
+        enrichment = revised_enrichment(volume)
         outputs.append(str(build_devotional(volume, records).relative_to(ROOT)))
         outputs.append(str(build_journal(volume, records, enrichment).relative_to(ROOT)))
     print(json.dumps({"outputs": outputs}, indent=2))

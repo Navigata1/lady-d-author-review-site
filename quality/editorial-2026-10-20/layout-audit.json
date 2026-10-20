@@ -1,0 +1,77 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "name": "volume-1-surrendering-to-gods-love-polished-companion-journal.html",
+      "pages": 420,
+      "bad": [],
+      "monthlyImages": 12,
+      "fontsReady": true,
+      "mobileWidths": [
+        320,
+        390
+      ],
+      "errors": 0
+    },
+    {
+      "name": "volume-1-surrendering-to-gods-love-polished-devotional.html",
+      "pages": 756,
+      "bad": [],
+      "monthlyImages": 0,
+      "fontsReady": true,
+      "mobileWidths": [
+        320,
+        390
+      ],
+      "errors": 0
+    },
+    {
+      "name": "volume-2-walking-with-jesus-polished-companion-journal.html",
+      "pages": 420,
+      "bad": [],
+      "monthlyImages": 12,
+      "fontsReady": true,
+      "mobileWidths": [
+        320,
+        390
+      ],
+      "errors": 0
+    },
+    {
+      "name": "volume-2-walking-with-jesus-polished-devotional.html",
+      "pages": 756,
+      "bad": [],
+      "monthlyImages": 0,
+      "fontsReady": true,
+      "mobileWidths": [
+        320,
+        390
+      ],
+      "errors": 0
+    },
+    {
+      "name": "volume-3-filled-with-the-holy-spirit-polished-companion-journal.html",
+      "pages": 420,
+      "bad": [],
+      "monthlyImages": 12,
+      "fontsReady": true,
+      "mobileWidths": [
+        320,
+        390
+      ],
+      "errors": 0
+    },
+    {
+      "name": "volume-3-filled-with-the-holy-spirit-polished-devotional.html",
+      "pages": 756,
+      "bad": [],
+      "monthlyImages": 0,
+      "fontsReady": true,
+      "mobileWidths": [
+        320,
+        390
+      ],
+      "errors": 0
+    }
+  ]
+}

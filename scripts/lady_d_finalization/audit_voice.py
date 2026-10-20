@@ -154,4 +154,9 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    if (ROOT / 'source/finalization/author-voice-contract.json').exists():
+        # October's explicit author direction supersedes the historical title freeze.
+        from audit_editorial import main as audit_current_edition
+        audit_current_edition()
+    else:
+        sys.exit(main())

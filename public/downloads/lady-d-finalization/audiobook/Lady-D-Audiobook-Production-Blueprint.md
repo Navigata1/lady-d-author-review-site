@@ -89,8 +89,8 @@ edition after pronunciation review.
 
 | Volume | Day chunks | Estimated finished hours |
 |---|---:|---:|
-| 1 - Surrendering to God's Love | 366 | 20.95 |
-| 2 - Walking with Jesus | 366 | 21.03 |
-| 3 - Filled with the Holy Spirit | 366 | 21.0 |
+| 1 - Surrendering to God's Love | 366 | 20.98 |
+| 2 - Walking with Jesus | 366 | 21.05 |
+| 3 - Filled with the Holy Spirit | 366 | 20.98 |
 
 Estimates use 145 words per minute plus a modest fixed pause allowance. Actual human performance will vary.

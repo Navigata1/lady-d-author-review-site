@@ -1,0 +1,61 @@
+{
+  "status": "PASS",
+  "scope": "All daily authored text and Scripture presence on their expected PDF pages; punctuation fidelity is checked separately against the HTML source.",
+  "results": [
+    {
+      "pdf": "Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf",
+      "pages": 756,
+      "dailyTextChecks": 3294,
+      "printedFolioChecks": 732,
+      "printedJournalReferenceChecks": 0,
+      "ScriptureOnlyWordOccurrences": 3,
+      "sha256": "39c205aa94450dbbcca4158c81f5e0451c219ecc20714216b73b5e1578998d03"
+    },
+    {
+      "pdf": "Lady-D-Volume-1-Surrendering-to-Gods-Love-Companion-Journal-Deep-Dive-6x9.pdf",
+      "pages": 420,
+      "dailyTextChecks": 1464,
+      "printedFolioChecks": 0,
+      "printedJournalReferenceChecks": 366,
+      "ScriptureOnlyWordOccurrences": 0,
+      "sha256": "9a71cc5b1c3243379a6f937b53730288756cdf2ab19538c8e723cfbd0eea03a3"
+    },
+    {
+      "pdf": "Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf",
+      "pages": 756,
+      "dailyTextChecks": 3294,
+      "printedFolioChecks": 732,
+      "printedJournalReferenceChecks": 0,
+      "ScriptureOnlyWordOccurrences": 5,
+      "sha256": "7c66ec7bd503a635a4711ca69d802bce9c8d7ef781ea0e1fbdd6fbe4bb05ba97"
+    },
+    {
+      "pdf": "Lady-D-Volume-2-Walking-with-Jesus-Companion-Journal-Deep-Dive-6x9.pdf",
+      "pages": 420,
+      "dailyTextChecks": 1464,
+      "printedFolioChecks": 0,
+      "printedJournalReferenceChecks": 366,
+      "ScriptureOnlyWordOccurrences": 0,
+      "sha256": "af825d2b25e4619479324e76d2a744e021cefd22da2a579cc3c92a326c298ad3"
+    },
+    {
+      "pdf": "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf",
+      "pages": 756,
+      "dailyTextChecks": 3294,
+      "printedFolioChecks": 732,
+      "printedJournalReferenceChecks": 0,
+      "ScriptureOnlyWordOccurrences": 4,
+      "sha256": "77e15fb7367c5c425dfeb2261decfb5649c806e7b7f6390b4e41094bc589ab39"
+    },
+    {
+      "pdf": "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Companion-Journal-Deep-Dive-6x9.pdf",
+      "pages": 420,
+      "dailyTextChecks": 1464,
+      "printedFolioChecks": 0,
+      "printedJournalReferenceChecks": 366,
+      "ScriptureOnlyWordOccurrences": 0,
+      "sha256": "8df2d25f124da1047c0ce3493a690d23b11956b98896606cfb37aa1fb330eb4e"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,58 @@
+{
+  "files": [
+    {
+      "filename": "susan-damon-hub.html",
+      "localBackgrounds": 0,
+      "images": 7
+    },
+    {
+      "filename": "lady-d-cover-decision-deck.html",
+      "localBackgrounds": 10,
+      "images": 0
+    },
+    {
+      "filename": "lady-d-31-day-visual-journal.html",
+      "localBackgrounds": 31,
+      "images": 7
+    },
+    {
+      "filename": "downloads/lady-d-finalization/volume-1-surrendering-to-gods-love-polished-devotional.html",
+      "localBackgrounds": 0,
+      "images": 2
+    },
+    {
+      "filename": "downloads/lady-d-finalization/volume-1-surrendering-to-gods-love-polished-companion-journal.html",
+      "localBackgrounds": 0,
+      "images": 14
+    },
+    {
+      "filename": "downloads/lady-d-finalization/volume-2-walking-with-jesus-polished-devotional.html",
+      "localBackgrounds": 0,
+      "images": 2
+    },
+    {
+      "filename": "downloads/lady-d-finalization/volume-2-walking-with-jesus-polished-companion-journal.html",
+      "localBackgrounds": 0,
+      "images": 14
+    },
+    {
+      "filename": "downloads/lady-d-finalization/volume-3-filled-with-the-holy-spirit-polished-devotional.html",
+      "localBackgrounds": 0,
+      "images": 2
+    },
+    {
+      "filename": "downloads/lady-d-finalization/volume-3-filled-with-the-holy-spirit-polished-companion-journal.html",
+      "localBackgrounds": 0,
+      "images": 14
+    }
+  ],
+  "networkDependencies": [],
+  "archive": {
+    "status": "PASS",
+    "path": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/output/Lady-D-Trilogy-Web-Review-Package-2026-10-20.zip",
+    "sha256": "31a373b9f23f37069931329c3ce2e10bc2da65cd0adb1a53c8f74cc475228ad3",
+    "entries": 86,
+    "payloadIdentity": "exact-current-transformed-public-tree"
+  },
+  "status": "PASS"
+}

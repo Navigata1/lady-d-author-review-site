@@ -10,8 +10,8 @@
     "northStar": "Three Scripture-faithful devotionals in Susan 'Lady D' Damon's lived preaching voice, paired with useful journals and a luminous, coherent cover family ready for author review and KDP production.",
     "status": "in_progress",
     "started": "2026-08-30",
-    "updated": "2026-09-07",
-    "sessionCount": 3
+    "updated": "2026-10-20",
+    "sessionCount": 4
   },
   "policies": {
     "merge": "review",
@@ -465,6 +465,89 @@
           "notes": "Implementation c18d36999a36a231c259e6f5acb7ec63a60b26d8 published as dpl_8h5HfZunvRAtidcvkfR37RvpVzB2 and verified on the main public alias. Author signoff and retail print release remain separate."
         }
       ]
+    },
+    {
+      "id": "P9",
+      "title": "October Author Voice and Interior Refinement",
+      "goal": "Apply Lady D's explicit vocabulary direction, reread all 1,098 entries against her own exemplar, strengthen meaningful conclusions and journal responses, vary the interiors, and ship verified author-review editions.",
+      "status": "in_progress",
+      "sessionsEstimate": "1",
+      "gates": [
+        {
+          "id": "P9-G1",
+          "title": "Authored vocabulary and exact protected quotations pass",
+          "command": "python3 scripts/lady_d_finalization/audit_editorial.py",
+          "status": "passed",
+          "evidence": "quality/editorial-2026-10-20/editorial-audit.json",
+          "lastRun": "2026-10-20",
+          "notes": "Zero rejected author terms. 2,196 protected anchor/thread quotations retain case, punctuation, and word boundaries; twelve uses remain only in exact Bible quotations."
+        },
+        {
+          "id": "P9-G2",
+          "title": "All six book layouts and complete PDF text pass",
+          "command": "node scripts/lady_d_finalization/verify_editorial_layout.cjs && python3 scripts/lady_d_finalization/audit_editorial_pdfs.py",
+          "status": "passed",
+          "evidence": "quality/editorial-2026-10-20/layout-audit.json",
+          "lastRun": "2026-10-20",
+          "notes": "All 3,528 HTML leaves fit; six PDF daily-text audits pass 14,274 fields, 2,196 actual extracted-PDF folios and 1,098 extracted-PDF journal references. Six guard regression tests pass."
+        },
+        {
+          "id": "P9-G3",
+          "title": "Independent editorial and technical reviews resolved",
+          "command": "review-editorial-and-technical-findings",
+          "status": "passed",
+          "evidence": "quality/editorial-2026-10-20/independent-review.md",
+          "lastRun": "2026-10-20",
+          "notes": "All independent editorial and technical implementation findings closed after source-bound correction rechecks. Sampling limits remain explicit; author/theological approval is separate."
+        },
+        {
+          "id": "P9-G4",
+          "title": "Portable master and web packages validate",
+          "command": "python3 scripts/lady_d_finalization/package_editorial.py && node scripts/lady_d_finalization/verify_editorial_package.cjs",
+          "status": "passed",
+          "evidence": "quality/editorial-2026-10-20/package-audit.json",
+          "lastRun": "2026-10-20",
+          "notes": "Master: 112 manifested payloads. Web: 86 manifested payloads. CRC, current-payload identity, per-member SHA and extracted offline browser checks pass. Exact sizes and SHA-256 values are in package-audit.json."
+        },
+        {
+          "id": "P9-G5",
+          "title": "Published reader, six PDFs and ZIP match exact local bytes",
+          "command": "node scripts/lady_d_finalization/verify_editorial_release.cjs",
+          "status": "pending",
+          "evidence": "quality/editorial-2026-10-20/live-release.json",
+          "lastRun": null
+        }
+      ],
+      "tasks": [
+        {
+          "id": "P9-T1",
+          "title": "Review all daily entries and apply contextual vocabulary and substantive prose revisions",
+          "status": "done",
+          "dependsOn": [],
+          "pr": null,
+          "notes": "All 1,098 entries read; 824 entries revised. Initial substantive revisions: 63/60/54 days. Follow-up: 120 passage-specific teaching openings per volume. The actual author exemplar is unchanged."
+        },
+        {
+          "id": "P9-T2",
+          "title": "Improve all six interiors and refresh journal and narration derivatives",
+          "status": "done",
+          "dependsOn": [
+            "P9-T1"
+          ],
+          "pr": null,
+          "notes": "Twelve illustrated monthly openings and twelve distinct month-end prayers per journal; self-hosted typography, date navigation, and protected Bible quotations."
+        },
+        {
+          "id": "P9-T3",
+          "title": "Resolve independent findings, export and verify complete delivery",
+          "status": "in_progress",
+          "dependsOn": [
+            "P9-T2"
+          ],
+          "pr": null,
+          "notes": "All local editorial, six-PDF, negative-regression and current-package checks pass; production publication and exact live-byte verification pending."
+        }
+      ]
     }
   ],
   "metrics": [
@@ -516,6 +599,27 @@
       "current": "31",
       "target": "31",
       "direction": "up"
+    },
+    {
+      "label": "Rejected word uses in authored daily prose",
+      "baseline": "687",
+      "current": "0",
+      "target": "0",
+      "direction": "down"
+    },
+    {
+      "label": "Illustrated journal month openings",
+      "baseline": "0",
+      "current": "36",
+      "target": "36",
+      "direction": "up"
+    },
+    {
+      "label": "Second paragraphs beginning Notice",
+      "baseline": "1091",
+      "current": "684",
+      "target": "684",
+      "direction": "down"
     }
   ],
   "risks": [
@@ -547,15 +651,15 @@
     {
       "title": "Volume I Day 217 disclosure wording needs author review",
       "severity": "medium",
-      "note": "A separate reviewer flagged a pre-existing honesty/disclosure passage that could be misapplied in an unsafe relationship. Clarify safe, confidential support before retail release. Approved manuscript text was not silently changed. Evidence: quality/polish-2026-09-07/independent-review.md."
+      "note": "Resolved in the October authorized revision and separate editorial sample. The prose distinguishes uncomfortable repair from real danger, protects privacy, and permits safe support. Author approval of the complete books remains separate."
     }
   ],
   "prLog": [],
   "resume": {
-    "activePhase": "P7",
+    "activePhase": "P9",
     "nextActions": [
+      "Publish the October candidate and verify all six PDFs, readers, legacy ZIP redirects and the current review ZIP on the public alias.",
       "Record Susan's author-review decisions on the concise 31-day visual journal and its refreshed print proof.",
-      "Resolve the Volume I Day 217 disclosure/safety wording with Susan before retail publication.",
       "Ask Susan to review representative days from every month in all three devotionals and journals.",
       "Record Susan's ranked cover selection, then assemble exact KDP wraps after page count and paper choice are locked.",
       "Complete theological and permissions review, KDP Previewer, and a photographed physical proof.",
@@ -567,7 +671,7 @@
     ],
     "conventions": [
       "Lady D's August 3 Exodus 15:4 email is the gold voice exemplar and must remain unchanged.",
-      "Scripture text, translation labels, root/language lenses, and correlative threads are immutable during voice polish.",
+      "Scripture quotations and translation labels remain verbatim. October author direction permits contextual titles, prose, journal prompts and language-note gloss revisions, recorded in explicit overrides.",
       "Do not claim independent or cross-family review without a genuinely separate reviewer.",
       "Every generated cover candidate must be real raster art with no baked title text."
     ]
