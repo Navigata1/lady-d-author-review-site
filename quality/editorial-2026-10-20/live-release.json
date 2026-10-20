@@ -1,0 +1,209 @@
+{
+  "base": "https://lady-d-author-review-site.vercel.app",
+  "checkedAt": "2026-10-20T12:36:06.101Z",
+  "routes": [
+    {
+      "route": "/",
+      "status": 200,
+      "sha256": "b7aeba4e0b2dae8e35e5039c0b2fd9887fac64f44ae9b6b334d0067acee2c8d8"
+    },
+    {
+      "route": "/susan-damon-hub.html",
+      "status": 200,
+      "sha256": "b7aeba4e0b2dae8e35e5039c0b2fd9887fac64f44ae9b6b334d0067acee2c8d8"
+    },
+    {
+      "route": "/lady-d-finalization-review.html",
+      "status": 200,
+      "sha256": "d1672fcdd595b31fa9440a5da9ad3f0d576667bdc892bb4120a3419ccbd94be3"
+    },
+    {
+      "route": "/assets/lady-d-hub-polish.css",
+      "status": 200,
+      "sha256": "3368200b6b14aacd46ba004ef0202de82eb8b79f146ab85eb862b583b7323f68"
+    },
+    {
+      "route": "/assets/lady-d-interiors/interiors.css",
+      "status": 200,
+      "sha256": "859a1e4f655aaa85ae83d37bbaf6c048b9bf53279c9a3ed9f4d94fb97b1bed7b"
+    },
+    {
+      "route": "/assets/lady-d-interiors/interiors.js",
+      "status": 200,
+      "sha256": "46b5f27641eb254e6385851dbcd562c41aa7b7d4c04d942e7b1609b7ca97d630"
+    },
+    {
+      "route": "/assets/fonts/spectral-regular.ttf",
+      "status": 200,
+      "sha256": "c89021dc20720c8d0dcf40b0b2f6e00c13665fa8041717f581396f51b8c78f5d"
+    },
+    {
+      "route": "/assets/fonts/spectral-italic.ttf",
+      "status": 200,
+      "sha256": "7ec97244259db4008c4b1224c7914e5371c797c0044af9d85c2d761ba0e5f787"
+    },
+    {
+      "route": "/assets/fonts/spectral-semibold.ttf",
+      "status": 200,
+      "sha256": "5f86915a744832ecf6e4a17ab04bea091b9fa992ef5164ff65ae34c1da2fe94b"
+    },
+    {
+      "route": "/downloads/lady-d-finalization/volume-1-surrendering-to-gods-love-polished-devotional.html",
+      "status": 200,
+      "sha256": "6525355442d6b8d2a86375d9e260f81671d455f19c67deca06a7938b2e51684b"
+    },
+    {
+      "route": "/downloads/lady-d-finalization/volume-1-surrendering-to-gods-love-polished-companion-journal.html",
+      "status": 200,
+      "sha256": "fa3ae7d50c37e1b2c05ccc2b199d7e48d86ed65033f35cd85f6139e8e9ba1a50"
+    },
+    {
+      "route": "/downloads/lady-d-finalization/volume-2-walking-with-jesus-polished-devotional.html",
+      "status": 200,
+      "sha256": "e69cd425354f0c38baa683c622364cd153dbbd363a9862448205d4d93a7fdffb"
+    },
+    {
+      "route": "/downloads/lady-d-finalization/volume-2-walking-with-jesus-polished-companion-journal.html",
+      "status": 200,
+      "sha256": "db0b143e82ea6d7a193e224746646a27a448b12d3d26b112bba06b437658ccfe"
+    },
+    {
+      "route": "/downloads/lady-d-finalization/volume-3-filled-with-the-holy-spirit-polished-devotional.html",
+      "status": 200,
+      "sha256": "d7c8bb5c28ae0a0f978885fdec9e9f290e77dcd5a7f6cc066dfab3261bef6441"
+    },
+    {
+      "route": "/downloads/lady-d-finalization/volume-3-filled-with-the-holy-spirit-polished-companion-journal.html",
+      "status": 200,
+      "sha256": "0b308a268fc51b95accab8499457a898186933bb036e5e8306446555613f0a21"
+    },
+    {
+      "route": "/downloads/lady-d-finalization/audiobook/lady-d-volume-1-audiobook-manifest.json",
+      "status": 200,
+      "sha256": "f97fa95beb0f7691cd7f0cdc3da7f3c8ab564dcee9e8e7a2622de05d257ad462"
+    },
+    {
+      "route": "/downloads/lady-d-finalization/audiobook/lady-d-volume-2-audiobook-manifest.json",
+      "status": 200,
+      "sha256": "01c49b09d9fae1e121d180e86da4f264a0016d87b2e03bc4f005fa0b6f65d23c"
+    },
+    {
+      "route": "/downloads/lady-d-finalization/audiobook/lady-d-volume-3-audiobook-manifest.json",
+      "status": 200,
+      "sha256": "a0c026a441b09276f2f60ece1fa1237dc8c98ebb377d5cf910af8d988b48e3a0"
+    }
+  ],
+  "downloads": [
+    {
+      "filename": "Lady-D-Volume-1-Surrendering-to-Gods-Love-Polished-6x9.pdf",
+      "bytes": 14037928,
+      "sha256": "39c205aa94450dbbcca4158c81f5e0451c219ecc20714216b73b5e1578998d03"
+    },
+    {
+      "filename": "Lady-D-Volume-1-Surrendering-to-Gods-Love-Companion-Journal-Deep-Dive-6x9.pdf",
+      "bytes": 23817450,
+      "sha256": "9a71cc5b1c3243379a6f937b53730288756cdf2ab19538c8e723cfbd0eea03a3"
+    },
+    {
+      "filename": "Lady-D-Volume-2-Walking-with-Jesus-Polished-6x9.pdf",
+      "bytes": 13999482,
+      "sha256": "7c66ec7bd503a635a4711ca69d802bce9c8d7ef781ea0e1fbdd6fbe4bb05ba97"
+    },
+    {
+      "filename": "Lady-D-Volume-2-Walking-with-Jesus-Companion-Journal-Deep-Dive-6x9.pdf",
+      "bytes": 22870079,
+      "sha256": "af825d2b25e4619479324e76d2a744e021cefd22da2a579cc3c92a326c298ad3"
+    },
+    {
+      "filename": "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Polished-6x9.pdf",
+      "bytes": 14060193,
+      "sha256": "77e15fb7367c5c425dfeb2261decfb5649c806e7b7f6390b4e41094bc589ab39"
+    },
+    {
+      "filename": "Lady-D-Volume-3-Filled-with-the-Holy-Spirit-Companion-Journal-Deep-Dive-6x9.pdf",
+      "bytes": 22770335,
+      "sha256": "8df2d25f124da1047c0ce3493a690d23b11956b98896606cfb37aa1fb330eb4e"
+    },
+    {
+      "filename": "Lady-D-Trilogy-Web-Review-Package-2026-10-20.zip",
+      "bytes": 80514798,
+      "sha256": "31a373b9f23f37069931329c3ce2e10bc2da65cd0adb1a53c8f74cc475228ad3"
+    }
+  ],
+  "readers": [
+    {
+      "file": "volume-1-surrendering-to-gods-love-polished-devotional.html",
+      "dateOptions": 366,
+      "widths": [
+        390,
+        1440
+      ],
+      "monthlyImages": 0,
+      "fontsReady": true,
+      "navigation": "PASS"
+    },
+    {
+      "file": "volume-1-surrendering-to-gods-love-polished-companion-journal.html",
+      "dateOptions": 366,
+      "widths": [
+        390,
+        1440
+      ],
+      "monthlyImages": 12,
+      "fontsReady": true,
+      "navigation": "PASS"
+    },
+    {
+      "file": "volume-2-walking-with-jesus-polished-devotional.html",
+      "dateOptions": 366,
+      "widths": [
+        390,
+        1440
+      ],
+      "monthlyImages": 0,
+      "fontsReady": true,
+      "navigation": "PASS"
+    },
+    {
+      "file": "volume-2-walking-with-jesus-polished-companion-journal.html",
+      "dateOptions": 366,
+      "widths": [
+        390,
+        1440
+      ],
+      "monthlyImages": 12,
+      "fontsReady": true,
+      "navigation": "PASS"
+    },
+    {
+      "file": "volume-3-filled-with-the-holy-spirit-polished-devotional.html",
+      "dateOptions": 366,
+      "widths": [
+        390,
+        1440
+      ],
+      "monthlyImages": 0,
+      "fontsReady": true,
+      "navigation": "PASS"
+    },
+    {
+      "file": "volume-3-filled-with-the-holy-spirit-polished-companion-journal.html",
+      "dateOptions": 366,
+      "widths": [
+        390,
+        1440
+      ],
+      "monthlyImages": 12,
+      "fontsReady": true,
+      "navigation": "PASS"
+    }
+  ],
+  "archive": {
+    "status": "PASS",
+    "path": "/Users/IDC2.5/Documents/LADY D/lady-d-author-review-site/output/Lady-D-Trilogy-Web-Review-Package-2026-10-20.zip",
+    "sha256": "31a373b9f23f37069931329c3ce2e10bc2da65cd0adb1a53c8f74cc475228ad3",
+    "entries": 86,
+    "payloadIdentity": "exact-current-transformed-public-tree"
+  },
+  "status": "PASS"
+}

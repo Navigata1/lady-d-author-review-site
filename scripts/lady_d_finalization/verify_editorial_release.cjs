@@ -61,6 +61,13 @@ function publicResponse(response,route){
   await page.screenshot({path:path.join(quality,'live-hub-mobile.png')});
   for(const item of build.results){
    await page.goto(base+'/downloads/lady-d-finalization/'+item.html);await page.evaluate(()=>document.fonts.ready);
+   const monthlyImages=await page.evaluate(async()=>{
+    const images=[...document.querySelectorAll('.monthly-art')];
+    for(const image of images){image.loading='eager';await image.decode()}
+    return images.length;
+   });
+   assert.equal(monthlyImages,item.journal?12:0);
+   assert(await page.evaluate(()=>document.fonts.check('12px Spectral')));
    assert.equal(await page.locator('#reading-day option').count(),366);
    for(const width of [390,1440]){
     await page.setViewportSize({width,height:900});
@@ -69,7 +76,7 @@ function publicResponse(response,route){
     assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${item.html} overflows`);
     assert(await page.evaluate(()=>document.activeElement.id===document.querySelector('#reading-day').value));
    }
-   report.readers.push({file:item.html,dateOptions:366,widths:[390,1440],navigation:'PASS'});
+   report.readers.push({file:item.html,dateOptions:366,widths:[390,1440],monthlyImages,fontsReady:true,navigation:'PASS'});
   }
   assert.deepEqual(errors,[]);
  }finally{await browser.close()}

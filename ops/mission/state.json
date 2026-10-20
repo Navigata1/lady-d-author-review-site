@@ -470,7 +470,7 @@
       "id": "P9",
       "title": "October Author Voice and Interior Refinement",
       "goal": "Apply Lady D's explicit vocabulary direction, reread all 1,098 entries against her own exemplar, strengthen meaningful conclusions and journal responses, vary the interiors, and ship verified author-review editions.",
-      "status": "in_progress",
+      "status": "done",
       "sessionsEstimate": "1",
       "gates": [
         {
@@ -513,9 +513,10 @@
           "id": "P9-G5",
           "title": "Published reader, six PDFs and ZIP match exact local bytes",
           "command": "node scripts/lady_d_finalization/verify_editorial_release.cjs",
-          "status": "pending",
+          "status": "passed",
           "evidence": "quality/editorial-2026-10-20/live-release.json",
-          "lastRun": null
+          "lastRun": "2026-10-20T12:36:06.101Z",
+          "notes": "Canonical public site: 18 exact-byte route checks, six PDF downloads and current ZIP SHA-256 equality; six readers at 390/1440px, 36 live monthly image decodes, two legacy ZIP redirects, four private-route denials and the unchanged checkout destination. Deployment dpl_9xZwY7owLeezkSCTysS3Mbriabh9 from implementation commit 850b2659ed31ad9899222449126b718bd5280147."
         }
       ],
       "tasks": [
@@ -540,12 +541,12 @@
         {
           "id": "P9-T3",
           "title": "Resolve independent findings, export and verify complete delivery",
-          "status": "in_progress",
+          "status": "done",
           "dependsOn": [
             "P9-T2"
           ],
           "pr": null,
-          "notes": "All local editorial, six-PDF, negative-regression and current-package checks pass; production publication and exact live-byte verification pending."
+          "notes": "Published and canonical live-byte/browser verification passed. Author voice/theology, foreword contribution and retail proof gates remain external."
         }
       ]
     }
@@ -649,16 +650,17 @@
       "note": "The new concise visual journal contains 31 distinct scene renders. The older expanded motion experience remains clearly labeled as a demonstration."
     },
     {
-      "title": "Volume I Day 217 disclosure wording needs author review",
-      "severity": "medium",
+      "title": "Volume I disclosure wording clarified",
+      "severity": "low",
       "note": "Resolved in the October authorized revision and separate editorial sample. The prose distinguishes uncomfortable repair from real danger, protects privacy, and permits safe support. Author approval of the complete books remains separate."
     }
   ],
   "prLog": [],
   "resume": {
-    "activePhase": "P9",
+    "activePhase": "P7",
     "nextActions": [
-      "Publish the October candidate and verify all six PDFs, readers, legacy ZIP redirects and the current review ZIP on the public alias.",
+      "Receive Susan's review of the October vocabulary, cadence, conclusion and paired-journal revisions.",
+      "Obtain the friend's approved foreword and confirm its contributor credit before the retail interior lock.",
       "Record Susan's author-review decisions on the concise 31-day visual journal and its refreshed print proof.",
       "Ask Susan to review representative days from every month in all three devotionals and journals.",
       "Record Susan's ranked cover selection, then assemble exact KDP wraps after page count and paper choice are locked.",
